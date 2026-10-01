@@ -1,0 +1,1358 @@
+<title>Think Like a Scientist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<style>
+/* Layout: a lab logbook. Graph-paper masthead, one reading column with wide week rows; each year series carries its own ink colour; the handover is marked with a highlighter stripe. */
+:root{
+  --bg:#F2F5F6; --surface:#FFFFFF; --sunk:#E7EDEF; --ink:#13212A; --muted:#53626C; --line:#D2DBDF; --grid:rgba(23,120,158,.10);
+  --y7:#17789E; --y7-soft:#DDEFF6;
+  --y8:#9A5310; --y8-soft:#F5E6D5;
+  --y9:#76398A; --y9-soft:#EEE1F2;
+  --mark-bg:#F6DD6E; --mark-ink:#352A00;
+  --f-display:"Bricolage Grotesque","Noto Sans SC",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans","Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1519; --surface:#151F25; --sunk:#1B272E; --ink:#E3EAED; --muted:#9AAAB3; --line:#2B3B44; --grid:rgba(98,185,221,.08);
+    --y7:#62B9DD; --y7-soft:#13313E;
+    --y8:#E39B57; --y8-soft:#3A2716;
+    --y9:#C693D7; --y9-soft:#2E1F36;
+    --mark-bg:#5E4F12; --mark-ink:#FFF1BF;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1519; --surface:#151F25; --sunk:#1B272E; --ink:#E3EAED; --muted:#9AAAB3; --line:#2B3B44; --grid:rgba(98,185,221,.08);
+  --y7:#62B9DD; --y7-soft:#13313E;
+  --y8:#E39B57; --y8-soft:#3A2716;
+  --y9:#C693D7; --y9-soft:#2E1F36;
+  --mark-bg:#5E4F12; --mark-ink:#FFF1BF;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:1rem;line-height:1.6;-webkit-font-smoothing:antialiased}
+.y7{--c:var(--y7);--c-soft:var(--y7-soft)}
+.y8{--c:var(--y8);--c-soft:var(--y8-soft)}
+.y9{--c:var(--y9);--c-soft:var(--y9-soft)}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
+h1,h2,h3,h4{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.15}
+h2{font-size:clamp(1.6rem,3.2vw,2.15rem);font-weight:700;letter-spacing:-.01em}
+h3{font-size:1.28rem;font-weight:700}
+h4{font-size:1.06rem;font-weight:700}
+p{margin:0}
+.zh{font-family:var(--f-body);font-weight:500}
+.mono{font-family:var(--f-mono)}
+.muted{color:var(--muted)}
+a{color:inherit}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--y7);outline-offset:3px;border-radius:3px}
+strong{font-weight:600}
+
+/* Masthead */
+.masthead{background-color:var(--surface);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;border-bottom:1px solid var(--line)}
+.masthead .wrap{padding-block:clamp(36px,7vw,72px) clamp(28px,5vw,48px);display:grid;gap:22px}
+.kicker{font-family:var(--f-mono);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.masthead h1{font-size:clamp(2.5rem,7vw,4.6rem);font-weight:800;letter-spacing:-.025em;line-height:1}
+.masthead h1 .zh{display:block;font-size:.42em;font-weight:500;letter-spacing:.02em;margin-top:.5em;color:var(--muted)}
+.masthead .lede{max-width:62ch;font-size:1.1rem}
+.status{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-family:var(--f-mono);font-size:.8rem}
+.status span{border:1px solid var(--line);background:var(--surface);padding:4px 10px;border-radius:999px}
+.status .hl{background:var(--mark-bg);color:var(--mark-ink);border-color:transparent}
+.series-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:6px}
+.series-pill{display:flex;flex-direction:column;gap:2px;padding:12px 14px;border:1px solid var(--line);background:var(--surface);border-radius:8px;text-decoration:none}
+.series-pill:hover{border-color:var(--c)}
+.series-pill .yr{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.series-pill b{font-family:var(--f-display);font-size:1.15rem;font-weight:700}
+.series-pill .zh{font-size:.9rem;color:var(--muted)}
+@media (max-width:640px){.series-row{grid-template-columns:1fr}}
+
+/* Nav */
+.toc{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.toc .wrap{overflow-x:auto;scrollbar-width:none}
+.toc ul{display:flex;gap:4px;list-style:none;margin:0;padding:8px 0;white-space:nowrap}
+.toc a{display:block;text-decoration:none;font-size:.86rem;padding:6px 10px;border-radius:6px;color:var(--muted)}
+.toc a:hover{background:var(--sunk);color:var(--ink)}
+
+/* Sections */
+main{display:grid;gap:0}
+.sec{padding-block:clamp(40px,6vw,72px);border-bottom:1px solid var(--line)}
+.sec .wrap{display:grid;gap:28px}
+.sec-head{display:grid;gap:10px;max-width:72ch}
+.eyebrow{font-family:var(--f-mono);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.sec-head .lede{font-size:1.06rem;color:var(--muted)}
+.block{display:grid;gap:14px}
+.block > h3{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.prose{max-width:68ch;display:grid;gap:10px}
+
+/* Tables */
+.tw{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+tr:last-child td{border-bottom:0}
+thead th{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;font-weight:500;color:var(--muted);background:var(--sunk)}
+tbody th{font-weight:600}
+td.num,th.num{font-variant-numeric:tabular-nums}
+.t-wide{min-width:760px}
+.t-mid{min-width:600px}
+
+/* Purpose */
+.purpose{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.purpose article{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px 20px;display:grid;gap:8px;align-content:start}
+.purpose .lang{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.purpose p.zhp{font-family:var(--f-body);line-height:1.85}
+.note{font-size:.86rem;color:var(--muted);font-style:italic}
+@media (max-width:760px){.purpose{grid-template-columns:1fr}}
+.principles{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.principles div{border-top:2px solid var(--ink);padding-top:10px;display:grid;gap:4px}
+.principles b{font-family:var(--f-display);font-size:1.02rem}
+.principles p{font-size:.92rem;color:var(--muted)}
+
+/* Calendar */
+.cal{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));min-width:720px;gap:0}
+.cal div{padding:10px 8px;border-right:1px solid var(--line);display:grid;gap:3px;font-size:.84rem}
+.cal div:last-child{border-right:0}
+.cal .w{font-family:var(--f-mono);font-weight:500;font-size:.8rem}
+.cal .d{color:var(--muted);font-variant-numeric:tabular-nums}
+.cal .p{font-size:.76rem;font-family:var(--f-mono);text-transform:uppercase;letter-spacing:.04em}
+.cal .hand{border-left:4px solid var(--mark-bg)}
+.cal .new{background:var(--sunk)}
+
+/* Series overview cards */
+.trio{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.trio article{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden;display:grid;grid-template-rows:auto 1fr}
+.trio header{background:var(--c-soft);padding:14px 16px;display:grid;gap:2px}
+.trio header .yr{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.trio header h3{font-size:1.25rem}
+.trio header .zh{color:var(--muted);font-size:.92rem}
+.trio dl{margin:0;padding:14px 16px;display:grid;gap:10px}
+.trio dt{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.trio dd{margin:0;font-size:.92rem}
+@media (max-width:860px){.trio{grid-template-columns:1fr}}
+
+/* Year header */
+.year-head{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:24px;align-items:start}
+.year-head .tag{display:inline-flex;gap:8px;align-items:center;font-family:var(--f-mono);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--c)}
+.year-head .tag i{display:inline-block;width:10px;height:10px;border-radius:2px;background:var(--c)}
+.year-head h2 .zh{display:block;font-size:.6em;color:var(--muted);margin-top:6px}
+.facts{display:grid;gap:10px;background:var(--c-soft);border-radius:8px;padding:16px 18px}
+.facts div{display:grid;gap:2px}
+.facts dt{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.facts dd{margin:0;font-weight:500}
+.rec{display:inline-block;font-family:var(--f-mono);font-size:.72rem;letter-spacing:.05em;text-transform:uppercase;padding:3px 8px;border-radius:4px;background:var(--c);color:var(--surface);vertical-align:middle}
+@media (max-width:800px){.year-head{grid-template-columns:1fr}}
+.story{border-left:3px solid var(--c);padding:4px 0 4px 18px;max-width:72ch;display:grid;gap:8px}
+.story b{font-family:var(--f-display)}
+
+/* Week rows */
+.weeks{display:grid;border:1px solid var(--line);border-radius:8px;background:var(--surface);overflow:hidden}
+.wk{display:grid;grid-template-columns:3.4rem minmax(0,1fr) minmax(0,17rem);gap:0 18px;padding:16px 18px 16px 0;border-bottom:1px solid var(--line)}
+.wk:last-child{border-bottom:0}
+.wk-n{font-family:var(--f-mono);font-weight:500;font-size:1.05rem;color:var(--c);text-align:right;padding-top:1px;font-variant-numeric:tabular-nums}
+.wk-main{display:grid;gap:6px;min-width:0}
+.wk-main h4 .zh{font-size:.9rem;color:var(--muted);margin-left:6px;font-weight:500}
+.focus{font-family:var(--f-mono);font-size:.78rem;color:var(--c);letter-spacing:.02em}
+.wk-main p.act{font-size:.93rem}
+.wk-side{display:grid;gap:8px;align-content:start;font-size:.86rem;min-width:0}
+.wk-side dt{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.wk-side dd{margin:0}
+.wk-side dl{margin:0;display:grid;gap:8px}
+.chip{display:inline-block;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:4px;border:1px solid var(--c);color:var(--c);margin-left:6px;vertical-align:2px}
+.chip.solid{background:var(--c);color:var(--surface)}
+.handover{background:var(--mark-bg);color:var(--mark-ink);font-family:var(--f-mono);font-size:.8rem;letter-spacing:.04em;padding:9px 18px 9px calc(3.4rem + 18px);border-bottom:1px solid var(--line)}
+.handover b{font-weight:500;text-transform:uppercase;letter-spacing:.08em}
+@media (max-width:760px){
+  .wk{grid-template-columns:2.4rem minmax(0,1fr);gap:10px 12px;padding-right:14px}
+  .wk-side{grid-column:2}
+  .handover{padding-left:14px}
+}
+
+/* Detail panels */
+.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px 20px;display:grid;gap:10px;align-content:start}
+.panel h4{font-size:1rem}
+.panel ul,.panel ol{margin:0;padding-left:1.2em;display:grid;gap:6px;font-size:.92rem}
+.panel.warn{border-color:var(--c)}
+@media (max-width:760px){.detail-grid{grid-template-columns:1fr}}
+
+/* Alternatives */
+.alts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.alt{border:1px dashed var(--line);border-radius:8px;padding:18px 20px;display:grid;gap:10px;align-content:start;background:transparent}
+.alt .opt{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.alt h4 .zh{font-size:.9rem;color:var(--muted);margin-left:6px;font-weight:500}
+.alt ul{margin:0;padding-left:1.2em;display:grid;gap:5px;font-size:.9rem}
+.alt .dep{font-size:.86rem;color:var(--muted)}
+@media (max-width:760px){.alts{grid-template-columns:1fr}}
+
+/* Claim bank */
+.claims{columns:2 300px;column-gap:28px;margin:0;padding-left:1.4em;font-size:.93rem}
+.claims li{break-inside:avoid;margin-bottom:8px}
+.claims li span{color:var(--muted)}
+.verdicts{display:flex;flex-wrap:wrap;gap:8px}
+.verdicts span{border:1px solid var(--c);border-radius:999px;padding:4px 12px;font-size:.88rem}
+
+/* Lesson bar */
+.lbar{display:flex;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:var(--surface)}
+.lbar div{padding:12px 10px;border-right:1px solid var(--line);display:grid;gap:2px;min-width:0}
+.lbar div:last-child{border-right:0}
+.lbar b{font-family:var(--f-display);font-size:.98rem}
+.lbar .zh{font-size:.8rem;color:var(--muted)}
+.lbar .m{font-family:var(--f-mono);font-size:.76rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.lbar .do{background:var(--sunk)}
+@media (max-width:700px){.lbar{flex-direction:column}.lbar div{flex:none !important;border-right:0;border-bottom:1px solid var(--line);grid-template-columns:1fr auto;align-items:baseline}.lbar div:last-child{border-bottom:0}}
+
+/* Mock sheet and slide */
+.mocks{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:24px;align-items:start}
+@media (max-width:900px){.mocks{grid-template-columns:1fr}}
+.mock-label{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.sheet{background:#FFFFFF;color:#16212A;border:1px solid var(--line);border-radius:4px;padding:22px 22px 0;box-shadow:0 1px 0 var(--line),0 10px 24px -14px rgba(0,0,0,.25);display:grid;gap:14px;font-size:.88rem;max-width:560px}
+.sheet .sh-head{display:flex;justify-content:space-between;gap:10px;border-bottom:2px solid #16212A;padding-bottom:8px;flex-wrap:wrap}
+.sheet .sh-head b{font-family:var(--f-display);font-size:1.1rem}
+.sheet .sh-head small{font-family:var(--f-mono);font-size:.7rem;color:#55646E}
+.sheet .fields{font-family:var(--f-mono);font-size:.7rem;color:#55646E;display:flex;gap:16px;flex-wrap:wrap}
+.sheet .vocab{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 14px;border:1.5px solid #16212A;border-radius:4px;padding:8px 10px;font-size:.8rem}
+.sheet .vocab div{display:flex;justify-content:space-between;gap:8px;border-bottom:1px dotted #9AA8B1;padding-block:2px}
+.sheet .tier{display:grid;gap:6px}
+.sheet .tier h5{margin:0;font-family:var(--f-display);font-size:.92rem;display:flex;align-items:center;gap:8px}
+.dots{display:inline-flex;gap:3px}
+.dots i{width:8px;height:8px;border-radius:50%;border:1.5px solid #16212A;display:inline-block}
+.dots i.f{background:#16212A}
+.blank{display:inline-block;min-width:4.2em;border-bottom:1.5px solid #16212A;height:1em;vertical-align:-2px}
+.lines{height:34px;background-image:linear-gradient(#C7D0D5 1px,transparent 1px);background-size:100% 17px}
+.think{border:1.5px dashed #16212A;border-radius:6px;padding:8px 10px;display:grid;gap:4px}
+.think small{font-family:var(--f-mono);font-size:.68rem;color:#55646E}
+.fold{border-top:1.5px dashed #9AA8B1;margin:0 -22px;padding:8px 22px 14px;background:#F3F5F6;display:grid;gap:4px;font-size:.8rem}
+.fold small{font-family:var(--f-mono);font-size:.66rem;color:#55646E;letter-spacing:.04em;text-transform:uppercase}
+.slide{aspect-ratio:16/9;max-width:100%;background:#0F3346;color:#F2F8FB;border-radius:6px;display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);overflow:hidden;box-shadow:0 10px 24px -14px rgba(0,0,0,.4)}
+.slide .s-main{padding:6% 6%;display:grid;align-content:space-between;gap:8px;background-image:linear-gradient(rgba(255,255,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.06) 1px,transparent 1px);background-size:22px 22px}
+.slide .phase{font-family:var(--f-mono);font-size:clamp(.55rem,1.4vw,.72rem);letter-spacing:.08em;text-transform:uppercase;background:#F6DD6E;color:#352A00;padding:3px 8px;border-radius:3px;justify-self:start}
+.slide h5{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(1rem,3vw,1.75rem);line-height:1.1}
+.slide h5 span{display:block;font-family:var(--f-body);font-weight:500;font-size:.6em;opacity:.8;margin-top:6px}
+.slide .fact{font-size:clamp(.58rem,1.4vw,.78rem);opacity:.85;border-top:1px solid rgba(255,255,255,.25);padding-top:6px}
+.slide .s-vocab{background:#E8F3F8;color:#0F3346;padding:7% 8%;display:grid;align-content:start;gap:4px;font-size:clamp(.55rem,1.35vw,.78rem)}
+.slide .s-vocab b{font-family:var(--f-mono);font-size:.85em;letter-spacing:.06em;text-transform:uppercase;margin-bottom:4px}
+.slide .s-vocab div{display:flex;justify-content:space-between;gap:6px;border-bottom:1px solid rgba(15,51,70,.18);padding-block:2px}
+.mock-notes{margin-top:12px;font-size:.88rem;color:var(--muted);display:grid;gap:4px}
+
+/* Glossary grid */
+.gloss{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.gloss .tw table{font-size:.86rem}
+.gloss h4{margin-bottom:8px;color:var(--c)}
+@media (max-width:960px){.gloss{grid-template-columns:1fr}}
+
+/* Rubric */
+.levels{display:flex;flex-wrap:wrap;gap:8px;font-family:var(--f-mono);font-size:.78rem}
+.levels span{padding:4px 10px;border-radius:4px;background:var(--sunk)}
+.callout{background:var(--mark-bg);color:var(--mark-ink);border-radius:8px;padding:14px 18px;max-width:72ch;font-size:.95rem}
+
+/* Lists */
+.cols2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+@media (max-width:760px){.cols2{grid-template-columns:1fr}}
+.tree{font-family:var(--f-mono);font-size:.8rem;line-height:1.55;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px;overflow-x:auto;margin:0;white-space:pre}
+.decide{counter-reset:d;list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.decide li{counter-increment:d;display:grid;grid-template-columns:2rem minmax(0,1fr);gap:10px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.decide li::before{content:counter(d);font-family:var(--f-mono);font-weight:500;width:1.7rem;height:1.7rem;border-radius:4px;background:var(--mark-bg);color:var(--mark-ink);display:grid;place-items:center;font-size:.85rem}
+.build{margin:0;padding-left:1.3em;display:grid;gap:8px;max-width:72ch}
+footer{padding-block:32px 48px;font-size:.84rem;color:var(--muted)}
+</style>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="kicker">Science enrichment programme · Bilingual domestic stream · Years 7 to 9</p>
+    <h1>Think Like a Scientist<span class="zh">像科学家一样思考</span></h1>
+    <p class="lede">A ten-week, project-based series for each year group, built to spark interest in science, train scientific and critical thinking, and work with very little equipment. This outline sets the direction before lesson plans and resources go to design.</p>
+    <div class="status"><span class="hl">Outline v0.1 · for review</span><span>1 October 2026</span><span>Handover to incoming teacher at Week 6</span></div>
+    <div class="series-row">
+      <a class="series-pill y7" href="#year7"><span class="yr">Year 7</span><b>Ice Engineers</b><span class="zh">冰雪工程师</span></a>
+      <a class="series-pill y8" href="#year8"><span class="yr">Year 8 · recommended</span><b>Science Detectives</b><span class="zh">科学侦探</span></a>
+      <a class="series-pill y9" href="#year9"><span class="yr">Year 9 · recommended</span><b>Claim Busters</b><span class="zh">真相调查员</span></a>
+    </div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Sections">
+  <div class="wrap">
+    <ul>
+      <li><a href="#purpose">Purpose</a></li>
+      <li><a href="#assumptions">Assumptions</a></li>
+      <li><a href="#glance">At a glance</a></li>
+      <li><a href="#year7">Year 7</a></li>
+      <li><a href="#year8">Year 8</a></li>
+      <li><a href="#year9">Year 9</a></li>
+      <li><a href="#lessons">Lessons</a></li>
+      <li><a href="#language">Language</a></li>
+      <li><a href="#assessment">Assessment</a></li>
+      <li><a href="#handover">Handover</a></li>
+      <li><a href="#kit">Kit</a></li>
+      <li><a href="#sources">Exploring Science</a></li>
+      <li><a href="#design">Design brief</a></li>
+      <li><a href="#next">Next steps</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+
+<!-- 1 PURPOSE -->
+<section class="sec" id="purpose">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">1 · Purpose and principles</p>
+      <h2>Enrichment for its own sake</h2>
+      <p class="lede">No national curriculum link and no exam focus. The aim is curiosity, thinking, and confidence with scientific English.</p>
+    </div>
+    <div class="purpose">
+      <article>
+        <span class="lang">Purpose statement · English</span>
+        <p>Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in the bilingual stream. It sits outside the national curriculum and has no exam focus. Students work on hands-on projects that build curiosity, scientific thinking and critical thinking, and grow their confidence in using scientific English. Each series ends with a project that students plan, carry out and present.</p>
+      </article>
+      <article>
+        <span class="lang">Purpose statement · 中文</span>
+        <p class="zhp">“像科学家一样思考”是为双语部七至九年级学生开设的为期十周的科学拓展课程。本课程独立于国家课程体系，不以考试为目的。学生通过动手实践的项目式学习，培养好奇心、科学思维和批判性思维，并增强使用英语进行科学表达的信心。每个系列都以学生自主设计、实施并展示的项目作为结束。</p>
+        <p class="note">To be checked by a native-speaking colleague before sharing.</p>
+      </article>
+    </div>
+    <div class="principles">
+      <div><b>Project-based arc</b><p>Weeks 1 to 5 build thinking skills through short, fun tasks. Weeks 6 to 10 put them to work on one project students plan and own.</p></div>
+      <div><b>Low floor, high ceiling</b><p>Every task has a way in for students with less English and a way up for those ready to go further. Scaffolds support; they never cap.</p></div>
+      <div><b>Bilingual by design</b><p>Key vocabulary always in English and Chinese. Instructions in English with key words glossed. Safety instructions in full in both languages.</p></div>
+      <div><b>Kitchen-cupboard kit</b><p>Every practical uses cheap, everyday materials. Nothing depends on specialist equipment.</p></div>
+      <div><b>Same lesson shape every week</b><p>Six phases, same order, same icons. Students know what comes next, and any teacher can pick up any lesson.</p></div>
+      <div><b>Winter thread</b><p>Ice structures (Y7), a frozen-notebook mystery (Y8), and winter claims such as "Does hot water freeze faster?" (Y9).</p></div>
+      <div><b>Handover-ready</b><p>Week 5 is a checkpoint that produces data for the incoming teacher. Every lesson has a one-page plan, kit card and answer key.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 2 ASSUMPTIONS -->
+<section class="sec" id="assumptions">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">2 · Working assumptions</p>
+      <h2>What this outline assumes</h2>
+      <p class="lede">Each of these needs a quick confirm. None of them blocks the design; they change quantities and timings.</p>
+    </div>
+    <div class="tw">
+      <table class="t-mid">
+        <thead><tr><th>Item</th><th>Assumption</th><th>Why it matters</th></tr></thead>
+        <tbody>
+          <tr><th>Frequency and length</th><td>One session per week, 60 minutes</td><td>Every plan also includes a 40 to 45 minute version</td></tr>
+          <tr><th>Classes</th><td>Y7, Y8, Y9 taught separately; up to 24 students; groups of 3 or 4</td><td>Kit quantities and group roles are based on 6 groups</td></tr>
+          <tr><th>Start date</th><td>Week commencing 12 October 2026, after the National Day holiday</td><td>Puts the handover at the Week 5 / 6 boundary and the ice project in late November</td></tr>
+          <tr><th>Incoming teacher</th><td>Arrives around 5 to 12 November (Week 4 or 5)</td><td>Can observe Week 5 and lead from Week 6</td></tr>
+          <tr><th>Freezer</th><td>Access to a canteen, boarding or staff-room freezer for Y7 Weeks 6 to 8 and Y9 Week 6</td><td>Y7 project samples need at least 24 hours to freeze</td></tr>
+          <tr><th>Printing</th><td>A4, black and white</td><td>All resources designed to work in greyscale</td></tr>
+          <tr><th>Devices</th><td>No student devices; one teacher screen or projector</td><td>Nothing depends on phones or tablets</td></tr>
+          <tr><th>Language</th><td>Mandarin first language; English second language, mixed proficiency</td><td>Shapes the scaffolding in every resource</td></tr>
+          <tr><th>Prior experience</th><td>First year of the programme, so Y8 and Y9 have not done the Y7 series</td><td>Y8 and Y9 Weeks 1 to 3 re-teach observation, variables and fair testing through their own theme</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="block">
+      <h3>Indicative calendar <span class="muted mono" style="font-size:.78rem;font-weight:400">confirm against the school calendar</span></h3>
+      <div class="tw">
+        <div class="cal">
+          <div><span class="w">W1</span><span class="d">12 Oct</span><span class="p">Skills</span></div>
+          <div><span class="w">W2</span><span class="d">19 Oct</span><span class="p">Skills</span></div>
+          <div><span class="w">W3</span><span class="d">26 Oct</span><span class="p">Skills</span></div>
+          <div><span class="w">W4</span><span class="d">2 Nov</span><span class="p">Skills</span></div>
+          <div><span class="w">W5</span><span class="d">9 Nov</span><span class="p">Checkpoint</span></div>
+          <div class="hand new"><span class="w">W6</span><span class="d">16 Nov</span><span class="p">Project · new teacher</span></div>
+          <div class="new"><span class="w">W7</span><span class="d">23 Nov</span><span class="p">Project</span></div>
+          <div class="new"><span class="w">W8</span><span class="d">30 Nov</span><span class="p">Project</span></div>
+          <div class="new"><span class="w">W9</span><span class="d">7 Dec</span><span class="p">Project</span></div>
+          <div class="new"><span class="w">W10</span><span class="d">14 Dec</span><span class="p">Assessment</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 3 AT A GLANCE -->
+<section class="sec" id="glance">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">3 · The three series at a glance</p>
+      <h2>One programme, three projects</h2>
+      <p class="lede">Each year has its own story and project. The thinking skills climb from fair testing in Year 7 to judging evidence in Year 8 and testing claims in Year 9.</p>
+    </div>
+    <div class="trio">
+      <article class="y7">
+        <header><span class="yr">Year 7</span><h3>Ice Engineers</h3><span class="zh">冰雪工程师</span></header>
+        <dl>
+          <div><dt>Big question</dt><dd>How do scientists find things out?</dd></div>
+          <div><dt>Weeks 1 to 5</dt><dd>Thought experiments, paper spinners, measuring and graphing</dd></div>
+          <div><dt>Project</dt><dd>Can we make ice stronger? Fibre-reinforced ice ("pykrete")</dd></div>
+          <div><dt>Final product</dt><dd>Investigation poster and 2-minute talk at the Ice Engineers Expo</dd></div>
+        </dl>
+      </article>
+      <article class="y8">
+        <header><span class="yr">Year 8 · recommended</span><h3>Science Detectives</h3><span class="zh">科学侦探</span></header>
+        <dl>
+          <div><dt>Big question</dt><dd>How strong is the evidence?</dd></div>
+          <div><dt>Weeks 1 to 5</dt><dd>Fingerprints, ink chromatography, mystery powders, cabbage indicator</dd></div>
+          <div><dt>Project</dt><dd>Solve the Frozen Notebook case and design your own forensic test</dd></div>
+          <div><dt>Final product</dt><dd>Case file and expert witness statement at the Court of Science</dd></div>
+        </dl>
+      </article>
+      <article class="y9">
+        <header><span class="yr">Year 9 · recommended</span><h3>Claim Busters</h3><span class="zh">真相调查员</span></header>
+        <dl>
+          <div><dt>Big question</dt><dd>Should I believe it?</dd></div>
+          <div><dt>Weeks 1 to 5</dt><dd>Bias tasks, reaction-time tests, correlation, a placebo trial</dd></div>
+          <div><dt>Project</dt><dd>Test a real-world claim and reach an honest verdict</dd></div>
+          <div><dt>Final product</dt><dd>Peer-reviewed fact-check report at the Claim Busters Conference</dd></div>
+        </dl>
+      </article>
+    </div>
+    <div class="block">
+      <h3>Skills progression</h3>
+      <div class="tw">
+        <table class="t-wide">
+          <thead><tr><th>Skill strand</th><th>Year 7</th><th>Year 8</th><th>Year 9</th></tr></thead>
+          <tbody>
+            <tr><th>Questioning</th><td>Turns a curious question into a testable one</td><td>Asks what evidence would tell suspects apart</td><td>Turns a claim into a testable question with a clear measure</td></tr>
+            <tr><th>Planning</th><td>Names IV, DV and controls; plans a fair test with help</td><td>Uses reference samples (controls) to make fair comparisons</td><td>Chooses sample size, controls and ethics; anticipates bias</td></tr>
+            <tr><th>Doing and recording</th><td>Measures with correct units; records in a table; repeats</td><td>Records systematically in results grids; tests every sample the same way</td><td>Collects data from people and objects; records with uncertainty in mind</td></tr>
+            <tr><th>Analysing</th><td>Bar chart or line graph; "As ___ increases, ___"</td><td>Matches evidence to references; scatter graphs</td><td>Mean and range; correlation vs causation; spots misleading graphs</td></tr>
+            <tr><th>Evaluating</th><td>Spots one problem and suggests an improvement</td><td>Ranks evidence as strong, supporting or weak; spots contamination</td><td>Weighs confidence; considers other explanations; peer reviews</td></tr>
+            <tr><th>Communicating</th><td>Poster and short talk with frames</td><td>Written case file and spoken expert evidence</td><td>Report and conference talk with questions from the floor</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 4 YEAR 7 -->
+<section class="sec y7" id="year7">
+  <div class="wrap">
+    <div class="year-head">
+      <div class="sec-head">
+        <span class="tag"><i></i>4 · Year 7</span>
+        <h2>Ice Engineers<span class="zh">冰雪工程师</span></h2>
+        <p class="lede">From thought experiments and vocabulary to a practical students design themselves, using the arrival of winter as the stage.</p>
+      </div>
+      <dl class="facts">
+        <div><dt>Big question</dt><dd>How do scientists find things out?</dd></div>
+        <div><dt>Project question</dt><dd>Can we make ice stronger?</dd></div>
+        <div><dt>End product</dt><dd>Investigation poster and 2-minute talk at the Ice Engineers Expo</dd></div>
+      </dl>
+    </div>
+
+    <div class="story">
+      <b>The story hook</b>
+      <p>During the Second World War, steel was in short supply. The inventor Geoffrey Pyke proposed building giant ships out of ice. His team found that ice mixed with about 14% sawdust, later called "pykrete", was much stronger than plain ice and melted more slowly. A small prototype was built on a lake in Canada in 1943. Legend has it that when the material was shown to military leaders, a bullet fired at a block of it bounced off.</p>
+      <p>Local links: the giant ice buildings at the Harbin Ice and Snow Festival, and the traditional use of straw in mud bricks. In both cases, fibres make a brittle material stronger.</p>
+    </div>
+
+    <div class="weeks">
+      <article class="wk"><div class="wk-n">01</div>
+        <div class="wk-main"><h4>What do scientists do?<span class="zh">科学家做什么？</span></h4><p class="focus">Observation vs inference</p>
+          <p class="act"><strong>Footprint puzzle:</strong> a printed picture of animal tracks is revealed in three stages; students write observations, then inferences, and change their story as new evidence appears. <strong>Mystery cups:</strong> sealed cups with an object inside; students shake, listen, weigh in the hand and infer the contents. The cups stay closed, because scientists often cannot "open the box".</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed puzzle cards; opaque cups, tape, small objects</dd></div><div><dt>Output</dt><dd>Baseline skills check; interest survey; logbook started</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">02</div>
+        <div class="wk-main"><h4>Thought experiments<span class="zh">思想实验</span></h4><p class="focus">Testable questions; predictions with reasons</p>
+          <p class="act"><strong>Galileo's thought experiment:</strong> if heavy things fall faster, what happens when a heavy and a light ball are tied together? Then a quick test: drop a book and a sheet of paper, then the paper resting on the book. <strong>Question sort:</strong> testable or not testable. Students write three testable questions about winter, such as "Does salt make ice melt faster?"</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Paper, a book, printed question cards</dd></div><div><dt>Output</dt><dd>Question sort; three testable questions</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">03</div>
+        <div class="wk-main"><h4>Meet the variables<span class="zh">认识变量</span></h4><p class="focus">Independent, dependent and control variables; fair test</p>
+          <p class="act"><strong>Paper spinners:</strong> make spinners from a printed template, change the wing length, time the fall from a 2 m mark. "I change / I measure / I keep the same."</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Spinner template, scissors, paper clips, stopwatches, metre stick</dd></div><div><dt>Output</dt><dd>Variables table; first results</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">04</div>
+        <div class="wk-main"><h4>Measure it well<span class="zh">学会准确测量</span></h4><p class="focus">Units, repeats, mean, anomalies</p>
+          <p class="act"><strong>Spinners part 2:</strong> three repeats per wing length; work out the mean; find and discuss the anomaly; why do timings differ?</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>As Week 3</dd></div><div><dt>Output</dt><dd>Results table with means</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">05</div>
+        <div class="wk-main"><h4>Spot the pattern<span class="zh">发现规律</span><span class="chip">Checkpoint</span></h4><p class="focus">Choosing and drawing graphs; writing a conclusion</p>
+          <p class="act">Plot the spinner data; decide between a bar chart and a line graph; write a conclusion with the frame "As the ___ increases, the ___ ___." <strong>15-minute checkpoint quiz.</strong></p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed graph paper</dd></div><div><dt>Output</dt><dd>Graph and conclusion; checkpoint score in tracker</dd></div></dl></div></article>
+      <div class="handover"><b>Handover</b> · incoming teacher leads from Week 6</div>
+      <article class="wk"><div class="wk-n">06</div>
+        <div class="wk-main"><h4>Ice cube rescue<span class="zh">冰块保卫战</span></h4><p class="focus">Planning a fair test with ice</p>
+          <p class="act"><strong>Concept cartoon:</strong> "If we put a coat on a snowman, will it melt faster or slower?" Then the <strong>ice cube keeper challenge:</strong> wrap identical ice cubes in different materials and measure the meltwater after 30 minutes. It rehearses the exact skills the project needs.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Ice cubes, cups, newspaper, foil, fabric, cotton wool, bubble wrap, measuring cylinder or kitchen scale, trays</dd></div><div><dt>Output</dt><dd>Mini fair-test write-up</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">07</div>
+        <div class="wk-main"><h4>The ice ship mission<span class="zh">冰船计划</span></h4><p class="focus">Planning their own investigation</p>
+          <p class="act">Pykrete story hook. Groups choose an independent variable (type of fibre, or amount of sawdust) and a test (strength or melting). They complete a planning frame and risk assessment, then <strong>make samples</strong> in identical moulds and label them for the freezer.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Moulds, untreated sawdust, tissue, cotton wool, shredded paper, water, measuring jug, labels, freezer</dd></div><div><dt>Output</dt><dd>Plan sheet; labelled samples</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">08</div>
+        <div class="wk-main"><h4>Test day<span class="zh">测试日</span></h4><p class="focus">Carrying out a test carefully; recording</p>
+          <p class="act"><strong>Strength test:</strong> rest the ice beam across two equal stacks of books with a fixed gap, hang a plastic bag from the middle, and pour in water 50 ml at a time until the beam snaps. 1 ml of water has a mass of about 1 g, so no masses are needed. <strong>Melting test:</strong> time how long each sample takes to melt, or measure the meltwater every 5 minutes.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Samples, books, string, plastic bags, measuring jug, catch trays, towels, gloves</dd></div><div><dt>Output</dt><dd>Raw results, at least 3 repeats per sample type</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">09</div>
+        <div class="wk-main"><h4>What does it mean?<span class="zh">数据说明了什么？</span></h4><p class="focus">Analysing and evaluating</p>
+          <p class="act">Pool class data. Choose the right graph: a bar chart for fibre type, a line graph for amount of sawdust. Write a Claim-Evidence-Reasoning conclusion. Evaluate what went wrong and how to improve. Build the poster.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>A3 poster template, printed results</dd></div><div><dt>Output</dt><dd>Draft poster</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">10</div>
+        <div class="wk-main"><h4>Ice Engineers Expo<span class="zh">冰雪工程师成果展</span><span class="chip solid">Assessment</span></h4><p class="focus">Communicating</p>
+          <p class="act">Gallery walk of posters. Each group gives a 2-minute talk and answers one question; peer feedback as "two stars and a wish". Final skills check and interest survey. Certificates.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Posters, sticky notes</dd></div><div><dt>Output</dt><dd>Poster and talk (rubric), final skills check, survey</dd></div></dl></div></article>
+    </div>
+
+    <div class="detail-grid">
+      <div class="panel">
+        <h4>Making and testing the ice samples</h4>
+        <ul>
+          <li><strong>Moulds:</strong> ice-lolly moulds, ice-cube trays, or 250 ml drink cartons cut in half lengthways. Use the same mould for every sample.</li>
+          <li><strong>Fixed recipe:</strong> the same volume of water each time (for example 100 ml). Only the fibre changes.</li>
+          <li><strong>Independent variable, option 1:</strong> type of fibre: none, sawdust, tissue, cotton wool, shredded paper.</li>
+          <li><strong>Independent variable, option 2:</strong> amount of sawdust: 0, 5, 10, 15 g per 100 ml of water.</li>
+          <li><strong>Dependent variable:</strong> strength (ml of water held before snapping) or melting (time to melt, or meltwater after a set time).</li>
+          <li><strong>Timing:</strong> make in Week 7, freeze for at least 24 hours, test in Week 8. Book freezer space in Week 4.</li>
+          <li><strong>Repeats:</strong> three samples of each type per group.</li>
+        </ul>
+      </div>
+      <div class="panel warn">
+        <h4>Safety notes</h4>
+        <ul>
+          <li>Untreated natural wood sawdust or pet-bedding wood shavings only. <strong>Never MDF dust</strong>, which contains resin glues. Keep sawdust damp.</li>
+          <li>Gloves for handling ice for more than a minute.</li>
+          <li>Catch trays under every strength test; feet clear of hanging loads.</li>
+          <li>Mop spills straight away.</li>
+          <li>No standing on chairs or tables when dropping spinners.</li>
+        </ul>
+        <h4>Backup if no freezer is available</h4>
+        <p style="font-size:.92rem">Run the same project with <strong>fibre-reinforced dough bars</strong>: flour, salt and water with the same fibres, shaped in the same moulds and air-dried for a week. Same question, same strength test, same poster. It links to straw-reinforced mud bricks.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 5 YEAR 8 -->
+<section class="sec y8" id="year8">
+  <div class="wrap">
+    <div class="year-head">
+      <div class="sec-head">
+        <span class="tag"><i></i>5 · Year 8</span>
+        <h2>Science Detectives <span class="rec">Recommended</span><span class="zh">科学侦探</span></h2>
+        <p class="lede">Very low kit and very high engagement. It teaches the core of scientific thinking: separating what we see from what we infer, using reference samples as controls, and judging how strong evidence really is.</p>
+      </div>
+      <dl class="facts">
+        <div><dt>Big question</dt><dd>How strong is the evidence?</dd></div>
+        <div><dt>Project</dt><dd>Solve the Frozen Notebook case, then design your own forensic test</dd></div>
+        <div><dt>End product</dt><dd>Case file and expert witness statement at the Court of Science</dd></div>
+      </dl>
+    </div>
+
+    <div class="story">
+      <b>The case: The Frozen Notebook <span class="zh">冰封笔记本之谜</span></b>
+      <p>The night before the Winter Science Fair, Professor Frost's research notebook disappears from the science lab. Left behind: a handwritten note, a fingerprint on a glass, a spilled white powder, a small puddle of liquid and a footprint. Four fictional suspects each have a pen, a reason to be in the lab, a shoe size and a link to one of the powders. Each week, one type of evidence rules suspects in or out. No real staff or students are used.</p>
+      <p>History hook: Song Ci (宋慈) wrote <em>Collected Cases of Injustice Rectified</em> (《洗冤集录》) in 1247, one of the world's earliest books on forensic science. Fingerprints and handprints were also used to sign documents in ancient China.</p>
+    </div>
+
+    <div class="weeks">
+      <article class="wk"><div class="wk-n">01</div>
+        <div class="wk-main"><h4>Think like a detective<span class="zh">像侦探一样思考</span></h4><p class="focus">Observation vs inference; evidence vs opinion</p>
+          <p class="act">Case briefing and printed scene map. List observations, then inferences. Meet the suspects. Song Ci hook.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed case file</dd></div><div><dt>Output</dt><dd>Baseline skills check; interest survey; case file opened</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">02</div>
+        <div class="wk-main"><h4>Fingerprints<span class="zh">指纹档案</span></h4><p class="focus">Classifying; tallies; bar charts</p>
+          <p class="act">Take your own prints with soft pencil and clear tape; classify them as loop, whorl or arch; survey the class and draw a bar chart of fingerprint types; compare with the scene print.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Soft pencils, clear tape, white card, magnifying glasses</dd></div><div><dt>Output</dt><dd>Fingerprint card; class bar chart</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">03</div>
+        <div class="wk-main"><h4>Who wrote the note?<span class="zh">纸条是谁写的？</span></h4><p class="focus">Paper chromatography; reference samples as controls</p>
+          <p class="act">Run chromatograms of each suspect's pen and the ink from the note on coffee-filter strips with water. Match the patterns. Stretch: calculate R<sub>f</sub> values.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Coffee filters, 4 brands of washable black felt-tip, cups, water, pencils, rulers</dd></div><div><dt>Output</dt><dd>Chromatograms; match table</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">04</div>
+        <div class="wk-main"><h4>The white powder<span class="zh">白色粉末之谜</span></h4><p class="focus">Systematic testing; identification keys</p>
+          <p class="act">Test five known powders (salt, sugar, baking soda, cornflour, flour) with water, vinegar and, optionally, iodine. Build a results grid, identify the scene powder, then turn the grid into a flowchart key.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Food powders, vinegar, water, droppers or teaspoons, spotting tiles or white lids, goggles</dd></div><div><dt>Output</dt><dd>Results grid; identification key</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">05</div>
+        <div class="wk-main"><h4>The mystery liquid<span class="zh">神秘液体</span><span class="chip">Checkpoint</span></h4><p class="focus">Indicators; the pH scale</p>
+          <p class="act">Use red cabbage indicator, made in advance by the teacher, to test the scene liquid against lemon juice, vinegar, water, soap solution and baking soda solution. <strong>15-minute checkpoint quiz.</strong></p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Cabbage indicator, cups, droppers, reference liquids, printed colour chart, goggles</dd></div><div><dt>Output</dt><dd>pH results; checkpoint score in tracker</dd></div></dl></div></article>
+      <div class="handover"><b>Handover</b> · incoming teacher leads from Week 6</div>
+      <article class="wk"><div class="wk-n">06</div>
+        <div class="wk-main"><h4>Footprints and height<span class="zh">脚印与身高</span></h4><p class="focus">Measuring; scatter graphs; correlation; predicting from data</p>
+          <p class="act">Measure foot length and height across the class; plot a scatter graph and line of best fit; estimate the height of the person who left the scene footprint, as a range rather than one number.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Tape measures or metre sticks, printed scene footprint at true size</dd></div><div><dt>Output</dt><dd>Scatter graph; height estimate with range</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">07</div>
+        <div class="wk-main"><h4>Design your own test<span class="zh">设计你的检测</span></h4><p class="focus">Planning; controls; fair comparison</p>
+          <p class="act">Groups choose one question. <strong>Soil:</strong> which campus location matches the soil on the suspect's shoe (settling jars)? <strong>Paper:</strong> which paper towel was found at the scene (absorbency)? <strong>Ink 2:</strong> which solvent separates inks best (water, salt water, vinegar)? <strong>Powder 2:</strong> can we identify a mixture of two powders? Plan with variables, references and risk.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>As chosen</dd></div><div><dt>Output</dt><dd>Plan sheet</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">08</div>
+        <div class="wk-main"><h4>Lab day<span class="zh">检测日</span></h4><p class="focus">Carrying out; repeating; recording</p>
+          <p class="act">Groups carry out their own test and record results.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>As planned</dd></div><div><dt>Output</dt><dd>Results</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">09</div>
+        <div class="wk-main"><h4>Build the case<span class="zh">构建证据链</span></h4><p class="focus">Strength of evidence; confirmation bias</p>
+          <p class="act">Evidence board: rank each clue as strong (matches one suspect), supporting (matches several) or weak. <strong>Twist:</strong> one piece of evidence turns out to be contaminated, which opens a discussion of "tunnel vision". Write a Claim-Evidence-Reasoning conclusion with a confidence level and prepare the expert witness statement.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed evidence cards</dd></div><div><dt>Output</dt><dd>Draft case file</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">10</div>
+        <div class="wk-main"><h4>Court of Science<span class="zh">科学法庭</span><span class="chip solid">Assessment</span></h4><p class="focus">Communicating and defending with evidence</p>
+          <p class="act">Each group gives expert evidence on one type of test; the class jury asks prepared questions; verdict; the true ending is revealed. Final skills check and interest survey. Certificates.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Question cards</dd></div><div><dt>Output</dt><dd>Case file and expert witness talk (rubric), final skills check, survey</dd></div></dl></div></article>
+    </div>
+
+    <div class="panel warn" style="max-width:760px">
+      <h4>Safety notes</h4>
+      <ul>
+        <li>No tasting or eating any powder or liquid. Check for food allergies, including flour.</li>
+        <li>Goggles for vinegar, indicator and iodine work.</li>
+        <li>The teacher makes the cabbage indicator in advance with hot water; students never handle boiling water.</li>
+        <li>Iodine stains skin and clothes, so it is optional.</li>
+      </ul>
+    </div>
+
+    <div class="block">
+      <h3>Year 8 alternatives</h3>
+      <div class="alts">
+        <div class="alt">
+          <span class="opt">Option B</span>
+          <h4>Winter Survival Science<span class="zh">冬季生存科学</span></h4>
+          <ul>
+            <li><strong>Big question:</strong> how do living things and people survive the cold?</li>
+            <li><strong>Weeks 1 to 2:</strong> heat and temperature; conductors and insulators ("Why does the metal bench feel colder than the wooden one at the same temperature?")</li>
+            <li><strong>Weeks 3 to 4:</strong> penguin huddle model (cups of warm water alone vs huddled); the "blubber glove" in ice water</li>
+            <li><strong>Week 5:</strong> checkpoint</li>
+            <li><strong>Weeks 6 to 9:</strong> design a survival coat for "Hot Water Harry", a cup of warm water, on a material budget; compare cooling curves</li>
+            <li><strong>Week 10:</strong> expo</li>
+          </ul>
+          <p class="dep">Depends on 6 to 12 thermometers, a warm-water supply and vegetable fat. Overlaps slightly with Y7 Week 6.</p>
+        </div>
+        <div class="alt">
+          <span class="opt">Option C</span>
+          <h4>Kitchen Chemists<span class="zh">厨房化学家</span></h4>
+          <ul>
+            <li><strong>Big question:</strong> what is really happening when we cook and clean?</li>
+            <li><strong>Weeks 1 to 2:</strong> signs of a chemical reaction; red cabbage indicator</li>
+            <li><strong>Weeks 3 to 4:</strong> dissolving and rates (sugar cubes at different water temperatures); yeast-and-sugar balloons</li>
+            <li><strong>Week 5:</strong> checkpoint</li>
+            <li><strong>Weeks 6 to 9:</strong> invent a better bubble mixture and prove it with data (bubble size and lifetime)</li>
+            <li><strong>Week 10:</strong> expo</li>
+          </ul>
+          <p class="dep">Depends on a kettle (teacher), yeast and balloons. Very low cost.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 6 YEAR 9 -->
+<section class="sec y9" id="year9">
+  <div class="wrap">
+    <div class="year-head">
+      <div class="sec-head">
+        <span class="tag"><i></i>6 · Year 9</span>
+        <h2>Claim Busters <span class="rec">Recommended</span><span class="zh">真相调查员</span></h2>
+        <p class="lede">The strongest option for critical thinking. Students choose their own claim, it works with almost any kit, and its tone suits Year 9.</p>
+      </div>
+      <dl class="facts">
+        <div><dt>Big question</dt><dd>Should I believe it?</dd></div>
+        <div><dt>Project</dt><dd>Choose a real-world claim, test it, and reach an honest verdict</dd></div>
+        <div><dt>End product</dt><dd>Fact-check report, peer reviewed, presented at the Claim Busters Conference</dd></div>
+      </dl>
+    </div>
+
+    <div class="block">
+      <h3>Verdict scale, used all series</h3>
+      <div class="verdicts"><span>Supported · 有证据支持</span><span>Not supported · 证据不支持</span><span>Not enough evidence yet · 证据尚不足</span></div>
+      <p class="muted" style="max-width:68ch">"Not enough evidence yet" is a respectable scientific answer, and students learn to say it.</p>
+    </div>
+
+    <div class="story">
+      <b>Hooks</b>
+      <p>Tu Youyou (屠呦呦) and her team took an idea from a text more than 1,600 years old and tested it with careful experiments, leading to a malaria medicine and the 2015 Nobel Prize. Erasto Mpemba, a Tanzanian school student, noticed in 1963 that hot ice-cream mixture seemed to freeze faster than cold, and scientists are still arguing about it.</p>
+    </div>
+
+    <div class="weeks">
+      <article class="wk"><div class="wk-n">01</div>
+        <div class="wk-main"><h4>Should I believe it?<span class="zh">我该相信吗？</span></h4><p class="focus">Claims; testability; fact vs opinion</p>
+          <p class="act"><strong>Claim sort:</strong> everyday claim cards sorted into fact, opinion, testable and not testable. Introduce Claim-Evidence-Reasoning.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed claim cards</dd></div><div><dt>Output</dt><dd>Baseline skills check; interest survey; claim sort</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">02</div>
+        <div class="wk-main"><h4>Brains that fool us<span class="zh">会骗人的大脑</span></h4><p class="focus">Bias; perception; why we measure</p>
+          <p class="act"><strong>Optical illusions</strong> checked with a ruler. <strong>Anchoring:</strong> half the class is asked "Is the Yangtze longer or shorter than 1,000 km?", the other half "than 10,000 km?", then everyone estimates and the class compares means. <strong>2-4-6 rule game</strong> for confirmation bias.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Printed sheets, rulers</dd></div><div><dt>Output</dt><dd>Bias reflection</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">03</div>
+        <div class="wk-main"><h4>Test it properly<span class="zh">科学地检验</span></h4><p class="focus">Variables; repeats; mean; range</p>
+          <p class="act"><strong>Ruler-drop reaction test:</strong> "Is your dominant hand faster?" Five repeats for each hand; mean and range; is the difference big enough to matter?</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>30 cm rulers, printed distance-to-time table</dd></div><div><dt>Output</dt><dd>Results with a conclusion that mentions uncertainty</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">04</div>
+        <div class="wk-main"><h4>Correlation or cause?<span class="zh">相关还是因果？</span></h4><p class="focus">Scatter graphs; confounding variables; misleading graphs</p>
+          <p class="act"><strong>Spurious correlations game</strong> with a winter example: hot drink sales and colds both rise in winter, but does one cause the other? <strong>Class data:</strong> arm span vs height. <strong>Fix the graph:</strong> redraw a misleading chart.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Tape measures, printed graphs</dd></div><div><dt>Output</dt><dd>Scatter graph; corrected graph</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">05</div>
+        <div class="wk-main"><h4>Fair trials<span class="zh">公平试验</span><span class="chip">Checkpoint</span></h4><p class="focus">Control groups; blinding; placebo; sample size; ethics</p>
+          <p class="act"><strong>Lucky pen trial:</strong> half the class is told their pen improves memory; everyone does the same 20-word memory test; compare groups, then debrief on placebo, blinding and research ethics. Tu Youyou hook. <strong>15-minute checkpoint quiz.</strong></p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Identical pens, printed word lists</dd></div><div><dt>Output</dt><dd>Trial results; checkpoint score in tracker</dd></div></dl></div></article>
+      <div class="handover"><b>Handover</b> · incoming teacher leads from Week 6</div>
+      <article class="wk"><div class="wk-n">06</div>
+        <div class="wk-main"><h4>The Mpemba mystery<span class="zh">姆潘巴之谜</span></h4><p class="focus">Contested science; operational definitions</p>
+          <p class="act">Mpemba story. Test hot vs cold water in small tubes in an <strong>ice and salt freezing mixture</strong>, which gets well below 0 °C in a cup. Key debate: what counts as "frozen"? First crystals, fully solid, or reaching 0 °C? Each definition can give a different answer.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Ice, salt, cups, small tubes, thermometers, stopwatch, warm water prepared by the teacher</dd></div><div><dt>Output</dt><dd>Class results; definition debate</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">07</div>
+        <div class="wk-main"><h4>Choose your claim<span class="zh">选择你的课题</span></h4><p class="focus">Planning; sample size; ethics; risk</p>
+          <p class="act">Choose a claim from the claim bank. Complete the planning frame: question, variables, sample size, controls, ethics for any human participants, and risk. Peer check, then teacher approval.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Claim bank cards</dd></div><div><dt>Output</dt><dd>Approved plan</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">08</div>
+        <div class="wk-main"><h4>Investigation day<span class="zh">调查日</span></h4><p class="focus">Carrying out; data quality</p>
+          <p class="act">Carry out the investigation.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>As planned</dd></div><div><dt>Output</dt><dd>Data</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">09</div>
+        <div class="wk-main"><h4>Peer review<span class="zh">同行评审</span></h4><p class="focus">Analysing; evaluating; critiquing</p>
+          <p class="act">Draft the fact-check report. Swap with another group and review it with a reviewer checklist, as a science journal would. Revise.</p></div>
+        <div class="wk-side"><dl><div><dt>Kit</dt><dd>Reviewer checklist</dd></div><div><dt>Output</dt><dd>Reviewed draft</dd></div></dl></div></article>
+      <article class="wk"><div class="wk-n">10</div>
+        <div class="wk-main"><h4>Claim Busters Conference<span class="zh">真相调查员大会</span><span class="chip solid">Assessment</span></h4><p class="focus">Communicating; verdicts with uncertainty</p>
+          <p class="act">Present the verdict on the three-point scale and take questions from the floor. Final skills check and interest survey. Certificates.</p></div>
+        <div class="wk-side"><dl><div><dt>Output</dt><dd>Report and conference talk (rubric), final skills check, survey</dd></div></dl></div></article>
+    </div>
+
+    <div class="block">
+      <h3>Claim bank: curated, safe, low kit</h3>
+      <ol class="claims">
+        <li>Hot water freezes faster than cold water. <span>Ice and salt bath</span></li>
+        <li>Ice melts faster in salt water than in fresh water. <span>Cups, ice, salt; the result surprises most people</span></li>
+        <li>You lose most of your body heat through your head, so a hat keeps you warm. <span>Warm-water bottles, fabric, thermometers</span></li>
+        <li>Wet clothes make you lose heat faster in winter. <span>Warm water wrapped in wet vs dry cloth</span></li>
+        <li>Putting salt on ice makes it melt faster. <span>Why roads are salted in winter</span></li>
+        <li>Crushed ice cools a drink faster than ice cubes. <span>Thermometers</span></li>
+        <li>Listening to music helps you remember things. <span>Memory test with and without music</span></li>
+        <li>Practice makes you faster at a puzzle. <span>Timed puzzle, repeated trials</span></li>
+        <li>Taller people have bigger feet, or your arm span equals your height. <span>Measurements</span></li>
+        <li>A spoon in the neck of an open fizzy drink keeps it fizzy. <span>Mass loss on a kitchen scale</span></li>
+        <li>Brand X paper towel is the most absorbent. <span>Brands anonymised</span></li>
+        <li>You react faster in the morning than after lunch. <span>Ruler drop at different times</span></li>
+      </ol>
+      <p class="muted" style="max-width:72ch"><strong>Claims to avoid:</strong> health, medical or diet claims; traditional medicine; anything that involves eating or drinking; claims about named people or groups.</p>
+    </div>
+
+    <div class="panel warn" style="max-width:760px">
+      <h4>Safety notes</h4>
+      <ul>
+        <li>Ice and salt baths get cold enough to hurt skin: handle the tubes, not the mixture, and wear gloves.</li>
+        <li>Warm water for the Mpemba test is prepared by the teacher, no hotter than about 60 °C for student handling.</li>
+        <li>Human-participant claims: voluntary participation, no pressure, results anonymised.</li>
+      </ul>
+    </div>
+
+    <div class="block">
+      <h3>Year 9 alternatives</h3>
+      <div class="alts">
+        <div class="alt">
+          <span class="opt">Option B</span>
+          <h4>Clean Water Engineers<span class="zh">净水工程师</span></h4>
+          <ul>
+            <li><strong>Big question:</strong> how can engineers make dirty water clean?</li>
+            <li><strong>Weeks 1 to 2:</strong> why clean water matters; mixtures, settling and filtering</li>
+            <li><strong>Weeks 3 to 4:</strong> test filter materials; measure clarity with a printed "disappearing cross" scale</li>
+            <li><strong>Week 5:</strong> checkpoint</li>
+            <li><strong>Weeks 6 to 9:</strong> engineering design cycle; each material has a price; design, build, test, improve, test again</li>
+            <li><strong>Week 10:</strong> pitch to a "village council" with data</li>
+          </ul>
+          <p class="dep">Filtered water is never drunk. Depends on plastic bottles, sand, gravel, aquarium charcoal and cotton wool.</p>
+        </div>
+        <div class="alt">
+          <span class="opt">Option C</span>
+          <h4>Campus Climate Watch<span class="zh">校园气候观察</span></h4>
+          <ul>
+            <li><strong>Big question:</strong> is our campus changing as winter arrives, and how would we know?</li>
+            <li><strong>Weeks 1 to 2:</strong> weather vs climate; build a bottle rain gauge, paper wind vane and shaded thermometer box</li>
+            <li><strong>Weeks 3 to 5:</strong> map microclimates around campus; set up a daily data rota</li>
+            <li><strong>Weeks 6 to 9:</strong> analyse ten weeks of data; compare with published climate averages for Changzhou</li>
+            <li><strong>Week 10:</strong> data story presentation</li>
+          </ul>
+          <p class="dep">Depends on outdoor access and a reliable daily data rota.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 7 LESSONS -->
+<section class="sec" id="lessons">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">7 · How every lesson runs</p>
+      <h2>Six phases, every week</h2>
+      <p class="lede">The same order and icons in every lesson, in every year. Widths below are to scale for a 60-minute session.</p>
+    </div>
+    <div class="lbar" role="list">
+      <div role="listitem" style="flex:5"><b>Do Now</b><span class="zh">课前任务</span><span class="m">5 min</span></div>
+      <div role="listitem" style="flex:5"><b>Hook</b><span class="zh">引入</span><span class="m">5 min</span></div>
+      <div role="listitem" style="flex:10"><b>Learn</b><span class="zh">新知</span><span class="m">10 min</span></div>
+      <div role="listitem" class="do" style="flex:25"><b>Do</b><span class="zh">实践</span><span class="m">25 min</span></div>
+      <div role="listitem" style="flex:10"><b>Think</b><span class="zh">思辨</span><span class="m">10 min</span></div>
+      <div role="listitem" style="flex:5"><b>Reflect</b><span class="zh">反思</span><span class="m">5 min</span></div>
+    </div>
+    <div class="tw">
+      <table class="t-mid">
+        <thead><tr><th>Phase</th><th class="num">60 min</th><th class="num">40 to 45 min</th><th>Purpose</th></tr></thead>
+        <tbody>
+          <tr><th>Do Now</th><td class="num">5</td><td class="num">5</td><td>Retrieval of last week's vocabulary, or a puzzle; students start as they arrive</td></tr>
+          <tr><th>Hook</th><td class="num">5</td><td class="num">3</td><td>A question, demo, story or thought experiment that creates curiosity</td></tr>
+          <tr><th>Learn</th><td class="num">10</td><td class="num">7</td><td>The key idea, with bilingual vocabulary</td></tr>
+          <tr><th>Do</th><td class="num">25</td><td class="num">18</td><td>The practical or thinking task, with Core / Stretch / Challenge tiers</td></tr>
+          <tr><th>Think</th><td class="num">10</td><td class="num">7, merged with Reflect</td><td>Critical-thinking discussion: odd one out, concept cartoon, Claim-Evidence-Reasoning</td></tr>
+          <tr><th>Reflect</th><td class="num">5</td><td class="num">merged</td><td>Exit ticket and logbook entry</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="cols2">
+      <div class="block">
+        <h3>Group roles, rotated weekly</h3>
+        <div class="tw">
+          <table>
+            <thead><tr><th>Role</th><th>中文</th><th>Job</th></tr></thead>
+            <tbody>
+              <tr><th>Lead Scientist</th><td>首席科学家</td><td>Keeps the group on task and on time</td></tr>
+              <tr><th>Measurer</th><td>测量员</td><td>Takes the readings</td></tr>
+              <tr><th>Recorder</th><td>记录员</td><td>Writes results in the table</td></tr>
+              <tr><th>Safety Officer</th><td>安全员</td><td>Checks the kit card and safety rules</td></tr>
+              <tr><th>Reporter</th><td>汇报员</td><td>Shares findings with the class (in groups of 3, the Lead Scientist reports)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="block">
+        <h3>Scientist's Logbook <span class="zh muted" style="font-size:.95rem">科学日志</span></h3>
+        <div class="panel">
+          <p style="font-size:.92rem">A slim printed A5 booklet, one page per week. It is part of the assessment evidence and gives the incoming teacher a record of each student's journey.</p>
+          <ul>
+            <li>What I did · 我做了什么</li>
+            <li>What I found · 我发现了什么</li>
+            <li>New words · 新词汇</li>
+            <li>A question I still have · 我还想知道</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="block">
+      <h3>Sample one-page lesson plan · Year 7, Week 3, Meet the variables</h3>
+      <div class="detail-grid">
+        <div class="panel">
+          <h4>Learning goals</h4>
+          <ul>
+            <li>I can name the independent, dependent and control variables in an experiment.</li>
+            <li>I can explain why a fair test changes only one thing.</li>
+          </ul>
+          <h4>Key words (6)</h4>
+          <p style="font-size:.9rem">variable 变量 · independent variable 自变量 · dependent variable 因变量 · control variable 控制变量 · fair test 公平测试 · air resistance 空气阻力</p>
+        </div>
+        <div class="panel">
+          <h4>Tiers</h4>
+          <ul>
+            <li><strong>Core:</strong> cloze with word bank and picture sort.</li>
+            <li><strong>Stretch:</strong> name two more control variables and explain why each must stay the same.</li>
+            <li><strong>Challenge:</strong> design a new test with paper type as the independent variable and predict the result using "air resistance".</li>
+          </ul>
+          <h4>Teacher notes</h4>
+          <p style="font-size:.9rem">Common misconception: "heavier things always fall faster". Timing errors are expected and set up Week 4. If 40 to 45 minutes, test two wing lengths instead of three and merge Think with Reflect.</p>
+        </div>
+      </div>
+      <div class="tw">
+        <table class="t-mid">
+          <thead><tr><th>Phase</th><th class="num">Min</th><th>Teacher</th><th>Students</th></tr></thead>
+          <tbody>
+            <tr><th>Do Now</th><td class="num">5</td><td>Shows two paper planes thrown by different people from different heights</td><td>"Is this a fair race?" Answer with "It is / is not fair because ___."</td></tr>
+            <tr><th>Hook</th><td class="num">5</td><td>Drops a short-winged and a long-winged spinner together</td><td>Vote on which lands first, then watch</td></tr>
+            <tr><th>Learn</th><td class="num">10</td><td>Teaches "I change / I measure / I keep the same" with hand gestures; bilingual vocab panel</td><td>Complete the cloze on the slide together</td></tr>
+            <tr><th>Do</th><td class="num">25</td><td>Circulates; checks roles and timing</td><td>Make spinners, test three wing lengths from the 2 m mark, record times</td></tr>
+            <tr><th>Think</th><td class="num">10</td><td>Shows four test descriptions</td><td>Odd one out: which test is not fair? Pair talk in any language, share in English with a frame</td></tr>
+            <tr><th>Reflect</th><td class="num">5</td><td>Collects exit tickets</td><td>Name the IV, DV and one control variable. Logbook entry</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="muted" style="font-size:.9rem"><strong>Kit card:</strong> spinner template (1 per student), scissors, paper clips, stopwatch (1 per group), 2 m mark on the wall. <strong>Safety:</strong> no standing on chairs or tables; care with scissors.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 8 LANGUAGE -->
+<section class="sec" id="language">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">8 · Language access</p>
+      <h2>How slides and worksheets work</h2>
+      <p class="lede">Bilingual vocabulary, English instructions with key words glossed, and tiers that every student can climb.</p>
+    </div>
+    <div class="principles">
+      <div><b>Vocabulary bilingual, instructions glossed</b><p>Translating everything would let students read only the Chinese. Most text stays in English; key terms carry a Chinese gloss.</p></div>
+      <div><b>Safety in full, both languages</b><p>Every safety instruction appears in English and Chinese.</p></div>
+      <div><b>8 to 12 key words per lesson</b><p>Shown in a vocabulary panel on every slide and worksheet, recycled in the next Do Now.</p></div>
+      <div><b>Think in any language</b><p>Pair talk in Chinese is welcome during Think phases. Reporting back uses English sentence frames.</p></div>
+      <div><b>Native-speaker check</b><p>A Chinese-speaking colleague checks every glossary and safety translation before printing.</p></div>
+    </div>
+
+    <div class="mocks">
+      <div>
+        <p class="mock-label">What a worksheet looks like · Y7 W3, front page</p>
+        <div class="sheet" aria-label="Sample worksheet">
+          <div class="sh-head"><div><b>Meet the variables</b> <span class="zh">认识变量</span></div><small>Ice Engineers · Week 3</small></div>
+          <div class="fields"><span>Name ____________</span><span>Class ______</span><span>Date ______</span></div>
+          <div class="vocab">
+            <div><span>variable</span><span>变量</span></div>
+            <div><span>fair test</span><span>公平测试</span></div>
+            <div><span>independent variable</span><span>自变量</span></div>
+            <div><span>dependent variable</span><span>因变量</span></div>
+            <div><span>control variable</span><span>控制变量</span></div>
+            <div><span>air resistance</span><span>空气阻力</span></div>
+          </div>
+          <div class="tier">
+            <h5><span class="dots"><i class="f"></i><i></i><i></i></span>Core · fill the gaps</h5>
+            <p>In our experiment we change the <span class="blank"></span> of the wings. This is the <span class="blank"></span> variable. We measure the <span class="blank"></span> it takes to fall. This is the <span class="blank"></span> variable. We keep the drop height the <span class="blank"></span>. This is a <span class="blank"></span> variable.</p>
+          </div>
+          <div class="tier">
+            <h5><span class="dots"><i class="f"></i><i class="f"></i><i></i></span>Stretch</h5>
+            <p>Name two more things we must keep the same. "We must keep ______ the same because ______."</p>
+            <div class="lines"></div>
+          </div>
+          <div class="tier">
+            <h5><span class="dots"><i class="f"></i><i class="f"></i><i class="f"></i></span>Challenge</h5>
+            <p>Does the type of paper change the fall time? Write your IV, DV and two control variables. Predict, and explain using <em>air resistance</em>.</p>
+            <div class="lines"></div>
+          </div>
+          <div class="think"><small>My thinking · any language · 可用中文</small><p>Why do scientists change only one thing at a time?</p><div class="lines" style="height:17px"></div></div>
+          <div class="fold"><small>Fold under · word bank</small><span>length · independent · time · dependent · same · control</span></div>
+        </div>
+      </div>
+      <div>
+        <p class="mock-label">What a slide looks like · Y7 W7, Hook</p>
+        <div class="slide" aria-label="Sample slide">
+          <div class="s-main">
+            <span class="phase">Hook · 引入</span>
+            <h5>Could you build a ship out of ice?<span>你能用冰造一艘船吗？</span></h5>
+            <p class="fact">1943: Geoffrey Pyke's team mixed ice with about 14% sawdust. They called it pykrete.</p>
+          </div>
+          <div class="s-vocab">
+            <b>Key words</b>
+            <div><span>composite</span><span>复合材料</span></div>
+            <div><span>reinforce</span><span>加固</span></div>
+            <div><span>brittle</span><span>脆的</span></div>
+            <div><span>strength</span><span>强度</span></div>
+            <div><span>fibre</span><span>纤维</span></div>
+            <div><span>melt</span><span>熔化</span></div>
+          </div>
+        </div>
+        <div class="mock-notes">
+          <p>The lesson-phase tag sits in the same corner on every slide. The vocabulary panel is fixed on the right. English leads; Chinese sits beneath in a lighter weight.</p>
+          <p>Worksheet order never changes: header, vocabulary, Core, Stretch, Challenge, My thinking, fold-under word bank. Tiers are not ability groups. Everyone starts at Core and climbs when ready.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="block">
+      <h3>Sentence frames across the years</h3>
+      <div class="tw">
+        <table class="t-wide">
+          <thead><tr><th>Year 7</th><th>Year 8</th><th>Year 9</th></tr></thead>
+          <tbody>
+            <tr><td>I observe ___. I infer ___ because ___.</td><td>The evidence shows ___. This supports / does not support ___ because ___.</td><td>The data suggests ___; however, ___.</td></tr>
+            <tr><td>I predict ___ because ___.</td><td>This sample matches ___ because ___.</td><td>To be more confident, we would need ___.</td></tr>
+            <tr><td>As the ___ increases, the ___ ___.</td><td>This evidence is strong / weak because ___.</td><td>This could also be explained by ___.</td></tr>
+            <tr><td>If I did it again, I would ___.</td><td>One problem with this evidence is ___.</td><td>Our verdict is ___ because ___.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="block">
+      <h3>Critical-thinking task bank</h3>
+      <div class="tw">
+        <table class="t-mid">
+          <thead><tr><th>Task</th><th>中文</th><th>How it works</th></tr></thead>
+          <tbody>
+            <tr><th>Odd one out</th><td>找不同</td><td>Four items; which does not belong and why? More than one answer can be right</td></tr>
+            <tr><th>Always, sometimes, never</th><td>总是／有时／从不</td><td>Is the statement always, sometimes or never true? Give an example</td></tr>
+            <tr><th>Concept cartoon</th><td>概念漫画</td><td>Characters give different opinions about a situation; who do you agree with?</td></tr>
+            <tr><th>Claim-Evidence-Reasoning</th><td>主张－证据－推理</td><td>State a claim, give the evidence, explain the science link</td></tr>
+            <tr><th>Fact or opinion</th><td>事实还是观点</td><td>Sort statements; explain how you could check the facts</td></tr>
+            <tr><th>What went wrong?</th><td>哪里出错了？</td><td>Read a flawed experiment and fix it</td></tr>
+            <tr><th>Rank the evidence</th><td>证据排序</td><td>Order clues or data from strongest to weakest</td></tr>
+            <tr><th>Would you rather test</th><td>你会选哪个实验？</td><td>Choose between two experiment designs and justify the choice</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="block">
+      <h3>Starter glossaries</h3>
+      <p class="muted" style="max-width:68ch">Core words for each series. Full glossaries are built with each lesson.</p>
+      <div class="gloss">
+        <div class="y7"><h4>Year 7 · Ice Engineers</h4>
+          <div class="tw"><table><thead><tr><th>English</th><th>中文</th></tr></thead><tbody>
+            <tr><td>observation</td><td>观察</td></tr><tr><td>inference</td><td>推断</td></tr><tr><td>prediction</td><td>预测</td></tr><tr><td>evidence</td><td>证据</td></tr><tr><td>variable</td><td>变量</td></tr><tr><td>independent variable</td><td>自变量</td></tr><tr><td>dependent variable</td><td>因变量</td></tr><tr><td>control variable</td><td>控制变量</td></tr><tr><td>fair test</td><td>公平测试</td></tr><tr><td>measure</td><td>测量</td></tr><tr><td>repeat</td><td>重复</td></tr><tr><td>mean (average)</td><td>平均值</td></tr><tr><td>anomaly</td><td>异常值</td></tr><tr><td>pattern</td><td>规律</td></tr><tr><td>conclusion</td><td>结论</td></tr><tr><td>evaluate</td><td>评价</td></tr><tr><td>thermal insulator</td><td>隔热材料</td></tr><tr><td>melt / freeze</td><td>熔化／凝固（结冰）</td></tr><tr><td>composite material</td><td>复合材料</td></tr><tr><td>reinforce</td><td>加固</td></tr><tr><td>strength</td><td>强度</td></tr><tr><td>brittle</td><td>脆的（易碎的）</td></tr><tr><td>fibre</td><td>纤维</td></tr><tr><td>air resistance</td><td>空气阻力</td></tr><tr><td>hazard / risk</td><td>危险源／风险</td></tr>
+          </tbody></table></div></div>
+        <div class="y8"><h4>Year 8 · Science Detectives</h4>
+          <div class="tw"><table><thead><tr><th>English</th><th>中文</th></tr></thead><tbody>
+            <tr><td>forensic science</td><td>法庭科学</td></tr><tr><td>evidence</td><td>证据</td></tr><tr><td>crime scene</td><td>案发现场</td></tr><tr><td>suspect</td><td>嫌疑人</td></tr><tr><td>observation</td><td>观察</td></tr><tr><td>inference</td><td>推断</td></tr><tr><td>fingerprint</td><td>指纹</td></tr><tr><td>loop / whorl / arch</td><td>箕形纹／斗形纹／弓形纹</td></tr><tr><td>chromatography</td><td>色谱法</td></tr><tr><td>solvent</td><td>溶剂</td></tr><tr><td>dissolve</td><td>溶解</td></tr><tr><td>soluble / insoluble</td><td>可溶的／不溶的</td></tr><tr><td>mixture</td><td>混合物</td></tr><tr><td>indicator</td><td>指示剂</td></tr><tr><td>acid / alkali / neutral</td><td>酸性／碱性／中性</td></tr><tr><td>pH scale</td><td>pH值（酸碱度）</td></tr><tr><td>reference sample</td><td>参照样本</td></tr><tr><td>contamination</td><td>污染</td></tr><tr><td>correlation</td><td>相关性</td></tr><tr><td>reliable</td><td>可靠的</td></tr><tr><td>bias</td><td>偏见</td></tr><tr><td>reasoning</td><td>推理</td></tr><tr><td>expert witness</td><td>专家证人</td></tr><tr><td>conclusion</td><td>结论</td></tr>
+          </tbody></table></div></div>
+        <div class="y9"><h4>Year 9 · Claim Busters</h4>
+          <div class="tw"><table><thead><tr><th>English</th><th>中文</th></tr></thead><tbody>
+            <tr><td>claim</td><td>说法（主张）</td></tr><tr><td>evidence</td><td>证据</td></tr><tr><td>reasoning</td><td>推理</td></tr><tr><td>testable</td><td>可检验的</td></tr><tr><td>sample size</td><td>样本量</td></tr><tr><td>range</td><td>极差</td></tr><tr><td>uncertainty</td><td>不确定性</td></tr><tr><td>correlation</td><td>相关性</td></tr><tr><td>causation</td><td>因果关系</td></tr><tr><td>confounding variable</td><td>混杂变量</td></tr><tr><td>control group</td><td>对照组</td></tr><tr><td>placebo</td><td>安慰剂</td></tr><tr><td>blind test</td><td>盲测</td></tr><tr><td>bias</td><td>偏差（偏见）</td></tr><tr><td>reproducible</td><td>可重复的</td></tr><tr><td>peer review</td><td>同行评审</td></tr><tr><td>operational definition</td><td>操作性定义</td></tr><tr><td>verdict</td><td>结论（裁定）</td></tr><tr><td>misleading</td><td>误导性的</td></tr><tr><td>source</td><td>来源</td></tr>
+          </tbody></table></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 9 ASSESSMENT -->
+<section class="sec" id="assessment">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">9 · Assessment</p>
+      <h2>A real outcome at the end of every series</h2>
+      <p class="lede">The same structure in all three years: a project product, a presentation, a skills check taken twice to show growth, the logbook, and an interest survey that shows impact.</p>
+    </div>
+    <div class="tw">
+      <table class="t-wide">
+        <thead><tr><th>Component</th><th>When</th><th>What it measures</th><th>Purpose</th></tr></thead>
+        <tbody>
+          <tr><th>Final project product<br><span class="muted" style="font-weight:400">poster · case file · fact-check report</span></th><td>Weeks 9 to 10</td><td>Rubric strands 1 to 5</td><td>Main judgement of scientific thinking</td></tr>
+          <tr><th>Final presentation<br><span class="muted" style="font-weight:400">Expo talk · expert witness · conference talk</span></th><td>Week 10</td><td>Rubric strand 6, plus questioning</td><td>Communication and confidence</td></tr>
+          <tr><th>Skills check</th><td>Weeks 1, 5 (short), 10</td><td>Variables, fair tests, tables, graphs, conclusions, evaluation</td><td>Shows growth over ten weeks</td></tr>
+          <tr><th>Scientist's Logbook</th><td>Weekly</td><td>Engagement, reflection, vocabulary</td><td>Supporting evidence; handover record</td></tr>
+          <tr><th>Interest survey</th><td>Weeks 1 and 10</td><td>Interest and confidence</td><td>Shows programme impact for principals and parents</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="block">
+      <h3>Rubric · six strands, four levels</h3>
+      <div class="levels"><span>Beginning · 起步</span><span>Developing · 发展</span><span>Secure · 达标</span><span>Excellent · 优秀</span></div>
+      <div class="tw">
+        <table class="t-wide">
+          <thead><tr><th>Strand</th><th>Beginning</th><th>Developing</th><th>Secure</th><th>Excellent</th></tr></thead>
+          <tbody>
+            <tr><th>1. Questioning and predicting<br><span class="zh muted">提问与预测</span></th><td>Asks a question with help; makes a guess without a reason</td><td>Asks a question that can be tested; prediction has a simple reason</td><td>Writes a clear testable question naming what changes and what is measured; prediction uses science ideas</td><td>Sharpens the question; prediction uses science and states what result would show it is wrong</td></tr>
+            <tr><th>2. Planning<br><span class="zh muted">计划设计</span></th><td>Lists some equipment and steps with support</td><td>Names the independent and dependent variables; method can mostly be followed</td><td>Identifies IV, DV and key controls; method is clear and repeatable, with repeats and safety</td><td>Justifies choices (range, repeats, sample size); anticipates problems; specific risk assessment</td></tr>
+            <tr><th>3. Doing and recording<br><span class="zh muted">实施与记录</span></th><td>Carries out steps with support; records some results</td><td>Follows the method safely; records results in a table with headings</td><td>Works carefully; table has units; repeats done; anomalies noticed</td><td>Adjusts the method sensibly; records precisely; explains how anomalies were handled</td></tr>
+            <tr><th>4. Analysing and concluding<br><span class="zh muted">分析与结论</span></th><td>Describes what happened</td><td>Draws a suitable chart with help; states a simple pattern</td><td>Chooses and draws the right graph accurately; conclusion uses data as evidence</td><td>Explains the pattern with science ideas; notes the limits of what the data can show</td></tr>
+            <tr><th>5. Evaluating and critical thinking<br><span class="zh muted">评价与批判性思维</span></th><td>Says whether the experiment worked</td><td>Identifies one problem and a simple improvement</td><td>Explains how errors affected results; suggests specific improvements; judges confidence</td><td>Weighs strength of evidence; considers other explanations; links to how scientists check each other's work</td></tr>
+            <tr><th>6. Communicating<br><span class="zh muted">表达与交流</span></th><td>Shares findings using some key words, with frames and support</td><td>Presents findings clearly using key English vocabulary</td><td>Clear, organised presentation; accurate vocabulary; answers questions</td><td>Confident and well structured; adapts to the audience; responds to challenge with evidence</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="callout"><strong>Communication is judged on the clarity of the science, not on English grammar.</strong> Students may explain their reasoning in Chinese in the "My thinking" box; key vocabulary is expected in English.</p>
+    </div>
+
+    <div class="cols2">
+      <div class="panel">
+        <h4>Skills check · 20 minutes, bilingual question stems</h4>
+        <ol>
+          <li>Observation or inference? (sort statements)</li>
+          <li>Which question is testable?</li>
+          <li>Identify the IV, DV and one control in a scenario</li>
+          <li>Spot what makes a test unfair</li>
+          <li>Complete a results table (headings and units)</li>
+          <li>Calculate a mean; spot the anomaly</li>
+          <li>Read a value from a graph</li>
+          <li>Write a conclusion from a graph using a frame</li>
+          <li>Suggest one improvement and say why</li>
+          <li>Year 8: rank evidence. Year 9: correlation or cause?</li>
+        </ol>
+        <p class="muted" style="font-size:.88rem">Scored out of 20. The Week 5 checkpoint uses questions 1 to 6 (about 15 minutes). Contexts change by year.</p>
+      </div>
+      <div class="panel">
+        <h4>Interest survey · 5-point smiley scale</h4>
+        <ol>
+          <li>I enjoy science. 我喜欢科学。</li>
+          <li>I like asking questions about how things work. 我喜欢问“事物是怎样运作的”。</li>
+          <li>I can plan my own experiment. 我能设计自己的实验。</li>
+          <li>I feel confident using science words in English. 我有信心用英语表达科学词汇。</li>
+          <li>I check the evidence before I believe something. 我会先看证据再相信一件事。</li>
+          <li>I would like to do more science outside lessons. 我希望在课外做更多科学活动。</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="block">
+      <h3>Reporting</h3>
+      <div class="principles">
+        <div><b>Student certificate</b><p>Series title and award level: Gold (mostly Excellent), Silver (mostly Secure), Bronze (mostly Developing), or Participation. Plus a "Most Improved Scientist" award per class, based on skills-check growth.</p></div>
+        <div><b>One-page skills report</b><p>Bilingual. Rubric level for each strand, skills check Week 1 vs Week 10, one teacher comment.</p></div>
+        <div><b>Programme summary for principals</b><p>Class averages, skills-check growth, interest survey change, and photos of project work.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 10 HANDOVER -->
+<section class="sec" id="handover">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">10 · Handover</p>
+      <h2>Built for the incoming teacher</h2>
+      <p class="lede">The handover falls at a natural break. Week 5 produces checkpoint data, and the project phase starts fresh in Week 6.</p>
+    </div>
+    <div class="cols2">
+      <div class="block">
+        <h3>What the incoming teacher receives</h3>
+        <div class="tw">
+          <table>
+            <thead><tr><th>Item</th><th>Contents</th></tr></thead>
+            <tbody>
+              <tr><th>Teacher Guide</th><td>Purpose, how a lesson runs, language strategies, assessment, safety, where everything is</td></tr>
+              <tr><th>Week folders (30)</th><td>One-page plan, slides, worksheet, answer key and kit card for every lesson</td></tr>
+              <tr><th>Assessment pack</th><td>Skills check papers and mark schemes, rubric, survey, certificate and report templates</td></tr>
+              <tr><th>Progress tracker</th><td>Spreadsheet of students by skills: checkpoint scores, rubric levels, survey results, notes</td></tr>
+              <tr><th>Kit list and storage map</th><td>What is in the prep room, where it is, what is on order</td></tr>
+              <tr><th>Handover note</th><td>Completed for each class at the end of Week 5</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="block">
+        <h3>Handover note, one per class</h3>
+        <div class="panel">
+          <ul>
+            <li>Where the class finished, and anything not completed</li>
+            <li>Checkpoint results summary</li>
+            <li>Students who need extra language support</li>
+            <li>Students ready for more challenge</li>
+            <li>Current groups and roles</li>
+            <li>Anything in the freezer or in storage, with labels</li>
+            <li>Kit status: what has run out, what is on order</li>
+            <li>Anything else the incoming teacher should know</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="cols2">
+      <div class="block">
+        <h3>Folder structure and file names</h3>
+<pre class="tree">Think_Like_a_Scientist/
+  00_Teacher_Guide/
+  00_Assessment_Pack/
+  00_Tracker/
+  Y7_Ice_Engineers/
+    W01_What_do_scientists_do/
+      Y7_W01_LessonPlan.docx
+      Y7_W01_Slides.pptx
+      Y7_W01_Worksheet.pdf
+      Y7_W01_Answers.pdf
+      Y7_W01_KitCard.pdf
+    W02_Thought_experiments/
+    ...
+  Y8_Science_Detectives/
+  Y9_Claim_Busters/</pre>
+      </div>
+      <div class="block">
+        <h3>Handover timeline</h3>
+        <div class="tw">
+          <table>
+            <thead><tr><th>When</th><th>What happens</th></tr></thead>
+            <tbody>
+              <tr><th>Week 4</th><td>Teacher Guide finished and shared with the incoming teacher on arrival</td></tr>
+              <tr><th>Week 5</th><td>Incoming teacher observes or co-teaches the checkpoint lesson; handover notes completed</td></tr>
+              <tr><th>Week 6</th><td>30-minute walkthrough before the first lesson; incoming teacher leads</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 11 KIT -->
+<section class="sec" id="kit">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">11 · Kit list for the prep room</p>
+      <h2>Everything the three recommended series need</h2>
+      <p class="lede">Quantities assume a class of 24 in 6 groups. The aim is to give the prep room time to sort, borrow and order before Week 1.</p>
+    </div>
+    <div class="block">
+      <h3>Likely already in the prep room · please check</h3>
+      <div class="tw">
+        <table class="t-mid">
+          <thead><tr><th>Item</th><th>Used in</th><th class="num">Quantity</th></tr></thead>
+          <tbody>
+            <tr><td>30 cm rulers</td><td>Y7 W3 to 4; Y8 W2, W6; Y9 W2 to 4</td><td class="num">24</td></tr>
+            <tr><td>Metre sticks or tape measures</td><td>Y7 W3 to 5; Y8 W6; Y9 W4</td><td class="num">6</td></tr>
+            <tr><td>Stopwatches</td><td>Y7 W3 to 4, W6, W8; Y9 W6</td><td class="num">6</td></tr>
+            <tr><td>Thermometers</td><td>Y9 W6 and some claims</td><td class="num">6 to 12</td></tr>
+            <tr><td>Kitchen or top-pan scale (1 g)</td><td>Y7 W6, W8; Y9 claims</td><td class="num">2 to 6</td></tr>
+            <tr><td>Measuring cylinders or jugs (100 ml or more)</td><td>Y7 W6 to 8</td><td class="num">6</td></tr>
+            <tr><td>Plastic cups or beakers</td><td>All years</td><td class="num">50+</td></tr>
+            <tr><td>Droppers or pipettes</td><td>Y8 W4 to 5</td><td class="num">12</td></tr>
+            <tr><td>Spotting tiles, or white plastic lids</td><td>Y8 W4 to 5</td><td class="num">6</td></tr>
+            <tr><td>Small test tubes and racks, or thin plastic tubes</td><td>Y9 W6</td><td class="num">12 to 24</td></tr>
+            <tr><td>Magnifying glasses</td><td>Y8 W2</td><td class="num">6 to 12</td></tr>
+            <tr><td>Goggles</td><td>Y8 W4 to 5; Y9 W6</td><td class="num">24</td></tr>
+            <tr><td>Disposable gloves</td><td>Y7 W6 to 8; Y9 W6</td><td class="num">1 box</td></tr>
+            <tr><td>Iodine solution (optional)</td><td>Y8 W4</td><td class="num">1 small bottle</td></tr>
+            <tr><td>Scissors</td><td>Y7 W3; Y8 W3</td><td class="num">12</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="cols2">
+      <div class="block">
+        <h3>Request from the canteen or boarding house</h3>
+        <div class="tw">
+          <table>
+            <thead><tr><th>Item</th><th>Used in</th><th>Notes</th></tr></thead>
+            <tbody>
+              <tr><td>Freezer space</td><td>Y7 W6 to 8; Y9 W6</td><td>Book in Week 4; Y7 samples stay frozen about a week</td></tr>
+              <tr><td>Ice cubes</td><td>Y7 W6; Y9 W6</td><td>Fresh on the day</td></tr>
+              <tr><td>Salt, sugar, baking soda, cornflour, plain flour</td><td>Y8 W4; Y9 W6</td><td>Small bags</td></tr>
+              <tr><td>White vinegar, lemon juice</td><td>Y8 W4 to 5</td><td>1 bottle each</td></tr>
+              <tr><td>Red cabbage</td><td>Y8 W5</td><td>1 head; indicator made the day before</td></tr>
+              <tr><td>Kettle, teacher use only</td><td>Y8 W5; Y9 W6</td><td></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="block">
+        <h3>Buy · low cost, local or online</h3>
+        <div class="tw">
+          <table>
+            <thead><tr><th>Item</th><th>Used in</th></tr></thead>
+            <tbody>
+              <tr><td>Untreated wood sawdust or pet-bedding wood shavings</td><td>Y7 W7</td></tr>
+              <tr><td>Ice-lolly moulds or ice-cube trays</td><td>Y7 W7 to 8</td></tr>
+              <tr><td>White coffee filters</td><td>Y8 W3, W7</td></tr>
+              <tr><td>Washable black felt-tips, 4 different brands</td><td>Y8 W3</td></tr>
+              <tr><td>Soft pencils (2B to 4B), clear tape, white card</td><td>Y8 W2</td></tr>
+              <tr><td>Plastic sandwich bags, string</td><td>Y7 W8</td></tr>
+              <tr><td>Cotton wool, foil, bubble wrap</td><td>Y7 W6 to 7</td></tr>
+              <tr><td>Paper clips</td><td>Y7 W3 to 4</td></tr>
+              <tr><td>Kitchen roll and tissues</td><td>All years</td></tr>
+              <tr><td>A3 poster paper, sticky notes</td><td>All years, W9 to 10</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="cols2">
+      <div class="panel">
+        <h4>Collect and recycle · ask students and staff</h4>
+        <p style="font-size:.92rem">250 ml drink cartons (rinsed), plastic bottles, takeaway containers, newspapers, fabric scraps, clear jars with lids for the Y8 soil test, shoeboxes.</p>
+      </div>
+      <div class="panel">
+        <h4>General safety</h4>
+        <p style="font-size:.92rem">Every practical has a kit card listing hazards and controls. Main hazards: cold (ice and freezing mixtures), wet floors, hanging loads, hot water (teacher only), food allergies, dust (untreated sawdust only) and eye splashes (goggles). This outline does not replace the school's own risk assessment process.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 12 EXPLORING SCIENCE -->
+<section class="sec" id="sources">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">12 · Exploring Science</p>
+      <h2>Sections worth sourcing</h2>
+      <p class="lede">Extracts from the international section's books for teacher background, extension reading and diagrams. Check unit codes against the school's edition, and use within the school's licence.</p>
+    </div>
+    <div class="tw">
+      <table class="t-mid">
+        <thead><tr><th>Series</th><th>Topic needed</th><th>Likely unit</th></tr></thead>
+        <tbody>
+          <tr><th>All years</th><td>Working scientifically: variables, fair testing, tables, graphs, evaluating</td><td>Working Scientifically pages throughout the Year 7 book</td></tr>
+          <tr><th>Y7</th><td>Air resistance (spinners)</td><td>7K Forces</td></tr>
+          <tr><th>Y7</th><td>Melting, freezing, changes of state</td><td>7G The Particle Model</td></tr>
+          <tr><th>Y7</th><td>Insulation and energy transfer</td><td>7I Energy</td></tr>
+          <tr><th>Y8</th><td>Dissolving, solvents, chromatography</td><td>7E Mixtures and Separation</td></tr>
+          <tr><th>Y8</th><td>Indicators and the pH scale</td><td>7F Acids and Alkalis</td></tr>
+          <tr><th>Y9</th><td>Changes of state (Mpemba)</td><td>7G The Particle Model</td></tr>
+          <tr><th>Y9</th><td>Reaction time and the nervous system</td><td>Year 8 or 9 unit covering the nervous system (check edition)</td></tr>
+          <tr><th>Y9</th><td>Evaluating evidence, correlation, sample size</td><td>Working Scientifically pages in the Year 9 book</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- 13 DESIGN BRIEF -->
+<section class="sec" id="design">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">13 · Design brief</p>
+      <h2>For the design team</h2>
+      <p class="lede">One programme identity, three series colours, and templates that stay the same every week so students and teachers always know where to look.</p>
+    </div>
+    <div class="trio">
+      <article class="y7"><header><span class="yr">Series colour · ice blue</span><h3>Ice Engineers</h3><span class="zh">Icon: ice crystal</span></header><dl><div><dt>Greyscale</dt><dd>Icon and pattern must carry the identity without colour</dd></div></dl></article>
+      <article class="y8"><header><span class="yr">Series colour · amber</span><h3>Science Detectives</h3><span class="zh">Icon: magnifying glass</span></header><dl><div><dt>Greyscale</dt><dd>Icon and pattern must carry the identity without colour</dd></div></dl></article>
+      <article class="y9"><header><span class="yr">Series colour · plum</span><h3>Claim Busters</h3><span class="zh">Icon: speech bubble with a tick</span></header><dl><div><dt>Greyscale</dt><dd>Icon and pattern must carry the identity without colour</dd></div></dl></article>
+    </div>
+    <div class="detail-grid">
+      <div class="panel">
+        <h4>Slides</h4>
+        <ul>
+          <li>16:9. Title in English with Chinese beneath in a lighter weight.</li>
+          <li>Fixed vocabulary panel in the same place on every slide (English | 中文).</li>
+          <li>Lesson-phase icon in the same corner on every slide.</li>
+          <li>No more than about 30 words of English per slide; images and diagrams carry the meaning.</li>
+          <li>Safety slides fully bilingual.</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h4>Worksheets</h4>
+        <ul>
+          <li>A4 portrait, black-and-white friendly.</li>
+          <li>Minimum 12 pt, 14 pt for Year 7 Core. Sans-serif Latin font with a matching Chinese font, for example Noto Sans with Noto Sans SC.</li>
+          <li>Header, vocabulary panel, Core / Stretch / Challenge, "My thinking" box and fold-under word bank in the same positions every week.</li>
+          <li>Generous writing space; lines for writing, grids for graphs.</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h4>Icon set needed</h4>
+        <ul>
+          <li>Six lesson phases</li>
+          <li>Three tiers: Core, Stretch, Challenge</li>
+          <li>"Any language" thinking box</li>
+          <li>Safety, and five group roles</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h4>Other printables</h4>
+        <ul>
+          <li>Scientist's Logbook (A5)</li>
+          <li>Group role cards; kit cards (half A4, laminated if possible)</li>
+          <li>Certificates and skills report template</li>
+          <li>Poster template for each series</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 14 NEXT -->
+<section class="sec" id="next">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">14 · Decisions and next steps</p>
+      <h2>What is needed to start building</h2>
+    </div>
+    <div class="cols2">
+      <div class="block">
+        <h3>Decisions needed</h3>
+        <ol class="decide">
+          <li><span><strong>Year 8 option:</strong> A Science Detectives (recommended), B Winter Survival Science, or C Kitchen Chemists.</span></li>
+          <li><span><strong>Year 9 option:</strong> A Claim Busters (recommended), B Clean Water Engineers, or C Campus Climate Watch.</span></li>
+          <li><span><strong>Confirm assumptions:</strong> session length, start date, separate year groups, class sizes.</span></li>
+          <li><span><strong>Freezer access:</strong> who to ask and when to book.</span></li>
+          <li><span><strong>Kit ordering:</strong> who places the order for the "Buy" list, and by when.</span></li>
+          <li><span><strong>Translation check:</strong> which Chinese-speaking colleague checks glossaries and safety text.</span></li>
+          <li><span><strong>Exploring Science:</strong> which digital copies can be sourced.</span></li>
+        </ol>
+      </div>
+      <div class="block">
+        <h3>Proposed build order</h3>
+        <ol class="build">
+          <li>Lesson packs for <strong>Weeks 1 to 5, all three years</strong>, needed before the handover: one-page plan, slides, worksheet, answer key, kit card.</li>
+          <li><strong>Teacher Guide</strong> and <strong>assessment pack</strong> (skills check, rubric, survey) by Week 4.</li>
+          <li><strong>Weeks 6 to 10</strong> lesson packs by Week 5.</li>
+          <li>Logbook, role cards, certificates and report templates.</li>
+          <li>All resources through design, then a native-speaker check, then printing.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">Think Like a Scientist · 像科学家一样思考 · Programme outline v0.1 · 1 October 2026</div>
+</footer>
