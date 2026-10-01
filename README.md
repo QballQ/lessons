@@ -4,7 +4,7 @@ Science enrichment programme for the bilingual domestic stream, Years 7 to 9. Te
 
 ## Status
 
-Stage 1: programme outline (v0.1, for review).
+Stage 1: programme outline (v0.2). Confirmed: Year 8 Science Detectives, Year 9 Claim Busters, 40-minute lessons.
 
 ## Contents
 
@@ -16,8 +16,8 @@ Stage 1: programme outline (v0.1, for review).
 ## Series
 
 - **Year 7: Ice Engineers 冰雪工程师** - from thought experiments to a self-designed test of fibre-reinforced ice
-- **Year 8: Science Detectives 科学侦探** (recommended; two alternatives in the outline)
-- **Year 9: Claim Busters 真相调查员** (recommended; two alternatives in the outline)
+- **Year 8: Science Detectives 科学侦探**
+- **Year 9: Claim Busters 真相调查员**
 
 ## Next stage
 

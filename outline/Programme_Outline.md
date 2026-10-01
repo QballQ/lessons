@@ -1,7 +1,9 @@
 # Think Like a Scientist | 像科学家一样思考
 
 **Science Enrichment Programme, Bilingual Domestic Stream, Years 7 to 9**
-Programme outline v0.1, for review before lesson and resource design | 1 October 2026
+Programme outline v0.2 | 1 October 2026
+
+**Confirmed:** Year 8 Science Detectives, Year 9 Claim Busters, 40-minute lessons.
 
 ---
 
@@ -11,8 +13,8 @@ Programme outline v0.1, for review before lesson and resource design | 1 October
 2. Working assumptions to confirm
 3. The three series at a glance
 4. Year 7: Ice Engineers (full sketch)
-5. Year 8: Science Detectives (recommended) and two alternatives
-6. Year 9: Claim Busters (recommended) and two alternatives
+5. Year 8: Science Detectives (confirmed)
+6. Year 9: Claim Busters (confirmed)
 7. How every lesson runs
 8. Language access: how slides and worksheets work
 9. Assessment
@@ -54,7 +56,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 
 | Item | Assumption used in this outline | Why it matters |
 |---|---|---|
-| Frequency and length | One session per week, 60 minutes | Every lesson plan includes a 40 to 45 minute version if periods are shorter |
+| Frequency and length | **Confirmed:** one session per week, 40 minutes | Practical time is about 18 minutes, so kit is prepared in advance and some tasks are trimmed (see Section 7) |
 | Classes | Y7, Y8 and Y9 taught as separate groups, up to 24 students, working in groups of 3 or 4 | Kit quantities and group roles are based on 6 groups |
 | Start date | Week commencing 12 October 2026 (after the National Day holiday) | Puts the handover at the Week 5 / Week 6 boundary and the ice project in late November |
 | Incoming teacher | Arrives around 5 to 12 November (Week 4 or 5) | Can observe Week 5 and lead from Week 6 |
@@ -113,7 +115,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 | 2 | Thought experiments 思想实验 | Testable questions; predictions with reasons | **Galileo's thought experiment:** if heavy things fall faster, what happens when a heavy and a light ball are tied together? Then a quick test: drop a book and a sheet of paper, then the paper resting on the book. **Question sort:** testable vs not testable. Students write three testable questions about winter (e.g. "Does salt make ice melt faster?"). | Paper, a book, printed question cards | Question sort; three testable questions |
 | 3 | Meet the variables 认识变量 | Independent, dependent and control variables; fair test | **Paper spinners:** make spinners from a printed template, change wing length, time the fall from a 2 m mark. "I change / I measure / I keep the same". | Spinner template, scissors, paper clips, stopwatches, metre stick | Variables table; first results |
 | 4 | Measure it well 学会准确测量 | Units, repeats, mean, anomalies | **Spinners part 2:** three repeats per wing length; work out the mean; find and discuss the anomaly; why do timings differ? | As Week 3 | Results table with means |
-| 5 | Spot the pattern 发现规律 + Checkpoint 阶段检测 | Choosing and drawing graphs; writing a conclusion | Plot spinner data; decide bar chart or line graph; write a conclusion with the frame "As the ___ increases, the ___ ___." **15-minute checkpoint quiz.** | Printed graph paper | Graph and conclusion; checkpoint score in tracker |
+| 5 | Spot the pattern 发现规律 + Checkpoint 阶段检测 | Choosing and drawing graphs; writing a conclusion | Plot spinner data; decide bar chart or line graph; write a conclusion with the frame "As the ___ increases, the ___ ___." **10-minute checkpoint quiz.** | Printed graph paper | Graph and conclusion; checkpoint score in tracker |
 | | **Handover point** | | | | |
 | 6 | Ice cube rescue 冰块保卫战 | Planning a fair test with ice | **Concept cartoon:** "If we put a coat on a snowman, will it melt faster or slower?" Then the **ice cube keeper challenge:** wrap identical ice cubes in different materials; after 30 minutes measure the meltwater. Practises the exact skills the project needs. | Ice cubes, cups, newspaper, foil, fabric, cotton wool, bubble wrap, measuring cylinder or kitchen scale, trays | Mini fair test write-up |
 | 7 | The ice ship mission 冰船计划 | Planning their own investigation | Pykrete story hook. Groups choose an independent variable (type of fibre, or amount of sawdust) and a test (strength or melting). Complete a planning frame and risk assessment. **Make samples** in identical moulds and label them for the freezer. | Moulds, untreated sawdust, tissue, cotton wool, shredded paper, water, measuring jug, labels, freezer | Plan sheet; labelled samples |
@@ -148,7 +150,7 @@ Run the same project with **fibre-reinforced dough bars**: flour, salt and water
 
 ---
 
-## 5. Year 8: Science Detectives | 科学侦探 (recommended)
+## 5. Year 8: Science Detectives | 科学侦探 (confirmed)
 
 **Big question:** How strong is the evidence?
 **Project:** Solve the Frozen Notebook case, then design your own forensic test.
@@ -169,7 +171,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 | 2 | Fingerprints 指纹档案 | Classifying; tallies; bar charts | Take own prints with soft pencil and clear tape; classify as loop, whorl or arch; class survey and bar chart of fingerprint types; compare with the scene print. | Soft pencils, clear tape, white card, magnifying glasses | Fingerprint card; class bar chart |
 | 3 | Who wrote the note? 纸条是谁写的？ | Paper chromatography; reference samples as controls | Run chromatograms of each suspect's pen and the ink from the note on coffee-filter strips with water. Match the patterns. Stretch: calculate Rf values. | Coffee filters, 4 brands of washable black felt-tip, cups, water, pencils, rulers | Chromatograms; match table |
 | 4 | The white powder 白色粉末之谜 | Systematic testing; identification keys | Test five known powders (salt, sugar, baking soda, cornflour, flour) with water, vinegar and (optional) iodine. Build a results grid. Identify the scene powder. Turn the grid into a flowchart key. | Food powders, vinegar, water, droppers or teaspoons, spotting tiles or white lids, goggles | Results grid; identification key |
-| 5 | The mystery liquid 神秘液体 + Checkpoint 阶段检测 | Indicators; the pH scale | Use red cabbage indicator (made in advance by the teacher) to test the scene liquid against references: lemon juice, vinegar, water, soap solution, baking soda solution. **15-minute checkpoint quiz.** | Cabbage indicator, cups, droppers, reference liquids, printed colour chart, goggles | pH results; checkpoint score in tracker |
+| 5 | The mystery liquid 神秘液体 + Checkpoint 阶段检测 | Indicators; the pH scale | Use red cabbage indicator (made in advance by the teacher) to test the scene liquid against references: lemon juice, vinegar, water, soap solution, baking soda solution. **10-minute checkpoint quiz.** | Cabbage indicator, cups, droppers, reference liquids, printed colour chart, goggles | pH results; checkpoint score in tracker |
 | | **Handover point** | | | | |
 | 6 | Footprints and height 脚印与身高 | Measuring; scatter graphs; correlation; predicting from data | Measure foot length and height across the class; plot a scatter graph and line of best fit; use it to estimate the height of the person who left the scene footprint, with a range rather than one number. | Tape measures or metre sticks, printed scene footprint at true size | Scatter graph; height estimate with range |
 | 7 | Design your own test 设计你的检测 | Planning; controls; fair comparison | Groups choose one question: **Soil:** which campus location matches the soil on the suspect's shoe? (settling jars). **Paper:** which paper towel was found at the scene? (absorbency). **Ink 2:** which solvent separates inks best? (water, salt water, vinegar). **Powder 2:** can we identify a mixture of two powders? Plan with variables, references and risk. | As chosen | Plan sheet |
@@ -184,7 +186,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 - The teacher makes the cabbage indicator in advance with hot water; students do not handle boiling water.
 - Iodine stains skin and clothes; optional only.
 
-### Year 8 alternatives
+### Year 8 alternatives considered (not chosen)
 
 **Option B: Winter Survival Science | 冬季生存科学**
 - Big question: how do living things and people survive the cold?
@@ -206,7 +208,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 
 ---
 
-## 6. Year 9: Claim Busters | 真相调查员 (recommended)
+## 6. Year 9: Claim Busters | 真相调查员 (confirmed)
 
 **Big question:** Should I believe it?
 **Project:** Choose a real-world claim, test it, and reach an honest verdict.
@@ -216,7 +218,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 
 **Verdict scale (used all series):** Supported 有证据支持 | Not supported 证据不支持 | Not enough evidence yet 证据尚不足. "Not enough evidence yet" is a respectable scientific answer, and students learn to say it.
 
-**Hooks:** Tu Youyou (屠呦呦) and her team took an idea from a 1,600-year-old text and tested it with careful experiments, leading to a malaria medicine and the 2015 Nobel Prize. Erasto Mpemba, a Tanzanian school student, noticed in 1963 that hot ice-cream mixture seemed to freeze faster than cold, and scientists are still arguing about it.
+**Hooks:** Tu Youyou (屠呦呦) and her team took an idea from a text more than 1,600 years old and tested it with careful experiments, leading to a malaria medicine and the 2015 Nobel Prize. Erasto Mpemba, a Tanzanian school student, noticed in 1963 that hot ice-cream mixture seemed to freeze faster than cold, and scientists are still arguing about it.
 
 ### Week by week
 
@@ -226,7 +228,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 | 2 | Brains that fool us 会骗人的大脑 | Bias; perception; why we measure | **Optical illusions** checked with a ruler. **Anchoring:** half the class is asked "Is the Yangtze longer or shorter than 1,000 km?", the other half "than 10,000 km?", then everyone estimates; compare the class means. **2-4-6 rule game** (confirmation bias). | Printed sheets, rulers | Bias reflection |
 | 3 | Test it properly 科学地检验 | Variables; repeats; mean; range | **Ruler-drop reaction test:** "Is your dominant hand faster?" Five repeats each hand; mean and range; is the difference big enough to matter? | 30 cm rulers, printed distance-to-time table | Results with a conclusion that mentions uncertainty |
 | 4 | Correlation or cause? 相关还是因果？ | Scatter graphs; correlation; confounding variables; misleading graphs | **Spurious correlations game** (winter example: hot drink sales and colds both rise in winter; does one cause the other?). **Class data:** arm span vs height. **Fix the graph:** redraw a misleading chart. | Tape measures, printed graphs | Scatter graph; corrected graph |
-| 5 | Fair trials 公平试验 + Checkpoint 阶段检测 | Control groups; blinding; placebo; sample size; ethics | **Lucky pen trial:** half the class is told their pen improves memory; everyone does the same 20-word memory test; compare groups; debrief on placebo, blinding and research ethics. Tu Youyou hook. **15-minute checkpoint quiz.** | Identical pens, printed word lists | Trial results; checkpoint score in tracker |
+| 5 | Fair trials 公平试验 + Checkpoint 阶段检测 | Control groups; blinding; placebo; sample size; ethics | **Lucky pen trial:** half the class is told their pen improves memory; everyone does the same 20-word memory test; compare groups; debrief on placebo, blinding and research ethics. Tu Youyou hook. **10-minute checkpoint quiz.** | Identical pens, printed word lists | Trial results; checkpoint score in tracker |
 | | **Handover point** | | | | |
 | 6 | The Mpemba mystery 姆潘巴之谜 | Contested science; operational definitions | Mpemba story. Test hot vs cold water in small tubes in an **ice and salt freezing mixture** (reaches well below 0 °C in a cup). Key debate: what counts as "frozen"? First crystals, fully solid, or reaching 0 °C? Each definition can give a different answer. | Ice, salt, cups, small tubes, thermometers, stopwatch, warm water prepared by the teacher | Class results; definition debate |
 | 7 | Choose your claim 选择你的课题 | Planning; sample size; ethics; risk | Choose a claim from the claim bank. Complete the planning frame (question, variables, sample size, controls, ethics for any human participants, risk). Peer check, then teacher approval. | Claim bank cards | Approved plan |
@@ -257,7 +259,7 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 - Warm water for the Mpemba test is prepared by the teacher (no hotter than about 60 °C for student handling).
 - Human-participant claims: voluntary participation, no pressure, results anonymised.
 
-### Year 9 alternatives
+### Year 9 alternatives considered (not chosen)
 
 **Option B: Clean Water Engineers | 净水工程师**
 - Big question: how can engineers make dirty water clean?
@@ -280,16 +282,35 @@ The night before the Winter Science Fair, Professor Frost's research notebook di
 
 ## 7. How every lesson runs
 
-Every lesson in every year follows the same six phases, with the same icons on slides and worksheets.
+Every lesson in every year follows the same five phases in a 40-minute session, with the same icons on slides and worksheets.
 
-| Phase | 中文 | Minutes (60) | Minutes (40 to 45) | Purpose |
-|---|---|---|---|---|
-| Do Now | 课前任务 | 5 | 5 | Retrieval of last week's vocabulary, or a puzzle; students start as they arrive |
-| Hook | 引入 | 5 | 3 | A question, demo, story or thought experiment that creates curiosity |
-| Learn | 新知 | 10 | 7 | The key idea, with bilingual vocabulary |
-| Do | 实践 | 25 | 18 | The practical or thinking task, with Core / Stretch / Challenge tiers |
-| Think | 思辨 | 10 | 7 (merged with Reflect) | A critical-thinking discussion: odd one out, concept cartoon, Claim-Evidence-Reasoning |
-| Reflect | 反思 | 5 | (merged) | Exit ticket and logbook entry |
+| Phase | 中文 | Minutes | Purpose |
+|---|---|---|---|
+| Do Now | 课前任务 | 4 | Retrieval of last week's vocabulary, or a puzzle; students start as they arrive |
+| Hook | 引入 | 3 | A question, demo, story or thought experiment that creates curiosity |
+| Learn | 新知 | 7 | The key idea, with bilingual vocabulary |
+| Do | 实践 | 18 | The practical or thinking task, with Core / Stretch / Challenge tiers |
+| Think and Reflect | 思辨与反思 | 8 | A quick critical-thinking discussion, then exit ticket and logbook line |
+
+### Making 40 minutes work
+
+- **Kit ready before students arrive.** Each group's tray is set out using the kit card. Templates are pre-printed; anything slow (cabbage indicator, freezing mixtures, ice samples) is prepared in advance.
+- **Fixed group roles and tables.** Groups sit together from the first minute, so no time is lost moving.
+- **Assessment time is kept short.** Skills check 15 minutes (Weeks 1 and 10), checkpoint 10 minutes (Week 5), survey 3 minutes. In Week 1 the main activity is trimmed to fit.
+- **Homework-free.** Nothing depends on work outside the session; the logbook is written in class.
+
+**Pressure points and fixes**
+
+| Lesson | Pressure | Fix |
+|---|---|---|
+| All Week 1s | Baseline check and survey take 18 minutes | One short activity only (Y7: footprint puzzle; mystery cups move to the Week 2 Do Now) |
+| Y7 W3 to 4 | Making spinners eats into testing | Spinners pre-printed on card; students only cut and fold |
+| Y7 W6 | Ice needs 30 minutes to melt | Ice cubes wrapped and started at the beginning of the lesson; measured in the last 8 minutes |
+| Y7 W7 | Planning and making samples in one lesson | Planning frame started in the Week 6 Think phase; samples made in the last 10 minutes |
+| Y7 W8 / Y8 W8 / Y9 W8 | Repeats take time | Groups split roles so tests run in parallel; 3 repeats is the target, 2 the minimum |
+| Y8 W5 | Indicator plus checkpoint | Indicator ready in cups; checkpoint 10 minutes |
+| Y9 W6 | Water takes time to freeze | Tubes go into the freezing mixture during Learn; readings taken during Do |
+| All Week 10s | Talks, skills check and survey in one lesson | Skills check 15 minutes, talks 2 minutes per group (about 15 minutes), survey and certificates 5 minutes; posters/reports displayed for a gallery walk at break or a later session |
 
 ### Group roles (rotate weekly)
 
@@ -321,18 +342,17 @@ The logbook is part of the assessment evidence and gives the incoming teacher a 
 
 | Phase | Min | Teacher | Students |
 |---|---|---|---|
-| Do Now | 5 | Shows a picture of two paper planes thrown by different people from different heights | "Is this a fair race?" Answer with the frame: "It is / is not fair because ___." |
-| Hook | 5 | Drops a short-winged and a long-winged spinner together | Vote on which lands first, then watch |
-| Learn | 10 | Teaches "I change / I measure / I keep the same" with hand gestures; bilingual vocab panel | Complete the cloze on the slide together |
-| Do | 25 | Circulates; checks roles and timing | Groups make spinners, test three wing lengths from the 2 m mark, record times |
-| Think | 10 | Shows four test descriptions | Odd one out: which test is not fair? Pair talk in any language, share in English with a frame |
-| Reflect | 5 | Collects exit tickets | Exit ticket: name the IV, DV and one control variable. Logbook entry |
+| Do Now | 4 | Shows a picture of two paper planes thrown by different people from different heights | "Is this a fair race?" Answer with the frame: "It is / is not fair because ___." |
+| Hook | 3 | Drops a short-winged and a long-winged spinner together | Vote on which lands first, then watch |
+| Learn | 7 | Teaches "I change / I measure / I keep the same" with hand gestures; bilingual vocab panel | Complete the cloze on the slide together |
+| Do | 18 | Circulates; checks roles and timing | Groups cut pre-printed spinners, test three wing lengths from the 2 m mark, record times |
+| Think and Reflect | 8 | Shows four test descriptions; collects exit tickets | Odd one out: which test is not fair? Pair talk in any language, share in English with a frame. Exit ticket: name the IV, DV and one control variable |
 
 **Tiers:** Core: cloze with word bank and picture sort. Stretch: name two more control variables and explain why each must stay the same. Challenge: design a new test with paper type as the independent variable and predict the result using "air resistance".
-**Kit card:** spinner template (1 per student), scissors, paper clips, stopwatch (1 per group), 2 m mark on the wall.
+**Kit card:** spinner template printed on card (1 per student), scissors, paper clips, stopwatch (1 per group), 2 m mark on the wall.
 **Safety:** no standing on chairs or tables; care with scissors.
 **Teacher notes:** common misconception, "heavier things always fall faster". Timing errors are expected and set up Week 4.
-**If 40 to 45 minutes:** test two wing lengths instead of three; merge Think and Reflect.
+**If time runs short:** test two wing lengths instead of three.
 
 ---
 
@@ -463,7 +483,7 @@ Full glossaries will be built with each lesson. These are the core words for eac
 |---|---|---|---|
 | **Final project product** (poster / case file / fact-check report) | Weeks 9 to 10 | Rubric strands 1 to 5 | Main judgement of scientific thinking |
 | **Final presentation** (Expo talk / expert witness / conference talk) | Week 10 | Rubric strand 6, plus questioning | Communication and confidence |
-| **Skills check** (same paper in Week 1 and Week 10; short checkpoint in Week 5) | Weeks 1, 5, 10 | Core skills: variables, fair tests, tables, graphs, conclusions, evaluation | Shows growth over the ten weeks |
+| **Skills check** (same 15-minute paper in Week 1 and Week 10; 10-minute checkpoint in Week 5) | Weeks 1, 5, 10 | Core skills: variables, fair tests, tables, graphs, conclusions, evaluation | Shows growth over the ten weeks |
 | **Scientist's Logbook** | Weekly | Engagement, reflection, vocabulary | Supporting evidence; handover record |
 | **Interest survey** (same in Week 1 and Week 10) | Weeks 1, 10 | Interest and confidence | Shows programme impact for principals and parents |
 
@@ -482,7 +502,7 @@ Levels: **Beginning 起步 | Developing 发展 | Secure 达标 | Excellent 优�
 
 **Important:** communication is judged on the clarity of the science, not on English grammar. Students may explain their reasoning in Chinese in the "My thinking" box; key vocabulary is expected in English.
 
-### Skills check (20 minutes, bilingual question stems)
+### Skills check (15 minutes, bilingual question stems)
 
 Question types, with year-specific contexts:
 1. Observation or inference? (sort statements)
@@ -496,7 +516,7 @@ Question types, with year-specific contexts:
 9. Suggest one improvement and say why
 10. Year 8: rank evidence. Year 9: correlation or cause?
 
-Scored out of 20. The Week 5 checkpoint uses questions 1 to 6 (about 15 minutes).
+Scored out of 20. The Week 5 checkpoint uses questions 1 to 6 (10 minutes).
 
 ### Interest survey (5-point smiley scale, bilingual)
 
@@ -569,7 +589,7 @@ Think_Like_a_Scientist/
 
 ## 11. Kit list for the prep room
 
-Quantities assume a class of 24 working in 6 groups. "Used in" refers to the recommended options.
+Quantities assume a class of 24 working in 6 groups. "Used in" refers to the confirmed series.
 
 ### Likely already in the prep room (please check)
 
@@ -681,9 +701,9 @@ Scientist's Logbook (A5), group role cards, kit cards (half A4, laminated if pos
 
 ### Decisions needed
 
-1. **Year 8 option:** A Science Detectives (recommended), B Winter Survival Science, or C Kitchen Chemists.
-2. **Year 9 option:** A Claim Busters (recommended), B Clean Water Engineers, or C Campus Climate Watch.
-3. **Confirm assumptions:** session length, start date, separate year groups, class sizes.
+1. ~~Year 8 option~~ **Confirmed:** Science Detectives.
+2. ~~Year 9 option~~ **Confirmed:** Claim Busters.
+3. ~~Assumptions~~ **Confirmed:** 40-minute lessons; separate year groups, class sizes and start date as assumed.
 4. **Freezer access:** who to ask and when to book.
 5. **Kit ordering:** who places the order for the "Buy" list, and by when.
 6. **Translation check:** which Chinese-speaking colleague can check glossaries and safety text.
