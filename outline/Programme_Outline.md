@@ -60,7 +60,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 | Classes | Y7, Y8 and Y9 taught as separate groups, up to 24 students, working in groups of 3 or 4 | Kit quantities and group roles are based on 6 groups |
 | Start date | Week commencing 12 October 2026 (after the National Day holiday) | Puts the handover at the Week 5 / Week 6 boundary and the ice project in late November |
 | Incoming teacher | Arrives around 5 to 12 November (Week 4 or 5) | Can observe Week 5 and lead from Week 6 |
-| Freezer | Access to a freezer (canteen, boarding house or staff room) for Y7 Weeks 6 to 8 and Y9 Week 6 | Y7 project samples need at least 24 hours to freeze |
+| Freezer | **Not yet confirmed.** Decision by Week 4 (w/c 2 November) | Plan A uses ice; Plan B needs no freezer. Both are fully planned (see below) |
 | Printing | A4, black and white | All resources are designed to work in greyscale |
 | Devices | No student devices. One teacher screen or projector | Nothing depends on students having phones or tablets |
 | Language | Mandarin first language; English as second language with mixed proficiency | Shapes the scaffolding in every resource |
@@ -73,6 +73,26 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 | w/c | 12 Oct | 19 Oct | 26 Oct | 2 Nov | 9 Nov | 16 Nov | 23 Nov | 30 Nov | 7 Dec | 14 Dec |
 | Phase | Skills | Skills | Skills | Skills | Checkpoint | Project | Project | Project | Project | Assessment |
 | Teacher | Current | Current | Current | Current | Current (new teacher observes) | **New teacher leads** | New | New | New | New |
+
+### Freezer: Plan A and Plan B
+
+Freezer access is not yet confirmed, so the programme does not depend on it. Both plans are fully built, and the choice is made by **Week 4 (w/c 2 November)**, before any ice is needed. The current teacher records the decision in the handover note.
+
+**What Plan A actually needs** (much less than a full freezer):
+- Year 7 Week 6: one or two trays of ice cubes (about 24 cubes).
+- Year 7 Weeks 7 to 8: space for about 36 small ice-lolly-sized samples for one week. **A domestic fridge's freezer compartment is enough**, for example in a staff room or boarding house.
+- Year 9 Week 6: about 2 to 3 kg of ice on the day (could come from the canteen).
+
+| Lesson | Plan A (freezer) | Plan B (no freezer) | Plan B needs |
+|---|---|---|---|
+| Y7 W6 | **Ice cube rescue:** wrap ice cubes in materials, measure meltwater | **Keep it warm:** wrap cups of warm water (about 50 °C, teacher-prepared) in the same materials, measure the temperature drop over 15 minutes. Same fair-test skills, same concept cartoon (snowman in a coat) | 6 thermometers |
+| Y7 W7 to 8 | **Pykrete:** fibre-reinforced ice beams, strength or melting test | **Straw-brick science:** fibre-reinforced dough bars (2 cups flour, 1 cup salt, about 1 cup water) with the same fibres, made 1 cm thick in the same moulds and air-dried for a week. Strength test only, same water-bag method. Pykrete stays as the story hook, alongside straw in mud bricks | Flour, salt, a dry shelf for a week |
+| Y9 W6 | **Mpemba test:** hot vs cold water in an ice and salt freezing mixture | **Cooling-curve test:** cups of water at about 60 °C and 35 °C; record the temperature every minute and plot cooling curves. Debate: hot water cools faster at first, but does that prove it freezes first? A strong lesson on the limits of evidence | 6 to 12 thermometers |
+| Y9 claim bank | All 12 claims available | Claims 1, 2, 5 and 6 need ice, so they are removed; 8 claims remain | None |
+
+Plan B does not weaken the assessment: the same skills, rubric and final products apply.
+
+**Thermometers matter more than the freezer.** Plan B relies on 6 to 12 thermometers. Please check the prep room for these first.
 
 ---
 
@@ -133,7 +153,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 - **Choice of dependent variable:**
   - Strength: volume of water (ml) the beam holds before it snaps
   - Melting: time to melt fully, or volume of meltwater after a set time
-- **Timing:** make samples in Week 7, freeze for at least 24 hours, test in Week 8. Book freezer space in Week 4.
+- **Timing:** make samples in Week 7, freeze for at least 24 hours, test in Week 8. Freezer decision by Week 4 (see Section 2).
 - **Repeats:** each group makes three samples of each type.
 
 ### Safety notes for Year 7
@@ -144,9 +164,9 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 - Mop spills straight away.
 - No standing on chairs or tables when dropping spinners.
 
-### Backup plan if no freezer is available
+### If there is no freezer
 
-Run the same project with **fibre-reinforced dough bars**: flour, salt and water, with the same fibres added, shaped in the same moulds and air-dried for a week. Same question, same tests (strength only), same poster. It links to straw-reinforced mud bricks.
+Year 7 runs Plan B: fibre-reinforced dough bars in Weeks 7 to 8 and a "keep it warm" challenge in Week 6. Full details are in **Section 2: Freezer, Plan A and Plan B**.
 
 ---
 
@@ -615,7 +635,7 @@ Quantities assume a class of 24 working in 6 groups. "Used in" refers to the con
 
 | Item | Used in | Notes |
 |---|---|---|
-| Freezer space | Y7 W6 to 8; Y9 W6 | Book in Week 4. Y7 samples stay frozen for about a week |
+| Freezer space (Plan A only) | Y7 W6 to 8; Y9 W6 | A fridge's freezer compartment is enough. Decide by Week 4 |
 | Ice cubes | Y7 W6; Y9 W6 | Fresh on the day |
 | Salt, sugar, baking soda, cornflour, plain flour | Y8 W4; Y9 W6 | Small bags |
 | White vinegar, lemon juice | Y8 W4 to 5 | 1 bottle each |
@@ -704,7 +724,7 @@ Scientist's Logbook (A5), group role cards, kit cards (half A4, laminated if pos
 1. ~~Year 8 option~~ **Confirmed:** Science Detectives.
 2. ~~Year 9 option~~ **Confirmed:** Claim Busters.
 3. ~~Assumptions~~ **Confirmed:** 40-minute lessons; separate year groups, class sizes and start date as assumed.
-4. **Freezer access:** who to ask and when to book.
+4. **Freezer:** check the canteen, boarding house and staff-room fridges by Week 4 (w/c 2 November). A small freezer compartment is enough. If none, run Plan B.
 5. **Kit ordering:** who places the order for the "Buy" list, and by when.
 6. **Translation check:** which Chinese-speaking colleague can check glossaries and safety text.
 7. **Exploring Science:** confirm which digital copies can be sourced.
