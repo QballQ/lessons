@@ -5,7 +5,7 @@ Chinese text status: draft, needs native-speaker check
 
 ---
 
-> **Plan A and Plan B | 方案A和方案B:** this lesson works for both plans with no changes. Posters show either ice beams (Plan A) or dough bars (Plan B); the talks, question cards, feedback slips, skills check, survey and certificates are the same.
+> **Plan A and Plan B | 方案A和方案B:** this lesson works for both plans with no changes. Posters show either ice strips (Plan A) or dough strips (Plan B); the talks, question cards, feedback slips, skills check, survey and certificates are the same.
 
 ---
 
@@ -200,20 +200,20 @@ One thing I want to find out next: ______________________________
 
 **Survey:** score with `assessment/Interest_Survey.md`, Section 2; enter W10 S1 to S6.
 
-**Core (Expo notes):** any accurate entry, for example "Frost Hares | amount of sawdust | water held when the beam snapped | 15 g held 600 ml". Check units.
+**Core (Expo notes):** any accurate entry, for example "Frost Hares | amount of sawdust | water held when the strip snapped | 0.9 g held 575 ml". Check units.
 
 **Stretch:** a) any question card copied. b) Secure: a fair judgement with one thing the group said.
 
 **Challenge (Secure examples):**
-- "Snow Owls and Frost Hares both found that 5 g of sawdust made the beams stronger than plain ice (367 ml and 333 ml compared with about 250 ml), so they agree."
-- "Snow Owls found tissue held 325 ml but Ice Foxes found 300 ml. They nearly agree; the difference is small, and both groups only had two good repeats for tissue, so we cannot be very sure."
-- Excellent: names a specific difference in method (beams out of the box for different times; bars dried for different times; pouring speed) and explains how it could change the result.
+- "Frost Hares and Polar Bears both found that 0.9 g of sawdust made the strips much stronger than plain ice (575 ml each, compared with about 275 to 300 ml), so they agree."
+- "Snow Owls and Ice Foxes both found tissue held a mean of 375 ml, but both groups only had two good repeats for tissue, and Ice Foxes' repeats were 50 ml apart, so we cannot be very sure."
+- Excellent: names a specific difference in method (strips out of the box for different times; strips dried for different times; pouring speed) and explains how it could change the result.
 
-**My thinking (guidance):** good answers link a method to an example: "Scientists find things out by doing fair tests: we changed only the amount of sawdust and kept 100 ml of water the same." / "... by repeating tests and taking the mean." / "... by being honest about anomalies." / "... by checking each other's work, like the plan check and today's questions." Accept Chinese. Copy strong answers (anonymised) into the programme summary.
+**My thinking (guidance):** good answers link a method to an example: "Scientists find things out by doing fair tests: we changed only the amount of sawdust and kept 12 ml of water in every strip the same." / "... by repeating tests and taking the mean." / "... by being honest about anomalies." / "... by checking each other's work, like the plan check and today's questions." Accept Chinese. Copy strong answers (anonymised) into the programme summary.
 
 **Exit ticket:** any thoughtful answer; use them for the teacher comment on the skills report and for the programme summary.
 
-**Rubric judgement:** strands 1 to 5 from the poster (confirm the draft levels made after Week 9, using the worksheets from Weeks 6 to 9 and the logbook to judge individuals); strand 6 from the talk record. Use "What Secure looks like: Year 7" in `assessment/Rubric_and_Reporting.md`, Section 2. Note: the Secure examples there use illustrative values (250 ml at 0 g to 600 ml at 15 g); your class values will differ.
+**Rubric judgement:** strands 1 to 5 from the poster (confirm the draft levels made after Week 9, using the worksheets from Weeks 6 to 9 and the logbook to judge individuals); strand 6 from the talk record. Use "What Secure looks like: Year 7" in `assessment/Rubric_and_Reporting.md`, Section 2. Note: the Secure examples there use illustrative values; your class values will differ.
 
 ---
 
@@ -366,9 +366,9 @@ Text:
   5. Only now return or discuss the Week 1 and Week 10 skills check papers, if your school wants them returned.
   6. Photograph every poster and a few logbook pages for the programme summary (class averages, skills check growth, survey change).
 - **Series close-out and handover for next year:**
-  - Plan A: clear the freezer shelves of any leftover samples. Plan B: throw away leftover dough and bars.
+  - Plan A: clear the freezer shelves of any leftover samples. Plan B: throw away leftover dough and strips.
   - Return borrowed books, buckets and measuring cylinders; dry and store reusable kit (rig diagrams, sample data cards, question cards, voting cards, talk frames) in a labelled Ice Engineers box.
-  - Store leftover untreated sawdust sealed and labelled "untreated, not MDF"; keep spare cartons only if there is space.
+  - Store leftover untreated sawdust sealed and labelled "untreated, not MDF"; keep the foil-trough template blocks and any unused folded troughs.
   - Logbooks: return to students or file, as your school prefers; keep a few (with permission) as examples.
   - Write three lines for next year's teacher: what worked, what to change (for example the trial result and sample thickness), and anything to buy earlier.
 - What students found hard in trial: (leave blank for now)

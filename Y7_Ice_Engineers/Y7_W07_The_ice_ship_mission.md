@@ -9,8 +9,8 @@ Chinese text status: draft, needs native-speaker check
 >
 > Check the handover note: the freezer decision was made in Week 4. Run ONE plan only.
 >
-> - **Plan A (freezer): Pykrete beams | 木屑冰梁.** Groups make fibre-reinforced ice beams in identical moulds, label them and the teacher freezes them for at least 24 hours. Groups choose a strength test or a melting test. Use everything marked **[Shared]** and **[Plan A]**.
-> - **Plan B (no freezer): Straw-brick science | 草砖科学.** Groups make fibre-reinforced dough bars (salt dough: 2 cups flour, 1 cup salt, about 1 cup water) with the same fibres, 1 cm thick in the same moulds, and air-dry them for a week. Strength test only. Use everything marked **[Shared]** and **[Plan B]**.
+> - **Plan A (freezer): Pykrete strips | 木屑冰条.** Groups make thin fibre-reinforced ice strips (about 12 cm long, 2 cm wide, 5 mm thick) in identical foil troughs, label them and the teacher freezes them for at least 24 hours. Groups choose a strength test or a melting test. Use everything marked **[Shared]** and **[Plan A]**.
+> - **Plan B (no freezer): Straw-brick science | 草砖科学.** Groups make fibre-reinforced dough strips (salt dough: 2 cups flour, 1 cup salt, about 1 cup water) with the same fibres, made as strips of exactly the same size in the same foil troughs, and air-dry them for a week. Strength test only. Use everything marked **[Shared]** and **[Plan B]**.
 >
 > The pykrete story is the hook in both plans. Plan B adds the straw-in-mud-bricks link as its main local example. The planning frame (Section 6a) has one shared layout with small Plan A and Plan B differences.
 
@@ -57,11 +57,11 @@ Chinese text status: draft, needs native-speaker check
   - Chinese talk welcome during the planning; each group writes its plan in English with key words.
   - Vocabulary traps: "strength" (强度) is a property of a material, not muscles. "Mould" (模具) is the container, not the green fungus (霉菌), which has the same English spelling. "Risk" and "hazard" are often mixed up: the hazard is the thing (wet floor), the risk is what could happen (slipping).
 - **Misconceptions to watch for:**
-  - "More sawdust is always better." Too much and there is not enough ice to hold the fibres together. Our range (0 to 15 g per 100 ml) is close to Pyke's 14%, so we may or may not see the top of the curve.
-  - "Changing the fibre and the amount at the same time saves time." A fair test changes one thing only: either the type of fibre (same 5 g) or the amount of sawdust.
+  - "More sawdust is always better." Too much and there is not enough ice to hold the fibres together. Our range (0 to 0.9 g of sawdust per 12 ml strip, that is 0 to 7.5 g per 100 ml, or about 7% by mass at most) is below Pyke's 14%, so we probably will not see the top of the curve.
+  - "Changing the fibre and the amount at the same time saves time." A fair test changes one thing only: either the type of fibre (same 0.6 g in every strip) or the amount of sawdust.
   - "Each group only needs one sample of each type." One sample could have a crack or a bubble; we need repeats (3 is the target, 2 the minimum).
 - **Safety:**
-  - [Plan A] Untreated natural wood sawdust or pet-bedding wood shavings only, never MDF dust (it contains resin glues). Keep sawdust damp: it is pre-weighed into cups and water goes in first. Mop spills straight away. Only the teacher puts samples into the freezer.
+  - [Plan A] Untreated natural wood sawdust or pet-bedding wood shavings only, never MDF dust (it contains resin glues). Keep sawdust damp: it is pre-portioned and water goes in first. Mop spills straight away. Only the teacher puts samples into the freezer.
   - [Plan B] Flour allergy check before the lesson (use the school allergy list): any student with a wheat or flour allergy does not handle dough and takes a non-dough role. Never eat the dough. Knead inside a closed bag to avoid flour dust. Wash hands after.
 - **If time is short:** groups make two repeats of each sample (the minimum) instead of three; finish the results table design in the Week 8 Do Now. Never cut labelling.
 - **Assessment and handover links:**
@@ -117,19 +117,19 @@ Speaker notes: Ice is brittle: once a crack starts, it runs right through. Fibre
 ```
 Slide 5A [Plan A] | Phase tag: Learn 新知
 Title: Choose your mission / 选择你的任务
-On-slide text: Change ONE thing: type of fibre (5 g each) OR amount of sawdust. Measure ONE thing: strength (ml of water held) OR melting (ml of meltwater in 15 minutes).
+On-slide text: Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. Measure ONE thing: strength (ml of water held) OR melting (ml of meltwater in 15 minutes).
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: A two-step choice grid. Step 1 "I change": card A "Type of fibre: plain ice, sawdust, tissue, shredded paper, cotton wool (5 g each)"; card B "Amount of sawdust: 0 g, 5 g, 10 g, 15 g". Step 2 "I measure": card C "Strength: a bag of water hangs from the beam, ml when it snaps"; card D "Melting: ml of meltwater after 15 minutes". Small icons on each card.
-Speaker notes: Every group makes three kinds of sample, and one of them must be plain ice (or 0 g), because that is our control. All samples use 100 ml of water. Strength is the main test; I can take up to two melting groups so the class can pool results. Choose with your group in 1 minute, then tell me.
+Visual: A two-step choice grid. Step 1 "I change": card A "Type of fibre: plain ice, sawdust, tissue, shredded paper, cotton wool (0.6 g each)"; card B "Amount of sawdust: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure": card C "Strength: a bag of water hangs from the strip, ml when it snaps"; card D "Melting: ml of meltwater after 15 minutes". Small icons on each card.
+Speaker notes: Every group makes three kinds of sample, and one of them must be plain ice (or 0 g), because that is our control. Every sample is a thin strip made from 12 ml of water, about 12 cm long, 2 cm wide and 5 mm thick. Strength is the main test; I can take up to two melting groups so the class can pool results. Choose with your group in 1 minute, then tell me.
 ```
 
 ```
 Slide 5B [Plan B] | Phase tag: Learn 新知
 Title: Choose your mission / 选择你的任务
-On-slide text: Change ONE thing: type of fibre (5 g each) OR amount of sawdust. Measure: strength (ml of water the bar holds before it snaps).
+On-slide text: Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. Measure: strength (ml of water the strip holds before it snaps).
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: Step 1 "I change": card A "Type of fibre: no fibre, sawdust, tissue, shredded paper, cotton wool (5 g each)"; card B "Amount of sawdust: 0 g, 5 g, 10 g, 15 g". Step 2 "I measure": one card "Strength: a bag of water hangs from the bar, ml when it snaps". A small drawing of a straw mud brick beside a dough bar.
-Speaker notes: We have no freezer, so we will do what brick-makers do: put fibres into a soft material that sets hard. Our bars are made of salt dough, the same size as Pyke's beams, and they dry for a week. Every group makes three kinds of bar, and one must have no fibre (0 g): that is our control. Each bar uses one 100 g ball of dough.
+Visual: Step 1 "I change": card A "Type of fibre: no fibre, sawdust, tissue, shredded paper, cotton wool (0.6 g each)"; card B "Amount of sawdust: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure": one card "Strength: a bag of water hangs from the strip, ml when it snaps". A small drawing of a straw mud brick beside a dough strip.
+Speaker notes: We have no freezer, so we will do what brick-makers do: put fibres into a soft material that sets hard. Our strips are made of salt dough, the same size as the ice strips other classes make (12 cm long, 2 cm wide, 5 mm thick), and they dry for a week. Every group makes three kinds of strip, and one must have no fibre (0 g): that is our control. Each strip uses one 18 g ball of dough.
 ```
 
 ```
@@ -147,7 +147,7 @@ Title: Hazard, risk, control / 危险源、风险、控制措施
 On-slide text: Hazard: very cold ice. Risk: cold, painful fingers. Control: wear gloves if you hold ice for more than a minute.
 Vocabulary panel: hazard | 危险源; risk | 风险
 Visual: A three-column table with icons: a snowflake (hazard), a sore hand (risk), gloves (control). Below it, three more empty rows with icon hints: a bag of sawdust, a wet floor, a hanging bag of water.
-Speaker notes: This is one row of your risk assessment, done for you. Write three more. Hints: sawdust (dust, and it must be untreated, never MDF), spilt water (slipping), the hanging bag in Week 8 (it falls when the beam snaps: catch trays and feet clear).
+Speaker notes: This is one row of your risk assessment, done for you. Write three more. Hints: sawdust (dust, and it must be untreated, never MDF), spilt water (slipping), the hanging bag in Week 8 (it falls when the strip snaps: catch trays and feet clear).
 ```
 
 ```
@@ -156,7 +156,7 @@ Title: Hazard, risk, control / 危险源、风险、控制措施
 On-slide text: Hazard: flour. Risk: an allergic reaction. Control: allergy check first; anyone allergic does not touch the dough.
 Vocabulary panel: hazard | 危险源; risk | 风险
 Visual: A three-column table with icons: a bag of flour (hazard), a person with a rash (risk), a checklist with a tick (control). Below it, three more empty rows with icon hints: a "no eating" icon, a cloud of dust, a hanging bag of water.
-Speaker notes: This is one row of your risk assessment, done for you. Write three more. Hints: eating the dough (it is very salty and not food), flour dust (knead inside a closed bag), the hanging bag in Week 8 (it falls when the bar snaps: catch trays and feet clear).
+Speaker notes: This is one row of your risk assessment, done for you. Write three more. Hints: eating the dough (it is very salty and not food), flour dust (knead inside a closed bag), the hanging bag in Week 8 (it falls when the strip snaps: catch trays and feet clear).
 ```
 
 ```
@@ -179,20 +179,20 @@ Speaker notes: Pair talk in any language; the fix is written in English on the f
 
 ```
 Slide 10A [Plan A] | Phase tag: Do 实践
-Title: Make your ice beams / 制作冰梁
-On-slide text: 1. Pour water to the 100 ml line. 2. Add your fibre cup. 3. Stir 20 seconds. 4. Pour into the mould. 5. Push fibres under. 6. Label.
+Title: Make your ice strips / 制作冰条
+On-slide text: 1. Measure 12 ml of water into a cup. 2. Add your fibre portion. 3. Stir 10 seconds. 4. Pour into a foil trough. 5. Spread the fibres. 6. Label.
 Vocabulary panel: mould | 模具; sample | 样品; sawdust | 木屑
-Visual: Six picture steps: water poured into a mixing cup to a marked 100 ml line; a small paper cup of sawdust tipped in; a spoon stirring; the mixture poured into a half-carton mould on a tray; a spoon pressing floating fibres down; a label being stuck on the carton side with clear tape.
-Speaker notes: Work in pairs: one pours, one stirs and labels. Water goes in first, then fibre, so the sawdust gets wet straight away and no dust rises. Sawdust floats, so push it under and stir again just before pouring. Moulds stay flat on the tray. Aim for about 9 beams per group in 8 minutes, then 2 minutes to tidy.
+Visual: Six picture steps: water poured from a 25 ml measuring cylinder (filled to 12 ml) into a small cup; a small paper twist of sawdust tipped in; a teaspoon stirring; the mixture poured into a long, narrow foil trough (12 cm x 2 cm) on a flat tray; a teaspoon spreading floating fibres evenly along the trough; a masking-tape label being folded onto the flat foil tab at the end of the trough.
+Speaker notes: Work in pairs: one pours, one stirs and labels. Water goes in first, then fibre, so the sawdust gets wet straight away and no dust rises. Sawdust floats, so stir just before pouring, then spread the fibres evenly along the whole strip with the teaspoon. Troughs stay flat and level on the tray; do not squash their sides. Aim for about 9 strips per group in 8 minutes, then 2 minutes to tidy.
 ```
 
 ```
 Slide 10B [Plan B] | Phase tag: Do 实践
-Title: Make your dough bars / 制作面团条
-On-slide text: 1. Open a dough bag. 2. Add your fibre cup. 3. Close and knead 1 minute. 4. Press into the mould to the 1 cm line. 5. Flatten. 6. Label.
+Title: Make your dough strips / 制作面团条
+On-slide text: 1. Open a dough bag. 2. Add your fibre portion. 3. Close and knead 1 minute. 4. Roll a sausage. 5. Press it along the whole foil trough. 6. Label.
 Vocabulary panel: mould | 模具; sample | 样品; fibre | 纤维
-Visual: Six picture steps: a zip-lock bag holding one ball of dough; a small paper cup of fibre tipped into the bag; hands squeezing the closed bag; dough pressed into a half-carton mould with a line marked 1 cm inside; the back of a spoon smoothing the top; a label taped to the carton side.
-Speaker notes: Each bag holds one 100 g ball of salt dough. Knead the fibre in with the bag closed, so no flour dust gets out. Press the dough into every corner of the mould and up to the 1 cm line, no higher. The bars dry on the shelf for a week. The dough is very salty and not food: never eat it.
+Visual: Six picture steps: a small zip-lock bag holding one small ball of dough; a paper twist of fibre tipped into the bag; hands squeezing the closed bag; the dough rolled into a 12 cm sausage on the table; the sausage pressed flat and even along a long, narrow foil trough (12 cm x 2 cm) with the back of a teaspoon; a masking-tape label folded onto the flat foil tab at the end.
+Speaker notes: Each bag holds one 18 g ball of salt dough: just enough for one strip about 5 mm thick. Knead the fibre in with the bag closed, so no flour dust gets out. Press the dough evenly along the whole 12 cm of the trough, into both ends, so the strip is the same thickness all the way along. The strips dry on the shelf for a week. The dough is very salty and not food: never eat it.
 ```
 
 ```
@@ -218,7 +218,7 @@ Slide 12 [Shared] | Phase tag: Do 实践
 Title: Label, tidy, done / 贴标签，整理，完成
 On-slide text: Every sample needs a label: group, sample, repeat, date. Pencil only. Tray to the teacher. Wipe the table.
 Vocabulary panel: sample | 样品; mould | 模具
-Visual: A finished sample label (as in Section 6c) filled in: "Group: Snow Owls | Sample: Sawdust 5 g | Repeat: 2 | Made: 24 Nov | Code: SO SD5 R2", taped onto a half-carton mould. A tray of nine labelled moulds in three rows.
+Visual: A finished sample label (as in Section 6c) filled in: "Group: Snow Owls | Sample: Sawdust 0.6 g | Repeat: 2 | Made: 24 Nov | Code: SO SD6 R2", folded onto the flat foil tab at the end of a narrow foil trough. A tray of nine labelled troughs side by side.
 Speaker notes: Pencil does not run when it gets wet; pens do. Codes help in Week 8 when the samples come back. Recorders write the number of samples made on the class project board. Plan A: I take the trays straight to the freezer after the lesson. Plan B: trays go to the drying shelf by the window, away from sinks.
 ```
 
@@ -248,8 +248,8 @@ During the Second World War there was not enough ______________. Geoffrey Pyke w
 
 **B. My job today 我今天的任务.** Tick your role and your making job.
 [Shared] My role: ☐ Lead Scientist 首席科学家 ☐ Measurer 测量员 ☐ Recorder 记录员 ☐ Safety Officer 安全员 ☐ Reporter 汇报员
-[Plan A] My making job: ☐ pour water to 100 ml ☐ add fibre and stir ☐ pour into mould ☐ write and stick labels
-[Plan B] My making job: ☐ add fibre to the dough bag ☐ knead ☐ press into mould to 1 cm ☐ write and stick labels
+[Plan A] My making job: ☐ measure 12 ml of water ☐ add fibre and stir ☐ pour into the foil trough ☐ write and stick labels
+[Plan B] My making job: ☐ add fibre to the dough bag ☐ knead ☐ press into the foil trough ☐ write and stick labels
 [Shared] Our three samples: 1. ______________ 2. ______________ 3. ______________
 How many repeats of each? ______ Total samples: ______
 
@@ -293,17 +293,17 @@ One thing we keep the same: ______________ because _____________________________
 **Core B:** check that the three samples include plain ice / no fibre / 0 g, and that the total matches the class project board (9 for three repeats, 6 for two).
 
 **Stretch:**
-- a) Secure example: "I predict the ice with 15 g of sawdust will be the strongest because the fibres hold the ice together and stop cracks running through it, like straw in mud bricks." Accept any prediction with a reason linked to fibres. Excellent: "... but if there is too much sawdust, there might not be enough ice to hold it together."
-- b) Any three, with sensible reasons: same volume of water (100 ml), or same mass of dough (100 g ball), so the beams are the same size; same mould, so the shape is the same; same mass of fibre (5 g) in the fibre-type test; same freezing time (Plan A) or drying time (Plan B); same gap between the book stacks in Week 8; same way of adding water (50 ml at a time); for melting, same time (15 minutes) and same place.
+- a) Secure example: "I predict the ice with 0.9 g of sawdust will be the strongest because the fibres hold the ice together and stop cracks running through it, like straw in mud bricks." Accept any prediction with a reason linked to fibres. Excellent: "... but if there is too much sawdust, there might not be enough ice to hold it together."
+- b) Any three, with sensible reasons: same volume of water (12 ml), or same mass of dough (18 g ball), so the strips are the same size and thickness; same foil trough, so the shape is the same; same mass of fibre (0.6 g) in the fibre-type test; same freezing time (Plan A) or drying time (Plan B); same gap between the book stacks in Week 8; same way of adding water (50 ml at a time); for melting, same time (15 minutes) and same place.
 
 **Challenge:**
 - a) [Plan A] When the ice at the surface melts, the sawdust fibres stay behind as a soft, furry layer on the outside. This layer is an insulator (like the materials in Week 6), so it slows heat moving from the air into the ice underneath. Excellent: links back to the Week 6 result.
 - a) [Plan B] As mud dries it shrinks, and shrinking makes cracks. The straw fibres hold the mud together across small cracks so they do not grow. Accept: "the straw holds it together while it shrinks."
-- b) Secure example: "My prediction is wrong if the beams with sawdust hold the same amount of water as plain ice, or less." Excellent: "... or if the 15 g beams hold less than the 10 g beams, which would show that more sawdust is not always better."
+- b) Secure example: "My prediction is wrong if the strips with sawdust hold the same amount of water as plain ice, or less." Excellent: "... or if the 0.9 g strips hold less than the 0.6 g strips, which would show that more sawdust is not always better."
 
 **My thinking (guidance):** good answers: the idea was tested and worked on a small scale; it shows how a cheap material can be made much stronger; it inspired people to think about composite materials; scientists remember ideas that were tested, even if they were not used. Accept Chinese.
 
-**Exit ticket:** a correct code (for example SO SD5 R2) and a control with a reason, for example "100 ml of water, because more water would make a thicker, stronger beam."
+**Exit ticket:** a correct code (for example SO SD6 R2) and a control with a reason, for example "12 ml of water, because more water would make a thicker, much stronger strip."
 
 **Planning frame (Section 6a): Secure example (Plan A, strength).** See the end of Section 6a.
 
@@ -311,36 +311,40 @@ One thing we keep the same: ______________ because _____________________________
 
 ## 5. Kit card [Paste into Claude Design]
 
-Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist kit card template: one titled "Plan A: Pykrete beams | 木屑冰梁" and one titled "Plan B: Straw-brick science | 草砖科学". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
+Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist kit card template: one titled "Plan A: Pykrete strips | 木屑冰条" and one titled "Plan B: Straw-brick science | 草砖科学". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
 
-### Kit card [Plan A]: Pykrete beams
+**Sample size (both plans):** every sample is a thin strip about 12 cm long, 2 cm wide and 5 mm thick, made in a foil trough. Plan A: 12 ml of water per strip. Plan B: one 18 g ball of salt dough per strip.
+
+**Fibre doses (both plans), keeping the outline's 5 g per 100 ml ratio:** type of fibre: 0.6 g of each fibre per strip. Amount of sawdust: 0 g, 0.3 g, 0.6 g or 0.9 g per strip (0, 2.5, 5 and 7.5 g per 100 ml).
+
+### Kit card [Plan A]: Pykrete strips
 
 **Per group (6 groups)**
 - Group folder with the planning frame (from Week 6): 1
-- Beam moulds: 9 identical halves of rinsed 250 ml drink cartons, cut lengthways, all the same brand and size
-- Mixing cups (plastic, about 250 ml) with a line marked at 100 ml: 3
-- Fibre cups: small paper cups, pre-weighed and labelled by the teacher to match the group's plan (for example "Sawdust 5 g" x 3). Fibres: untreated natural sawdust (damp), tissue torn into 1 cm pieces, shredded paper, cotton wool pulled apart. Plain ice samples need no fibre cup
-- Jug of water (about 1.2 litres): 1
-- Teaspoons for stirring: 2
-- Tray to hold 9 moulds flat: 1
-- Sample labels (Section 6c): 10, pencils, clear sticky tape
-- Paper towels: 6
+- Foil troughs, pre-folded by the teacher (12 cm x 2 cm inside, sides about 1.5 cm high, a 3 cm flat tab at one end): 10 (9 plus 1 spare)
+- Measuring cylinder, 25 ml (or a 20 ml syringe without a needle): 2
+- Small mixing cups: 3
+- Teaspoons: 3
+- Fibre portions: small paper twists or cups, pre-portioned and labelled by the teacher to match the group's plan (for example "Sawdust 0.6 g" x 3). Fibres: untreated natural sawdust (damp), tissue torn into 5 mm pieces, finely shredded paper, cotton wool pulled apart. Plain ice samples need no fibre
+- Cup of water (about 200 ml): 1
+- Flat tray (for example a baking tray or a stiff card on a tray) to hold 9 troughs: 1
+- Sample labels (Section 6c): 10, pencils, masking tape
+- Paper towels: 4
 
 **Per class**
 - Class project board (Section 6b), on the wall
-- Kitchen scale (1 g) for the teacher's pre-weighing; spare fibre in labelled bags
-- Freezer space: 6 trays of 9 beams for one week (or 6 trays of 6 if two repeats are made)
+- Kitchen scale (1 g), or a 0.1 g scale if available; spare fibre in labelled bags
+- Freezer space: 54 thin strips fit on two shallow trays, so the whole class set fits in one freezer drawer or a fridge freezer compartment
 
 **Trial before this lesson (essential, about 15 minutes, in Week 5 or 6)**
-- Freeze two plain trial beams (100 ml of water each, in the class mould) and test them on the Week 8 rig (Week 8, Section 6a). Aim for plain beams to snap at about 200 to 600 ml of water.
-- If a plain beam holds more than about 1,000 ml, the beams are too thick for 50 ml steps: in this lesson, mix each sample as normal (100 ml of water plus its fibre), then pour half the mix into each of two moulds, stirring between pours. Each mix then makes two thinner beams with the same fibre-to-water ratio, so a group needs only two mixes per sample type (three repeats plus a spare), and the freezer needs no extra space. Record the decision on the class project board.
-- If a plain beam snaps with less than 100 ml, narrow the Week 8 gap to 4 cm.
+- Freeze three plain trial strips (12 ml of water each, in the class foil troughs) and test them on the Week 8 rig (two equal book stacks, 10 cm span, 25 ml pours: Week 8, Section 6a). Aim for plain strips to snap at about 150 to 500 ml of water. A rough estimate for 5 mm plain ice over a 10 cm span is about 3 N, or about 300 ml, but real ice varies a lot because of bubbles and cracks.
+- If a plain strip holds more than about 800 ml, make the class strips thinner (3 to 4 mm): use 8 ml of water per strip and scale the fibre to match (0.4 g per strip for fibre type; 0, 0.2, 0.4 and 0.6 g for amount). Record the decision on the class project board.
+- If a plain strip snaps with less than 75 ml, narrow the Week 8 span to 8 cm for every group.
 
-**Teacher prep before the lesson (about 40 minutes)**
-- Cut 54 carton moulds (15 min): cut each rinsed 250 ml carton in half lengthways through its two narrow sides, so each half is a shallow tray about 10 cm long, 6 cm wide and 2 cm deep. 100 ml of water makes a beam about 1.5 cm thick. Ask students and staff to collect cartons from Week 1 onwards.
-- Mark the 100 ml line on 18 mixing cups with a measuring jug and a marker (5 min).
-- After Week 6: read each group's page 1 and pre-weigh fibre cups for likely choices: sawdust 5 g, 10 g, 15 g; tissue, shredded paper and cotton wool 5 g each. Make extras; the final allocation happens in the lesson (15 min). Dampen the sawdust with a few drops of water and keep it in a sealed bag.
-- Clear and label freezer shelves "Ice Engineers Y7: do not move" (5 min).
+**Teacher prep before the lesson (about 50 minutes)**
+- Fold 60 foil troughs (25 min). Make a template block 12 cm long and 2 cm wide (a piece of wood, or a stack of rulers taped together). Tear a piece of foil about 20 cm x 10 cm, fold it in half to 20 cm x 5 cm (double thickness), wrap it round the bottom and sides of the block, pinch up both ends, flatten a 3 cm tab at one end, and slide the block out. Every trough is folded round the same block, so every strip has the same width.
+- Pre-portion the fibres (20 min). With a 1 g scale: weigh 6 g of a fibre and split it into 10 equal piles by eye (each about 0.6 g); for 0.3 g, split 3 g into 10; for 0.9 g, split 9 g into 10. With a 0.1 g scale, weigh each portion directly. For sawdust you can instead find a level measure (for example a level quarter teaspoon, roughly 0.6 g) by weighing 10 level measures once, then use the same level measure every time. Dampen the sawdust with a few drops of water and keep it in a sealed bag.
+- Clear and label one freezer drawer "Ice Engineers Y7: do not move"; check it is level (5 min).
 
 **Hazards and controls**
 - Use untreated natural wood sawdust or pet-bedding shavings only. Never use MDF dust.
@@ -353,36 +357,36 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
   只有老师可以搬运托盘并放进冰柜。
 
 **Clean-up**
-- Trays to the teacher desk, flat. Teacher freezes them straight after the lesson for at least 24 hours.
-- Spare fibre back in sealed bags; cups and spoons rinsed; tables and floor wiped.
+- Trays to the teacher desk, flat. Teacher freezes them straight after the lesson for at least 24 hours, flat and level.
+- Spare fibre back in sealed bags; cups and teaspoons rinsed; tables and floor wiped.
 
 ### Kit card [Plan B]: Straw-brick science
 
 **Per group (6 groups)**
 - Group folder with the planning frame (from Week 6): 1
-- Bar moulds: 9 identical halves of rinsed 250 ml drink cartons, cut lengthways, all the same brand and size, with a line drawn inside at 1 cm depth
-- Dough: 9 balls of plain salt dough, 100 g each, each in its own zip-lock bag
-- Fibre cups: small paper cups, pre-weighed and labelled by the teacher to match the group's plan (for example "Shredded paper 5 g" x 3). No-fibre samples need no fibre cup
-- Teaspoons (for smoothing): 2
-- Tray to hold 9 moulds flat: 1
-- Sample labels (Section 6c): 10, pencils, clear sticky tape
-- Paper towels: 6
+- Foil troughs, pre-folded by the teacher (as Plan A): 10 (9 plus 1 spare)
+- Dough: 9 balls of plain salt dough, about 18 g each, each in its own small zip-lock bag
+- Fibre portions: pre-portioned and labelled by the teacher to match the group's plan (as Plan A). No-fibre samples need no fibre
+- Teaspoons (for pressing and smoothing): 3
+- Flat tray to hold 9 troughs: 1
+- Sample labels (Section 6c): 10, pencils, masking tape
+- Paper towels: 4
 
 **Per class**
 - Class project board (Section 6b), on the wall
-- Kitchen scale (1 g); spare fibre in labelled bags
-- A dry shelf for 6 trays for one week, away from sinks and radiators that are very hot
+- Kitchen scale (1 g), or a 0.1 g scale if available; spare fibre in labelled bags
+- A dry shelf for two shallow trays for one week, away from sinks and very hot radiators
 
 **Trial before this lesson (essential, about 15 minutes, made in Week 5 so it can dry)**
-- Make two plain trial bars (one 100 g ball each, 1 cm thick in the class mould), dry them for a week, and test them on the Week 8 rig (Week 8, Section 6a). Aim for plain bars to snap at about 200 to 600 ml of water.
-- If a plain bar holds more than about 1,000 ml, the bars are too thick for 50 ml steps: in this lesson, knead each fibre cup into a 100 g ball as normal, then split the ball into two 50 g halves and press each into its own mould (about 0.5 cm thick). The fibre-to-dough ratio stays the same, and two balls per sample type give three repeats plus a spare, so less dough is needed. Record the decision on the class project board.
-- If a plain bar sags without snapping, it is not dry: dry the class bars for longer, turning them every two days.
+- Make three plain trial strips (18 g of dough each, pressed along the class foil trough), dry them for a week and test them on the Week 8 rig (10 cm span, 25 ml pours). Aim for plain strips to snap at about 150 to 500 ml.
+- If a plain strip holds more than about 800 ml, make the class strips thinner (3 to 4 mm): use 12 g balls of dough and scale the fibre to match (0.4 g per strip for fibre type; 0, 0.2, 0.4 and 0.6 g for amount). Record the decision on the class project board.
+- If a plain strip snaps with less than 75 ml, narrow the Week 8 span to 8 cm. If it bends without snapping, it is not dry: dry the class strips for longer.
 
-**Teacher prep before the lesson (about 75 minutes, can be shared with a technician or the canteen)**
+**Teacher prep before the lesson (about 60 minutes, can be shared with a technician or the canteen)**
 - Check the school allergy list for wheat or flour allergies; plan a non-dough role for those students (5 min).
-- Cut 54 carton moulds (20 min): cut each rinsed 250 ml carton in half lengthways through its two narrow sides, so each half is a shallow tray about 10 cm long, 6 cm wide and 2 cm deep. Rinse, dry, and draw a line 1 cm up the inside wall.
-- Make the salt dough on the morning of the lesson: one batch is 2 cups (about 250 g) plain flour, 1 cup (about 290 g) salt and about 1 cup (240 ml) water, mixed and kneaded until smooth and not sticky. One batch makes about 7 balls of 100 g. Make 8 batches (about 2 kg flour and 2.3 kg salt) for 54 balls; 5 batches if two repeats are made. Weigh each ball to 100 g and seal it in a bag (40 min).
-- Pre-weigh fibre cups, 5 g each for fibre type; 5 g, 10 g and 15 g of sawdust for amount (10 min).
+- Fold 60 foil troughs round the template block, as in Plan A (25 min).
+- Make the salt dough on the morning of the lesson: one batch is 2 cups (about 250 g) plain flour, 1 cup (about 290 g) salt and about 1 cup (240 ml) water, mixed and kneaded until smooth and not sticky. One batch makes about 780 g of dough, so 2 batches are plenty for 54 balls of 18 g plus spares. Weigh each ball (18 g on a 1 g scale) and seal it in a small bag (20 min).
+- Pre-portion the fibres as in Plan A (10 min).
 
 **Hazards and controls**
 - Tell the teacher if you have a flour or wheat allergy. You will not touch the dough.
@@ -397,8 +401,8 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
   实验结束后请洗手。
 
 **Clean-up**
-- Trays to the drying shelf, flat. Teacher de-moulds and turns the bars on day 3 so both sides dry.
-- Empty bags in the bin; spoons rinsed; tables wiped with a damp cloth (dry flour smears); everyone washes hands.
+- Trays to the drying shelf, flat. On day 3 the teacher peels off the foil and turns the strips so both sides dry (they are thin, so they dry well in a week).
+- Empty bags in the bin; teaspoons rinsed; tables wiped with a damp cloth; everyone washes hands.
 
 ---
 
@@ -406,35 +410,35 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 
 ### 6a. Planning frame: our investigation
 
-Create a two-page planning frame (two sides of A4 portrait, or one A3 sheet folded) for Year 7 Weeks 6 and 7, "Our investigation plan | 我们的探究计划", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, minimum 12 pt, generous writing boxes. Numbered boxes 1 to 8 in a clear order, each with its English heading, a Chinese heading beneath in a lighter weight, and a small role icon showing who leads that box. Make two versions: Plan A ("Pykrete beams | 木屑冰梁") and Plan B ("Straw-brick science | 草砖科学"); all text is the same except where a box is marked [Plan A] or [Plan B]. Print spec: 1 per group (6 per class) plus 2 spares, kept in the group folder from Week 6 to Week 10.
+Create a two-page planning frame (two sides of A4 portrait, or one A3 sheet folded) for Year 7 Weeks 6 and 7, "Our investigation plan | 我们的探究计划", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, minimum 12 pt, generous writing boxes. Numbered boxes 1 to 8 in a clear order, each with its English heading, a Chinese heading beneath in a lighter weight, and a small role icon showing who leads that box. Make two versions: Plan A ("Pykrete strips | 木屑冰条") and Plan B ("Straw-brick science | 草砖科学"); all text is the same except where a box is marked [Plan A] or [Plan B]. Print spec: 1 per group (6 per class) plus 2 spares, kept in the group folder from Week 6 to Week 10.
 
 **Header:** Our investigation plan / 我们的探究计划 | Ice Engineers 冰雪工程师 | Group name: __________ | Members: __________ | Date started: ______
-Project question across the top: **Can we make ice stronger? 我们能让冰更坚固吗？** [Plan B] add beneath: "Our test material: salt dough bars, like straw-and-mud bricks. 我们的测试材料：盐面团条，类似草泥砖。"
+Project question across the top: **Can we make ice stronger? 我们能让冰更坚固吗？** [Plan B] add beneath: "Our test material: salt dough strips, like straw-and-mud bricks. 我们的测试材料：盐面团条，类似草泥砖。"
 
 **Page 1 (done in Week 6)**
 
 **Box 1. Our question 我们的问题** (Lead Scientist icon)
 Tick one and complete it.
-- [Plan A] ☐ Does the **type of fibre** change the ______________ of an ice beam?
-- [Plan A] ☐ Does the **amount of sawdust** change the ______________ of an ice beam?
-- [Plan B] ☐ Does the **type of fibre** change the strength of a dough bar?
-- [Plan B] ☐ Does the **amount of sawdust** change the strength of a dough bar?
+- [Plan A] ☐ Does the **type of fibre** change the ______________ of an ice strip?
+- [Plan A] ☐ Does the **amount of sawdust** change the ______________ of an ice strip?
+- [Plan B] ☐ Does the **type of fibre** change the strength of a dough strip?
+- [Plan B] ☐ Does the **amount of sawdust** change the strength of a dough strip?
 Our question in full: ________________________________________ (two lines)
 
 **Box 2. What we change: the independent variable 自变量** (Measurer icon)
 Tick ONE row and circle THREE samples. One sample must be the control.
-- ☐ Type of fibre (5 g each): [Plan A] plain ice (control) | [Plan B] no fibre (control) | sawdust | tissue | shredded paper | cotton wool
-- ☐ Amount of sawdust: 0 g (control) | 5 g | 10 g | 15 g
-- [Plan A] per 100 ml of water. [Plan B] per 100 g ball of dough.
+- ☐ Type of fibre (0.6 g each): [Plan A] plain ice (control) | [Plan B] no fibre (control) | sawdust | tissue | shredded paper | cotton wool
+- ☐ Amount of sawdust: 0 g (control) | 0.3 g | 0.6 g | 0.9 g
+- [Plan A] per strip (12 ml of water). [Plan B] per strip (18 g ball of dough).
 Our three samples: 1. ______________ 2. ______________ 3. ______________
 
 **Page 2 (done in Week 7)**
 
 **Box 3. What we measure: the dependent variable 因变量** (Measurer icon)
 - [Plan A] Tick one:
-  ☐ Strength: the volume of water (ml) in the bag when the beam snaps. 强度：冰梁断裂时袋中水的体积（毫升）。
+  ☐ Strength: the volume of water (ml) in the bag when the strip snaps. 强度：冰条断裂时袋中水的体积（毫升）。
   ☐ Melting: the volume of meltwater (ml) after 15 minutes. 熔化：15分钟后融化的水的体积（毫升）。
-- [Plan B] Strength: the volume of water (ml) in the bag when the bar snaps. 强度：面团条断裂时袋中水的体积（毫升）。(No melting test in Plan B.)
+- [Plan B] Strength: the volume of water (ml) in the bag when the strip snaps. 强度：面团条断裂时袋中水的体积（毫升）。(No melting test in Plan B.)
 
 **Box 4. What we keep the same: control variables 控制变量** (Measurer icon)
 
@@ -445,7 +449,7 @@ Our three samples: 1. ______________ 2. ______________ 3. ______________
 | 3. | |
 | 4. | |
 
-Hint line (lighter weight): [Plan A] water 100 ml | mould | mass of fibre | freezing time | gap between books | how we pour | time and place. [Plan B] 100 g of dough | mould | 1 cm thick | mass of fibre | drying time | gap between books | how we pour.
+Hint line (lighter weight): [Plan A] 12 ml of water | foil trough | mass of fibre | freezing time | gap between books | how we pour | time and place. [Plan B] 18 g of dough | foil trough | 5 mm thick | mass of fibre | drying time | gap between books | how we pour.
 
 **Box 5. Our prediction 我们的预测** (Lead Scientist icon)
 "We predict ______________ because ______________________________." (three lines)
@@ -457,11 +461,11 @@ Two strips of picture boxes (each box 4 cm x 3 cm with two writing lines under i
 
 Making the samples (Week 7):
 - [Plan A] 1. Measure ______ ml of water. 2. Add ______ g of ______. 3. Stir for 20 seconds. 4. Pour into the ______. 5. Push the fibres under the water. 6. Label and freeze for at least ______ hours.
-- [Plan B] 1. Take one ______ g ball of dough. 2. Add ______ g of ______. 3. Knead in the closed bag for 1 minute. 4. Press into the ______ up to the ______ cm line. 5. Smooth the top. 6. Label and dry for one ______.
+- [Plan B] 1. Take one ______ g ball of dough. 2. Add ______ g of ______. 3. Knead in the closed bag for 1 minute. 4. Roll it into a sausage. 5. Press it evenly along the whole foil ______ (12 cm). 6. Label and dry for one ______.
 
 Testing the samples (Week 8):
-- Strength (both plans): 1. Two equal stacks of books, ______ cm apart. 2. Lay the sample across the gap. 3. Hang the bag from the middle with a string loop. 4. Pour in water ______ ml at a time. 5. Record the total ml when it snaps.
-- [Plan A] Melting: 1. Peel off the mould. 2. Put each sample on its own lid. 3. Wait ______ minutes. 4. Lift off the ice. 5. Pour the meltwater into a measuring cylinder and read it in ml.
+- Strength (both plans): 1. Two equal stacks of books, ______ cm apart (the span). 2. Lay the sample across the gap. 3. Hang the bag from the middle with a string loop. 4. Pour in water ______ ml at a time, waiting 5 seconds each time. 5. Record the total ml when it snaps.
+- [Plan A] Melting: 1. Peel off the foil. 2. Put each sample on its own lid. 3. Wait ______ minutes. 4. Lift off the ice. 5. Pour the meltwater into a measuring cylinder and read it in ml.
 Repeats: we will make and test ______ of each sample. (Target 3, minimum 2.)
 
 **Box 7. Risk assessment 风险评估** (Safety Officer icon)
@@ -492,15 +496,15 @@ One fix: "You need to ______________ because ______________."
 **Teacher sign-off box** (thick border): "Plan approved 计划已批准 | Teacher: ______ | Samples: ______ x ______ repeats | Test: strength / melting"
 
 **Secure example of a completed frame (teacher answer key, not printed on the student frame; Plan A, strength, made-up group "Frost Hares"):**
-- Box 1: "Does the amount of sawdust change the strength of an ice beam?"
-- Box 2: amount of sawdust; samples 0 g (control), 5 g, 15 g per 100 ml of water.
-- Box 3: strength: volume of water (ml) in the bag when the beam snaps.
-- Box 4: 100 ml of water, because more water makes a thicker beam; the same carton mould, so all beams are the same shape; freeze for the same time, because warmer ice may be weaker; the same 6 cm gap, because a wider gap makes it easier to snap; pour 50 ml at a time, so we do not jolt the beam.
-- Box 5: "We predict the 15 g beams will hold the most water because the sawdust fibres hold the ice together and stop cracks, like straw in mud bricks. Our prediction is wrong if the 15 g beams hold the same or less than plain ice."
-- Box 6: 100 ml; 0, 5 or 15 g of sawdust; mould; 24 hours; books 6 cm apart; 50 ml at a time; 3 of each.
-- Box 7 extra rows: sawdust dust: breathing it in: untreated sawdust only, never MDF, keep damp; spilt water: slipping: mop straight away; hanging bag falls when the beam snaps: catch tray under it, feet clear.
+- Box 1: "Does the amount of sawdust change the strength of an ice strip?"
+- Box 2: amount of sawdust; samples 0 g (control), 0.3 g, 0.9 g per strip (12 ml of water).
+- Box 3: strength: volume of water (ml) in the bag when the strip snaps.
+- Box 4: 12 ml of water, because more water makes a thicker, much stronger strip; the same foil trough, so all strips are the same shape; freeze for the same time, because warmer ice may be weaker; the same 10 cm span, because a wider gap makes it easier to snap; pour 25 ml at a time, so we do not jolt the strip.
+- Box 5: "We predict the 0.9 g strips will hold the most water because the sawdust fibres hold the ice together and stop cracks, like straw in mud bricks. Our prediction is wrong if the 0.9 g strips hold the same or less than plain ice."
+- Box 6: 12 ml; 0, 0.3 or 0.9 g of sawdust; foil trough; 24 hours; books 10 cm apart; 25 ml at a time; 3 of each.
+- Box 7 extra rows: sawdust dust: breathing it in: untreated sawdust only, never MDF, keep damp; spilt water: slipping: mop straight away; hanging bag falls when the strip snaps: catch tray under it, feet clear.
 - Box 8: Amount of sawdust (g) | Water held, Repeat 1 (ml) | Repeat 2 (ml) | Repeat 3 (ml) | Mean (ml) | Notes.
-- Plan B equivalent: "Does the type of fibre change the strength of a dough bar?"; samples no fibre, sawdust 5 g, shredded paper 5 g; controls 100 g ball, same mould, 1 cm thick, dry for one week, 6 cm gap; first risk row flour allergy, then eating dough, flour dust, hanging bag.
+- Plan B equivalent: "Does the type of fibre change the strength of a dough strip?"; samples no fibre, sawdust 0.6 g, shredded paper 0.6 g; controls 18 g ball, same foil trough, 5 mm thick, dry for one week, 10 cm span; first risk row flour allergy, then eating dough, flour dust, hanging bag.
 
 ### 6b. Class project board
 
@@ -512,13 +516,13 @@ Title: Class project board / 全班项目板 | Can we make ice stronger? [Plan B
 |---|---|---|---|---|---|---|---|---|
 | (6 empty rows, each about 3 cm tall) | | | | | | | | |
 
-Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g | sawdust 5 g | sawdust 10 g | sawdust 15 g | tissue | shredded paper | cotton wool) and a row of tally boxes: "Number of groups making this sample. Where possible, aim for at least 2 for each type we test. A type made by only one group is still useful, but we will be less sure of it."
+Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g | sawdust 0.3 g | sawdust 0.6 g | sawdust 0.9 g | tissue | shredded paper | cotton wool) and a row of tally boxes: "Number of groups making this sample. Where possible, aim for at least 2 for each type we test. A type made by only one group is still useful, but we will be less sure of it."
 
-Teacher note (small, bottom right): "Every group includes the control. Plan A: no more than two melting-test groups. Sawdust 5 g in a fibre-type test is the same recipe as 5 g in an amount test, so the results can be pooled in Week 9."
+Teacher note (small, bottom right): "Every group includes the control. Plan A: no more than two melting-test groups. Sawdust 0.6 g in a fibre-type test is the same recipe as 0.6 g in an amount test, so the results can be pooled in Week 9."
 
 ### 6c. Sample labels
 
-Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Scientist design system, Ice Engineers series. 24 labels per sheet (3 columns x 8 rows), each 6.5 cm x 3.2 cm with a thin border and the small ice crystal icon. Black and white. Print spec: 3 sheets per class (72 labels: 54 needed plus spares). Students write in pencil and stick each label to the outside of the mould with clear tape.
+Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Scientist design system, Ice Engineers series. 40 labels per sheet (4 columns x 10 rows), each 5 cm x 2.5 cm with a thin border and the small ice crystal icon. Black and white. Print spec: 2 sheets per class (80 labels: 54 needed plus spares). Students write in pencil and fix each label to the flat foil tab at the end of the trough with masking tape.
 
 **Each label reads:**
 - Ice Engineers sample 冰雪工程师样品 | ☐ Plan A ice ☐ Plan B dough
@@ -528,14 +532,15 @@ Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Sc
 - Made on 制作日期: ______
 - Code 编号: __________
 
-**Code key** (printed once at the top of the sheet, not on each label): Group initials + sample + repeat, separated by spaces. Samples: P = plain ice or no fibre; SD5, SD10, SD15 = sawdust 5 g, 10 g, 15 g; T = tissue; SP = shredded paper; CW = cotton wool. Example: **SO SD5 R2** = Snow Owls, sawdust 5 g, repeat 2. (Group names in examples are made up; use your class's own group names and initials.)
+**Code key** (printed once at the top of the sheet, not on each label): Group initials + sample + repeat, separated by spaces. Samples: P = plain ice or no fibre; SD3, SD6, SD9 = sawdust 0.3 g, 0.6 g, 0.9 g; T = tissue; SP = shredded paper; CW = cotton wool. Example: **SO SD6 R2** = Snow Owls, sawdust 0.6 g, repeat 2. (Group names in examples are made up; use your class's own group names and initials.)
 
 ---
 
 ## 7. Notes for the incoming teacher
 
 - The class project board is your control panel: before the making starts, make sure every group has the control sample and that, where possible, each sample type is made by at least two groups. This is what makes the Week 9 class data worth pooling.
-- Plan A: freezer space is the limit. Nine beams per group (54 in total) is the target; if the freezer only holds about 36, make two repeats per sample (the minimum). Plan B: turn the bars on day 3 or they stay soft underneath.
-- Run the trial on the kit card before this lesson: ice and dry salt dough are stronger than most people expect, and the trial tells you whether to make full-thickness or half-thickness samples so that the Week 8 test works in 50 ml steps.
+- Freezer space is small: nine thin strips per group (54 in total) fit on two shallow trays, so the whole class set fits in one freezer drawer or a fridge freezer compartment. Keep the trays flat and level, or the strips freeze thicker at one end. Plan B: peel the foil and turn the strips on day 3 or they stay soft underneath.
+- Run the trial on the kit card before this lesson. Ice and dry salt dough are stronger than most people expect, and real ice varies a lot because of bubbles and cracks, so the trial tells you whether 5 mm strips will snap in a sensible number of 25 ml pours.
+- Why thin strips? For a strip resting on two supports with the load in the middle, the breaking load is roughly P = 2σbh² ÷ (3L), where σ is the bending strength of ice (roughly 1 MPa, that is 1,000,000 N per square metre), b the width, h the thickness and L the span. For b = 0.02 m, h = 0.005 m and L = 0.10 m: P = 2 x 1,000,000 x 0.02 x 0.000025 ÷ 0.3, which is about 3 N, or about 300 ml of water. Because thickness is squared, a strip twice as thick is about four times as strong: a 1.5 cm thick, 6 cm wide block over 6 cm would need about 15 kg. Real ice can be much weaker (bubbles, cracks, warming), which is why plain strips vary and why the trial matters.
 - What students found hard in trial: (leave blank for now)
 - Links to next week: Week 8 is test day. Samples come out of the freezer (Plan A) or off the shelf (Plan B) at the start of the lesson; groups run two rigs in parallel to reach three repeats.

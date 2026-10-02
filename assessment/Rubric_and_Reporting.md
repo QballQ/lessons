@@ -54,11 +54,11 @@ These are examples, not checklists. They show the Secure level in each year's fi
 
 | Strand | What Secure looks like |
 |---|---|
-| 1. Questioning and predicting 提问与预测 | Poster question: "Does the amount of sawdust change how much water an ice beam can hold before it snaps?" Prediction: "More sawdust will hold more water, because the fibres hold the ice together, like straw in mud bricks." |
-| 2. Planning 计划设计 | Names the IV (amount of sawdust: 0, 5, 10, 15 g), the DV (volume of water in the bag when the beam snaps, in ml) and at least two controls (100 ml of water, same mould, same gap between the book stacks). Three beams of each type. Safety: gloves, catch tray, feet clear. |
-| 3. Doing and recording 实施与记录 | Results table with headings and units (g, ml), all three repeats filled in, and a mean column. One beam that snapped early is circled as an anomaly, with a note ("it had a crack"). |
-| 4. Analysing and concluding 分析与结论 | Line graph for amount of sawdust (or bar chart for type of fibre), axes labelled with units, means plotted accurately. Conclusion with data: "As the amount of sawdust increases, the water held increases, from a mean of 250 ml at 0 g to 600 ml at 15 g." |
-| 5. Evaluating and critical thinking 评价与批判性思维 | "Some beams had air bubbles, so they snapped early and made our mean lower. Next time we would tap the moulds to remove bubbles and freeze every beam for the same time. We are fairly confident because our repeats were close, except one." |
+| 1. Questioning and predicting 提问与预测 | Poster question: "Does the amount of sawdust change how much water an ice strip can hold before it snaps?" Prediction: "More sawdust will hold more water, because the fibres hold the ice together, like straw in mud bricks." |
+| 2. Planning 计划设计 | Names the IV (amount of sawdust: 0, 0.3, 0.6, 0.9 g per strip), the DV (volume of water in the bag when the strip snaps, in ml) and at least two controls (12 ml of water per strip, same foil mould, same 10 cm gap between the book stacks). Three strips of each type. Safety: gloves, catch tray, feet clear. |
+| 3. Doing and recording 实施与记录 | Results table with headings and units (g, ml), all three repeats filled in, and a mean column. One strip that snapped early is circled as an anomaly, with a note ("it had a crack"). |
+| 4. Analysing and concluding 分析与结论 | Line graph for amount of sawdust (or bar chart for type of fibre), axes labelled with units, means plotted accurately. Conclusion with data: "As the amount of sawdust increases, the water held increases, from a mean of 292 ml at 0 g to 575 ml at 0.9 g." |
+| 5. Evaluating and critical thinking 评价与批判性思维 | "Some strips had air bubbles, so they snapped early and made our mean lower. Next time we would tap the moulds to remove bubbles and freeze every beam for the same time. We are fairly confident because our repeats were close, except one." |
 | 6. Communicating 表达与交流 | The 2-minute talk follows the poster in order (question, method, results, conclusion). Uses "independent variable", "mean" and "anomaly" correctly. Answers one visitor question with a reason, using a sentence frame if needed. |
 
 ### Year 8 Science Detectives: case file and expert witness talk at the Court of Science

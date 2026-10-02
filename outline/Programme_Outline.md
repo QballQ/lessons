@@ -86,7 +86,7 @@ Freezer access is not yet confirmed, so the programme does not depend on it. Bot
 | Lesson | Plan A (freezer) | Plan B (no freezer) | Plan B needs |
 |---|---|---|---|
 | Y7 W6 | **Ice cube rescue:** wrap ice cubes in materials, measure meltwater | **Keep it warm:** wrap cups of warm water (about 50 °C, teacher-prepared) in the same materials, measure the temperature drop over 15 minutes. Same fair-test skills, same concept cartoon (snowman in a coat) | 6 thermometers |
-| Y7 W7 to 8 | **Pykrete:** fibre-reinforced ice beams, strength or melting test | **Straw-brick science:** fibre-reinforced dough bars (2 cups flour, 1 cup salt, about 1 cup water) with the same fibres, made 1 cm thick in the same moulds and air-dried for a week. Strength test only, same water-bag method. Pykrete stays as the story hook, alongside straw in mud bricks | Flour, salt, a dry shelf for a week |
+| Y7 W7 to 8 | **Pykrete:** fibre-reinforced thin ice strips, strength or melting test | **Straw-brick science:** fibre-reinforced dough strips (2 cups flour, 1 cup salt, about 1 cup water) with the same fibres, made as the same 5 mm thin strips (an 18 g ball per strip) and air-dried for a week. Strength test only, same water-bag method. Pykrete stays as the story hook, alongside straw in mud bricks | Flour, salt, a dry shelf for a week |
 | Y9 W6 | **Mpemba test:** hot vs cold water in an ice and salt freezing mixture | **Cooling-curve test:** cups of water at about 60 °C and 35 °C; record the temperature every minute and plot cooling curves. Debate: hot water cools faster at first, but does that prove it freezes first? A strong lesson on the limits of evidence | 6 to 12 thermometers |
 | Y9 claim bank | All 12 claims available | Claims 1, 2, 5 and 6 need ice, so they are removed; 8 claims remain | None |
 
@@ -151,7 +151,7 @@ Plan B does not weaken the assessment: the same skills, rubric and final product
   - Type of fibre: none (plain ice), sawdust, tissue, cotton wool, shredded paper
   - Amount of sawdust: 0, 0.3, 0.6 or 0.9 g per strip (0, 2.5, 5 or 7.5 g per 100 ml)
 - **Choice of dependent variable:**
-  - Strength: volume of water (ml) the beam holds before it snaps
+  - Strength: volume of water (ml) the strip holds before it snaps
   - Melting: time to melt fully, or volume of meltwater after a set time
 - **Timing:** make samples in Week 7, freeze for at least 24 hours, test in Week 8. Freezer decision by Week 4 (see Section 2).
 - **Repeats:** each group makes three samples of each type.
@@ -167,7 +167,7 @@ Plan B does not weaken the assessment: the same skills, rubric and final product
 
 ### If there is no freezer
 
-Year 7 runs Plan B: fibre-reinforced dough bars in Weeks 7 to 8 and a "keep it warm" challenge in Week 6. Full details are in **Section 2: Freezer, Plan A and Plan B**.
+Year 7 runs Plan B: fibre-reinforced dough strips in Weeks 7 to 8 and a "keep it warm" challenge in Week 6. Full details are in **Section 2: Freezer, Plan A and Plan B**.
 
 ---
 

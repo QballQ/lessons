@@ -205,8 +205,8 @@ Slide 9 [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Our project starts now / 我们的项目开始了
 On-slide text: Project question: Can we make ice stronger? Choose: type of fibre, or amount of sawdust. Draft page 1 of your plan.
 Vocabulary panel: fibre | 纤维; independent variable | 自变量; strength | 强度
-Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool" with small icons. Right: "Amount of sawdust: 0 g, 5 g, 10 g, 15 g" with four small piles. Ice Engineers ice crystal icon above.
-Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. Plan B classes make dough bars instead of ice, with the same fibres. You can change your mind next week.
+Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
+Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. Plan B classes make dough strips instead of ice, with the same fibres. You can change your mind next week.
 ```
 
 ```
@@ -494,4 +494,4 @@ The project planning frame is in **Week 7, Section 6a**. Print it before this le
 - This is your first lesson leading the class. The timing only works if the ice (Plan A) or the cup jackets (Plan B) start in the Do Now: have the kit trays on the tables before students arrive.
 - Plan A: protect the 4-minute measuring slot at the end, even if Think part 1 is cut short. Plan B: keep an eye on each group's stopwatch, as groups start at slightly different times.
 - What students found hard in trial: (leave blank for now)
-- Links to next week: Week 7 finishes the planning frame and makes the samples (ice beams or dough bars) in the last 10 minutes. Check the freezer space (Plan A) or the drying shelf (Plan B) is ready, and buy the sawdust now.
+- Links to next week: Week 7 finishes the planning frame and makes the samples (ice strips or dough strips) in the last 10 minutes. Samples are thin strips (about 12 cm x 2 cm x 5 mm) made in foil troughs: the whole class set fits on two shallow trays in one freezer drawer (Plan A) or on one drying shelf (Plan B). Run the strip trial (Week 7 kit card) and buy the sawdust now.
