@@ -7,7 +7,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 1. Workbook structure
 
-File name: `TLaS_Progress_Tracker_2026.xlsx` (stored in `Think_Like_a_Scientist/00_Tracker/`).
+File name: `00_Tracker/Think_Like_a_Scientist_Tracker.xlsx` (built; this spec documents it). Class tabs ship as `Y7_Class1`, `Y8_Class1`, `Y9_Class1`: rename to real class names (for example `Y7_7A`); formulas follow the rename. A `How_to_use` tab explains entry.
 
 | Tab | Contents |
 |---|---|

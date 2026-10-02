@@ -46,7 +46,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 | **Low floor, high ceiling** | Every task has a way in for students with less English and a way up for students who are ready to go further. Scaffolds are supports, not limits. |
 | **Bilingual by design** | Key vocabulary is always shown in English and Chinese. Instructions are in English with key words glossed. Safety instructions are given in full in both languages. |
 | **Kitchen-cupboard kit** | Every practical uses cheap, everyday materials. Nothing depends on specialist equipment the prep room may not have. |
-| **Same lesson shape every week** | Six phases, same order, same icons. Students know what comes next; a new or cover teacher can pick up any lesson. |
+| **Same lesson shape every week** | Five phases, same order, same icons. Students know what comes next; a new or cover teacher can pick up any lesson. |
 | **Winter thread** | All three series connect to the cold season: ice structures (Y7), a frozen-notebook mystery (Y8), and winter claims including "Does hot water freeze faster?" (Y9). |
 | **Handover-ready** | Week 5 is a checkpoint lesson that produces data for the incoming teacher. Every lesson has a one-page plan, a kit card and an answer key. |
 
