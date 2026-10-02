@@ -21,4 +21,4 @@ Stage 1: programme outline (v0.2). Confirmed: Year 8 Science Detectives, Year 9 
 
 ## Next stage
 
-Once the Year 8 and Year 9 options and the working assumptions are confirmed: lesson packs for Weeks 1 to 5 (all years), then the Teacher Guide and assessment pack, then Weeks 6 to 10.
+Lesson packs for Weeks 1 to 5 (all years), then the Teacher Guide and assessment pack, then Weeks 6 to 10.
