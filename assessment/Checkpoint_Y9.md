@@ -7,7 +7,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 0. How to run the checkpoint (for the teacher)
 
-- **When:** Week 5, after the lucky pen trial (see the Week 5 lesson plan). 10 minutes working, plus 1 minute to give out and collect.
+- **When:** Week 5, at the very start of the lesson, before the lucky pen trial begins (see the Week 5 lesson plan). Students use their own pens. 10 minutes working, plus 1 minute to give out and collect.
 - **What it covers:** question types 1 to 6 of the skills check, with new questions set in the contexts of Weeks 1 to 4 (claims and testability, bias and optical illusions, the ruler-drop reaction test, correlation and class measurements).
 - **Language:** read any question aloud in English if asked. Explain everyday words, not science words. Accept Chinese for the explanation in Question 4.
 - **Unlike the skills check, you can go through the answers** in Week 6. The checkpoint is not reused.
