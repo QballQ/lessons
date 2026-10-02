@@ -522,7 +522,7 @@ Teacher note (small, bottom right): "Every group includes the control. Plan A: n
 
 ### 6c. Sample labels
 
-Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Scientist design system, Ice Engineers series. 40 labels per sheet (4 columns x 10 rows), each 5 cm x 2.5 cm with a thin border and the small ice crystal icon. Black and white. Print spec: 2 sheets per class (80 labels: 54 needed plus spares). Students write in pencil and fix each label to the flat foil tab at the end of the trough with masking tape.
+Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Scientist design system, Ice Engineers series. 32 labels per sheet (4 columns x 8 rows), each about 5 cm x 3.2 cm with a thin border and the small ice crystal icon. Black and white. Print spec: 2 sheets per class (64 labels: 54 needed plus spares). Students write in pencil and fix each label to the flat foil tab at the end of the trough with masking tape.
 
 **Each label reads:**
 - Ice Engineers sample 冰雪工程师样品 | ☐ Plan A ice ☐ Plan B dough

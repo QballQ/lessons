@@ -118,7 +118,7 @@ Slide 3 [Shared] | Phase tag: Learn 新知
 Title: Build the strength rig / 搭建强度测试装置
 On-slide text: 1. Two desks, 10 cm gap. 2. Equal book stacks at the edges. 3. Sample across the gap. 4. String loop in the middle. 5. Bag below. 6. Bucket under the bag.
 Vocabulary panel: load | 负载; catch tray | 接水盘
-Visual: The labelled rig diagram (Section 6a), front view: two desks with a 10 cm gap; a stack of three books on each desk at the gap edge, top books covered with plastic; the sample lying across the gap; a string loop round its middle hanging down through the gap; a carrier bag hanging below the desks; a bucket on the floor directly under the bag. Labels on each part. A ruler showing "6 cm".
+Visual: The labelled rig diagram (Section 6a), front view: two desks with a 10 cm gap; a stack of three books on each desk at the gap edge, top books covered with plastic; the sample lying across the gap; a string loop round its middle hanging down through the gap; a carrier bag hanging below the desks; a bucket on the floor directly under the bag. Labels on each part. A ruler showing "10 cm".
 Speaker notes: Demonstrate with one rig. Measure the gap between the book stacks with a ruler every time: 10 cm. The strip is 12 cm long, so it rests about 1 cm on each stack; the loop goes exactly in the middle. Strips are thin, so hold them by the ends and lay them down gently. The bag hangs just inside the bucket, so when the sample snaps it only falls a few centimetres.
 ```
 
@@ -416,7 +416,7 @@ Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test ri
 
 **Inset 1 (top right): side view of the sample on the stacks**, showing the string loop sitting at the centre line, with "centre 中心" marked by a small arrow.
 
-**Inset 2 (bottom right): the pour cup**, a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 600 g."
+**Inset 2 (bottom right): the pour cup**, a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 300 g."
 
 **Numbered steps along the bottom (one line each, English then Chinese):**
 1. Push two desks together, then pull them apart to leave a 10 cm gap. 把两张桌子并拢，再拉开10厘米的间隙。
