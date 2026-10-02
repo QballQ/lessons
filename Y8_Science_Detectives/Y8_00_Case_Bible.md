@@ -212,7 +212,7 @@ The outline offers four options. Each has a story hook so it feels part of the c
 | Option | Story hook | What it shows | Effect on case |
 |---|---|---|---|
 | Soil | A little soil was found in the tread of the footprint. Which campus location does it match? | It matches the flowerbed by the science block entrance | Weak: every suspect walked past that flowerbed to reach the lab. Rules nobody in or out |
-| Paper | A crumpled paper towel was found in the bin by the desk. Which paper towel is it? | It matches the lab's own paper towels | Weak: everyone in the lab could use them |
+| Paper | A crumpled paper towel was found later, in the corridor bin just outside the lab door. Which paper towel is it? | It matches the lab's own paper towels | Weak: everyone in the lab could use them |
 | Ink 2 | Is water the best solvent to separate our inks? (water, salt water, vinegar) | Confirms the note still matches pen B with a second solvent | Makes the ink match more reliable; still matches 2 suspects |
 | Powder 2 | Could the scene powder be a mixture of two powders? | Students test known mixtures. The scene powder (baking soda) gives the same results as pure baking soda | Confirms the Week 4 result is not a mixture |
 
@@ -246,7 +246,7 @@ The scientific approach: keep all the evidence, notice the conflict, look for an
 | Powder: baking soda | Chef Zhou, Dr Huang | Supporting |
 | Footprint: 24 cm | Lily, Dr Huang | Supporting |
 | Liquid: alkali | (Lily, Chef Zhou) | Contaminated: set aside |
-| Sign-in sheet and alibis | Dr Huang and Lily were nearby between 6:50 and 7:30 pm | Supporting testimony (can be checked, can be wrong) |
+| Sign-in sheet and alibis | Dr Huang and Lily were nearby between 6:50 and 7:30 pm; Max was in the lab only until 7:00 pm | Supporting testimony (can be checked, can be wrong) |
 | **All reliable physical evidence together** | **Dr Huang only** | **Strong** (no single clue is strong; the combination is) |
 
 Suggested confidence statement: "We are highly confident, but not certain, that Dr Huang took the notebook, because she is the only suspect who matches all four reliable clues."

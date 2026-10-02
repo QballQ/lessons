@@ -99,16 +99,16 @@ ______________________________
 ---
 
 **Question 5** (2 marks)
-The team measure the foot length and the height of five people. Write the two missing headings. Include units.
-小组测量了五个人的脚长和身高。写出两个表头，并写上单位。
+The team drop one drop of water from different heights onto paper. They measure the width of each splash. Write the two missing headings. Include units.
+小组把一滴水从不同高度滴到纸上，测量水花的宽度。写出两个表头，并写上单位。
 
 | ______________ | ______________ |
 |---|---|
-| 23 | 152 |
-| 24 | 158 |
-| 25 | 163 |
-| 26 | 168 |
-| 27 | 173 |
+| 20 | 12 |
+| 40 | 15 |
+| 60 | 18 |
+| 80 | 20 |
+| 100 | 22 |
 
 (Draw the table with an empty heading box above each column, wide enough to write in.)
 
@@ -222,7 +222,7 @@ Create an A4 portrait, black-and-white-printable mark scheme for the Year 8 Skil
 | 3c | Any one: same dropper (same size of drop); same type of paper; same liquid (fake blood) | "same amount of blood"; "same room" | "height" (that is the IV); "the stain" | 1 |
 | 4a | Any one: the towels are dipped for different times (10 seconds and 1 minute); the pieces of towel are different sizes | "one is big, one is small"; "different time in the water" | "different brands" (that is what is being tested) | 1 |
 | 4b | A fix that matches 4a: dip both for the same time; use pieces of the same size | A fix for either problem, even if 4a is blank or wrong | "do it again" with no change; "use the same brand" | 1 |
-| 5 | Column 1: Foot length (cm). Column 2: Height (cm). | "foot (cm)"; "length of foot (cm)"; "height of person (cm)" | A heading with no unit; columns swapped; "length (cm)" for column 1 with no mention of foot | 1 mark per column: heading and correct unit both needed |
+| 5 | Column 1: Drop height (cm). Column 2: Splash width (mm). | "height (cm)"; "height dropped from (cm)"; "width of splash (mm)"; "splash size (mm)" | A heading with no unit; columns swapped; "width (cm)" (the values are millimetres); "size" with no unit | 1 mark per column: heading and correct unit both needed |
 | 6a | 58 s | "58"; "try 4" | | 1 |
 | 6b | (32 + 35 + 33 + 30) ÷ 4 = 130 ÷ 4 = 32.5 s | "32.5" with no unit | "33" or "32" (rounded) unless working shows 130 ÷ 4 (then 1 mark) | 2 marks for 32.5. 1 mark for 37.6 (mean of all five: 188 ÷ 5) or for correct method with one arithmetic slip |
 | 7 | 20 minutes | 19 to 21 | | 1 |
