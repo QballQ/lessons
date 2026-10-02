@@ -137,7 +137,7 @@ Slide 6 [Shared] | Phase tag: Learn 新知
 Title: Plan like a scientist / 像科学家一样做计划
 On-slide text: 1 Question. 2 Variables. 3 Prediction with a reason. 4 Method. 5 Risks. 6 Results table. Then: plan check and sign-off.
 Vocabulary panel: hazard | 危险源; risk | 风险; sample | 样品
-Visual: A thumbnail of the planning frame (Section 6a) with its six numbered boxes highlighted in order, and a "Plan approved" stamp in the corner.
+Visual: A thumbnail of the planning frame (Section 6a) with its eight numbered boxes highlighted in order (Boxes 2 to 4 grouped as "Variables"), and a "Plan approved" stamp in the corner.
 Speaker notes: Split the frame by role so you finish in 13 minutes. Lead Scientist: question and prediction. Measurer: variables and method. Safety Officer: risk assessment. Recorder: results table. Reporter: checks everything is in English with key words, and helps where needed. I sign the plan before you make anything.
 ```
 
@@ -333,7 +333,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 
 **Trial before this lesson (essential, about 15 minutes, in Week 5 or 6)**
 - Freeze two plain trial beams (100 ml of water each, in the class mould) and test them on the Week 8 rig (Week 8, Section 6a). Aim for plain beams to snap at about 200 to 600 ml of water.
-- If a plain beam holds more than about 1,000 ml, the beams are too thick for 50 ml steps: in this lesson, mix each sample as normal (100 ml of water plus its fibre), then pour half the mix into each of two moulds, stirring between pours. Each mix then makes two thinner beams, the fibre-to-water ratio stays the same, and the freezer needs no extra space. Record the decision on the class project board.
+- If a plain beam holds more than about 1,000 ml, the beams are too thick for 50 ml steps: in this lesson, mix each sample as normal (100 ml of water plus its fibre), then pour half the mix into each of two moulds, stirring between pours. Each mix then makes two thinner beams with the same fibre-to-water ratio, so a group needs only two mixes per sample type (three repeats plus a spare), and the freezer needs no extra space. Record the decision on the class project board.
 - If a plain beam snaps with less than 100 ml, narrow the Week 8 gap to 4 cm.
 
 **Teacher prep before the lesson (about 40 minutes)**
@@ -375,7 +375,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 
 **Trial before this lesson (essential, about 15 minutes, made in Week 5 so it can dry)**
 - Make two plain trial bars (one 100 g ball each, 1 cm thick in the class mould), dry them for a week, and test them on the Week 8 rig (Week 8, Section 6a). Aim for plain bars to snap at about 200 to 600 ml of water.
-- If a plain bar holds more than about 1,000 ml, the bars are too thick for 50 ml steps: in this lesson, knead each fibre cup into a 100 g ball as normal, then split the ball into two 50 g halves and press each into its own mould (about 0.5 cm thick). The fibre-to-dough ratio stays the same. Record the decision on the class project board.
+- If a plain bar holds more than about 1,000 ml, the bars are too thick for 50 ml steps: in this lesson, knead each fibre cup into a 100 g ball as normal, then split the ball into two 50 g halves and press each into its own mould (about 0.5 cm thick). The fibre-to-dough ratio stays the same, and two balls per sample type give three repeats plus a spare, so less dough is needed. Record the decision on the class project board.
 - If a plain bar sags without snapping, it is not dry: dry the class bars for longer, turning them every two days.
 
 **Teacher prep before the lesson (about 75 minutes, can be shared with a technician or the canteen)**
