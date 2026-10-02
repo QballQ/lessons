@@ -80,7 +80,7 @@ Freezer access is not yet confirmed, so the programme does not depend on it. Bot
 
 **What Plan A actually needs** (much less than a full freezer):
 - Year 7 Week 6: one or two trays of ice cubes (about 24 cubes).
-- Year 7 Weeks 7 to 8: space for about 36 small ice-lolly-sized samples for one week. **A domestic fridge's freezer compartment is enough**, for example in a staff room or boarding house.
+- Year 7 Weeks 7 to 8: space for about 54 thin strips (5 mm thick) for one week, which fits in one or two shallow trays. **A domestic fridge's freezer compartment is enough**, for example in a staff room or boarding house.
 - Year 9 Week 6: about 2 to 3 kg of ice on the day (could come from the canteen).
 
 | Lesson | Plan A (freezer) | Plan B (no freezer) | Plan B needs |
@@ -139,22 +139,23 @@ Plan B does not weaken the assessment: the same skills, rubric and final product
 | | **Handover point** | | | | |
 | 6 | Ice cube rescue 冰块保卫战 | Planning a fair test with ice | **Concept cartoon:** "If we put a coat on a snowman, will it melt faster or slower?" Then the **ice cube keeper challenge:** wrap identical ice cubes in different materials; after 30 minutes measure the meltwater. Practises the exact skills the project needs. | Ice cubes, cups, newspaper, foil, fabric, cotton wool, bubble wrap, measuring cylinder or kitchen scale, trays | Mini fair test write-up |
 | 7 | The ice ship mission 冰船计划 | Planning their own investigation | Pykrete story hook. Groups choose an independent variable (type of fibre, or amount of sawdust) and a test (strength or melting). Complete a planning frame and risk assessment. **Make samples** in identical moulds and label them for the freezer. | Moulds, untreated sawdust, tissue, cotton wool, shredded paper, water, measuring jug, labels, freezer | Plan sheet; labelled samples |
-| 8 | Test day 测试日 | Carrying out a test carefully; recording | **Strength test:** rest the ice beam across two equal stacks of books with a fixed gap; hang a plastic bag from the middle; pour in water 50 ml at a time until the beam snaps. 1 ml of water has a mass of about 1 g, so no masses are needed. **Melting test:** time how long each sample takes to melt, or measure meltwater every 5 minutes. | Samples, books, string, plastic bags, measuring jug, catch trays, towels, gloves | Raw results (at least 3 repeats per sample type) |
+| 8 | Test day 测试日 | Carrying out a test carefully; recording | **Strength test:** rest a thin ice strip across a 10 cm gap between two equal book stacks; hang a plastic bag from the middle; pour in water 25 ml at a time until the strip snaps. 1 ml of water has a mass of about 1 g, so no masses are needed. **Melting test:** time how long each sample takes to melt, or measure meltwater every 5 minutes. | Samples, books, string, plastic bags, measuring jug, catch trays, towels, gloves | Raw results (at least 3 repeats per sample type) |
 | 9 | What does it mean? 数据说明了什么？ | Analysing and evaluating | Pool class data. Choose the right graph (bar chart for fibre type, line graph for amount of sawdust). Write a Claim-Evidence-Reasoning conclusion. Evaluate: what went wrong and how to improve. Build the poster. | A3 poster template, printed results | Draft poster |
 | 10 | Ice Engineers Expo 冰雪工程师成果展 | Communicating | Gallery walk of posters; each group gives a 2-minute talk and answers one question; peer feedback ("two stars and a wish"). Final skills check and interest survey. Certificates. | Posters, sticky notes | **Assessment:** poster and talk (rubric), final skills check, survey |
 
 ### Project detail: making and testing the ice samples
 
-- **Moulds (pick one and use it for everything):** ice-lolly moulds, ice-cube trays, or 250 ml drink cartons cut in half lengthways to make a beam mould. The mould must be the same for every sample.
-- **Fixed recipe:** same volume of water every time (e.g. 100 ml). Only the fibre changes.
+- **Samples are thin strips:** about 5 mm thick, 2 cm wide and 12 cm long, made in aluminium foil troughs folded round a template block. Thick beams are far too strong to snap in a lesson: a 1.5 cm thick beam would hold about 15 kg.
+- **Fixed recipe:** about 12 ml of water per strip every time. Only the fibre changes (about 0.6 g per strip, the same ratio as 5 g per 100 ml).
 - **Choice of independent variable:**
   - Type of fibre: none (plain ice), sawdust, tissue, cotton wool, shredded paper
-  - Amount of sawdust: 0 g, 5 g, 10 g, 15 g per 100 ml of water
+  - Amount of sawdust: 0, 0.3, 0.6 or 0.9 g per strip (0, 2.5, 5 or 7.5 g per 100 ml)
 - **Choice of dependent variable:**
   - Strength: volume of water (ml) the beam holds before it snaps
   - Melting: time to melt fully, or volume of meltwater after a set time
 - **Timing:** make samples in Week 7, freeze for at least 24 hours, test in Week 8. Freezer decision by Week 4 (see Section 2).
 - **Repeats:** each group makes three samples of each type.
+- **Essential trial in Week 5 or 6:** test two plain strips. They should snap at about 150 to 500 ml of water. If they hold more than 800 ml, make strips 3 to 4 mm thick; if they snap under 75 ml, narrow the gap to 8 cm.
 
 ### Safety notes for Year 7
 
