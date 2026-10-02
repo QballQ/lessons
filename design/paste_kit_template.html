@@ -1,0 +1,197 @@
+<title>Think Like a Scientist Paste Kit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Sans+SC:wght@400;500&display=swap">
+<style>
+/* Layout: a production checklist. Sticky tab bar by week; each lesson is a card listing its paste blocks as rows with Copy and Done controls. Tokens shared with the programme outline page. */
+:root{
+  --bg:#F2F5F6; --surface:#FFFFFF; --sunk:#E7EDEF; --ink:#13212A; --muted:#53626C; --line:#D2DBDF;
+  --y7:#17789E; --y8:#9A5310; --y9:#76398A; --accent:#13212A; --ok:#2F7D4F; --ok-soft:#E1F1E7;
+  --mark-bg:#F6DD6E; --mark-ink:#352A00;
+  --f-display:"Bricolage Grotesque","Noto Sans SC",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans","Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0E1519; --surface:#151F25; --sunk:#1B272E; --ink:#E3EAED; --muted:#9AAAB3; --line:#2B3B44;
+  --y7:#62B9DD; --y8:#E39B57; --y9:#C693D7; --accent:#E3EAED; --ok:#6CC892; --ok-soft:#173225;
+  --mark-bg:#5E4F12; --mark-ink:#FFF1BF; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0E1519; --surface:#151F25; --sunk:#1B272E; --ink:#E3EAED; --muted:#9AAAB3; --line:#2B3B44;
+  --y7:#62B9DD; --y8:#E39B57; --y9:#C693D7; --accent:#E3EAED; --ok:#6CC892; --ok-soft:#173225;
+  --mark-bg:#5E4F12; --mark-ink:#FFF1BF; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1000px;margin:0 auto;padding-inline:clamp(16px,4vw,32px)}
+header.top{padding-block:28px 18px;display:grid;gap:10px}
+.kicker{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(1.8rem,5vw,2.6rem);line-height:1.05;margin:0;letter-spacing:-.02em}
+.how{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:4px 0 0;padding:0;list-style:none;counter-reset:s}
+.how li{counter-increment:s;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px 10px 40px;position:relative;font-size:.9rem}
+.how li::before{content:counter(s);position:absolute;left:12px;top:10px;width:20px;height:20px;border-radius:4px;background:var(--mark-bg);color:var(--mark-ink);font-family:var(--f-mono);font-size:.78rem;display:grid;place-items:center}
+@media (max-width:720px){.how{grid-template-columns:1fr}}
+.progress{display:flex;align-items:center;gap:12px;font-family:var(--f-mono);font-size:.8rem;color:var(--muted);flex-wrap:wrap}
+.bar{flex:1;min-width:140px;height:8px;background:var(--sunk);border-radius:99px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--ok);width:0}
+.reset{font:inherit;background:none;border:0;color:var(--muted);text-decoration:underline;cursor:pointer;padding:0}
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+nav.tabs .wrap{overflow-x:auto;scrollbar-width:thin}
+nav.tabs ul{display:flex;gap:4px;list-style:none;margin:0;padding:8px 0;white-space:nowrap}
+nav.tabs button{font:500 .86rem var(--f-body);color:var(--muted);background:none;border:1px solid transparent;border-radius:6px;padding:6px 10px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+nav.tabs button:hover{background:var(--sunk);color:var(--ink)}
+nav.tabs button[aria-selected="true"]{background:var(--surface);border-color:var(--line);color:var(--ink)}
+nav.tabs .cnt{font-family:var(--f-mono);font-size:.7rem;color:var(--muted)}
+nav.tabs .cnt.full{color:var(--ok)}
+main{padding-block:20px 60px}
+.panel{display:grid;gap:16px}
+.phead{display:grid;gap:8px}
+.phead h2{font-family:var(--f-display);font-weight:700;font-size:1.5rem;margin:0}
+.note{background:var(--mark-bg);color:var(--mark-ink);border-radius:8px;padding:10px 14px;font-size:.9rem}
+.filters{display:flex;gap:6px;flex-wrap:wrap}
+.filters button{font:500 .8rem var(--f-mono);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:99px;padding:4px 12px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.item{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.ihead{padding:12px 16px;border-bottom:1px solid var(--line);display:grid;gap:2px}
+.ihead h3{margin:0;font-family:var(--f-display);font-size:1.08rem;font-weight:700;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.chip{font-family:var(--f-mono);font-size:.7rem;font-weight:500;padding:2px 7px;border-radius:4px;color:var(--surface);background:var(--muted)}
+.chip.Y7{background:var(--y7)}.chip.Y8{background:var(--y8)}.chip.Y9{background:var(--y9)}
+.ihead .sub{font-size:.88rem;color:var(--muted)}
+.ihead .file{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);word-break:break-all}
+.blk{border-bottom:1px solid var(--line)}
+.blk:last-child{border-bottom:0}
+.row{display:grid;grid-template-columns:auto minmax(0,1fr) auto auto;gap:10px;align-items:center;padding:10px 16px}
+.row input{width:18px;height:18px;accent-color:var(--ok);cursor:pointer}
+.bname{min-width:0;display:grid;gap:1px}
+.bname b{font-weight:600;font-size:.94rem;overflow-wrap:anywhere}
+.bname span{font-family:var(--f-mono);font-size:.7rem;color:var(--muted)}
+.blk.done .bname b{text-decoration:line-through;text-decoration-color:var(--muted);color:var(--muted)}
+.blk.done{background:var(--ok-soft)}
+.btn{font:600 .84rem var(--f-body);border-radius:6px;padding:7px 14px;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink);white-space:nowrap}
+.btn.copy{background:var(--ink);color:var(--bg);border-color:var(--ink);min-width:84px}
+.btn.copy.ok{background:var(--ok);border-color:var(--ok);color:var(--surface)}
+.btn:focus-visible,.row input:focus-visible,nav.tabs button:focus-visible,.filters button:focus-visible{outline:2px solid var(--y7);outline-offset:2px}
+@media (max-width:560px){.row{grid-template-columns:auto minmax(0,1fr) auto}.row .view{grid-column:2/4;justify-self:start}}
+pre.txt{margin:0 16px 14px;padding:12px 14px;background:var(--sunk);border-radius:6px;font:400 .78rem/1.5 var(--f-mono);white-space:pre-wrap;overflow-wrap:anywhere;max-height:420px;overflow:auto}
+.hint{margin:0 16px 10px;font-size:.82rem;color:var(--muted)}
+.empty{color:var(--muted);font-size:.9rem}
+footer{font-size:.8rem;color:var(--muted);padding-block:0 40px}
+</style>
+
+<header class="top wrap">
+  <p class="kicker">Think Like a Scientist · 像科学家一样思考 · Claude Design production</p>
+  <h1>Paste Kit</h1>
+  <ol class="how">
+    <li><b>Start here</b> first: build the brand and templates in the Claude Design project that holds the school brand.</li>
+    <li>Then work one week ahead of teaching. Press <b>Copy</b>, paste into Claude Design, and check the result.</li>
+    <li>Tick <b>Done</b> when a block is finished. Ticks are saved in this browser only.</li>
+  </ol>
+  <div class="progress"><span id="pcount">0 of __TOTAL__ blocks done</span><div class="bar" aria-hidden="true"><i id="pbar"></i></div><button class="reset" id="reset" type="button">Clear ticks</button></div>
+</header>
+
+<nav class="tabs" aria-label="Sections"><div class="wrap"><ul id="tabs" role="tablist"></ul></div></nav>
+<main class="wrap" id="panels"></main>
+<footer class="wrap">Built from the files on GitHub (QballQ/lessons, branch claude/sharp-dirac-gcoekh). All Chinese text is draft until checked by a native speaker.</footer>
+
+<script>
+const DATA = __DATA__;
+const KEY = "tlas-paste-kit-done";
+let done = {};
+try { done = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { done = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {} };
+const el = (tag, attrs = {}, ...kids) => {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "class") n.className = v; else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+  }
+  for (const c of kids) if (c != null) n.append(c);
+  return n;
+};
+const words = t => (t.match(/\S+/g) || []).length;
+const tabs = document.getElementById("tabs"), panels = document.getElementById("panels");
+const allIds = [];
+const groupIds = {};
+
+function copyText(text, btn, blk) {
+  const ok = () => { btn.textContent = "Copied"; btn.classList.add("ok"); setTimeout(() => { btn.textContent = "Copy"; btn.classList.remove("ok"); }, 1800); };
+  const fallback = () => {
+    const pre = showText(blk, true);
+    const r = document.createRange(); r.selectNodeContents(pre);
+    const s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    let worked = false; try { worked = document.execCommand("copy"); } catch (e) {}
+    if (worked) ok(); else { btn.textContent = "Text selected"; setTimeout(() => btn.textContent = "Copy", 2500); }
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ok, fallback); else fallback();
+}
+function showText(blk, force) {
+  let pre = blk.querySelector("pre.txt"); const btn = blk.querySelector(".view");
+  if (!pre) {
+    blk.append(el("p", { class: "hint" }, "If Copy does not work on this device, select the text below and copy it."));
+    pre = el("pre", { class: "txt", tabindex: "0" }); pre.textContent = blk._text; blk.append(pre);
+    btn.textContent = "Hide text";
+  } else if (!force) {
+    pre.previousSibling.remove(); pre.remove(); btn.textContent = "View text";
+  }
+  return pre;
+}
+function refreshCounts() {
+  const n = allIds.filter(id => done[id]).length;
+  document.getElementById("pcount").textContent = `${n} of ${allIds.length} blocks done`;
+  document.getElementById("pbar").style.width = (allIds.length ? n / allIds.length * 100 : 0) + "%";
+  for (const [gid, ids] of Object.entries(groupIds)) {
+    const c = document.getElementById("cnt-" + gid); if (!c) continue;
+    const d = ids.filter(id => done[id]).length;
+    c.textContent = `${d}/${ids.length}`; c.classList.toggle("full", d === ids.length && ids.length > 0);
+  }
+}
+function select(gid) {
+  for (const b of tabs.querySelectorAll("button")) b.setAttribute("aria-selected", b.dataset.g === gid ? "true" : "false");
+  for (const p of panels.children) p.hidden = p.id !== "p-" + gid;
+  try { localStorage.setItem(KEY + "-tab", gid); } catch (e) {}
+}
+
+DATA.forEach(g => {
+  groupIds[g.id] = [];
+  tabs.append(el("li", {}, el("button", { type: "button", role: "tab", "data-g": g.id, onclick: () => select(g.id) }, g.tab, el("span", { class: "cnt", id: "cnt-" + g.id }))));
+  const panel = el("section", { class: "panel", id: "p-" + g.id, role: "tabpanel" });
+  const head = el("div", { class: "phead" }, el("h2", {}, g.title));
+  if (g.note) head.append(el("p", { class: "note" }, g.note));
+  const series = [...new Set(g.items.map(i => i.series).filter(Boolean))];
+  if (series.length > 1) {
+    const f = el("div", { class: "filters", role: "group", "aria-label": "Filter by year" });
+    ["All", ...series].forEach(s => f.append(el("button", { type: "button", "aria-pressed": s === "All" ? "true" : "false", onclick: e => {
+      for (const b of f.children) b.setAttribute("aria-pressed", b === e.currentTarget ? "true" : "false");
+      for (const it of panel.querySelectorAll(".item")) it.hidden = s !== "All" && it.dataset.s !== s;
+    } }, s === "All" ? "All years" : s)));
+    head.append(f);
+  }
+  panel.append(head);
+  if (!g.items.length) panel.append(el("p", { class: "empty" }, "Nothing here yet."));
+  g.items.forEach(it => {
+    const card = el("article", { class: "item", "data-s": it.series || "" });
+    const h = el("h3", {}, it.series ? el("span", { class: "chip " + it.series }, it.series) : null, it.heading.replace(/^Y\d /, ""));
+    card.append(el("div", { class: "ihead" }, h, it.sub ? el("span", { class: "sub" }, it.sub) : null, el("span", { class: "file" }, it.file)));
+    it.blocks.forEach((b, i) => {
+      const id = `${it.file}#${i}`; allIds.push(id); groupIds[g.id].push(id);
+      const blk = el("div", { class: "blk" + (done[id] ? " done" : "") }); blk._text = b.text;
+      const cb = el("input", { type: "checkbox", "aria-label": "Done: " + b.name, onchange: e => { done[id] = e.target.checked; if (!done[id]) delete done[id]; blk.classList.toggle("done", !!done[id]); save(); refreshCounts(); } });
+      cb.checked = !!done[id];
+      const copy = el("button", { type: "button", class: "btn copy", onclick: e => copyText(b.text, e.currentTarget, blk) }, "Copy");
+      const view = el("button", { type: "button", class: "btn view", onclick: () => showText(blk) }, "View text");
+      blk.append(el("div", { class: "row" }, cb, el("div", { class: "bname" }, el("b", {}, b.name), el("span", {}, `${b.kind} · ${words(b.text).toLocaleString()} words`)), view, copy));
+      card.append(blk);
+    });
+    panel.append(card);
+  });
+  panels.append(panel);
+});
+document.getElementById("reset").addEventListener("click", e => {
+  const b = e.currentTarget;
+  if (b.dataset.confirm) { done = {}; save(); document.querySelectorAll(".blk").forEach(x => x.classList.remove("done")); document.querySelectorAll(".row input").forEach(x => x.checked = false); refreshCounts(); b.textContent = "Clear ticks"; delete b.dataset.confirm; }
+  else { b.dataset.confirm = "1"; b.textContent = "Click again to clear all ticks"; setTimeout(() => { b.textContent = "Clear ticks"; delete b.dataset.confirm; }, 4000); }
+});
+let startTab = "start";
+try { const t = localStorage.getItem(KEY + "-tab"); if (t && DATA.some(g => g.id === t)) startTab = t; } catch (e) {}
+const hash = (location.hash || "").slice(1); if (DATA.some(g => g.id === hash)) startTab = hash;
+select(startTab); refreshCounts();
+</script>
