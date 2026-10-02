@@ -1,0 +1,368 @@
+<title>Think Like a Scientist Brand Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a printed brand board on white paper. Single light theme by choice: every deliverable is printed A4 or projected on white. Sections run top to bottom: mark, series, colour, type, icons, templates. */
+:root{
+  color-scheme:light;
+  --navy:#0F2A5F;      /* HIK | SVS navy (match to brand guidelines) */
+  --paper:#FFFFFF; --page:#EEF1F5; --ink:#141B26; --muted:#5B6574; --rule:#D5DBE3;
+  --y7:#1E7DB0; --y7-tint:#E3F1F8;   /* Ice Engineers: glacier blue */
+  --y8:#B4621C; --y8-tint:#F7EBDD;   /* Science Detectives: amber */
+  --y9:#7B3A8E; --y9-tint:#F1E5F4;   /* Claim Busters: plum */
+  --hi:#F2CE3E; --hi-ink:#3A2E00;    /* highlight: warnings, handover */
+  --f-serif:"Source Serif 4","Noto Serif SC",Georgia,serif;
+  --f-sans:"Source Sans 3","Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--page);color:var(--ink);font-family:var(--f-sans);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
+h1,h2,h3{font-family:var(--f-serif);margin:0;text-wrap:balance;color:var(--navy)}
+p{margin:0}
+.mono{font-family:var(--f-mono)}
+header.top{background:var(--paper);border-bottom:1px solid var(--rule)}
+header.top .wrap{padding-block:32px 26px;display:grid;gap:10px}
+.kick{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+header h1{font-size:clamp(2rem,5vw,3rem);font-weight:700;letter-spacing:-.01em}
+header p.lede{max-width:70ch;color:var(--muted)}
+.sec{padding-block:44px;border-bottom:1px solid var(--rule)}
+.sec .wrap{display:grid;gap:22px}
+.sh{display:grid;gap:6px;max-width:72ch}
+.sh .n{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.sh h2{font-size:1.7rem;font-weight:700}
+.sh p{color:var(--muted)}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media (max-width:900px){.g3,.g4{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.g2,.g3,.g4{grid-template-columns:1fr}}
+.tile{background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:18px;display:grid;gap:10px;align-content:start;min-width:0}
+.cap{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.note{font-size:.88rem;color:var(--muted)}
+
+/* Programme mark */
+.lock{display:flex;align-items:center;gap:14px}
+.lock .wm{display:grid;gap:2px}
+.lock .wm b{font-family:var(--f-serif);font-weight:700;font-size:1.7rem;line-height:1;color:var(--navy);letter-spacing:-.005em}
+.lock .wm span{font-family:"Noto Serif SC",var(--f-serif);font-weight:500;font-size:1rem;color:var(--navy);opacity:.8;letter-spacing:.12em}
+.lock.stack{flex-direction:column;text-align:center}
+.lock.rev{background:var(--navy);padding:18px;border-radius:4px}
+.lock.rev .wm b,.lock.rev .wm span{color:#fff}
+.lock.mono-k .wm b,.lock.mono-k .wm span{color:#000}
+.mark{flex:none}
+.big-mark{display:grid;place-items:center;padding:30px 10px;background:var(--paper);border:1px solid var(--rule);border-radius:6px}
+
+/* Series */
+.series{border-radius:6px;overflow:hidden;background:var(--paper);border:1px solid var(--rule);display:grid;grid-template-rows:auto 1fr}
+.series .band{padding:16px 18px;display:flex;gap:14px;align-items:center;color:#fff}
+.series .band b{font-family:var(--f-serif);font-size:1.3rem;display:block;line-height:1.1}
+.series .band span{font-family:"Noto Serif SC",serif;font-size:.95rem;opacity:.9}
+.series .body{padding:14px 18px;display:grid;gap:10px;font-size:.9rem}
+.pat{height:46px;border-radius:4px;border:1px solid #000}
+.pat.p7{background:repeating-linear-gradient(135deg,#000 0 1.5px,#fff 1.5px 7px)}
+.pat.p8{background:radial-gradient(#000 1.6px,#fff 1.7px) 0 0/8px 8px}
+.pat.p9{background:repeating-linear-gradient(0deg,#000 0 1.2px,transparent 1.2px 8px),repeating-linear-gradient(90deg,#000 0 1.2px,#fff 1.2px 8px)}
+.grey{filter:grayscale(1)}
+
+/* Colour */
+.sw{border-radius:6px;overflow:hidden;border:1px solid var(--rule);background:var(--paper)}
+.sw .c{height:84px}
+.sw .t{padding:10px 12px;display:grid;gap:2px;font-size:.84rem}
+.sw .t b{font-weight:600}
+.sw .t span{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+
+/* Type */
+.spec{display:grid;grid-template-columns:150px minmax(0,1fr);gap:8px 18px;align-items:baseline}
+.spec .cap{padding-top:4px}
+@media (max-width:620px){.spec{grid-template-columns:1fr}}
+.t-h1{font-family:var(--f-serif);font-weight:700;font-size:2rem;color:var(--navy);line-height:1.1}
+.t-h1 small{display:block;font-family:"Noto Serif SC",serif;font-weight:500;font-size:.62em;color:var(--navy);opacity:.75;margin-top:4px}
+.t-h2{font-family:var(--f-serif);font-weight:600;font-size:1.35rem;color:var(--navy)}
+.t-body{font-size:1rem;max-width:60ch}
+.t-zh{font-family:"Noto Sans SC",sans-serif;font-size:.95rem;color:var(--muted)}
+.t-label{font-family:var(--f-sans);font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase}
+
+/* Icons */
+.icons{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:10px}
+.ic{background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:14px 8px;display:grid;justify-items:center;gap:6px;text-align:center;font-size:.8rem;line-height:1.25}
+.ic svg{width:40px;height:40px}
+.ic small{font-family:"Noto Sans SC",sans-serif;color:var(--muted);font-size:.74rem}
+.dots{display:inline-flex;gap:4px}
+.dots i{width:12px;height:12px;border-radius:50%;border:2px solid var(--navy);display:inline-block}
+.dots i.f{background:var(--navy)}
+
+/* Templates */
+.paper{background:#fff;border:1px solid var(--rule);box-shadow:0 1px 0 var(--rule),0 14px 30px -18px rgba(15,42,95,.35)}
+.slide{aspect-ratio:16/9;max-width:100%;display:grid;grid-template-columns:minmax(0,1fr) 30%;position:relative;overflow:hidden;font-size:clamp(7px,1.15vw,13px)}
+.slide .main{padding:6% 6% 5%;display:grid;align-content:space-between;gap:.6em}
+.slide .phase{display:inline-flex;align-items:center;gap:.5em;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.85em;color:var(--navy)}
+.slide .phase svg{width:1.8em;height:1.8em}
+.slide h3{font-size:2.3em;line-height:1.08}
+.slide h3 small{display:block;font-family:"Noto Serif SC",serif;font-weight:500;font-size:.55em;opacity:.75;margin-top:.3em}
+.slide .foot{display:flex;justify-content:space-between;align-items:center;font-size:.8em;color:var(--muted);border-top:1px solid var(--rule);padding-top:.6em}
+.slide .foot .lk{display:flex;align-items:center;gap:.5em;color:var(--navy);font-weight:600}
+.slide .vocab{background:var(--s-tint);padding:12% 10%;display:grid;align-content:start;gap:.35em;border-left:.35em solid var(--s)}
+.slide .vocab b{font-size:.78em;letter-spacing:.08em;text-transform:uppercase;color:var(--s);margin-bottom:.3em}
+.slide .vocab div{display:flex;justify-content:space-between;gap:.5em;border-bottom:1px solid rgba(0,0,0,.12);padding-block:.2em}
+.slide .vocab span:last-child{font-family:"Noto Sans SC",sans-serif;color:var(--muted);white-space:nowrap}
+.slide .vocab span:first-child{min-width:0;overflow-wrap:anywhere}
+.slide.title{grid-template-columns:1fr;background:var(--navy);color:#fff}
+.slide.title .main{padding:7%}
+.slide.title h3{color:#fff;font-size:2.8em}
+.slide.title .serieschip{display:inline-flex;align-items:center;gap:.6em;background:#fff;color:var(--s);padding:.35em .8em;border-radius:99px;font-weight:700;font-size:.9em;justify-self:start}
+.slide.title .serieschip svg{width:1.6em;height:1.6em}
+.slide.title .wk{font-family:var(--f-mono);opacity:.8}
+.slide.title .grid-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.07) 1px,transparent 1px);background-size:2.2em 2.2em;pointer-events:none}
+.y7{--s:var(--y7);--s-tint:var(--y7-tint)}
+.y8{--s:var(--y8);--s-tint:var(--y8-tint)}
+.y9{--s:var(--y9);--s-tint:var(--y9-tint)}
+
+.a4{aspect-ratio:210/297;max-width:100%;padding:5.5% 6%;display:grid;grid-template-rows:auto auto 1fr auto;gap:2.2%;font-size:clamp(6.5px,.95vw,11px);filter:grayscale(1)}
+.a4 .hd{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:.25em solid #000;padding-bottom:.6em;gap:1em}
+.a4 .hd b{font-family:var(--f-serif);font-size:1.9em;display:block;line-height:1.05;color:#000}
+.a4 .hd small{font-family:"Noto Serif SC",serif;font-size:1.1em}
+.a4 .hd .meta{text-align:right;display:grid;gap:.2em;font-size:.9em}
+.a4 .hd .meta .ser{display:inline-flex;align-items:center;gap:.4em;justify-content:flex-end;font-weight:700}
+.a4 .hd svg{width:1.8em;height:1.8em}
+.a4 .fields{display:flex;gap:2em;font-size:.95em;margin-top:.5em}
+.a4 .voc{border:.15em solid #000;border-radius:.3em;padding:.6em .8em;display:grid;grid-template-columns:repeat(3,1fr);gap:.2em 1.2em}
+.a4 .voc div{display:flex;justify-content:space-between;border-bottom:1px dotted #777}
+.a4 .tiers{display:grid;gap:1.2em;align-content:start}
+.a4 .tier{display:grid;gap:.4em}
+.a4 .tier h5{margin:0;font-family:var(--f-serif);font-size:1.25em;display:flex;align-items:center;gap:.5em;color:#000}
+.a4 .tier .dots i{width:.9em;height:.9em;border-color:#000}.a4 .tier .dots i.f{background:#000}
+.a4 .ln{height:3.6em;background-image:linear-gradient(#bbb 1px,transparent 1px);background-size:100% 1.2em}
+.a4 .think{border:.15em dashed #000;border-radius:.6em;padding:.6em .8em;display:grid;gap:.3em}
+.a4 .fold{border-top:.15em dashed #888;margin-inline:-6.4%;padding:.6em 6.4% 0;font-size:.9em;color:#333}
+
+.kit{aspect-ratio:297/210;max-width:100%;padding:4% 5%;display:grid;grid-template-columns:1fr 1fr;gap:3%;font-size:clamp(6.5px,.8vw,10px)}
+.kit h4{grid-column:1/-1;margin:0;font-family:var(--f-serif);font-size:1.7em;color:var(--navy);display:flex;align-items:center;gap:.5em;border-bottom:.2em solid var(--s);padding-bottom:.3em}
+.kit h4 svg{width:1.4em;height:1.4em}
+.kit .col{display:grid;gap:.6em;align-content:start}
+.kit .lab{font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.85em;color:var(--s)}
+.kit ul{margin:0;padding-left:1.1em;display:grid;gap:.2em}
+.kit .haz{background:var(--hi);color:var(--hi-ink);padding:.5em .7em;border-radius:.3em;display:grid;gap:.3em}
+.kit .haz div{display:grid;grid-template-columns:1.8em 1fr;gap:.4em;align-items:start}
+.kit .haz svg{width:1.6em;height:1.6em}
+
+.roles{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px}
+.role{aspect-ratio:85/55;padding:10px 12px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-content:center;border-radius:6px;font-size:.82rem}
+.role svg{width:34px;height:34px;grid-row:span 2}
+.role b{font-family:var(--f-serif);color:var(--navy);font-size:1rem;line-height:1.1}
+.role span{font-family:"Noto Sans SC",sans-serif;color:var(--muted)}
+.role p{grid-column:1/-1;font-size:.76rem;color:var(--ink);margin-top:4px}
+
+.cert{aspect-ratio:297/210;max-width:100%;padding:5%;display:grid;grid-template-columns:24% 1fr;gap:5%;align-items:center;border:10px solid #fff;outline:2px solid var(--navy);outline-offset:-18px;font-size:clamp(7px,1vw,12px)}
+.cert img{width:100%;height:auto}
+.cert .txt{display:grid;gap:.7em}
+.cert .txt .lab{font-family:var(--f-sans);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:.85em;color:var(--s)}
+.cert h3{font-size:2.4em;line-height:1.05}
+.cert .name{font-family:var(--f-serif);font-style:italic;font-size:2em;color:var(--ink);border-bottom:1px solid var(--rule);padding-bottom:.2em}
+.cert .award{display:inline-flex;align-items:center;gap:.6em;font-weight:700;color:var(--navy)}
+.cert .medal{width:2.4em;height:2.4em;border-radius:50%;background:#C9A227;display:grid;place-items:center;color:#fff;font-family:var(--f-serif);font-size:.9em}
+.cert .sig{display:grid;grid-template-columns:1fr 1fr;gap:2em;font-size:.8em;color:var(--muted);margin-top:.6em}
+.cert .sig span{border-top:1px solid var(--ink);padding-top:.3em}
+
+.rep{aspect-ratio:210/297;max-width:100%;padding:6%;display:grid;grid-template-rows:auto auto 1fr auto;gap:3%;font-size:clamp(6.5px,.9vw,11px)}
+.rep .hd{display:flex;justify-content:space-between;align-items:center;border-bottom:.2em solid var(--navy);padding-bottom:.6em}
+.rep .hd img{height:3.8em;width:auto}
+.rep .hd b{font-family:var(--f-serif);color:var(--navy);font-size:1.6em;text-align:right;line-height:1.1}
+.rep table{width:100%;border-collapse:collapse;font-size:.95em}
+.rep th,.rep td{border:1px solid var(--rule);padding:.35em .5em;text-align:left}
+.rep th{background:#F3F5F8;font-weight:600}
+.rep td.x{text-align:center;font-weight:700;color:var(--navy)}
+.rep .bars{display:grid;gap:.4em}
+.rep .bars div{display:grid;grid-template-columns:7em 1fr 2.5em;gap:.5em;align-items:center}
+.rep .bars i{display:block;height:.9em;background:var(--navy);border-radius:2px}
+.rep .com{border:1px solid var(--rule);padding:.6em;min-height:5em}
+footer{padding-block:28px 48px;font-size:.84rem;color:var(--muted)}
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <!-- Programme mark: a lens over field-notebook grid -->
+    <symbol id="m-prog" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="var(--navy)"/><g stroke="#fff" stroke-opacity=".22" stroke-width="1"><path d="M0 16H64M0 32H64M0 48H64M16 0V64M32 0V64M48 0V64"/></g><circle cx="28" cy="28" r="13" fill="none" stroke="#fff" stroke-width="4.5"/><path d="M37.5 37.5 50 50" stroke="#fff" stroke-width="6" stroke-linecap="round"/><path d="M28 21v4M28 31v4M21 28h4M31 28h4" stroke="var(--hi)" stroke-width="2.6" stroke-linecap="round"/></symbol>
+    <symbol id="m-prog-k" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="#000"/><circle cx="28" cy="28" r="13" fill="none" stroke="#fff" stroke-width="4.5"/><path d="M37.5 37.5 50 50" stroke="#fff" stroke-width="6" stroke-linecap="round"/><path d="M28 21v4M28 31v4M21 28h4M31 28h4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></symbol>
+    <symbol id="m-prog-w" viewBox="0 0 64 64"><rect x="1.5" y="1.5" width="61" height="61" rx="9" fill="none" stroke="#fff" stroke-width="3"/><circle cx="28" cy="28" r="13" fill="none" stroke="#fff" stroke-width="4.5"/><path d="M37.5 37.5 50 50" stroke="#fff" stroke-width="6" stroke-linecap="round"/><path d="M28 21v4M28 31v4M21 28h4M31 28h4" stroke="var(--hi)" stroke-width="2.6" stroke-linecap="round"/></symbol>
+    <!-- Series icons (stroke uses currentColor) -->
+    <symbol id="i-ice" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M24 4v40M6.7 14l34.6 20M6.7 34l34.6-20"/><path d="M19 7l5 5 5-5M19 41l5-5 5 5M7.5 20.5l6.5-1.5-1.5-6.5M40.5 27.5l-6.5 1.5 1.5 6.5M7.5 27.5l6.5 1.5-1.5 6.5M40.5 20.5l-6.5-1.5 1.5-6.5"/></symbol>
+    <symbol id="i-det" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><circle cx="20" cy="20" r="14"/><path d="M30 30l13 13"/><path d="M13.5 23c0-5 3-8.5 6.5-8.5S26.5 18 26.5 23M17 25c0-4 1.3-6 3-6s3 2 3 6M10.5 18.5c1.8-4.3 5.3-7 9.5-7s7.7 2.7 9.5 7" stroke-width="2"/></symbol>
+    <symbol id="i-claim" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M8 8h32a3 3 0 0 1 3 3v19a3 3 0 0 1-3 3H22l-9 8v-8H8a3 3 0 0 1-3-3V11a3 3 0 0 1 3-3z"/><path d="M15 21l6 6 12-12"/></symbol>
+    <!-- Phase icons -->
+    <symbol id="p-now" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><circle cx="24" cy="26" r="16"/><path d="M24 17v9l6 4M19 5h10M24 5v5"/></symbol>
+    <symbol id="p-hook" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M24 4v24a9 9 0 1 1-18 0"/><path d="M6 28l-2-5 6 1"/><circle cx="24" cy="4" r="0.5"/><path d="M34 10c3 2 5 5.5 5 9.5M38 4c5 3.5 8 9 8 15"/></symbol>
+    <symbol id="p-learn" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"><path d="M24 12c-5-4-12-5-19-4v29c7-1 14 0 19 4 5-4 12-5 19-4V8c-7-1-14 0-19 4z"/><path d="M24 12v29"/></symbol>
+    <symbol id="p-do" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M18 5h12M20 5v13L8 39a3 3 0 0 0 2.6 4.5h26.8A3 3 0 0 0 40 39L28 18V5"/><path d="M13 31h22"/></symbol>
+    <symbol id="p-think" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"><path d="M13 30c-5 0-9-3.6-9-8.5S8 13 13 13c1-5 6-8 11-8 6 0 10 4 11 8 5 0 9 3.5 9 8.5S40 30 35 30z"/><circle cx="14" cy="37" r="3"/><circle cx="8" cy="43" r="1.8"/></symbol>
+    <symbol id="i-anylang" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-dasharray="4 3"><path d="M8 8h32a3 3 0 0 1 3 3v19a3 3 0 0 1-3 3H22l-9 8v-8H8a3 3 0 0 1-3-3V11a3 3 0 0 1 3-3z"/><text x="24" y="25" text-anchor="middle" font-size="11" font-family="sans-serif" fill="currentColor" stroke="none" stroke-dasharray="0">A 文</text></symbol>
+    <!-- Safety -->
+    <symbol id="s-gog" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"><path d="M4 18h40v12a4 4 0 0 1-4 4h-9l-4-5h-6l-4 5H8a4 4 0 0 1-4-4z"/><path d="M4 22H1M44 22h3"/></symbol>
+    <symbol id="s-glove" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M14 44V24l-5-6a3 3 0 0 1 4.5-4L18 19V8a3 3 0 0 1 6 0v10V6a3 3 0 0 1 6 0v12V9a3 3 0 0 1 6 0v19c0 8-4 16-12 16z"/></symbol>
+    <symbol id="s-hot" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M8 24h28v8a10 10 0 0 1-10 10h-8A10 10 0 0 1 8 32z"/><path d="M36 27h3a4 4 0 0 1 0 8h-3M16 6c-3 4 3 6 0 10M24 6c-3 4 3 6 0 10M32 6c-3 4 3 6 0 10"/></symbol>
+    <symbol id="s-cold" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M20 6v24a8 8 0 1 0 8 0V6a4 4 0 0 0-8 0z"/><path d="M24 22v14"/><path d="M36 10h8M36 18h6"/></symbol>
+    <symbol id="s-noeat" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><circle cx="24" cy="24" r="19"/><path d="M10.5 10.5l27 27"/><path d="M19 13v9a3 3 0 0 0 3 3v10M19 13v6M25 13v9a3 3 0 0 1-3 3M30 13v22M30 13c3 0 4 4 4 8h-4"/></symbol>
+    <!-- Roles -->
+    <symbol id="r-lead" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M10 42V6M10 8h26l-5 7 5 7H10"/></symbol>
+    <symbol id="r-meas" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="4" y="16" width="40" height="16" rx="2"/><path d="M12 16v6M20 16v9M28 16v6M36 16v9"/></symbol>
+    <symbol id="r-rec" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="9" y="6" width="26" height="36" rx="2"/><path d="M15 15h14M15 22h14M15 29h8M38 14l4 4-12 12h-4v-4z"/></symbol>
+    <symbol id="r-safe" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M24 4l16 6v12c0 10-7 18-16 22C15 40 8 32 8 22V10z"/><path d="M17 24l5 5 9-10"/></symbol>
+    <symbol id="r-rep" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="17" y="4" width="14" height="24" rx="7"/><path d="M10 22a14 14 0 0 0 28 0M24 36v8M16 44h16"/></symbol>
+  </defs>
+</svg>
+
+<header class="top">
+  <div class="wrap">
+    <p class="kick">HIK | SVS International School · Science enrichment · Draft v0.1 for approval</p>
+    <h1>Think Like a Scientist brand board</h1>
+    <p class="lede">The programme sub-brand, its three series, and the templates every lesson uses. Classroom materials carry only the programme brand. The HIK | SVS crest appears on certificates and reports. Colours and fonts are proposals: match the navy to the school's brand guidelines before printing.</p>
+  </div>
+</header>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">1 · Programme mark</span><h2>A lens over the field notebook</h2><p>A magnifying lens on graph-paper grid: looking closely, measuring carefully. The yellow cross-hair is the moment of noticing. The serif wordmark echoes the school's own lettering, so the sub-brand sits naturally beside HIK | SVS.</p></div>
+  <div class="grid g2">
+    <div class="big-mark"><div class="lock"><svg class="mark" width="88" height="88"><use href="#m-prog"/></svg><div class="wm"><b style="font-size:2.3rem">Think Like a Scientist</b><span style="font-size:1.25rem">像科学家一样思考</span></div></div></div>
+    <div class="grid g2">
+      <div class="tile"><span class="cap">Stacked</span><div class="lock stack"><svg width="56" height="56"><use href="#m-prog"/></svg><div class="wm"><b style="font-size:1.25rem">Think Like a Scientist</b><span>像科学家一样思考</span></div></div></div>
+      <div class="tile"><span class="cap">Reversed, on navy</span><div class="lock rev"><svg width="44" height="44"><use href="#m-prog-w"/></svg><div class="wm"><b style="font-size:1.1rem">Think Like a Scientist</b><span style="font-size:.85rem">像科学家一样思考</span></div></div></div>
+      <div class="tile"><span class="cap">Black only (photocopies)</span><div class="lock mono-k"><svg width="44" height="44"><use href="#m-prog-k"/></svg><div class="wm"><b style="font-size:1.1rem">Think Like a Scientist</b><span style="font-size:.85rem">像科学家一样思考</span></div></div></div>
+      <div class="tile"><span class="cap">Chinese only</span><div class="lock"><svg width="44" height="44"><use href="#m-prog"/></svg><div class="wm"><b style="font-family:'Noto Serif SC',serif;font-size:1.3rem">像科学家一样思考</b></div></div></div>
+    </div>
+  </div>
+  <p class="note">Rules: English above Chinese, never side by side at equal weight. Minimum mark size 10 mm on print. Clear space around the lockup equal to the height of the lens. Do not place the programme mark and the school crest on the same classroom page.</p>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">2 · Series sub-brands</span><h2>One family, three accents</h2><p>Each series has a colour, an icon and a black-and-white pattern. Most worksheets are printed in greyscale, so the icon and pattern must identify the series on their own.</p></div>
+  <div class="grid g3">
+    <div class="series y7"><div class="band" style="background:var(--y7)"><svg width="46" height="46" style="color:#fff"><use href="#i-ice"/></svg><div><b>Ice Engineers</b><span>冰雪工程师 · Year 7</span></div></div>
+      <div class="body"><p>Winter, ice, building and testing. Icon: ice crystal. Pattern: diagonal hatch.</p><div class="grid g2"><div class="pat p7"></div><div class="grey" style="display:flex;align-items:center;gap:8px"><svg width="34" height="34" style="color:#000"><use href="#i-ice"/></svg><span class="cap">greyscale</span></div></div></div></div>
+    <div class="series y8"><div class="band" style="background:var(--y8)"><svg width="46" height="46" style="color:#fff"><use href="#i-det"/></svg><div><b>Science Detectives</b><span>科学侦探 · Year 8</span></div></div>
+      <div class="body"><p>Forensic mystery, evidence and reasoning. Icon: lens with fingerprint. Pattern: dots.</p><div class="grid g2"><div class="pat p8"></div><div class="grey" style="display:flex;align-items:center;gap:8px"><svg width="34" height="34" style="color:#000"><use href="#i-det"/></svg><span class="cap">greyscale</span></div></div></div></div>
+    <div class="series y9"><div class="band" style="background:var(--y9)"><svg width="46" height="46" style="color:#fff"><use href="#i-claim"/></svg><div><b>Claim Busters</b><span>真相调查员 · Year 9</span></div></div>
+      <div class="body"><p>Testing claims with evidence. Icon: speech bubble with a tick. Pattern: grid.</p><div class="grid g2"><div class="pat p9"></div><div class="grey" style="display:flex;align-items:center;gap:8px"><svg width="34" height="34" style="color:#000"><use href="#i-claim"/></svg><span class="cap">greyscale</span></div></div></div></div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">3 · Colour</span><h2>School navy leads</h2><p>Navy carries the brand and all headings. Series colours are accents only: bands, icons, vocabulary panels. Text is always ink or navy on white for contrast.</p></div>
+  <div class="grid g4">
+    <div class="sw"><div class="c" style="background:var(--navy)"></div><div class="t"><b>HIK | SVS navy</b><span>#0F2A5F · headings, marks</span></div></div>
+    <div class="sw"><div class="c" style="background:var(--ink)"></div><div class="t"><b>Ink</b><span>#141B26 · body text</span></div></div>
+    <div class="sw"><div class="c" style="background:#fff;border-bottom:1px solid var(--rule)"></div><div class="t"><b>Paper</b><span>#FFFFFF · all pages</span></div></div>
+    <div class="sw"><div class="c" style="background:var(--hi)"></div><div class="t"><b>Highlight</b><span>#F2CE3E · safety, handover</span></div></div>
+    <div class="sw"><div class="c" style="background:linear-gradient(90deg,var(--y7) 65%,var(--y7-tint) 65%)"></div><div class="t"><b>Glacier blue · Y7</b><span>#1E7DB0 / tint #E3F1F8</span></div></div>
+    <div class="sw"><div class="c" style="background:linear-gradient(90deg,var(--y8) 65%,var(--y8-tint) 65%)"></div><div class="t"><b>Amber · Y8</b><span>#B4621C / tint #F7EBDD</span></div></div>
+    <div class="sw"><div class="c" style="background:linear-gradient(90deg,var(--y9) 65%,var(--y9-tint) 65%)"></div><div class="t"><b>Plum · Y9</b><span>#7B3A8E / tint #F1E5F4</span></div></div>
+    <div class="sw"><div class="c" style="background:var(--muted)"></div><div class="t"><b>Slate</b><span>#5B6574 · captions, Chinese gloss</span></div></div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">4 · Typography</span><h2>Serif for titles, sans for reading</h2><p>Source Serif 4 with Noto Serif SC for titles, matching the school's classic lettering. Source Sans 3 with Noto Sans SC for everything students read. Both families are free and print well.</p></div>
+  <div class="tile spec">
+    <span class="cap">Title / 标题</span><div class="t-h1">Meet the variables<small>认识变量</small></div>
+    <span class="cap">Section</span><div class="t-h2">Core · fill the gaps</div>
+    <span class="cap">Body, 12 pt min</span><p class="t-body">In our experiment we change the length of the wings. This is the independent variable. Year 7 Core sections use 14 pt.</p>
+    <span class="cap">Chinese gloss</span><p class="t-zh">自变量 · 因变量 · 控制变量 · 公平测试</p>
+    <span class="cap">Label</span><span class="t-label" style="color:var(--navy)">Do Now · 课前任务</span>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">5 · Icon set</span><h2>Same icons, same places, every week</h2><p>Line icons at one stroke weight, drawn to read at 8 mm in black and white.</p></div>
+  <span class="cap">Lesson phases</span>
+  <div class="icons" style="color:var(--navy)">
+    <div class="ic"><svg><use href="#p-now"/></svg>Do Now<small>课前任务</small></div>
+    <div class="ic"><svg><use href="#p-hook"/></svg>Hook<small>引入</small></div>
+    <div class="ic"><svg><use href="#p-learn"/></svg>Learn<small>新知</small></div>
+    <div class="ic"><svg><use href="#p-do"/></svg>Do<small>实践</small></div>
+    <div class="ic"><svg><use href="#p-think"/></svg>Think and Reflect<small>思辨与反思</small></div>
+  </div>
+  <span class="cap">Tiers and thinking</span>
+  <div class="icons" style="color:var(--navy)">
+    <div class="ic"><span class="dots"><i class="f"></i><i></i><i></i></span>Core<small>基础</small></div>
+    <div class="ic"><span class="dots"><i class="f"></i><i class="f"></i><i></i></span>Stretch<small>提高</small></div>
+    <div class="ic"><span class="dots"><i class="f"></i><i class="f"></i><i class="f"></i></span>Challenge<small>挑战</small></div>
+    <div class="ic"><svg><use href="#i-anylang"/></svg>My thinking<small>可用中文</small></div>
+  </div>
+  <span class="cap">Safety</span>
+  <div class="icons" style="color:var(--ink)">
+    <div class="ic"><svg><use href="#s-gog"/></svg>Goggles<small>护目镜</small></div>
+    <div class="ic"><svg><use href="#s-glove"/></svg>Gloves<small>手套</small></div>
+    <div class="ic"><svg><use href="#s-hot"/></svg>Hot<small>高温</small></div>
+    <div class="ic"><svg><use href="#s-cold"/></svg>Cold<small>低温</small></div>
+    <div class="ic"><svg><use href="#s-noeat"/></svg>No eating<small>禁止食用</small></div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">6 · Slide template</span><h2>16:9, vocabulary panel fixed on the right</h2><p>Phase tag top left, vocabulary panel on the right in the series tint, programme lockup in the footer. Title slides use navy with the series chip.</p></div>
+  <div class="grid g2">
+    <div class="paper slide title y7"><div class="grid-bg"></div><div class="main"><span class="serieschip"><svg style="color:var(--y7)"><use href="#i-ice"/></svg>Ice Engineers · 冰雪工程师</span><div><h3>Meet the variables<small>认识变量</small></h3><p class="wk" style="margin-top:.6em">Year 7 · Week 3</p></div><div style="display:flex;align-items:center;gap:.6em"><svg width="28" height="28"><use href="#m-prog-w"/></svg><span style="font-weight:600">Think Like a Scientist</span></div></div></div>
+    <div class="paper slide y7"><div class="main"><span class="phase"><svg><use href="#p-hook"/></svg>Hook · 引入</span><h3>Which spinner lands first?<small>哪个纸直升机先落地？</small></h3><div class="foot"><span class="lk"><svg width="18" height="18"><use href="#m-prog"/></svg>Think Like a Scientist</span><span>Y7 · W3 · Slide 3</span></div></div><div class="vocab"><b>Key words</b><div><span>variable</span><span>变量</span></div><div><span>fair test</span><span>公平测试</span></div><div><span>independent</span><span>自变量</span></div><div><span>dependent</span><span>因变量</span></div><div><span>air resistance</span><span>空气阻力</span></div></div></div>
+    <div class="paper slide y8"><div class="main"><span class="phase"><svg><use href="#p-do"/></svg>Do · 实践</span><h3>Who wrote the note?<small>纸条是谁写的？</small></h3><div class="foot"><span class="lk"><svg width="18" height="18"><use href="#m-prog"/></svg>Think Like a Scientist</span><span>Y8 · W3 · Slide 6</span></div></div><div class="vocab"><b>Key words</b><div><span>chromatography</span><span>色谱法</span></div><div><span>solvent</span><span>溶剂</span></div><div><span>reference</span><span>参照样本</span></div><div><span>dissolve</span><span>溶解</span></div></div></div>
+    <div class="paper slide y9"><div class="main"><span class="phase"><svg><use href="#p-think"/></svg>Think and Reflect · 思辨与反思</span><h3>Correlation or cause?<small>相关还是因果？</small></h3><div class="foot"><span class="lk"><svg width="18" height="18"><use href="#m-prog"/></svg>Think Like a Scientist</span><span>Y9 · W4 · Slide 9</span></div></div><div class="vocab"><b>Key words</b><div><span>correlation</span><span>相关性</span></div><div><span>causation</span><span>因果关系</span></div><div><span>confounding</span><span>混杂变量</span></div></div></div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">7 · Worksheet and kit card</span><h2>A4 in black and white</h2><p>Shown in greyscale as it will print. Fixed order every week: header, vocabulary, Core, Stretch, Challenge, My thinking, fold-under word bank. Kit cards are half A4 and use the highlight colour for hazards.</p></div>
+  <div class="grid g2" style="align-items:start">
+    <div class="paper a4">
+      <div><div class="hd"><div><b>Meet the variables</b><small>认识变量</small></div><div class="meta"><span class="ser"><svg style="color:#000"><use href="#i-ice"/></svg>Ice Engineers</span><span>Year 7 · Week 3</span></div></div>
+      <div class="fields"><span>Name ________________</span><span>Class ______</span><span>Date ______</span></div></div>
+      <div class="voc"><div><span>variable</span><span>变量</span></div><div><span>independent</span><span>自变量</span></div><div><span>dependent</span><span>因变量</span></div><div><span>control</span><span>控制变量</span></div><div><span>fair test</span><span>公平测试</span></div><div><span>air resistance</span><span>空气阻力</span></div></div>
+      <div class="tiers">
+        <div class="tier"><h5><span class="dots"><i class="f"></i><i></i><i></i></span>Core · fill the gaps</h5><p>In our experiment we change the ________ of the wings. This is the ________ variable.</p><div class="ln"></div></div>
+        <div class="tier"><h5><span class="dots"><i class="f"></i><i class="f"></i><i></i></span>Stretch</h5><p>"We must keep ______ the same because ______."</p><div class="ln"></div></div>
+        <div class="tier"><h5><span class="dots"><i class="f"></i><i class="f"></i><i class="f"></i></span>Challenge</h5><p>Does paper type change the fall time? Predict and explain using <i>air resistance</i>.</p><div class="ln"></div></div>
+        <div class="think"><span style="display:flex;align-items:center;gap:.5em;font-weight:700"><svg width="20" height="20" style="color:#000"><use href="#i-anylang"/></svg>My thinking · any language · 可用中文</span><p>Why do scientists change only one thing at a time?</p></div>
+      </div>
+      <div class="fold">Fold under · word bank: length · independent · time · dependent · same · control</div>
+    </div>
+    <div class="grid" style="gap:16px">
+      <div class="paper kit y8"><h4><svg style="color:var(--y8)"><use href="#i-det"/></svg>Kit card · Year 8 Week 4 · The white powder</h4>
+        <div class="col"><span class="lab">Per group</span><ul><li>5 labelled powders, 1 teaspoon each</li><li>White vinegar, 20 ml</li><li>Water, 50 ml</li><li>Spotting tile or white lids</li><li>Droppers × 2, magnifying glass</li></ul><span class="lab">Teacher prep · 15 min</span><ul><li>Label powders A to E; scene powder in bag</li></ul></div>
+        <div class="col"><span class="lab">Hazards and controls</span><div class="haz"><div><svg><use href="#s-gog"/></svg><span>Goggles on for vinegar and iodine.<br>使用醋和碘液时戴护目镜。</span></div><div><svg><use href="#s-noeat"/></svg><span>Never taste any powder.<br>不要品尝任何粉末。</span></div></div><span class="lab">Clean-up</span><ul><li>Wipe tiles, wash hands</li></ul></div>
+      </div>
+      <span class="cap">Group role cards · business-card size</span>
+      <div class="roles">
+        <div class="paper role"><svg style="color:var(--navy)"><use href="#r-lead"/></svg><b>Lead Scientist</b><span>首席科学家</span><p>Keeps the group on task and on time.</p></div>
+        <div class="paper role"><svg style="color:var(--navy)"><use href="#r-meas"/></svg><b>Measurer</b><span>测量员</span><p>Takes the readings.</p></div>
+        <div class="paper role"><svg style="color:var(--navy)"><use href="#r-rec"/></svg><b>Recorder</b><span>记录员</span><p>Writes results in the table.</p></div>
+        <div class="paper role"><svg style="color:var(--navy)"><use href="#r-safe"/></svg><b>Safety Officer</b><span>安全员</span><p>Checks the kit card and safety rules.</p></div>
+        <div class="paper role"><svg style="color:var(--navy)"><use href="#r-rep"/></svg><b>Reporter</b><span>汇报员</span><p>Shares findings with the class.</p></div>
+      </div>
+    </div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="sh"><span class="n">8 · Certificate and skills report</span><h2>Where the school crest appears</h2><p>Formal documents carry the HIK | SVS crest, following the school's own logo rules. The series colour appears only as a small accent.</p></div>
+  <div class="grid g2" style="align-items:start">
+    <div class="paper cert y7"><img src="__CREST__" alt="HIK | SVS International School crest">
+      <div class="txt"><span class="lab">Ice Engineers · 冰雪工程师</span><h3>Certificate of Achievement</h3><p style="font-family:'Noto Serif SC',serif;color:var(--navy)">成就证书</p><span class="name">Lily Wang</span><p>has completed <b>Think Like a Scientist</b>, the Year 7 science enrichment series, and shown real skill in planning and testing a fair investigation.</p><span class="award"><span class="medal">Au</span>Gold Award · 金奖</span><div class="sig"><span>Teacher</span><span>Date</span></div></div></div>
+    <div class="paper rep"><div class="hd"><img src="__HLOGO__" alt="HIK | SVS International School"><b>Science Skills Report<br><span style="font-size:.7em;font-family:'Noto Serif SC',serif">科学技能报告</span></b></div>
+      <div style="display:flex;justify-content:space-between;font-size:.95em"><span><b>Lily Wang</b> · 7A</span><span>Ice Engineers · Autumn 2026</span></div>
+      <div style="display:grid;gap:1em;align-content:start">
+        <table><tr><th>Strand</th><th>Beginning</th><th>Developing</th><th>Secure</th><th>Excellent</th></tr>
+          <tr><td>Questioning 提问与预测</td><td></td><td></td><td class="x">●</td><td></td></tr>
+          <tr><td>Planning 计划设计</td><td></td><td></td><td></td><td class="x">●</td></tr>
+          <tr><td>Doing and recording 实施与记录</td><td></td><td></td><td class="x">●</td><td></td></tr>
+          <tr><td>Analysing 分析与结论</td><td></td><td class="x">●</td><td></td><td></td></tr>
+          <tr><td>Evaluating 评价与批判性思维</td><td></td><td></td><td class="x">●</td><td></td></tr>
+          <tr><td>Communicating 表达与交流</td><td></td><td></td><td class="x">●</td><td></td></tr></table>
+        <div class="bars"><div><span>Week 1 check</span><i style="width:45%"></i><span>9/20</span></div><div><span>Week 10 check</span><i style="width:70%"></i><span>14/20</span></div></div>
+        <div class="com"><b>Teacher comment</b></div>
+      </div>
+      <p class="note" style="font-size:.85em">Example only: fictional student.</p>
+    </div>
+  </div>
+</div></section>
+
+<footer class="wrap">Source files: design/00_Brand_and_Design_System_Brief.md and this board (design/brand-board.html) in the QballQ/lessons repository. School logos in design/assets/. Chinese text is draft until checked by a native speaker.</footer>
