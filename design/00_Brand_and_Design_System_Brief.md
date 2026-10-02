@@ -6,7 +6,20 @@ Chinese text status: draft, needs native-speaker check.
 
 ---
 
-## [Paste into Claude Design] Part 1: Brand
+## [Paste into Claude Design] Part 1A: If the school brand is already in Claude Design (use this)
+
+Open the project that holds the school's existing brand and design system, then paste:
+
+> Using the school's existing brand and design system in this project, create a sub-brand for a science enrichment programme called **Think Like a Scientist | 像科学家一样思考**. It must sit clearly inside the school brand (same core typography, ink colour and logo rules) but have its own programme mark and a lighter, more hands-on feel suited to students aged 11 to 14. Then create three series sub-brands within it, each with its own accent colour and icon, chosen to sit comfortably alongside the school palette:
+> - **Year 7: Ice Engineers | 冰雪工程师** (winter, ice, building and testing; cool blue family; ice crystal icon)
+> - **Year 8: Science Detectives | 科学侦探** (forensic mystery; amber family; magnifying glass or fingerprint icon)
+> - **Year 9: Claim Busters | 真相调查员** (testing claims; plum or violet family; speech bubble with a tick)
+>
+> Requirements: everything must also work in black and white (series told apart by icon and pattern, not colour alone); English primary and Chinese secondary in a lighter weight, using the school's Chinese font if it has one, otherwise a matching Simplified Chinese font; use the school crest only where the school's brand rules allow (certificates and reports). The audience, purpose and personality are described in Part 1B below.
+
+Then go straight to Part 2. Use Part 1B only for background, or if there is no school brand to build on.
+
+## [Paste into Claude Design] Part 1B: Brand from scratch (background, or if there is no school brand)
 
 Create a brand identity for a school science enrichment programme.
 

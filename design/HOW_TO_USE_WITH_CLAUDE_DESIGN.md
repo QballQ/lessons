@@ -2,7 +2,7 @@
 
 ## Order
 
-1. **Brand and design system first.** Paste Part 1 of `design/00_Brand_and_Design_System_Brief.md` into Claude Design and settle the brand (logo, three series sub-brands, palette, fonts). Then paste Part 2 to create the templates: slides, worksheet, kit card, logbook page, role cards, certificate, skills report, poster.
+1. **Brand and design system first.** In the Claude Design project that holds the school brand, paste Part 1A of `design/00_Brand_and_Design_System_Brief.md` to create the programme sub-brand and three series sub-brands. Then paste Part 2 to create the templates: slides, worksheet, kit card, logbook page, role cards, certificate, skills report, poster.
 2. **Assessment printables next.** These are needed in Week 1 for all three years:
    - `assessment/Interest_Survey.md`
    - `assessment/Skills_Check_Y7.md`, `Skills_Check_Y8.md`, `Skills_Check_Y9.md`
