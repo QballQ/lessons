@@ -44,7 +44,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md`. Assessment paper
 - **Misconceptions to watch for:** Treating any sensible guess as an observation ("The powder is sugar"). Thinking an inference is wrong or bad (it is useful; it just needs testing). Deciding the culprit from personality ("the chef looks friendly").
 - **Safety:** No practical hazards beyond normal classroom rules. If you set up the optional scene table: students look but do not touch, taste or smell the items.
 - **If time is short:** Skip the Song Ci story here and tell it at the start of Week 2. Drop Challenge. Suspect slide can move to the Week 2 Do Now (students read the suspect cards then).
-- **Assessment and handover links:** Baseline skills check scores and survey responses go into the progress tracker (Week 1 column). Exit ticket shows who can separate observation from inference. Case file opened; evidence log row 1 completed in Week 2 Do Now if not done today.
+- **Assessment and handover links:** Baseline skills check scores and survey responses go into the progress tracker (Week 1 column). Exit ticket shows who can separate observation from inference. Case file opened; evidence log row 1 completed in Week 2 Do Now if not done today. Scientist's Logbook: if there is time at the end of Think and Reflect, students add one line under "What I found"; otherwise this week's evidence log row counts as the logbook entry.
 
 ## 2. Slides [Paste into Claude Design]
 

@@ -43,7 +43,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md`. Scene evidence t
 - **Misconceptions to watch for:** "Same type means same fingerprint" (no: every fingerprint is unique, but there are only three main types). "A matching fingerprint type proves who did it." "Rare things are always more important" (rare is stronger evidence only if it matches).
 - **Safety:** Graphite on fingers: wash hands after. No pencils or tape in mouths. Normal classroom rules otherwise.
 - **If time is short:** Each student takes only the right index print. Teacher draws the class bar chart on the board while students copy it. Drop Challenge.
-- **Assessment and handover links:** Fingerprint record card (in case file). Class tally and bar chart on worksheet. Evidence log row 2 and suspect tracker column "Fingerprint". Exit ticket shows who understands common vs rare as evidence.
+- **Assessment and handover links:** Fingerprint record card (in case file). Class tally and bar chart on worksheet. Evidence log row 2 and suspect tracker column "Fingerprint". Exit ticket shows who understands common vs rare as evidence. Scientist's Logbook: if there is time at the end of Think and Reflect, students add one line under "What I found"; otherwise this week's evidence log row counts as the logbook entry.
 
 ## 2. Slides [Paste into Claude Design]
 

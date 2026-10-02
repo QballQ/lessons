@@ -329,7 +329,7 @@ Telling cornflour from flour: cornflour is brighter white, finer and squeaks whe
 | Scene liquid (soap plus baking soda solution) | Alkali | About 9 | Blue-green |
 | (Strong alkali, not used) | Strong alkali | 12 to 14 | Green-yellow to yellow |
 
-**Making the indicator (teacher only, the day before, about 25 minutes).** Chop a quarter of a red cabbage (紫甘蓝) into small pieces. Put it in a heatproof jug. Pour on about 500 ml of hot water from the kettle. Stir and leave for 15 minutes until the water is deep purple. Strain through a sieve into a clean bottle and let it cool. Label it "Red cabbage indicator: do not drink". Keep it in the fridge; use within 3 days. This makes enough for one class (about 50 ml per group plus spare).
+**Making the indicator (teacher only, the day before, about 25 minutes).** Chop a quarter of a red cabbage (紫甘蓝) into small pieces. Put it in a heatproof jug. Pour on about 500 ml of hot water from the kettle. Stir and leave for 15 minutes until the water is deep purple. Strain through a sieve into a clean bottle and let it cool. Label it "Red cabbage indicator: do not drink". Keep it in the fridge; use within 3 days. This makes enough for one class (about 60 ml per group, as six cups of 10 ml, plus spare and the Hook demo).
 
 **Use bottled or purified water** for the indicator and the "water" reference. Some tap water is slightly alkaline and turns the indicator blue-purple, which confuses the neutral reference.
 
