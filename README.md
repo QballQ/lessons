@@ -24,6 +24,7 @@ Stage 3: all content written (Weeks 1 to 10, all years), assessment pack, Teache
 | `design/brand-board.html` | Draft brand board (programme mark, series, colours, type, icons, templates) |
 | `design/assets/` | HIK \| SVS logo files |
 | `design/paste-kit.html` | Every paste-ready block for Claude Design (rebuild with `python3 design/build_paste_kit.py`) |
+| `Open_Day_KG_English/` | Open Day kindergarten English demo lesson, Let's Go to the Zoo: slides with speaker notes, teacher run card, flashcards, mini cards, badges, take-home sheet |
 
 ## Series
 
