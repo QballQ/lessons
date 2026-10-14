@@ -4,7 +4,9 @@ Science enrichment programme for the bilingual domestic stream, Years 7 to 9. Te
 
 ## Status
 
-Stage 3: all content written (Weeks 1 to 10, all years), assessment pack, Teacher Guide and tracker. Design in progress in Claude Design (Weeks 7 to 9 and the assessment pack built; Week 10 publishing). Confirmed: Year 8 Science Detectives, Year 9 Claim Busters, 40-minute lessons. Freezer to be confirmed by Week 4 (Plan A / Plan B in the outline).
+Stage 4: language access pass for Years 7 and 8 (October 2026). Feedback from the Year 7 and Year 8 classes was that learning goals, instructions and questions in English only were not accessible across a range from nearly no English to conversational English. The Year 7 and Year 8 files are being reworked under `00_Language_Support/Language_Access_Policy.md`: goals, instructions, questions, frames, labels and word banks bilingual; Learn content and reading texts with a Chinese key idea or gist; a Today slide in every lesson; a language support pack (instruction words key, classroom language card, frame bank, role cards, dictionary booklets). Year 9 is unchanged for now.
+
+Stage 3 (complete): all content written (Weeks 1 to 10, all years), assessment pack, Teacher Guide and tracker. Design in progress in Claude Design; Year 7 and 8 Weeks 7 to 10 designed before the language pass must be re-generated. Confirmed: Year 8 Science Detectives, Year 9 Claim Busters, 40-minute lessons. Freezer to be confirmed by Week 4 (Plan A / Plan B in the outline).
 
 ## Contents
 
@@ -20,6 +22,7 @@ Stage 3: all content written (Weeks 1 to 10, all years), assessment pack, Teache
 | `Y9_Claim_Busters/` | Year 9 lesson files, Weeks 1 to 10 |
 | `assessment/` | Skills checks, checkpoints, interest survey, rubric and reporting, tracker spec |
 | `00_Teacher_Guide/Teacher_Guide.md` | Everything the incoming teacher needs to run the programme |
+| `00_Language_Support/` | Language access policy, locked glossary, support printables, My Science Dictionary booklets (Years 7 and 8), and the October 2026 audit |
 | `00_Tracker/Think_Like_a_Scientist_Tracker.xlsx` | Progress tracker, one tab per class, awards calculated automatically |
 | `design/brand-board.html` | Draft brand board (programme mark, series, colours, type, icons, templates) |
 | `design/assets/` | HIK \| SVS logo files |
@@ -33,4 +36,4 @@ Stage 3: all content written (Weeks 1 to 10, all years), assessment pack, Teache
 
 ## Next stage
 
-Finish the design in Claude Design, native-speaker check of all Chinese text, then printing.
+Finish the language pass on the Year 7 and 8 files, update the slide and worksheet templates in Claude Design (brief, Part 2), re-generate Year 7 and 8 Weeks 7 to 10, print the language support pack, native-speaker check in the policy's priority order, then printing.
