@@ -101,7 +101,7 @@ Speaker notes: A student reads the Chinese lines. Do the live demo with two cups
 Slide 5 | Phase tag: Learn 新知
 Title: Acid, neutral or alkali? / 酸性、中性还是碱性？
 On-slide text: Acid: red or pink. Neutral: purple. Alkali: blue, green, or yellow if very strong.
-Key idea 核心概念: 酸性：红色或粉色；中性：紫色；碱性：蓝色、绿色或黄色。
+Key idea 核心概念: 酸性：红色或粉色；中性：紫色；碱性：蓝色、绿色，很强时为黄色。
 Vocabulary panel: acid | 酸性, neutral | 中性, alkali | 碱性, indicator | 指示剂
 Visual: Three columns with a cup of indicator in each: ACID 酸性 (red/pink, lemon icon), NEUTRAL 中性 (purple, water drop icon), ALKALI 碱性 (blue-green, soap bar icon). Colour names printed in each cup. Colour names are bilingual, the same set as printable 6.1.
 Speaker notes: A student reads the Key idea line. Acids include lemon juice and vinegar. Alkalis include soap and baking soda solution. Pure water is neutral. Ask: "Which do you think the puddle is?" Opinion only, for now.
@@ -130,11 +130,11 @@ Speaker notes: Safety Officers check goggles before any liquid is opened. Soap s
 Slide 8 | Phase tag: Do 实践
 Title: Test the liquids / 检测液体
 On-slide text:
-1. Six cups of indicator are ready. 1. 六杯指示剂已准备好。
-2. Add 10 drops of one liquid to each cup. 2. 每杯加入10滴一种液体。
-3. Swirl. 3. 轻轻摇晃。
-4. Compare with the chart. 4. 与比色卡比较。
-5. Record. 5. 记录。
+1. Six cups of indicator are ready. 六杯指示剂已准备好。
+2. Add 10 drops of one liquid to each cup. 每杯加入一种液体，10滴。
+3. Swirl. 轻轻摇晃。
+4. Compare with the chart. 与比色卡比较。
+5. Record. 记录。
 Vocabulary panel: indicator | 指示剂, reference sample | 参照样本, colour chart | 比色卡, pH scale | pH值（酸碱度）
 Visual: Six small clear cups of purple indicator on a sheet of white paper, labelled: lemon juice 柠檬汁, vinegar 白醋, water 纯净水, soap solution 肥皂水, baking soda solution 小苏打溶液, scene liquid (Evidence 4) 现场液体（证据4）. A dropper adding drops. The pH colour chart beside them. 15-minute timer.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, then thumbs before anyone starts. Same number of drops in every cup: that keeps it fair. Rinse the dropper between liquids, or use a separate dropper for each. Put the cups on white paper to see the colours clearly. Test the scene liquid last.
@@ -146,7 +146,7 @@ Title: Match and update / 比对并更新
 On-slide text:
 Which reference does the scene liquid match? 现场液体与哪个参照样本匹配？
 Check the suspect cards: who is linked to that liquid? 查看嫌疑人卡：谁与那种液体有关？
-Update your tracker. 更新你的嫌疑人追踪表。
+Update your tracker. 更新你的追踪表。
 Vocabulary panel: reference sample | 参照样本, consistent | 一致的
 Visual: The scene liquid cup in the centre with dashed arrows to the two closest reference cups. Four small suspect portraits with their liquids: Lily Chen 陈莉, soap solution 肥皂水; Max Zhang 张铭轩, lemon juice 柠檬汁; Chef Zhou 周师傅, baking soda solution 小苏打溶液; Dr Huang 黄若琳, vinegar 白醋. The liquid labels are bilingual beside each portrait, so Core d) can be done from this slide.
 Speaker notes: A student reads the Chinese lines. The scene liquid is blue-green: an alkali, about pH 9. It sits between soap solution and baking soda solution, and the indicator cannot reliably tell those two apart. So it matches Lily and Chef Zhou.
@@ -181,9 +181,9 @@ Speaker notes: A student reads the Chinese lines and the Chinese frame. Notes ma
 Slide 12 | Phase tag: Think and Reflect 思辨与反思
 Title: Exit ticket / 离场小测
 On-slide text:
-1. The scene liquid is an acid / neutral / alkali. 1. 现场液体是酸性／中性／碱性。
-2. pH about ___. 2. pH大约___。
-3. Which suspect fits the most evidence so far? 3. 到目前为止，哪个嫌疑人符合最多的证据？
+1. The scene liquid is an acid / neutral / alkali. 现场液体是酸性／中性／碱性。
+2. pH about ___. pH大约___。
+3. Which suspect fits the most evidence so far? 到目前为止，哪个嫌疑人符合最多的证据？
 Vocabulary panel: acid | 酸性, neutral | 中性, alkali | 碱性, pH scale | pH值（酸碱度）
 Visual: Exit ticket strip with cut line, including the "Today I can 今天我能" self-check boxes. Teaser icon: a footprint with a ruler (next week, with a new teacher).
 Speaker notes: A student reads the Chinese lines. Students tick the two goals they can do. Collect at the door. Next week: footprints and height. Introduce the incoming teacher, who will lead the case from Week 6.
@@ -204,9 +204,9 @@ indicator 指示剂 | acid 酸性 | neutral 中性 | alkali 碱性 | pH scale pH
 
 **3. Core 基础 (one dot)**
 
-a) Results table. 完成结果表格。
+a) Results table. 结果表格。
 
-| Liquid 液体 | Colour with indicator 指示剂颜色 | Acid, neutral or alkali? 酸性、中性或碱性？ | pH (about) 大约pH值 |
+| Liquid 液体 | Colour with indicator 指示剂颜色 | Acid, neutral or alkali? 酸性、中性还是碱性？ | pH (about) 大约pH值 |
 |---|---|---|---|
 | Lemon juice 柠檬汁 | | | |
 | Vinegar 白醋 | | | |
@@ -252,7 +252,7 @@ Should a detective ever ignore a piece of evidence? 侦探应该忽略某一条�
 (Dashed box, about 4 cm tall)
 
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
-red 红色 | pink 粉色 | purple 紫色 | blue 蓝色 | blue-green 蓝绿色 | green 绿色 | acid 酸性 | neutral 中性 | alkali 碱性 | pH pH值 | matches 匹配 | does not fit 不一致 | linked to 与……有关 | ruled out 被排除 | soap solution 肥皂水 | baking soda solution 小苏打溶液 | mop 拖把 | sink 水槽 | two people 两个人 | contaminated 被污染的
+red 红色 | pink 粉色 | purple 紫色 | blue 蓝色 | blue-green 蓝绿色 | green 绿色 | acid 酸性 | neutral 中性 | alkali 碱性 | pH pH值 | matches 匹配 | does not fit 不一致 | soap solution 肥皂水 | baking soda solution 小苏打溶液 | mop 拖把 | sink 水槽 | two people 两个人 | contaminated 被污染的
 
 **8. Exit ticket strip** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________
@@ -338,7 +338,7 @@ Create a half-A4 kit card for Year 8 Week 5 using the Think Like a Scientist kit
   - If liquid gets in your eyes, rinse with plenty of water and tell the teacher. 如有液体进入眼睛，请用大量清水冲洗并告诉老师。
   - Wipe up spills straight away. 洒出的液体要立即擦干。
   - Wash your hands after the practical. 实验后请洗手。
-- **Clean-up 收拾整理:** Pour all liquids down the sink with plenty of water. 把所有液体用大量清水冲入水槽。 Rinse cups if reusing, or recycle. 杯子若重复使用请冲洗干净，否则放入回收箱。 Goggles back in the box. 护目镜放回盒子。 Wipe tables. 擦干净桌子。 Everyone washes hands. 每个人都要洗手。 Leftover indicator: label and keep in the fridge for up to 3 days, then discard.
+- **Clean-up 收拾整理:** Pour all liquids down the sink with plenty of water. 把所有液体用大量清水冲入水槽。 Rinse cups if reusing, or recycle. 杯子若重复使用请冲洗干净，否则放入回收箱。 Goggles back in the box. 护目镜放回盒子。 Wipe tables. 擦干净桌子。 Everyone washes hands. 每个人都要洗手。 Leftover indicator: label and keep in the fridge for up to 3 days, then discard. 剩余指示剂：贴上标签放入冰箱，最多保存3天，然后倒掉。
 
 ## 6. Other printables [Paste into Claude Design]
 
@@ -367,7 +367,7 @@ Create an A4 landscape sign for a classroom wall board, black-and-white printabl
 
 - Large "P" parking symbol on the left.
 - Title: "Ideas Parking Board 想法停车场".
-- Subtitle: "Evidence 4 does not fit. Why? Park your idea here. We will check it later. 证据4对不上，为什么？把你的想法停在这里，我们以后再来检验。"
+- Subtitle: "Evidence 4 does not fit. Why? Park your idea here. We will check it later. 证据4与其他证据不一致，为什么？把你的想法停在这里，我们以后再来检验。"
 - Footer: "Good detectives explain evidence. They do not ignore it. 好侦探解释证据，而不是忽略证据。"
 
 ## 7. Notes for the incoming teacher

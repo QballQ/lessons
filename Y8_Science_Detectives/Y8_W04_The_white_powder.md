@@ -41,7 +41,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md`. Scene evidence t
   - Stretch: complete the flowchart key from the results grid.
   - Challenge: design a key that works without iodine; predict the results for a mixture of salt and cornflour.
 - **Language support:** Frames: "The scene powder matches ___ because it ___ ." "When we added vinegar, it ___ ." "This evidence is strong / weak because ___ ." Chinese welcome during testing and pair talk. Traps: "soluble" vs "solvent" (last week); "fizz" is new; "dissolve" is a verb, "soluble" an adjective; "starch" is unfamiliar.
-  - Band 1 today: sit the student beside a Band 3 language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Give the student a doing job first (Measurer on the water cups), where the result is seen, not read; the practical follows the five picture steps on Slide 8 and the bilingual lab card 6.1 on the table. Start with Core a during the testing: the grid headings, row labels and result words are bilingual, and the picture key above the grid lets the student record with a tick, a cross or a copied picture instead of a word. Then Core b: fill the Chinese frame with a result word from the bilingual word bank; the reason may be written in Chinese. Then Core c: use the sorting strip under the question (four suspect names with their powder, EN 中文) and circle 有关 or cross out 被排除, so the Week 1 suspect cards need not be read. Before the Do task, run Say, show, check on Slide 8: teacher reads the English, a student reads the Chinese, thumbs check. The My thinking box and the exit ticket may be answered in Chinese using the English key words.
+  - Band 1 today: sit the student beside a Band 3 language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Give the student a doing job first (Measurer on the water cups), where the result is seen, not read; the practical follows the five picture steps on Slide 8 and the bilingual lab card 6.1 on the table. Start with Core a during the testing: the grid headings, row labels and result words are bilingual, and the picture key above the grid lets the student record with a tick, a cross or a copied picture instead of a word. Then Core b: fill the Chinese frame with a result word from the bilingual word bank; the reason may be written in Chinese. Then Core c: use the sorting strip under the question (four suspect names with their powder, EN 中文) and circle the linked names and cross out the ruled-out names, so the Week 1 suspect cards need not be read. Before the Do task, run Say, show, check on Slide 8: teacher reads the English, a student reads the Chinese, thumbs check. The My thinking box and the exit ticket may be answered in Chinese using the English key words.
 - **Misconceptions to watch for:** "Dissolved means it disappeared" (it is still there, spread through the water). "Cloudy means dissolved." "All white powders are the same." Deciding by look or smell instead of tests. Using one spoon for all powders (contamination: a useful link to Week 9).
 - **Safety:** Goggles for vinegar and iodine. No tasting or eating any powder or liquid. Allergy check (wheat flour, cornflour). Iodine stains skin and clothes: optional, teacher-controlled, droppers only. Avoid making flour dust clouds. Wash hands at the end. (Kit card, Section 5.)
 - **If time is short:** Skip iodine (use the water test to spot the starches) and do the magnifier check only for salt and sugar. Stretch key can be finished as the Week 5 Do Now if needed.
@@ -103,7 +103,7 @@ Title: Three tests / 三种检测
 On-slide text: Water: does it dissolve? Vinegar: does it fizz? Iodine: does it turn blue-black? Plus: look closely with a magnifier.
 Key idea 核心概念: 加水看是否溶解，加白醋看是否冒气泡，加碘液看是否变蓝黑色，再用放大镜仔细看。
 Vocabulary panel: soluble | 可溶的, insoluble | 不溶的, fizz | 冒气泡, starch | 淀粉, iodine solution | 碘液
-Visual: Four panels with simple drawings: (1) a magnifying glass over tiny cube crystals; (2) a clear cup of water, powder disappearing (soluble) vs cloudy (insoluble); (3) a spotting-tile well with bubbles (fizz); (4) a well with a blue-black colour beside one staying orange-brown. Panel labels, small, beneath each drawing: Magnifier 放大镜, Water 水, Vinegar 白醋, Iodine 碘液.
+Visual: Four panels with simple drawings: (1) a magnifying glass over tiny cube crystals; (2) a clear cup of water, powder disappearing (soluble) vs cloudy (insoluble); (3) a spotting-tile well with bubbles (fizz); (4) a well with a blue-black colour beside one staying orange-brown. Panel labels, small, beneath each drawing, Chinese only (the English is in the on-slide text): 放大镜、水、白醋、碘液.
 Speaker notes: Fizzing means a reaction is making a gas. Blue-black with iodine means starch is present. Salt and sugar both dissolve, so how will we tell them apart? Look at the crystal shapes: salt makes small cubes. A student reads the Key idea line.
 ```
 
@@ -120,7 +120,7 @@ Speaker notes: Ask: "Why a clean spoon for each powder?" If we mix them, our res
 ```
 Slide 7 | Phase tag: Learn 新知
 Title: Safety / 安全须知
-On-slide text: Wear goggles for vinegar and iodine. 使用醋和碘液时请佩戴护目镜。 Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。 Tell your teacher about food allergies. 如有食物过敏，请告诉老师。 Iodine stains skin and clothes. 碘液会染色皮肤和衣物。
+On-slide text: Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。 Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。 Tell your teacher about food allergies. 如有食物过敏，请告诉老师。 Iodine stains skin and clothes. 碘液会染色皮肤和衣物。
 Vocabulary panel: none
 Visual: Fully bilingual high-visibility safety layout with icons: goggles, a crossed-out mouth (no eating), an allergy alert, a dropper with a stain warning.
 Speaker notes: Safety Officers check every person has goggles on before vinegar or iodine is opened. Anyone with a wheat or corn allergy does not handle flour or cornflour; they can be the Recorder.
@@ -180,7 +180,7 @@ Slide 12 | Phase tag: Think and Reflect 思辨与反思
 Title: How sure are you? / 你有多大把握？
 On-slide text:
 Some detectives think they know who did it. 有些侦探认为自己已经知道是谁做的。
-Low, medium or high confidence? 把握是低、中还是高？
+Low, medium or high confidence? 你的把握是低、中还是高？
 Should we stop investigating? 我们应该停止调查吗？
 Exit ticket. 离场小测。
 Vocabulary panel: evidence | 证据
@@ -203,8 +203,8 @@ systematic 系统的 | soluble 可溶的 | insoluble 不溶的 | fizz 冒气泡 
 
 **3. Core 基础 (one dot)**
 
-a) Results grid. 结果记录表。 Write short results: "dissolves 溶解 / cloudy 浑浊", "fizzes 冒气泡 / no fizz 不冒气泡", "blue-black 蓝黑色 / no change 无变化". 写出简短的结果。 You may also draw a tick or a cross in the Water and Vinegar columns. 在“水”和“白醋”两栏也可以打勾或打叉。
-(Picture key 图示, one strip above the grid: six small pictures, a clear cup, a cloudy cup, a well with bubbles, a still well, a blue-black well and an orange-brown well, each labelled with its result word EN 中文 from the line above, so a result can be recorded by copying the word or drawing the picture.)
+a) Results grid. 结果记录表。 Write short results: 写出简短的结果： "dissolves 溶解 / cloudy 浑浊", "fizzes 冒气泡 / no fizz 不冒气泡", "blue-black 蓝黑色 / no change 无变化".
+(Picture key 图示, one strip above the grid: six small pictures, a clear cup, a cloudy cup, a well with bubbles, a still well, a blue-black well and an orange-brown well, each labelled with its result word EN 中文 from the line above, so a result can be recorded by copying the word, drawing the picture, or, in the Water and Vinegar columns, with a tick or a cross.)
 
 | Powder 粉末 | Looks like (magnifier) 放大镜下的样子 | Water: dissolves? 水：溶解吗？ | Vinegar: fizzes? 白醋：冒气泡吗？ | Iodine: colour? 碘液：颜色？ |
 |---|---|---|---|---|
@@ -217,10 +217,10 @@ a) Results grid. 结果记录表。 Write short results: "dissolves 溶解 / clo
 
 (Rows about 1.5 cm tall.)
 
-b) Complete: "The scene powder matches ________ because it ________________________ ." 完成句子：“现场粉末与________匹配，因为它________________________。” Hint: the result words are in the word bank. 提示：结果词在词库里。
+b) Complete: "The scene powder matches ________ because it ________________________ ." 完成句子：“现场粉末与________匹配，因为它________________________。”
 
 c) Look at the suspect cards. 看嫌疑人卡。 Who is linked to this powder? 谁与这种粉末有关？ ________________ Who is ruled out? 谁被排除？ ________________
-Sorting strip 分类条 (printed under c, with a small powder pot icon beside each name, so the suspect cards need not be read): Lily 陈莉: salt 食盐 | Max 张铭轩: sugar 白糖 | Chef Zhou 周师傅: baking soda 小苏打 | Dr Huang 黄若琳: baking soda 小苏打. Circle the suspects linked to the scene powder. 圈出与现场粉末有关的嫌疑人。 Cross out the suspects who are ruled out. 划掉被排除的嫌疑人。
+Sorting strip 分类条 (printed under c, with a small powder pot icon beside each name, so the suspect cards need not be read; students may circle a linked name or cross out a ruled-out name instead of writing it): Lily: salt 陈莉：食盐 | Max: sugar 张铭轩：白糖 | Chef Zhou: baking soda 周师傅：小苏打 | Dr Huang: baking soda 黄若琳：小苏打.
 
 **4. Stretch 提高 (two dots)**
 
@@ -316,7 +316,7 @@ Create a half-A4 kit card for Year 8 Week 4 using the Think Like a Scientist kit
   - Paper towels
 - **Teacher prep before the lesson (about 15 minutes):** Check the allergy list. Fill and label powder pots and evidence bags. Pour vinegar. Test one portion of the scene powder with vinegar yourself (it must fizz strongly). Decide whether iodine will be used; if not, show slide 10.
 - **Hazards and controls:**
-  - Wear goggles when using vinegar and iodine. 使用醋和碘液时请佩戴护目镜。
+  - Wear goggles when using vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。
   - Tell your teacher if you have a food allergy (for example, wheat flour or corn). 如有食物过敏（例如小麦面粉或玉米），请告诉老师。
   - Iodine stains skin and clothes. Use one drop with the dropper only. Iodine is optional. 碘液会染色皮肤和衣物。只用滴管滴一滴。碘液为选用材料。
@@ -347,8 +347,6 @@ Create an A5 landscape laminated lab card for the Think Like a Scientist Science
 ### 6.2 Identification key poster (for after the lesson)
 
 Create an A3 portrait poster of the white powder identification key for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 for the classroom wall (display from Week 5, after students have built their own).
-
-Heading across the top: "White powder identification key 白色粉末检索表".
 
 Flowchart, top to bottom, with diamonds for questions and rounded boxes for answers, each answer box with a small sketch of the powder:
 - "Unknown white powder 未知白色粉末"

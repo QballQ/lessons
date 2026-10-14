@@ -40,7 +40,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md`. Scene evidence t
   - Stretch: work out the percentage of the class with each type and compare with the world figures; say which suspects match the scene print.
   - Challenge: explain why a loop at the scene is weak evidence, and what scene print would have been stronger evidence and why.
 - **Language support:** Frames: "My fingerprint is a ___ because the lines ___." "This sample matches ___ because ___." "This evidence is strong / weak because ___." Chinese talk welcome while classifying and in the Think pair talk. Traps: "loop" and "arch" are everyday words with new meanings here; "tally" is new for most; say "fingerprint type" (纹型), not "the same fingerprint".
-  - Band 1 today: sit the student beside a Band 3 language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Do Now: the buddy reads the four Chinese questions on Slide 2; the answers are names and numbers copied from the suspect cards, so no English sentence is needed. Learn: the three gestures on Slide 5 need no English; the student copies them and says 箕形纹 / 斗形纹 / 弓形纹. Before the prints are taken, run Say, show, check on Slide 8: teacher reads each English step, a student reads the Chinese, thumbs check. Worksheet order: Core b first (take the right index print on the bilingual record card, tick 箕形纹 / 斗形纹 / 弓形纹 under the box, then copy the ticked word into the Chinese frame; a Chinese answer counts), then Core a (match each drawing to the three labelled drawings and the gesture icons from Slide 5, printed beside the answer lines; the Chinese pattern names are accepted as answers), then Core c (copy the numbers from the board table, which carries the same bilingual row labels as the Slide 9 visual, so each row is matched by its Chinese label, not by position), then Core d (copy the bilingual model title and draw the bars from the table). On Slide 10 the student classifies the six prints by shape with the Fingerprint File and points to who matches. The exit ticket may be answered in Chinese using 箕形纹 and 被排除 from the fold-under word bank and the frame 这个证据有力／薄弱，因为___。 from Slide 11.
+  - Band 1 today: sit the student beside a Band 3 language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Do Now: the buddy reads the four Chinese questions on Slide 2; the answers are names and numbers copied from the suspect cards, so no English sentence is needed. Learn: the three gestures on Slide 5 need no English; the student copies them and says 箕形纹 / 斗形纹 / 弓形纹. Before the prints are taken, run Say, show, check on Slide 8: teacher reads each English step, a student reads the Chinese, thumbs check. Worksheet order: Core b first (take the right index print on the bilingual record card, tick 箕形纹 / 斗形纹 / 弓形纹 under the box, then copy the ticked word into the Chinese frame; a Chinese answer counts), then Core a (match each drawing to the three labelled drawings and the gesture icons from Slide 5, printed beside the answer lines; the Chinese pattern names are accepted as answers), then Core c (copy the numbers from the board table, which carries the same bilingual row labels as the Slide 9 visual, so each row is matched by its Chinese label, not by position), then Core d (write a title in Chinese or English and draw the bars from the table). On Slide 10 the student classifies the six prints by shape with the Fingerprint File and points to who matches. The exit ticket may be answered in Chinese using 箕形纹 and 被排除 from the fold-under word bank and the frame 这个证据有力／薄弱，因为___。 from Slide 11.
 - **Misconceptions to watch for:** "Same type means same fingerprint" (no: every fingerprint is unique, but there are only three main types). "A matching fingerprint type proves who did it." "Rare things are always more important" (rare is stronger evidence only if it matches).
 - **Safety:** Graphite on fingers: wash hands after. No pencils or tape in mouths. Normal classroom rules otherwise.
 - **If time is short:** Each student takes only the right index print. Teacher draws the class bar chart on the board while students copy it. Drop Challenge.
@@ -68,7 +68,7 @@ Title: Know your suspects / 了解嫌疑人
 On-slide text:
 Use your suspect cards. 使用你的嫌疑人卡。
 1. Who has a brand B pen? 谁有B品牌的笔？
-2. Who was in the lab last? 谁最后在实验室里？
+2. Who was in the lab last? 谁是最后留在实验室里的人？
 3. Who has the biggest feet? 谁的脚最大？
 4. Who is linked to salt? 谁与食盐有关？
 Vocabulary panel: suspect | 嫌疑人, alibi | 不在场证明, evidence | 证据
@@ -225,7 +225,7 @@ c) Class tally. 全班划记计数。 Copy the class results from the board. 从
 | Total 总数 | | |
 
 d) Draw a bar chart of the class results. 画出全班结果的条形图。
-A grid 12 cm wide by 10 cm tall. X axis labelled "Fingerprint type 纹型" with three bar positions labelled Loop 箕形纹, Whorl 斗形纹, Arch 弓形纹, with gaps between bars. Y axis labelled "Number of students 学生人数", marked 0 to 24 in steps of 2. Title line above the grid: "Title 标题: ______________________". Beneath the title line, in the lighter weight, a model title to copy or improve: "Fingerprint types of our class 我们班的指纹纹型".
+A grid 12 cm wide by 10 cm tall. X axis labelled "Fingerprint type 纹型" with three bar positions labelled Loop 箕形纹, Whorl 斗形纹, Arch 弓形纹, with gaps between bars. Y axis labelled "Number of students 学生人数", marked 0 to 24 in steps of 2. Title line above the grid: "Title 标题: ______________________".
 
 **4. Stretch 提高 (two dots)**
 
@@ -237,27 +237,27 @@ a) Work out the percentage of the class with each type. 计算全班每种纹型
 | Whorl 斗形纹 | | 30 to 35% |
 | Arch 弓形纹 | | about 5% 约5% |
 
-b) Complete: 完成句子： "In our class, ___% have loops. This is more than / less than / about the same as the world figure." “我们班有___%的人是箕形纹。与世界数据相比，这多于／少于／大致相同。” (circle one) （圈出一个）
+b) Complete: 完成句子： "In our class, ___% have loops. This is more than / less than / about the same as the world figure." “我们班有___%的人是箕形纹。与世界数据相比：多于／少于／大致相同。” (circle one) （圈出一个）
 
 c) Use the Fingerprint File. 使用指纹比对档案。 Complete the table. 完成表格。
 
 | Print 指纹 | Type 纹型 |
 |---|---|
 | Scene print (glass) 现场指纹（玻璃杯） | |
-| Lily Chen | |
-| Max Zhang | |
-| Chef Zhou | |
-| Dr Ruby Huang | |
-| Professor Frost | |
+| Lily Chen 陈莉 | |
+| Max Zhang 张铭轩 | |
+| Chef Zhou 周师傅 | |
+| Dr Ruby Huang 黄若琳 | |
+| Professor Frost 弗罗斯特教授 | |
 
 The scene print matches: ______________________. Ruled out: ______________________. 现场指纹匹配：______________________。被排除：______________________。
 
 **5. Challenge 挑战 (three dots)**
 
-a) The scene print is a loop. 现场指纹是箕形纹。 Explain why this is weak evidence. 解释为什么这是薄弱证据。 Use the words "common" and "suspects". 使用“common”和“suspects”这两个词。
+a) The scene print is a loop. 现场指纹是箕形纹。 Explain why this is weak evidence. 解释为什么这是薄弱证据。 Use the words "common" and "suspects". 使用“常见的”和“嫌疑人”这两个词。
 (4 writing lines)
 
-b) Imagine the scene print had been a whorl instead. 假设现场指纹原本是斗形纹。 Would that be stronger or weaker evidence? 这会是更有力还是更薄弱的证据？ Explain. 解释。 Then say why even a matching whorl would not prove who took the notebook. 然后说说为什么即使斗形纹匹配，也不能证明是谁拿走了笔记本。
+b) Imagine the scene print had been a whorl instead. 假设现场指纹是斗形纹，而不是箕形纹。 Would that be stronger or weaker evidence? 这会是更有力还是更薄弱的证据？ Explain. 解释。 Then say why even a matching whorl would not prove who took the notebook. 然后说说为什么即使斗形纹匹配，也不能证明是谁拿走了笔记本。
 (5 writing lines)
 
 **6. My thinking 我的想法 (any language 可用中文)**

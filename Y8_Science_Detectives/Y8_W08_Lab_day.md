@@ -9,8 +9,8 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 8: what 
 
 - **Big idea:** Carrying out a planned test carefully, repeating it and recording every result straight away (including surprises) is what makes a result trustworthy enough to present as evidence.
 - **Learning goals:**
-  - I can carry out my group's plan safely, repeat the test and record results with units in a table.
-  - I can say what our result matches, how reliable it is, and what it does (or does not) show about the case.
+  - I can carry out my group's plan safely, repeat the test and record results with units in a table. 我能安全地完成小组的计划，重复检测，并把带单位的结果记录在表格里。
+  - I can say what our result matches, how reliable it is, and what it does (or does not) show about the case. 我能说出我们的结果与什么匹配、有多可靠，以及它对案件说明（或不能说明）什么。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -30,17 +30,18 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 8: what 
 
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
-| Do Now 课前任务 | 3 | Trays already on tables; returns plan sheets with comments; checks goggles for Soil, Ink 2 and Powder 2 groups | Safety Officer reads the kit card aloud; group checks tray against kit request; roles confirmed | Slide 2; plan sheets; kit cards |
-| Hook 引入 | 2 | "Next week the jury will ask you three questions": did you repeat it, did you test the references the same way, could it be contaminated? | Listen; Lead Scientist circles the repeat number on the plan | Slide 3 |
-| Learn 新知 | 3 | Safety slide for all four options; recording rules (straight away, units, circle anomalies, record surprises honestly) | Goggles on where needed; Recorder sets up the recording sheet | Slides 4 to 5 |
-| Do 实践 | 24 | Runs the clock from the run sheet (Section 6.1): calls checkpoints at minutes 6, 12, 18 and 21; circulates, checks references and scene samples are treated the same; photographs results | Carry out the test in two pairs (parallel repeats); record on the group recording sheet; compare scene sample with references; clean up from minute 21 | Slides 6 to 8; recording sheets (6.2 to 6.5); worksheet; kit trays |
-| Think and Reflect 思辨与反思 | 8 | Runs a Reporter round (20 seconds per group); collects exit tickets | Complete worksheet match and strength; Reporter shares one sentence; update evidence log row 8; exit ticket | Slides 9 to 11; evidence log |
+| Do Now 课前任务 | 3 | Trays already on tables; returns plan sheets with comments; checks goggles for Soil, Ink 2 and Powder 2 groups; shows the Today slide and reads the two goals in English (a student reads the Chinese) | Safety Officer reads the kit card aloud; group checks tray against kit request; roles confirmed | Slides 2 to 3 (Slide 3 is the Today slide: one minute of the 3, shown while the Safety Officers read the kit cards); plan sheets; kit cards |
+| Hook 引入 | 2 | "Next week the jury will ask you three questions": did you repeat it, did you test the references the same way, could it be contaminated? | Listen; Lead Scientist circles the repeat number on the plan | Slide 4 |
+| Learn 新知 | 3 | Safety slide for all four options; recording rules (straight away, units, circle anomalies, record surprises honestly) | Goggles on where needed; Recorder sets up the recording sheet | Slides 5 to 6 |
+| Do 实践 | 24 | Runs the clock from the run sheet (Section 6.1): calls checkpoints at minutes 6, 12, 18 and 21; circulates, checks references and scene samples are treated the same; photographs results | Carry out the test in two pairs (parallel repeats); record on the group recording sheet; compare scene sample with references; clean up from minute 21 | Slides 7 to 9; recording sheets (6.2 to 6.5); worksheet; kit trays |
+| Think and Reflect 思辨与反思 | 8 | Runs a Reporter round (20 seconds per group); collects exit tickets | Complete worksheet match and strength; Reporter shares one sentence; update evidence log row 8; exit ticket | Slides 10 to 12; evidence log |
 
 - **Tiers:**
   - Core: record results in the group recording sheet; write a match sentence; say which suspects (if any) the result rules in or out.
   - Stretch: compare repeats, circle any anomaly and say what you did about it; judge how reliable the result is with a reason.
   - Challenge: rank the result as strong, supporting or weak evidence for the case, with a reason based on how many suspects it matches; suggest one specific improvement to the method.
 - **Language support:** Frames: "The scene sample matches ___ because ___ ." "Our repeats were close / not close, so the result is ___ ." "One result did not fit: ___ . We ___ ." "This evidence is strong / supporting / weak because ___ ." "One problem with this evidence is ___ ." Chinese welcome during practical work; results recorded with English key words. Traps: "repeat" vs "replace"; "reliable" vs "accurate" (do not push the difference now; "reliable" = repeats agree); "settle" (Soil) is new; "absorb" spelling.
+  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer; when the group splits into two pairs (Slide 7), the buddy and the student are in the same pair. Give the student a doing job first (timer or Measurer in their pair), where the result is a number or a colour, not a sentence; the Week 7 option card (every step paired, with a picture) stays on the table beside the plan sheet, and the group recording sheet (6.2 to 6.5) has bilingual headings, choice words and footers with a small icon beside each column heading, so the student can also be the Recorder. Worksheet order: Core b) first (tick the box), then Core c): copy one line from the bilingual footer of the group recording sheet, which is the picture cue printed beside c). Then Core d): fill the Chinese frame with the match target from the bilingual fold-under word bank and tick or copy one bilingual reason word printed under d); a Chinese reason counts. Then Core e): tick the suspect grid printed under e) (the four suspect names with their Chinese, rows 符合 / 排除, the same headings as the evidence log) using the suspect tracker, or write 没有 or 全部 from the word bank. Core a) is copied from the Week 7 plan sheet, which is bilingual. Before the first test starts, run Say, show, check on Slide 7: teacher reads the English, a student reads the Chinese, thumbs check; the Safety Officer reads the kit card hazards in English and Chinese. The exit ticket may be answered in Chinese: circle a bilingual strength word and write the reason in Chinese.
 - **Misconceptions to watch for:** "If the result is not what we expected, we did it wrong" (record it and look for a reason). "Repeats should be identical, or one of them is wrong." Changing the method half way without recording it. Rubbing out a result that looks odd. "A match proves who did it."
 - **Safety:** Option-specific (kit cards, Section 5). Goggles for anything with vinegar or iodine, and while shaking soil bottles. No tasting any sample. Allergy check (wheat, corn) for Powder 2. Wash hands after soil. Plastic bottles, not glass. Wipe spills at once.
 - **If time is short:** Minimum two repeats (outline target three). Soil: measure layers at 10 minutes instead of 15. Paper: two strips per sample. Ink 2: water and vinegar only. Powder 2: skip iodine and use the water test for starch. If a test fails completely, use the backup lab report card (Section 6.6) and discuss why it failed.
@@ -62,23 +63,43 @@ Speaker notes: Today you are the forensic lab. Work carefully, repeat, and recor
 ```
 Slide 2 | Phase tag: Do Now 课前任务
 Title: Ready for the lab? / 准备好了吗？
-On-slide text: 1. Safety Officer: read the kit card. 2. Check the tray against your kit request. 3. Read your plan. 4. Roles agreed.
+On-slide text:
+1. Safety Officer: read the kit card. 1. 安全员：阅读器材卡。
+2. Check the tray against your kit request. 2. 对照器材申请检查托盘。
+3. Read your plan. 3. 阅读你们的计划。
+4. Roles agreed. 4. 确认分工。
 Vocabulary panel: method | 实验步骤, hazard | 危险源, record | 记录
 Visual: A checklist with four tick boxes beside a tray icon, a kit card icon and the five role icons (Lead Scientist, Measurer, Recorder, Safety Officer, Reporter). 3-minute timer.
-Speaker notes: Your plan sheet has my comments on it. Fix anything I have marked before you start. Do not open any sample until the Safety Officer has read the hazards.
+Speaker notes: Your plan sheet has my comments on it. Fix anything I have marked before you start. Do not open any sample until the Safety Officer has read the hazards. A student reads the four Chinese lines before any tray is opened; the Safety Officer reads the kit card hazards in English and Chinese.
 ```
 
 ```
-Slide 3 | Phase tag: Hook 引入
+Slide 3 | Phase tag: Do Now 课前任务 | Layout: Today 今天
+Title: Today / 今天
+On-slide text:
+Today I can ... 今天我能……
+I can carry out my group's plan safely, repeat the test and record results with units in a table. 我能安全地完成小组的计划，重复检测，并把带单位的结果记录在表格里。
+I can say what our result matches, how reliable it is, and what it does (or does not) show about the case. 我能说出我们的结果与什么匹配、有多可靠，以及它对案件说明（或不能说明）什么。
+Key words today 今天的关键词: repeat 重复 | reliable 可靠的 | anomaly 异常值 | record 记录 | results table 结果表格 | match 匹配 | settle 沉降 | absorb 吸收 | solvent 溶剂 | mixture 混合物
+Vocabulary panel: none (the key words list on this layout takes its place)
+Visual: Today 今天 layout. Left: the two goals, each English with the Chinese beneath in the lighter weight and an empty tick box. Right: the ten key words, English 中文. Science Detectives series icon, amber accent.
+Speaker notes: Read each goal in English; a student reads the Chinese line. Point to the key words: "You will see these on every slide today, and you will tick these two goals on your exit ticket at the end." Thumbs check. One minute, inside the Do Now's 3 minutes, shown while the Safety Officers read the kit cards and the trays are checked; it takes nothing from the Do phase.
+```
+
+```
+Slide 4 | Phase tag: Hook 引入
 Title: The jury will ask... / 陪审团会问……
-On-slide text: Did you repeat it? Did you test the references the same way? Could your sample be contaminated?
+On-slide text:
+Did you repeat it? 你们重复了吗？
+Did you test the references the same way? 你们用同样的方法检测参照样本了吗？
+Could your sample be contaminated? 你们的样本可能被污染了吗？
 Vocabulary panel: repeat | 重复, reference sample | 参照样本, reliable | 可靠的
 Visual: Three large question cards on a courtroom bench, each with an icon: a circular arrow (repeat), a row of identical jars (same way), a smudged spoon (contamination).
-Speaker notes: Next week you build the case, and in Week 10 you present to the Court of Science. The jury will ask these questions, so make sure today you can answer "yes, yes, and here is how we stopped it".
+Speaker notes: Next week you build the case, and in Week 10 you present to the Court of Science. The jury will ask these questions, so make sure today you can answer "yes, yes, and here is how we stopped it". A student reads the three Chinese lines.
 ```
 
 ```
-Slide 4 | Phase tag: Learn 新知
+Slide 5 | Phase tag: Learn 新知
 Title: Safety / 安全须知
 On-slide text: Goggles for vinegar, iodine and shaking bottles. 使用白醋、碘液和摇瓶时请戴护目镜。 Never taste any sample. 不要品尝任何样本。 Wash hands after soil. 接触土壤后请洗手。 Wipe spills at once. 洒出的液体要立即擦干。
 Vocabulary panel: none
@@ -87,65 +108,83 @@ Speaker notes: Safety Officers check goggles before any vinegar or iodine is ope
 ```
 
 ```
-Slide 5 | Phase tag: Learn 新知
+Slide 6 | Phase tag: Learn 新知
 Title: Record like a forensic scientist / 像法庭科学家一样记录
 On-slide text: Record straight away. Units in the heading. Never rub out: cross out with one line. Circle anything odd and write why.
+Key idea 核心概念: 结果要立刻记录，表头写单位；不擦掉，划一条线；圈出异常并写明原因。
 Vocabulary panel: record | 记录, results table | 结果表格, anomaly | 异常值, repeat | 重复
 Visual: A close-up of a recording sheet with: units in brackets in the headings, one result neatly crossed out with a single line and the new value beside it, one value circled with a note "strip touched the cup", and a "Repeat 2" column filled in.
-Speaker notes: Real forensic scientists never rub out results, because the court may ask what happened. A surprising result is not a failure: record it honestly and look for a reason.
-```
-
-```
-Slide 6 | Phase tag: Do 实践
-Title: Run your test / 开始检测
-On-slide text: Two pairs, same method, at the same time: that is your repeat. Scene sample last, tested exactly like the references.
-Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
-Visual: The lab run sheet as four colour-free columns (Soil, Paper, Ink 2, Powder 2) with time markers at 0, 6, 12, 18, 21 and 24 minutes and a short action at each (for example Soil: "0 shake, start timer"; Ink 2: "6 strips in"). 24-minute timer.
-Speaker notes: Split the group into two pairs so the repeat runs in parallel. Recorder keeps the group sheet; everyone copies key results onto their own worksheet at the end. I will call out checkpoints.
+Speaker notes: Real forensic scientists never rub out results, because the court may ask what happened. A surprising result is not a failure: record it honestly and look for a reason. A student reads the Key idea line in Chinese.
 ```
 
 ```
 Slide 7 | Phase tag: Do 实践
-Title: Checkpoints / 检查点
-On-slide text: 6 min: first test running? 12 min: repeats started? 18 min: all tests finished, compare now. 21 min: clean up.
-Vocabulary panel: same as previous
-Visual: A horizontal clock strip with four flags at 6, 12, 18 and 21 minutes, each with a short label in English and Chinese: "first test running 第一次检测进行中", "repeats started 开始重复", "compare 比较结果", "clean up 清理".
-Speaker notes: Leave this slide up during the Do phase. At each checkpoint, Lead Scientists give me a thumbs up or a thumbs sideways if they need help. Soil groups: your bottles stay on the windowsill after the lesson; do not tip them away.
+Title: Run your test / 开始检测
+On-slide text:
+Two pairs, same method, at the same time: that is your repeat. 两对同学，同样的实验步骤，同时进行：这就是你们的重复。
+Scene sample last, tested exactly like the references. 现场样本最后检测，方法与参照样本完全相同。
+Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
+Visual: The lab run sheet as four colour-free columns (Soil, Paper, Ink 2, Powder 2) with time markers at 0, 6, 12, 18, 21 and 24 minutes and a short action at each (for example Soil: "0 shake, start timer"; Ink 2: "6 strips in"). 24-minute timer. Column headings bilingual: Soil 土壤, Paper 纸巾, Ink 2 墨水2, Powder 2 粉末2; the time markers are numbers; each action is an icon with its short English label only, so the slide does not overflow (the paired step-by-step method, with pictures, is on the Week 7 option card, which stays on the table with the plan sheet).
+Speaker notes: Split the group into two pairs so the repeat runs in parallel. Recorder keeps the group sheet; everyone copies key results onto their own worksheet at the end. I will call out checkpoints. Put each language buddy in the same pair as their Band 1 partner. Read the two lines in English; a student reads the Chinese; thumbs check before the first test starts.
 ```
 
 ```
 Slide 8 | Phase tag: Do 实践
-Title: Match and judge / 比对与判断
-On-slide text: Which reference does the scene sample match? Did the repeats agree? Which suspects does it rule in or out?
-Vocabulary panel: match | 匹配, reliable | 可靠的, anomaly | 异常值
-Visual: The scene sample in the centre with dashed arrows to four reference samples, one arrow bold with a tick. Below, a small tracker grid of the four suspects with question marks. Frame strip: "The scene sample matches ___ because ___."
-Speaker notes: Look at every test, not just one. Then think about the case: if the scene sample matches something everybody used, can it rule anyone out?
+Title: Checkpoints / 检查点
+On-slide text:
+6 min: first test running? 第6分钟：第一次检测进行中了吗？
+12 min: repeats started? 第12分钟：开始重复了吗？
+18 min: all tests finished, compare now. 第18分钟：所有检测结束，现在比较。
+21 min: clean up. 第21分钟：收拾整理。
+Vocabulary panel: same as previous
+Visual: A horizontal clock strip with four flags at 6, 12, 18 and 21 minutes, each with a short label in English and Chinese: "first test running 第一次检测进行中", "repeats started 开始重复", "compare 比较结果", "clean up 收拾整理".
+Speaker notes: Leave this slide up during the Do phase. At each checkpoint, Lead Scientists give me a thumbs up or a thumbs sideways if they need help. Soil groups: your bottles stay on the windowsill after the lesson; do not tip them away.
 ```
 
 ```
-Slide 9 | Phase tag: Think and Reflect 思辨与反思
-Title: Reporter round / 汇报员轮流汇报
-On-slide text: One sentence each: Our test showed ___ . This evidence is strong / supporting / weak because ___ .
-Vocabulary panel: reliable | 可靠的, match | 匹配, evidence | 证据
-Visual: Six speech bubbles in a circle labelled Group 1 to Group 6, each with its option icon. Frame strip at the bottom.
-Speaker notes: Twenty seconds per Reporter. Write each group's result on the board under the four option headings. Everyone will need the other groups' results next week.
+Slide 9 | Phase tag: Do 实践
+Title: Match and judge / 比对与判断
+On-slide text:
+Which reference does the scene sample match? 现场样本与哪个参照样本匹配？
+Did the repeats agree? 重复结果一致吗？
+Which suspects does it rule in or out? 它能把哪些嫌疑人纳入或排除？
+Vocabulary panel: match | 匹配, reliable | 可靠的, anomaly | 异常值
+Visual: The scene sample in the centre with dashed arrows to four reference samples, one arrow bold with a tick. Below, a small tracker grid of the four suspects with question marks. Frame strip: "The scene sample matches ___ because ___." 现场样本与___匹配，因为___。
+Speaker notes: Look at every test, not just one. Then think about the case: if the scene sample matches something everybody used, can it rule anyone out? A student reads the Chinese lines and the Chinese frame.
 ```
 
 ```
 Slide 10 | Phase tag: Think and Reflect 思辨与反思
+Title: Reporter round / 汇报员轮流汇报
+On-slide text:
+One sentence each: 每组说一句：
+Our test showed ___ . 我们的检测显示___。
+This evidence is strong / supporting / weak because ___ . 这个证据有力／支持性／薄弱，因为___。
+Vocabulary panel: reliable | 可靠的, match | 匹配, evidence | 证据
+Visual: Six speech bubbles in a circle labelled Group 1 to Group 6, each with its option icon. Frame strip at the bottom. The frames are English with the Chinese frames beneath.
+Speaker notes: Twenty seconds per Reporter. Write each group's result on the board under the four option headings. Everyone will need the other groups' results next week. Reporters may say their sentence in Chinese and then the English key word.
+```
+
+```
+Slide 11 | Phase tag: Think and Reflect 思辨与反思
 Title: Update the evidence log / 更新证据记录
-On-slide text: Row 8: evidence, test, result, ruled in, ruled out, strength. Copy the other groups' results from the board.
+On-slide text:
+Row 8: evidence, test, result, ruled in, ruled out, strength. 第8行：证据、检测方法、结果、符合、排除、证据强度。
+Copy the other groups' results from the board. 从黑板上抄写其他组的结果。
 Vocabulary panel: evidence | 证据, reliable | 可靠的
 Visual: Row 8 of the evidence log enlarged, with a pencil filling in the columns, and a small note "Other groups' results: write under the table 其他组的结果写在表格下方".
 Speaker notes: Many groups will find their result rules nobody out. That is a real and useful finding: it tells the jury what the evidence does not show.
 ```
 
 ```
-Slide 11 | Phase tag: Think and Reflect 思辨与反思
+Slide 12 | Phase tag: Think and Reflect 思辨与反思
 Title: Exit ticket / 离场小测
-On-slide text: 1. Our scene sample matched ___ . 2. Did our repeats agree? 3. Strong, supporting or weak evidence? Why?
+On-slide text:
+1. Our scene sample matched ___ . 1. 我们的现场样本与___匹配。
+2. Did our repeats agree? 2. 我们的重复结果一致吗？
+3. Strong, supporting or weak evidence? Why? 3. 有力、支持性还是薄弱证据？为什么？
 Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
-Visual: Exit ticket strip with cut line. Teaser icon: a corkboard with evidence cards and string (next week: build the case).
+Visual: Exit ticket strip with cut line. It ends with the two "Today I can 今天我能" tick boxes. Teaser icon: a corkboard with evidence cards and string (next week: build the case).
 Speaker notes: Collect at the door. Recording sheets and worksheets go into case files. Next week we put all the evidence together on one board, and something unexpected turns up.
 ```
 
@@ -154,50 +193,55 @@ Speaker notes: Collect at the door. Recording sheets and worksheets go into case
 Create an A4 portrait, black-and-white-printable worksheet for Year 8 Week 8, Lab day, using the Think Like a Scientist worksheet template, Science Detectives series. One per student; the group's full results go on the option recording sheet (Section 6).
 
 **1. Header**
-Lab day / 检测日 | Science Detectives 科学侦探 | Week 8 | Name ________ Class ________ Date ________ | Group ____
-Tick our option: ☐ Soil 土壤 ☐ Paper 纸巾 ☐ Ink 2 墨水2 ☐ Powder 2 粉末2
+Lab day / 检测日 | Science Detectives 科学侦探 | Week 8 第8周 | Name 姓名 ________ Class 班级 ________ Date 日期 ________ | Group 小组 ____
+Today I can 今天我能: I can carry out my group's plan safely, repeat the test and record results with units in a table. 我能安全地完成小组的计划，重复检测，并把带单位的结果记录在表格里。 | I can say what our result matches, how reliable it is, and what it does (or does not) show about the case. 我能说出我们的结果与什么匹配、有多可靠，以及它对案件说明（或不能说明）什么。
+Tick our option 勾选我们的选项: ☐ Soil 土壤 ☐ Paper 纸巾 ☐ Ink 2 墨水2 ☐ Powder 2 粉末2
 
 **2. Vocabulary panel**
 repeat 重复 | reliable 可靠的 | anomaly 异常值 | record 记录 | results table 结果表格 | match 匹配 | settle 沉降 | absorb 吸收 | solvent 溶剂 | mixture 混合物
 
 **3. Core (one dot)**
 
-a) Our question 我们的问题: ______________________________ (copy from your plan sheet)
+a) Our question 我们的问题: ______________________________ (copy from your plan sheet 从你们的计划表抄写)
 
 b) ☐ Our results are recorded on the group recording sheet. 我们的结果已记录在小组记录表上。
 
-c) Copy your most important result: ______________________________ (2 lines)
+c) Copy your most important result: 抄写你们最重要的一个结果： ______________________________ (2 lines)
+Picture cue beside the lines: a thumbnail of the group recording sheet with its footer line circled, so the result can be copied from the bilingual footer.
 
-d) Complete: "The scene sample matches ________________ because ________________________ ." (2 lines)
+d) Complete: 完成句子： "The scene sample matches ________________ because ________________________ ." “现场样本与________________匹配，因为________________________。” (2 lines)
+Reason words 理由词 (tick or copy one 勾选或抄写一条): Soil 土壤: same colour 颜色相同 | same bits under the magnifier 放大镜下的碎屑相同 | same layers 分层相同. Paper 纸巾: same layers 层数相同 | same pattern 压纹相同 | same height 高度相同. Ink 2 墨水2: same colours 颜色相同 | same bands 色带相同 | same heights 高度相同. Powder 2 粉末2: fizzed 冒气泡 | no crystals 没有晶体 | no blue-black 没有蓝黑色.
 
-e) Which suspects does our result rule in? ________________ Rule out? ________________ (Write "none" or "all" if that is true.)
+e) Which suspects does our result rule in? 我们的结果把哪些嫌疑人纳入？ ________________ Rule out? 排除哪些？ ________________ (Write "none" or "all" if that is true. 如果是这样，就写“没有”或“全部”。)
+Tick grid under the lines 横线下方的勾选表 (the same headings as the evidence log): columns Lily Chen 陈莉 | Max Zhang 张铭轩 | Chef Zhou 周师傅 | Dr Ruby Huang 黄若琳; rows Ruled in 符合 | Ruled out 排除.
 
 **4. Stretch (two dots)**
 
-a) Did the two pairs get the same result? ☐ Yes ☐ Mostly ☐ No
-"Our repeats were ________ , so our result is ________ ." (2 lines)
+a) Did the two pairs get the same result? 两对同学得到的结果相同吗？ ☐ Yes 是 ☐ Mostly 基本一致 ☐ No 否
+"Our repeats were ________ , so our result is ________ ." “我们的重复结果________，所以我们的结果是________。” (2 lines)
 
-b) Was there an anomaly (a result that did not fit)? What do you think caused it, and what did you do? (3 lines)
+b) Was there an anomaly (a result that did not fit)? 有异常值（不符合规律的结果）吗？ What do you think caused it, and what did you do? 你认为是什么造成的？你们做了什么？ (3 lines)
 
 **5. Challenge (three dots)**
 
-a) Is our result strong, supporting or weak evidence for the case? (circle one) Strong 有力 / Supporting 支持 / Weak 薄弱
-Explain, using the number of suspects it matches. (3 lines)
+a) Is our result strong, supporting or weak evidence for the case? 我们的结果对这个案件是有力、支持性还是薄弱证据？ (circle one 圈出一个) Strong 有力 / Supporting 支持性 / Weak 薄弱
+Explain, using the number of suspects it matches. 用它符合的嫌疑人数量来解释。 (3 lines)
 
-b) Suggest one specific change to our method that would make the result more reliable. Say why. (3 lines)
+b) Suggest one specific change to our method that would make the result more reliable. 提出一个对我们实验步骤的具体改动，让结果更可靠。 Say why. 说明理由。 (3 lines)
 
-**6. My thinking (any language, 可用中文)**
-Your result may not help to find who took the notebook. Is it still useful evidence? Why?
+**6. My thinking 我的想法 (any language 可用中文)**
+Your result may not help to find who took the notebook. 你们的结果也许帮不上找出谁拿走了笔记本。 Is it still useful evidence? 它仍然是有用的证据吗？ Why? 为什么？
 (Dashed box, about 4 cm tall)
 
-**7. Fold-under word bank** (dashed fold line above)
-matches | does not match | flowerbed | lab paper towels | pen B | baking soda | pure | mixture | repeats agreed | anomaly | contaminated | everyone | rule out | supporting | weak | more reliable
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
+matches 匹配 | does not match 不匹配 | flowerbed 花坛 | lab paper towels 实验室纸巾 | pen B B号笔 | baking soda 小苏打 | pure 纯的 | mixture 混合物 | repeats agreed 重复结果一致 | anomaly 异常值 | contaminated 被污染的 | everyone 所有人 | rule out 排除 | supporting 支持性 | weak 薄弱 | more reliable 更可靠 | none 没有 | all 全部
 
 **8. Exit ticket strip** (cut line above)
-Exit ticket 离场小测 | Name ________ | Option ________
-1. Our scene sample matched ________________
-2. Did our repeats agree? ________________
-3. Strong, supporting or weak evidence? ________ because ________________
+Exit ticket 离场小测 | Name 姓名 ________ | Option 检测选项 ________
+1. Our scene sample matched ________________ 1. 我们的现场样本与________________匹配。
+2. Did our repeats agree? ________________ 2. 我们的重复结果一致吗？________________
+3. Strong, supporting or weak evidence? 3. 有力、支持性还是薄弱证据？ (circle one 圈出一个: Strong 有力 / Supporting 支持性 / Weak 薄弱) ________ because ________________ ________，因为________________
+Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ## 4. Answer key (for the teacher)
 
@@ -244,7 +288,7 @@ Yes: evidence that rules nobody out still tells us something true (where the soi
 
 ## 5. Kit card [Paste into Claude Design]
 
-Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, Ink 2, Powder 2) using the Think Like a Scientist kit card template. Each card is headed "Week 8 Lab day | Option: [name]" with the option icon. Print each card for every group doing that option, plus one for the teacher's file.
+Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, Ink 2, Powder 2) using the Think Like a Scientist kit card template. Each card is headed "Week 8 Lab day 第8周 检测日 | Option: [name] 选项：[土壤 / 纸巾 / 墨水2 / 粉末2]" with the option icon (the Safety Officer reads the card aloud, so the heading is bilingual). Print each card for every group doing that option, plus one for the teacher's file.
 
 ### Kit card: Soil
 
@@ -263,7 +307,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Wear goggles while shaking. Check every lid is tight before shaking. 摇瓶时请戴护目镜。摇之前检查每个瓶盖是否拧紧。
   - Use plastic bottles only, not glass. 只用塑料瓶，不要用玻璃瓶。
   - Wipe up spills straight away. 洒出的水要立即擦干。
-- **Clean-up:** Leave the bottles, labelled with the group number, on the windowsill to keep settling (look again in Week 9). Afterwards, pour the soil and water onto a flowerbed or into a bucket, not down the sink (soil blocks drains). Wipe tables. Everyone washes hands with soap.
+- **Clean-up 收拾整理:** Leave the bottles, labelled with the group number, on the windowsill to keep settling (look again in Week 9). 把瓶子标上组号，放在窗台上继续沉降（第9周再看）。 Afterwards, pour the soil and water onto a flowerbed or into a bucket, not down the sink (soil blocks drains). 之后，把土壤和水倒在花坛里或桶里，不要倒进水槽（土壤会堵塞下水道）。 Wipe tables. 擦桌子。 Everyone washes hands with soap. 每个人都用肥皂洗手。
 
 ### Kit card: Paper
 
@@ -277,7 +321,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Scissors: cut away from your fingers and pass them handle first. 用剪刀时刀口朝外，递剪刀时把手朝向对方。
   - Do not drink the water. 不要喝杯中的水。
   - Wipe up spills straight away. 洒出的水要立即擦干。
-- **Clean-up:** Coloured water down the sink. Dry strips flat on paper towels and stick the best strip of each paper onto the recording sheet. Scissors counted back in. Wipe tables.
+- **Clean-up 收拾整理:** Coloured water down the sink. 有色的水倒进水槽。 Dry strips flat on paper towels and stick the best strip of each paper onto the recording sheet. 把纸条平放在纸巾上晾干，并把每种纸最好的一条贴在记录表上。 Scissors counted back in. 剪刀数清后交回。 Wipe tables. 擦桌子。
 
 ### Kit card: Ink 2
 
@@ -294,7 +338,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - If vinegar gets in your eyes, rinse with plenty of water and tell the teacher. 如有白醋进入眼睛，请用大量清水冲洗并告诉老师。
   - Felt-tip ink stains clothes. Keep caps on. 水彩笔墨水会弄脏衣服，请盖好笔帽。
   - Wipe up spills straight away. 洒出的液体要立即擦干。
-- **Clean-up:** Pour all liquids down the sink with plenty of water. Dry strips flat on paper towels, labelled with solvent and group. Count pens back in. Goggles back in the box. Wipe tables. Wash hands.
+- **Clean-up 收拾整理:** Pour all liquids down the sink with plenty of water. 所有液体倒进水槽，并用大量清水冲走。 Dry strips flat on paper towels, labelled with solvent and group. 把滤纸条平放在纸巾上晾干，标上溶剂和组号。 Count pens back in. 数清笔并交回。 Goggles back in the box. 护目镜放回盒子里。 Wipe tables. 擦桌子。 Wash hands. 洗手。
 
 ### Kit card: Powder 2
 
@@ -312,7 +356,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Iodine stains skin and clothes. One drop, dropper only, Safety Officer only. 碘液会染色皮肤和衣物。只用滴管滴一滴，仅由安全员操作。
   - Do not blow or shake powders. 不要吹或摇晃粉末。
   - Wash your hands after the practical. 实验后请洗手。
-- **Clean-up:** Cup contents down the sink with plenty of water. Rinse tiles. Return iodine to the teacher. Goggles back in the box. Wipe tables. Everyone washes hands.
+- **Clean-up 收拾整理:** Cup contents down the sink with plenty of water. 把杯子里的东西倒进水槽，并用大量清水冲走。 Rinse tiles. 冲洗点滴板。 Return iodine to the teacher. 把碘液还给老师。 Goggles back in the box. 护目镜放回盒子里。 Wipe tables. 擦桌子。 Everyone washes hands. 每个人都要洗手。
 
 ## 6. Other printables [Paste into Claude Design]
 
@@ -351,11 +395,11 @@ Create an A4 landscape teacher run sheet for Year 8 Week 8, Lab day, for the Thi
 
 Create an A4 portrait group recording sheet for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 per Soil group, plus 1 spare.
 
-- **Header:** "Recording sheet: Soil 记录表：土壤 | Evidence 6 | Group ____ | Recorder ________"
-- **Control box:** "Same for every bottle 每个瓶子相同: soil ____ tablespoon | water ____ ml | shaken ____ s | bottle type ____________"
+- **Header:** "Recording sheet: Soil 记录表：土壤 | Evidence 6 证据6 | Group 小组 ____ | Recorder 记录员 ________"
+- **Control box:** "Same for every bottle 每个瓶子相同: soil 土壤 ____ tablespoon 汤匙 | water 水 ____ ml | shaken 摇动 ____ s | bottle type 瓶子类型 ____________"
 - **Table 1: Looking 观察** (5 rows)
 
-| Sample 样本 | Colour on white paper 在白纸上的颜色 | Under the magnifier (stones, sand, roots, leaves) 放大镜下 |
+| Sample 样本 | Colour on white paper 在白纸上的颜色 | Under the magnifier (stones, sand, roots, leaves) 放大镜下（石子、沙、根、叶） |
 |---|---|---|
 | A Flowerbed 花坛 | | |
 | B Sports field 运动场 | | |
@@ -363,9 +407,9 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | D Tree bed 树坛 | | |
 | Evidence 6 (scene) 证据6 | | |
 
-- **Table 2: Settling bottles 沉降瓶** (5 rows; one table for Pair 1 and an identical one beneath for Pair 2, headed "Repeat 重复")
+- **Table 2: Settling bottles 沉降瓶** (5 rows; one table for Pair 1 第1对 and an identical one beneath for Pair 2 第2对, headed "Repeat 重复")
 
-| Sample 样本 | Water at 1 min: cloudy / clear 1分钟 | At 5 min 5分钟 | At 10 min 10分钟 | Bottom layer at 15 min (mm) 15分钟底层高度 | Number of layers 层数 | Floating bits? 漂浮物？ |
+| Sample 样本 | Water at 1 min: cloudy / clear 1分钟：浑浊／清澈 | At 5 min 5分钟 | At 10 min 10分钟 | Bottom layer at 15 min (mm) 15分钟底层高度（毫米） | Number of layers 层数 | Floating bits? 漂浮物？ |
 |---|---|---|---|---|---|---|
 | A | | | | | | |
 | B | | | | | | |
@@ -374,19 +418,20 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | Evidence 6 | | | | | | |
 
 - **Drawing box:** five outline bottles side by side labelled A, B, C, D, Evidence 6, each 3 cm wide by 8 cm tall, captioned "Draw and label the layers at 15 minutes 画出并标注15分钟时的分层".
-- **Footer:** "The scene soil matches ____ . Repeats agreed? Yes / Mostly / No. Anomaly? ________"
+- **Footer:** "The scene soil matches ____ . 现场土壤与____匹配。 Repeats agreed? 重复结果一致吗？ Yes 是 / Mostly 基本一致 / No 否. Anomaly? 异常值？ ________"
+- **Picture cues:** a small icon beside each column heading (white paper, magnifier, clock with the minute, ruler, stacked layers, floating leaf) so the Recorder can follow the sheet without reading.
 
 ### 6.3 Recording sheet: Paper
 
 Create an A4 portrait group recording sheet for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 per Paper group, plus 1 spare.
 
-- **Header:** "Recording sheet: Paper 记录表：纸巾 | Evidence 7 | Group ____ | Recorder ________"
-- **Control box:** "Same for every strip 每条相同: size 2 cm × 12 cm | cut along the arrow | water depth ____ cm | time 60 s"
+- **Header:** "Recording sheet: Paper 记录表：纸巾 | Evidence 7 证据7 | Group 小组 ____ | Recorder 记录员 ________"
+- **Control box:** "Same for every strip 每条相同: size 尺寸 2 cm × 12 cm | cut along the arrow 沿箭头剪 | water depth 水深 ____ cm | time 时间 60 s"
 - **Table 1: Looking 观察** (5 rows)
 
-| Paper 纸 | Layers (ply) 层数 | Pattern under the magnifier 放大镜下的花纹 | Feel: thin / thick / soft / rough 手感 |
+| Paper 纸 | Layers (ply) 层数 | Pattern under the magnifier 放大镜下的压纹 | Feel: thin / thick / soft / rough 手感：薄／厚／软／粗糙 |
 |---|---|---|---|
-| P1 Lab paper towel 实验室擦手纸 | | | |
+| P1 Lab paper towel 实验室纸巾 | | | |
 | P2 Canteen napkin 食堂餐巾纸 | | | |
 | P3 Tissue 面巾纸 | | | |
 | P4 Kitchen roll 厨房纸 | | | |
@@ -394,7 +439,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 
 - **Table 2: Absorbency strips 吸水纸条** (5 rows)
 
-| Paper 纸 | Height after 60 s, strip 1 (mm) 第1条高度 | Strip 2 (mm) 第2条 | Strip 3 (mm) 第3条 | Mean (mm) 平均值 |
+| Paper 纸 | Height after 60 s, strip 1 (mm) 60秒后的高度，第1条（毫米） | Strip 2 (mm) 第2条（毫米） | Strip 3 (mm) 第3条（毫米） | Mean (mm) 平均值（毫米） |
 |---|---|---|---|---|
 | P1 | | | | |
 | P2 | | | | |
@@ -403,59 +448,62 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | Evidence 7 | | | | |
 
 - **Strip box:** five slots 2.5 cm by 13 cm labelled P1, P2, P3, P4, Evidence 7, captioned "Stick your best dry strip here 把最好的一条晾干后贴在这里".
-- **Footer:** "The scene paper matches ____ . Repeats agreed? Yes / Mostly / No. Anomaly? ________"
+- **Footer:** "The scene paper matches ____ . 现场纸巾与____匹配。 Repeats agreed? 重复结果一致吗？ Yes 是 / Mostly 基本一致 / No 否. Anomaly? 异常值？ ________"
+- **Picture cues:** a small icon beside each column heading (stacked sheets, magnifier, hand, strip with a ruler, mean symbol) so the Recorder can follow the sheet without reading.
 
 ### 6.4 Recording sheet: Ink 2
 
 Create an A4 portrait group recording sheet for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 per Ink 2 group, plus 1 spare.
 
-- **Header:** "Recording sheet: Ink 2 记录表：墨水2 | Evidence 1 | Group ____ | Recorder ________"
-- **Control box:** "Same for every strip 每条相同: baseline 2 cm | dot 3 times | solvent depth 1 cm | time 7 min | salt water: 1 level teaspoon salt in 100 ml water"
-- **Table** (rows grouped by solvent; Pair 1 and Pair 2 columns side by side)
+- **Header:** "Recording sheet: Ink 2 记录表：墨水2 | Evidence 1 证据1 | Group 小组 ____ | Recorder 记录员 ________"
+- **Control box:** "Same for every strip 每条相同: baseline 基线 2 cm | dot 3 times 点3次 | solvent depth 溶剂深度 1 cm | time 时间 7 min | salt water: 1 level teaspoon salt in 100 ml water 盐水：100毫升水加1平茶匙食盐"
+- **Table** (rows grouped by solvent; Pair 1 第1对 and Pair 2 第2对 columns side by side)
 
-| Solvent 溶剂 | Strip 纸条 | Number of bands, Pair 1 色带数 | Colours, bottom to top 颜色（从下到上） | Spread, lowest to highest band (mm), Pair 1 | Spread (mm), Pair 2 | Same pattern as N? 与N相同？ |
+| Solvent 溶剂 | Strip 滤纸条 | Number of bands, Pair 1 色带数，第1对 | Colours, bottom to top 颜色（从下到上） | Spread, lowest to highest band (mm), Pair 1 色带跨度（毫米），第1对 | Spread (mm), Pair 2 色带跨度（毫米），第2对 | Same pattern as N? 与N相同？ |
 |---|---|---|---|---|---|---|
-| Water 水 | N | | | | | (this is N) |
+| Water 水 | N | | | | | (this is N 这是N) |
 | Water 水 | B | | | | | |
-| Water 水 | A (optional) | | | | | |
-| Salt water 盐水 | N | | | | | (this is N) |
+| Water 水 | A (optional 可选) | | | | | |
+| Salt water 盐水 | N | | | | | (this is N 这是N) |
 | Salt water 盐水 | B | | | | | |
-| Salt water 盐水 | A (optional) | | | | | |
-| Vinegar 白醋 | N | | | | | (this is N) |
+| Salt water 盐水 | A (optional 可选) | | | | | |
+| Vinegar 白醋 | N | | | | | (this is N 这是N) |
 | Vinegar 白醋 | B | | | | | |
-| Vinegar 白醋 | A (optional) | | | | | |
+| Vinegar 白醋 | A (optional 可选) | | | | | |
 
-- **Strip box:** three rows labelled Water, Salt water, Vinegar, each with slots for N and B, captioned "Stick dry strips here 把晾干的纸条贴在这里".
-- **Footer:** "Best solvent: ________ because ________ . Does N match B in every solvent? Yes / No."
+- **Strip box:** three rows labelled Water 水, Salt water 盐水, Vinegar 白醋, each with slots for N and B, captioned "Stick dry strips here 把晾干的滤纸条贴在这里".
+- **Footer:** "Best solvent: ________ because ________ . 最佳溶剂：________，因为________。 Does N match B in every solvent? 在每种溶剂中N都与B匹配吗？ Yes 是 / No 否."
+- **Picture cues:** a small icon beside each column heading (cup, strip, counted bands, colour swatches, ruler, matching strips) so the Recorder can follow the sheet without reading.
 
 ### 6.5 Recording sheet: Powder 2
 
 Create an A4 portrait group recording sheet for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 per Powder 2 group, plus 1 spare.
 
-- **Header:** "Recording sheet: Powder 2 记录表：粉末2 | Evidence 3 | Group ____ | Recorder ________"
-- **Control box:** "Same for every sample 每个样本相同: pea-sized spoonful | clean spoon | vinegar 5 drops | iodine 1 drop | water a third of a cup"
-- **Table** (5 rows for Pair 1, and an identical table beneath headed "Repeat 重复" for Pair 2)
+- **Header:** "Recording sheet: Powder 2 记录表：粉末2 | Evidence 3 证据3 | Group 小组 ____ | Recorder 记录员 ________"
+- **Control box:** "Same for every sample 每个样本相同: pea-sized spoonful 豌豆大小的一勺 | clean spoon 干净的勺子 | vinegar 5 drops 白醋5滴 | iodine 1 drop 碘液1滴 | water a third of a cup 水三分之一杯"
+- **Table** (5 rows for Pair 1 第1对, and an identical table beneath headed "Repeat 重复" for Pair 2 第2对)
 
-| Sample 样本 | Magnifier: crystals or fine powder? 放大镜：晶体还是细粉？ | Water: dissolves / cloudy / settles? 水 | Vinegar: fizz? 醋：冒气泡？ | Iodine: blue-black? 碘液：蓝黑色？ | Contains 含有 |
+| Sample 样本 | Magnifier: crystals or fine powder? 放大镜：晶体还是细粉？ | Water: dissolves / cloudy / settles? 水：溶解／浑浊／沉降？ | Vinegar: fizz? 白醋：冒气泡？ | Iodine: blue-black? 碘液：蓝黑色？ | Contains 含有 |
 |---|---|---|---|---|---|
-| Baking soda (pure) 纯小苏打 | | | | | baking soda |
-| K1 Baking soda + cornflour | | | | | baking soda + cornflour |
-| K2 Salt + flour | | | | | salt + flour |
+| Baking soda (pure) 纯小苏打 | | | | | baking soda 小苏打 |
+| K1 Baking soda + cornflour 小苏打＋玉米淀粉 | | | | | baking soda + cornflour 小苏打＋玉米淀粉 |
+| K2 Salt + flour 食盐＋面粉 | | | | | salt + flour 食盐＋面粉 |
 | X Mystery mixture 神秘混合物X | | | | | |
 | Evidence 3 (scene) 证据3 | | | | | |
 
-- **Footer:** "Mixture X contains ________ and ________ because ________ . The scene powder is: pure baking soda / a mixture (circle one) because ________ ."
+- **Footer:** "Mixture X contains ________ and ________ because ________ . 混合物X含有________和________，因为________。 The scene powder is: pure baking soda / a mixture (circle one) because ________ . 现场粉末是：纯小苏打／混合物（圈出一个），因为________。"
+- **Picture cues:** a small icon beside each column heading (magnifier, cup of water, dropper with bubbles, dropper with a dark well, pot) so the Recorder can follow the sheet without reading.
 
 ### 6.6 Backup lab report cards (teacher only)
 
 Create an A4 portrait sheet of four backup lab report cards (A6 each, 2 by 2, with cut lines) for the Think Like a Scientist Science Detectives series, black-and-white printable, styled like the Week 2 Fingerprint File ("LAB REPORT 实验报告" stamp). Print: 1 sheet, kept in the teacher's folder; hand a card out only if a group's own test failed.
 
-Each card header: "Forensic lab report 法庭科学实验室报告 | Backup result". Footer on each: "Use this as a second source. Report your own results too, and say what may have gone wrong. 作为第二来源使用。也要报告你们自己的结果，并说明可能的问题。"
+Each card header: "Forensic lab report 法庭科学实验室报告 | Backup result 备用结果". Footer on each: "Use this as a second source. Report your own results too, and say what may have gone wrong. 作为第二来源使用。也要报告你们自己的结果，并说明可能的问题。"
 
-- **Soil:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)."
-- **Paper:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)."
-- **Ink 2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." (Attach your dried pre-test strips.)
-- **Powder 2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found."
+- **Soil:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口旁花坛的土壤匹配。
+- **Paper:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)." 概要：现场纸巾与实验室自己的纸巾匹配。
+- **Ink 2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Attach your dried pre-test strips.)
+- **Powder 2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found." 概要：现场粉末与纯小苏打相同，不是混合物。
 
 ## 7. Notes for the incoming teacher
 
