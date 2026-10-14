@@ -66,7 +66,7 @@ Chinese text status: draft, needs native-speaker check
 | strength | 强度 | how much force something can take before it breaks | Y7 W6, Y7 W7, Y7 W8 |  |
 | composite material | 复合材料 | a material made by mixing two or more materials, so it is better than each one alone | Y7 W7 |  |
 | reinforce | 加固 | to make something stronger by adding something to it | Y7 W7 |  |
-| brittle | 脆的（易碎的） | breaks suddenly into pieces, like glass or ice | Y7 W7, Y7 W8 |  |
+| brittle | 脆的 | breaks suddenly into pieces, like glass or ice | Y7 W7, Y7 W8 | Short form everywhere, including the Key words tables; the meaning carries 易碎 |
 | sawdust | 木屑 | tiny pieces of wood made when wood is cut | Y7 W7 |  |
 | mould | 模具 | a container that gives something its shape when it sets | Y7 W7 |  |
 | sample | 样品 | one of the things we make to test | Y7 W7, Y7 W8 |  |
@@ -210,7 +210,8 @@ Chinese text status: draft, needs native-speaker check
 | Observation (O) / Inference (I) | 观察（O） / 推断（I） | keep the letters O and I |
 | Opinion / Evidence | 观点 / 证据 |  |
 | Strong / Supporting / Weak (evidence) | 有力 / 支持性 / 薄弱 |  |
-| Agree / Disagree | 同意 / 不同意 |  |
+| Agree / Disagree (a person agrees) | 同意 / 不同意 | survey, discussion |
+| agree / disagree (results or conclusions agree with each other) | 一致 / 不一致 | Y7 W10 word bank; matches Y8 consistent 一致的 |
 | because | 因为 |  |
 | Lead Scientist | 首席科学家 | group role |
 | Measurer | 测量员 | group role |
@@ -218,7 +219,7 @@ Chinese text status: draft, needs native-speaker check
 | Safety Officer | 安全员 | group role |
 | Reporter | 汇报员 | group role |
 | Language buddy | 语言伙伴 | new routine |
-| Scientist's Logbook | 科学家日志 | A5 booklet |
+| Scientist's Logbook | 科学日志 | A5 booklet (existing programme usage; the outline and Teacher Guide use the same) |
 | What I did / What I found / New words / A question I still have | 我做了什么 / 我发现了什么 / 新词汇 / 我还想知道 | logbook page |
 | Case file | 案件档案 | Year 8 |
 | Evidence log | 证据记录 | Year 8 |
@@ -306,8 +307,9 @@ Write the English frame first, then the Chinese frame with the same gaps.
 | I change ___. I measure ___. I keep ___ the same. | 我改变___。我测量___。我保持___不变。 | Y7 W3, Y7 W7, Y8 W7 |
 | We must keep ___ the same because ___. | 我们必须保持___不变，因为___。 | Y7 W3, Y8 W7 |
 | Test ___ is the odd one out because ___. | 测试___是不同的那一个，因为___。 | Y7 W3 |
-| The mean is ___ because ___. | 平均值是___，因为___。 | Y7 W4 |
-| ___ is an anomaly because ___. | ___是异常值，因为___。 | Y7 W4, Y7 W8 |
+| The anomaly is ___ because ___. | 异常值是___，因为___。 | Y7 W4 |
+| I will leave it out of the mean because ___. | 我算平均值时不用它，因为___。 | Y7 W4 |
+| ___ is an anomaly because ___. | ___是异常值，因为___。 | Y7 W8 |
 | As the ___ increases, the ___ increases / decreases. | 随着___增加，___增加／减少。 | Y7 W5, Y7 W9 |
 | Our results show ___. | 我们的结果显示___。 | Y7 W5, Y7 W9 |
 | I think ___ because ___. | 我认为___，因为___。 | Y7 W6 |
@@ -326,8 +328,58 @@ Write the English frame first, then the Chinese frame with the same gaps.
 
 ## Part 5. Added during the language pass
 
-Editors add any new pairing here (English | 中文 | file where first used). Keep it alphabetical.
+Editors add any new pairing here (English | 中文 | file where first used). Keep it alphabetical. Where one English word has two senses, both are listed with the sense in brackets.
 
 | English | 中文 | First used |
 |---|---|---|
-| (none yet) | | |
+| ball / ball size / bounce height | 球 / 球的大小 / 弹起高度 | Y7 W3 exit ticket |
+| bird / fox / feather / wing marks / hopping / running | 鸟 / 狐狸 / 羽毛 / 翅膀印 / 跳跃 / 奔跑 | Y7 W1 footprint puzzle |
+| card / type of card | 卡纸 / 卡纸类型 | Y7 W3 |
+| certificate | 证书 | Y7 W10, Y8 W10 |
+| control cup (the comparison cup with no wrapping) | 对照杯 | Y7 W6 |
+| control sample / the control (plain ice, 0 g fibre) | 对照样品 | Y7 W7, Y7 W8, Y7 W9 |
+| crack / cracks | 裂纹 | Y7 W8, Y7 W9 |
+| Dropper (group job in the spinner test) | 投放员 | Y7 W3, Y7 W4 |
+| drop height / release height | 下落高度 | Y7 W3, Y7 W4 |
+| experiment | 实验 | Y7 W2 |
+| faster / slower | 更快 / 更慢 | Y7 W2 |
+| fall time / mean fall time | 下落时间 / 平均下落时间 | Y7 W3, Y7 W4 |
+| feedback slip / peer feedback slip | 反馈条 / 同伴反馈条 | Y7 W10, Y8 W10 |
+| foil trough / mould | 铝箔槽 / 模具 | Y7 W7 |
+| gallery walk | 展览漫步 | Y7 W10 |
+| heavy / light (mass) | 重的 / 轻的 | Y7 W2 |
+| hold together | 连在一起不散开 | Y7 W9 |
+| Ice cube rescue / Keep it warm / The ice ship mission / Test day / Straw-brick science (titles) | 冰块救援 / 保温 / 冰船任务 / 测试日 / 草砖科学 | Y7 W6 to W8 |
+| length / time (single word bank items) | 长度 / 时间 | Y7 W3 |
+| measuring cylinder | 量筒 | Y7 W6, Y7 W8 |
+| melting test / strength test | 熔化测试 / 强度测试 | Y7 W8 |
+| melts more slowly | 熔化得更慢 | Y7 W9 |
+| more / less / more spread out | 更多 / 更少 / 更分散 | Y7 W3, Y7 W9 |
+| mud brick / straw | 泥砖 / 稻草 | Y7 W7 |
+| My prediction | 我的预测 | Y7 W3 |
+| next time | 下次 | Y7 W9 |
+| not testable | 不可检验的 | Y7 W2 |
+| Notes (table heading) | 备注 | Y7 W3, Y7 W4 |
+| number (of values) / total | 数据个数 / 总和 | Y7 W4 |
+| number of paper clips / how we let go | 回形针数量 / 放手的方式 | Y7 W3 |
+| Odd one out | 找不同 | Y7 W3 |
+| Order of talks | 发言顺序 | Y7 W10 |
+| paper clip | 回形针 | Y7 W3 |
+| Picture sort | 图片分类 | Y7 W3 |
+| pour cup / catch tray | 倒水杯 / 接水盘 | Y7 W8 |
+| Pykrete | 派克瑞特（木屑冰） | Y7 W7 |
+| question card / talk frame card | 问题卡 / 发言框架卡 | Y7 W10 |
+| rig (strength test rig) / span | 测试架 / 跨距 | Y7 W8 |
+| same / fair / because (word bank items) | 相同 / 公平 / 因为 | Y7 W3 |
+| same time | 同时 | Y7 W2 |
+| short wings / long wings | 短翼 / 长翼 | Y7 W3 |
+| solid line / dashed line / dotted line / trim line | 实线 / 虚线 / 点线 / 修剪线 | Y7 W3 template |
+| snapped (past tense in results) | 断裂了 | Y7 W8 |
+| start temperature / end temperature / temperature drop | 起始温度 / 结束温度 / 温度下降 | Y7 W6 |
+| start time / end time | 开始时间 / 结束时间 | Y7 W6 |
+| stopwatch | 秒表 | Y7 W3, Y7 W4 |
+| stronger / weaker | 更强 / 更弱 | Y7 W9 |
+| Test A / B / C / D (card label) | 测试A / 测试B / 测试C / 测试D | Y7 W3 |
+| too high / too low | 太高 / 太低 | Y7 W9 |
+| word (category) / number (value) / group (category) | 文字 / 数值 / 类别 | Y7 W5 bar or line decision |
+| x-axis / y-axis / cross (plotting mark) | 横轴（x轴） / 纵轴（y轴） / 叉号 | Y7 W5 |

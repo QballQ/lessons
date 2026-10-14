@@ -141,8 +141,9 @@ Create an A4 portrait, black-and-white-printable poster "Sentence frames 句型�
 | 3 | It is / is not fair because ___. | 它公平／不公平，因为___。 | It is not fair because they drop from different heights. |
 | 3 | I change ___. I measure ___. I keep ___ the same. | 我改变___。我测量___。我保持___不变。 | I change the wing length. I measure the fall time. I keep the drop height the same. |
 | 3 | We must keep ___ the same because ___. | 我们必须保持___不变，因为___。 | We must keep the drop height the same because higher drops take longer. |
-| 4 | ___ is an anomaly because ___. | ___是异常值，因为___。 | 4.9 s is an anomaly because the other times are about 2.5 s. |
-| 4 | The mean is ___ because ___. | 平均值是___，因为___。 | The mean is 2.5 s because 2.4 + 2.6 + 2.5 = 7.5, and 7.5 ÷ 3 = 2.5. |
+| 4 | The anomaly is ___ because ___. | 异常值是___，因为___。 | The anomaly is 4.9 s because the other times are about 2.5 s. |
+| 4 | I will leave it out of the mean because ___. | 我算平均值时不用它，因为___。 | I will leave it out of the mean because one wrong reading would move the mean. |
+| 8 | ___ is an anomaly because ___. | ___是异常值，因为___。 | 150 ml is an anomaly because the other strips held about 300 ml. |
 | 5 | As the ___ increases, the ___ increases / decreases. | 随着___增加，___增加／减少。 | As the wing length increases, the fall time increases. |
 | 5 | Our results show ___. | 我们的结果显示___。 | Our results show longer wings fall more slowly. |
 | 6 | I think ___ because ___. | 我认为___，因为___。 | I think wool keeps the ice frozen longest because it traps air. |

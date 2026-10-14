@@ -7,7 +7,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 0. How to use (for the teacher)
 
-- Hand the booklet out in Week 1 together with the Scientist's Logbook 科学家日志. Students write their name and class on the cover. Keep the 4 spares with the logbook spares for students who join late or lose theirs.
+- Hand the booklet out in Week 1 together with the Scientist's Logbook 科学日志. Students write their name and class on the cover. Keep the 4 spares with the logbook spares for students who join late or lose theirs.
 - When a key word comes up in a lesson, point to its page. Say the English word; a student reads the Chinese and the Chinese meaning aloud. This is the "Point to the dictionary" routine in Teacher Guide Section 4 and Language Access Policy Section 9.
 - In the last minute of Think and Reflect 思辨与反思, when there is time, students write their own example on the "My example 我的例子" line for one or two of that day's words. An example can be a sentence, a phrase or a drawing with a label.
 - A Band 1 student may write the example in Chinese. Praise the English key word, accept the Chinese sentence. Do not correct spelling in the booklet; it is the student's own record.
@@ -138,7 +138,7 @@ Also this week 本周还会用到: air resistance 空气阻力 (Week 2)
 | composite material | 复合材料 | a material made by mixing two or more materials, better than each one alone | 两种以上材料混合成的材料，比单用更好 | a block with thin threads running through it |
 | reinforce | 加固 | to make something stronger by adding something to it | 加上别的东西，让它更结实 | a strip with a thicker band added along it and a small plus sign |
 | fibre | 纤维 | a thin thread, like the bits in wood, paper or cotton | 细细的丝，比如木头、纸或棉花里的 | three thin wavy threads |
-| brittle | 脆的（易碎的） | breaks suddenly into pieces, like glass or ice | 会突然碎成小块，比如玻璃或冰 | a stick snapping with two small pieces flying off |
+| brittle | 脆的 | breaks suddenly into pieces, like glass or ice | 会突然碎成小块，比如玻璃或冰 | a stick snapping with two small pieces flying off |
 | strength | 强度 | how much force something can take before it breaks | 东西断裂前能承受多大的力 | a strip held at both ends with a weight hanging from the middle, no crack |
 | sawdust | 木屑 | tiny pieces of wood made when wood is cut | 锯木头时产生的小木粒 | a hand saw with a small pile of dots under it |
 | mould | 模具 | a container that gives something its shape when it sets | 东西凝固时，给它形状的容器 | a small open trough with a dashed outline of a strip inside it |
@@ -195,7 +195,7 @@ Heading "Index 索引". Every word in the booklet in alphabetical order, set in 
 | audience | 观众 | 10 |
 | axis (axes) | 坐标轴 | 5 |
 | bar chart | 条形图 | 5 |
-| brittle | 脆的（易碎的） | 7 |
+| brittle | 脆的 | 7 |
 | catch tray | 接水盘 | 8 |
 | claim | 主张 | 9 |
 | class mean | 全班平均值 | 9 |
@@ -325,7 +325,7 @@ The same data as the booklet, 74 entries, for quick printing without design. Mea
 | 7 | composite material | 复合材料 | a material made by mixing two or more materials, better than each one alone | 两种以上材料混合成的材料，比单用更好 |
 | 7 | reinforce | 加固 | to make something stronger by adding something to it | 加上别的东西，让它更结实 |
 | 7 | fibre | 纤维 | a thin thread, like the bits in wood, paper or cotton | 细细的丝，比如木头、纸或棉花里的 |
-| 7 | brittle | 脆的（易碎的） | breaks suddenly into pieces, like glass or ice | 会突然碎成小块，比如玻璃或冰 |
+| 7 | brittle | 脆的 | breaks suddenly into pieces, like glass or ice | 会突然碎成小块，比如玻璃或冰 |
 | 7 | strength | 强度 | how much force something can take before it breaks | 东西断裂前能承受多大的力 |
 | 7 | sawdust | 木屑 | tiny pieces of wood made when wood is cut | 锯木头时产生的小木粒 |
 | 7 | mould | 模具 | a container that gives something its shape when it sets | 东西凝固时，给它形状的容器 |
