@@ -32,7 +32,7 @@ Row 1 of every class tab holds the column headings. Row 2 onwards holds one stud
 | D | Group W1 to 5 | Text, for example "G3" | Week 1 | Skills-phase group |
 | E | Role W1 to 5 | Lead / Measurer / Recorder / Safety / Reporter | Week 1 | Starting role (roles rotate weekly) |
 | F | Project group W6 to 10 | Text | Week 6 | Project group, if different from column D |
-| G | Language support | Y or blank | Week 1 | Y = needs extra English support (from Week 1 to 2 observation) |
+| G | Language band (1, 2 or 3) | 1, 2, 3 or blank | Weeks 1 to 2 | Language band from the Language access policy (`00_Language_Support/Language_Access_Policy.md`, Section 2): 1 = nearly no English, 2 = some English with support, 3 = conversational. For planning seating, buddies and starting tier; never shown to students |
 | H | Access arrangement | Text, for example "reader" | Week 1 | Must be the same in Weeks 1 and 10 for growth to count |
 | I | W1 skills check (/20) | Whole number 0 to 20 | Week 1 | Blank if absent. Type "ABS" in column AM notes |
 | J to O | W1 survey S1 to S6 | Whole number 1 to 5 | Week 1 | One column per statement: J = S1 ... O = S6 |
@@ -98,7 +98,7 @@ Students whose access arrangement changed between Weeks 1 and 10 are not eligibl
 - Q: whole number between 0 and 12.
 - J to O and U to Z: whole number between 1 and 5.
 - AC to AH: list from Lists!A:A.
-- E: list from Lists!B:B. G and AL: list from Lists!C:C.
+- E: list from Lists!B:B. G: list from Lists!D:D (1, 2, 3). AL: list from Lists!C:C.
 
 **Conditional formatting (greyscale-safe: use bold, italics and light grey fill, not colour alone)**
 - T (Growth): bold if 4 or more; italic with light grey fill if less than 0 (check the student and the marking).

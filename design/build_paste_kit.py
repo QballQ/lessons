@@ -102,6 +102,21 @@ for n in range(1, 11):
         items.append({"heading": f"{code} {name} {zh}", "sub": title, "file": rel, "blocks": blocks, "series": code})
     groups.append({"id": f"w{n}", "tab": f"Week {n}", "title": f"Week {n}", "note": WEEK_NOTES.get(n, ""), "items": items})
 
+# Language support (Years 7 and 8)
+l_items = []
+for rel, label, sub in [
+    ("00_Language_Support/Language_Support_Printables.md", "Language support printables", "Instruction words key, classroom language card, frame banks, role cards with duties, Think in any language poster"),
+    ("00_Language_Support/My_Science_Dictionary_Y7.md", "My Science Dictionary, Year 7", "A5 booklet, one per student"),
+    ("00_Language_Support/My_Science_Dictionary_Y8.md", "My Science Dictionary, Year 8", "A5 booklet, one per student"),
+]:
+    if not os.path.exists(os.path.join(ROOT, rel)):
+        continue
+    _, blocks = paste_blocks(rel)
+    l_items.append({"heading": label, "sub": sub, "file": rel, "blocks": blocks})
+groups.append({"id": "lang", "tab": "Language support", "title": "Language support pack (Years 7 and 8)",
+               "note": "Added October 2026. Paste these after the brand and before the weekly blocks. The brief (Part 2) describes the Today slide, paired lines, Key idea band and worksheet additions that every Year 7 and 8 block now expects.",
+               "items": l_items})
+
 # Assessment
 a_items = []
 for rel, label in [

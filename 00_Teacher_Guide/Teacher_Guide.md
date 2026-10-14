@@ -49,7 +49,7 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 |---|---|
 | Same lesson shape every week | Five phases, same order, same icons. Students know what comes next. |
 | Low floor, high ceiling | Every task has a way in for students with less English (Core) and a way up (Stretch, Challenge). |
-| Bilingual by design | Key words in English and Chinese; instructions in English with key words glossed; safety lines in full in both languages. |
+| Bilingual by design | Years 7 and 8: learning goals, instructions, questions, frames, labels and word banks in English and Chinese; Learn content in English with a Chinese key idea; safety in full in both languages (see Section 4 and `00_Language_Support/`). Year 9: key words bilingual, instructions in English with key words glossed. |
 | Kitchen-cupboard kit | Cheap, everyday materials. No specialist equipment. |
 | Winter thread | Ice structures (Y7), a frozen-notebook mystery (Y8), winter claims (Y9). |
 | Handover-ready | Every lesson has a one-page plan, a kit card, an answer key and notes for you. |
@@ -186,62 +186,92 @@ In a group of 3, the Lead Scientist also reports (outline rule). In a group of 4
 
 ## 4. Teaching second-language learners
 
-### The bilingual approach
+> **Changed in October 2026 for Years 7 and 8.** Feedback from the first Year 7 and Year 8 lessons was that students could not tell what the lesson was for or what a task was asking. The materials for Years 7 and 8 now follow `00_Language_Support/Language_Access_Policy.md`. This section summarises it. Year 9 keeps the earlier approach for now.
 
-- **Vocabulary is bilingual; instructions are English with key words glossed.** Full translation would let students read only the Chinese, so most text stays in English.
-- **Safety instructions are given in full in both languages**, on the safety slide and the kit card. Read them aloud.
-- **6 to 10 key words per lesson**, shown English | 中文 in a vocabulary panel on every slide and worksheet, and recycled in the next Do Now.
-- **"Think in any language, record key words in English."** Pair talk in Chinese is welcome in Think phases and wherever the lesson plan says so. Reporting back uses English sentence frames.
-- **Mark the science, not the English.** Communication is judged on clarity of the science, not grammar or accent. A strong idea explained in Chinese with key words in English can reach Secure 达标 or Excellent 优秀.
+### The language access approach (Years 7 and 8)
+
+- **Translate the frame, not the content.** Everything that tells a student what the lesson is for, what to do, what to answer and how to stay safe is fully bilingual: learning goals, instructions, question stems, sentence frames, labels, word banks, safety. The science content (Learn explanations, reading texts) stays in English with a one-line Chinese key idea or gist, so students still read and hear English science every lesson.
+- **English first, Chinese beneath.** The English is the larger line; the Chinese sits beneath in a lighter weight. A fluent student reads the English and ignores the Chinese; a student with almost no English reads the Chinese and still sees the English every time.
+- **Every lesson starts with a Today slide** (after the Do Now): "Today I can ... 今天我能……", the two goals in both languages, and the key words. Read the English; a student reads the Chinese. The exit ticket ends with the same two goals as tick boxes, so students judge their own progress.
+- **Answers in any language count.** Core tasks may be answered in Chinese, using the English key words from the bilingual word bank. Stretch and Challenge invite English with the frames; reasons may be in Chinese. We judge the science, not the English.
+- **One Chinese term per English term.** `00_Language_Support/Glossary_Y7_Y8.md` is the locked list. If a native speaker changes a term, change the glossary first and then every file.
+
+### Language bands (planning only)
+
+After Weeks 1 to 2, record a band for each student in the tracker (column G): **1** nearly no English (cannot follow a spoken instruction or read a sentence), **2** some English with support, **3** conversational. Bands decide seating, language buddies and the tier a student starts on. They are never told to students and are not ability groups: a Band 1 student can reach Challenge and Excellent 优秀 by thinking in Chinese and using English key words.
+
+### Three routines that make the translation work
+
+1. **Say, show, check.** Read the English line. A student reads the Chinese line. Thumbs up, sideways or down: "Do you know what to do?" Start only when most thumbs are up, and go to the sideways and down thumbs first. Use it on the Today slide and every Do slide.
+2. **Language buddies 语言伙伴.** Seat each Band 1 student beside a Band 3 student. The buddy explains the task in Chinese and helps the partner say the answer in English; the buddy never writes the partner's answer. The buddy card is in the role card set. Rotate buddies every three weeks or so.
+3. **Rehearse before reporting.** Think in Chinese, say it to a partner with the English frame, then say it to the class. The frame cards are on the table; the frame poster is on the wall.
+
+### The language support pack (`00_Language_Support/`)
+
+| Resource | What it does |
+|---|---|
+| Instruction words key 指令词 (A3 poster and a strip on every worksheet) | 44 task words (tick, circle, match, measure ...) with an icon, English and Chinese |
+| Classroom language card 课堂用语卡 (A5 per student, A3 poster) | Teacher routine phrases and student help phrases: "I do not understand", "Can you say that again?", "Can I say it in Chinese?" |
+| Sentence frame bank 句型框架 (A4 poster per series, A6 cards per group) | Every frame in the series with its Chinese and a filled example |
+| Group role cards with duties, plus a Language buddy card | Each role's three duties in both languages |
+| Think in any language poster | "Think in any language. Science words in English. We judge the science, not the English." |
+| My Science Dictionary 我的科学词典 (A5 booklet per student, per series) | Every key word with Chinese, a simple meaning in both languages, an icon and a line for the student's own example. Open in every lesson and the checkpoint; closed for the skills check |
+
+Print the pack before the next lesson (see Section 8). Walk the class through the Instruction words key and the Classroom language card in two minutes, then repeat in the next two Do Nows.
 
 ### Tiers: Core 基础, Stretch 提高, Challenge 挑战
 
 Tiers are **not** ability groups. Every student starts with Core and moves up when ready. A student with strong science and limited English can reach Challenge using frames and the My thinking box. Do not assign tiers by name.
 
-| Tier | Typical tasks |
-|---|---|
-| Core 基础 | Cloze, gap fill with a word bank, matching, labelling, sorting, completing a table |
-| Stretch 提高 | Explanations with sentence frames, short answers, completing a graph |
-| Challenge 挑战 | Open questions, designing a test, predicting and justifying, critical-thinking prompts |
+| Tier | Typical tasks | Language |
+|---|---|---|
+| Core 基础 | Cloze, gap fill with a word bank, matching, labelling, sorting, completing a table | Instructions bilingual; answers in Chinese or English with the English key words; must be doable by a Band 1 student with the Chinese instruction, the picture and the word bank |
+| Stretch 提高 | Explanations with sentence frames, short answers, completing a graph | Question bilingual; English with frames encouraged; reasons may be in Chinese |
+| Challenge 挑战 | Open questions, designing a test, predicting and justifying, critical-thinking prompts | Question bilingual; English encouraged; reasoning in Chinese accepted and judged on the science |
 
 ### Sentence frames
 
-Each lesson plan lists its frames; slides show them in the Think phase. The core set:
+Each lesson plan lists its frames; slides show them in the Think phase, English first and the Chinese frame beneath with the same gaps. The full bank with examples is in `00_Language_Support/Language_Support_Printables.md`, Section 3. The core set:
 
 | Year 7 | Year 8 | Year 9 |
 |---|---|---|
-| I observe ___. I infer ___ because ___. | The evidence shows ___. This supports / does not support ___ because ___. | The data suggests ___; however, ___. |
-| I predict ___ because ___. | This sample matches ___ because ___. | To be more confident, we would need ___. |
-| As the ___ increases, the ___ ___. | This evidence is strong / weak because ___. | This could also be explained by ___. |
-| If I did it again, I would ___. | One problem with this evidence is ___. | Our verdict is ___ because ___. |
+| I observe ___. I infer ___ because ___. 我观察到___。我推断___，因为___。 | The evidence shows ___. This supports / does not support ___ because ___. 证据显示___。这支持／不支持___，因为___。 | The data suggests ___; however, ___. |
+| I predict ___ because ___. 我预测___，因为___。 | This sample matches ___ because ___. 这个样本与___匹配，因为___。 | To be more confident, we would need ___. |
+| As the ___ increases, the ___ ___. 随着___增加，___。 | This evidence is strong / weak because ___. 这个证据有力／薄弱，因为___。 | This could also be explained by ___. |
+| If I did it again, I would ___. 如果再做一次，我会___。 | One problem with this evidence is ___. 这个证据的一个问题是___。 | Our verdict is ___ because ___. |
 
 Point to the frame, say it once with the gap filled, then let students try. Leave frames on the board.
 
 ### The My thinking box (any language, 可用中文)
 
-Every worksheet has a dashed "My thinking" box with one question. Students may answer in Chinese, English or both. Use it to see what students understand when their English cannot yet show it. It counts as evidence for the rubric. The fold-under word bank at the foot of the worksheet is a choice, not a crutch: students decide whether to look.
+Every worksheet has a dashed "My thinking 我的想法" box with one question in both languages. Students may answer in Chinese, English or both. Use it to see what students understand when their English cannot yet show it. It counts as evidence for the rubric. The fold-under word bank at the foot of the worksheet (every item English 中文) is a choice, not a crutch: students decide whether to look.
 
 ### Vocabulary traps
 
-Each lesson plan lists likely traps (for example "mean" as average, "light" meaning not heavy, "range" as one number, "blind test"). Check the list before teaching; it takes one minute and saves ten.
+Each lesson plan lists likely traps (for example "mean" as average, "light" meaning not heavy, "range" as one number, "blind test"). Check the list before teaching; it takes one minute and saves ten. The dictionary booklet gives every key word a Chinese meaning, so point to the page when a trap comes up.
 
 ### What to do with a silent student
 
 1. Silence is normal in the first weeks of a second-language class. Do not single the student out in front of the class.
-2. Give a role that needs action more than talk: Measurer or Recorder.
-3. Allow rehearsal: pair talk in Chinese first, then the frame in English to a partner, then (later) to the class.
-4. Accept non-verbal answers: thumbs, O/I gestures, vote cards, pointing to the word on the vocabulary panel.
-5. Read the My thinking box and the exit ticket: the student may understand far more than they say.
-6. For talks in Week 10, let the student present the part with numbers or a graph, with a cue card. Note in the tracker (column G, "Language support") and in the report comment what helped.
+2. Check the band. A Band 1 student who is silent may simply not know what was asked: point to the Chinese line on the slide, or ask the language buddy to explain.
+3. Give a role that needs action more than talk: Measurer or Recorder.
+4. Allow rehearsal: pair talk in Chinese first, then the frame in English to a partner, then (later) to the class.
+5. Accept non-verbal answers: thumbs, O/I gestures, vote cards, pointing to the word on the vocabulary panel or in the dictionary.
+6. Read the My thinking box and the exit ticket: the student may understand far more than they say.
+7. For talks in Week 10, let the student present the part with numbers or a graph, with a cue card. Note in the tracker (column G, band; column AM, notes) and in the report comment what helped.
 
 ### How to stretch a fluent student
 
-1. Move them to Challenge as soon as Core is secure; do not hold them on Core to "help others".
+1. Move them to Challenge as soon as Core is secure; do not hold them on Core to "help others". Being a language buddy is a short daily routine, not a job that replaces their own work.
 2. Ask for precision: "What exactly would show you were wrong?", "How confident are you, and why?", "What else could explain it?"
-3. Give them a vocabulary job: add two new words to the class glossary with a student-friendly meaning.
+3. Give them a vocabulary job: add two new words to the class glossary with a student-friendly meaning, or fill the "Words I found by myself" page of the dictionary.
 4. Ask them to model a frame, then to answer without one.
 5. In projects, ask for a second variable, a wider range, more repeats or an uncertainty estimate.
 6. Keep them inside the group: as Reporter, they must explain the group's reasoning, not their own.
+
+### A translation app or a Chinese-speaking colleague
+
+Both are fair access tools for a Band 1 student stuck on a Stretch or Challenge question, and for parents' questions. Do not use them to translate whole worksheets on the fly: the materials already carry the Chinese that is needed. If one is used during the Week 5 checkpoint, note it in the tracker notes column.
 
 ---
 
@@ -331,7 +361,7 @@ File: `00_Tracker/Think_Like_a_Scientist_Tracker.xlsx`, **one tab per class** (f
 
 | When | Columns to fill | Notes |
 |---|---|---|
-| Week 1 | A to E (number, names, group, starting role); G (language support, after Weeks 1 to 2); H (access arrangement); I (W1 skills check /20); J to O (W1 survey S1 to S6) | Blank if absent; write "ABS" in Notes (AM) |
+| Week 1 | A to E (number, names, group, starting role); G (language band 1, 2 or 3, after Weeks 1 to 2); H (access arrangement); I (W1 skills check /20); J to O (W1 survey S1 to S6) | Blank if absent; write "ABS" in Notes (AM) |
 | Week 5 | Q (W5 checkpoint /12) | Before the handover note. Column R flags below 40% with grey fill |
 | Week 6 | F (project group, if different) | |
 | Week 10 | S (W10 skills check /20); U to Z (W10 survey); AC to AH (strand levels B, D, S, E, N); AL (certificate printed) | |
@@ -430,6 +460,7 @@ Do the items in each row **during that week**, ready for the lessons named. Time
 | Week (w/c) | Year 7 | Year 8 | Year 9 | All years |
 |---|---|---|---|---|
 | Before Week 1 (by 9 Oct) | Print footprint puzzle stage cards; envelopes per group (Stage 2 and 3 kept on teacher desk) | Print and collate case files, one per student: cover, briefing with sign-in sheet, scene map, suspect cards, evidence log (25 min). Buy four brands of black washable felt-tip pens, two of each | Print and cut 6 claim card sets (16 cards) on card; 6 A3 sorting mats (25 min) | **Order the kit** on the outline's "Buy" list (sawdust, moulds, coffee filters, pens, soft pencils, tape, white card, bags, string, cotton wool, foil, bubble wrap, paper clips, kitchen roll, A3 paper, sticky notes) plus 24 identical pens for Y9 W5. **Book printing** for Weeks 1 to 5. Print skills checks, surveys, logbooks, role cards, name cards. Count thermometers. Collect allergy list. Ask about freezer space. Send Chinese text for native-speaker check. Ask staff and students to collect rinsed 250 ml cartons, jars with lids, fabric scraps |
+| **As soon as possible (language pass, Oct 2026)** | Reprint Weeks 2 to 5 worksheets from the updated files once designed; the Today slide is now in every deck | Reprint Weeks 2 to 5 worksheets from the updated files once designed; Chinese read-aloud version of the case story is in the Case Bible, Section 2 | No change | **Print the language support pack** (`00_Language_Support/Language_Support_Printables.md`): Instruction words poster, Classroom language cards (1 per student, laminated) and A3 poster, frame posters and card sets, role cards with duties and buddy cards, Think in any language poster; print My Science Dictionary booklets (1 per student per series). Record language bands in tracker column G after two lessons. Seat language buddies. Send the new Chinese for native-speaker check in the priority order of the policy, Section 11 |
 | Week 1 (12 Oct) | For W2: make 12 mystery cups (15 min); print and cut question sort cards; find a hardback book and practise the paper-on-book drop | **Run the pen pre-test** (about 20 min; Case Bible Section 11): check four clearly different patterns, label pens A to D, keep dried strips as answer key; write the note with pen B. For W2: print fingerprint record cards on white card and the Fingerprint File | For W2: print anchoring slips (alternate versions), illusion sheets at 100% (check lines measure 80 mm), tally sheet; draw YES / NO columns | Mark Week 1 skills checks; enter tracker columns I to O; **file the papers, do not return them** |
 | Week 2 (19 Oct) | For W3: **print spinner templates on 160 gsm card** (1 per group plus 3 spares); mark 2.0 m and 1.8 m on the wall at six stations away from vents (10 min); make and test demo S and L spinners | For W3: cut coffee-filter strips (2 cm by 10 cm); make note ink "N" strips with pen B, one per group plus 2 spares (10 min per class) | For W3: print and laminate ruler-drop method cards and conversion tables (reused for claim 12); cut the PRIZE strip; check 0 cm mark on rulers | Book printing for Weeks 3 to 5 |
 | Week 3 (26 Oct) | For W4: check every spinner envelope, rebuild damaged spinners (10 min); re-press wall marks; print 6 sample data cards | For W4: check allergy list (wheat flour, corn); fill and label powder pots and baking soda evidence bags; test scene powder fizzes with vinegar; decide on iodine (15 min) | For W4: print 6 matching card sets on card, sample data cards, Fix the graph sheets; board data table; shoes rule; 6 tape measures and hardback books | Order red cabbage, lemon juice, plain bar soap and bottled water for Y8 W5 |
@@ -548,6 +579,12 @@ lessons/
     Teacher_Guide.md                This guide
   00_Tracker/
     Think_Like_a_Scientist_Tracker.xlsx   Progress tracker, one tab per class
+  00_Language_Support/
+    Language_Access_Policy.md       What is bilingual, what is not, and why (Years 7 and 8)
+    Glossary_Y7_Y8.md               Locked English to Chinese terms, labels, instruction words, frames
+    Language_Support_Printables.md  Instruction words key, classroom language card, frame bank, role cards, poster
+    My_Science_Dictionary_Y7.md / _Y8.md   A5 vocabulary booklets, one per student
+    Audit_Y7_Y8.md                  The October 2026 review of translation coverage, file by file
   outline/
     Programme_Outline.md            Source of truth for the programme design
     programme-outline.html          The same outline as a designed page for sharing
@@ -597,6 +634,9 @@ Lesson files are named by year and week, for example `Y7_W03_Meet_the_variables.
 | The freezer is unavailable or fails mid-project | Switch to Plan B (Section 7). If Y7 samples are lost after Week 7, run the Week 8 test as Plan B dough strips a week later or use the melting test on fresh ice cubes; record on the tracker notes and tell the lead. |
 | Thermometers are short | Pool readings: one thermometer per two groups, or a teacher-read class set of readings. Ask the prep room early (Week 1). |
 | Students only speak Chinese in group work | That is fine during thinking. Before reporting, give each group the frame on a card and 1 minute to rehearse in English. Ask the Reporter to use at least three key words from the vocabulary panel. Praise English key words used in Chinese talk. |
+| A student cannot read the English at all | Treat as Band 1 (Section 4): seat beside a Band 3 language buddy; point to the Chinese line under every instruction; let them answer Core in Chinese using the English key words from the word bank; give the dictionary booklet and the classroom language card; use the Say, show, check routine before every task. |
+| A capable student says the Chinese is slowing the class down | The English stays first and larger; they read it and move on. Move them to Challenge, which is English-rich. The Chinese is for students who would otherwise do nothing. |
+| A student asks for the whole worksheet in Chinese | Core instructions and questions already are. Explain the reading part (Learn text, statements) has a Chinese gist line and that reading some English science is part of the programme; pair them with a buddy for that part. |
 | A fluent student finishes early | Challenge tier first; then precision questions ("What would show you were wrong?"), extra repeats or a second variable, a glossary job, or explaining the group's reasoning as Reporter (Section 4). |
 | A student will not be measured (Y8 W6, Y9 W4) | Measuring is voluntary. They take the Measurer or Recorder role; use sample data for their row. |
 | A Y8 student asks "Is it Dr Huang?" (or anyone) | Neither confirm nor deny. "How confident are you? What evidence could change your mind?" |

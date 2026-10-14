@@ -65,6 +65,10 @@ Using the Think Like a Scientist brand, create these reusable templates and comp
 - Series colour and icon used as an accent.
 - Layouts needed: title slide; Do Now; Hook (one big question or image); Learn (diagram plus text); Do (step-by-step instructions with picture steps); Think (discussion prompt with sentence frames); exit ticket; safety slide (fully bilingual, high visibility).
 - No more than about 30 English words per slide.
+- **Today slide layout** (added October 2026 for Years 7 and 8): phase tag Do Now 课前任务, label "Today 今天". Left: "Today I can ... 今天我能……" with two goal lines, each English with Chinese beneath, and an empty tick box. Right: "Key words today 今天的关键词", a list of up to 10 words English 中文. Series icon as accent.
+- **Paired lines**: wherever a line of on-slide text is written as an English sentence followed by its Chinese sentence, set the Chinese directly beneath the English in the lighter weight and secondary ink. The English stays the larger line. This is the standard for every instruction and question on Do Now, Hook, Do and Think and Reflect slides in Years 7 and 8.
+- **Key idea band**: on Learn slides, a tinted band at the foot of the slide labelled 核心概念 holding one Chinese line (the key idea). The English explanation above it is not translated line by line.
+- Year 9 slides do not yet use paired lines or the Key idea band; the template must look right with and without them.
 
 **Worksheet template (A4 portrait, greyscale-safe)**
 Fixed order on every worksheet:
@@ -78,6 +82,14 @@ Fixed order on every worksheet:
 8. Optional exit ticket strip with a cut line
 Minimum 12 pt body text (14 pt for Year 7 Core). Generous writing lines. Grids for graphs.
 
+Additions for Years 7 and 8 (October 2026):
+- Header line 2: "Today I can 今天我能:" followed by the lesson's two goals, English with Chinese beneath in the lighter weight.
+- **Paired instructions**: every task instruction and question stem is English followed by its Chinese; set the Chinese beneath, lighter weight, same indent. Table headings and labels are bilingual in one cell ("Fall time (s) 下落时间（秒）").
+- **Instruction words strip**: a thin strip under the vocabulary panel showing the six instruction icons used on that worksheet (from the Instruction words key), each with English and Chinese.
+- **Fixed tier footers** printed in small type under each tier heading: Core: "Answer in English or Chinese. Use the English key words. 可用英语或中文作答，请使用英语关键词。" Stretch and Challenge: "Try English with the frames. Reasons may be in Chinese. 尽量用句型框架写英语，理由可以用中文。"
+- **Word banks** (inline and fold-under) show every item English 中文.
+- **Exit ticket self-check**: one line at the foot of the strip: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐".
+
 **Other templates**
 - Kit card (half A4, landscape): per-group kit list, teacher prep, hazards with English and 中文 lines, clean-up.
 - Scientist's Logbook page (A5): What I did 我做了什么 / What I found 我发现了什么 / New words 新词汇 / A question I still have 我还想知道.
@@ -85,3 +97,8 @@ Minimum 12 pt body text (14 pt for Year 7 Core). Generous writing lines. Grids f
 - Certificate (A4 landscape): series sub-brand, student name, award level (Gold / Silver / Bronze / Participation, plus "Most Improved Scientist"), optional crest placeholder.
 - One-page skills report (A4 portrait): six rubric strands with four levels (Beginning 起步, Developing 发展, Secure 达标, Excellent 优秀), skills check Week 1 vs Week 10, teacher comment.
 - Poster template (A3) for each series final project.
+- Group role cards with duties: each card carries the role name EN 中文 and three duty lines, each English with Chinese beneath (text in `00_Language_Support/Language_Support_Printables.md`).
+- Instruction words key 指令词 (A3 poster and a worksheet strip): 44 instruction words, each an icon with English and Chinese (text in the same file).
+- Classroom language card 课堂用语卡 (A5, two sides): teacher routine phrases and student help phrases, bilingual (same file).
+- Sentence frame cards 句型框架 (A4 poster per series and A6 cards): each frame in English with the Chinese frame beneath and one filled example (same file).
+- My Science Dictionary 我的科学词典 (A5 booklet template): cover, inside-cover instructions, one section per week with word entries (English, 中文, meaning in both languages, icon, "My example" line), index, back cover (text in `00_Language_Support/My_Science_Dictionary_Y7.md` and `_Y8.md`).
