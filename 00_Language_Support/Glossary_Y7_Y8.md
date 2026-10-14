@@ -525,6 +525,13 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 
 | English | 中文 | First used |
 |---|---|---|
+| card (fingerprint record card, Year 8 W2) | 记录卡 | Y8 W2 |
+| card (voting card, Year 7) | 卡片 | Y7 W5 |
+| Matches (count heading, evidence log Part 2 and suspect tracker) | 匹配数 | Y8 W1, W9 |
+| puddle (the melted snowman puddle, Year 7) | 水坑 | Y7 W1 (the Year 8 scene puddle is 一小摊液体) |
+| sample data (Year 7: example data to use if a group's data is missing) | 示例数据 | Y7 W4, W5, W9 (the Year 8 class data set is 样本数据) |
+| stick (noun, a small branch) | 木棍 | Y7 W1 |
+| strip (of paper towel, Year 8 W7 and W8) | 纸巾条 | Y8 W7 (filter paper strips stay 滤纸条) |
 | 6b talk frame part 1: Our question was: does the ___ change the ___ of the sample? We changed ___ and we measured ___. We predicted ___ because ___. | 我们的问题是：___会改变样品的___吗？我们改变了___，测量了___。我们预测___，因为___。 | Y7 W10 |
 | 6b talk frame part 2: We made ___ samples in the same mould. We kept ___ and ___ the same. To test them, we ___. We repeated each test ___ times. To stay safe, we ___. | 我们用同一个模具做了___个样品。我们保持___和___不变。为了测试它们，我们___。每个测试我们重复了___次。为了安全，我们___。 | Y7 W10 |
 | 6b talk frame part 3: Here is our graph. We drew a ___ because ___. The class mean for ___ was ___ ml, and for ___ it was ___ ml. | 这是我们的图表。我们画了___，因为___。___的全班平均值是___毫升，___的是___毫升。 | Y7 W10 |

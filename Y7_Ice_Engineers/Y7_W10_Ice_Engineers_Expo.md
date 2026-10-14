@@ -219,7 +219,7 @@ Expo | 成果展; presentation | 展示; audience | 观众; evidence | 证据; c
 | | | | |
 | | | | |
 
-(Five rows, each about 1.5 cm tall.) (Design: small I change 我改变 and I measure 我测量 gesture icons in the two middle headings. In the two middle columns of every row, pre-print the choices small and grey so a student can circle instead of write: type of fibre 纤维种类 / amount of sawdust 木屑的量; strength 强度 / melting 熔化 / water held 承受的水量 / meltwater 融化的水. Only the number and unit then need writing.)
+(Five rows, each about 1.5 cm tall.) (Design: small I change 我改变 and I measure 我测量 gesture icons in the two middle headings. In the two middle columns of every row, pre-print the choices small and grey so a student can circle instead of write: type of fibre 纤维种类 / amount of sawdust 木屑的量; strength 强度 / melting 熔化 / water held 承载水量 / meltwater 融化的水. Only the number and unit then need writing.)
 
 **4. Stretch 提高 (two dots)**
 a) The question I asked (copy from your card): 我提出的问题（从卡片上抄写）： ______________________________
@@ -233,7 +233,7 @@ How do scientists find things out? 科学家是怎样发现事物的？ Use one 
 (Dashed-border box, about 5 cm tall.)
 
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
-type of fibre 纤维种类 | amount of sawdust 木屑的量 | strength 强度 | melting 熔化 | water held 承受的水量 | meltwater 融化的水 | class mean 全班平均值 | agree 一致 | disagree 不一致 | different method 实验步骤不同 | fair test 公平测试 | evidence 证据 | because 因为
+type of fibre 纤维种类 | amount of sawdust 木屑的量 | strength 强度 | melting 熔化 | water held 承载水量 | meltwater 融化的水 | class mean 全班平均值 | agree 一致 | disagree 不一致 | different method 实验步骤不同 | fair test 公平测试 | evidence 证据 | because 因为
 
 **8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 10 第10周 | Name 姓名: __________
