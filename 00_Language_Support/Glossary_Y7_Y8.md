@@ -236,10 +236,19 @@ Chinese text status: draft, needs native-speaker check
 | Ruled in / Ruled out (column headings) / ruled out (word bank) / rule out | 符合 / 排除 / 被排除 / 排除 | Year 8 evidence log |
 | Strength of evidence (heading) | 证据强度 | Year 8 evidence log (Year 7 strength of a material is 强度) |
 | low / medium / high (confidence) | 低 / 中 / 高 | Year 8 |
-| Ideas Parking Board | 想法停车场 | Year 8 W5, W9 |
+| Ideas Parking Board | 想法停车场 | Year 8 W5, W9 (never 想法停车板) |
 | Wet floor (sign) / mop / mop bucket / cleaning team | 小心地滑 / 拖把 / 拖把桶 / 清洁小组 | Year 8 |
 | suspect cards / evidence cards / reveal card / question cards | 嫌疑人卡 / 证据卡 / 揭秘卡 / 问题卡 | Year 8 |
 | Lab report (stamp) / Case update (tab) / Case no. / Opened | 实验报告 / 案件进展 / 案件编号 / 立案 | Year 8 printables |
+| Strong / Supporting / Weak / Set aside (evidence headings and card fields) | 有力 / 支持性 / 薄弱 / 搁置 | Year 8 W8 to W10; the short form 支持 is not used |
+| Checkpoint 1 / Checkpoint 2 (teacher sign-off box on a plan sheet, and lab timing points) | 检查点1 / 检查点2 | Year 8 W7, W8 (the Week 5 assessment stays 阶段检测) |
+| Safety (existing safety slide titles in Y8 W4, W5, W8) | 安全须知 | kept as printed; new safety slides use Stay safe 注意安全 |
+| match (verb in a slide title: compare against references) / matches (result) / Matches (card field: which suspects a clue fits) | 比对 / 匹配 / 符合 | Year 8 |
+| Lab day / Soil / Paper / Ink 2 / Powder 2 (Week 7 options) | 检测日 / 土壤 / 纸巾 / 墨水2 / 粉末2 | Year 8 W6 to W8 |
+| test (a forensic test, noun) / fair test | 检测 / 公平测试 | Year 8 (Year 7 Test A, Test day keep 测试) |
+| evidence board / evidence card / cleaning log / timeline / Claim-Evidence-Reasoning (CER) | 证据板 / 证据卡 / 清洁记录 / 时间线 / 主张、证据、推理（CER） | Year 8 W9, W10 |
+| expert witness statement / jury question / witness stand / expert witness badge / the final hearing / My expert role | 专家证人陈述 / 陪审团提问 / 证人席 / 专家证人徽章 / 最终庭审 / 我的专家角色 | Year 8 W9, W10 |
+| puddle (of liquid) / the puddle | 一小摊液体 / 这摊液体 | Year 8 (never 积水) |
 | Expo | 成果展 | Year 7 Week 10 |
 | Court of Science | 科学法庭 | Year 8 Week 10 |
 | Beginning / Developing / Secure / Excellent | 起步 / 发展 / 达标 / 优秀 | rubric levels |
@@ -352,6 +361,29 @@ Write the English frame first, then the Chinese frame with the same gaps.
 | The scene liquid turned ___, so it is ___ with a pH of about ___. | 现场液体变成了___，所以它是___，pH大约是___。 | Y8 W5 |
 | The scene liquid is closest to ___ and ___. | 现场液体最接近___和___。 | Y8 W5 |
 | The suspect who fits the most evidence is ___. The liquid evidence does not fit this suspect because ___. | 符合最多证据的嫌疑人是___。液体证据与这位嫌疑人不一致，因为___。 | Y8 W5 |
+| The line of best fit shows a height of about ___ cm for a 24 cm foot. | 最佳拟合线显示，脚长24厘米的人身高约为___厘米。 | Y8 W6 |
+| The person was probably between ___ cm and ___ cm tall. | 这个人的身高可能在___厘米到___厘米之间。 | Y8 W6 |
+| As foot length increases, height ___. This is a ___ correlation. | 随着脚长增加，身高___。这是___相关。 | Y8 W6 |
+| Our question is: Which ___ matches ___? | 我们的问题是：哪个___与___匹配？ | Y8 W7 |
+| We change ___. We observe / measure ___. We keep ___ the same. | 我们改变___。我们观察／测量___。我们保持___不变。 | Y8 W7 |
+| We will repeat each test ___ times because ___. | 我们会把每个检测重复___次，因为___。 | Y8 W7 |
+| The hazard is ___. To stay safe we will ___. | 危险源是___。为了安全，我们会___。 | Y8 W7 |
+| If we see ___, my prediction is wrong. | 如果我们看到___，我的预测就是错的。 | Y8 W7 |
+| We will test the scene sample in exactly the same way as the references. | 我们会用与参照样本完全相同的方法检测现场样本。 | Y8 W7 (fixed sentence) |
+| The scene sample matches ___ because ___. | 现场样本与___匹配，因为___。 | Y8 W8 |
+| Our test showed ___. | 我们的检测显示___。 | Y8 W8 |
+| Our repeats were ___, so our result is ___. | 我们的重复结果___，所以我们的结果是___。 | Y8 W8 |
+| This evidence is strong / supporting / weak because it fits ___ suspects. | 这个证据有力／支持性／薄弱，因为它符合___名嫌疑人。 | Y8 W8, W9 |
+| Mixture X contains ___ and ___ because ___. | 混合物X含有___和___，因为___。 | Y8 W8 |
+| Best solvent: ___, because ___. | 最佳溶剂：___，因为___。 | Y8 W8 |
+| We are / I am ___ confident, but not certain, because ___. | 我们／我___有把握，但不能确定，因为___。 | Y8 W9 |
+| Evidence 4 is contaminated evidence because ___. We set it aside. | 证据4是受污染的证据，因为___。我们把它搁置。 | Y8 W9 |
+| I claim that ___ took the notebook. The evidence is: 1 ___ 2 ___ 3 ___ 4 ___. This shows ___ because ___. | 我主张是___拿走了笔记本。证据是：1___ 2___ 3___ 4___。这说明___，因为___。 | Y8 W9 (CER) |
+| We are the ___ experts. We tested evidence ___, the ___ found at ___. We used ___. We compared it with reference samples. Our result: ___. This evidence is ___ because ___. | 我们是___专家。我们检测了证据___，即在___发现的___。我们用了___。我们把它与参照样本比对。我们的结果：___。这个证据___，因为___。 | Y8 W9, W10 witness statement |
+| A question the jury might ask: ___ Our answer: ___ | 陪审团可能会问：___ 我们的回答：___ | Y8 W9 |
+| The strongest evidence we heard was ___ because ___. | 我们听到的最有力的证据是___，因为___。 | Y8 W10 |
+| My verdict is ___ because ___. | 我的裁决是___，因为___。 | Y8 W10 |
+| That is a good question. Our evidence shows ___, but it does not show ___. | 这是个好问题。我们的证据显示___，但不能显示___。 | Y8 W10 |
 | To be more confident, we would need ___. | 要更有把握，我们需要___。 | Y8 W9 |
 
 ## Part 5. Added during the language pass
@@ -454,3 +486,26 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 | test (word bank item: a test) / Test (evidence log column: the test used) | 测试 / 检测方法 | Y8 W1 |
 | The white powder / The mystery liquid / Who wrote the note? / Fingerprints (titles) | 白色粉末之谜 / 神秘液体 / 谁写了纸条？ / 指纹档案 | Y8 W2 to W5 (keep the existing file titles) |
 | worked example / Now you try | 例题 / 现在你来试试 | Y8 W3 |
+| absorbency / layers (ply) / layers (settling) / thin / thick / soft / rough | 吸水性 / 层数 / 分层 / 薄 / 厚 / 软 / 粗糙 | Y8 W7, W8 |
+| amount / which sample / same container / same depth / height (mm) / time (s) / colours / everyone / none / all | 用量 / 哪个样本 / 同样的容器 / 同样的深度 / 高度（毫米） / 时间（秒） / 颜色 / 所有人 / 没有 / 全部 | Y8 W7, W8 word banks |
+| band (chromatography) / number of bands / spread | 色带 / 色带数 / 色带跨度 | Y8 W8 |
+| Best solvent / Backup result / backup lab report / Forensic lab report | 最佳溶剂 / 备用结果 / 备用实验报告 / 法庭科学实验室报告 | Y8 W8 |
+| between / taller / shorter / decreases / varies / outside the graph / children / adults / shoe / foot | 在……之间 / 更高 / 更矮 / 减少 / 各不相同 / 超出图表范围 / 儿童 / 成年人 / 鞋 / 脚 | Y8 W6 |
+| class data / our class data / sample data / sample data card | 全班数据 / 我们的全班数据 / 样本数据 / 样本数据卡 | Y8 W6 |
+| cloudy / clear / does not match / more reliable / repeats agreed / Mostly (Yes, Mostly, No) | 浑浊 / 清澈 / 不匹配 / 更可靠 / 重复结果一致 / 基本一致 | Y8 W8 |
+| combination (of clues) / set aside / contaminated evidence / highly confident, but not certain / not certain / Not enough evidence / prove / useful | 组合 / 搁置 / 受污染的证据 / 非常有把握，但不能确定 / 不能确定 / 证据不足 / 证明 / 有用的 | Y8 W9, W10 |
+| flowerbed / lab paper towels / canteen napkin / tissue / kitchen roll / soapy floor cleaner | 花坛 / 实验室纸巾 / 食堂餐巾纸 / 面巾纸 / 厨房纸 / 含肥皂的地板清洁剂 | Y8 W7 to W9 (paper towel is always 纸巾) |
+| Height station / My measurements / Suspect check / Our range / Inside our range? / short / medium / tall / to the nearest 0.5 cm / 1 cm / TRUE SIZE / positive correlation / positive (word bank) | 身高测量站 / 我的测量 / 嫌疑人核对表 / 我们的范围 / 在我们的范围内吗？ / 矮 / 中等 / 高 / 精确到0.5厘米 / 精确到1厘米 / 实际尺寸 / 正相关 / 正（相关） | Y8 W6 |
+| Jury notes / What it shows / Strength (column) / My verdict / My strongest reason / Ink / Powder / Liquid / Soil and paper (evidence type labels) / ___ expert | 陪审团笔记 / 结果说明了什么 / 强度 / 我的裁决 / 我最有力的理由 / 墨水 / 粉末 / 液体 / 土壤与纸巾 / ___专家 | Y8 W9, W10 |
+| kit card / kit request / Kit we need for lab day / Item / How many / Checked by teacher / plan sheet / recording sheet / group recording sheet | 器材卡 / 器材申请 / 检测日所需器材 / 物品 / 数量 / 教师已检查 / 计划表 / 记录表 / 小组记录表 | Y8 W7, W8 |
+| known mixture K1 / K2 / Mystery mixture X / mixture of two powders / salt water / pure | 已知混合物K1 / K2 / 神秘混合物X / 两种粉末的混合物 / 盐水 / 纯的 | Y8 W7, W8 |
+| NEW EVIDENCE (stamp) / Who took the notebook? / Found at / Test (card field) / Reporter round / self-assessment slip | 新证据 / 谁拿走了笔记本？ / 发现地点 / 检测 / 汇报员轮流汇报 / 自我评估条 | Y8 W8, W9 |
+| one suspect / two suspects / three suspects / all four / only | 一名嫌疑人 / 两名嫌疑人 / 三名嫌疑人 / 全部四条 / 只有 | Y8 W9, W10 |
+| option / option card / Tick our option / Option (the group's test) / Pair 1 / Pair 2 / Swap / Write one tip / tip | 选项 / 选项卡 / 勾选我们的选项 / 检测选项 / 第1对 / 第2对 / 交换 / 写一条建议 / 建议 | Y8 W7, W8 |
+| pattern (pressed into a paper towel) | 压纹 | Y8 W7, W8 (fourth sense) |
+| Quick recap / Four cases / Results table ready / Would you rather? / Swap and check plans / Story hook / Your question / Your samples / Method ideas / Main hazards / Think about | 快速回顾 / 四个检测任务 / 准备结果表格 / 你会选哪个检测？ / 交换检查计划 / 案情线索 / 你的问题 / 你的样本 / 实验步骤提示 / 主要危险源 / 想一想 | Y8 W7 slides and option cards |
+| Reference 1 to 4 / References / Unknowns / Test 1 (unit) / Repeat 1 / Repeat 2 / Mean or best match / results grid | 参照样本1至4 / 参照样本 / 未知样本 / 测试1（单位） / 重复1 / 重复2 / 平均值或最匹配 / 结果记录表 | Y8 W7, W8 |
+| Risk table / rule in / rule out / wipe spills / Wipe up spills straight away | 风险评估表 / 纳入 / 排除 / 擦干洒出的液体 / 洒出的液体要立即擦干 | Y8 W7, W8 |
+| shake / settle (bottle) / settling bottles / tablespoon / teaspoon / level spoonful / pinch / pea-sized spoonful | 摇 / 沉降 / 沉降瓶 / 汤匙 / 茶匙 / 一平勺 / 一小撮 / 豌豆大小的一勺 | Y8 W7, W8 |
+| stronger (evidence) / weaker (evidence) / strongest / weakest | 更有力 / 更薄弱 / 最有力 / 最薄弱 | Y8 W9, W10 (Year 7 material strength uses 更强 / 更弱) |
+| Student no. / No. / Title (graph) / Checkpoint 1 / 2 stamp boxes | 编号 / 编号 / 标题 / 检查点1 / 检查点2 | Y8 W6, W7 |
