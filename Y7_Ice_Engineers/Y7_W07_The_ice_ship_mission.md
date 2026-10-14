@@ -56,7 +56,7 @@ Chinese text status: draft, needs native-speaker check
   - Frames: "Does the ___ change the ___ of the ___?" "I predict ___ because the fibres ___." "We will keep ___ the same because ___." "The hazard is ___. It could ___. We will ___."
   - Chinese talk welcome during the planning; each group writes its plan in English with key words.
   - Vocabulary traps: "strength" (强度) is a property of a material, not muscles. "Mould" (模具) is the container, not the green fungus (霉菌), which has the same English spelling. "Risk" and "hazard" are often mixed up: the hazard is the thing (wet floor), the risk is what could happen (slipping).
-  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Start with worksheet Core B: tick the role and the making job from the bilingual tick lists, then copy the three sample codes (P, SD3, T and so on) from the bilingual code line, so no English sentence is needed. Then Core A: read the Chinese gist printed under each sentence and look at the picture cue beside it, then copy the matching word from the bilingual word bank into the gap. In the planning frame the student owns Box 2 (circle the three samples from the bilingual list) and Box 8 (copy the bilingual hint-line headings); the reasons in Box 4 and Box 5 may be written in Chinese. The exit ticket is a sample code plus one item copied from the bilingual Box 4 hint line, with the reason in Chinese. Making the samples follows the six picture steps on Slide 13 or Slide 14, which a student reads aloud in Chinese before the pairs start.
+  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Start with worksheet Core B: tick the role and the making job from the bilingual tick lists, then copy the three sample codes (P, SD3, T and so on) from the bilingual code key on the label sheet (6c), so no English sentence is needed. Then Core A: read the Chinese gist printed under each sentence and look at the picture cue beside it, then copy the matching word from the bilingual word bank into the gap. In the planning frame the student owns Box 2 (circle the three samples from the bilingual list) and Box 8 (copy the bilingual hint-line headings); the reasons in Box 4 and Box 5 may be written in Chinese. The exit ticket is a sample code plus one item copied from the bilingual Box 4 hint line, with the reason in Chinese. Making the samples follows the six picture steps on Slide 13 or Slide 14, which a student reads aloud in Chinese before the pairs start.
 - **Misconceptions to watch for:**
   - "More sawdust is always better." Too much and there is not enough ice to hold the fibres together. Our range (0 to 0.9 g of sawdust per 12 ml strip, that is 0 to 7.5 g per 100 ml, or about 7% by mass at most) is below Pyke's 14%, so we probably will not see the top of the curve.
   - "Changing the fibre and the amount at the same time saves time." A fair test changes one thing only: either the type of fibre (same 0.6 g in every strip) or the amount of sawdust.
@@ -302,10 +302,10 @@ Create an A4 portrait, black-and-white-printable worksheet for Year 7 Week 7, Th
 [Shared] The best insulator was ______________ (number: ______ with unit ______). 最好的隔热材料是______________（数值：______ 单位：______）。
 IV 自变量: ______________ DV 因变量: ______________ One control 一个控制变量: ______________
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 **A. [Shared] The pykrete story 木屑冰的故事.** Fill the gaps using the word bank. 用词库填空。
-Word bank 词库: steel 钢 | ice 冰 | sawdust 木屑 | stronger 更强 | slowly 慢慢地 | Canada | brittle 脆的
+Word bank 词库: steel 钢 | ice 冰 | sawdust 木屑 | stronger 更强 | slowly 慢慢地 | Canada 加拿大 | brittle 脆的
 During the Second World War there was not enough ______________. Geoffrey Pyke wanted to build ships out of ______________. Plain ice is ______________: it cracks easily. His team mixed about 14% ______________ into the ice. This "pykrete" was much ______________ and melted more ______________. A small prototype was built on a lake in ______________ in 1943.
 Gist lines 概要 (printed in the lighter weight directly beneath each sentence, one per sentence, each with a small picture cue beside it reusing the Slides 3 to 5 visuals):
 1. 概要：第二次世界大战时，钢不够用。 (picture cue: a crossed-out steel girder)
@@ -313,17 +313,16 @@ Gist lines 概要 (printed in the lighter weight directly beneath each sentence,
 3. 概要：普通冰是脆的：容易裂。 (picture cue: the cracked plain ice block from Slide 4)
 4. 概要：他的团队把约14%的木屑混进冰里。 (picture cue: sawdust tipped into ice)
 5. 概要：这种“木屑冰”更强，熔化得更慢。 (picture cue: the whole pykrete block beside the cracked block)
-6. 概要：1943年，一个小样机在Canada的湖上建成。 (picture cue: the lake prototype from Slide 4)
+6. 概要：1943年，一个小样机在加拿大的湖上建成。 (picture cue: the lake prototype from Slide 4)
 
 **B. My job today 我今天的任务.** Tick your role and your making job. 勾选你的角色和你的制作任务。
 [Shared] My role 我的角色: ☐ Lead Scientist 首席科学家 ☐ Measurer 测量员 ☐ Recorder 记录员 ☐ Safety Officer 安全员 ☐ Reporter 汇报员
 [Plan A] My making job 我的制作任务: ☐ measure 12 ml of water 量12毫升水 ☐ add fibre and stir 加纤维并搅拌 ☐ pour into the foil trough 倒进铝箔槽 ☐ write and stick labels 写标签并贴上
 [Plan B] My making job 我的制作任务: ☐ add fibre to the dough bag 把纤维加进面团袋 ☐ knead 揉面 ☐ press into the foil trough 压进铝箔槽 ☐ write and stick labels 写标签并贴上
 [Shared] Our three samples 我们的三个样品: 1. ______________ 2. ______________ 3. ______________
-[Shared] Sample codes 样品编号 (copy the codes, as on the label sheet 照标签纸抄写编号): P = plain ice or no fibre 普通冰或无纤维 (control 对照样品) | SD3, SD6, SD9 = sawdust 木屑 0.3 g, 0.6 g, 0.9 g | T = tissue 纸巾 | SP = shredded paper 碎纸 | CW = cotton wool 棉花
 How many repeats of each? 每种样品做几个重复？ ______ Total samples 样品总数: ______
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 a) [Shared] My prediction 我的预测: "I predict ______________ will be the strongest because the fibres ______________________________." “我预测______________最强，因为纤维______________________________。” (three lines)
 b) [Shared] Name three control variables. 说出三个控制变量。 Say why each one matters. 说明每一个为什么重要。
 
@@ -333,7 +332,7 @@ b) [Shared] Name three control variables. 说出三个控制变量。 Say why ea
 | 2. | |
 | 3. | |
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 - [Plan A] a) Pykrete is stronger, but it also melts more slowly than plain ice. 木屑冰更强，而且比普通冰熔化得更慢。 Suggest why. 说说为什么。 (Hint: think about what is left on the outside when the ice at the surface melts.) （提示：想一想表面的冰熔化后，外面留下了什么。） (three lines)
 - [Plan B] a) Straw in mud bricks stops cracks. 泥砖里的稻草能阻止裂纹。 Suggest why a brick with straw might also crack less while it dries in the sun. 说说为什么有稻草的砖在太阳下晒干时也可能裂得更少。 (three lines)
 - [Shared] b) What result would show that your prediction is wrong? 什么结果会说明你的预测是错的？ Be exact. 要说得具体。 "My prediction is wrong if ______________________________." “如果______________________________，我的预测就是错的。” (two lines)
@@ -342,7 +341,7 @@ b) [Shared] Name three control variables. 说出三个控制变量。 Say why ea
 [Shared] Pyke's giant ice ship was never built. Pyke的巨型冰船从未建成。 Why do you think scientists and engineers still remember his idea? 你认为为什么科学家和工程师仍然记得他的想法？
 (Dashed-border box, about 5 cm tall.)
 
-**7. Fold-under word bank** (dashed fold line above)
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
 [Shared] steel 钢 | ice 冰 | sawdust 木屑 | stronger 更强 | slowly 慢慢地 | brittle 脆的 | fibre 纤维 | crack 裂纹 | hold together 连在一起不散开 | composite 复合材料 | mould 模具 | control variable 控制变量 | control sample 对照样品 | same 相同 | repeat 重复 | label 标签 | because 因为
 [Plan A] add: freezer 冰柜 | melt 熔化
 [Plan B] add: dough 面团 | dry 干燥 | brick 砖
@@ -351,7 +350,6 @@ b) [Shared] Name three control variables. 说出三个控制变量。 Say why ea
 [Shared] Exit ticket 离场小测 | Week 7 第7周 | Name 姓名: __________
 Write the code for one of your samples: 写出你们一个样品的编号： ______________
 One thing we keep the same: ______________ because ______________________________. 我们保持不变的一个量：______________，因为______________________________。
-(You may copy one item from the hint line under Box 4 of your planning frame. 可以从计划框架第4框下面的提示行抄一项。)
 Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ---
@@ -522,11 +520,10 @@ Our three samples 我们的三个样品: 1. ______________ 2. ______________ 3. 
 | 4. | |
 
 Hint line (lighter weight) 提示: [Plan A] 12 ml of water 12毫升水 | foil trough 铝箔槽 | mass of fibre 纤维的质量 | freezing time 冷冻时间 | gap between books 书堆间距 | how we pour 倒水的方式 | time and place 时间和地点. [Plan B] 18 g of dough 18克面团 | foil trough 铝箔槽 | 5 mm thick 5毫米厚 | mass of fibre 纤维的质量 | drying time 晾干时间 | gap between books 书堆间距 | how we pour 倒水的方式.
-(The reasons may be written in Chinese. 理由可以用中文写。)
 
 **Box 5. Our prediction 我们的预测** (Lead Scientist icon)
 "We predict ______________ because ______________________________." “我们预测______________，因为______________________________。” (three lines)
-Prompt in a lighter weight: Use a science word 用一个科学词: fibre 纤维 | brittle 脆的 | crack 裂纹 | composite 复合材料 | insulator 隔热材料. (The reason may be written in Chinese. 理由可以用中文写。)
+Prompt in a lighter weight: Use a science word 用一个科学词: fibre 纤维 | brittle 脆的 | crack 裂纹 | composite 复合材料 | insulator 隔热材料.
 "Our prediction is wrong if ______________." “如果______________，我们的预测就是错的。” (one line)
 
 **Box 6. Our method 我们的实验步骤** (Measurer icon)
@@ -561,7 +558,7 @@ Checked by group 检查小组: __________
 ☐ Only one thing changes. 只改变一个量。
 ☐ The control sample is included. 包含对照样品。
 ☐ Repeats are planned (at least 2). 计划了重复（至少2次）。
-☐ The prediction has "because". 预测里有"因为"。
+☐ The prediction has "because". 预测里有“因为”。
 ☐ Four risks with controls. 四个风险及控制措施。
 ☐ Units in the results table headings. 结果表格表头有单位。
 One fix: "You need to ______________ because ______________." 一个修改建议：“你们需要______________，因为______________。”

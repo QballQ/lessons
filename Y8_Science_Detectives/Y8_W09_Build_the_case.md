@@ -33,7 +33,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 6: stren
 | Do Now 课前任务 | 3 | Case files on tables; "Count the ticks for each suspect in your tracker" | Count matches in the suspect tracker (Weeks 2 to 6) | Slides 2 to 3 (Slide 3 is the Today slide: one minute of the 3, shown while students finish the count); evidence log |
 | Hook 引入 | 2 | Puts the Week 5 Ideas Parking Board photo on screen: "We parked these ideas. The jury meets next week. Today we check them." | Look for their own sticky note | Slide 4; parking board photo |
 | Learn 新知 | 5 | Teaches strong, supporting and weak with the number of suspects each clue matches; shows that the combination can be strong when no single clue is | Rank one example clue with a hand signal (3 fingers strong, 2 supporting, 1 weak) | Slides 5 to 6 |
-| Do 实践 | 18 | Hands out evidence card packs and A3 boards (minute 0); circulates; **at minute 7 hands each group the cleaning log card**; does not confirm any suspect | Build the evidence board (7 min); read the cleaning log, check the scene map and sign-in sheet, set Evidence 4 aside and re-count (4 min); write the CER conclusion with a confidence level (7 min) | Slides 7 to 10; evidence cards; A3 board; cleaning log card; contamination fact cards (6.7, Band 1 alternative); worksheet |
+| Do 实践 | 18 | Hands out evidence card packs and A3 boards (minute 0); circulates; **at minute 7 hands each group the cleaning log card**; does not confirm any suspect | Build the evidence board (7 min); read the cleaning log, check the scene map and sign-in sheet, set Evidence 4 aside and re-count (4 min); write the CER conclusion with a confidence level (7 min) | Slides 7 to 10; evidence cards; A3 board; cleaning log card; worksheet |
 | Think and Reflect 思辨与反思 | 12 | Runs the tunnel vision discussion with the concept cartoon and the parking board notes (3 min); gives each group its expert witness role and statement frame (4 min); hands out self-assessment slips (4 min); collects exit tickets (1 min) | Sort parking board notes; discuss in pairs; start the expert witness statement; complete the self-assessment slip; exit ticket | Slides 11 to 13; witness frame; self-assessment slip |
 
 - **Tiers:**
@@ -41,7 +41,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 6: stren
   - Stretch: add a confidence statement with a reason ("highly confident, but not certain, because ..."); give three facts that show the puddle is contaminated.
   - Challenge: explain the two kinds of tunnel vision this case could cause; explain why the combination is strong when no single clue is; say what new evidence could change your mind.
 - **Language support:** Frames: "This evidence is strong / supporting / weak because it matches ___ suspects." "Evidence 4 is contaminated because ___ ." "We claim that ___ took the notebook. The evidence is ___ . This shows ___ because ___ ." "We are ___ confident, but not certain, because ___ ." "One problem with this evidence is ___ ." Chinese welcome for board building and the tunnel vision talk; written conclusions use English key words. Traps: "contamination" (noun), "contaminated" (adjective); "evidence" is uncountable ("three pieces of evidence", not "three evidences"); "bias" here is about how we think, not about being unfair to a person; "confident" vs "confidence".
-  - Band 1 today: the student sits beside their language buddy, who reads each paired Chinese line on the slides and the worksheet and explains the task in Chinese but never writes the answer. Start with Core a: the row labels, the result words and the strength key above the table are bilingual, so the student copies the matching suspects from the group's evidence board (the board prints the Chinese names) and circles the strength by counting names with the key (1 name 有力, 2 names 支持性, 3 or 4 or everyone 薄弱), using the hand signal from Slide 5. Then Core c: names and numbers only. For Core b, the buddy reads the 概要 line on the cleaning log card and the four paired questions on Slide 9; the student sorts the bilingual contamination fact cards (6.7, handed out with the cleaning log) and copies one fact from the "shows contamination" pile instead of composing the reason. For Core d, the Chinese frames have the same gaps, and the fold-under word bank lists the seven clue names and the four suspect names, so the Evidence gaps are filled by copying; the Reasoning gap may be written in Chinese using 唯一符合全部四条可靠线索的嫌疑人 from the bank. Chinese answers count for every Core task, including the exit ticket. Nobody reads a model conclusion aloud: the culprit is not confirmed this week.
+  - Band 1 today: the student sits beside their language buddy, who reads each paired Chinese line on the slides and the worksheet and explains the task in Chinese but never writes the answer. Start with Core a: the row labels, the result words and the strength key above the table are bilingual, so the student copies the matching suspects from the group's evidence board (the board prints the Chinese names) and circles the strength by counting names with the key (1 name 有力, 2 names 支持性, 3 or 4 or everyone 薄弱), using the hand signal from Slide 5. Then Core c: names and numbers only. For Core b, the buddy reads the 概要 line on the cleaning log card and the four paired questions on Slide 9; the student answers the reason in Chinese, copying 拖把桶 and 小心地滑 from the fold-under word bank. For Core d, the Chinese frames have the same gaps, and the fold-under word bank lists the seven clue names and the four suspect names, so the Evidence gaps are filled by copying; the Reasoning gap may be written in Chinese using 唯一符合全部四条可靠线索的嫌疑人 from the bank. Chinese answers count for every Core task, including the exit ticket. Nobody reads a model conclusion aloud: the culprit is not confirmed this week.
 - **Misconceptions to watch for:** "We can ignore any clue that does not fit" (only with a checked reason). "The newest clue is the most important." "More clues for one person means proof." "Contamination means someone did something wrong" (the cleaning team was doing its job). "High confidence means certain."
 - **Safety:** No practical hazards beyond normal classroom rules. (Soil groups: settling bottles stay sealed on the windowsill; look, do not open.)
 - **If time is short:** Pre-fill the "Matches" lines on the evidence cards. Take the tunnel vision discussion as a 1-minute show of hands. Move the self-assessment slip to the first 4 minutes of break or form time (it must be done before you decide rubric levels). Do not cut the twist or the CER conclusion.
@@ -69,7 +69,7 @@ Count the ticks for each suspect, Weeks 2 to 6. 数一数第2到6周每名嫌疑
 Who matches the most? 谁符合得最多？
 Who matches everything? 谁符合全部线索？
 Vocabulary panel: evidence | 证据, suspect | 嫌疑人
-Visual: The suspect tracker from the evidence log, empty, with a pencil and a "Matches 符合数" column highlighted. 3-minute timer.
+Visual: The suspect tracker from the evidence log, empty, with a pencil and a "Matches 匹配数" column highlighted. 3-minute timer.
 Speaker notes: A student reads the Chinese lines. Answers: Lily 3 of 5, Max 2 of 5, Chef Zhou 2 of 5, Dr Huang 4 of 5. Nobody matches everything. Dr Huang does not match the liquid. Ask: "So what do we do with the liquid?" Move to the Today slide at minute 2, while students finish the count.
 ```
 
@@ -141,7 +141,7 @@ Read it. 读一读。
 Check the scene map and the sign-in sheet. 核对现场平面图和登记表。
 What does it change? 它改变了什么？
 Vocabulary panel: contamination | 污染, evidence | 证据
-Visual: The cleaning log card shown as a clipboard page: "Snowfield School Cleaning Log | Lab 3 | Thursday. 6:30 pm. Mopped floor by the sink with soapy floor cleaner. Left bucket and "Wet floor" sign by the sink to dry. Some water left on the floor. Signed: Cleaning team." Title 清洁记录. Beneath the entry, in the lighter weight, the same gist line as printable 6.3 (facts only, no inference): "概要：晚上6:30用肥皂水拖了水槽旁的地，留下了桶、标志和一些水。" Beside it, a small crop of the scene map showing the puddle at I2 next to the mop bucket and "Wet floor" sign at I3, labelled "puddle 一小摊液体", "mop bucket 拖把桶", "Wet floor 小心地滑".
+Visual: The cleaning log card shown as a clipboard page: "Snowfield School Cleaning Log | Lab 3 | Thursday. 6:30 pm. Mopped floor by the sink with soapy floor cleaner. Left bucket and "Wet floor" sign by the sink to dry. Some water left on the floor. Signed: Cleaning team." Title 清洁记录. Beneath the entry, in the lighter weight, the same gist line as printable 6.3 (facts only, no inference): "概要：晚上6:30用含肥皂的地板清洁剂拖了水槽旁的地，留下了桶、标志和一些水。" Beside it, a small crop of the scene map showing the puddle at I2 next to the mop bucket and "Wet floor" sign at I3, labelled "puddle 一小摊液体", "mop bucket 拖把桶", "Wet floor 小心地滑".
 Speaker notes: Hand out one cleaning log card per group now, only after every group has a first board. Read it aloud once. A student reads the Chinese lines and the 概要 line. Then say nothing for one minute and let groups work it out.
 ```
 
@@ -242,7 +242,6 @@ Strength key 强度判断 (with the three-bar, two-bar and one-bar icons from Sl
 (8 rows, about 1 cm tall. The Chinese for Strong / Supporting / Weak is given once in the strength key above the table, not in every row.)
 
 b) After the cleaning log. Complete: 读完清洁记录后。补全句子： "Evidence 4 is contaminated evidence because ________________________ . We set it aside." "证据4是受污染的证据，因为________________________。我们把它搁置。" (2 lines)
-Or sort the fact cards and copy one fact from the "shows contamination" pile. 或者先给事实卡分组，再抄下“说明受污染”那一组里的一条事实。
 
 c) Re-count. Use only fingerprint, ink, powder and footprint (the four reliable physical clues). 重新计数。只用指纹、墨水、粉末和脚印（四条可靠的实物线索）。
 
@@ -324,7 +323,6 @@ Ink 2 and Powder 2 results (if your class did them) make the ink and powder matc
 
 **Core b) Secure-level example**
 "Evidence 4 is contaminated evidence because the cleaning team mopped the floor by the sink at 6:30 pm with soapy floor cleaner and left water on the floor, before the notebook was last seen at 6:50 pm. The puddle got there for an innocent reason, so it tells us nothing about who took the notebook."
-Fact-card version (6.7): any card from the "shows contamination" pile copied into the gap, in English or Chinese, is Secure for a Band 1 student; cards 6 and 7 are the distractors (true facts that do not show contamination).
 
 **Core c)** Lily 2 | Max 2 | Chef Zhou 1 | Dr Huang 4.
 
@@ -368,9 +366,9 @@ Week 9 | Evidence: Cleaning log (twist) | Test: compared with scene map, sign-in
 
 Create a half-A4 kit card for Year 8 Week 9 using the Think Like a Scientist kit card template.
 
-- **Per group (4 students):** evidence card pack (8 cards plus 1 blank), 1; A3 evidence board, 1; Blu Tack or glue stick, 1; cleaning log card (**held by the teacher until minute 7 of the Do phase**), 1; contamination fact cards (6.7, in the same envelope as the cleaning log), 1 set; expert witness statement frame, 1 (A3) or 4 (A4); case files with evidence logs, 4; worksheets, 4; self-assessment slips, 4 (from `../assessment/Rubric_and_Reporting.md`, Section 7).
+- **Per group (4 students):** evidence card pack (8 cards plus 1 blank), 1; A3 evidence board, 1; Blu Tack or glue stick, 1; cleaning log card (**held by the teacher until minute 7 of the Do phase**), 1; expert witness statement frame, 1 (A3) or 4 (A4); case files with evidence logs, 4; worksheets, 4; self-assessment slips, 4 (from `../assessment/Rubric_and_Reporting.md`, Section 7).
 - **Per class:** photo of the Week 5 Ideas Parking Board on slide 4 (and the board itself if it is still up); photos of Week 8 results; the board notes from the Week 8 Reporter round.
-- **Teacher prep before the lesson (about 25 minutes):** Print and cut evidence card packs (one per group). Print A3 boards and cleaning log cards; put the cleaning log cards in an envelope so they cannot be seen. Print and cut the contamination fact cards (6.7) and put each set in the same envelope. Print statement frames and self-assessment slips. Insert the parking board photo into slide 4. Decide expert witness roles (Section 4).
+- **Teacher prep before the lesson (about 25 minutes):** Print and cut evidence card packs (one per group). Print A3 boards and cleaning log cards; put the cleaning log cards in an envelope so they cannot be seen. Print statement frames and self-assessment slips. Insert the parking board photo into slide 4. Decide expert witness roles (Section 4).
 - **Hazards and controls:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Soil bottles on the windowsill: look only, do not open. 窗台上的土壤瓶：只能看，不要打开。
@@ -384,8 +382,8 @@ Create an A4 portrait sheet of nine evidence cards (3 by 3, each about 6.5 cm by
 
 | Card | Title | Found at | Test | Result |
 |---|---|---|---|---|
-| 1 | Ink on the note 纸条墨水 | Desk, E2 桌面，E2 | Chromatography (Week 3; Ink 2 in Week 8 if done) 色谱法（第3周；如做过，第8周墨水2） | Matches pen B 与B号笔匹配 |
-| 2 | Fingerprint on glass 玻璃杯上的指纹 | Desk, F2 桌面，F2 | Classify the pattern (Week 2) 纹型分类（第2周） | Loop 箕形纹 (smudged: type only 模糊：只能看出类型) |
+| 1 | Ink on the note 纸条墨水 | Desk, E2 办公桌，E2 | Chromatography (Week 3; Ink 2 in Week 8 if done) 色谱法（第3周；如做过，第8周墨水2） | Matches pen B 与B号笔匹配 |
+| 2 | Fingerprint on glass 玻璃杯上的指纹 | Desk, F2 办公桌，F2 | Classify the pattern (Week 2) 纹型分类（第2周） | Loop 箕形纹 (smudged: type only 模糊：只能看出类型) |
 | 3 | White powder 白色粉末 | Floor, F4 地面，F4 | Water, vinegar, iodine (Week 4; Powder 2 in Week 8 if done) 水、白醋、碘液（第4周；如做过，第8周粉末2） | Baking soda 小苏打 |
 | 4 | Puddle of liquid 一小摊液体 | Floor, I2 地面，I2 | Red cabbage indicator (Week 5) 紫甘蓝指示剂（第5周） | Alkali 碱性, about pH 9 pH约9 |
 | 5 | Footprint 脚印 | Floor, G5, toes to the freezer 地面，G5，脚尖朝向冰柜 | Foot length and height graph (Week 6) 脚长与身高图表（第6周） | 24 cm; height about 150 to 170 cm 24厘米；身高约150到170厘米 |
@@ -411,7 +409,7 @@ Create an A5 portrait evidence card for the Think Like a Scientist Science Detec
 - Title: "Snowfield School Cleaning Log | Lab 3 | Thursday" with "雪原学校清洁记录 | 3号实验室 | 星期四" beneath.
 - Handwritten-style entry (exact text):
   "6:30 pm. Mopped floor by the sink with soapy floor cleaner. Left bucket and "Wet floor" sign by the sink to dry. Some water left on the floor. Signed: Cleaning team."
-- Beneath the entry, in the lighter weight, one gist line (facts only; it must not say contaminated or set aside, so the inference stays with the students): "概要：晚上6:30用肥皂水拖了水槽旁的地，留下了桶、标志和一些水。"
+- Beneath the entry, in the lighter weight, one gist line (facts only; it must not say contaminated or set aside, so the inference stays with the students): "概要：晚上6:30用含肥皂的地板清洁剂拖了水槽旁的地，留下了桶、标志和一些水。"
 - Under a dashed cut line at the bottom, a label strip to cut off and stick on the board: "SET ASIDE: contaminated evidence 搁置：受污染的证据".
 
 ### 6.4 Concept cartoon (optional print)
@@ -449,22 +447,6 @@ Create an A4 portrait sheet of six expert witness badges (each about 9 cm by 6 c
 - Liquid expert 液体专家 (indicator cup icon)
 - Footprint expert 脚印专家 (footprint and ruler icon)
 - Soil and paper expert 土壤与纸巾专家 (bottle with layers and paper strip icon)
-
-### 6.7 Contamination fact cards (sorting alternative for Core b and Stretch b)
-
-Create an A5 landscape sheet of seven fact cards (each about 7 cm by 3.5 cm, with cut lines) and two sort labels for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 sheet per group (6), kept in the cleaning log envelope and **handed out with the cleaning log at minute 7 of the Do phase, never before**; give it to a group only after its one quiet minute (Slide 8 speaker notes). Each card carries one fact, English with the Chinese beneath in the lighter weight, and a small icon (map square, clipboard, indicator cup, notebook, sign-in sheet, suspect silhouette). No card says "contaminated" or "set aside": groups decide that themselves, then sort. Band 1 students sort and copy one card into Core b; Stretch b can be answered by copying three cards from the "shows contamination" pile.
-
-- **Sort labels:** "Shows contamination 说明受污染" and "Does not show contamination 不说明受污染".
-- **Fact cards:**
-  1. The puddle at I2 is next to the mop bucket and the "Wet floor" sign at I3. I2处的这摊液体就在I3处的拖把桶和“小心地滑”标志旁边。
-  2. The cleaning log says the floor by the sink was mopped at 6:30 pm and water was left on the floor. 清洁记录写着：晚上6:30拖了水槽旁的地，地上留了水。
-  3. Soapy floor cleaner is alkaline. 含肥皂的地板清洁剂是碱性的。
-  4. The notebook was still on the desk at 6:50 pm, after the floor was mopped. 拖地之后，晚上6:50笔记本还在桌上。
-  5. The sign-in sheet shows the cleaning team in Lab 3 from 6:30 to 6:40 pm. 登记表显示清洁小组晚上6:30到6:40在3号实验室。
-  6. The liquid turned the indicator blue-green. 这液体使指示剂变成了蓝绿色。
-  7. Lily Chen washes glassware with soap solution. 陈莉用肥皂水洗玻璃器皿。
-
-Cards 1 to 5 show contamination; cards 6 and 7 are true facts that do not (teacher key, not printed on the cards).
 
 ## 7. Notes for the incoming teacher
 

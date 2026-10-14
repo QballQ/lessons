@@ -559,8 +559,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | bubble wrap | 气泡膜 | Skills Check Y7 |
 | bun dough | 包子面团 | Y8 W1 |
 | Can you say that again, please? (from the Classroom language card) | 可以再说一遍吗？ | Y7 W10 |
-| card (the record card, Slide 8 method step 4) | 记录卡 | Y8 W2 |
-| card (voting card) | 卡片 | Y7 W5 |
 | carrot | 胡萝卜 | Y7 W1 |
 | Case update (checkpoint header tab) | 案件进展 | Checkpoint Y8 |
 | Case: The Missing Trophy / trophy (already in the paper) | 案件：消失的奖杯 / 奖杯 | Skills Check Y8 |
@@ -575,6 +573,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Class data table (Core c heading) | 全班数据表 | Y8 W6 |
 | Class project board | 全班项目板 | Y7 W7 |
 | Class tally (Core c heading sentence) | 全班划记计数 | Y8 W2 |
+| clay (settling bottle layer label) | 黏土 | Y8 W7 |
 | close / far (suspect height tick boxes, Core f) | 接近 / 远 | Y8 W6 |
 | Code / Code key / Made on / Sample codes | 编号 / 编号说明 / 制作日期 / 样品编号 | Y7 W7 |
 | coin | 硬币 | Checkpoint Y7 |
@@ -598,6 +597,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | drop(s) | 滴 | Checkpoint Y8 |
 | dry / damp | 干的 / 潮湿的 | Y7 W8 |
 | drying shelf | 晾干架 | Y7 W7 |
+| Edge of the sports field (reference soil B) | 运动场边 | Y8 W7 |
 | End of the paper. Check your answers. (already in the paper) | 试卷结束，请检查答案。 | Skills Check Y8 |
 | envelope | 信封 | Y7 W5 |
 | Everyone (role line) / Members / Group name / Repeat 1, 2, 3 (column headings) / none (cell) | 全体 / 成员 / 小组名称 / 第1次、第2次、第3次 / 无 | Y7 W9 |
@@ -616,6 +616,8 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Final skills check (slide title, already in file) | 最终技能检测 | Y7 W10 |
 | fingerprint expert | 指纹专家 | Y8 W2 |
 | Fingerprint types of our class (model chart title, Core d) | 我们班的指纹纹型 | Y8 W2 |
+| floating bits (roots, leaves) (settling bottle layer label) | 漂浮物 | Y8 W7 |
+| Flowerbed by the science block entrance (reference soil A) | 科学楼入口花坛 | Y8 W7 |
 | foil / newspaper / cotton wool / bubble wrap / fabric | 铝箔 / 报纸 / 棉花 / 气泡膜 / 布料 | Y7 W6 |
 | Foot length and height (6.2 header part) | 脚长与身高 | Y8 W6 |
 | Foot length and height of 24 students (example graph title) | 24名学生的脚长与身高 | Y8 W6 |
@@ -634,7 +636,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Frame: When the wings were ___ cm, the mean fall time was ___ s. | 翅膀是___厘米时，平均下落时间是___秒。 | Y7 W5 |
 | frame: You need to ___ because ___. | 你们需要___，因为___。 | Y7 W7 |
 | free in the Fair welcome pack (pen note on suspect cards) | 科学展欢迎包赠品 | Y8 W1 |
-| freezer | 冷冻箱 | Y7 W9 |
 | fresh snow | 新雪 | Y7 W1 |
 | Galileo (name, locked transliteration) | 伽利略 | Y7 W2 |
 | gap (between the book stacks) | 间隙 | Y7 W8 |
@@ -688,7 +689,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | mark (the 2 m wall mark) | 标记 | Y7 W3 |
 | mass of fibre / freezing time / drying time / gap between books / how we pour / time and place (control variable hints) | 纤维的质量 / 冷冻时间 / 晾干时间 / 书堆间距 / 倒水的方式 / 时间和地点 | Y7 W7 |
 | mass of ice left | 剩下的冰的质量 | Skills Check Y7 |
-| Matches (count heading, evidence log Part 2) | 匹配数 | Y8 W1 |
 | Mean meltwater after 15 minutes (ml) | 15分钟后平均融化的水（毫升） | Y7 W9 |
 | Mean working space | 平均值计算区 | Y7 W4 |
 | Measure carefully and kindly: numbers, not names (Slide 7 key idea sense) | 认真、友善地测量：数据只有编号，没有名字 | Y8 W6 |
@@ -718,7 +718,8 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | not very / fairly / very confident (three-step scale) | 不太有把握 / 比较有把握 / 很有把握 | Y7 W9 |
 | Now I agree with ___ because ___. (frame) | 现在我同意___，因为___。 | Y7 W6 |
 | Number of groups (table heading) | 组数 | Y7 W9 |
-| O or I? (table heading) | O还是I？ | Skills Check Y7 |
+| O or I? (table heading) | 观察（O）还是推断（I）？ | checkpoints and skills checks |
+| Canada | 加拿大 | Y7 W7 |
 | office / school office (already in the paper) | 办公室 / 学校办公室 | Skills Check Y8 |
 | old idea / heavy ball and light ball / contradiction / land together (6b panel labels) | 旧观点 / 重球与轻球 / 自相矛盾 / 同时落地 | Y7 W2 |
 | On file: see Week 2 | 已存档：见第2周 | Y8 W1 |
@@ -749,7 +750,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | powder / white powder | 粉末 / 白色粉末 | Checkpoint Y8 |
 | Project question | 项目问题 | Y7 W6 |
 | prototype | 样机 | Y7 W7 |
-| puddle | 水坑 | Y7 W1 |
 | purple cabbage juice (Hook wording for the indicator before it is named) | 紫甘蓝汁 | Y8 W5 |
 | Question and prediction / Evaluation and next time (6b part headings, already in file) | 问题和预测 / 评价和下一步 | Y7 W10 |
 | Question sort (title) | 问题分类 | Y7 W2 |
@@ -771,8 +771,9 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | salt / ice (word bank items) | 盐 / 冰 | Y7 W2 |
 | salt / salt water | 盐 / 盐水 | Checkpoint Y8 |
 | same person | 同一个人 | Y7 W4 |
-| Sample data | 示例数据 | Y7 W4 |
 | Sample data / Class data pooling sheet / Investigation poster / Our class data / Our conclusion / Finish your means | 示例数据 / 全班数据汇总表 / 探究海报 / 全班数据 / 我们的结论 / 算完平均值 | Y7 W9 |
+| sand (settling bottle layer label) | 沙 | Y8 W7 |
+| Sandpit (reference soil C) | 沙坑 | Y8 W7 |
 | scarf | 围巾 | Y7 W1 |
 | Scene (short column label for the scene powder) | 现场 | Y8 W4 |
 | sealed cup | 封好的杯子 | Checkpoint Y7 |
@@ -781,8 +782,10 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | self-assessment slip / award | 自我评价表 / 奖项 | Y7 W9 |
 | Show what you have learned! | 展示你学到了什么！ | Y7 W5 |
 | Show your working | 写出计算过程 | Y7 W4 |
+| silt (settling bottle layer label) | 粉砂 | Y8 W7 |
 | slide (the projected slide, in the cue Copy from the slide) | 幻灯片 | Y7 W3 |
 | slows / slows down | 减慢 | Y7 W6 |
+| small stones (settling bottle layer label) | 小石子 | Y8 W7 |
 | Snacks for volunteers (sign-in reason) | 给志愿者的点心 | Y8 W1 |
 | Snap! (the call) | 断了！ | Y7 W8 |
 | snowman | 雪人 | Y7 W1 |
@@ -795,7 +798,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Statement (table heading) | 陈述 | Y7 W1 |
 | stays cloudy (result phrase) | 一直浑浊 | Y8 W4 |
 | Step / Working (table headings) | 步骤 / 计算过程 | Y7 W4 |
-| stick | 木棍 | Y7 W1 |
 | stir | 搅拌 | Y8 W4 |
 | stone | 石头 | Y7 W1 |
 | stopped the watch late | 按表晚了 | Y7 W4 |
@@ -838,6 +840,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | tracker (short form of suspect tracker, in instructions) | 追踪表 | Y8 W5 |
 | traps air | 留住空气 | Y7 W6 |
 | tree | 树 | Y7 W1 |
+| Tree bed by the main gate (reference soil D) | 校门口树坛 | Y8 W7 |
 | Try every question. | 每道题都要试一试。 | Y7 W5 |
 | type of (hat, material, paper) | ……的种类 | Y7 W5 |
 | type of fibre / amount of sawdust | 纤维种类 / 木屑的量 | Y7 W8 |
@@ -851,7 +854,6 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | warmer / colder | 更暖 / 更冷 | Y7 W6 |
 | waste bowl | 废料盆 | Y7 W8 |
 | water / warm water / cold water | 水 / 温水 / 冷水 | Checkpoint Y8 |
-| water held (word bank item, already in file) | 承受的水量 | Y7 W10 |
 | water held / Mean water held (ml) | 承载水量 / 平均承载水量（毫升） | Y7 W9 |
 | We kept ___ the same because ___. (Section 1 frame, for the frame bank) | 我们保持___不变，因为___。 | Y7 W6 |
 | We need the control cup because ___. (frame) | 我们需要对照杯，因为___。 | Y7 W6 |

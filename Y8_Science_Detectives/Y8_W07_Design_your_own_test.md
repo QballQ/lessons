@@ -10,7 +10,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 8: the f
 - **Big idea:** A good forensic test starts with a clear question, compares the scene sample with known reference samples tested in exactly the same way, changes only one thing, and is planned to be safe before anyone touches the kit.
 - **Learning goals:**
   - I can write a testable question for my group's forensic test and name what we change, what we observe or measure, and what we keep the same. 我能为小组的法庭科学检测写出一个可检验的问题，并说出我们改变什么、观察或测量什么、保持什么不变。
-  - I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能计划一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
+  - I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能制定一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -41,7 +41,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 8: the f
   - Stretch: explain why each control variable matters; justify the number of repeats; add one specific risk of your own with a control.
   - Challenge: make a prediction with a reason and state what result would show it is wrong; explain how your result could (or could not) change the case; anticipate one problem and plan a fix.
 - **Language support:** Frames: "Our question is: Which ___ matches ___ ?" "We change ___ . We observe / measure ___ . We keep ___ the same." "We will repeat each test ___ times because ___ ." "The hazard is ___ . To stay safe we will ___ ." "I predict ___ because ___ ." Chinese welcome for group planning talk; the plan sheet is written with English key words. Traps: "hazard" vs "risk" (the hazard is the thing, the risk is the chance and size of harm); "control" means two things here (a control variable, and a reference sample used as a control); "method" is a list of steps, not the kit list.
-  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Start with Core b) Our samples: copy the sample names from the bilingual "Your samples" box on the option card into the table and write 参照 or 现场 for each, so no English sentence is needed. Then Core a): copy the Chinese question printed under the English on the option card, or fill the bilingual frame. Core c): choose the three answers from the bilingual fold-under word bank. Core d): every method step on the option card is paired and has a picture; the student orders the pictures and writes only the step letter plus the amount and unit on each line (for example "T, 1汤匙"), in Chinese if they wish. Core e): copy the hazards (bilingual on the card) and pick a risk from the bilingual risk words under the table; the control can be copied from the second half of the hazard line. Core f): copy headings from the bilingual heading ideas line and add the unit. At both checkpoints use Say, show, check: the Reporter or the buddy explains the plan in Chinese. The exit ticket may be written in Chinese using the English key words.
+  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer. Start with Core b) Our samples: copy the sample names from the bilingual "Your samples" box on the option card into the table and write 参照 or 现场 for each, so no English sentence is needed. Then Core a): copy the Chinese question printed under the English on the option card. Core d): every method step on the option card is paired and has a picture; the student orders the pictures and writes only the step letter plus the amount and unit on each line (for example "T, 1汤匙"), in Chinese if they wish. Core e): copy the hazards (bilingual on the card); the control can be copied from the second half of the hazard line. At both checkpoints use Say, show, check: the Reporter or the buddy explains the plan in Chinese. The exit ticket may be written in Chinese using the English key words.
 - **Misconceptions to watch for:** "Fair means everyone gets a turn." Changing two things at once (for example a different amount of soil and a different location). Forgetting that the scene sample must be tested exactly like the references. "One go is enough." Writing a kit list instead of a method. Thinking a result will "prove" who did it.
 - **Safety:** No practical work today; students only look at sealed evidence bags. The safety planning in the risk table is checked by the teacher before Week 8 (checkpoint 2, then again when you read the plan sheets).
 - **If time is short:** Skip the plan swap. Stretch and Challenge can be finished at the start of Week 8 while kit is handed out. The teacher can sign off checkpoint 2 after the lesson when reading plan sheets.
@@ -78,7 +78,7 @@ Title: Today / 今天
 On-slide text:
 Today I can ... 今天我能……
 I can write a testable question for my group's forensic test and name what we change, what we observe or measure, and what we keep the same. 我能为小组的法庭科学检测写出一个可检验的问题，并说出我们改变什么、观察或测量什么、保持什么不变。
-I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能计划一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
+I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能制定一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
 Key words today 今天的关键词: testable question 可检验的问题 | independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | fair test 公平测试 | reference sample 参照样本 | method 实验步骤 | prediction 预测 | hazard 危险源 | risk 风险
 Vocabulary panel: none (the key words list on this layout takes its place)
 Visual: Today 今天 layout. Left: the two goals, each English with the Chinese beneath in the lighter weight and an empty tick box. Right: the ten key words, English 中文. Science Detectives series icon, amber accent.
@@ -161,7 +161,7 @@ Columns: each test, with units. 列：每项检测一列，写上单位。
 Leave space for repeats. 留出重复的位置。
 Vocabulary panel: reference sample | 参照样本, dependent variable | 因变量
 Visual: An example empty results table with bilingual headings: first column "Sample 样本" with rows "Reference 1 参照样本1, Reference 2 参照样本2, Reference 3 参照样本3, Reference 4 参照样本4, Scene sample 现场样本"; columns "Test 1 (unit) 测试1（单位）", "Repeat 1 重复1", "Repeat 2 重复2", "Mean or best match 平均值或最匹配". Units in brackets highlighted.
-Speaker notes: A student reads the Chinese lines. A table drawn before the lab saves time on lab day. If you measure something, put the unit in the heading, not in every box. If you only observe (colour, layers, fizz), say what words you will use. Headings may be copied from this slide or from the heading ideas line on the plan sheet.
+Speaker notes: A student reads the Chinese lines. A table drawn before the lab saves time on lab day. If you measure something, put the unit in the heading, not in every box. If you only observe (colour, layers, fizz), say what words you will use. Headings may be copied from this slide.
 ```
 
 ```
@@ -207,7 +207,7 @@ Create an A4 portrait, black-and-white-printable worksheet (two sides) for Year 
 
 **1. Header**
 Design your own test / 设计你的检测 | Science Detectives 科学侦探 | Week 7 第7周 | Name 姓名 ________ Class 班级 ________ Date 日期 ________ | Group 小组 ____
-Today I can 今天我能: I can write a testable question for my group's forensic test and name what we change, what we observe or measure, and what we keep the same. 我能为小组的法庭科学检测写出一个可检验的问题，并说出我们改变什么、观察或测量什么、保持什么不变。 | I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能计划一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
+Today I can 今天我能: I can write a testable question for my group's forensic test and name what we change, what we observe or measure, and what we keep the same. 我能为小组的法庭科学检测写出一个可检验的问题，并说出我们改变什么、观察或测量什么、保持什么不变。 | I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能制定一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
 Tick our option 勾选我们的选项: ☐ Soil 土壤 ☐ Paper 纸巾 ☐ Ink 2 墨水2 ☐ Powder 2 粉末2
 Two small stamp boxes in the top-right corner: "Checkpoint 1 检查点1" and "Checkpoint 2 检查点2" (teacher initials).
 
@@ -217,7 +217,6 @@ testable question 可检验的问题 | independent variable 自变量 | dependen
 **3. Core (one dot)**
 
 a) Our question 我们的问题 (copy or improve the question on your option card) （抄写或改进你选项卡上的问题）:
-"Our question is: Which ___ matches ___?" "我们的问题是：哪个___与___匹配？"
 ____________________________________________________ (2 lines)
 
 b) Our samples 我们的样本
@@ -233,13 +232,12 @@ b) Our samples 我们的样本
 
 (6 rows, about 0.9 cm tall.)
 
-c) Variables 变量. Pick your answers from the fold-under word bank. 从折叠词库里选出你的答案。
-- We change (independent variable) 我们改变: ________________________
-- We observe or measure (dependent variable) 我们观察或测量: ________________________
-- We keep the same (control variables) 我们保持不变: 1 ____________ 2 ____________ 3 ____________
+c) Variables 变量
+- We change (independent variable) 我们改变（自变量）: ________________________
+- We observe or measure (dependent variable) 我们观察或测量（因变量）: ________________________
+- We keep the same (control variables) 我们保持不变（控制变量）: 1 ____________ 2 ____________ 3 ____________
 
 d) Method 实验步骤. Use the method ideas on your option card. 使用选项卡上的实验步骤提示。 Put them in order and add amounts and times. 把它们排好顺序，加上用量和时间。
-You may write the step letter, then the amount and time (for example: T, 1 tablespoon). 可以只写步骤字母，再加上用量和时间（例如：T，1汤匙）。
 1. ______________________________
 2. ______________________________
 3. ______________________________
@@ -250,17 +248,15 @@ You may write the step letter, then the amount and time (for example: T, 1 table
 
 e) Risk table 风险评估表. Copy the hazards from your option card and write a control for each. 从选项卡上抄写危险源，并为每个危险源写一条控制措施。
 
-| Hazard 危险源 | Risk: what could happen? 风险：可能发生什么？ | Control: how we stay safe 控制措施 |
+| Hazard 危险源 | Risk: what could happen? 风险：可能发生什么？ | Control: how we stay safe 控制措施：我们怎样保证安全 |
 |---|---|---|
 | | | |
 | | | |
 | | | |
 
 (3 rows, about 1.2 cm tall.)
-Risk words 风险词库 (a small icon beside each): splash in eye 溅入眼睛 | stains 染色 | cut 割伤 | germs 细菌 | slip on spilt water 滑倒
 
 f) Results table 结果表格. Write the headings now (include units in brackets). 现在写好表头（单位写在括号里）。 Fill it in next week. 下周填写。
-Heading ideas 表头提示: colours 颜色 | layers 分层 | height (mm) 高度（毫米） | time (s) 时间（秒） | fizz 冒气泡 | Repeat 1 重复1 | Repeat 2 重复2 | Mean or best match 平均值或最匹配
 
 | Sample 样本 | | | | |
 |---|---|---|---|---|
@@ -451,24 +447,24 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
 - **Your question 你的问题:** "Which paper towel matches the paper towel found at the scene? 哪种纸巾与现场发现的纸巾匹配？"
 - **Your samples 你的样本:** Four reference papers 四种参照纸巾: P1 The lab's paper towels (from the dispenser by the sink) 实验室纸巾（水槽旁取纸盒里的）; P2 Canteen napkin 食堂餐巾纸; P3 Tissue 面巾纸; P4 Kitchen roll from a shop 厨房纸. Scene sample 现场样本: Evidence 7 证据7 (smoothed flat by your teacher, with an arrow showing which way to cut) （已由老师压平，箭头表示剪的方向）.
 - **Method ideas 实验步骤提示 (put them in order 把它们排好顺序):**
-  - (P) Cut strips 2 cm by 12 cm, all in the direction of the arrow. 剪出2厘米×12厘米的纸条，全部沿箭头方向剪。 (picture: ruler, pencil, scissors, arrow)
-  - (Q) Lower the strip until the bottom just touches the coloured water. Start the timer. 把纸条放低，直到底部刚好碰到有色的水。开始计时。 (picture: strip hanging from a pencil over a cup)
+  - (P) Cut strips 2 cm by 12 cm, all in the direction of the arrow. 剪出2厘米×12厘米的纸巾条，全部沿箭头方向剪。 (picture: ruler, pencil, scissors, arrow)
+  - (Q) Lower the strip until the bottom just touches the coloured water. Start the timer. 把纸巾条放低，直到底部刚好碰到有色的水。开始计时。 (picture: strip hanging from a pencil over a cup)
   - (R) Draw a pencil line 1 cm from the bottom. 在离底部1厘米处画一条铅笔线。 (picture: ruler and pencil)
-  - (S) At 60 seconds, lift the strip out and mark how high the water climbed. 到60秒时，取出纸条，标出水爬到的高度。 (picture: clock at 60 s, pencil mark)
+  - (S) At 60 seconds, lift the strip out and mark how high the water climbed. 到60秒时，取出纸巾条，标出水爬到的高度。 (picture: clock at 60 s, pencil mark)
   - (T) Measure from the pencil line in mm. 从铅笔线开始量，用毫米记。 (picture: ruler beside a strip)
   - (U) Peel a corner to count the layers. Look at the pattern with a magnifier. 揭开一个角，数一数层数。用放大镜观察压纹。 (picture: two layers peeling apart; magnifier over a dotted pattern)
 - **Main hazards 主要危险源:**
   - Food colouring stains. Use one drop only. 食用色素会染色，只用一滴。
   - Scissors: cut away from your fingers. 用剪刀时刀口朝外。
   - Wipe up spills straight away. 洒出的液体要立即擦干。
-- **Think about 想一想:** "Paper towels are made in long rolls. 纸巾是做成长卷的。 Why might a strip cut along the roll and a strip cut across the roll give different results? 为什么沿着卷的方向剪的纸条和横着剪的纸条可能得到不同的结果？"
+- **Think about 想一想:** "Paper towels are made in long rolls. 纸巾是做成长卷的。 Why might a strip cut along the roll and a strip cut across the roll give different results? 为什么沿着卷的方向剪的纸巾条和横着剪的纸巾条可能得到不同的结果？"
 
 ### 6.3 Option card: Ink 2
 
 Create an A4 portrait option card for the Think Like a Scientist Science Detectives series, black-and-white printable.
 
 - **Header:** "Option: Ink 2 | 选项：墨水2" with an icon of three chromatography strips in three cups.
-- **Story hook 案情线索:** "In Week 3 the note ink matched pen B, using water as the solvent. A good forensic scientist checks a match a second way. Is water the best solvent, and does the match still hold? 第3周用水作溶剂时，纸条墨水与B笔吻合。好的法庭科学家会用第二种方法核对。水是最好的溶剂吗？结果还吻合吗？"
+- **Story hook 案情线索:** "In Week 3 the note ink matched pen B, using water as the solvent. A good forensic scientist checks a match a second way. Is water the best solvent, and does the match still hold? 第3周用水作溶剂时，纸条墨水与B号笔匹配。好的法庭科学家会用第二种方法核对。水是最好的溶剂吗？结果还匹配吗？"
 - **Your question 你的问题:** "Which solvent separates our inks best: water, salt water or vinegar? 哪种溶剂把我们的墨水分离得最好：水、盐水还是白醋？ Does the note ink still match pen B? 纸条墨水还与B号笔匹配吗？"
 - **Your samples 你的样本:** References 参照样本: pens A, B, C, D A、B、C、D号笔. Scene sample 现场样本: note ink strips N (ready made) 带纸条墨水N的滤纸条（已制好）. Solvents 溶剂: water 水, salt water 盐水 (1 level teaspoon of salt in 100 ml of water) （100毫升水加1平茶匙食盐）, white vinegar 白醋.
 - **Method ideas 实验步骤提示 (put them in order 把它们排好顺序):**
@@ -500,7 +496,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
   - (R) Record each result straight away. 每个结果都要立即记录。 (picture: pencil and grid)
   - (S) Stir a pea-sized spoonful into a third of a cup of water. 把豌豆大小的一勺搅进三分之一杯水里。 (picture: cup and stirring stick)
   - (T) Add 1 drop of iodine to a pea-sized spoonful in another well (Safety Officer only). 在另一个凹孔里放豌豆大小的一勺，加1滴碘液（仅限安全员操作）。 (picture: dropper, blue-black well)
-- **Clue box (label: Clue 线索):** "A mixture can show the signs of BOTH powders. 混合物可能同时显示两种粉末的特征。 Example: fizzes (baking soda) AND blue-black (starch). 概要：例如既冒气泡（小苏打）又变蓝黑色（淀粉）。"
+- **Clue box:** "A mixture can show the signs of BOTH powders. 混合物可能同时显示两种粉末的特征。 Example: fizzes (baking soda) AND blue-black (starch). 例如：既冒气泡（小苏打）又变蓝黑色（淀粉）。"
 - **Main hazards 主要危险源:**
   - Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder. 不要品尝或食用任何粉末。
