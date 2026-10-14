@@ -395,12 +395,12 @@ My prediction 我的预测: I predict ______________ will be the best insulator 
 [Shared] People in very hot deserts sometimes wear thick robes. Why might this help them stay cool? 在非常炎热的沙漠里，人们有时穿厚长袍。这为什么可能帮助他们保持凉爽？
 (Dashed-border box, about 5 cm tall.)
 
-**7. Fold-under word bank** (dashed fold line above)
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
 [Shared] thermal insulator 隔热材料 | heat transfer 热传递 | warmer 更暖 | colder 更冷 | slows down 减慢 | traps air 留住空气 | thick 厚 | thin 薄 | foil 铝箔 | newspaper 报纸 | cotton wool 棉花 | bubble wrap 气泡膜 | fabric 布料 | control 对照 | because 因为
 [Plan A] add: meltwater 融化的水 | measuring cylinder 量筒
 [Plan B] add: temperature drop 温度下降 | thermometer 温度计
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 6 第6周 | Name 姓名: __________
 The best insulator was ______________. 最好的隔热材料是______________。
 One number from our results: ______________ (with unit). 我们结果中的一个数字：______________（带单位）。

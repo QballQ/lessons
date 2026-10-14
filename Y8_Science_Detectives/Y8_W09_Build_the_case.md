@@ -222,7 +222,7 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 strong evidence 有力证据 | supporting evidence 支持性证据 | weak evidence 薄弱证据 | contamination 污染 | tunnel vision 隧道视野 | confirmation bias 确认偏误 | claim 主张 | reasoning 推理 | confidence 把握 | expert witness 专家证人
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 a) Rank the evidence. Write who each clue matches, then circle its strength. 给证据分级。写出每条线索符合哪些嫌疑人，然后圈出它的强度。
 
@@ -257,14 +257,14 @@ d) My case conclusion (Claim, Evidence, Reasoning). 我的案件结论（主张�
 - Evidence 证据: "The evidence is: 1 ________________ 2 ________________ 3 ________________ 4 ________________ ." "证据是：1________________ 2________________ 3________________ 4________________。"
 - Reasoning 推理: "This shows ________________ because ________________________ ." "这说明________________，因为________________________。" (3 lines)
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 
 a) Confidence 把握. Circle 圈出: low 低 / medium 中 / high 高.
 "I am ________ confident, but not certain, because ________________________ ." "我________有把握，但不能确定，因为________________________。" (2 lines)
 
 b) Give three facts that show the puddle is contaminated. Use the cleaning log, the scene map and the timeline. 写出三条事实，说明这摊液体受到了污染。请用清洁记录、现场平面图和时间线。 (3 lines)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 
 a) Describe two different kinds of tunnel vision a detective could have had in this case. 描述侦探在这个案件中可能出现的两种不同的隧道视野。 (4 lines)
 

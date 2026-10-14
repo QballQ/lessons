@@ -219,7 +219,7 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 foot length 脚长 | height 身高 | data 数据 | scatter graph 散点图 | correlation 相关性 | line of best fit 最佳拟合线 | estimate 估计 | range 范围
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 a) My measurements. 我的测量。 (You may leave this blank and use the sample data.) （你可以留空，改用样本数据。）
 
@@ -263,7 +263,7 @@ e) Draw a line of best fit with a ruler. 用直尺画一条最佳拟合线。 Re
 f) Use the suspect cards. 使用嫌疑人卡。 Who is close to this height? 谁的身高接近这个数？ ________________ Who is far from it? 谁的身高相差很远？ ________________
 (Picture cue beside task f), a mini suspect height strip copied from Slide 11: a vertical height scale from 140 to 190 cm with four silhouettes standing at their heights, labelled Lily Chen 陈莉 158 cm, Max Zhang 张铭轩 182 cm, Chef Zhou 周师傅 176 cm, Dr Ruby Huang 黄若琳 165 cm, and under each silhouette two tick boxes: close 接近 ☐ far 远 ☐. A student compares the number from e) with the strip and ticks, so the cards can be read or skipped.)
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 
 a) Look at the crosses with a foot length from 23.5 cm to 24.5 cm. 看脚长在23.5厘米到24.5厘米之间的叉。 Write the lowest and highest height. 写出最低和最高的身高。
 "The person was probably between ________ cm and ________ cm tall." “这个人的身高可能在________厘米到________厘米之间。”
@@ -281,7 +281,7 @@ c) Describe the correlation: 描述相关性： "As foot length increases, heigh
 
 d) Why is a range more honest than one number? 为什么范围比一个数字更诚实？ (2 lines)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 
 a) Give two reasons why our estimate might not be exactly right for the person at the scene. 写出两个理由，说明我们的估计对现场的那个人可能不完全准确。 Think about who is in our data, and what made the print. 想一想我们的数据来自哪些人，以及这个脚印是什么留下的。 (4 lines)
 
@@ -296,7 +296,7 @@ Is the footprint strong, supporting or weak evidence? 这个脚印是有力证�
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
 increases 增加 | decreases 减少 | positive 正（相关） | taller 更高 | shorter 更矮 | between 在……之间 | range 范围 | estimate 估计 | line of best fit 最佳拟合线 | children 儿童 | adults 成年人 | shoe 鞋 | foot 脚 | varies 各不相同 | outside the graph 超出图表范围 | matches 匹配
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________
 1. Height range for the footprint: ________ to ________ cm 脚印对应的身高范围：________到________厘米
 2. Which suspects fit? 哪些嫌疑人符合？ ________________

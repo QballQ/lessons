@@ -30,7 +30,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 10: the 
 |---|---|---|---|---|
 | Do Now 课前任务 (Skills check) | 15 | Skills check papers on desks before students arrive; starts the timer as soon as all are seated; 5-minute warning; collects papers at once | Complete the final skills check alone | Slides 2 to 3 (Slide 3 is the Today slide: shown while the papers are collected, in the transition into the Hook; the skills check itself is never shortened); `Skills_Check_Y8.md` |
 | Hook 引入 | 1 | Becomes the judge: "The Court of Science is now in session." Shows the order of witnesses and who asks each question. Shows the Today slide (Slide 3) first, while the skills check papers are collected; a student reads the Chinese goals | Experts put on badges; juries pick up question cards and jury notes | Slide 4 |
-| Do 实践 (Court of Science) | 14 | Calls each group to the stand in evidence order; times 90 seconds of talk plus one jury question (about 30 seconds); records strand 6 levels on the talk record | Groups give their expert witness talk; the next group asks one prepared jury question; everyone fills in jury notes and one peer feedback slip | Slides 5 to 7; statement frames; expert result cards (6.6); jury question cards; jury notes; peer feedback slips |
+| Do 实践 (Court of Science) | 14 | Calls each group to the stand in evidence order; times 90 seconds of talk plus one jury question (about 30 seconds); records strand 6 levels on the talk record | Groups give their expert witness talk; the next group asks one prepared jury question; everyone fills in jury notes and one peer feedback slip | Slides 5 to 7; statement frames; jury question cards; jury notes; peer feedback slips |
 | Think and Reflect 思辨与反思 (Verdict and true ending) | 5 | Runs the jury vote; reads the true ending aloud; "Case closed"; if the verdict was wrong, walks back through the board | Write their own verdict on the exit ticket, then vote; listen to the ending | Slides 8 to 11; reveal card |
 | Think and Reflect 思辨与反思 (Survey and certificates) | 5 | Hands out the survey (3 min); thanks the class; certificates (2 min, see Section 7 for timing options) | Complete the interest survey; receive certificate or "case closed" thanks | Slides 12 to 13; `Interest_Survey.md`; certificates |
 
@@ -38,11 +38,11 @@ There is no separate Learn phase this week.
 
 - **Order of witnesses (fixed, so the story builds):** 1 Fingerprint (Evidence 2) | 2 Ink (Evidence 1) | 3 Powder (Evidence 3) | 4 Liquid and contamination (Evidence 4) | 5 Footprint (Evidence 5) | 6 Soil and paper (Evidence 6 and 7). **Who asks:** the group that speaks next asks the jury question; the Fingerprint group asks the last group (Soil and paper).
 - **Tiers:** (during the Court)
-  - Core: give your part of the talk using the statement frame; fill in jury notes with key words. Band 1 students circle the strength in each row and copy the result and the suspect names from the expert result card (6.6).
+  - Core: give your part of the talk using the statement frame; fill in jury notes with key words.
   - Stretch: answer or ask a jury question with evidence; name the strongest evidence and why.
   - Challenge: say what your evidence does not show; judge which expert answered best and why.
 - **Language support:** Frames on the stand: "We tested ___ . We compared it with ___ . The result was ___ . This matches ___ . This evidence is strong / supporting / weak because ___ ." Answering: "That is a good question. Our evidence shows ___ , but it does not show ___ ." Asking: read the card aloud. Verdict: "My verdict is ___ because ___ ." Students may glance at their frame; reading it aloud is fine. Strand 6 is judged on clarity of the science, not grammar or accent. A student may give one sentence in Chinese and then the key words in English if they freeze.
-  - Band 1 today: the student sits beside their language buddy, who reads each paired Chinese line on the slides, the jury notes sheet and the question cards and explains the task in Chinese but never writes the answer. On the stand (Core speaking), the student's part is on the Week 9 statement frame, which carries the Chinese frame beneath each English frame with the same gaps: the buddy reads the Chinese frame once before the Court opens, the student may read from the frame, and may say one sentence in Chinese and then the English key words (the tip is printed on the expert result card, 6.6; say it aloud before witness 1). For the jury notes (Core), start with the strength column: each expert group holds up its bilingual result card (6.6) while it speaks, so the student circles the strength printed in the row and copies the result key word and the suspect names from the card or the fold-under word bank instead of decoding the spoken English; the buddy points to the row. For the jury question (Stretch), the group reads the Chinese line of the card together and the student may read the English aloud with the buddy. On the exit ticket the student circles a suspect name (or 证据不足) and writes the reason in Chinese with the frame 我的裁决是___，因为___。 After the teacher reads the true ending in English, a confident Chinese reader reads the four 概要 lines on the reveal card, so the student hears who took the notebook and why. Chinese answers count for every Core task.
+  - Band 1 today: the student sits beside their language buddy, who reads each paired Chinese line on the slides, the jury notes sheet and the question cards and explains the task in Chinese but never writes the answer. On the stand (Core speaking), the student's part is on the Week 9 statement frame, which carries the Chinese frame beneath each English frame with the same gaps: the buddy reads the Chinese frame once before the Court opens, the student may read from the frame, and may say one sentence in Chinese and then the English key words (say this tip aloud before witness 1). For the jury notes (Core), the buddy points to the row for the expert who is speaking; the student writes the strength word by counting the suspect names the expert states (one suspect 有力, two 支持性, three or more 薄弱, or 搁置 if the expert says the evidence was set aside) and copies the result words and the suspect names from the fold-under word bank, so the student does not have to decode the spoken English. For the jury question (Stretch), the group reads the Chinese line of the card together and the student may read the English aloud with the buddy. On the exit ticket the student circles a suspect name (or 证据不足) and writes the reason in Chinese with the frame 我的裁决是___，因为___。 After the teacher reads the true ending in English, a confident Chinese reader reads the four 概要 lines on the reveal card, so the student hears who took the notebook and why. Chinese answers count for every Core task.
 - **Misconceptions to watch for:** "A verdict means certain." "If the jury disagrees with us, we were wrong" (only the evidence decides). "Weak evidence was a waste of time." "The expert with the most confident voice is the most reliable."
 - **Safety:** No practical hazards beyond normal classroom rules. If you bring out the notebook prop from the freezer, it is cold and damp: pass it round in its bag, not out of it.
 - **If time is short:** The skills check is never shortened (it must match Week 1). Cut talks to 75 seconds; ask only three jury questions in total (after talks 2, 4 and 6). Move peer feedback slips and certificates to the next session or form time. Never skip the verdict and the true ending.
@@ -112,7 +112,7 @@ How sure we are. 我们有多大把握。
 90 seconds. 90秒。
 Vocabulary panel: expert witness | 专家证人, evidence | 证据, confidence | 把握, testimony | 证词
 Visual: A witness stand with an expert badge icon, a 90-second timer, and the four parts of the statement as four numbered steps. A small strip at the bottom: "Now presenting 现在出庭: ________" (editable).
-Speaker notes: Leave this slide up during each talk and type the group name in the strip. Hold up a "15 seconds" card near the end. If a speaker freezes, say: "Tell us the result first," and let them glance at their frame. Before witness 1, a student reads the Chinese lines, and say the tip printed on the expert result card (6.6): one sentence in Chinese, then the key words in English, is fine. Each group holds up its result card while it speaks.
+Speaker notes: Leave this slide up during each talk and type the group name in the strip. Hold up a "15 seconds" card near the end. If a speaker freezes, say: "Tell us the result first," and let them glance at their frame. Before witness 1, a student reads the Chinese lines, and say the tip aloud: one sentence in Chinese, then the key words in English, is fine.
 ```
 
 ```
@@ -136,7 +136,7 @@ For each expert, write: what it shows, who it matches, strong, supporting, weak 
 Fill in your peer feedback slip for your group. 为你负责的小组填写同伴反馈条。
 Vocabulary panel: evidence | 证据, verdict | 裁决
 Visual: The jury notes table thumbnail (six rows, one per evidence type) beside a "Two stars and a wish" slip icon. Small list: "Your slip is for group 你的反馈对象: ____".
-Speaker notes: Show this slide once, before talk 1, then switch back to slide 5. Each student writes one peer feedback slip for the group named on their slip. Use the changeover seconds to finish it. A student reads the Chinese lines. Band 1 students circle the strength in the row and copy from the result card the expert group holds up.
+Speaker notes: Show this slide once, before talk 1, then switch back to slide 5. Each student writes one peer feedback slip for the group named on their slip. Use the changeover seconds to finish it. A student reads the Chinese lines.
 ```
 
 ```
@@ -222,31 +222,31 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 court 法庭 | jury 陪审团 | verdict 裁决 | expert witness 专家证人 | testimony 证词 | evidence 证据 | confidence 把握 | case closed 结案
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
-Jury notes 陪审团笔记. Write key words only while each expert speaks. 每位专家发言时，只写关键词。 Or copy from the expert group's result card (6.6) and circle the strength. 或者从专家组的结果卡（6.6）上抄写，并圈出强度。
+Jury notes 陪审团笔记. Write key words only while each expert speaks. 每位专家发言时，只写关键词。
 
-| # | Expert 专家 | What it shows 结果说明了什么 | Matches 符合 | Strong / Supporting / Weak / Set aside 有力 / 支持性 / 薄弱 / 搁置 (circle one 圈出一个) |
+| # | Expert 专家 | What it shows 结果说明了什么 | Matches 符合 | Strong / Supporting / Weak / Set aside 有力 / 支持性 / 薄弱 / 搁置 |
 |---|---|---|---|---|
-| 1 | Fingerprint 指纹 | | | Strong / Supporting / Weak / Set aside |
-| 2 | Ink 墨水 | | | Strong / Supporting / Weak / Set aside |
-| 3 | Powder 粉末 | | | Strong / Supporting / Weak / Set aside |
-| 4 | Liquid 液体 | | | Strong / Supporting / Weak / Set aside |
-| 5 | Footprint 脚印 | | | Strong / Supporting / Weak / Set aside |
-| 6 | Soil and paper 土壤与纸巾 | | | Strong / Supporting / Weak / Set aside |
+| 1 | Fingerprint 指纹 | | | |
+| 2 | Ink 墨水 | | | |
+| 3 | Powder 粉末 | | | |
+| 4 | Liquid 液体 | | | |
+| 5 | Footprint 脚印 | | | |
+| 6 | Soil and paper 土壤与纸巾 | | | |
 
-(6 rows, about 1.2 cm tall. The four strength words are printed in each row for circling; their Chinese is given once in the heading, not in every row. The result words and the suspect names, with their Chinese, are in the fold-under word bank.)
+(6 rows, about 1.2 cm tall.)
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 
 "The strongest evidence we heard was ________ because ________________________ ." "我们听到的最有力的证据是________，因为________________________。" (2 lines)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 
-Which expert answered the jury's question best? What made the answer good? 哪位专家对陪审团问题的回答最好？是什么让这个回答好？ (3 lines)
+Which expert answered the jury's question best? What made the answer good? 哪位专家对陪审团问题的回答最好？这个回答好在哪里？ (3 lines)
 
 **6. My thinking 我的想法 (any language 可用中文)**
-What has this case taught you about how scientists decide what is true? 这个案件让你学到了什么：科学家是怎样判断什么是真的？
+What has this case taught you about how scientists decide what is true? 关于科学家怎样判断什么是真的，这个案件教给了你什么？
 (Dashed box, about 4 cm tall)
 
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
@@ -256,7 +256,6 @@ Suspects 嫌疑人: Lily Chen 陈莉 | Max Zhang 张铭轩 | Chef Zhou 周师傅
 **8. Exit ticket strip 离场小测** (cut line above): the verdict slip
 Exit ticket: my verdict 离场小测：我的裁决 | Name 姓名 ________
 My verdict 我的裁决: ________________ took the notebook. ________________拿走了笔记本。 (or: not enough evidence 证据不足)
-Or circle one 或者圈出一个: Lily Chen 陈莉 / Max Zhang 张铭轩 / Chef Zhou 周师傅 / Dr Ruby Huang 黄若琳 / not enough evidence 证据不足
 Confidence 把握: low 低 / medium 中 / high 高
 My strongest reason 我最有力的理由 (any language 可用中文): ______________________________
 "My verdict is ________ because ________________________ ." "我的裁决是________，因为________________________。"
@@ -309,9 +308,9 @@ Week 10 | Evidence: all reliable evidence | Test: Court of Science | Result: cla
 Create a half-A4 kit card for Year 8 Week 10 using the Think Like a Scientist kit card template.
 
 - **Per student:** final skills check paper (`../assessment/Skills_Check_Y8.md`), 1; interest survey (`../assessment/Interest_Survey.md`), 1; jury notes sheet, 1; peer feedback slip (`../assessment/Rubric_and_Reporting.md`, Section 6), 1, each pre-labelled with the group it is for; pencil, 1.
-- **Per group (4 students):** case file with expert witness statement frame, 1; expert witness badges, 4 (from Week 9); jury question card set, 1; expert result card (6.6), 1, filled in before the lesson.
+- **Per group (4 students):** case file with expert witness statement frame, 1; expert witness badges, 4 (from Week 9); jury question card set, 1.
 - **Per class:** reveal card, 1; Court of Science run sheet, 1; strand 6 talk record, 1; a timer visible to the class; optional notebook prop in a freezer bag; certificates if ready (`../assessment/Rubric_and_Reporting.md`, Section 4).
-- **Teacher prep before the lesson (about 30 minutes):** Print skills checks, surveys, jury notes, peer feedback slips (label each slip with a group number so every group gets feedback from several students) and the strand 6 talk record. Cut jury question cards (one set per group). Fill in one expert result card (6.6) per group from its statement frame (boxes 3 and 4), or have the group do it as soon as its case file is returned, and clip it to the case file. Return case files and badges to group tables. Put skills check papers face down on desks. Optional: put the notebook prop in a freezer bag in the staff freezer the day before. Arrange the room: a "witness stand" spot at the front, groups facing it.
+- **Teacher prep before the lesson (about 30 minutes):** Print skills checks, surveys, jury notes, peer feedback slips (label each slip with a group number so every group gets feedback from several students) and the strand 6 talk record. Cut jury question cards (one set per group). Return case files and badges to group tables. Put skills check papers face down on desks. Optional: put the notebook prop in a freezer bag in the staff freezer the day before. Arrange the room: a "witness stand" spot at the front, groups facing it.
 - **Hazards and controls:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Notebook prop from the freezer: keep it in its bag; it is cold and wet. 从冰柜取出的笔记本道具：请放在袋子里，它又冷又湿。
@@ -385,10 +384,11 @@ Create an A4 portrait read-aloud card for the Think Like a Scientist Science Det
 > Case closed. 结案。
 
 - Gist lines 概要 (one beneath each paragraph, in the lighter weight; the English above is printed unchanged, and a confident Chinese reader reads these after the teacher's English):
-  - Paragraph 1: 概要：第二天早上，弗罗斯特教授在实验室冰柜里找到了她的蓝色笔记本：冰冷，结了点霜，但每一页都完好。
+  - Paragraph 1: 概要：第二天早上，弗罗斯特教授在实验室冰柜里找到了完好的笔记本。
   - Paragraph 2: 概要：黄若琳来道歉：她的演示出了问题，想看雪花方法；听到声音慌了，就把笔记本藏了起来。纸条是她写的，小苏打是她路上洒的。
-  - Paragraph 3: 概要：弗罗斯特教授笑着说：你本来可以直接问我。分享让科学做得更好。我们一起做雪花演示吧。
+  - Paragraph 3: 概要：弗罗斯特教授笑着说：分享让科学做得更好，我们一起做演示吧。
   - Paragraph 4: 概要：那天下午，两位科学家并肩站在冬季科学展上，雪花完美无瑕。
+  - Note: the Paragraph 2 gist is deliberately fuller than the 25-character guide. As with the Week 1 story (matrix row I), the whole series must resolve for every student, so this gist names who took the notebook and why.
 - Small illustration at the foot: two scientists at a Fair table with snowflake crystals (fictional, friendly).
 
 ### 6.4 Final case file checklist
@@ -410,7 +410,7 @@ Create an A5 portrait checklist for the Think Like a Scientist Science Detective
   11. Week 9 evidence board photo, CER conclusion with confidence 第9周证据板照片与主张、证据、推理（CER）结论及把握
   12. Expert witness statement 专家证人陈述
   13. Jury notes and verdict 陪审团笔记与裁决
-  14. Peer feedback slips received 收到的同伴反馈
+  14. Peer feedback slips received 收到的同伴反馈条
   15. Self-assessment slip (Week 9) 自我评估条（第9周）
 - **Footer:** "Rubric strands 1 to 5 are judged from this case file. 评价量规第1至5项依据本档案评定。"
 
@@ -426,17 +426,9 @@ Create an A4 landscape teacher record sheet for Year 8 Week 10 for the Think Lik
 
 - **Footer:** "Judge the science, not the grammar. Levels from `Rubric_and_Reporting.md`, Section 1, strand 6. Enter in the tracker."
 
-### 6.6 Expert result card (held up during the talk)
-
-Create an A5 landscape card for the Think Like a Scientist Science Detectives series, black-and-white printable, in large type (at least 20 pt) so the jury can read it from their seats. Print: 1 per expert group (6). Each Chinese label sits beneath its English label in the lighter weight. The card is filled in before the lesson from the group's expert witness statement frame (Week 9 printable 6.5, boxes 3 and 4) and held up by the group while it speaks, so jurors with little English copy the key words into their jury notes instead of decoding speech. It shows only the group's own result, which the group states in its talk anyway.
-
-- **Header:** "Expert result card 专家结果卡 | ________ expert ________专家"
-- **Fields (one line each, with a writing line):** "Evidence 证据: ________" | "Result 结果: ________" | "Matches 符合: ________" | "Strength 强度 (circle one 圈出一个): Strong 有力 / Supporting 支持性 / Weak 薄弱 / Set aside 搁置"
-- **Footer (for the speakers):** "Tip: You may say one sentence in Chinese, then the key words in English. 可以先用中文说一句，再用英语说关键词。"
-
 ## 7. Notes for the incoming teacher
 
-- **Before the lesson:** return case files with the Week 9 statement frames; put skills checks on desks; label peer feedback slips by group; have the reveal card on your clipboard. Clip each group's filled-in expert result card (6.6) to its case file. The skills check must run under the same conditions as Week 1 (`Skills_Check_Y8.md`, Section 0).
+- **Before the lesson:** return case files with the Week 9 statement frames; put skills checks on desks; label peer feedback slips by group; have the reveal card on your clipboard. The skills check must run under the same conditions as Week 1 (`Skills_Check_Y8.md`, Section 0).
 - **Certificates, two options.** Award levels need all six strands (strand 6 is judged today) and Most Improved Scientist needs today's skills check marked, so most classes cannot receive final certificates in this lesson. Recommended: thank the class today and present certificates at a short ceremony in the next form period or assembly, within a week. If certificates must be given today, use your Week 9 draft levels for strands 1 to 5: print certificates for students whose award is already fixed whatever their strand 6 level, hand-complete the rest after the lesson, and announce Most Improved Scientist later.
 - **Close-out checklist (after the lesson):**
   1. Mark the skills checks with the mark scheme in `Skills_Check_Y8.md`; enter totals (and question marks, if used) in the tracker as set out in `Tracker_Spec.md`.

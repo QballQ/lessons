@@ -278,7 +278,7 @@ Why is a graph more useful than a table of numbers for spotting a pattern? 为�
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
 graph 图表 | line graph 折线图 | bar chart 条形图 | x-axis 横轴（x轴） | y-axis 纵轴（y轴） | plot 描点 | cross 叉号 | line of best fit 最佳拟合线 | number 数值 | word 文字 | increases 增加 | decreases 减少 | longer 更长 | air resistance 空气阻力 | predict 预测 | pattern 规律
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 5 第5周 | Name 姓名: __________
 Leo tests how the type of material (paper, card, foil) changes the fall time of a spinner. Leo测试材料的种类（纸、卡纸、铝箔）如何改变纸直升机的下落时间。
 Which graph should he draw? 他应该画哪种图表？ ☐ bar chart 条形图 ☐ line graph 折线图

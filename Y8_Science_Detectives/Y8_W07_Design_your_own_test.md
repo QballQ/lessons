@@ -214,7 +214,7 @@ Two small stamp boxes in the top-right corner: "Checkpoint 1 检查点1" and "Ch
 **2. Vocabulary panel**
 testable question 可检验的问题 | independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | fair test 公平测试 | reference sample 参照样本 | method 实验步骤 | prediction 预测 | hazard 危险源 | risk 风险
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 a) Our question 我们的问题 (copy or improve the question on your option card) （抄写或改进你选项卡上的问题）:
 ____________________________________________________ (2 lines)
@@ -269,7 +269,7 @@ f) Results table 结果表格. Write the headings now (include units in brackets
 
 (5 columns with empty headings after "Sample"; 6 rows about 1 cm tall.)
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 
 a) Choose two of your control variables. 选出你们的两个控制变量。 Explain why each must stay the same. 解释为什么每个都必须保持不变。
 "We must keep ________ the same because ________________ ." "我们必须保持________不变，因为________________。" (2 lines each)
@@ -278,7 +278,7 @@ b) "We will repeat each test ________ times because ________________ ." "我们�
 
 c) Add one more risk that is specific to your test (not on the option card), with a control. 再加一条你们检测特有的风险（选项卡上没有的），并写出控制措施。 (2 lines)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 
 a) Prediction 预测: "I predict ________ because ________ . If we see ________ , my prediction is wrong." "我预测________，因为________。如果我们看到________，我的预测就是错的。" (3 lines)
 
@@ -293,7 +293,7 @@ Why does a forensic scientist test reference samples, and not only the sample fr
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
 which sample 哪个样本 | amount 用量 | volume (ml) 体积（毫升） | time (s) 时间（秒） | same container 同样的容器 | same depth 同样的深度 | layers 分层 | height (mm) 高度（毫米） | colours 颜色 | fizz 冒气泡 | goggles 护目镜 | wash hands 洗手 | wipe spills 擦干洒出的液体 | repeat 重复 | reference 参照 | scene sample 现场样本 | rule out 排除 | everyone 所有人
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________ | Option 检测选项 ________
 1. We change: ________________ 1. 我们改变：________________
 2. We observe or measure: ________________ 2. 我们观察或测量：________________

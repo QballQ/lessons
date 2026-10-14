@@ -550,6 +550,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | At first I inferred ___. Now I infer ___ because ___. | 起初我推断___。现在我推断___，因为___。 | Y7 W1 |
 | axis label / axis label bank / scale / even scale / title (graph title) | 坐标轴标签 / 坐标轴标签库 / 刻度 / 刻度均匀 / 标题 | Y7 W9 |
 | axis labels | 坐标轴标签 | Y7 W5 |
+| badge (short form of expert witness badge, clean-up line) | 徽章 | Y8 W10 |
 | band (colour band on a chromatogram) | 色带 | Checkpoint Y8 |
 | Bar or line? | 条形图还是折线图？ | Y7 W5 |
 | Before the test / After the test | 测试前 / 测试后 | Y7 W6 |
@@ -560,6 +561,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Bonus (bonus question label) | 加分题 | Y7 W4 |
 | Bonus (bonus question) | 附加题 | Y7 W5 |
 | book / flat paper / crumpled paper (demo labels) | 书 / 平整的纸 / 揉皱的纸 | Y7 W2 |
+| bottle type (control box) | 瓶子类型 | Y8 W8 |
 | box (insulated box) | 箱子 | Y7 W8 |
 | brand / Brand A / Brand B (paper towel brand) | 品牌 / 品牌A / 品牌B | Skills Check Y8 |
 | breaking load | 断裂负载 | Y7 W9 |
@@ -577,6 +579,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | checkpoint quiz (title-slide subtitle; same term as Checkpoint) | 阶段检测 | Y8 W5 |
 | circle one | 圈出一个 | Y8 W2 |
 | circle one (instruction) | 圈出一个 | Y8 W5 |
+| class box (clean-up line) | 班级收纳盒 | Y8 W10 |
 | Class data table (Core c heading) | 全班数据表 | Y8 W6 |
 | Class project board | 全班项目板 | Y7 W7 |
 | Class tally (Core c heading sentence) | 全班划记计数 | Y8 W2 |
@@ -585,11 +588,13 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Code / Code key / Made on / Sample codes | 编号 / 编号说明 / 制作日期 / 样品编号 | Y7 W7 |
 | coin | 硬币 | Checkpoint Y7 |
 | cotton wool | 棉花 | Skills Check Y7 |
+| Court of Science run sheet (6.1 title) | 科学法庭流程表 | Y8 W10 |
 | cracked (verb, how a sample broke) | 裂开 | Y7 W8 |
 | cube size / bag / place (variables card sort) | 冰块大小 / 袋子 / 地点 | Y7 W6 |
 | Cue: We changed ___. / We measured ___. / The class mean for ___ was ___ ml. | 我们改变了___。 / 我们测量了___。 / ___的全班平均值是___毫升。 | Y7 W10 |
 | cup (table heading, cup A) / cup (in a sentence) | 杯（A杯） / 杯子 | Y7 W6 |
 | Cup letter | 杯子字母 | Y7 W2 |
+| cut along the arrow (control box) | 沿箭头剪 | Y8 W8 |
 | dark patch (Slide 8 step 1) | 深色区域 | Y8 W2 |
 | deep / far apart | 深 / 距离远 | Y7 W1 |
 | demo (demonstration) | 示范 | Y7 W5 |
@@ -597,6 +602,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | detective team (already in the paper) | 侦探小组 | Skills Check Y8 |
 | different method (word bank item) | 实验步骤不同 | Y7 W10 |
 | Does ___ change ___? (frame) | ___会改变___吗？ | Y7 W2 |
+| dot 3 times (control box) | 点3次 | Y8 W8 |
 | dough | 面团 | Y7 W8 |
 | Dr Huang (short form on the scene map and in Challenge b) | 黄博士 | Y8 W1 |
 | drain (sawdust blocks drains) | 下水道 | Y7 W8 |
@@ -612,6 +618,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Evidence 3: the white powder (header line) | 证据3：白色粉末 | Y8 W4 |
 | Example (greyed worked example row) | 例子 | Y7 W6 |
 | Example (worked example row label) | 例子 | Y7 W1 |
+| Expert witness on the stand (slide title) | 专家证人出庭 | Y8 W10 |
 | explanation / possible explanation | 解释 / 可能的解释 | Y8 W5 |
 | Expo notes (Core heading, already in file) | 成果展笔记 | Y7 W10 |
 | Expo question cards (6c title) | 成果展问题卡 | Y7 W10 |
@@ -620,6 +627,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | feels sorry | 感到抱歉 | Y8 W1 |
 | fibre portion (your fibre portion) | 一份纤维（你们那一份纤维） | Y7 W7 |
 | filter paper / filter paper strip | 滤纸 / 滤纸条 | Checkpoint Y8 |
+| Final case file checklist (6.4 title) | 案件档案检查表 | Y8 W10 |
 | Final skills check (slide title, already in file) | 最终技能检测 | Y7 W10 |
 | fingerprint expert | 指纹专家 | Y8 W2 |
 | Fingerprint types of our class (model chart title, Core d) | 我们班的指纹纹型 | Y8 W2 |
@@ -665,6 +673,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | hit the table / did not spin | 撞到桌子 / 没有旋转 | Y7 W4 |
 | Hold up your card and give a reason. | 举起你的卡片，说出理由。 | Y7 W5 |
 | How did it break? | 它是怎样断的？ | Y7 W8 |
+| How do you feel about science now? (slide title) | 你现在对科学的感受 | Y8 W10 |
 | I agree with ___ because ___. (frame) | 我同意___，因为___。 | Y7 W6 |
 | I predict ___ will be the best insulator because ___. (frame) | 我预测___会是最好的隔热材料，因为___。 | Y7 W6 |
 | I would ___ because ___. (frame) | 我会___，因为___。 | Skills Check Y7 |
@@ -685,6 +694,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | It was hard to keep ___ the same because ___. | 很难保持___不变，因为___。 | Y7 W8 |
 | jug | 水壶 | Y7 W8 |
 | Key words we used | 我们用到的关键词 | Y7 W9 |
+| Lab day run sheet (header) | 检测日流程表 | Y8 W8 |
 | lemon tea | 柠檬茶 | Y8 W1 |
 | lid | 盖子 | Y7 W8 |
 | linked (short circle label; from linked to 与……有关) | 有关 | Y8 W4 |
@@ -724,12 +734,14 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | no (as in makes no heat, word bank item) | 不 | Y7 W6 |
 | not very / fairly / very confident (three-step scale) | 不太有把握 / 比较有把握 / 很有把握 | Y7 W9 |
 | Now I agree with ___ because ___. (frame) | 现在我同意___，因为___。 | Y7 W6 |
+| Now presenting (slide strip label) | 现在出庭 | Y8 W10 |
 | Number of groups (table heading) | 组数 | Y7 W9 |
 | O or I? (table heading) | 观察（O）还是推断（I）？ | checkpoints and skills checks |
 | Canada | 加拿大 | Y7 W7 |
 | office / school office (already in the paper) | 办公室 / 学校办公室 | Skills Check Y8 |
 | old idea / heavy ball and light ball / contradiction / land together (6b panel labels) | 旧观点 / 重球与轻球 / 自相矛盾 / 同时落地 | Y7 W2 |
 | On file: see Week 2 | 已存档：见第2周 | Y8 W1 |
+| optional (pen A row, recording sheet) | 可选 | Y8 W8 |
 | Order / Caption (table headings) | 顺序 / 说明文字 | Y7 W2 |
 | other (tick-box option) | 其他 | Y7 W4 |
 | Our 2-minute Expo talk (6b header, already in file) | 我们的2分钟成果展演讲 | Y7 W10 |
@@ -739,6 +751,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Our question in full | 我们完整的问题 | Y7 W7 |
 | Our test: does the ___ change the ___? | 我们的测试：___会改变___吗？ | Y7 W8 |
 | Our three samples | 我们的三个样品 | Y7 W7 |
+| paper (the skills check paper, Slide 2) | 试卷 | Y8 W10 |
 | paper plane | 纸飞机 | Y7 W3 |
 | paper towel (already in the paper) | 纸巾 | Skills Check Y8 |
 | partly (tick option) | 部分 | Y7 W10 |
@@ -764,6 +777,8 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | race (two balls race) | 比赛 | Checkpoint Y7 |
 | rank (results table heading) | 排名 | Y7 W6 |
 | rattle (the cup rattles) | 发出响声 | Checkpoint Y7 |
+| Reason words (label under Core d) | 理由词 | Y8 W8 |
+| Recorder (sheet header) | 记录员 | Y8 W8 |
 | recycle | 回收 | Y7 W5 |
 | register (class register) | 点名册 | Y7 W5 |
 | Repeat 1 / Repeat 2 / Repeat 3 (table heading) | 第1次 / 第2次 / 第3次 | Y7 W4 |
@@ -777,6 +792,8 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | salt / amount of salt | 盐 / 盐的量 | Skills Check Y7 |
 | salt / ice (word bank items) | 盐 / 冰 | Y7 W2 |
 | salt / salt water | 盐 / 盐水 | Checkpoint Y8 |
+| same bits under the magnifier (reason word) | 放大镜下的碎屑相同 | Y8 W8 |
+| Same for every bottle / Same for every strip / Same for every sample (control box) | 每个瓶子相同 / 每条相同 / 每个样本相同 | Y8 W8 |
 | same person | 同一个人 | Y7 W4 |
 | Sample data / Class data pooling sheet / Investigation poster / Our class data / Our conclusion / Finish your means | 示例数据 / 全班数据汇总表 / 探究海报 / 全班数据 / 我们的结论 / 算完平均值 | Y7 W9 |
 | sand (settling bottle layer label) | 沙 | Y8 W7 |
@@ -787,15 +804,20 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | Second World War | 第二次世界大战 | Y7 W7 |
 | seeds | 种子 | Y7 W1 |
 | self-assessment slip / award | 自我评价表 / 奖项 | Y7 W9 |
+| shake, start timer / strips in (run-sheet action labels, Slide 7) | 摇瓶，开始计时 / 放入滤纸条 | Y8 W8 |
+| shaken (control box) | 摇动 | Y8 W8 |
 | Show what you have learned! | 展示你学到了什么！ | Y7 W5 |
 | Show your working | 写出计算过程 | Y7 W4 |
 | silt (settling bottle layer label) | 粉砂 | Y8 W7 |
+| size (control box) | 尺寸 | Y8 W8 |
+| skills check paper / skills checks (clean-up line, short form) | 技能检测卷 | Y7 W10, Y8 W10 |
 | slide (the projected slide, in the cue Copy from the slide) | 幻灯片 | Y7 W3 |
 | slows / slows down | 减慢 | Y7 W6 |
 | small stones (settling bottle layer label) | 小石子 | Y8 W7 |
 | Snacks for volunteers (sign-in reason) | 给志愿者的点心 | Y8 W1 |
 | Snap! (the call) | 断了！ | Y7 W8 |
 | snowman | 雪人 | Y7 W1 |
+| solvent depth (control box) | 溶剂深度 | Y8 W8 |
 | Sorting strip (worksheet label) | 分类条 | Y8 W4 |
 | Speakers (role on slide and card) | 发言人 | Y7 W10 |
 | splash / splash width (already in the paper) | 水花 / 水花宽度 | Skills Check Y8 |
@@ -815,14 +837,18 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | stronger / weaker evidence (Challenge b) | 更有力 / 更薄弱 | Y8 W2 |
 | sunny / wool / air / beautiful / season / lonely / happier / sculpture / holiday (6a card glosses) | 阳光充足的 / 羊毛 / 空气 / 美丽的 / 季节 / 孤独的 / 更快乐的 / 雕塑 / 假期 | Y7 W2 |
 | sure / 100% sure | 确定 / 百分之百确定 | Y7 W1 |
+| survey (short form of interest survey, clean-up line) | 问卷 | Y7 W10, Y8 W10 |
 | table heading (missing headings) | 表头 | Checkpoint Y7 |
+| talk record (Strand 6 Communicating: talk record, 6.5 header) | 表达与交流记录 | Y8 W10 |
 | Target / Minimum (repeats) | 目标 / 最少 | Y7 W8 |
 | Teacher only (sign) | 仅限老师 | Y7 W6 |
 | Temperature of tea over time (graph title) | 茶的温度随时间变化 | Skills Check Y8 |
 | tennis ball | 网球 | Checkpoint Y7 |
+| Thank you, detectives (slide title) | 谢谢你们，侦探们 | Y8 W10 |
 | The anomaly is ___ ml because ___. | 异常值是___毫升，因为___。 | Y7 W8 |
 | The best insulator was ___ because it had only ___ ml of meltwater. The worst was ___ with ___ ml. (frame) | 最好的隔热材料是___，因为它只有___ ml融化的水。最差的是___，有___ ml。 | Y7 W6 |
 | The best insulator was ___ because the temperature dropped by only ___ °C. The worst was ___ with a drop of ___ °C. (frame) | 最好的隔热材料是___，因为温度只下降了___ °C。最差的是___，下降了___ °C。 | Y7 W6 |
+| The court is in session (slide title) | 法庭开庭 | Y8 W10 |
 | The graph shows ___. (frame, already in the paper with ______ gaps) | 图中显示___。 | Skills Check Y8 |
 | the note (Year 8 scene evidence 1, as in the Case Bible) | 纸条 | Checkpoint Y8 |
 | The plain sample broke ___, but the ___ sample ___. | 普通样品___断裂，而___样品___。 | Y7 W8 |
@@ -833,6 +859,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | This made our results ___. (frame) | 这使我们的结果___。 | Y7 W9 |
 | Thumbs up / Thumbs down | 拇指向上 / 拇指向下 | Y7 W1 |
 | Thursday | 星期四 | Y8 W1 |
+| Tick grid (under Core e) | 勾选表 | Y8 W8 |
 | Time since the tea was made (minutes) (axis label) | 泡茶后的时间（分钟） | Skills Check Y8 |
 | Time to dissolve (table heading) | 溶解时间 | Skills Check Y8 |
 | time to melt / melting time | 熔化时间 | Skills Check Y7 |
@@ -861,15 +888,19 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | warmer / colder | 更暖 / 更冷 | Y7 W6 |
 | waste bowl | 废料盆 | Y7 W8 |
 | water / warm water / cold water | 水 / 温水 / 冷水 | Checkpoint Y8 |
+| water depth (control box) | 水深 | Y8 W8 |
 | water held / Mean water held (ml) | 承载水量 / 平均承载水量（毫升） | Y7 W9 |
 | We kept ___ the same because ___. (Section 1 frame, for the frame bank) | 我们保持___不变，因为___。 | Y7 W6 |
 | We need the control cup because ___. (frame) | 我们需要对照杯，因为___。 | Y7 W6 |
 | We predicted ___ because ___. (frame) | 我们预测___，因为___。 | Y7 W9 |
 | Were we right? / partly | 我们预测对了吗？ / 部分对 | Y7 W9 |
+| What really happened (slide and reveal card title) | 真相 | Y8 W10 |
 | What the team found (table heading) | 小组的发现 | Skills Check Y8 |
 | What we change / What we measure / What we keep the same | 我们改变什么 / 我们测量什么 / 我们保持什么不变 | Y7 W7 |
 | White powder identification key (poster heading) | 白色粉末检索表 | Y8 W4 |
+| who it matches (Slide 7 jury notes instruction) | 符合谁 | Y8 W10 |
 | Why it matters (table heading) | 为什么重要 | Y7 W7 |
+| windowsill (clean-up) | 窗台 | Y8 W8 |
 | wing(s) | 翅膀 | Y7 W5 |
 | winter / winter questions | 冬天 / 冬季问题 | Y7 W2 |
 | wipe / damp cloth | 擦 / 湿布 | Y8 W4 |
@@ -882,3 +913,4 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | worksheet | 工作纸 | Y7 W5 |
 | world figure (Stretch b frame) | 世界数据 | Y8 W2 |
 | yes / no question | 是／否问题 | Y8 W4 |
+| Your slip is for group (Slide 7 label) | 你的反馈对象 | Y8 W10 |

@@ -41,7 +41,7 @@ Case reference: all story details follow `Y8_00_Case_Bible.md` (Section 8: what 
   - Stretch: compare repeats, circle any anomaly and say what you did about it; judge how reliable the result is with a reason.
   - Challenge: rank the result as strong, supporting or weak evidence for the case, with a reason based on how many suspects it matches; suggest one specific improvement to the method.
 - **Language support:** Frames: "The scene sample matches ___ because ___ ." "Our repeats were close / not close, so the result is ___ ." "One result did not fit: ___ . We ___ ." "This evidence is strong / supporting / weak because ___ ." "One problem with this evidence is ___ ." Chinese welcome during practical work; results recorded with English key words. Traps: "repeat" vs "replace"; "reliable" vs "accurate" (do not push the difference now; "reliable" = repeats agree); "settle" (Soil) is new; "absorb" spelling.
-  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer; when the group splits into two pairs (Slide 7), the buddy and the student are in the same pair. Give the student a doing job first (timer or Measurer in their pair), where the result is a number or a colour, not a sentence; the Week 7 option card (every step paired, with a picture) stays on the table beside the plan sheet, and the group recording sheet (6.2 to 6.5) has bilingual headings, choice words and footers with a small icon beside each column heading, so the student can also be the Recorder. Worksheet order: Core b) first (tick the box), then Core c): copy one line from the bilingual footer of the group recording sheet, which is the picture cue printed beside c). Then Core d): fill the Chinese frame with the match target from the bilingual fold-under word bank and tick or copy one bilingual reason word printed under d); a Chinese reason counts. Then Core e): tick the suspect grid printed under e) (the four suspect names with their Chinese, rows 符合 / 排除, the same headings as the evidence log) using the suspect tracker, or write 没有 or 全部 from the word bank. Core a) is copied from the Week 7 plan sheet, which is bilingual. Before the first test starts, run Say, show, check on Slide 7: teacher reads the English, a student reads the Chinese, thumbs check; the Safety Officer reads the kit card hazards in English and Chinese. The exit ticket may be answered in Chinese: circle a bilingual strength word and write the reason in Chinese.
+  - Band 1 today: sit the student beside their language buddy, who reads the Chinese line of each task and explains it in Chinese but never writes the answer; when the group splits into two pairs (Slide 7), the buddy and the student are in the same pair. Give the student a doing job first (timer or Measurer in their pair), where the result is a number or a colour, not a sentence; the Week 7 option card (every step paired, with a picture) stays on the table beside the plan sheet, and the group recording sheet (6.2 to 6.5) has bilingual headings, choice words and footers with a small icon beside each column heading, so the student can also be the Recorder. Worksheet order: Core b) first (tick the box), then Core c): copy one line from the bilingual footer of the group recording sheet, which is the picture cue printed beside c). Then Core d): fill the Chinese frame with the match target from the bilingual fold-under word bank and tick or copy one bilingual reason word printed under d); a Chinese reason counts. Then Core e): tick the suspect grid printed under e) (the four suspect names with their Chinese, rows 符合 / 排除, the same headings as the evidence log) using the suspect tracker, or write 没有 or 全部 from the word bank. Core a) is copied from the Week 7 plan sheet, which is bilingual. Before the first test starts, run Say, show, check on Slide 7: teacher reads the English, a student reads the Chinese, thumbs check; the Safety Officer reads the kit card hazards in English and Chinese. The exit ticket may be answered in Chinese: copy a bilingual strength word from the fold-under word bank and write the reason in Chinese.
 - **Misconceptions to watch for:** "If the result is not what we expected, we did it wrong" (record it and look for a reason). "Repeats should be identical, or one of them is wrong." Changing the method half way without recording it. Rubbing out a result that looks odd. "A match proves who did it."
 - **Safety:** Option-specific (kit cards, Section 5). Goggles for anything with vinegar or iodine, and while shaking soil bottles. No tasting any sample. Allergy check (wheat, corn) for Powder 2. Wash hands after soil. Plastic bottles, not glass. Wipe spills at once.
 - **If time is short:** Minimum two repeats (outline target three). Soil: measure layers at 10 minutes instead of 15. Paper: two strips per sample. Ink 2: water and vinegar only. Powder 2: skip iodine and use the water test for starch. If a test fails completely, use the backup lab report card (Section 6.6) and discuss why it failed.
@@ -54,7 +54,7 @@ Create a 16:9 slide deck for Year 8 Week 8, Lab day, using the Think Like a Scie
 ```
 Slide 1 | Phase tag: none (title slide)
 Title: Lab day / 检测日
-On-slide text: Science Detectives. Week 8. Your plan. Your test. Your evidence.
+On-slide text: Science Detectives. Week 8. Your plan. Your test. Your evidence. 科学侦探。第8周。你们的计划。你们的检测。你们的证据。
 Vocabulary panel: none
 Visual: Four lab stations in a row seen from the front, each with its kit: settling bottles (Soil), paper strips over cups (Paper), chromatography strips in three cups (Ink 2), spotting tiles and a magnifier (Powder 2). Goggles on the bench. Amber series accent.
 Speaker notes: Today you are the forensic lab. Work carefully, repeat, and record everything. Next week your results go on the evidence board.
@@ -124,7 +124,7 @@ On-slide text:
 Two pairs, same method, at the same time: that is your repeat. 两对同学，同样的实验步骤，同时进行：这就是你们的重复。
 Scene sample last, tested exactly like the references. 现场样本最后检测，方法与参照样本完全相同。
 Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
-Visual: The lab run sheet as four colour-free columns (Soil, Paper, Ink 2, Powder 2) with time markers at 0, 6, 12, 18, 21 and 24 minutes and a short action at each (for example Soil: "0 shake, start timer"; Ink 2: "6 strips in"). 24-minute timer. Column headings bilingual: Soil 土壤, Paper 纸巾, Ink 2 墨水2, Powder 2 粉末2; the time markers are numbers; each action is an icon with its short English label only, so the slide does not overflow (the paired step-by-step method, with pictures, is on the Week 7 option card, which stays on the table with the plan sheet).
+Visual: The lab run sheet as four colour-free columns (Soil, Paper, Ink 2, Powder 2) with time markers at 0, 6, 12, 18, 21 and 24 minutes and a short action at each (for example Soil: "0 shake, start timer 摇瓶，开始计时"; Ink 2: "6 strips in 放入滤纸条"). 24-minute timer. Column headings bilingual: Soil 土壤, Paper 纸巾, Ink 2 墨水2, Powder 2 粉末2; the time markers are numbers; each action is an icon with its short label paired, English then Chinese (shake, start timer 摇瓶，开始计时; strips in 放入滤纸条; compare 比较; clean up 收拾整理), kept to two or three words so the slide does not overflow (the paired step-by-step method, with pictures, is on the Week 7 option card, which stays on the table with the plan sheet).
 Speaker notes: Split the group into two pairs so the repeat runs in parallel. Recorder keeps the group sheet; everyone copies key results onto their own worksheet at the end. I will call out checkpoints. Put each language buddy in the same pair as their Band 1 partner. Read the two lines in English; a student reads the Chinese; thumbs check before the first test starts.
 ```
 
@@ -200,7 +200,7 @@ Tick our option 勾选我们的选项: ☐ Soil 土壤 ☐ Paper 纸巾 ☐ Ink 
 **2. Vocabulary panel**
 repeat 重复 | reliable 可靠的 | anomaly 异常值 | record 记录 | results table 结果表格 | match 匹配 | settle 沉降 | absorb 吸收 | solvent 溶剂 | mixture 混合物
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 a) Our question 我们的问题: ______________________________ (copy from your plan sheet 从你们的计划表抄写)
 
@@ -215,14 +215,14 @@ Reason words 理由词 (tick or copy one 勾选或抄写一条): Soil 土壤: sa
 e) Which suspects does our result rule in? 我们的结果把哪些嫌疑人纳入？ ________________ Rule out? 排除哪些？ ________________ (Write "none" or "all" if that is true. 如果是这样，就写“没有”或“全部”。)
 Tick grid under the lines 横线下方的勾选表 (the same headings as the evidence log): columns Lily Chen 陈莉 | Max Zhang 张铭轩 | Chef Zhou 周师傅 | Dr Ruby Huang 黄若琳; rows Ruled in 符合 | Ruled out 排除.
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 
 a) Did the two pairs get the same result? 两对同学得到的结果相同吗？ ☐ Yes 是 ☐ Mostly 基本一致 ☐ No 否
 "Our repeats were ________ , so our result is ________ ." “我们的重复结果________，所以我们的结果是________。” (2 lines)
 
 b) Was there an anomaly (a result that did not fit)? 有异常值（不符合规律的结果）吗？ What do you think caused it, and what did you do? 你认为是什么造成的？你们做了什么？ (3 lines)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 
 a) Is our result strong, supporting or weak evidence for the case? 我们的结果对这个案件是有力、支持性还是薄弱证据？ (circle one 圈出一个) Strong 有力 / Supporting 支持性 / Weak 薄弱
 Explain, using the number of suspects it matches. 用它符合的嫌疑人数量来解释。 (3 lines)
@@ -230,17 +230,17 @@ Explain, using the number of suspects it matches. 用它符合的嫌疑人数量
 b) Suggest one specific change to our method that would make the result more reliable. 提出一个对我们实验步骤的具体改动，让结果更可靠。 Say why. 说明理由。 (3 lines)
 
 **6. My thinking 我的想法 (any language 可用中文)**
-Your result may not help to find who took the notebook. 你们的结果也许帮不上找出谁拿走了笔记本。 Is it still useful evidence? 它仍然是有用的证据吗？ Why? 为什么？
+Your result may not help to find who took the notebook. 你们的结果也许无法帮助找出谁拿走了笔记本。 Is it still useful evidence? 它仍然是有用的证据吗？ Why? 为什么？
 (Dashed box, about 4 cm tall)
 
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
 matches 匹配 | does not match 不匹配 | flowerbed 花坛 | lab paper towels 实验室纸巾 | pen B B号笔 | baking soda 小苏打 | pure 纯的 | mixture 混合物 | repeats agreed 重复结果一致 | anomaly 异常值 | contaminated 被污染的 | everyone 所有人 | rule out 排除 | supporting 支持性 | weak 薄弱 | more reliable 更可靠 | none 没有 | all 全部
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________ | Option 检测选项 ________
 1. Our scene sample matched ________________ 1. 我们的现场样本与________________匹配。
 2. Did our repeats agree? ________________ 2. 我们的重复结果一致吗？________________
-3. Strong, supporting or weak evidence? 3. 有力、支持性还是薄弱证据？ (circle one 圈出一个: Strong 有力 / Supporting 支持性 / Weak 薄弱) ________ because ________________ ________，因为________________
+3. Strong, supporting or weak evidence? 3. 有力、支持性还是薄弱证据？ ________ because ________________ ________，因为________________
 Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ## 4. Answer key (for the teacher)
@@ -321,7 +321,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Scissors: cut away from your fingers and pass them handle first. 用剪刀时刀口朝外，递剪刀时把手朝向对方。
   - Do not drink the water. 不要喝杯中的水。
   - Wipe up spills straight away. 洒出的水要立即擦干。
-- **Clean-up 收拾整理:** Coloured water down the sink. 有色的水倒进水槽。 Dry strips flat on paper towels and stick the best strip of each paper onto the recording sheet. 把纸条平放在纸巾上晾干，并把每种纸最好的一条贴在记录表上。 Scissors counted back in. 剪刀数清后交回。 Wipe tables. 擦桌子。
+- **Clean-up 收拾整理:** Coloured water down the sink. 有色的水倒进水槽。 Dry strips flat on paper towels and stick the best strip of each paper onto the recording sheet. 把纸巾条平放在纸巾上晾干，并把每种纸最好的一条贴在记录表上。 Scissors counted back in. 剪刀数清后交回。 Wipe tables. 擦桌子。
 
 ### Kit card: Ink 2
 
@@ -405,7 +405,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | B Sports field 运动场 | | |
 | C Sandpit 沙坑 | | |
 | D Tree bed 树坛 | | |
-| Evidence 6 (scene) 证据6 | | |
+| Evidence 6 (scene) 证据6（现场） | | |
 
 - **Table 2: Settling bottles 沉降瓶** (5 rows; one table for Pair 1 第1对 and an identical one beneath for Pair 2 第2对, headed "Repeat 重复")
 
@@ -435,9 +435,9 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | P2 Canteen napkin 食堂餐巾纸 | | | |
 | P3 Tissue 面巾纸 | | | |
 | P4 Kitchen roll 厨房纸 | | | |
-| Evidence 7 (scene) 证据7 | | | |
+| Evidence 7 (scene) 证据7（现场） | | | |
 
-- **Table 2: Absorbency strips 吸水纸条** (5 rows)
+- **Table 2: Absorbency strips 吸水纸巾条** (5 rows)
 
 | Paper 纸 | Height after 60 s, strip 1 (mm) 60秒后的高度，第1条（毫米） | Strip 2 (mm) 第2条（毫米） | Strip 3 (mm) 第3条（毫米） | Mean (mm) 平均值（毫米） |
 |---|---|---|---|---|
@@ -489,7 +489,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | K1 Baking soda + cornflour 小苏打＋玉米淀粉 | | | | | baking soda + cornflour 小苏打＋玉米淀粉 |
 | K2 Salt + flour 食盐＋面粉 | | | | | salt + flour 食盐＋面粉 |
 | X Mystery mixture 神秘混合物X | | | | | |
-| Evidence 3 (scene) 证据3 | | | | | |
+| Evidence 3 (scene) 证据3（现场） | | | | | |
 
 - **Footer:** "Mixture X contains ________ and ________ because ________ . 混合物X含有________和________，因为________。 The scene powder is: pure baking soda / a mixture (circle one) because ________ . 现场粉末是：纯小苏打／混合物（圈出一个），因为________。"
 - **Picture cues:** a small icon beside each column heading (magnifier, cup of water, dropper with bubbles, dropper with a dark well, pot) so the Recorder can follow the sheet without reading.
@@ -500,7 +500,7 @@ Create an A4 portrait sheet of four backup lab report cards (A6 each, 2 by 2, wi
 
 Each card header: "Forensic lab report 法庭科学实验室报告 | Backup result 备用结果". Footer on each: "Use this as a second source. Report your own results too, and say what may have gone wrong. 作为第二来源使用。也要报告你们自己的结果，并说明可能的问题。"
 
-- **Soil:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口旁花坛的土壤匹配。
+- **Soil:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口花坛的土壤匹配。
 - **Paper:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)." 概要：现场纸巾与实验室自己的纸巾匹配。
 - **Ink 2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Attach your dried pre-test strips.)
 - **Powder 2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found." 概要：现场粉末与纯小苏打相同，不是混合物。

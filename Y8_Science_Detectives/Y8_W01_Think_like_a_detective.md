@@ -211,7 +211,7 @@ I can write an observation and an inference about the scene, and say what eviden
 **2. Vocabulary panel**
 observation 观察 | inference 推断 | evidence 证据 | opinion 观点 | suspect 嫌疑人 | crime scene 案发现场
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 Look at the scene map. 看现场平面图。 Is each sentence an observation (O) or an inference (I)? 每个句子是观察（O）还是推断（I）？ Tick one box. 勾选一个框。
 (In the table heading, a small eye icon sits over O and a small thought-bubble icon over I, the same icons as Slide 7. The teacher models sentences 1 and 2 with the gestures before Core starts.)
 
@@ -226,7 +226,7 @@ Look at the scene map. 看现场平面图。 Is each sentence an observation (O)
 | 7 | There is one footprint at G5. G5处有一个脚印。 | ☐ | ☐ |
 | 8 | The thief walked towards the freezer. 小偷朝冰柜走去。 | ☐ | ☐ |
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 Write three observations and three inferences about the scene. 写出关于现场的三个观察和三个推断。 Use the frames. 使用句型框架。
 
 | Observation 观察: "I observe ___ at square ___." 我在___格观察到___。 | Inference 推断: "I infer ___ because ___." 我推断___，因为___。 |
@@ -237,7 +237,7 @@ Write three observations and three inferences about the scene. 写出关于现�
 
 (Three rows, each about 3 cm tall, writing lines inside.)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 a) Choose one of your inferences. 选择你的一个推断。 What evidence or test would show if it is true? 什么证据或测试能表明它是不是真的？
 "To check my inference, I would ___ . If it is true, I expect to see ___ ." 为了检验我的推断，我会___。如果它是真的，我预计会看到___。
 (4 writing lines)
@@ -251,10 +251,10 @@ b) Evidence or opinion? 证据还是观点？ Write E or O and give a reason. �
 Song Ci said: "Go and look carefully yourself." 宋慈说：“亲自去仔细查看。” Why is this a good rule for scientists? 为什么这对科学家来说是一条好规则？
 (Dashed box, about 5 cm tall)
 
-**7. Fold-under word bank** (dashed fold line above)
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
 observe 观察 | infer 推断 | because 因为 | evidence 证据 | opinion 观点 | test 测试 | square 方格 | powder 粉末 | footprint 脚印 | fingerprint 指纹 | note 纸条 | glass 玻璃杯 | freezer 冰柜 | sink 水槽
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________
 Write one observation (O) and one inference (I) about the scene. 写出关于现场的一个观察（O）和一个推断（I）。
 Frames 句型框架: "I observe ___ at square ___." 我在___格观察到___。 "I infer ___ because ___." 我推断___，因为___。

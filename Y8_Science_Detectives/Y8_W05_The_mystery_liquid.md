@@ -254,7 +254,7 @@ Should a detective ever ignore a piece of evidence? 侦探应该忽略某一条�
 **7. Fold-under word bank 折叠词库** (dashed fold line above)
 red 红色 | pink 粉色 | purple 紫色 | blue 蓝色 | blue-green 蓝绿色 | green 绿色 | acid 酸性 | neutral 中性 | alkali 碱性 | pH pH值 | matches 匹配 | does not fit 不一致 | soap solution 肥皂水 | baking soda solution 小苏打溶液 | mop 拖把 | sink 水槽 | two people 两个人 | contaminated 被污染的
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Name 姓名 ________
 1. The scene liquid is an acid / neutral / alkali (circle one). 现场液体是酸性／中性／碱性（圈出一个）。
 2. pH about ________ pH大约________
