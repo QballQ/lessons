@@ -129,4 +129,4 @@ The volume of Chinese has roughly doubled, so the check should run in this order
 
 ## 12. What this means for Claude Design
 
-The slide and worksheet templates need four additions, listed in `design/00_Brand_and_Design_System_Brief.md` Part 2: the Today slide layout; the paired-line style (Chinese beneath English, lighter weight); the Key idea band on Learn slides; the "I can" self-check on the exit ticket strip and the fixed tier footers on the worksheet template. Year 7 and Year 8 Weeks 7 to 10, which were already designed, must be re-generated from the updated paste blocks.
+The slide and worksheet templates need four additions, listed in `design/00_Brand_and_Design_System_Brief.md` Part 2: the Today slide layout; the paired-line style (Chinese beneath English, lighter weight); the Key idea band on Learn slides; the "I can" self-check on the exit ticket strip and the fixed tier footers on the worksheet template. Every Year 7 and Year 8 deck and printables set was built on 2 and 3 October 2026, before this policy, so Weeks 2 to 10 must be rebuilt from the updated files. Week 1 has been taught; rebuild it only for re-teaching or the next cohort.
