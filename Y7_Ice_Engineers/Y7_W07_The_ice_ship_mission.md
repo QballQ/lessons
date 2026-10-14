@@ -139,11 +139,11 @@ Speaker notes: Ice is brittle: once a crack starts, it runs right through. Fibre
 Slide 6 | [Plan A] | Phase tag: Learn 新知
 Title: Choose your mission / 选择你的任务
 On-slide text:
-Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一个量：纤维类型（每条0.6克）或木屑的量。
+Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一个量：纤维种类（每条0.6克）或木屑的量。
 Measure ONE thing: strength (ml of water held) OR melting (ml of meltwater in 15 minutes). 只测量一个量：强度（承载的水的毫升数）或熔化（15分钟内融化的水的毫升数）。
 Key idea 核心概念: 公平测试只改变一个量，只测量一个量。
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: A two-step choice grid. Step 1 "I change 我改变": card A "Type of fibre 纤维类型: plain ice 普通冰, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": card C "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数"; card D "Melting 熔化: ml of meltwater after 15 minutes 15分钟后融化的水的毫升数". Small icons on each card.
+Visual: A two-step choice grid. Step 1 "I change 我改变": card A "Type of fibre 纤维种类: plain ice 普通冰, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": card C "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数"; card D "Melting 熔化: ml of meltwater after 15 minutes 15分钟后融化的水的毫升数". Small icons on each card.
 Speaker notes: Read the two English lines; a student reads the Chinese lines. Every group makes three kinds of sample, and one of them must be plain ice (or 0 g), because that is our control. Every sample is a thin strip made from 12 ml of water, about 12 cm long, 2 cm wide and 5 mm thick. Strength is the main test; I can take up to two melting groups so the class can pool results. Choose with your group in 1 minute, then tell me.
 ```
 
@@ -151,11 +151,11 @@ Speaker notes: Read the two English lines; a student reads the Chinese lines. Ev
 Slide 7 | [Plan B] | Phase tag: Learn 新知
 Title: Choose your mission / 选择你的任务
 On-slide text:
-Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一个量：纤维类型（每条0.6克）或木屑的量。
+Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一个量：纤维种类（每条0.6克）或木屑的量。
 Measure: strength (ml of water the strip holds before it snaps). 测量：强度（面团条断裂前承载的水的毫升数）。
 Key idea 核心概念: 公平测试只改变一个量，只测量一个量。
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: Step 1 "I change 我改变": card A "Type of fibre 纤维类型: no fibre 无纤维, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": one card "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数". A small drawing of a straw mud brick beside a dough strip.
+Visual: Step 1 "I change 我改变": card A "Type of fibre 纤维种类: no fibre 无纤维, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": one card "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数". A small drawing of a straw mud brick beside a dough strip.
 Speaker notes: Read the two English lines; a student reads the Chinese lines. We have no freezer, so we will do what brick-makers do: put fibres into a soft material that sets hard. Our strips are made of salt dough, the same size as the ice strips other classes make (12 cm long, 2 cm wide, 5 mm thick), and they dry for a week. Every group makes three kinds of strip, and one must have no fibre (0 g): that is our control. Each strip uses one 18 g ball of dough.
 ```
 
@@ -307,7 +307,7 @@ IV 自变量: ______________ DV 因变量: ______________ One control 一个控�
 **A. [Shared] The pykrete story 木屑冰的故事.** Fill the gaps using the word bank. 用词库填空。
 Word bank 词库: steel 钢 | ice 冰 | sawdust 木屑 | stronger 更强 | slowly 慢慢地 | Canada | brittle 脆的
 During the Second World War there was not enough ______________. Geoffrey Pyke wanted to build ships out of ______________. Plain ice is ______________: it cracks easily. His team mixed about 14% ______________ into the ice. This "pykrete" was much ______________ and melted more ______________. A small prototype was built on a lake in ______________ in 1943.
-Gist lines 概要 (printed in the lighter weight directly beneath each sentence, one per sentence, each with a small picture cue beside it reusing the Slide 3 to 5 visuals):
+Gist lines 概要 (printed in the lighter weight directly beneath each sentence, one per sentence, each with a small picture cue beside it reusing the Slides 3 to 5 visuals):
 1. 概要：第二次世界大战时，钢不够用。 (picture cue: a crossed-out steel girder)
 2. 概要：Geoffrey Pyke想用冰造船。 (picture cue: the ice ship from Slide 3)
 3. 概要：普通冰是脆的：容易裂。 (picture cue: the cracked plain ice block from Slide 4)
@@ -491,15 +491,15 @@ Project question across the top: **Can we make ice stronger? 我们能让冰更�
 
 **Box 1. Our question 我们的问题** (Lead Scientist icon)
 Tick one and complete it. 勾选一个并补充完整。
-- [Plan A] ☐ Does the **type of fibre** change the ______________ of an ice strip? **纤维类型**会改变冰条的______________吗？
+- [Plan A] ☐ Does the **type of fibre** change the ______________ of an ice strip? **纤维种类**会改变冰条的______________吗？
 - [Plan A] ☐ Does the **amount of sawdust** change the ______________ of an ice strip? **木屑的量**会改变冰条的______________吗？
-- [Plan B] ☐ Does the **type of fibre** change the strength of a dough strip? **纤维类型**会改变面团条的强度吗？
+- [Plan B] ☐ Does the **type of fibre** change the strength of a dough strip? **纤维种类**会改变面团条的强度吗？
 - [Plan B] ☐ Does the **amount of sawdust** change the strength of a dough strip? **木屑的量**会改变面团条的强度吗？
 Our question in full 我们完整的问题: ________________________________________ (two lines)
 
 **Box 2. What we change: the independent variable 我们改变什么：自变量** (Measurer icon)
 Tick ONE row and circle THREE samples. 勾选一行，圈出三个样品。 One sample must be the control. 其中一个样品必须是对照样品。
-- ☐ Type of fibre (0.6 g each) 纤维类型（每条0.6克）: [Plan A] plain ice (control) 普通冰（对照样品） | [Plan B] no fibre (control) 无纤维（对照样品） | sawdust 木屑 | tissue 纸巾 | shredded paper 碎纸 | cotton wool 棉花
+- ☐ Type of fibre (0.6 g each) 纤维种类（每条0.6克）: [Plan A] plain ice (control) 普通冰（对照样品） | [Plan B] no fibre (control) 无纤维（对照样品） | sawdust 木屑 | tissue 纸巾 | shredded paper 碎纸 | cotton wool 棉花
 - ☐ Amount of sawdust 木屑的量: 0 g (control 对照样品) | 0.3 g | 0.6 g | 0.9 g
 - [Plan A] per strip (12 ml of water). 每条（12毫升水）。 [Plan B] per strip (18 g ball of dough). 每条（18克面团球）。
 Our three samples 我们的三个样品: 1. ______________ 2. ______________ 3. ______________
@@ -585,7 +585,7 @@ Create an A3 landscape class project board for Year 7 Weeks 7 to 9, "Class proje
 
 Title: Class project board / 全班项目板 | Can we make ice stronger? 我们能让冰更坚固吗？ [Plan B: "Can fibres make a brittle material stronger? 纤维能让脆的材料更坚固吗？"]
 
-| Group 小组 | Question: type of fibre or amount of sawdust 问题：纤维类型或木屑的量 | Sample 1 (control) 样品1（对照样品） | Sample 2 样品2 | Sample 3 样品3 | Test: strength or melting 测试：强度或熔化 [Plan A] / Strength 强度 [Plan B] | Repeats made 已做的重复数 | Tray number 托盘编号 | Tested in Week 8? 第8周已测试？ ☐ |
+| Group 小组 | Question: type of fibre or amount of sawdust 问题：纤维种类或木屑的量 | Sample 1 (control) 样品1（对照样品） | Sample 2 样品2 | Sample 3 样品3 | Test: strength or melting 测试：强度或熔化 [Plan A] / Strength 强度 [Plan B] | Repeats made 已做的重复数 | Tray number 托盘编号 | Tested in Week 8? 第8周已测试？ ☐ |
 |---|---|---|---|---|---|---|---|---|
 | (6 empty rows, each about 3 cm tall) | | | | | | | | |
 
