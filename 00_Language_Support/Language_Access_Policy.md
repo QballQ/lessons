@@ -52,7 +52,7 @@ What does **not** need translation, and why: speaker notes (the teacher speaks),
 
 ## 4. Rules for slides (Section 2 of every lesson file)
 
-1. **Today slide.** Every lesson gains one slide, placed immediately after the last Do Now slide and before the first Hook slide. It carries the phase tag Do Now 课前任务 and the layout name "Today 今天". Content: "Today I can ... 今天我能……", the lesson's two learning goals (full bilingual), and "Key words today 今天的关键词" listing the lesson's key words EN 中文. Speaker notes: read each goal in English, a student reads the Chinese; point to the key words; one minute, inside the Do Now's 4 minutes. All later slides are renumbered, and every "Slide n" reference in the file (timeline, worksheet, answer key, printables, notes) is updated.
+1. **Today slide.** Every lesson gains one slide, placed immediately after the last Do Now slide and before the first Hook slide. It carries the phase tag Do Now 课前任务 and the layout name "Today 今天". Content: "Today I can ... 今天我能……", the lesson's two learning goals (full bilingual), and "Key words today 今天的关键词" listing the lesson's key words EN 中文. Speaker notes: read each goal in English, a student reads the Chinese; point to the key words; one minute, inside the Do Now's 4 minutes. In Weeks 1 and 5, where the Do Now is an assessment, the Today slide is shown while the papers are collected and takes its minute from that transition, never from the assessment time. All later slides are renumbered, and every "Slide n" reference in the file (timeline, worksheet, answer key, printables, notes) is updated.
 2. **Paired lines.** On Do Now, Hook, Do and Think and Reflect slides, every sentence of on-slide text that instructs or asks is written as a pair: English sentence, one space, Chinese sentence, one pair per line. Write "On-slide text:" on its own line, then the paired lines beneath it.
 3. **Key idea line.** On Learn slides, and on Hook slides that state an idea, the English stays as it is (30 words or fewer) and one line is added: "Key idea 核心概念: [Chinese only]". Do not translate the English sentence by sentence.
 4. **Frames** on slides follow rule D.
@@ -117,6 +117,7 @@ What does **not** need translation, and why: speaker notes (the teacher speaks),
 - Chinese uses full-width punctuation: 。？！：、（）. Gaps in frames are "___" in both languages.
 - Chinese sits beneath the English in a lighter weight in the designed output; in the content files it simply follows the English.
 - Do not translate names, numbers, units, letters or symbols. Do not translate the English key word inside a Chinese sentence: write 自变量, not "independent variable 自变量" again, unless the line is a word bank item.
+- Names: students' names in scenarios and assessment questions (Lin, Kai, Mia, Leo, Ruby and so on) stay in Latin letters inside Chinese lines. The Year 8 story characters and places are the one exception: they keep the Chinese forms printed on the suspect cards and locked in the glossary (弗罗斯特教授, 陈莉, 张铭轩, 周师傅, 黄若琳, 雪原学校, 3号实验室).
 - Use the glossary. If a term is not in the glossary, add it to the "Added during the language pass" list at the end of the glossary with the file where it was first used.
 - No em dashes, no en dashes anywhere. British English.
 - Keep "Chinese text status: draft, needs native-speaker check" in every file header.

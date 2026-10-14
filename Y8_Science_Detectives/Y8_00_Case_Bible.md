@@ -48,6 +48,29 @@ The Fair starts tomorrow. Professor Frost needs her notebook, and she needs dete
 
 (The words "safe and cold" are a fair clue to the freezer. Do not point this out. Praise any student who infers it, and ask: "What evidence would you need to check that?")
 
+### Chinese read-aloud version 中文朗读版
+
+Read the English first, then this (or have a Chinese-speaking colleague or a confident student read it). The case briefing printable (Y8 Week 1, 6.2, Box 1) uses the same sentences for its "What happened" box, so any native-speaker change made here must be copied there. Names and places use the glossary forms. Times stay as digits.
+
+这是雪原学校冬季科学展前的一个晚上。外面下着雪。3号实验室里，大家都在忙着准备。
+
+下午5:00，弗罗斯特教授在她的蓝色研究笔记本上写完了笔记。笔记本里记着她培育完美雪花晶体的秘密方法。她把笔记本留在办公桌上，去开教职工会议。
+
+接下来的两个小时里，有四个人进过实验室。一个清洁小组拖了水槽旁边的地面。
+
+晚上7:30，弗罗斯特教授回来了。她的笔记本不见了。办公桌上有一张短短的纸条。她的玻璃杯上有一个指纹，地上有白色粉末，水槽附近有一小摊液体，还有一个白色的脚印。
+
+科学展明天就开始了。弗罗斯特教授需要她的笔记本，也需要像科学家一样思考的侦探。那就是你们。
+
+**The note 纸条** (the prop stays in English, handwritten in pen B; read this Chinese aloud after it):
+
+> 别担心。
+> 你的笔记本安全且冰冷。
+> 科学展前归还。
+> 对不起！
+
+(Keep "safe and cold" as 安全且冰冷 in every Chinese line that quotes the note. It must stay a fair clue, not a pointer to the freezer.)
+
 ---
 
 ## 3. Professor Frost (fictional)

@@ -89,7 +89,7 @@ Chinese text status: draft, needs native-speaker check
 | presentation | 展示 | a short talk to show and explain your work | Y7 W10 |  |
 | audience | 观众 | the people who listen to a talk | Y7 W10 |  |
 | feedback | 反馈 | comments that help someone see what went well and what to improve | Y7 W10 |  |
-| forensic science | 法庭科学 | Using science to find out what happened | Y8 W1 |  |
+| forensic science | 法庭科学 | Using science to find out what happened | Y8 W1 | Never 法医; the Week 1 slide title is 第一位法庭科学家？ |
 | detective | 侦探 | A person who solves a mystery using clues | Y8 W1 |  |
 | crime scene | 案发现场 | The place where something wrong happened; here, Lab 3 | Y8 W1 |  |
 | suspect | 嫌疑人 | A person who might have done it | Y8 W1, Y8 W2, Y8 W6 | Noun 嫌疑人. The verb "to suspect" is 怀疑. |
@@ -227,6 +227,19 @@ Chinese text status: draft, needs native-speaker check
 | Scene map | 现场平面图 | Year 8 |
 | Case briefing | 案件简报 | Year 8 |
 | The Frozen Notebook | 冰封笔记本之谜 | Year 8 case |
+| Year 8 story names (exception to the names rule, because the suspect cards print them): Professor Frost / Lily Chen / Max Zhang / Chef Zhou / Dr Ruby Huang | 弗罗斯特教授 / 陈莉 / 张铭轩 / 周师傅 / 黄若琳 | every Year 8 file; the Chinese story uses these forms |
+| Year 8 places: Snowfield School / Northpoint Science Centre / Lab 3 / Winter Science Fair, the Fair / prep room / canteen | 雪原学校 / 北角科学中心 / 3号实验室 / 冬季科学展、科学展 / 准备室 / 食堂 | Year 8 |
+| Evidence 1 to Evidence 7 (labels) | 证据1 到 证据7 | Year 8 |
+| Scene print / scene powder / scene liquid / scene sample | 现场指纹 / 现场粉末 / 现场液体 / 现场样本 | Year 8 |
+| Fingerprint File (printable) / Fingerprint record card | 指纹比对档案 / 指纹记录卡 | Year 8 W2 (the lesson title Fingerprints keeps 指纹档案) |
+| sign-in sheet | 登记表 | Year 8 (one form everywhere; the case briefing heading 实验室登记表 may keep 实验室 in front) |
+| Ruled in / Ruled out (column headings) / ruled out (word bank) / rule out | 符合 / 排除 / 被排除 / 排除 | Year 8 evidence log |
+| Strength of evidence (heading) | 证据强度 | Year 8 evidence log (Year 7 strength of a material is 强度) |
+| low / medium / high (confidence) | 低 / 中 / 高 | Year 8 |
+| Ideas Parking Board | 想法停车场 | Year 8 W5, W9 |
+| Wet floor (sign) / mop / mop bucket / cleaning team | 小心地滑 / 拖把 / 拖把桶 / 清洁小组 | Year 8 |
+| suspect cards / evidence cards / reveal card / question cards | 嫌疑人卡 / 证据卡 / 揭秘卡 / 问题卡 | Year 8 |
+| Lab report (stamp) / Case update (tab) / Case no. / Opened | 实验报告 / 案件进展 / 案件编号 / 立案 | Year 8 printables |
 | Expo | 成果展 | Year 7 Week 10 |
 | Court of Science | 科学法庭 | Year 8 Week 10 |
 | Beginning / Developing / Secure / Excellent | 起步 / 发展 / 达标 / 优秀 | rubric levels |
@@ -291,6 +304,13 @@ Used in task instructions on slides, worksheets and printables, and on the Instr
 | Collect | 收集 |
 | Wash your hands | 洗手 |
 | Tidy up | 收拾整理 |
+| Work alone | 独立完成 |
+| Add (drops) | 加入 |
+| Swirl | 轻轻摇晃 |
+| Rub / Press / Peel | 蹭 / 按压 / 揭下 |
+| Update (the tracker) | 更新 |
+| Complete the sentence | 完成句子 |
+| Vote now | 现在投票 |
 
 ## Part 4. Sentence frames 句型框架
 
@@ -324,6 +344,14 @@ Write the English frame first, then the Chinese frame with the same gaps.
 | This is an opinion because ___. | 这是观点，因为___。 | Y8 W1 |
 | ___ is ruled out because ___. | ___被排除，因为___。 | Y8 |
 | Our verdict is ___ because ___. | 我们的裁决是___，因为___。 | Y8 W10 |
+| To check my inference, I would ___. If it is true, I expect to see ___. | 为了检验我的推断，我会___。如果它是真的，我预计会看到___。 | Y8 W1 |
+| My main suspect now is ___. | 我现在的主要嫌疑人是___。 | Y8 evidence log |
+| The note matches pen ___ because the colours ___. | 纸条与___号笔匹配，因为颜色___。 | Y8 W3 |
+| The scene powder matches ___ because it ___. | 现场粉末与___匹配，因为它___。 | Y8 W4 |
+| When we added vinegar, it ___. | 我们加白醋后，它___。 | Y8 W4 |
+| The scene liquid turned ___, so it is ___ with a pH of about ___. | 现场液体变成了___，所以它是___，pH大约是___。 | Y8 W5 |
+| The scene liquid is closest to ___ and ___. | 现场液体最接近___和___。 | Y8 W5 |
+| The suspect who fits the most evidence is ___. The liquid evidence does not fit this suspect because ___. | 符合最多证据的嫌疑人是___。液体证据与这位嫌疑人不一致，因为___。 | Y8 W5 |
 | To be more confident, we would need ___. | 要更有把握，我们需要___。 | Y8 W9 |
 
 ## Part 5. Added during the language pass
@@ -389,3 +417,38 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 | too high / too low | 太高 / 太低 | Y7 W9 |
 | word (category) / number (value) / group (category) | 文字 / 数值 / 类别 | Y7 W5 bar or line decision |
 | x-axis / y-axis / cross (plotting mark) | 横轴（x轴） / 纵轴（y轴） / 叉号 | Y7 W5 |
+| baking soda / salt / sugar / cornflour / flour (powders) | 小苏打 / 食盐 / 白糖 / 玉米淀粉 / 面粉 | Y8 W1, W4 |
+| baseline (pencil line) / strip / filter paper strip | 基线 / 滤纸条 | Y8 W3 (the note is 纸条; the paper strip is always 滤纸条) |
+| blue / purple / pink / red / yellow / brown / black / green / blue-green / red-purple / pink-red (colours) | 蓝色 / 紫色 / 粉色 / 红色 / 黄色 / 棕色 / 黑色 / 绿色 / 蓝绿色 / 紫红色 / 粉红色 | Y8 W3, W5 |
+| brand / brand B / pen A to pen D / Note ink N | 品牌 / B品牌 / A号笔到D号笔 / 纸条墨水N | Y8 W1, W3 |
+| Case: The Frozen Notebook (header line) | 案件：冰封笔记本之谜 | Y8 printables |
+| contaminated | 被污染的 | Y8 W5, W9 |
+| cubes / fine powder / small cube crystals | 立方体 / 细粉 / 小立方体晶体 | Y8 W4 |
+| cup / spotting tile / well / clean spoon / magnifying glass / goggles / sticky tape / paper towel / pencil | 杯子 / 点滴板 / 凹孔 / 干净的勺子 / 放大镜 / 护目镜 / 胶带 / 纸巾 / 铅笔 | Y8 kit and clean-up |
+| details (ridge details) / smudged / finger marks | 细节特征 / 模糊的 / 指印 | Y8 W2 |
+| dissolves / cloudy / no fizz / blue-black / no change (result words) | 溶解 / 浑浊 / 不冒气泡 / 蓝黑色 / 无变化 | Y8 W4 |
+| does not fit / does not match / linked to | 不一致 / 不匹配 / 与……有关 | Y8 W5 |
+| Erupting Volcano / Sugar Snowflakes (Fair projects) | 火山喷发 / 糖雪花 | Y8 W1 |
+| Fingerprint type / Number of students / Total (count) / Title (chart) | 纹型 / 学生人数 / 总数 / 标题 | Y8 W2 |
+| flowchart / key (identification key, short) | 流程图 / 检索表 | Y8 W4 |
+| freezer / lab freezer / freezer bag | 冰柜 / 实验室冰柜 / 冷冻袋 | Y8 (scene map uses 实验室冰柜) |
+| glass (drinking glass) / note (handwritten) / puddle / sink / white powder / footprint | 玻璃杯 / 纸条 / 一小摊液体 / 水槽 / 白色粉末 / 脚印 | Y8 evidence |
+| ink / ink dot / spot / main spot / distance moved by spot / distance moved by solvent | 墨水 / 墨点 / 斑点 / 主斑点 / 斑点移动距离 / 溶剂移动距离 | Y8 W3 |
+| known sample / reference (word bank item) / sample (Year 8 forensic sense) | 已知样本 / 参照 / 样本 | Y8 (Year 7 sample of a material is 样品) |
+| Lab technician / Head chef / Visiting scientist / Science Club president / Year 12 student | 实验员 / 主厨 / 访问科学家 / 科学社社长 / 12年级学生 | Y8 W1 suspect cards |
+| lemon juice / white vinegar (vinegar) / purified water (water) / soap solution / baking soda solution / red cabbage indicator | 柠檬汁 / 白醋 / 纯净水 / 肥皂水 / 小苏打溶液 / 紫甘蓝指示剂 | Y8 W1, W5 (vinegar is always 白醋) |
+| match (the result: it matches) / compare against (the action) / Match table | 匹配 / 比对 / 比对表 | Y8 W3 |
+| many people / more than / less than / about the same as / percentage / Our class % / World % (approx.) | 很多人 / 多于 / 少于 / 大致相同 / 百分比 / 我们班的百分比 / 世界百分比（约） | Y8 W2 |
+| notebook / blue research notebook / snowflake crystals / staff meeting | 笔记本 / 蓝色研究笔记本 / 雪花晶体 / 教职工会议 | Y8 story |
+| pattern (bands on a chromatogram) | 色带图案 | Y8 W3 (third sense; data 规律, fingerprint 纹型) |
+| Pattern guide / Start here / Right thumb / index / middle / ring / little | 纹型指南 / 从这里开始 / 右手拇指 / 右手食指 / 右手中指 / 右手无名指 / 右手小指 | Y8 W2 |
+| pH (bare word bank item) / stronger acid / stronger alkali | pH值 / 酸性越强 / 碱性越强 | Y8 W5 |
+| Powder tests / What to look for / Test (column) / Positive result / Means | 粉末检测 / 观察要点 / 检测 / 阳性结果 / 说明 | Y8 W4 lab card |
+| Role / Why in the lab / Sign-in / Pen / Seen with (powder) / Seen with (liquid) / Shoe size / Height | 身份 / 来实验室的原因 / 登记 / 笔 / 携带粉末 / 携带液体 / 鞋码 / 身高 | Y8 suspect card fields |
+| same colours / same height / separate (dyes separate) / borrowed | 相同的颜色 / 相同的高度 / 分开 / 借来的 | Y8 W3 |
+| scales / steamed buns / sticky note / square (grid square) / two people | 天平 / 包子 / 便利贴 / 方格 / 两个人 | Y8 |
+| Song Ci / Xi Yuan Ji Lu | 宋慈 / 《洗冤集录》 | Y8 W1 |
+| Tally (short table heading) | 划记 | Y8 W2 (key word tally is 划记计数) |
+| test (word bank item: a test) / Test (evidence log column: the test used) | 测试 / 检测方法 | Y8 W1 |
+| The white powder / The mystery liquid / Who wrote the note? / Fingerprints (titles) | 白色粉末之谜 / 神秘液体 / 谁写了纸条？ / 指纹档案 | Y8 W2 to W5 (keep the existing file titles) |
+| worked example / Now you try | 例题 / 现在你来试试 | Y8 W3 |
