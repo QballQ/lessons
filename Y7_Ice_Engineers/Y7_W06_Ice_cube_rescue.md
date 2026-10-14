@@ -20,8 +20,8 @@ Chinese text status: draft, needs native-speaker check
 
 - **Big idea:** A thermal insulator slows down heat transfer, so a coat on a snowman slows the heat moving from the warm air into the snow, and it melts more slowly.
 - **Learning goals:**
-  - I can plan and carry out a fair test to compare thermal insulators.
-  - I can explain, using my results, why a coat slows down melting (or cooling).
+  - I can plan and carry out a fair test to compare thermal insulators. 我能计划并进行一次公平测试，比较不同的隔热材料。
+  - I can explain, using my results, why a coat slows down melting (or cooling). 我能用我的结果解释为什么外套能减慢熔化（或降温）。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -40,23 +40,23 @@ Chinese text status: draft, needs native-speaker check
 
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
-| Do Now (start the ice) | 4 | Stands at the door with the cool box; gives each Safety Officer a cup of 4 bagged ice cubes; points to the slide; checks every group has started by minute 4; writes the class start time on the board | Wrap three bags in three materials, leave one unwrapped; put each in its labelled cup; Recorder writes the start time | Slide 1A; kit tray; worksheet Core B (top line) |
-| Hook | 3 | Shows the snowman concept cartoon; reads the four opinions; class vote | Vote (hands up) for the character they agree with; one reason with "because" | Slides 2 to 3; worksheet Core A |
-| Learn | 7 | Teaches heat transfer from warm to cold; a coat slows it in both directions; walks through today's fair test (IV, DV, controls) | Gestures for "I change / I measure / I keep the same"; complete Core C | Slides 4, 5, 6A, 7A; worksheet Core C |
-| Do part 1 | 14 | Circulates; checks variables tables and predictions; pushes Stretch and Challenge; no one touches the cups | Variables table, prediction with reason, Stretch and Challenge while the ice melts | Slide 8; worksheet Core D, Stretch, Challenge |
-| Think and Reflect part 1 | 4 | Hands out the Week 7 planning frame; explains the two project questions; groups talk | Planning frame page 1 only: choose a question and an independent variable (draft) | Slide 9; Week 7 planning frame (W7 Section 6a) |
-| Do part 2 (measure) | 4 | Calls "Stop the clock"; gives out gloves; checks measuring cylinder reading at eye level | Unwrap, pour each bag's meltwater into the measuring cylinder, read and record | Slide 10A; worksheet Core B |
-| Think and Reflect part 2 | 4 | Takes the best and worst material from two Reporters; returns to the cartoon: "Who was right?"; collects exit tickets | Share with the frame; exit ticket; logbook line if time | Slides 11 to 12; exit ticket |
+| Do Now (start the ice) | 4 | Stands at the door with the cool box; gives each Safety Officer a cup of 4 bagged ice cubes; points to the slide; checks every group has started by minute 4; writes the class start time on the board; then shows the Today slide (Slide 3), reads both goals in English while a student reads the Chinese, and points to the key words (one minute) | Wrap three bags in three materials, leave one unwrapped; put each in its labelled cup; Recorder writes the start time | Slides 1 and 3; kit tray; worksheet Core B (top line) |
+| Hook | 3 | Shows the snowman concept cartoon; reads the four opinions; class vote | Vote (hands up) for the character they agree with; one reason with "because" | Slides 4 to 5; worksheet Core A |
+| Learn | 7 | Teaches heat transfer from warm to cold; a coat slows it in both directions; walks through today's fair test (IV, DV, controls) | Gestures for "I change / I measure / I keep the same"; complete Core C | Slides 7, 8, 9, 11; worksheet Core C |
+| Do part 1 | 14 | Circulates; checks variables tables and predictions; pushes Stretch and Challenge; no one touches the cups | Variables table, prediction with reason, Stretch and Challenge while the ice melts | Slide 13; worksheet Core D, Stretch, Challenge |
+| Think and Reflect part 1 | 4 | Hands out the Week 7 planning frame; explains the two project questions; groups talk | Planning frame page 1 only: choose a question and an independent variable (draft) | Slide 14; Week 7 planning frame (W7 Section 6a) |
+| Do part 2 (measure) | 4 | Calls "Stop the clock"; gives out gloves; checks measuring cylinder reading at eye level | Unwrap, pour each bag's meltwater into the measuring cylinder, read and record | Slide 15; worksheet Core B |
+| Think and Reflect part 2 | 4 | Takes the best and worst material from two Reporters; returns to the cartoon: "Who was right?"; collects exit tickets | Share with the frame; exit ticket; logbook line if time | Slides 17 to 18; exit ticket |
 
 - **Timeline [Plan B]:** Do Now 4, Hook 3, Learn 7 (start readings in the first 2 minutes), Do 18 (end readings at about minute 25), Think and Reflect 8. Total 40 minutes. The water cools for 15 minutes.
 
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
-| Do Now | 4 | Points to the slide; checks every group has wrapped three cups and left one bare; fills the warm-water jug and checks it reads about 50 °C | Wrap three empty cups (side jacket plus lid square) in three materials; leave cup A bare; Recorder labels the table | Slide 1B; kit tray; worksheet Core B |
-| Hook | 3 | Shows the cartoon; while pairs talk, pours 150 ml of warm water into every cup (teacher only); takes a quick vote | Pairs discuss the cartoon (any language); fit the lid squares after pouring; vote | Slides 2 to 3; worksheet Core A |
-| Learn | 7 | First 2 minutes: Measurers take start readings in order A, B, C, D; then teaches heat transfer and the fair test | Measurer reads; Recorder writes start temperatures and starts the stopwatch; everyone completes Core C | Slides 3B, 4 to 6B, 7B; worksheet Core B, Core C |
-| Do | 18 | Circulates; at 15 minutes on each group's stopwatch, reminds them to take end readings in the same order; checks subtraction | Variables table and prediction; end readings at 15 minutes; calculate each temperature drop; Stretch and Challenge | Slides 8, 10B; worksheet Core B, Core D, Stretch, Challenge |
-| Think and Reflect | 8 | Planning frame page 1 (4 min); then "Who was right?" with two Reporters; collects exit tickets | Choose a project question and IV (draft); share with the frame; exit ticket | Slides 9, 11, 12; Week 7 planning frame; exit ticket |
+| Do Now | 4 | Points to the slide; checks every group has wrapped three cups and left one bare; fills the warm-water jug and checks it reads about 50 °C; then shows the Today slide (Slide 3), reads both goals in English while a student reads the Chinese, and points to the key words (one minute) | Wrap three empty cups (side jacket plus lid square) in three materials; leave cup A bare; Recorder labels the table | Slides 2 and 3; kit tray; worksheet Core B |
+| Hook | 3 | Shows the cartoon; while pairs talk, pours 150 ml of warm water into every cup (teacher only); takes a quick vote | Pairs discuss the cartoon (any language); fit the lid squares after pouring; vote | Slides 4 to 5; worksheet Core A |
+| Learn | 7 | First 2 minutes: Measurers take start readings in order A, B, C, D; then teaches heat transfer and the fair test | Measurer reads; Recorder writes start temperatures and starts the stopwatch; everyone completes Core C | Slides 6, 7, 8, 10, 12; worksheet Core B, Core C |
+| Do | 18 | Circulates; at 15 minutes on each group's stopwatch, reminds them to take end readings in the same order; checks subtraction | Variables table and prediction; end readings at 15 minutes; calculate each temperature drop; Stretch and Challenge | Slides 13, 16; worksheet Core B, Core D, Stretch, Challenge |
+| Think and Reflect | 8 | Planning frame page 1 (4 min); then "Who was right?" with two Reporters; collects exit tickets | Choose a project question and IV (draft); share with the frame; exit ticket | Slides 14, 17, 18; Week 7 planning frame; exit ticket |
 
 - **Tiers:**
   - Core: choose a cartoon character and give a reason; record results in the table; gap-fill on insulation (word bank); complete the variables table.
@@ -65,6 +65,7 @@ Chinese text status: draft, needs native-speaker check
 - **Language support:**
   - Frames: "I agree with ___ because ___." "The best insulator was ___ because it had the least meltwater / smallest temperature drop: ___." "A coat slows down heat moving from ___ to ___." "We kept ___ the same because ___."
   - Chinese talk welcome during the cartoon vote and the planning frame discussion.
+  - Band 1 today: sits beside a language buddy, who explains each step in Chinese and never writes the answer. Starts with Core B (letters, times and numbers only, with bilingual headings), then Core A: the vote is made from the picture cue in each bubble and the 概要 gist line read by the buddy while the teacher reads the English. Core C is done on the Chinese version of the paragraph with the bilingual word bank (or the draw-a-line version); Core D is done by sorting the bilingual variable cards under the three gesture headings and copying them. Answers in Chinese count in every Core task; praise the English key word when it is used.
   - Vocabulary traps: "insulator" (隔热材料) here means heat, not electricity (绝缘体 is the electrical word, and students may have met it). "Warm" in "a coat keeps you warm" makes students think the coat makes heat: it does not. "Drop" here means the temperature goes down (下降), not dropping a spinner.
 - **Misconceptions to watch for:**
   - "Coats make heat." A coat makes no heat. Your body makes the heat; the coat slows it escaping. A snowman makes no heat, so the coat just slows heat getting in.
@@ -87,94 +88,133 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 6, Ice cube rescue, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide.
+Create a 16:9 slide deck for Year 7 Week 6, Ice cube rescue, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Slides are numbered in file order across both plans (the Today slide, Slide 3, is shared), so each deck uses only the slide numbers in its running order below.
 
-**Running order, Plan A:** 1A, 2, 3, 4, 5, 6A, 7A, 8, 9, 10A, 11, 12.
-**Running order, Plan B:** 1B, 2, 3, 3B, 4, 5, 6B, 7B, 8, 10B, 9, 11, 12.
+**Running order, Plan A:** 1, 3, 4, 5, 7, 8, 9, 11, 13, 14, 15, 17, 18.
+**Running order, Plan B:** 2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 16, 14, 17, 18.
 
 ```
-Slide 1A [Plan A] | Phase tag: Do Now 课前任务
+Slide 1 | [Plan A] | Phase tag: Do Now 课前任务
 Title: Start the ice! / 冰块计时开始！
-On-slide text: Wrap 3 bags: one material each. Leave bag A bare. Each bag in its cup. Write the start time. Go!
+On-slide text:
+Wrap 3 bags: one material each. 包好3个袋子：每个袋子用一种材料。
+Leave bag A bare. A袋不包。
+Each bag in its cup. 每个袋子放进对应的杯子。
+Write the start time. 写下开始时间。
+Go! 开始！
 Vocabulary panel: material | 材料; thermal insulator | 隔热材料
-Visual: Four labelled cups A to D in a row. Cup A: an ice cube in a sealed bag, no wrap. Cups B to D: bags wrapped in a square of material, held with an elastic band. A large clock icon with "Start time: ____".
-Speaker notes: Students start as they arrive. The cubes are already in sealed bags, so they stay clean and the meltwater cannot soak into the wrapping. Wrap tightly, one layer only, and do not hold the bags in warm hands for long. Check every group has started by minute 4 and write the start time on the board.
+Visual: Four labelled cups A to D in a row. Cup A: an ice cube in a sealed bag, no wrap. Cups B to D: bags wrapped in a square of material, held with an elastic band. A large clock icon with "Start time 开始时间: ____".
+Speaker notes: Students start as they arrive. The cubes are already in sealed bags, so they stay clean and the meltwater cannot soak into the wrapping. Wrap tightly, one layer only, and do not hold the bags in warm hands for long. A student reads the Chinese line for each step to the group if anyone is unsure. Check every group has started by minute 4 and write the start time on the board.
 ```
 
 ```
-Slide 1B [Plan B] | Phase tag: Do Now 课前任务
+Slide 2 | [Plan B] | Phase tag: Do Now 课前任务
 Title: Dress the cups / 给杯子穿外衣
-On-slide text: Wrap cups B, C and D: one material each, side and lid. Leave cup A bare. Do not touch the water jug.
+On-slide text:
+Wrap cups B, C and D: one material each, side and lid. 包好B、C、D杯：每个杯子用一种材料，包住侧面，再配一块盖子。
+Leave cup A bare. A杯不包。
+Do not touch the water jug. 不要碰水壶。
 Vocabulary panel: material | 材料; thermal insulator | 隔热材料
-Visual: Four empty plastic cups labelled A to D, each with a line marked "150 ml". Cups B to D wear a jacket of material held by an elastic band; a matching square lid with a small slit lies beside each. Cup A is bare. A water jug with a "Teacher only" sign.
-Speaker notes: Students start as they arrive. Wrap the material round the side of the cup, one layer, held with an elastic band. Put the lid square beside the cup: it goes on after I pour. I will pour the warm water myself; no student touches the jug.
+Visual: Four empty plastic cups labelled A to D, each with a line marked "150 ml". Cups B to D wear a jacket of material held by an elastic band; a matching square lid with a small slit lies beside each. Cup A is bare. A water jug with a "Teacher only 仅限老师" sign.
+Speaker notes: Students start as they arrive. Wrap the material round the side of the cup, one layer, held with an elastic band. Put the lid square beside the cup: it goes on after I pour. I will pour the warm water myself; no student touches the jug. A student reads the Chinese line for each step to the group if anyone is unsure.
 ```
 
 ```
-Slide 2 [Shared] | Phase tag: Hook 引入
+Slide 3 | [Shared] | Phase tag: Do Now 课前任务 | Layout: Today 今天
+Title: Today / 今天
+On-slide text:
+Today I can ... 今天我能……
+I can plan and carry out a fair test to compare thermal insulators. 我能计划并进行一次公平测试，比较不同的隔热材料。
+I can explain, using my results, why a coat slows down melting (or cooling). 我能用我的结果解释为什么外套能减慢熔化（或降温）。
+Key words today 今天的关键词: thermal insulator 隔热材料 | insulate 隔热 | heat transfer 热传递 | melt 熔化 | meltwater 融化的水 | temperature 温度 | thermometer 温度计 | material 材料 | concept cartoon 概念漫画
+Vocabulary panel: none (the key words are listed on the slide)
+Visual: Today 今天 layout. Left: "Today I can ... 今天我能……" with the two goal lines, English with the Chinese beneath in the lighter weight, each with an empty tick box. Right: "Key words today 今天的关键词" as a list of the nine key words, English with Chinese. Ice Engineers ice crystal icon as the accent. Plan A decks list meltwater; Plan B decks may grey out meltwater and highlight temperature and thermometer.
+Speaker notes: Show this slide once every group has started its ice (Plan A) or wrapped its cups (Plan B), inside the Do Now's 4 minutes. Read each goal in English; a student reads the Chinese line. Point to the key words: "You will hear these nine words today; they are on your worksheet too." One minute at most, then the Hook.
+```
+
+```
+Slide 4 | [Shared] | Phase tag: Hook 引入
 Title: A coat for a snowman? / 给雪人穿外套？
-On-slide text: If we put a coat on a snowman, will it melt faster, slower, or the same?
+On-slide text:
+If we put a coat on a snowman, will it melt faster, slower, or the same? 如果给雪人穿上外套，它会熔化得更快、更慢，还是一样？
 Vocabulary panel: melt | 熔化; concept cartoon | 概念漫画
-Visual: The snowman concept cartoon (see Section 6a): a snowman in a sunny park wearing a thick coat, with four children around it, each with a speech bubble.
-Speaker notes: Read each speech bubble aloud slowly, pointing to each child. Do not say who is right. Plan B: while pairs talk, pour 150 ml of warm water into every cup, then tell groups to put their lid squares on.
+Visual: The snowman concept cartoon (see Section 6a): a snowman in a sunny park wearing a thick coat, with four children around it, each with a speech bubble. Each bubble carries a small picture cue, and its Chinese 概要 gist line sits beneath it, exactly as on the printable.
+Speaker notes: Read each speech bubble aloud slowly, pointing to each child. After each bubble a student reads the Chinese gist line beneath it. Do not say who is right. Plan B: while pairs talk, pour 150 ml of warm water into every cup, then tell groups to put their lid squares on.
 ```
 
 ```
-Slide 3 [Shared] | Phase tag: Hook 引入
+Slide 5 | [Shared] | Phase tag: Hook 引入
 Title: Who do you agree with? / 你同意谁的观点？
-On-slide text: Xin, Owen, Lulu or Bo? Vote! I agree with ___ because ___.
+On-slide text:
+Xin, Owen, Lulu or Bo? Vote! Xin、Owen、Lulu还是Bo？投票！
+I agree with ___ because ___. 我同意___，因为___。
 Vocabulary panel: melt | 熔化; concept cartoon | 概念漫画
-Visual: The four characters' faces in a row, each with a large letter and name: Xin, Owen, Lulu, Bo, with an empty tally box under each.
-Speaker notes: Take a hands-up vote and write the tallies. Ask one student for each popular choice to give a reason with the frame. Say: "Let's keep all four ideas. Our results will help us decide."
+Visual: The four characters' faces in a row, each with a large letter and name: Xin, Owen, Lulu, Bo, with an empty tally box under each. Beside each name, the same picture cue as in that character's speech bubble (big arrow into the snowman, small arrow, equals sign, two coats).
+Speaker notes: Take a hands-up vote and write the tallies. Ask one student for each popular choice to give a reason with the frame. A student reads the Chinese frame first; a reason given in Chinese counts. Say: "Let's keep all four ideas. Our results will help us decide."
 ```
 
 ```
-Slide 3B [Plan B] | Phase tag: Learn 新知
-Title: Start readings / 读取初始温度
-On-slide text: Measurer: thermometer in cup A, wait 30 seconds, read. Then B, C, D. Recorder: write each start temperature. Start the stopwatch at cup A.
+Slide 6 | [Plan B] | Phase tag: Learn 新知
+Title: Start readings / 读取起始温度
+On-slide text:
+Measurer: thermometer in cup A, wait 30 seconds, read. 测量员：把温度计放进A杯，等30秒，读数。
+Then B, C, D. 然后是B、C、D。
+Recorder: write each start temperature. 记录员：写下每个起始温度。
+Start the stopwatch at cup A. 在A杯开始计时。
+Key idea 核心概念: 顺序相同、节奏相同，每个杯子都有15分钟，测试才公平。
 Vocabulary panel: thermometer | 温度计; temperature | 温度
-Visual: A thermometer pushed through the slit in a lid, with an eye level line drawn to the scale. Arrow sequence A to B to C to D. Stopwatch icon labelled "Start at cup A".
-Speaker notes: Same order, same pace, both times: that keeps it fair, because every cup then gets 15 minutes. Read with your eye level with the liquid. The thermometer must not touch the bottom of the cup. Give this 2 minutes, then teach.
+Visual: A thermometer pushed through the slit in a lid, with an eye level line drawn to the scale. Arrow sequence A to B to C to D. Stopwatch icon labelled "Start at cup A 从A杯开始计时".
+Speaker notes: Same order, same pace, both times: that keeps it fair, because every cup then gets 15 minutes. A student reads the Chinese line for each step. Read with your eye level with the liquid. The thermometer must not touch the bottom of the cup. Give this 2 minutes, then teach.
 ```
 
 ```
-Slide 4 [Shared] | Phase tag: Learn 新知
+Slide 7 | [Shared] | Phase tag: Learn 新知
 Title: Heat moves from warm to cold / 热量从高温处传向低温处
 On-slide text: Heat always moves from a warmer place to a colder place. This is heat transfer. Cold does not move: heat does.
+Key idea 核心概念: 热量总是从高温处传向低温处，这就是热传递。冷不会移动，移动的是热量。
 Vocabulary panel: heat transfer | 热传递; temperature | 温度; melt | 熔化
 Visual: Two simple diagrams. Left: warm air (labelled 20 °C) with red-grey arrows pointing into a snowman (labelled 0 °C). Right: a cup of warm water (50 °C) with arrows pointing out into the room (20 °C). Arrow style must read in greyscale (thick solid arrows).
-Speaker notes: The snowman melts because heat moves from the warm air into the snow. A cup of warm water cools because heat moves out of it into the room. In both cases heat goes from warm to cold. Students often say "the cold gets in"; correct this gently.
+Speaker notes: The snowman melts because heat moves from the warm air into the snow. A cup of warm water cools because heat moves out of it into the room. In both cases heat goes from warm to cold. A student reads the Key idea line. Students often say "the cold gets in"; correct this gently.
 ```
 
 ```
-Slide 5 [Shared] | Phase tag: Learn 新知
+Slide 8 | [Shared] | Phase tag: Learn 新知
 Title: What does a coat do? / 外套有什么作用？
 On-slide text: A coat makes no heat. It is a thermal insulator: it slows heat transfer. It keeps warm things warm and cold things cold.
+Key idea 核心概念: 外套不产生热量；它是隔热材料，能减慢热传递，让热的保持热、冷的保持冷。
 Vocabulary panel: thermal insulator | 隔热材料; insulate | 隔热; heat transfer | 热传递
-Visual: Two panels. Left: a child in a coat on a cold day, short thin arrows of heat leaking out through the coat ("body makes heat; coat slows it leaving"). Right: a snowman in a coat on a warm day, short thin arrows of heat leaking in ("coat slows heat getting in"). Thick arrows outside, thin arrows through the coat.
-Speaker notes: You feel warm in a coat because your body makes heat and the coat slows it escaping. A snowman makes no heat, so the coat slows heat getting in from the warm air. Materials that trap air, like wool and bubble wrap, are good insulators. Plan B: our cups are like a person: warm inside, so the jacket slows heat getting out.
+Visual: Two panels. Left: a child in a coat on a cold day, short thin arrows of heat leaking out through the coat ("body makes heat; coat slows it leaving 身体产生热量，外套减慢热量散出"). Right: a snowman in a coat on a warm day, short thin arrows of heat leaking in ("coat slows heat getting in 外套减慢热量进入"). Thick arrows outside, thin arrows through the coat.
+Speaker notes: You feel warm in a coat because your body makes heat and the coat slows it escaping. A snowman makes no heat, so the coat slows heat getting in from the warm air. Materials that trap air, like wool and bubble wrap, are good insulators. A student reads the Key idea line. Plan B: our cups are like a person: warm inside, so the jacket slows heat getting out.
 ```
 
 ```
-Slide 6A [Plan A] | Phase tag: Learn 新知
+Slide 9 | [Plan A] | Phase tag: Learn 新知
 Title: Our fair test: ice cube rescue / 我们的公平测试：冰块保卫战
-On-slide text: I change: the material. I measure: meltwater (ml) after 30 minutes. I keep the same: cube size, bag, cup, time, place.
+On-slide text:
+I change: the material. 我改变：材料。
+I measure: meltwater (ml) after 30 minutes. 我测量：30分钟后融化的水（ml）。
+I keep the same: cube size, bag, cup, time, place. 我保持不变：冰块大小、袋子、杯子、时间、地点。
+Key idea 核心概念: 融化的水越少，隔热材料越好。
 Vocabulary panel: material | 材料; meltwater | 融化的水; thermal insulator | 隔热材料
 Visual: The three gesture icons from Week 3 (dial, stopwatch, flat hands). Under the dial: four material swatches. Under the stopwatch: a measuring cylinder with water to 5 ml. Under the flat hands: identical cubes, bags, cups and a clock.
-Speaker notes: Do the gestures from Week 3. Ask: "Why is cup A bare?" It is our control: it shows how fast ice melts with no insulator. Less meltwater means a better insulator. Prediction: "I predict ___ will be the best insulator because ___."
+Speaker notes: Do the gestures from Week 3. A student reads each Chinese line as the class makes the gesture. Ask: "Why is cup A bare?" It is our control: it shows how fast ice melts with no insulator. Less meltwater means a better insulator. Prediction: "I predict ___ will be the best insulator because ___."
 ```
 
 ```
-Slide 6B [Plan B] | Phase tag: Learn 新知
+Slide 10 | [Plan B] | Phase tag: Learn 新知
 Title: Our fair test: keep it warm / 我们的公平测试：保温挑战
-On-slide text: I change: the material. I measure: temperature drop (°C) in 15 minutes. I keep the same: cup, 150 ml water, start temperature, time, place.
+On-slide text:
+I change: the material. 我改变：材料。
+I measure: temperature drop (°C) in 15 minutes. 我测量：15分钟内的温度下降（°C）。
+I keep the same: cup, 150 ml water, start temperature, time, place. 我保持不变：杯子、150 ml水、起始温度、时间、地点。
+Key idea 核心概念: 温度下降越小，隔热材料越好。
 Vocabulary panel: material | 材料; temperature | 温度; thermometer | 温度计
-Visual: The three gesture icons. Under the dial: four material swatches. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop". Under the flat hands: identical cups, a 150 ml line and a clock.
-Speaker notes: Temperature drop = start temperature take away end temperature. A smaller drop means a better insulator. Cup A is the control. Ask: "Why must every cup start with the same amount of water?" More water would cool more slowly, so the test would not be fair.
+Visual: The three gesture icons. Under the dial: four material swatches. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop 起始温度减结束温度 = 温度下降". Under the flat hands: identical cups, a 150 ml line and a clock.
+Speaker notes: Temperature drop = start temperature take away end temperature. A smaller drop means a better insulator. Cup A is the control. A student reads each Chinese line as the class makes the gesture. Ask: "Why must every cup start with the same amount of water?" More water would cool more slowly, so the test would not be fair.
 ```
 
 ```
-Slide 7A [Plan A] | Phase tag: Learn 新知
+Slide 11 | [Plan A] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Wear gloves if you hold ice for more than a minute. 手持冰块超过一分钟请戴手套。 Mop spills straight away. 洒出的水请立即擦干。 Keep bags sealed. 保持袋子密封。
 Vocabulary panel: none
@@ -183,7 +223,7 @@ Speaker notes: Read each line in English; a student reads it in Chinese. The bag
 ```
 
 ```
-Slide 7B [Plan B] | Phase tag: Learn 新知
+Slide 12 | [Plan B] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Only the teacher pours the warm water. 只有老师可以倒温水。 Thermometers can break: tell the teacher. 温度计易碎，破损请告诉老师。 Mop spills straight away. 洒出的水请立即擦干。
 Vocabulary panel: none
@@ -192,57 +232,77 @@ Speaker notes: Read each line in English; a student reads it in Chinese. The wat
 ```
 
 ```
-Slide 8 [Shared] | Phase tag: Do 实践
+Slide 13 | [Shared] | Phase tag: Do 实践
 Title: While you wait / 等待的时候
-On-slide text: Do not touch the cups! Complete: variables table, prediction, then Stretch and Challenge.
+On-slide text:
+Do not touch the cups! 不要碰杯子！
+Complete: variables table, prediction, then Stretch and Challenge. 完成：变量表、预测，然后做提高和挑战。
 Vocabulary panel: thermal insulator | 隔热材料; heat transfer | 热传递; material | 材料
-Visual: A clock face with a shaded sector showing time passing. Beside it, a worksheet icon with Core D, Stretch and Challenge ticked off in order. A "hands off" icon over the cups.
-Speaker notes: Moving or squeezing the cups adds heat from hands, so leave them alone. Recorders keep an eye on the clock. Plan B: when your stopwatch reaches 15 minutes, stop writing and take end readings in the same order as before.
+Visual: A clock face with a shaded sector showing time passing. Beside it, a worksheet icon with Core D, Stretch and Challenge ticked off in order. The icon's labels are bilingual: Core D 基础D, Stretch 提高, Challenge 挑战. A "hands off" icon over the cups.
+Speaker notes: Moving or squeezing the cups adds heat from hands, so leave them alone. A student reads the Chinese lines; thumbs check before anyone starts. Recorders keep an eye on the clock. Plan B: when your stopwatch reaches 15 minutes, stop writing and take end readings in the same order as before.
 ```
 
 ```
-Slide 9 [Shared] | Phase tag: Think and Reflect 思辨与反思
+Slide 14 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Our project starts now / 我们的项目开始了
-On-slide text: Project question: Can we make ice stronger? Choose: type of fibre, or amount of sawdust. Draft page 1 of your plan.
+On-slide text:
+Project question: Can we make ice stronger? 项目问题：我们能让冰更坚固吗？
+Choose: type of fibre, or amount of sawdust. 选择：纤维类型，或木屑的量。
+Draft page 1 of your plan. 起草你们计划的第1页。
 Vocabulary panel: fibre | 纤维; independent variable | 自变量; strength | 强度
-Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
-Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. Plan B classes make dough strips instead of ice, with the same fibres. You can change your mind next week.
+Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool 纤维类型：无、木屑、纸巾、碎纸、棉花" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g 每条木屑的量：0 g、0.3 g、0.6 g、0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
+Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. A student reads the Chinese lines; the discussion may be in Chinese. Plan B classes make dough strips instead of ice, with the same fibres. You can change your mind next week.
 ```
 
 ```
-Slide 10A [Plan A] | Phase tag: Do 实践
+Slide 15 | [Plan A] | Phase tag: Do 实践
 Title: Stop the clock: measure! / 停止计时：测量！
-On-slide text: 1. Gloves on. 2. Unwrap. 3. Open the bag over the cylinder. 4. Pour water only. 5. Read at eye level. 6. Record (ml).
+On-slide text:
+1. Gloves on. 戴上手套。
+2. Unwrap. 拆开包裹。
+3. Open the bag over the cylinder. 在量筒上方打开袋子。
+4. Pour water only. 只倒水。
+5. Read at eye level. 视线与液面平齐读数。
+6. Record (ml). 记录（ml）。
 Vocabulary panel: meltwater | 融化的水; measure | 测量
-Visual: Six picture steps: gloves; unwrapping a bag; opening the bag corner over a measuring cylinder; pouring water while holding the ice back with a finger; an eye level with the bottom of the curved water surface; writing in the table.
-Speaker notes: Read the bottom of the curved water surface at eye level. Hold the ice back so only water goes in. Empty the cylinder into the tray between bags. Record the time the ice melted for: end time take away start time.
+Visual: Six picture steps: gloves; unwrapping a bag; opening the bag corner over a measuring cylinder; pouring water while holding the ice back with a finger; an eye level with the bottom of the curved water surface; writing in the table. Each numbered pair sits under its picture.
+Speaker notes: Read the bottom of the curved water surface at eye level. Hold the ice back so only water goes in. Empty the cylinder into the tray between bags. A student reads each Chinese step as the teacher shows it with one spare bag. Record the time the ice melted for: end time take away start time.
 ```
 
 ```
-Slide 10B [Plan B] | Phase tag: Do 实践
-Title: End readings / 读取最终温度
-On-slide text: At 15 minutes: read A, B, C, D in the same order. Temperature drop = start take away end. Smallest drop = best insulator.
+Slide 16 | [Plan B] | Phase tag: Do 实践
+Title: End readings / 读取结束温度
+On-slide text:
+At 15 minutes: read A, B, C, D in the same order. 15分钟时：按同样的顺序读A、B、C、D。
+Temperature drop = start take away end. 温度下降 = 起始温度减结束温度。
+Smallest drop = best insulator. 下降最小 = 最好的隔热材料。
 Vocabulary panel: temperature | 温度; thermometer | 温度计; thermal insulator | 隔热材料
-Visual: The stopwatch showing 15:00. The same A to D arrow sequence as Slide 3B. A worked example: start 48 °C, end 41 °C, drop 7 °C.
-Speaker notes: Same order and same 30-second wait as the start readings. Then calculate each drop. Worked example: 48 take away 41 is a drop of 7 °C. Check your units: °C.
+Visual: The stopwatch showing 15:00. The same A to D arrow sequence as Slide 6. A worked example: start 48 °C, end 41 °C, drop 7 °C.
+Speaker notes: Same order and same 30-second wait as the start readings. Then calculate each drop. A student reads the Chinese lines. Worked example: 48 take away 41 is a drop of 7 °C. Check your units: °C.
 ```
 
 ```
-Slide 11 [Shared] | Phase tag: Think and Reflect 思辨与反思
+Slide 17 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Back to the snowman / 回到雪人问题
-On-slide text: Which material was best? What does that tell us about the coat? Now who do you agree with?
+On-slide text:
+Which material was best? 哪种材料最好？
+What does that tell us about the coat? 这告诉我们外套有什么作用？
+Now who do you agree with? 现在你同意谁的观点？
 Vocabulary panel: thermal insulator | 隔热材料; heat transfer | 热传递; melt | 熔化
 Visual: The concept cartoon again, smaller, with Owen's speech bubble gently highlighted only after the discussion (build: first all four the same).
-Speaker notes: Take two Reporters: "The best insulator was ___ because ___." Then return to the vote. Owen is right: the coat slows heat moving from the warm air into the snowman, so it melts more slowly. Bo makes a good point too: a thin or wet coat would help less. Xin's idea that coats make heat is a common mistake.
+Speaker notes: Take two Reporters: "The best insulator was ___ because ___." A student reads the Chinese questions. Then return to the vote. Owen is right: the coat slows heat moving from the warm air into the snowman, so it melts more slowly. Bo makes a good point too: a thin or wet coat would help less. Xin's idea that coats make heat is a common mistake.
 ```
 
 ```
-Slide 12 [Shared] | Phase tag: Think and Reflect 思辨与反思
+Slide 18 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Exit ticket and logbook / 离场小测与科学日志
-On-slide text: Which material was the best insulator? Give one number from your results and a reason. Logbook: what I found.
+On-slide text:
+Which material was the best insulator? 哪种材料是最好的隔热材料？
+Give one number from your results and a reason. 写出你结果中的一个数字和一个理由。
+Logbook: what I found. 科学日志：我发现了什么。
 Vocabulary panel: thermal insulator | 隔热材料; material | 材料
-Visual: Exit ticket strip preview. Logbook icon with "What I found 我发现了什么" highlighted.
-Speaker notes: Students complete the exit ticket. Lead Scientists put the planning frame in the group folder; it comes back next week. Plan A: bags and wet materials in the bin, cups stacked. Plan B: the teacher collects thermometers first.
+Visual: Exit ticket strip preview. The strip includes the "Today I can 今天我能" self-check line. Logbook icon with "What I found 我发现了什么" highlighted.
+Speaker notes: Students complete the exit ticket. A student reads the Chinese lines; answers in Chinese count. Then everyone ticks the two goals on the strip. Lead Scientists put the planning frame in the group folder; it comes back next week. Plan A: bags and wet materials in the bin, cups stacked. Plan B: the teacher collects thermometers first.
 ```
 
 ---
@@ -254,71 +314,85 @@ Create an A4 portrait, black-and-white-printable worksheet for Year 7 Week 6, Ic
 **1. Header**
 - [Plan A] Ice cube rescue / 冰块保卫战
 - [Plan B] Keep it warm / 保温挑战
-- [Shared] Ice Engineers 冰雪工程师 | Week 6 | Name: __________ Class: ______ Date: ______
+- [Shared] Ice Engineers 冰雪工程师 | Week 6 第6周 | Name 姓名: __________ Class 班级: ______ Date 日期: ______
+- [Shared] Today I can 今天我能:
+  - I can plan and carry out a fair test to compare thermal insulators. 我能计划并进行一次公平测试，比较不同的隔热材料。
+  - I can explain, using my results, why a coat slows down melting (or cooling). 我能用我的结果解释为什么外套能减慢熔化（或降温）。
 
 **2. Vocabulary panel**
 - [Shared] thermal insulator | 隔热材料; insulate | 隔热; heat transfer | 热传递; melt | 熔化; material | 材料; concept cartoon | 概念漫画
 - [Plan A] add: meltwater | 融化的水
 - [Plan B] add: temperature | 温度; thermometer | 温度计
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 **A. [Shared] Snowman in a coat 穿外套的雪人**
-A small copy of the concept cartoon (Section 6a) with the four speech bubbles:
+A small copy of the concept cartoon (Section 6a) with the four speech bubbles, each with its picture cue inside the bubble and its Chinese gist line beneath it, identical to the printable (if the 9 cm copy is too small for the gist lines, set the four gist lines as a list beside the cartoon):
 - Xin: "A coat keeps you warm. So the coat will warm up the snowman and it will melt faster."
+  概要：外套会让雪人变暖，熔化更快。
 - Owen: "The coat will slow down the heat getting in from the warm air. The snowman will melt more slowly."
+  概要：外套减慢热量进入，雪人熔化更慢。
 - Lulu: "A coat cannot make heat or cold. So it makes no difference. The snowman will melt at the same speed."
+  概要：外套不产生冷热，所以没有区别。
 - Bo: "It depends on the coat. A thick, dry coat will slow the melting. A thin, wet coat will not help much."
+  概要：要看外套：厚而干的能减慢熔化，薄而湿的作用不大。
 
-Before the test: I agree with ______________ because ______________________________. (two lines)
-After the test: Now I agree with ______________ because ______________________________. (two lines)
+Before the test 测试前: I agree with ______________ because ______________________________. 我同意______________，因为______________________________。 (two lines)
+After the test 测试后: Now I agree with ______________ because ______________________________. 现在我同意______________，因为______________________________。 (two lines)
 
 **B. [Plan A] Our results 我们的结果**
-Start time: ______ End time: ______ The ice melted for ______ minutes.
+Start time 开始时间: ______ End time 结束时间: ______ The ice melted for ______ minutes. 冰熔化了______分钟。
 
-| Cup | Material | Meltwater (ml) | Rank (1 = least meltwater) |
+| Cup 杯 | Material 材料 | Meltwater (ml) 融化的水（ml） | Rank (1 = least meltwater) 排名（1 = 融化的水最少） |
 |---|---|---|---|
-| A | no wrap (control) | | |
+| A | no wrap (control) 不包裹（对照） | | |
 | B | | | |
 | C | | | |
 | D | | | |
 
 **B. [Plan B] Our results 我们的结果**
-Stopwatch started at cup A. End readings at 15 minutes. Temperature drop = start temperature take away end temperature.
+Stopwatch started at cup A. End readings at 15 minutes. Temperature drop = start temperature take away end temperature. 秒表在A杯开始计时。15分钟时读取结束温度。温度下降 = 起始温度减结束温度。
 
-| Cup | Material | Start temperature (°C) | End temperature (°C) | Temperature drop (°C) | Rank (1 = smallest drop) |
+| Cup 杯 | Material 材料 | Start temperature (°C) 起始温度（°C） | End temperature (°C) 结束温度（°C） | Temperature drop (°C) 温度下降（°C） | Rank (1 = smallest drop) 排名（1 = 下降最小） |
 |---|---|---|---|---|---|
-| A | no wrap (control) | | | | |
+| Example 例子 | | 48 | 41 | 7 | |
+| A | no wrap (control) 不包裹（对照） | | | | |
 | B | | | | | |
 | C | | | | | |
 | D | | | | | |
 
-**C. [Shared] Fill the gaps using the word bank.**
-Word bank: warmer | colder | insulator | slows | heat | no
+The Example 例子 row is printed greyed, with the same numbers as Slide 16; students do not write in it. If six bilingual headings are too tight for A4 portrait, set this table as a landscape block.
+
+**C. [Shared] Fill the gaps using the word bank. 用词库填空。**
+Word bank 词库: warmer 更暖 | colder 更冷 | insulator 隔热材料 | slows 减慢 | heat 热量 | no 不
 Heat moves from a ______________ place to a ______________ place. A coat makes ______________ heat. It is a thermal ______________. It ______________ down the movement of ______________.
+热量从______________的地方传到______________的地方。外套______________产生热量。它是______________。它______________了______________的移动。
+The Chinese paragraph sits beneath the English in the lighter weight, with the same six gaps in the same order, so each word bank item fits the same gap in both languages. Beside the paragraph, the snowman and arrows diagram from Slide 7. Band 1 alternative on the same block: Draw a line from each word bank item to its gap. 把词库里的每个词和它的空格连线。
 
 **D. [Shared] Our fair test 我们的公平测试**
 
-| I change (independent variable) 自变量 | I measure (dependent variable) 因变量 | I keep the same (control variables) 控制变量 |
+| I change (independent variable) 我改变（自变量） | I measure (dependent variable) 我测量（因变量） | I keep the same (control variables) 我保持不变（控制变量） |
 |---|---|---|
 | | | 1. |
 | | | 2. |
 | | | 3. |
 
-My prediction: I predict ______________ will be the best insulator because ______________________________. (two lines)
+Each heading carries its gesture icon from Slide 9 or 10 (dial, stopwatch, flat hands). Band 1 and 2 alternative, printed as a cut-out strip beneath the table: Sort the cards under the three headings, then copy. 把卡片分到三个标题下，然后抄写。 Cards: material 材料 | time 时间 | place 地点 | cup 杯子 | [Plan A] meltwater (ml) 融化的水（ml） | cube size 冰块大小 | bag 袋子 | [Plan B] temperature drop (°C) 温度下降（°C） | 150 ml water 150 ml水 | start temperature 起始温度
 
-**4. Stretch (two dots)**
-- [Plan A] a) Write a conclusion. Use two results. "The best insulator was ______ because it had only ______ ml of meltwater. The worst was ______ with ______ ml."
-- [Plan B] a) Write a conclusion. Use two results. "The best insulator was ______ because the temperature dropped by only ______ °C. The worst was ______ with a drop of ______ °C."
-- [Shared] b) Why do we need cup A with no wrap? "We need the control cup because ______________________________." (two lines)
+My prediction 我的预测: I predict ______________ will be the best insulator because ______________________________. 我预测______________会是最好的隔热材料，因为______________________________。 (two lines)
 
-**5. Challenge (three dots)**
-- [Shared] a) Which character in the cartoon was most right? Explain why the other three were wrong or only partly right. Use the words *heat transfer* (热传递) and *thermal insulator* (隔热材料). (five lines)
-- [Plan A] b) Name one thing that was hard to keep the same in our test (for example the size of each cube, or how tightly we wrapped it). How could it change the results? How could we control it better? (four lines)
-- [Plan B] b) Name one thing that was hard to keep the same in our test (for example the start temperature, or the lid). How could it change the results? How could we control it better? (four lines)
+**4. Stretch 提高 (two dots)**
+- [Plan A] a) Write a conclusion. Use two results. 写一个结论。用两个结果。 "The best insulator was ______ because it had only ______ ml of meltwater. The worst was ______ with ______ ml." "最好的隔热材料是______，因为它只有______ ml融化的水。最差的是______，有______ ml。"
+- [Plan B] a) Write a conclusion. Use two results. 写一个结论。用两个结果。 "The best insulator was ______ because the temperature dropped by only ______ °C. The worst was ______ with a drop of ______ °C." "最好的隔热材料是______，因为温度只下降了______ °C。最差的是______，下降了______ °C。"
+- [Shared] b) Why do we need cup A with no wrap? 为什么我们需要不包裹的A杯？ "We need the control cup because ______________________________." "我们需要对照杯，因为______________________________。" (two lines)
 
-**6. My thinking (any language, 可用中文)**
-[Shared] People in very hot deserts sometimes wear thick robes. Why might this help them stay cool?
+**5. Challenge 挑战 (three dots)**
+- [Shared] a) Which character in the cartoon was most right? Explain why the other three were wrong or only partly right. Use the words *heat transfer* (热传递) and *thermal insulator* (隔热材料). 漫画中哪个角色最正确？解释为什么另外三个是错的或只对了一部分。请用上热传递和隔热材料这两个词。 (five lines)
+- [Plan A] b) Name one thing that was hard to keep the same in our test (for example the size of each cube, or how tightly we wrapped it). How could it change the results? How could we control it better? 说出我们的测试中一个难以保持不变的量（例如每块冰的大小，或包裹的松紧）。它会怎样改变结果？我们怎样能更好地控制它？ (four lines)
+- [Plan B] b) Name one thing that was hard to keep the same in our test (for example the start temperature, or the lid). How could it change the results? How could we control it better? 说出我们的测试中一个难以保持不变的量（例如起始温度，或盖子）。它会怎样改变结果？我们怎样能更好地控制它？ (four lines)
+
+**6. My thinking 我的想法 (any language 可用中文)**
+[Shared] People in very hot deserts sometimes wear thick robes. Why might this help them stay cool? 在非常炎热的沙漠里，人们有时穿厚长袍。这为什么可能帮助他们保持凉爽？
 (Dashed-border box, about 5 cm tall.)
 
 **7. Fold-under word bank** (dashed fold line above)
@@ -327,10 +401,12 @@ My prediction: I predict ______________ will be the best insulator because _____
 [Plan B] add: temperature drop 温度下降 | thermometer 温度计
 
 **8. Exit ticket strip** (cut line above)
-Exit ticket | Week 6 | Name: __________
-The best insulator was ______________.
-One number from our results: ______________ (with unit).
-It was the best because ______________________________.
+Exit ticket 离场小测 | Week 6 第6周 | Name 姓名: __________
+The best insulator was ______________. 最好的隔热材料是______________。
+One number from our results: ______________ (with unit). 我们结果中的一个数字：______________（带单位）。
+It was the best because ______________________________. 它最好，因为______________________________。
+Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
+Beside the first line, five small labelled material icons (foil 铝箔 | newspaper 报纸 | cotton wool 棉花 | bubble wrap 气泡膜 | fabric 布料) so the best material can be circled instead of written.
 
 ---
 
@@ -424,8 +500,8 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
   洒出的水请立即擦干，以免滑倒。
 
 **Clean-up**
-- Ice, bags and wet materials in the bin; dry foil and bubble wrap can be reused.
-- Measuring cylinders rinsed and counted back; cups stacked; tables wiped dry.
+- Ice, bags and wet materials in the bin; dry foil and bubble wrap can be reused. 冰、袋子和湿的材料扔进垃圾桶；干的铝箔和气泡膜可以重复使用。
+- Measuring cylinders rinsed and counted back; cups stacked; tables wiped dry. 量筒冲洗干净并数好归还；杯子叠好；桌子擦干。
 
 ### Kit card [Plan B]: Keep it warm
 
@@ -460,8 +536,8 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
   洒出的水请立即擦干，以免滑倒。
 
 **Clean-up**
-- Teacher collects and counts thermometers first.
-- Water poured into the sink; wet newspaper and cotton wool in the bin; foil, fabric and bubble wrap dried for reuse; tables wiped.
+- Teacher collects and counts thermometers first. 老师先收回并清点温度计。
+- Water poured into the sink; wet newspaper and cotton wool in the bin; foil, fabric and bubble wrap dried for reuse; tables wiped. 水倒进水槽；湿的报纸和棉花扔进垃圾桶；铝箔、布料和气泡膜晾干以便重复使用；桌子擦干净。
 
 ---
 
@@ -469,17 +545,23 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 
 ### 6a. [Shared] Concept cartoon: snowman in a coat
 
-Create an A4 landscape concept cartoon for Year 7 Week 6, "A coat for a snowman? | 给雪人穿外套？", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable line art, friendly but not childish. Print spec: 1 for the slides (Slides 2, 3 and 11), 1 laminated A3 copy for the board, and a small copy (about 9 cm tall) placed in Core A of the worksheet.
+Create an A4 landscape concept cartoon for Year 7 Week 6, "A coat for a snowman? | 给雪人穿外套？", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable line art, friendly but not childish. Print spec: 1 for the slides (Slides 4, 5 and 17), 1 laminated A3 copy for the board, and a small copy (about 9 cm tall) placed in Core A of the worksheet.
 
 **Scene:** a park on a mild, sunny winter day: thin patches of snow on the grass, a bare tree, a bench, a low sun. In the centre stands a classic three-ball snowman with a carrot nose, stone eyes and a stick arm on each side. It wears a thick, padded winter coat, zipped up, with the hood down. Around it stand four children aged about 12, two on each side, each with a speech bubble. Speech bubbles are large and clear, minimum 14 pt text, with the child's name in bold at the start.
 
 **The four speech bubbles (write exactly):**
 - **Xin** (girl, left, pointing at her own coat): "A coat keeps you warm. So the coat will warm up the snowman and it will melt faster."
+  概要：外套会让雪人变暖，熔化更快。
 - **Owen** (boy, left, hand on chin, thinking): "The coat will slow down the heat getting in from the warm air. The snowman will melt more slowly."
+  概要：外套减慢热量进入，雪人熔化更慢。
 - **Lulu** (girl, right, arms folded, shrugging): "A coat cannot make heat or cold. So it makes no difference. The snowman will melt at the same speed."
+  概要：外套不产生冷热，所以没有区别。
 - **Bo** (boy, right, holding up a thin, wet-looking jacket in one hand): "It depends on the coat. A thick, dry coat will slow the melting. A thin, wet coat will not help much."
+  概要：要看外套：厚而干的能减慢熔化，薄而湿的作用不大。
 
-**Footer strip:** "Who do you agree with? Why? | 你同意谁的观点？为什么？ I agree with ___ because ___."
+Beneath each bubble, in the lighter weight, its Chinese gist line (概要) as written above; these four lines are identical wherever the cartoon appears (this printable, Slides 4, 5 and 17, Core A of the worksheet). Inside each bubble, a small picture cue so the choice can be made from the picture: Xin, a big arrow into the snowman; Owen, a small arrow into the snowman; Lulu, an equals sign; Bo, a thick dry coat beside a thin wet coat.
+
+**Footer strip:** "Who do you agree with? Why? | 你同意谁的观点？为什么？ I agree with ___ because ___. 我同意___，因为___。"
 
 No character is drawn as more confident or more "correct" than the others: all four expressions are equally friendly and thoughtful.
 

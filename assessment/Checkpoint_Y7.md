@@ -9,89 +9,86 @@ Chinese text status: draft, needs native-speaker check
 
 - **When:** Week 5, in the Think and Reflect phase or straight after the Do phase (see the Week 5 lesson plan). 10 minutes working, plus 1 minute to give out and collect.
 - **What it covers:** question types 1 to 6 of the skills check, with new questions set in the contexts of Weeks 1 to 4 (footprints and mystery cups, falling objects and testable questions, paper spinners, repeats and means).
-- **Language:** read any question aloud in English if asked. Explain everyday words, not science words. Accept Chinese for the explanation in Question 4.
+- **Language:** read any question aloud in English if asked. Explain everyday words, not science words. Accept Chinese for the explanation in Question 4. Chinese is accepted for every written answer on this paper (3a to 3c, 4a, 4b, the two headings in Question 5, 6a and 6b): mark the science, not the English. Every stem, scenario sentence, option and table heading carries its Chinese beneath it; on request, read the English and the Chinese aloud. A reader (the teacher, a Chinese-speaking colleague or an adult helper) may read both the English and the Chinese aloud to any student recorded in the tracker as needing one. In the give-out minute, run Say, show, check once per question: you read the English stem, a student reads the Chinese, thumbs check. A language buddy may explain in Chinese what a question asks, but may not say or write an answer.
 - **Unlike the skills check, you can go through the answers** in Week 6 (the incoming teacher's first lesson is a good moment). The checkpoint is not reused.
-- **Record** the score out of 12 in the tracker (column "W5 checkpoint") before the handover note is written. The incoming teacher observes this lesson.
+- **Record** the score out of 12 in the tracker (column "W5 checkpoint") before the handover note is written. The incoming teacher observes this lesson. For a student in Band 1 (tracker column G), the Week 1 to Week 5 comparison partly reflects language access rather than skill growth, because the Week 1 skills check paper could not be reglossed; say so in the handover note.
 
 ---
 
 ## 1. Student paper [Paste into Claude Design]
 
-Create an A4 portrait, black-and-white-printable checkpoint quiz (one side of A4) for Year 7 Week 5, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a mark box in the right margin of every question, minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. No word bank: this is an assessment.
+Create an A4 portrait, black-and-white-printable checkpoint quiz (one side of A4) for Year 7 Week 5, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a mark box in the right margin of every question, minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. No word bank: this is an assessment. Every line a student reads is paired (English, then Chinese): the Question 1 sentences, the Question 2 options, the scenario sentences in Questions 3 and 4, the sub-stems, the table headings and the labels. Set the Chinese of each item directly beneath its English in the lighter weight, one pair per line. If the page is tight, use a tighter gloss weight and set the Question 2 options in two columns rather than dropping any item; keep the pictures, which Band 1 students rely on.
 
 **Header**
 - Title: Checkpoint / 阶段检测
-- Subtitle: Ice Engineers 冰雪工程师 | Year 7 | Week 5
+- Subtitle: Ice Engineers 冰雪工程师 | Year 7 七年级 | Week 5 第5周
 - Fields: Name 姓名 ________ | Class 班级 ____ | Date 日期 ____
-- Line: 10 minutes | 12 marks | Answer every question. 请回答所有问题。
-- Score box at top right: Total ___ / 12
+- Line: 10 minutes 10分钟 | 12 marks 12分 | Answer every question. 请回答所有问题。
+- Score box at top right: Total 总分 ___ / 12
 
 ---
 
-**Question 1** (2 marks)
-Mia shakes a sealed cup. She cannot open it. Is each sentence an observation (O) or an inference (I)? Write O or I.
-米娅摇一个封好的杯子，不能打开。每句话是观察（O）还是推断（I）？写 O 或 I。
+**Question 1 第1题** (2 marks 2分)
+Mia shakes a sealed cup. She cannot open it. Is each sentence an observation (O) or an inference (I)? Write O or I. Mia摇一个封好的杯子。她打不开。每句话是观察（O）还是推断（I）？写O或I。
 
 Picture (small line drawing): a hand shaking a plastic cup sealed with tape. Small curved "rattle" lines near the cup.
 
-| Sentence | O or I? |
+| Sentence 句子 | O or I? 观察（O）还是推断（I）？ |
 |---|---|
-| A. The cup rattles when I shake it. | |
-| B. There is a coin inside. | |
-| C. The object inside is made of metal. | |
-| D. The cup feels heavier than an empty cup. | |
+| A. The cup rattles when I shake it. 我摇杯子时，杯子会发出响声。 | |
+| B. There is a coin inside. 里面有一枚硬币。 | |
+| C. The object inside is made of metal. 里面的东西是金属做的。 | |
+| D. The cup feels heavier than an empty cup. 这个杯子摸起来比空杯子重。 | |
 
 ---
 
-**Question 2** (1 mark)
-Which question can be tested with an experiment? Tick (✓) ONE box.
-哪个问题可以用实验来检验？只勾选一个。
+**Question 2 第2题** (1 mark 1分)
+Which question can be tested with an experiment? Tick (✓) ONE box. 哪个问题可以用实验来检验？只勾选一个。
 
-☐ A. Is falling scary?
-☐ B. Which is the prettiest snowflake?
-☐ C. Does a heavy ball fall faster than a light ball of the same size?
+☐ A. Is falling scary? 下落可怕吗？
+☐ B. Which is the prettiest snowflake? 哪一片雪花最漂亮？
+☐ C. Does a heavy ball fall faster than a light ball of the same size? 同样大小的重球比轻球落得更快吗？
 
----
-
-**Question 3** (3 marks)
-Leo makes paper spinners with 1, 2, 3 and 4 paper clips.
-He drops each spinner from the 2 m mark.
-He times how long each spinner takes to fall.
-利奥做了带1、2、3、4个回形针的纸旋翼，从2米处放下，记录下落时间。
-
-a) What does Leo change? (independent variable 自变量)
-______________________________
-
-b) What does Leo measure? (dependent variable 因变量)
-______________________________
-
-c) Write ONE thing he keeps the same. (control variable 控制变量)
-______________________________
+Picture (tiny icons beside the options, if space allows): a worried face beside A, a snowflake beside B, two balls of the same size beside C, one shaded darker to look heavier.
 
 ---
 
-**Question 4** (2 marks)
-Ava and Jun race two balls.
-Ava drops a tennis ball from 2 m.
-Jun drops a golf ball from 1 m.
-Jun says, "The golf ball is faster!"
-艾娃和小军比赛扔球。艾娃从2米放网球，小军从1米放高尔夫球。
+**Question 3 第3题** (3 marks 3分)
+Leo makes paper spinners with 1, 2, 3 and 4 paper clips. Leo做了带1、2、3、4个回形针的纸直升机。
+He drops each spinner from the 2 m mark. 他把每个纸直升机从2 m标记处放下。
+He times how long each spinner takes to fall. 他给每个纸直升机的下落计时。
+
+Picture (small line drawing): four spinners in a row with 1, 2, 3 and 4 paper clips on their stems, beside a "2 m" mark on the wall.
+
+a) What does Leo change? (independent variable 自变量) Leo改变了什么？（自变量）
+______________________________
+
+b) What does Leo measure? (dependent variable 因变量) Leo测量什么？（因变量）
+______________________________
+
+c) Write ONE thing he keeps the same. (control variable 控制变量) 写出一个他保持不变的量。（控制变量）
+______________________________
+
+---
+
+**Question 4 第4题** (2 marks 2分)
+Ava and Jun race two balls. Ava和Jun让两个球比赛。
+Ava drops a tennis ball from 2 m. Ava从2 m放下一个网球。
+Jun drops a golf ball from 1 m. Jun从1 m放下一个高尔夫球。
+Jun says, "The golf ball is faster!" Jun说：“高尔夫球更快！”
 
 Picture (simple line drawing): two students side by side. Ava stands on the floor holding a tennis ball high, next to a "2 m" mark on the wall. Jun holds a golf ball lower, next to a "1 m" mark.
 
-a) Why is this race not fair?
-为什么这个比赛不公平？
+a) Why is this race not fair? 为什么这个比赛不公平？
 ______________________________
 
-b) How can they make it fair?
-怎样让它变公平？
+b) How can they make it fair? 怎样让它变公平？
 ______________________________
 
 ---
 
-**Question 5** (2 marks)
-Leo writes his results in a table. Write the two missing headings. Include a unit if one is needed.
-利奥把结果写在表格里。写出两个表头，需要时写上单位。
+**Question 5 第5题** (2 marks 2分)
+Leo writes his results in a table. Write the two missing headings. Include a unit if one is needed. Leo把结果写在表格里。写出两个缺少的表头。需要时写上单位。
 
 | ______________ | ______________ |
 |---|---|
@@ -104,21 +101,19 @@ Leo writes his results in a table. Write the two missing headings. Include a uni
 
 ---
 
-**Question 6** (2 marks)
-Leo drops one spinner four times.
-利奥把同一个纸旋翼放下四次。
+**Question 6 第6题** (2 marks 2分)
+Leo drops one spinner four times. Leo把同一个纸直升机放下四次。
 
-| Try | 1 | 2 | 3 | 4 |
+| Try 次数 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
-| Time to fall (s) | 2.2 | 2.4 | 3.9 | 2.3 |
+| Time to fall (s) 下落时间（秒） | 2.2 | 2.4 | 3.9 | 2.3 |
 
-a) Which time is the anomaly? (异常值)
+a) Which time is the anomaly? (异常值) 哪个时间是异常值？
 ______ s
 
-b) Work out the mean time. Do not use the anomaly. (平均值)
-计算平均值。不要用异常值。
+b) Work out the mean time. Do not use the anomaly. (平均值) 计算时间的平均值。不要用异常值。
 
-Mean = ______ s
+Mean 平均值 = ______ s
 
 ---
 
@@ -126,7 +121,7 @@ Mean = ______ s
 
 Create an A4 portrait, black-and-white-printable mark scheme for the Year 7 Week 5 Checkpoint, using the Think Like a Scientist design system, Ice Engineers series. One table: Question | Answer | Accept | Do not accept | Marks. Teacher-only document.
 
-Mark the science, not the English. No half marks.
+Mark the science, not the English. No half marks. A Chinese equivalent of any answer in the Answer or Accept column earns the mark, so that the outgoing and incoming teacher mark the same way. In Question 5 a Chinese heading earns the mark on the same terms: column 2 still needs a unit, written as (s) or in Chinese.
 
 | Q | Answer | Accept | Do not accept | Marks |
 |---|---|---|---|---|

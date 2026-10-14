@@ -366,7 +366,9 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 | Try (repeat number heading) | 次数 | Y7 W4, checkpoints |
 | Sentence (table heading) | 句子 | checkpoints, Y7 W1 |
 | Student names (Mia, Leo, Ava, Jun, Lin, Kai and all others) | kept in Latin letters inside Chinese lines, never transliterated | matrix L |
+| amount of sawdust / type of fibre | 木屑的量 / 纤维种类 | Y7 W7 to W10 (one form in every file) |
 | ball / ball size / bounce height | 球 / 球的大小 / 弹起高度 | Y7 W3 exit ticket |
+| cup (word bank item) | 杯子 | Y7 W6 |
 | bird / fox / feather / wing marks / hopping / running | 鸟 / 狐狸 / 羽毛 / 翅膀印 / 跳跃 / 奔跑 | Y7 W1 footprint puzzle |
 | card / type of card | 卡纸 / 卡纸类型 | Y7 W3 |
 | certificate | 证书 | Y7 W10, Y8 W10 |

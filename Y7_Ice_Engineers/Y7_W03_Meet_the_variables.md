@@ -9,8 +9,8 @@ Chinese text status: draft, needs native-speaker check
 
 - **Big idea:** In a fair test we change only one thing, measure one thing, and keep everything else the same.
 - **Learning goals:**
-  - I can name the independent, dependent and control variables in an experiment.
-  - I can explain why a fair test changes only one thing.
+  - I can name the independent, dependent and control variables in an experiment. 我能说出实验中的自变量、因变量和控制变量。
+  - I can explain why a fair test changes only one thing. 我能解释为什么公平测试只改变一个量。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -28,11 +28,11 @@ Chinese text status: draft, needs native-speaker check
 
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
-| Do Now | 4 | Shows a picture of two paper planes thrown by different people from different heights | "Is this a fair race?" Answer with the frame: "It is / is not fair because ___." | Slide 1; worksheet Do Now box |
-| Hook | 3 | Drops a short-winged (4 cm) and a long-winged (8 cm) spinner together from the 2 m mark | Vote on which lands first, then watch | Slide 2 |
-| Learn | 7 | Teaches "I change / I measure / I keep the same" with hand gestures; bilingual vocabulary panel; safety slide | Copy the gestures; complete the cloze on the slide together | Slides 3 to 6; worksheet Core A |
-| Do | 18 | Circulates; checks roles, drop height and timing | Groups cut and fold three pre-printed spinners (4, 6 and 8 cm wings), drop each from the 2 m mark, time and record; complete the variables table | Slides 7 to 8; spinner template; worksheet Core B, results table, Stretch, Challenge |
-| Think and Reflect | 8 | Shows four test descriptions; collects exit tickets | Odd one out: which test is not fair? Pair talk in any language, share in English with a frame. Exit ticket: name the IV, DV and one control variable | Slides 9 to 11; odd-one-out cards; exit ticket |
+| Do Now | 4 | Shows a picture of two paper planes thrown by different people from different heights; then shows the Today slide (goals and key words, about 1 minute) | "Is this a fair race?" Answer with the frame: "It is / is not fair because ___." | Slides 1 to 2; worksheet Do Now box |
+| Hook | 3 | Drops a short-winged (4 cm) and a long-winged (8 cm) spinner together from the 2 m mark | Vote on which lands first, then watch | Slide 3 |
+| Learn | 7 | Teaches "I change / I measure / I keep the same" with hand gestures; bilingual vocabulary panel; safety slide | Copy the gestures; complete the cloze on the slide together | Slides 4 to 7; worksheet Core A |
+| Do | 18 | Circulates; checks roles, drop height and timing | Groups cut and fold three pre-printed spinners (4, 6 and 8 cm wings), drop each from the 2 m mark, time and record; complete the variables table | Slides 8 to 9; spinner template; worksheet Core B, results table, Stretch, Challenge |
+| Think and Reflect | 8 | Shows four test descriptions; collects exit tickets | Odd one out: which test is not fair? Pair talk in any language, share in English with a frame. Exit ticket: name the IV, DV and one control variable | Slides 10 to 12; odd-one-out cards; exit ticket |
 
 - **Tiers:**
   - Core: cloze with word bank, and a picture sort into I change / I measure / I keep the same; fill in the results table.
@@ -41,6 +41,7 @@ Chinese text status: draft, needs native-speaker check
 - **Language support:**
   - Frames: "It is / is not fair because ___." "I change ___. I measure ___. I keep ___ the same." "We must keep ___ the same because ___." "Test ___ is the odd one out because ___."
   - Chinese talk welcome in the Do Now and the odd-one-out discussion.
+  - Band 1 today: the student sits beside the language buddy. Do Now: look at the picture on Slide 1, hear a classmate read the Chinese line, then answer in Chinese with the Chinese frame printed in the worksheet box. Learn: the three gestures need no English; the student copies them and says 我改变 / 我测量 / 我保持不变. Worksheet order: Core B first (every picture carries a bilingual label; draw lines to the boxes marked 我改变 / 我测量 / 我保持不变), then Core C during the test (numbers and tick boxes only), then Core D (copy the Chinese labels from Core B into the three columns; Chinese answers count), then Core A (fill the Chinese line beneath each sentence, copying from Slide 6 as the class completes it together). Odd one out: the buddy reads the 概要 line on each card in Chinese; the student points to the odd card and gives the reason in Chinese with the Chinese frame. Exit ticket: the picture thumbnail on the strip shows what Ruby changes; answers may be written in Chinese using 球的大小, 弹起高度 and 下落高度 from the fold-under word bank.
   - Vocabulary traps: "independent" and "dependent" look alike: link them to the gestures (I change = independent, it is my choice; I measure = dependent, it depends on what I changed). "Control" here means "keep the same" (控制), not "control a person". "Fair" means equal and honest, not "light-coloured".
 - **Misconceptions to watch for:**
   - "Heavier things always fall faster." The spinners all carry one paper clip; what changes the fall time is wing length and air resistance.
@@ -65,50 +66,73 @@ Create a 16:9 slide deck for Year 7 Week 3, Meet the variables, using the Think 
 ```
 Slide 1 | Phase tag: Do Now 课前任务
 Title: Is this a fair race? / 这场比赛公平吗？
-On-slide text: Two paper planes. Two people. Is this a fair race? It is / is not fair because ___.
+On-slide text:
+Two paper planes. 两架纸飞机。
+Two people. 两个人。
+Is this a fair race? 这场比赛公平吗？
+It is / is not fair because ___. 它公平／不公平，因为___。
 Vocabulary panel: fair test | 公平测试
 Visual: Two children throwing paper planes across a playground. Child A (Lin) stands on a low wall about 1 m high; child B (Kai) stands on the ground. The planes are different shapes: one pointed, one wide. A finish line in the distance.
-Speaker notes: Students start as they arrive. Take two answers. Draw out at least two unfair things: different heights, different people throwing, different planes. If we change many things, we cannot tell why one plane won.
+Speaker notes: Students start as they arrive. Take two answers. Draw out at least two unfair things: different heights, different people throwing, different planes. If we change many things, we cannot tell why one plane won. A student reads the Chinese lines; the answer may be given in Chinese.
 ```
 
 ```
-Slide 2 | Phase tag: Hook 引入
+Slide 2 | Phase tag: Do Now 课前任务 | Layout: Today 今天
+Title: Today / 今天
+On-slide text:
+Today I can ... 今天我能……
+I can name the independent, dependent and control variables in an experiment. 我能说出实验中的自变量、因变量和控制变量。
+I can explain why a fair test changes only one thing. 我能解释为什么公平测试只改变一个量。
+Key words today 今天的关键词: variable 变量 | independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | fair test 公平测试 | air resistance 空气阻力 | spinner 纸直升机 | wing length 翼长
+Vocabulary panel: none (the key words list on this layout takes its place)
+Visual: Today layout. Left: the two goals, each with an empty tick box, Chinese beneath the English in the lighter weight. Right: the key words list, English with Chinese. Ice Engineers series icon as accent.
+Speaker notes: Read each goal in English; a student reads the Chinese line. Point to the key words. Thumbs check: do you know what today is for? One minute, inside the Do Now's 4 minutes.
+```
+
+```
+Slide 3 | Phase tag: Hook 引入
 Title: Short wings or long wings? / 短翼还是长翼？
-On-slide text: Which spinner lands first? Vote: short wings, long wings, or same time?
+On-slide text:
+Which spinner lands first? 哪个纸直升机先落地？
+Vote: short wings, long wings, or same time? 投票：短翼、长翼，还是同时？
 Vocabulary panel: spinner | 纸直升机; wing length | 翼长
-Visual: Two paper spinners side by side, one with short wings, one with long wings, held at the same height next to a wall mark "2 m". Three voting boxes.
-Speaker notes: Take a vote. Hold both spinners at the 2 m mark and drop together. Usually the short-winged spinner lands first. Ask: "Why? What is slowing the long one down?" Accept ideas; we will name it air resistance.
-```
-
-```
-Slide 3 | Phase tag: Learn 新知
-Title: Meet the variables / 认识变量
-On-slide text: I change: independent variable. I measure: dependent variable. I keep the same: control variables.
-Vocabulary panel: variable | 变量; independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量
-Visual: Three columns, each with a hand-gesture icon: a hand turning a dial (I change), a finger pressing a stopwatch (I measure), two flat still hands (I keep the same).
-Speaker notes: Teach the gestures and have the whole class copy them. I change: turn a dial. I measure: press a stopwatch. I keep the same: flat, still hands. Say each phrase in English while doing the gesture, then call out phrases at random for the class to show the gesture.
+Visual: Two paper spinners side by side, one with short wings, one with long wings, held at the same height next to a wall mark "2 m". Three voting boxes. Box labels: Short wings 短翼 / Long wings 长翼 / Same time 同时.
+Speaker notes: A student reads the Chinese lines before the vote. Take a vote. Hold both spinners at the 2 m mark and drop together. Usually the short-winged spinner lands first. Ask: "Why? What is slowing the long one down?" Accept ideas; we will name it air resistance.
 ```
 
 ```
 Slide 4 | Phase tag: Learn 新知
-Title: Our spinner test / 我们的纸直升机实验
-On-slide text: I change the wing length. I measure the fall time. I keep the drop height, paper clip and card the same.
-Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量; wing length | 翼长
-Visual: A spinner with its wings labelled "wing length (cm), I change" with a dial icon; a stopwatch labelled "fall time (s), I measure"; a wall mark "2 m", a paper clip and a card sheet labelled "I keep the same".
-Speaker notes: Do the gestures with each part. This is a fair test because only one thing changes: the wing length. Longer wings push against more air, so there is more air resistance and the spinner falls more slowly.
+Title: Meet the variables / 认识变量
+On-slide text: I change: independent variable. I measure: dependent variable. I keep the same: control variables.
+Key idea 核心概念: 我改变的是自变量，我测量的是因变量，保持不变的是控制变量。
+Vocabulary panel: variable | 变量; independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量
+Visual: Three columns, each with a hand-gesture icon: a hand turning a dial (I change 我改变), a finger pressing a stopwatch (I measure 我测量), two flat still hands (I keep the same 我保持不变).
+Speaker notes: Teach the gestures and have the whole class copy them. I change: turn a dial. I measure: press a stopwatch. I keep the same: flat, still hands. Say each phrase in English while doing the gesture, then call out phrases at random for the class to show the gesture. A student reads the Key idea line.
 ```
 
 ```
 Slide 5 | Phase tag: Learn 新知
-Title: Fill the gaps together / 一起填空
-On-slide text: We change the ____ of the wings: the ____ variable. We measure the ____ to fall: the ____ variable. We keep the height the ____: a ____ variable.
-Vocabulary panel: same as previous
-Visual: The cloze in large text with six blank boxes. Word bank underneath: length, independent, time, dependent, same, control.
-Speaker notes: Do this together; students point to the word and say it. Reveal answers one at a time: length, independent, time, dependent, same, control. Students copy into Core A on the worksheet.
+Title: Our spinner test / 我们的纸直升机实验
+On-slide text: I change the wing length. I measure the fall time. I keep the drop height, paper clip and card the same.
+Key idea 核心概念: 公平测试只改变一个量，这里是翼长。
+Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量; wing length | 翼长
+Visual: A spinner with its wings labelled "wing length (cm), I change 翼长（厘米），我改变" with a dial icon; a stopwatch labelled "fall time (s), I measure 下落时间（秒），我测量"; a wall mark "2 m", a paper clip and a card sheet labelled "I keep the same 我保持不变".
+Speaker notes: Do the gestures with each part. This is a fair test because only one thing changes: the wing length. Longer wings push against more air, so there is more air resistance and the spinner falls more slowly. A student reads the Key idea line.
 ```
 
 ```
 Slide 6 | Phase tag: Learn 新知
+Title: Fill the gaps together / 一起填空
+On-slide text: We change the ____ of the wings: the ____ variable. We measure the ____ to fall: the ____ variable. We keep the height the ____: a ____ variable.
+我们改变翼的___：这是___。我们测量下落的___：这是___。我们保持高度___：这是___。
+Key idea 核心概念: 改变一个量，测量一个量，其他量保持不变。
+Vocabulary panel: same as previous
+Visual: The cloze in large text with six blank boxes. The Chinese frame sits beneath it in the lighter weight with the same six gaps. Word bank 词库 underneath: length 长度, independent 自变量, time 时间, dependent 因变量, same 相同, control 控制变量.
+Speaker notes: Do this together; students point to the word and say it. Reveal answers one at a time: length, independent, time, dependent, same, control. Students copy into Core A on the worksheet. A student reads the Chinese frame line; Band 1 students fill the Chinese line in Core A as each answer is revealed.
+```
+
+```
+Slide 7 | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Never stand on chairs or tables. 禁止站在椅子或桌子上。 Carry scissors with the points down. 拿剪刀时刀尖朝下。 Keep the floor clear. 保持地面整洁畅通。
 Vocabulary panel: none
@@ -117,48 +141,62 @@ Speaker notes: Read each line in English; a student reads it in Chinese. The Dro
 ```
 
 ```
-Slide 7 | Phase tag: Do 实践
+Slide 8 | Phase tag: Do 实践
 Title: Make your spinners / 制作纸直升机
-On-slide text: 1. Cut on solid lines. 2. Cut wings to your length: S, M or L. 3. Fold on dashed lines. 4. Add one paper clip.
+On-slide text:
+1. Cut on solid lines. 沿实线剪。
+2. Cut wings to your length: S, M or L. 按你的翼长剪翼：S、M或L。
+3. Fold on dashed lines. 沿虚线折。
+4. Add one paper clip. 夹一个回形针。
 Vocabulary panel: spinner | 纸直升机; wing length | 翼长
 Visual: Four picture steps: (1) scissors cutting round the outer solid line; (2) cutting across the top at the S or M line (L is not trimmed); (3) wing A folded forward, wing B folded back, side flaps folded in; (4) bottom folded up with a paper clip pushed on.
-Speaker notes: Spinners are pre-printed on card: students only cut and fold. Three students each make one spinner: S (4 cm wings), M (6 cm) and L (8 cm). The Recorder writes names on the group envelope and draws the results table. About 5 minutes for making.
+Speaker notes: Spinners are pre-printed on card: students only cut and fold. Three students each make one spinner: S (4 cm wings), M (6 cm) and L (8 cm). The Recorder writes names on the group envelope and draws the results table. About 5 minutes for making. A student reads the Chinese lines; thumbs check before cutting starts.
 ```
 
 ```
-Slide 8 | Phase tag: Do 实践
+Slide 9 | Phase tag: Do 实践
 Title: Test your spinners / 测试纸直升机
-On-slide text: Dropper: hold at the 2 m mark. Measurer: say "Go", time until it lands. Recorder: write the time. Test S, M and L.
+On-slide text:
+Dropper: hold at the 2 m mark. 投放员：在2 m标记处拿好。
+Measurer: say "Go", time until it lands. 测量员：说“Go”，计时到落地。
+Recorder: write the time. 记录员：写下时间。
+Test S, M and L. 测试S、M和L。
 Vocabulary panel: dependent variable | 因变量; control variable | 控制变量; fair test | 公平测试
-Visual: A wall with a 2 m mark. A student standing on the floor holding a spinner at the mark by the paper clip end, wings up. A second student with a stopwatch. A third with a clipboard. Role icons above each person.
-Speaker notes: Hold the spinner by the paper clip with the wings pointing up, then let go. Start the stopwatch at "Go" and stop when it touches the floor. One drop per spinner first; if there is time, a second drop each. If a spinner hits something or does not spin, write that in Notes and drop again.
-```
-
-```
-Slide 9 | Phase tag: Think and Reflect 思辨与反思
-Title: Odd one out / 找不同
-On-slide text: Four tests. Which one is NOT fair? Test ___ is the odd one out because ___.
-Vocabulary panel: fair test | 公平测试; control variable | 控制变量
-Visual: The four odd-one-out cards A to D (see Section 6b) in a 2 x 2 grid, each with its picture and short description.
-Speaker notes: Pair talk in any language for 2 minutes, then Reporters share in English. Test B is not fair: two different drop heights. Some students may also argue about Test D (two different timers): praise this, because it is also a control variable. More than one answer can be right if the reason is good.
+Visual: A wall with a 2 m mark. A student standing on the floor holding a spinner at the mark by the paper clip end, wings up. A second student with a stopwatch. A third with a clipboard. Role icons above each person. Role labels: Dropper 投放员, Measurer 测量员, Recorder 记录员.
+Speaker notes: Hold the spinner by the paper clip with the wings pointing up, then let go. Start the stopwatch at "Go" and stop when it touches the floor. One drop per spinner first; if there is time, a second drop each. If a spinner hits something or does not spin, write that in Notes and drop again. A student reads the Chinese lines; thumbs check before the first drop.
 ```
 
 ```
 Slide 10 | Phase tag: Think and Reflect 思辨与反思
-Title: Why only one change? / 为什么只改变一个量？
-On-slide text: If we change two things, we cannot tell which one made the difference.
-Vocabulary panel: independent variable | 自变量; fair test | 公平测试
-Visual: Two spinners: one with long wings and two paper clips, one with short wings and one paper clip, with a big question mark between them: "Wings or paper clips?"
-Speaker notes: Ask: "If the long spinner with two clips falls faster, was it the wings or the clips?" We cannot tell. That is why a fair test changes only one thing.
+Title: Odd one out / 找不同
+On-slide text:
+Four tests. 四个测试。
+Which one is NOT fair? 哪一个不公平？
+Test ___ is the odd one out because ___. 测试___是不同的那一个，因为___。
+Vocabulary panel: fair test | 公平测试; control variable | 控制变量
+Visual: The four odd-one-out cards A to D (see Section 6b) in a 2 x 2 grid, each with its picture and short description. Each card also shows its 概要 gist line from Section 6b in the lighter weight.
+Speaker notes: Pair talk in any language for 2 minutes, then Reporters share in English. Test B is not fair: two different drop heights. Some students may also argue about Test D (two different timers): praise this, because it is also a control variable. More than one answer can be right if the reason is good. A student reads the Chinese lines; language buddies read the 概要 line on each card before pair talk.
 ```
 
 ```
 Slide 11 | Phase tag: Think and Reflect 思辨与反思
+Title: Why only one change? / 为什么只改变一个量？
+On-slide text: If we change two things, we cannot tell which one made the difference.
+Key idea 核心概念: 如果改变两个量，就不知道是哪个量造成了差别。
+Vocabulary panel: independent variable | 自变量; fair test | 公平测试
+Visual: Two spinners: one with long wings and two paper clips, one with short wings and one paper clip, with a big question mark between them: "Wings or paper clips? 翼还是回形针？"
+Speaker notes: Ask: "If the long spinner with two clips falls faster, was it the wings or the clips?" We cannot tell. That is why a fair test changes only one thing. A student reads the Key idea line.
+```
+
+```
+Slide 12 | Phase tag: Think and Reflect 思辨与反思
 Title: Exit ticket / 离场小测
-On-slide text: Ruby tests if ball size changes how high a ball bounces. Name the IV, the DV and one control variable.
+On-slide text:
+Ruby tests if ball size changes how high a ball bounces. Ruby要测试球的大小是否会改变球弹起的高度。
+Name the IV, the DV and one control variable. 说出自变量、因变量和一个控制变量。
 Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量
 Visual: A girl dropping a small ball and a large ball beside a metre stick, with the bounce height marked.
-Speaker notes: Students complete the exit ticket strip. Collect at the door. Groups put all three spinners in their labelled envelope for next week.
+Speaker notes: Students complete the exit ticket strip. Collect at the door. Groups put all three spinners in their labelled envelope for next week. A student reads the Chinese lines; answers in Chinese count.
 ```
 
 ---
@@ -169,71 +207,82 @@ Create an A4 portrait, black-and-white-printable worksheet for Year 7 Week 3, Me
 
 **1. Header**
 Meet the variables / 认识变量
-Ice Engineers 冰雪工程师 | Week 3
-Name: __________ Class: ______ Date: ______
+Ice Engineers 冰雪工程师 | Week 3 第3周
+Name 姓名: __________ Class 班级: ______ Date 日期: ______
+Today I can 今天我能:
+- I can name the independent, dependent and control variables in an experiment. 我能说出实验中的自变量、因变量和控制变量。
+- I can explain why a fair test changes only one thing. 我能解释为什么公平测试只改变一个量。
 
 **2. Vocabulary panel**
 variable | 变量; independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量; fair test | 公平测试; air resistance | 空气阻力; spinner | 纸直升机; wing length | 翼长
 
-**Do Now box (small, above Core): Is this a fair race?**
-It is / is not fair because ______________________________.
+**Do Now box (small, above Core): Is this a fair race? 这场比赛公平吗？**
+It is / is not fair because ______________________________. 它公平／不公平，因为___。
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
-**A. Fill the gaps using the word bank.**
+**A. Fill the gaps using the word bank. 用词库填空。**
 In our experiment we change the ______ of the wings. This is the ______ variable. We measure the ______ it takes to fall. This is the ______ variable. We keep the drop height the ______. This is a ______ variable.
-*Word bank: length | independent | time | dependent | same | control*
+在我们的实验里，我们改变翼的___。这是___。我们测量下落所需的___。这是___。我们保持下落高度___。这是___。
+*Word bank 词库: length 长度 | independent 自变量 | time 时间 | dependent 因变量 | same 相同 | control 控制变量*
+Copy from the slide. 从幻灯片抄写。
 
-**B. Picture sort.** Draw a line from each picture to the right box.
-Pictures (left side, each a small line drawing with a label): (1) spinner wings, "wing length" (2) stopwatch, "fall time" (3) wall mark, "drop height" (4) paper clip, "number of paper clips" (5) card sheet, "type of card" (6) a hand dropping a spinner, "how we let go".
-Boxes (right side): "I change 我改变 (independent variable)" | "I measure 我测量 (dependent variable)" | "I keep the same 保持不变 (control variable)"
+**B. Picture sort. 图片分类。** Draw a line from each picture to the right box. 把每张图片和正确的框连线。
+Pictures (left side, each a small line drawing with a label): (1) spinner wings, "wing length 翼长" (2) stopwatch, "fall time 下落时间" (3) wall mark, "drop height 下落高度" (4) paper clip, "number of paper clips 回形针数量" (5) card sheet, "type of card 卡纸类型" (6) a hand dropping a spinner, "how we let go 放手的方式".
+Boxes (right side): "I change 我改变 (independent variable 自变量)" | "I measure 我测量 (dependent variable 因变量)" | "I keep the same 我保持不变 (control variable 控制变量)"
+Each box carries its gesture icon from the slides (dial, stopwatch, flat hands).
 
 **C. Our results 我们的结果**
-Drop height: ______ m
+Drop height 下落高度: ______ m
 
-| Wing length (cm) | Fall time (s) | Notes (did it spin? did it hit anything?) |
+| Wing length (cm) 翼长（厘米） | Fall time (s) 下落时间（秒） | Notes (did it spin? did it hit anything?) 备注（转了吗？碰到东西了吗？） |
 |---|---|---|
-| 4 | | |
-| 6 | | |
-| 8 | | |
+| 4 | | spun 转了 ☐  hit something 碰到了东西 ☐ |
+| 6 | | spun 转了 ☐  hit something 碰到了东西 ☐ |
+| 8 | | spun 转了 ☐  hit something 碰到了东西 ☐ |
 
-**D. Our variables table 变量表**
+**D. Our variables table 我们的变量表**
 
-| I change (independent variable) 自变量 | I measure (dependent variable) 因变量 | I keep the same (control variables) 控制变量 |
+| I change (independent variable) 我改变（自变量） | I measure (dependent variable) 我测量（因变量） | I keep the same (control variables) 我保持不变（控制变量） |
 |---|---|---|
 | | | 1. |
 | | | 2. |
 | | | 3. |
 
-**4. Stretch (two dots)**
-Name two more things we must keep the same. Explain why.
-"We must keep ______________ the same because ______________."
-"We must keep ______________ the same because ______________."
+(Gesture icons above the three headings.)
+Copy the labels from B or the fold-under word bank. 从B题或折叠词库抄写标签。
 
-**5. Challenge (three dots)**
-You want to find out if the type of paper changes the fall time. Write your independent variable, dependent variable and two control variables. Predict what will happen and explain using the words *air resistance* (空气阻力).
+**4. Stretch 提高 (two dots)**
+Name two more things we must keep the same. 再说出两样我们必须保持不变的东西。 Explain why. 解释为什么。
+"We must keep ______________ the same because ______________." 我们必须保持___不变，因为___。
+"We must keep ______________ the same because ______________." 我们必须保持___不变，因为___。
 
-| Independent variable | |
+**5. Challenge 挑战 (three dots)**
+You want to find out if the type of paper changes the fall time. 你想知道纸的类型是否会改变下落时间。 Write your independent variable, dependent variable and two control variables. 写出你的自变量、因变量和两个控制变量。 Predict what will happen and explain using the words *air resistance* (空气阻力). 预测会发生什么，并用“空气阻力”这个词来解释。
+
+| Independent variable 自变量 | |
 |---|---|
-| Dependent variable | |
-| Control variable 1 | |
-| Control variable 2 | |
+| Dependent variable 因变量 | |
+| Control variable 1 控制变量1 | |
+| Control variable 2 控制变量2 | |
 
-My prediction: ______________________________ (four writing lines)
+My prediction 我的预测: ______________________________ (four writing lines)
 
-**6. My thinking (any language, 可用中文)**
-Why do scientists change only one thing at a time?
+**6. My thinking 我的想法 (any language 可用中文)**
+Why do scientists change only one thing at a time? 为什么科学家一次只改变一个量？
 (Dashed-border box, about 6 cm tall.)
 
-**7. Fold-under word bank** (dashed fold line above)
-independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | wing length 翼长 | fall time 下落时间 | drop height 下落高度 | paper clip 回形针 | card 卡纸 | stopwatch 秒表 | same 相同 | fair 公平 | air resistance 空气阻力 | more 更多 | slower 更慢 | because 因为
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
+independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | wing length 翼长 | fall time 下落时间 | drop height 下落高度 | paper clip 回形针 | card 卡纸 | stopwatch 秒表 | same 相同 | fair 公平 | air resistance 空气阻力 | more 更多 | slower 更慢 | because 因为 | ball 球 | ball size 球的大小 | bounce height 弹起高度
 
-**8. Exit ticket strip** (cut line above)
-Exit ticket | Week 3 | Name: __________
-Ruby tests if the size of a ball changes how high it bounces.
-Independent variable (I change): ______________
-Dependent variable (I measure): ______________
-One control variable (I keep the same): ______________
+**8. Exit ticket strip 离场小测** (cut line above)
+Exit ticket 离场小测 | Week 3 第3周 | Name 姓名: __________
+Ruby tests if the size of a ball changes how high it bounces. Ruby要测试球的大小是否会改变它弹起的高度。
+(Thumbnail beside the sentence: the Slide 12 picture, a small ball, a large ball and a metre stick with the bounce height marked.)
+Independent variable (I change) 自变量（我改变）: ______________
+Dependent variable (I measure) 因变量（我测量）: ______________
+One control variable (I keep the same) 一个控制变量（我保持不变）: ______________
+Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ---
 
@@ -300,9 +349,9 @@ Create a half-A4 kit card for Year 7 Week 3 using the Think Like a Scientist kit
 - Do not unbend paper clips or point them at anyone.
   不要把回形针掰直，也不要对着别人。
 
-**Clean-up**
-- Put all three spinners (S, M, L) in the group envelope. Teacher collects the envelopes.
-- Paper scraps in the recycling bin; scissors and stopwatches counted back into the tray.
+**Clean-up 收拾整理**
+- Put all three spinners (S, M, L) in the group envelope. Teacher collects the envelopes. 把三个纸直升机（S、M、L）放进小组信封。老师收回信封。
+- Paper scraps in the recycling bin; scissors and stopwatches counted back into the tray. 纸屑放进回收箱；剪刀和秒表数好放回托盘。
 
 ---
 
@@ -315,9 +364,9 @@ Create an A4 portrait spinner template sheet for Year 7 Weeks 3 and 4, "Paper sp
 **Layout of the sheet.** Three identical spinner templates side by side, each a rectangle 5 cm wide and 19 cm tall, with 1.5 cm gaps between them and a 1.5 cm left and right margin (5 + 1.5 + 5 + 1.5 + 5 = 18 cm, plus 2 x 1.5 cm margins = 21 cm). Top margin 3 cm. Below the templates, a key box. A 1 cm check square printed in the bottom-right corner with the label "Check: this square should measure 1 cm. 请检查：此方格应为1厘米。"
 
 **Line key (printed in a box at the foot of the sheet):**
-- Solid line: cut 剪 (scissors icon)
-- Dashed line: fold 折 (fold icon)
-- Dotted line with "S" or "M": trim line, cut only for your wing length 按翼长修剪
+- Solid line: cut 实线：剪 (scissors icon)
+- Dashed line: fold 虚线：折 (fold icon)
+- Dotted line with "S" or "M": trim line, cut only for your wing length 带S或M的点线：修剪线，只按你的翼长剪
 
 **Each template (measurements from the top edge of the rectangle, in cm):**
 - Outer edge: solid cut line all round, 5 cm x 19 cm.
@@ -333,7 +382,7 @@ Create an A4 portrait spinner template sheet for Year 7 Weeks 3 and 4, "Paper sp
 - **Side fold lines (9 cm to 19 cm from the top):** two vertical dashed lines, 1.5 cm in from each side edge, from the end of each side cut down to the bottom edge. Label the strips between the fold lines and the edges "fold in 向内折". When both side flaps are folded in, the stem is 2 cm wide.
 - **Bottom fold line (17 cm from the top):** a horizontal dashed line across the stem at 17 cm from the top. Label: "fold up 向上折".
 - **Paper clip position:** a small grey outline of a paper clip drawn on the stem between 16 cm and 19 cm from the top, centred, with the label "paper clip here 回形针夹在这里". After folding the bottom 2 cm up, push one paper clip fully onto the folded end, in the centre.
-- **Name label:** a small box on the stem (between 10 cm and 14 cm from the top) reading "Group ____ Wing length ____ cm".
+- **Name label:** a small box on the stem (between 10 cm and 14 cm from the top) reading "Group 小组 ____ Wing length 翼长 ____ cm".
 
 **Assembly steps (printed in the key box, with tiny picture icons):**
 1. Cut round the outside solid line. 沿外框实线剪下。
@@ -348,16 +397,16 @@ Create an A4 portrait spinner template sheet for Year 7 Weeks 3 and 4, "Paper sp
 
 ### 6b. Odd-one-out cards: which test is not fair?
 
-Create four cards for Year 7 Week 3, "Odd one out | 找不同", using the Think Like a Scientist design system, Ice Engineers series. Each card A5 landscape, with a simple line drawing on the left and the description on the right in 16 pt text. Print spec: 1 set for the slide (Slide 9) plus 6 sets for groups (A4 sheet with four A6 cards, cut).
+Create four cards for Year 7 Week 3, "Odd one out | 找不同", using the Think Like a Scientist design system, Ice Engineers series. Each card A5 landscape, with a simple line drawing on the left and the description on the right in 16 pt text. Beneath each English description, print its one-line Chinese gist (概要) in the lighter weight; the card label is bilingual (Test A 测试A and so on). Print spec: 1 set for the slide (Slide 10) plus 6 sets for groups (A4 sheet with four A6 cards, cut).
 
 | Card | Picture | Text |
 |---|---|---|
-| A | A girl holding two spinners (short wings, long wings) at a 2 m wall mark; one paper clip on each | **Test A:** Lin drops a 4 cm and an 8 cm spinner from 2 m. Each has one paper clip. |
-| B | A boy holding one spinner at a 2 m mark and the other at a 1 m mark | **Test B:** Kai drops the 4 cm spinner from 2 m and the 8 cm spinner from 1 m. |
-| C | A girl at a 2 m mark with a stopwatch held by a friend beside her, same friend in both mini-pictures | **Test C:** Mei drops both spinners from 2 m. Hao times both drops. |
-| D | A boy at a 2 m mark; two different friends, each holding a stopwatch, one for each spinner | **Test D:** Jun drops both spinners from 2 m. Tao times the first drop and Wen times the second. |
+| A | A girl holding two spinners (short wings, long wings) at a 2 m wall mark; one paper clip on each | **Test A 测试A:** Lin drops a 4 cm and an 8 cm spinner from 2 m. Each has one paper clip. 概要：Lin从2 m投放4 cm和8 cm的纸直升机，各夹一个回形针。 |
+| B | A boy holding one spinner at a 2 m mark and the other at a 1 m mark | **Test B 测试B:** Kai drops the 4 cm spinner from 2 m and the 8 cm spinner from 1 m. 概要：Kai从2 m投放4 cm纸直升机，从1 m投放8 cm纸直升机。 |
+| C | A girl at a 2 m mark with a stopwatch held by a friend beside her, same friend in both mini-pictures | **Test C 测试C:** Mei drops both spinners from 2 m. Hao times both drops. 概要：Mei从2 m投放两个纸直升机，两次都由Hao计时。 |
+| D | A boy at a 2 m mark; two different friends, each holding a stopwatch, one for each spinner | **Test D 测试D:** Jun drops both spinners from 2 m. Tao times the first drop and Wen times the second. 概要：Jun从2 m投放两个纸直升机，第一次由Tao计时，第二次由Wen计时。 |
 
-Footer on each card: "Test ___ is the odd one out because ___. | 找出不公平的实验。"
+Footer on each card: "Test ___ is the odd one out because ___. 测试___是不同的那一个，因为___。"
 
 ---
 

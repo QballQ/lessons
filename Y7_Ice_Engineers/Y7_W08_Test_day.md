@@ -20,8 +20,8 @@ Chinese text status: draft, needs native-speaker check
 
 - **Big idea:** A test is only as good as the way it is carried out: every sample is tested in exactly the same way, every result is recorded, and repeats show us how much results vary.
 - **Learning goals:**
-  - I can carry out a strength (or melting) test carefully and safely, in exactly the same way for every sample.
-  - I can record repeat results with units and notice anything unusual.
+  - I can carry out a strength (or melting) test carefully and safely, in exactly the same way for every sample. 我能安全、仔细地进行强度（或熔化）测试，并对每个样品用完全相同的方法。
+  - I can record repeat results with units and notice anything unusual. 我能带单位记录重复测试的结果，并注意到异常之处。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -40,11 +40,11 @@ Chinese text status: draft, needs native-speaker check
 
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
-| Do Now | 3 | Hands each group its tray of samples [Plan A: from the cool boxes; Plan B: from the drying shelf] and its folder; checks role cards | Safety Officer reads the kit card hazards aloud; Recorder copies sample codes into the results table; others build the rigs | Slide 1; kit tray; worksheet Core A |
-| Hook | 2 | Holds up a plain sample and a fibre sample: "Which will hold more water? How will it break?" | Quick prediction, hands up | Slide 2 |
-| Learn | 6 | Demonstrates one rig step by step (no sample snapped); explains the recording rule and parallel roles; safety slide. [Plan A: melting groups start their test now] | Watch; Measurers check their gap with a ruler | Slides 3 to 7; rig diagram (6a) |
-| Do | 22 | Circulates with a towel; checks spans (10 cm), counting of pours and notes; times the melting groups (Plan A); pushes for 3 repeats, accepts 2 | Two rigs in parallel; test every sample; record every result; write notes on how each sample broke; calculate means if time | Slides 8 to 9; worksheet Core, Stretch, Challenge |
-| Think and Reflect | 7 | Recorders write their results on the class project board; teacher picks one odd result: "Anomaly or not?"; collects exit tickets | Discuss (any language), share with a frame; exit ticket; tidy | Slides 10 to 11; class project board; exit ticket |
+| Do Now | 3 | Hands each group its tray of samples [Plan A: from the cool boxes; Plan B: from the drying shelf] and its folder; checks role cards; shows the Today slide and reads the two goals in English while the trays go out (a student reads the Chinese) | Safety Officer reads the kit card hazards aloud; Recorder copies sample codes into the results table; others build the rigs | Slides 1 to 2 (Today slide); kit tray; worksheet Core A |
+| Hook | 2 | Holds up a plain sample and a fibre sample: "Which will hold more water? How will it break?" | Quick prediction, hands up | Slide 3 (Plan A) or Slide 4 (Plan B) |
+| Learn | 6 | Demonstrates one rig step by step (no sample snapped); explains the recording rule and parallel roles; safety slide. [Plan A: melting groups start their test now] | Watch; Measurers check their gap with a ruler | Slides 5 to 10; rig diagram (6a) |
+| Do | 22 | Circulates with a towel; checks spans (10 cm), counting of pours and notes; times the melting groups (Plan A); pushes for 3 repeats, accepts 2 | Two rigs in parallel; test every sample; record every result; write notes on how each sample broke; calculate means if time | Slides 11 to 12; worksheet Core, Stretch, Challenge |
+| Think and Reflect | 7 | Recorders write their results on the class project board; teacher picks one odd result: "Anomaly or not?"; collects exit tickets | Discuss (any language), share with a frame; exit ticket; tidy | Slides 13 to 14; class project board; exit ticket |
 
 - **Roles for parallel testing (groups of 4 or 5):**
   - Rig 1: Lead Scientist pours; Measurer watches the sample at eye level and calls "Snap!".
@@ -58,8 +58,9 @@ Chinese text status: draft, needs native-speaker check
   - Challenge: compare how plain and fibre samples broke and explain the difference using *fibre* and *brittle*; name one thing that was hard to keep the same and how it could change the results.
 - **Language support:**
   - Frames: "It snapped at ___ ml." "The plain sample broke ___, but the ___ sample ___." "The anomaly is ___ because ___." "It was hard to keep ___ the same because ___."
-  - Chinese talk welcome while testing; results and notes are written in English with key words.
+  - Chinese talk welcome while testing; results and notes are written in English with key words. Under the language access policy a note written in Chinese also counts: mark the science, and praise the English key word when it appears.
   - Vocabulary traps: "load" (负载) is not "loud". "Snap" here means break suddenly, not take a photo or click your fingers. "Volume" (体积) here is an amount of liquid, not loudness.
+  - Band 1 today: sit the student beside their language buddy and give them a doing job first (pourer or watcher on Rig 1), where the result is a number, not a sentence. The rig is built from the bilingual 6a diagram on the table, not from the slide. For Core B they read the Chinese headings and the Chinese rule; the Our test line is copied from the Week 7 planning frame or circled from the two bilingual options; the Notes column may be filled in Chinese or by copying one bilingual Core C phrase. Core C is ticked from the bilingual phrases. The exit ticket may be answered in Chinese or by ticking one of the bilingual options.
 - **Misconceptions to watch for:**
   - "We should press on the sample to help it break." Never: every sample must get only the water load, added the same way.
   - "If our first result is good, we do not need repeats." One sample can have a hidden crack or bubble; repeats show whether a result is typical.
@@ -81,76 +82,120 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 8, Test day, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Where a [Shared] slide says "sample", Plan A means an ice strip and Plan B means a dough strip.
+Create a 16:9 slide deck for Year 7 Week 8, Test day, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Where a [Shared] slide says "sample", Plan A means an ice strip and Plan B means a dough strip. Slides are numbered once across both decks, so each deck skips the other plan's numbers; the running orders below list exactly which slides each deck contains.
 
-**Running order, Plan A:** 1, 2A, 3, 4, 5, 6A, 7A, 8, 9A, 10, 11.
-**Running order, Plan B:** 1, 2B, 3, 4, 5, 7B, 8, 10, 11.
+**Running order, Plan A:** 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14.
+**Running order, Plan B:** 1, 2, 4, 5, 6, 7, 10, 11, 13, 14.
 
 ```
-Slide 1 [Shared] | Phase tag: Do Now 课前任务
+Slide 1 | [Shared] | Phase tag: Do Now 课前任务
 Title: Test day! / 测试日！
-On-slide text: Safety Officer: read the kit card. Recorder: copy your sample codes into the table. Everyone else: build two rigs.
+On-slide text:
+Safety Officer: read the kit card. 安全员：阅读器材卡。
+Recorder: copy your sample codes into the table. 记录员：把样品编号抄写到表格里。
+Everyone else: build two rigs. 其他人：搭建两个测试架。
 Vocabulary panel: sample | 样品; catch tray | 接水盘
 Visual: A group table seen from above: a tray of nine labelled samples, two pairs of desks pushed apart with a narrow gap, books stacked at the gap edges, two buckets on the floor. Five role icons.
-Speaker notes: Students start as they arrive. Samples stay in their insulated box (Plan A) or on the tray (Plan B) until they are tested. Rig builders: push two desks together, then open a 10 cm gap. We need every minute today, so start straight away.
+Speaker notes: Students start as they arrive. Samples stay in their insulated box (Plan A) or on the tray (Plan B) until they are tested. Rig builders: push two desks together, then open a 10 cm gap. We need every minute today, so start straight away. A student reads the Chinese lines as the slide goes up.
 ```
 
 ```
-Slide 2A [Plan A] | Phase tag: Hook 引入
+Slide 2 | [Shared] | Phase tag: Do Now 课前任务 | Layout: Today 今天
+Title: Today / 今天
+On-slide text:
+Today I can ... 今天我能……
+I can carry out a strength (or melting) test carefully and safely, in exactly the same way for every sample. 我能安全、仔细地进行强度（或熔化）测试，并对每个样品用完全相同的方法。
+I can record repeat results with units and notice anything unusual. 我能带单位记录重复测试的结果，并注意到异常之处。
+Key words today 今天的关键词: strength 强度 | load 负载 | snap 断裂 | volume 体积 | millilitre (ml) 毫升 | mass 质量 | repeat 重复 | anomaly 异常值 | catch tray 接水盘
+Vocabulary panel: none
+Visual: Today layout: the two goals as two large paired lines, English above and Chinese beneath in the lighter weight; the nine key words in a band along the bottom; a small test-day icon (a strip across a gap with a bag hanging from it).
+Speaker notes: Read each goal in English; a student reads the Chinese. Point to the key words: "You will hear these nine words today." One minute at most, inside the 3-minute Do Now: show it while the trays go out, then straight back to building rigs.
+```
+
+```
+Slide 3 | [Plan A] | Phase tag: Hook 引入
 Title: Plain ice or pykrete? / 普通冰还是木屑冰？
-On-slide text: Which will hold more water before it snaps? How will each one break?
-Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的（易碎的）
+On-slide text:
+Which will hold more water before it snaps? 哪一个在断裂前能承载更多的水？
+How will each one break? 每一个会怎样断？
+Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的
 Visual: Two strips held up in gloved hands: a clear plain ice strip and a speckled brown sawdust strip. A large question mark between them.
-Speaker notes: Hold up a spare plain strip and a spare sawdust strip. Take a quick vote. Ask: "Will they break in the same way?" Tell students to watch closely today: how a sample breaks is evidence too.
+Speaker notes: Hold up a spare plain strip and a spare sawdust strip. A student reads the Chinese questions, then take a quick vote. Ask: "Will they break in the same way?" Tell students to watch closely today: how a sample breaks is evidence too.
 ```
 
 ```
-Slide 2B [Plan B] | Phase tag: Hook 引入
+Slide 4 | [Plan B] | Phase tag: Hook 引入
 Title: No fibre or fibre? / 无纤维还是有纤维？
-On-slide text: Which strip will hold more water before it snaps? How will each one break?
-Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的（易碎的）
+On-slide text:
+Which strip will hold more water before it snaps? 哪一条在断裂前能承载更多的水？
+How will each one break? 每一个会怎样断？
+Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的
 Visual: Two dry dough strips held up: a smooth plain strip and a strip with fibres showing at the edges. A large question mark between them. A small straw mud brick in the corner.
-Speaker notes: Hold up a spare plain strip and a spare fibre strip. Take a quick vote. Ask: "Will they break in the same way?" Watch closely today: how a strip breaks is evidence too.
+Speaker notes: Hold up a spare plain strip and a spare fibre strip. A student reads the Chinese questions, then take a quick vote. Ask: "Will they break in the same way?" Watch closely today: how a strip breaks is evidence too.
 ```
 
 ```
-Slide 3 [Shared] | Phase tag: Learn 新知
-Title: Build the strength rig / 搭建强度测试装置
-On-slide text: 1. Two desks, 10 cm gap. 2. Equal book stacks at the edges. 3. Sample across the gap. 4. String loop in the middle. 5. Bag below. 6. Bucket under the bag.
+Slide 5 | [Shared] | Phase tag: Learn 新知
+Title: Build the strength rig / 搭建强度测试架
+On-slide text:
+1. Two desks, 10 cm gap. 两张桌子，10厘米间隙。
+2. Equal book stacks at the edges. 间隙两边放同样高的书堆。
+3. Sample across the gap. 样品横放在间隙上。
+4. String loop in the middle. 绳圈套在正中间。
+5. Bag below. 袋子挂在下面。
+6. Bucket under the bag. 袋子下面放桶。
+Key idea 核心概念: 每个测试架都一样：间隙10厘米，绳圈在正中间。
 Vocabulary panel: load | 负载; catch tray | 接水盘
 Visual: The labelled rig diagram (Section 6a), front view: two desks with a 10 cm gap; a stack of three books on each desk at the gap edge, top books covered with plastic; the sample lying across the gap; a string loop round its middle hanging down through the gap; a carrier bag hanging below the desks; a bucket on the floor directly under the bag. Labels on each part. A ruler showing "10 cm".
-Speaker notes: Demonstrate with one rig. Measure the gap between the book stacks with a ruler every time: 10 cm. The strip is 12 cm long, so it rests about 1 cm on each stack; the loop goes exactly in the middle. Strips are thin, so hold them by the ends and lay them down gently. The bag hangs just inside the bucket, so when the sample snaps it only falls a few centimetres.
+Speaker notes: Demonstrate with one rig. Measure the gap between the book stacks with a ruler every time: 10 cm. The strip is 12 cm long, so it rests about 1 cm on each stack; the loop goes exactly in the middle. Strips are thin, so hold them by the ends and lay them down gently. The bag hangs just inside the bucket, so when the sample snaps it only falls a few centimetres. A student reads each Chinese step as you point to that part of the rig.
 ```
 
 ```
-Slide 4 [Shared] | Phase tag: Learn 新知
+Slide 6 | [Shared] | Phase tag: Learn 新知
 Title: Add the load / 加负载
-On-slide text: Fill the pour cup to the 25 ml line. Pour gently into the bag. Wait 5 seconds. Count each pour. Repeat until it snaps.
+On-slide text:
+Fill the pour cup to the 25 ml line. 把倒水杯装到25毫升刻度线。
+Pour gently into the bag. 轻轻倒进袋子里。
+Wait 5 seconds. 等5秒。
+Count each pour. 每倒一次记一笔。
+Repeat until it snaps. 重复直到断裂。
+Key idea 核心概念: 1毫升水的质量约为1克，所以体积就是负载。
 Vocabulary panel: volume | 体积; millilitre (ml) | 毫升; load | 负载
 Visual: Four picture steps: a pour cup filled to a "25 ml" line from the jug; water poured gently into the bag; a "5 seconds" timer; a tally being added (|||| |). A note box: "1 ml of water has a mass of about 1 g. 300 ml is about 300 g."
 Speaker notes: We use water instead of masses: 1 ml of water has a mass of about 1 g, so the volume tells us the load. Pour gently and at the same speed every time; a splash or a jolt is like a push, and it is not fair. Wait 5 seconds between pours so the sample has time to crack if it is going to.
 ```
 
 ```
-Slide 5 [Shared] | Phase tag: Learn 新知
+Slide 7 | [Shared] | Phase tag: Learn 新知
 Title: The recording rule / 记录规则
-On-slide text: Record the total ml in the bag when it snaps. If it snaps during a pour, count that whole pour. Then write how it broke.
+On-slide text:
+Record the total ml in the bag when it snaps. 断裂时，记录袋子里的总毫升数。
+If it snaps during a pour, count that whole pour. 如果在倒水时断裂，这一次倒水也要算进去。
+Then write how it broke. 然后写下它是怎样断的。
+Key idea 核心概念: 人人用同一条记录规则，下周才能汇总全班的结果。
 Vocabulary panel: snap | 断裂; volume | 体积; anomaly | 异常值
 Visual: A worked example: tally "|||| |||| ||||" = 15 pours; 15 x 25 ml = 375 ml. Beside it, a results table row: "SD3 R1 | 375 ml | note: cracked, but fibres held the two halves together".
-Speaker notes: Same rule for everyone, so results can be pooled next week. 15 pours of 25 ml is 375 ml. If a sample snaps before any water goes in, record 0 ml and write why. Water from the bag goes back into the jug for the next test.
+Speaker notes: Same rule for everyone, so results can be pooled next week. 15 pours of 25 ml is 375 ml. If a sample snaps before any water goes in, record 0 ml and write why. Water from the bag goes back into the jug for the next test. A student reads the Chinese rule aloud before the first test.
 ```
 
 ```
-Slide 6A [Plan A] | Phase tag: Learn 新知
+Slide 8 | [Plan A] | Phase tag: Learn 新知
 Title: Melting groups: start now / 熔化测试组：现在开始
-On-slide text: Gloves on. Peel the foil off every strip. Each strip on its own lid. Start the stopwatch. 15 minutes. Then pour each lid's water into the cylinder.
+On-slide text:
+Gloves on. 戴手套。
+Peel the foil off every strip. 剥掉所有冰条上的锡纸。
+Each strip on its own lid. 每条冰条放在一个盖子上。
+Start the stopwatch. 开始计时。
+15 minutes. 15分钟。
+Then pour each lid's water into the cylinder. 然后把每个盖子里的水倒进量筒。
+Key idea 核心概念: 每个样品：相同时间、相同地点、相同盖子。
 Vocabulary panel: melt | 熔化; volume | 体积; millilitre (ml) | 毫升
 Visual: Picture steps: gloved hands peeling foil off a thin ice strip; nine strips on nine identical lids in three rows, away from the window; a stopwatch at 15:00; ice lifted off with gloves; water poured from a lid into a 10 ml measuring cylinder; an eye at the level of the water surface.
 Speaker notes: Melting groups only. Start all samples at the same time, in the same place, away from sunlight and heaters. At 15 minutes, lift each sample off its lid, let it drip for 5 seconds over the lid, put it in the waste bowl, then pour the lid's water into the measuring cylinder and read it in ml.
 ```
 
 ```
-Slide 7A [Plan A] | Phase tag: Learn 新知
+Slide 9 | [Plan A] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Catch tray under every bag. 每个袋子下面都要放接水盘。 Feet clear of the bag. 双脚远离悬挂的袋子。 Gloves for ice. 拿冰请戴手套。 Mop spills now. 洒出的水请立即擦干。
 Vocabulary panel: none
@@ -159,7 +204,7 @@ Speaker notes: Read each line in English; a student reads it in Chinese. The pou
 ```
 
 ```
-Slide 7B [Plan B] | Phase tag: Learn 新知
+Slide 10 | [Plan B] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Catch tray under every bag. 每个袋子下面都要放接水盘。 Feet clear of the bag. 双脚远离悬挂的袋子。 Never eat the dough. 严禁食用面团。 Wash your hands. 实验后请洗手。
 Vocabulary panel: none
@@ -168,39 +213,52 @@ Speaker notes: Read each line in English; a student reads it in Chinese. The pou
 ```
 
 ```
-Slide 8 [Shared] | Phase tag: Do 实践
-Title: Two rigs, one team / 两个装置，一个团队
-On-slide text: Rig 1: Lead Scientist pours, Measurer watches. Rig 2: Safety Officer pours, Reporter watches. Recorder: next sample, tallies, results. Target: 3 repeats. Minimum: 2.
+Slide 11 | [Shared] | Phase tag: Do 实践
+Title: Two rigs, one team / 两个测试架，一个团队
+On-slide text:
+Rig 1: Lead Scientist pours, Measurer watches. 测试架1：首席科学家倒水，测量员观察。
+Rig 2: Safety Officer pours, Reporter watches. 测试架2：安全员倒水，汇报员观察。
+Recorder: next sample, tallies, results. 记录员：递下一个样品、划记计数、记录结果。
+Target: 3 repeats. Minimum: 2. 目标：重复3次。最少：2次。
 Vocabulary panel: repeat | 重复; strength | 强度; sample | 样品
 Visual: A top-down diagram of one group: two rigs side by side along the same desk gap, about 25 cm apart, each with two role icons; the Recorder in the middle with the sample tray and the results sheet. A 22-minute timer.
-Speaker notes: Test the samples in a mixed order (for example plain, fibre, plain, fibre), not all the plain ones first, so that changes during the lesson affect every type equally. Each test takes about two minutes. Halfway, check: are you on track for three repeats?
+Speaker notes: Test the samples in a mixed order (for example plain, fibre, plain, fibre), not all the plain ones first, so that changes during the lesson affect every type equally. Each test takes about two minutes. Halfway, check: are you on track for three repeats? A student reads the Chinese role lines; thumbs check before the first pour.
 ```
 
 ```
-Slide 9A [Plan A] | Phase tag: Do 实践
+Slide 12 | [Plan A] | Phase tag: Do 实践
 Title: Keep the ice cold / 保持冰的低温
-On-slide text: Only take out one sample at a time. Lid on the box. Test it within 1 minute of peeling.
+On-slide text:
+Only take out one sample at a time. 每次只拿出一个样品。
+Lid on the box. 盖好箱子的盖子。
+Test it within 1 minute of peeling. 剥开后1分钟内测试。
 Vocabulary panel: melt | 熔化; sample | 样品
 Visual: An insulated box wrapped in bubble wrap with its lid on, one gloved hand taking out a single strip. A small 1-minute timer.
 Speaker notes: Ice that warms up gets weaker, so a strip left on the table for ten minutes is not a fair test against one straight from the box. This is a control variable: the time out of the box. Recorders note any strip that waited longer.
 ```
 
 ```
-Slide 10 [Shared] | Phase tag: Think and Reflect 思辨与反思
+Slide 13 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Anomaly or not? / 是不是异常值？
-On-slide text: Plain samples: 275 ml, 325 ml, 50 ml. Is 50 ml an anomaly? What could have happened? What should we do?
+On-slide text:
+Plain samples: 275 ml, 325 ml, 50 ml. 普通样品：275毫升、325毫升、50毫升。
+Is 50 ml an anomaly? 50毫升是异常值吗？
+What could have happened? 可能发生了什么？
+What should we do? 我们应该怎么做？
 Vocabulary panel: anomaly | 异常值; repeat | 重复; snap | 断裂
 Visual: Three broken plain samples drawn side by side with their results; the third has a visible crack line drawn through it from before the test.
-Speaker notes: Recorders first copy their results onto the class project board. Then pair talk: "The anomaly is ___ because ___." 50 ml is much lower than the others; the note says it had a crack before testing, so we leave it out of the mean but never rub it out. If we had a spare sample, we would test it.
+Speaker notes: Recorders first copy their results onto the class project board. A student reads the Chinese questions. Then pair talk with the frame card (English and Chinese frame): "The anomaly is ___ because ___." 50 ml is much lower than the others; the note says it had a crack before testing, so we leave it out of the mean but never rub it out. If we had a spare sample, we would test it.
 ```
 
 ```
-Slide 11 [Shared] | Phase tag: Think and Reflect 思辨与反思
+Slide 14 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Exit ticket and tidy / 离场小测与整理
-On-slide text: Exit ticket: one result with its unit, and one thing that was hard to keep the same. Tidy: water back in the jug, mop, wash hands.
+On-slide text:
+Exit ticket: one result with its unit, and one thing that was hard to keep the same. 离场小测：一个带单位的结果，和一件很难保持不变的事。
+Tidy: water back in the jug, mop, wash hands. 收拾整理：水倒回水壶，擦地，洗手。
 Vocabulary panel: volume | 体积; millilitre (ml) | 毫升
 Visual: Exit ticket strip preview. Tidy checklist icons: jug, mop, bin, tap.
-Speaker notes: Students complete the exit ticket while Safety Officers lead the tidy. Results tables go in the group folder; next week we pool the class data and make posters. Photograph the class project board before it is wiped.
+Speaker notes: Students complete the exit ticket and tick the Today I can self-check on the strip while Safety Officers lead the tidy. A student reads the Chinese lines. Results tables go in the group folder; next week we pool the class data and make posters. Photograph the class project board before it is wiped.
 ```
 
 ---
@@ -210,14 +268,15 @@ Speaker notes: Students complete the exit ticket while Safety Officers lead the 
 Create an A4 portrait, black-and-white-printable worksheet for Year 7 Week 8, Test day, using the Think Like a Scientist worksheet template, Ice Engineers series. Make two versions. Both use every [Shared] block; the Plan A version uses the [Plan A] blocks; the Plan B version uses the [Plan B] blocks. This is the group's results sheet: each student has a copy, and the Recorder's copy goes in the group folder. It may run onto the back of the page.
 
 **1. Header**
-[Shared] Test day / 测试日 | Ice Engineers 冰雪工程师 | Week 8 | Name: __________ Class: ______ Date: ______ | Group: __________
+[Shared] Test day / 测试日 | Ice Engineers 冰雪工程师 | Week 8 第8周 | Name 姓名: __________ Class 班级: ______ Date 日期: ______ | Group 小组: __________
+[Shared] Today I can 今天我能: I can carry out a strength (or melting) test carefully and safely, in exactly the same way for every sample. 我能安全、仔细地进行强度（或熔化）测试，并对每个样品用完全相同的方法。 | I can record repeat results with units and notice anything unusual. 我能带单位记录重复测试的结果，并注意到异常之处。
 
 **2. Vocabulary panel**
 [Shared] strength | 强度; load | 负载; snap | 断裂; volume | 体积; millilitre (ml) | 毫升; mass | 质量; repeat | 重复; anomaly | 异常值; catch tray | 接水盘
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
-**A. [Shared] Safety check 安全检查** (tick before the first test)
+**A. [Shared] Safety check 安全检查** (tick before the first test 第一次测试前勾选)
 ☐ Gap between the book stacks (the span) is 10 cm. 书堆之间的间隙为10厘米。
 ☐ Catch tray (bucket) under each bag. 每个袋子下面都有接水盘。
 ☐ Feet clear; the pourer kneels to the side. 双脚远离；倒水的人跪在旁边。
@@ -225,55 +284,59 @@ Create an A4 portrait, black-and-white-printable worksheet for Year 7 Week 8, Te
 ☐ [Plan A] Gloves on for peeling ice. 剥冰时戴手套。 / [Plan B] No one eats the dough. 不吃面团。
 
 **B. [Shared] Strength results 强度测试结果**
-Our test: does the ______________ change the strength of the ______________?
-Rule: total volume of water in the bag when the sample snaps. If it snaps during a pour, count that whole pour.
+Our test: does the ______________ change the strength of the ______________? 我们的测试：______________会改变______________的强度吗？
+Copy it from your Week 7 planning frame, or circle one of each: type of fibre / amount of sawdust; ice strip / dough strip. 从第7周的计划框架抄写，或各圈出一个：纤维种类／木屑的量；冰条／面团条。
+Rule 规则: total volume of water in the bag when the sample snaps. 样品断裂时袋子里水的总体积。 If it snaps during a pour, count that whole pour. 如果在倒水时断裂，这一次倒水也要算进去。
 
-| Sample (I change) | Water held, Repeat 1 (ml) | Water held, Repeat 2 (ml) | Water held, Repeat 3 (ml) | Mean (ml) | Notes: how did it break? anything unusual? |
+| Sample (I change) 样品（我改变） | Water held, Repeat 1 (ml) 承载水量 重复1（毫升） | Water held, Repeat 2 (ml) 承载水量 重复2（毫升） | Water held, Repeat 3 (ml) 承载水量 重复3（毫升） | Mean (ml) 平均值（毫升） | Notes: how did it break? anything unusual? 备注：它是怎样断的？有什么异常？ |
 |---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-Pour tally box (for the Recorder): two boxes side by side, "Rig 1 tally" and "Rig 2 tally", each 4 cm x 3 cm.
+Notes may be in Chinese or English, or copy one phrase from C. 备注可以用中文或英语写，也可以从C部分抄一个短语。
+Pour tally box 倒水划记计数框 (for the Recorder 记录员用): two boxes side by side, "Rig 1 tally 测试架1划记计数" and "Rig 2 tally 测试架2划记计数", each 4 cm x 3 cm.
 
-**B. [Plan A] Melting results 熔化测试结果** (melting groups use this table instead of the strength table)
-Our test: does the ______________ change how much an ice strip melts in 15 minutes?
-Start time: ______ End time (15 minutes later): ______
+**B. [Plan A] Melting results 熔化测试结果** (melting groups use this table instead of the strength table 熔化测试组用这个表格代替强度表格)
+Our test: does the ______________ change how much an ice strip melts in 15 minutes? 我们的测试：______________会改变冰条在15分钟内熔化的量吗？
+Start time 开始时间: ______ End time (15 minutes later) 结束时间（15分钟后）: ______
 
-| Sample (I change) | Meltwater, Repeat 1 (ml) | Meltwater, Repeat 2 (ml) | Meltwater, Repeat 3 (ml) | Mean (ml) | Notes |
+| Sample (I change) 样品（我改变） | Meltwater, Repeat 1 (ml) 融化的水 重复1（毫升） | Meltwater, Repeat 2 (ml) 融化的水 重复2（毫升） | Meltwater, Repeat 3 (ml) 融化的水 重复3（毫升） | Mean (ml) 平均值（毫升） | Notes 备注 |
 |---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
 **C. [Shared] How did it break? 它是怎样断的？**
-Tick the words that describe one sample. Sample code: __________
+Tick the words that describe one sample. 勾选描述一个样品的词语。 Sample code 样品编号: __________
 ☐ snapped suddenly 突然断裂 ☐ cracked slowly 慢慢裂开 ☐ broke into two pieces 断成两块 ☐ broke into many pieces 碎成很多块 ☐ the pieces stayed joined 碎块仍连在一起 ☐ bent first 先弯曲
 [Plan A, melting groups instead] ☐ fibres left on the surface 表面留下纤维 ☐ melted evenly 均匀熔化 ☐ melted faster at the edges 边缘熔化更快
 
-**4. Stretch (two dots)**
-a) [Shared] Calculate the mean for each sample. Show your working in the boxes. (Three working boxes, each with the line "total ______ ÷ ______ = ______ ml".)
-b) [Shared] Is there an anomaly? Circle it in the table. "The anomaly is ______ ml because ______________________________."
+**4. Stretch 提高 (two dots)**
+a) [Shared] Calculate the mean for each sample. 计算每个样品的平均值。 Show your working in the boxes. 把计算过程写在框里。 (Three working boxes, each with the line "total ______ ÷ ______ = ______ ml 总和______ ÷ ______ = ______毫升".)
+b) [Shared] Is there an anomaly? 有异常值吗？ Circle it in the table. 在表格里把它圈出来。 "The anomaly is ______ ml because ______________________________." "异常值是______毫升，因为______________________________。"
 
-**5. Challenge (three dots)**
-a) [Shared] Compare how a plain sample and a fibre sample broke. Use the words *brittle* (脆的) and *fibre* (纤维). (four lines)
-b) [Shared] Name one thing that was hard to keep exactly the same today. How could it change the results? (three lines)
-- [Plan A] Ideas: how long each strip was out of the box; bubbles in the ice; how gently we poured.
-- [Plan B] Ideas: how dry each strip was; how thick each strip was; how gently we poured.
+**5. Challenge 挑战 (three dots)**
+a) [Shared] Compare how a plain sample and a fibre sample broke. 比较普通样品和纤维样品是怎样断的。 Use the words *brittle* (脆的) and *fibre* (纤维). 请用上这两个关键词：脆的、纤维。 Frame: "The plain sample broke ___, but the ___ sample ___." "普通样品___断裂，而___样品___。" (four lines)
+b) [Shared] Name one thing that was hard to keep exactly the same today. 说出一件今天很难保持完全相同的事。 How could it change the results? 它会怎样改变结果？ Frame: "It was hard to keep ___ the same because ___." "很难保持___不变，因为___。" (three lines)
+- [Plan A] Ideas: how long each strip was out of the box; bubbles in the ice; how gently we poured. 提示：每条冰条离开箱子的时间、冰里的气泡、倒水的轻重。
+- [Plan B] Ideas: how dry each strip was; how thick each strip was; how gently we poured. 提示：每条面团条的干燥程度、每条的厚度、倒水的轻重。
 
-**6. My thinking (any language, 可用中文)**
-[Shared] Real engineers test materials until they break. Why is it useful to break things on purpose?
+**6. My thinking 我的想法 (any language 可用中文)**
+[Shared] Real engineers test materials until they break. 真正的工程师会测试材料，直到它们断裂。 Why is it useful to break things on purpose? 为什么故意把东西弄坏是有用的？
 (Dashed-border box, about 5 cm tall.)
 
-**7. Fold-under word bank** (dashed fold line above)
-[Shared] snapped 断了 | cracked 裂了 | pieces 碎块 | held together 连在一起 | bent 弯曲 | brittle 脆的 | fibre 纤维 | load 负载 | pour 倒 | gently 轻轻地 | total 总和 | mean 平均值 | anomaly 异常值 | because 因为
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
+[Shared] snapped 断裂了 | cracked 裂开 | pieces 碎块 | held together 连在一起不散开 | bent 弯曲 | brittle 脆的 | fibre 纤维 | load 负载 | pour 倒 | gently 轻轻地 | total 总和 | mean 平均值 | anomaly 异常值 | because 因为
 [Plan A] add: bubble 气泡 | melted 熔化了 | meltwater 融化的水
 [Plan B] add: dough 面团 | dry 干的 | damp 潮湿的
 
-**8. Exit ticket strip** (cut line above)
-Exit ticket | Week 8 | Name: __________
-One of our results: sample ______________ held / melted ______ (unit: ______).
-One thing that was hard to keep the same: ______________________________.
+**8. Exit ticket strip 离场小测** (cut line above)
+Exit ticket 离场小测 | Week 8 第8周 | Name 姓名: __________
+One of our results: sample ______________ held / melted ______ (unit: ______). 我们的一个结果：样品______________承载了／熔化了______（单位：______）。
+One thing that was hard to keep the same: ______________________________. 一件很难保持不变的事：______________________________。
+Or tick one 或勾选一个: ☐ how gently we poured 倒水的轻重 ☐ the 10 cm gap 10厘米的间隙 ☐ [Plan A] time out of the box 离开箱子的时间 ☐ [Plan B] how dry or thick the strip was 面团条的干燥程度或厚度
+Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ---
 
@@ -313,7 +376,7 @@ Means: (14 + 16) ÷ 2 = 15 ml; 33 ÷ 3 = 11 ml; 21 ÷ 3 = 7 ml.
 - a) Secure: "The plain ice was brittle: it snapped suddenly into two pieces. The sawdust strip cracked, but the fibres held the pieces together, so it held more water before it broke." Excellent: links to crack-stopping (fibres bridge the crack, so the crack cannot run straight through).
 - b) [Plan A] Examples: "Some strips were out of the box longer, so they were warmer and weaker, which would make their results lower." / "Some strips had air bubbles, which make weak spots, so they snapped early." / "Some pours were faster, which jolts the strip." [Plan B] Examples: "Some strips were damper in the middle, so they bent instead of snapping." / "Some strips were thicker than 1 cm, so they were stronger." / "Some pours were faster."
 
-**Slide 10 (anomaly or not?):** 50 ml is an anomaly: it is far below 275 and 325 ml, and the strip had a crack before the test. Leave it out of the mean ((275 + 325) ÷ 2 = 300 ml), circle it, write the reason, and test a spare if there is one.
+**Slide 13 (anomaly or not?):** 50 ml is an anomaly: it is far below 275 and 325 ml, and the strip had a crack before the test. Leave it out of the mean ((275 + 325) ÷ 2 = 300 ml), circle it, write the reason, and test a spare if there is one.
 
 **My thinking (guidance):** testing to breaking point tells engineers the largest load a material can take, so they can design buildings, bridges and ships that stay well below it (a safety margin); breaking things also shows how they fail (suddenly or slowly). Accept Chinese.
 
@@ -356,9 +419,9 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Mop up spills straight away so no one slips.
   洒出的水请立即擦干，以免滑倒。
 
-**Clean-up**
-- Water from bags and lids back into the jugs, then into the sink. Broken ice and sawdust into the waste bowl, then the bin (not the sink: sawdust blocks drains).
-- Books dried and returned; buckets emptied; floor mopped; gloves in the bin.
+**Clean-up 收拾整理**
+- Water from bags and lids back into the jugs, then into the sink. 袋子和盖子里的水倒回水壶，再倒进水槽。 Broken ice and sawdust into the waste bowl, then the bin (not the sink: sawdust blocks drains). 碎冰和木屑放进废料盆，再倒进垃圾桶（不要倒进水槽：木屑会堵住下水道）。
+- Books dried and returned; buckets emptied; floor mopped; gloves in the bin. 书擦干并归还；倒空水桶；擦干地面；手套扔进垃圾桶。
 
 ### Kit card [Plan B]: Test day, dough strips
 
@@ -391,9 +454,9 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Mop up spills and wash your hands after the practical.
   洒出的水请立即擦干，实验结束后请洗手。
 
-**Clean-up**
-- Broken strips into the waste bowl, then the bin. Water back into the jugs, then the sink.
-- Books dried and returned; buckets emptied; tables wiped; everyone washes hands.
+**Clean-up 收拾整理**
+- Broken strips into the waste bowl, then the bin. 断掉的面团条放进废料盆，再倒进垃圾桶。 Water back into the jugs, then the sink. 水倒回水壶，再倒进水槽。
+- Books dried and returned; buckets emptied; tables wiped; everyone washes hands. 书擦干并归还；倒空水桶；擦干净桌子；每个人都要洗手。
 
 ---
 
@@ -401,22 +464,22 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 
 ### 6a. [Shared] Strength test rig: labelled diagram
 
-Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test rig | 强度测试装置", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white line drawing, clean and technical, like a page from an engineer's notebook. Print spec: 1 for the slides (Slide 3), 1 A3 copy for the board, and 6 A4 copies (one per group, laminated, reusable in future years). Make one version with "sample" labelled "ice strip 冰条 / dough strip 面团条" so it serves both plans.
+Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test rig | 强度测试架", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white line drawing, clean and technical, like a page from an engineer's notebook. Print spec: 1 for the slides (Slide 5), 1 A3 copy for the board, and 6 A4 copies (one per group, laminated, reusable in future years). Make one version with "sample" labelled "ice strip 冰条 / dough strip 面团条" so it serves both plans.
 
 **Main drawing: front view.**
-- Two school desks side by side, drawn from the front. Their inner edges are 10 cm apart, with a dimension arrow labelled "span 10 cm 跨度10厘米".
+- Two school desks side by side, drawn from the front. Their inner edges are 10 cm apart, with a dimension arrow labelled "span 10 cm 跨距10厘米".
 - On each desk, right at the gap edge, a stack of three books of equal height. The inner faces of the stacks line up with the desk edges. The top book of each stack is covered with a thin plastic bag. Label: "two equal stacks of books 两堆同样高的书".
-- The sample, a thin strip about 12 cm long, 2 cm wide and 5 mm thick, lies across the gap, resting about 1 cm on each stack. Label: "sample strip across the gap 样品条横放在间隙上" and a small dimension "about 1 cm on each side".
+- The sample, a thin strip about 12 cm long, 2 cm wide and 5 mm thick, lies across the gap, resting about 1 cm on each stack. Label: "sample strip across the gap 样品条横放在间隙上" and a small dimension "about 1 cm on each side 每边约搭1厘米".
 - A string loop goes round the middle of the sample and hangs down through the gap. Label: "string loop at the centre 绳圈套在正中间".
 - Below the desk tops, the string tail is tied to both handles of a carrier bag, so the bag mouth stays open. Label: "bag 塑料袋".
-- On the floor directly under the bag, a bucket. The bottom of the bag hangs about 5 cm above the bottom of the bucket. Label: "catch tray (bucket) 接水盘（桶）" and "bag hangs about 5 cm above the bottom".
+- On the floor directly under the bag, a bucket. The bottom of the bag hangs about 5 cm above the bottom of the bucket. Label: "catch tray (bucket) 接水盘（桶）" and "bag hangs about 5 cm above the bottom 袋子离桶底约5厘米".
 - A student kneeling beside the bucket (to one side, not underneath), pouring from a small cup into the bag. Label: "pour 25 ml at a time 每次倒25毫升".
 - A second student standing at the side of the desks, eyes level with the sample. Label: "watch at eye level and call 'Snap!' 平视观察，断裂时喊'断了！'".
 - A shaded floor zone around the bucket, labelled "keep feet clear 双脚远离".
 
 **Inset 1 (top right): side view of the sample on the stacks**, showing the string loop sitting at the centre line, with "centre 中心" marked by a small arrow.
 
-**Inset 2 (bottom right): the pour cup**, a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 300 g."
+**Inset 2 (bottom right): the pour cup**, a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 300 g. 所以300毫升水的负载约为300克。"
 
 **Numbered steps along the bottom (one line each, English then Chinese):**
 1. Push two desks together, then pull them apart to leave a 10 cm gap. 把两张桌子并拢，再拉开10厘米的间隙。
@@ -436,7 +499,7 @@ Steps:
 2. Each sample on its own lid, in rows, away from windows and heaters. 每个样品放在一个盖子上，远离窗户和暖气。
 3. Start the stopwatch for all samples together. 所有样品同时开始计时。
 4. At 15 minutes: lift each sample off, let it drip for 5 seconds, put it in the waste bowl. 15分钟时，拿起样品，滴水5秒，放进废料盆。
-5. Pour the lid's water into the 10 ml measuring cylinder. Read at eye level, to the nearest 0.5 ml. 把盖子里的水倒进量筒，平视读数（毫升）。
+5. Pour the lid's water into the 10 ml measuring cylinder. Read at eye level, to the nearest 0.5 ml. 把盖子里的水倒进10毫升量筒，平视读数，读到最接近的0.5毫升。
 6. Record. Empty the cylinder. Next lid. 记录，倒空量筒，测下一个。
 
 Footer: "Same time, same place, same lids for every sample. 每个样品：相同时间、相同地点、相同盖子。"
