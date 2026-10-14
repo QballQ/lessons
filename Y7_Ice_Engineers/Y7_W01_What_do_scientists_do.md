@@ -229,10 +229,10 @@ Name 姓名: __________ Class 班级: ______ Date 日期: ______
 **2. Vocabulary panel**
 scientist | 科学家; observation | 观察; inference | 推断; evidence | 证据; clue | 线索; footprint | 脚印; track | 足迹
 
-**3. Core (one dot)**
+**3. Core 基础 (one dot)**
 
 **A. Observation or inference? 观察还是推断？**
-Look at the picture: a melted snowman (a puddle with a carrot, two black stones, a red scarf and a stick in it; the sun is shining). 看图：一个熔化的雪人。
+Look at the picture: a melted snowman (a puddle with a carrot, two black stones, a red scarf and a stick in it; the sun is shining). 看图：一个熔化的雪人（水坑里有一根胡萝卜、两块黑色的石头、一条红围巾和一根木棍；太阳正照着）。
 Write **O** for observation or **I** for inference in each box. 在每个框里写O（观察）或I（推断）。
 (The melted snowman picture from Slide 7 prints here, about 5 cm tall, beside the instruction. In the table heading, a small eye icon sits beside O and a small thought-bubble icon beside I, the same icons as Slides 7 and 8.)
 
@@ -257,7 +257,7 @@ Use your puzzle cards. 使用你的拼图卡片。 Write in the table. 写在表
 
 (Each row has three writing lines in each box.)
 
-**4. Stretch (two dots)**
+**4. Stretch 提高 (two dots)**
 Did your story change? 你的故事改变了吗？ Complete the frame. 完成句型框架。
 "At first I inferred ______________________________.
 Now I infer ______________________________
@@ -265,7 +265,7 @@ because ______________________________."
 起初我推断___。现在我推断___，因为___。
 (Three writing lines.)
 
-**5. Challenge (three dots)**
+**5. Challenge 挑战 (three dots)**
 Write two different stories that both fit ALL the evidence in Stage 3. 写出两个不同的故事，都要符合第三阶段的全部证据。
 Story 1 故事1: ______________________________ (two lines)
 Story 2 故事2: ______________________________ (two lines)
@@ -276,10 +276,10 @@ ______________________________ (three lines)
 Can a scientist ever be 100% sure what happened, if they were not there? Why? 如果科学家不在现场，能百分之百确定发生了什么吗？为什么？
 (Dashed-border box, about 6 cm tall.)
 
-**7. Fold-under word bank** (dashed fold line above)
+**7. Fold-under word bank 折叠词库** (dashed fold line above)
 observation 观察 | inference 推断 | evidence 证据 | clue 线索 | track 足迹 | footprint 脚印 | fox 狐狸 | bird 鸟 | wing 翅膀 | feather 羽毛 | running 奔跑 | hopping 跳跃 | because 因为 | stage 阶段 | story 故事 | tree 树 | seeds 种子 | deep 深 | far apart 距离远 | snowman 雪人 | puddle 水坑 | scarf 围巾 | carrot 胡萝卜 | stone 石头 | stick 木棍
 
-**8. Exit ticket strip** (cut line above)
+**8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 1 第1周 | Name 姓名: __________
 Picture: a wet umbrella dripping on a mat beside a classroom door.
 Word bank 词库: umbrella 雨伞 | wet 湿的 | dripping 滴水 | rain 雨 | door 门 | mat 地垫

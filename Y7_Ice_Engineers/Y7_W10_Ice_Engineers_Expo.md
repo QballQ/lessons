@@ -209,8 +209,7 @@ Today I can 今天我能:
 Expo | 成果展; presentation | 展示; audience | 观众; evidence | 证据; conclusion | 结论; feedback | 反馈; confident | 有把握的; scientist | 科学家
 
 **3. Core 基础 (one dot)**
-**Expo notes 成果展笔记.** For each other group, write their question in a few words and one number from their results. 为其他每个小组，用几个词写下他们的问题，再写一个他们结果中的数字。 Their question is what they changed and what they measured: write these in the two middle columns. 他们的问题就是他们改变了什么和测量了什么：写在中间两列。 You may copy from their poster. 可以从他们的海报上抄写。 Circle one or write. 圈出一个或写下来。
-Listen for 注意听: "We changed ___." 我们改变了___。 | "We measured ___." 我们测量了___。 | "The class mean for ___ was ___ ml." ___的全班平均值是___毫升。
+**Expo notes 成果展笔记.** For each other group, write their question in a few words and one number from their results. 为其他每个小组，用几个词写下他们的问题，再写一个他们结果中的数字。 Circle one or write. 圈出一个或写下来。
 
 | Group 小组 | What did they change? 他们改变了什么？ | What did they measure? 他们测量了什么？ | One number from their results (with unit) 他们结果中的一个数字（带单位） |
 |---|---|---|---|
@@ -240,7 +239,6 @@ type of fibre 纤维种类 | amount of sawdust 木屑的量 | strength 强度 | 
 Exit ticket 离场小测 | Week 10 第10周 | Name 姓名: __________
 One thing I learned about being a scientist: 关于做一名科学家，我学到的一件事： ______________________________
 One thing I want to find out next: 我接下来想探究的一件事： ______________________________
-Starter 开头句: Scientists ___. 科学家___。 Point to a week icon and write about it. 指着一周的图标，写一写。
 Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 (Design: print the ten small week icons from Slide 7 along the top of the strip, so a student can point to a week and answer in Chinese.)
 
@@ -305,8 +303,8 @@ Create a half-A4 kit card for Year 7 Week 10 using the Think Like a Scientist ki
   保持海报前的通道畅通，不要放书包。
 
 **Clean-up 收拾整理**
-- Skills checks collected first and counted against the register; surveys collected separately. 先收技能检测卷，按点名册核对；问卷另外收。 Hand in your skills check first, then your survey. 先交技能检测卷，再交问卷。
-- Feedback slips stuck on the back of each poster; posters stay up for the gallery walk, then are photographed and stored flat. 反馈条贴在每张海报背面；海报留到展览漫步结束，然后拍照、平放保存。 Stick your feedback slip on the back of the poster you wrote it for. 把你的反馈条贴在你所评价的海报背面。
+- Skills checks collected first and counted against the register; surveys collected separately. 先收技能检测卷，按点名册核对；问卷另外收。
+- Feedback slips stuck on the back of each poster; posters stay up for the gallery walk, then are photographed and stored flat. 反馈条贴在每张海报背面；海报留到展览漫步结束，然后拍照、平放保存。
 
 ---
 
@@ -354,7 +352,7 @@ Create an A5 portrait talk frame card for Year 7 Weeks 9 and 10, "Our 2-minute E
 
 **Answering a question 回答问题 (on the back):** "That is a good question. Our evidence shows ___, but it does not show ___." 这是个好问题。我们的证据显示___，但它不能显示___。 | "I am not sure, but I think ___ because ___." 我不确定，但我认为___，因为___。 | "Can you say that again, please?" 可以再说一遍吗？
 
-**Tips 小提示 (on the back, small):** Point to the poster as you speak. 说话时指着海报。 Say the numbers with their units. 说数字时带上单位。 It is fine to read from this card. 可以照着这张卡读。 Speak to the audience, not to the poster. 面向观众，不要面向海报。 Groups of 3: one person takes two parts. 三人小组：一人负责两个部分。 You may say one sentence in Chinese, then the key words in English. 可以先用中文说一句，再用英语说关键词。
+**Tips 小提示 (on the back, small):** Point to the poster as you speak. 说话时指着海报。 Say the numbers with their units. 说数字时带上单位。 It is fine to read from this card. 可以照着这张卡读。 Speak to the audience, not to the poster. 面向观众，不要面向海报。 Groups of 3: one person takes two parts. 三人小组：一人负责两个部分。
 
 ### 6c. Question cards
 

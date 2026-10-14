@@ -247,10 +247,10 @@ Slide 14 | [Shared] | Phase tag: Think and Reflect 思辨与反思
 Title: Our project starts now / 我们的项目开始了
 On-slide text:
 Project question: Can we make ice stronger? 项目问题：我们能让冰更坚固吗？
-Choose: type of fibre, or amount of sawdust. 选择：纤维类型，或木屑的量。
+Choose: type of fibre, or amount of sawdust. 选择：纤维种类，或木屑的量。
 Draft page 1 of your plan. 起草你们计划的第1页。
 Vocabulary panel: fibre | 纤维; independent variable | 自变量; strength | 强度
-Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool 纤维类型：无、木屑、纸巾、碎纸、棉花" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g 每条木屑的量：0 g、0.3 g、0.6 g、0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
+Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool 纤维种类：无、木屑、纸巾、碎纸、棉花" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g 每条木屑的量：0 g、0.3 g、0.6 g、0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
 Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. A student reads the Chinese lines; the discussion may be in Chinese. Plan B classes make dough strips instead of ice, with the same fibres. You can change your mind next week.
 ```
 

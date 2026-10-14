@@ -227,7 +227,7 @@ Two people timed the same drop: 1.62 s and 1.85 s. 两个人给同一次下落�
 
 **3. Core 基础 (one dot)**
 
-**A. Match each measurement to its unit. 把每个测量量和它的单位连线。** Draw a line. 画一条线。
+**A. Match each measurement to its unit. 把每个测量量和它的单位连线。** Draw a line. 连线。
 wing length 翼长 ● ● s (second 秒)
 fall time 下落时间 ● ● m (metre 米)
 drop height 下落高度 ● ● cm (centimetre 厘米)

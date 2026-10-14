@@ -129,7 +129,7 @@ Title: Bar chart or line graph? / 条形图还是折线图？
 On-slide text: Type of fibre: words, so bar chart. Amount of sawdust: numbers, so line graph. Which one is yours? 你们的是哪一种？
 Key idea 核心概念: 改变的量是文字就用条形图，是数值就用折线图。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图
-Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维类型", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑用量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700.
+Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维种类", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑的量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700.
 Speaker notes: Same rule as Week 5: if the thing we changed is a word or group, bar chart; if it is a number, line graph. A student reads the Key idea line. Quick vote: hold up BAR or LINE for your own group's question. Melting groups: same rule, but the y-axis is "Mean meltwater (ml)". [Plan B bars: no fibre 285, sawdust 412, tissue 365, shredded paper 371. Plan B line: (0, 285), (0.3, 350), (0.6, 412), (0.9, 525), y-axis 0 to 600.]
 ```
 
@@ -182,7 +182,7 @@ Even scale. 刻度均匀。
 Accurate points or bars. 描点或条形准确。
 Class data table beside it. 旁边放全班数据表。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; axis | 坐标轴
-Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑用量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label.
+Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑的量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label.
 Speaker notes: Measurers and Recorders: choose a scale that uses most of the grid. A student reads the Chinese lines. For strength data, steps of 100 ml usually work; for melting data, steps of 1 ml. Bar charts have gaps between the bars and the same width for every bar.
 ```
 
@@ -259,7 +259,7 @@ Our question 我们的问题: Does the ______________ change the ______________ 
 **B. Bar chart or line graph? 条形图还是折线图？**
 The thing we changed is a ☐ word or group ☐ number. 我们改变的量是☐文字或类别☐数值。 So we draw a ☐ bar chart ☐ line graph. 所以我们画☐条形图☐折线图。
 x-axis label 横轴（x轴）标签: ______________ y-axis label 纵轴（y轴）标签: ______________ (with units! 带单位！)
-Axis label bank 坐标轴标签库: Type of fibre 纤维类型 | Amount of sawdust per strip (g) 每条木屑用量（克） | Mean water held (ml) 平均承载水量（毫升） | Mean meltwater after 15 minutes (ml) 15分钟后平均融化的水（毫升）
+Axis label bank 坐标轴标签库: Type of fibre 纤维种类 | Amount of sawdust per strip (g) 每条木屑的量（克） | Mean water held (ml) 平均承载水量（毫升） | Mean meltwater after 15 minutes (ml) 15分钟后平均融化的水（毫升）
 
 **C. Our conclusion 我们的结论** (Claim, Evidence, Reasoning 主张、证据、推理)
 Word bank 词库: increases 增加 | stronger 更强 | fibres 纤维 | cracks 裂纹 | brittle 脆的 | insulator 隔热材料 | melts more slowly 熔化得更慢
@@ -423,7 +423,7 @@ Create an A4 landscape, black-and-white-printable class data pooling sheet for Y
 **Header:** Class data pooling sheet / 全班数据汇总表 | Group 小组: __________ | ☐ Plan A ice 方案A 冰 ☐ Plan B dough 方案B 面团
 Instruction: For each sample, write every group's mean. Add them. Divide by the number of groups. 每种样品：写下每组的平均值，相加，再除以组数。
 
-**Table 1: Strength (water held when the sample snaps, ml) | 强度（断裂时水的体积，毫升）**
+**Table 1 表1: Strength (water held when the sample snaps, ml) | 强度（断裂时水的体积，毫升）**
 
 | Sample 样品 | Group 1 mean (ml) 第1组平均值（毫升） | Group 2 mean (ml) 第2组平均值（毫升） | Group 3 mean (ml) 第3组平均值（毫升） | Group 4 mean (ml) 第4组平均值（毫升） | Group 5 mean (ml) 第5组平均值（毫升） | Group 6 mean (ml) 第6组平均值（毫升） | Total (ml) 总和（毫升） | Number of groups 组数 | Class mean (ml) 全班平均值（毫升） |
 |---|---|---|---|---|---|---|---|---|---|
@@ -438,7 +438,7 @@ Instruction: For each sample, write every group's mean. Add them. Divide by the 
 A small row of six boxes above the group columns to write the group names.
 Layout note: to keep 12 pt in A4 landscape, print "mean (ml) 平均值（毫升）" once in a spanning heading over the six group columns, so each group column carries only "Group 1 第1组" to "Group 6 第6组".
 
-**Table 2 (Plan A melting groups only): Meltwater after 15 minutes (ml) | 15分钟后融化的水（毫升）**
+**Table 2 表2 (Plan A melting groups only 仅方案A熔化测试组): Meltwater after 15 minutes (ml) | 15分钟后融化的水（毫升）**
 Same columns as Table 1, with the same seven sample rows.
 
 **Footer box:** "Plain ice and 0 g sawdust are the same sample. Sawdust 0.6 g per strip is the same in both questions. Leave a box empty if a group did not test that sample. 普通冰和0克木屑是同一种样品。每条0.6克木屑在两个问题中是同一种样品。如果某组没有测试该样品，就把格子留空。"
@@ -459,7 +459,7 @@ Also create a matching set of seven panel cards, the same size as the poster pan
 1. **Question | 我们的问题.** Prompt: "Does the ___ change the ___ of the sample? ___会改变样品的___吗？ What we changed (independent variable). 我们改变了什么（自变量）。 What we measured (dependent variable). 我们测量了什么（因变量）。"
 2. **Prediction | 我们的预测.** Prompt: "We predicted ___ because ___. 我们预测___，因为___。" A small line: "Were we right? 我们预测对了吗？ ☐ yes 是 ☐ partly 部分对 ☐ no 否".
 3. **Method in picture steps | 实验步骤（图示步骤）.** Six small picture boxes in two rows (each about 5 cm x 4 cm) with two writing lines under each. Prompt: "How we made the samples and how we tested them. 我们怎样制作样品、怎样测试。 Include: what we kept the same, repeats, one safety step. 包括：我们保持不变的量、重复次数、一个安全步骤。"
-4. **Results | 结果.** Top part: a class data table outline with 3 columns (Sample 样品 | Number of groups 组数 | Class mean (ml) 全班平均值（毫升）) and 5 rows. Bottom part: a graph grid 14 cm wide x 10 cm tall (light grey, major lines every 1 cm, minor every 2 mm), with blank lines for the title 标题, x-axis label 横轴（x轴）标签 and y-axis label 纵轴（y轴）标签. Beside the grid, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank. Prompt: "Bar chart for type of fibre. 纤维类型用条形图。 Line graph for amount of sawdust. 木屑用量用折线图。 Units on both axes. 两条坐标轴都要有单位。"
+4. **Results | 结果.** Top part: a class data table outline with 3 columns (Sample 样品 | Number of groups 组数 | Class mean (ml) 全班平均值（毫升）) and 5 rows. Bottom part: a graph grid 14 cm wide x 10 cm tall (light grey, major lines every 1 cm, minor every 2 mm), with blank lines for the title 标题, x-axis label 横轴（x轴）标签 and y-axis label 纵轴（y轴）标签. Beside the grid, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank. Prompt: "Bar chart for type of fibre. 纤维种类用条形图。 Line graph for amount of sawdust. 木屑的量用折线图。 Units on both axes. 两条坐标轴都要有单位。"
 5. **Conclusion: Claim, Evidence, Reasoning | 结论：主张、证据、推理.** Three labelled strips: "Claim 主张: ___" | "Evidence 证据 (numbers! 数字！): ___" | "Reasoning 推理 (science! 科学！): ___".
 6. **Evaluation | 评价.** Prompt: "One problem was ___. 一个问题是___。 This made our results ___. 这使我们的结果___。 We are ☐ not very ☐ fairly ☐ very confident because ___. 我们☐不太有把握☐比较有把握☐很有把握，因为___。"
 7. **If we did it again | 如果再做一次.** Prompt: "Next time we would ___ because ___. 下次我们会___，因为___。 A new question we would like to test: ___. 我们还想测试的一个新问题：___。"
@@ -475,29 +475,29 @@ Line under the banner: "Six made-up groups tested thin ice strips (12 cm long, 2
 
 | Group 小组 | Question 问题 | Sample 样品 | Repeat 1 (ml) 第1次（毫升） | Repeat 2 (ml) 第2次（毫升） | Repeat 3 (ml) 第3次（毫升） | Notes 备注 |
 |---|---|---|---|---|---|---|
-| Snow Owls | Type of fibre 纤维类型 | Plain ice 普通冰 | 300 | 250 | 325 | |
-| Snow Owls | Type of fibre 纤维类型 | Sawdust 0.6 g 木屑0.6 g | 425 | 475 | 450 | |
-| Snow Owls | Type of fibre 纤维类型 | Tissue 0.6 g 纸巾0.6 g | 375 | 375 | 125 | Repeat 3 had a crack before testing 概要：第3次测试前已有裂纹。 |
-| Ice Foxes | Type of fibre 纤维类型 | Plain ice 普通冰 | 325 | 300 | 275 | |
-| Ice Foxes | Type of fibre 纤维类型 | Tissue 0.6 g 纸巾0.6 g | 350 | 400 | none 无 | Repeat 3 cracked in the freezer, not tested 概要：第3次在冷冻箱里裂了，没有测试。 |
-| Ice Foxes | Type of fibre 纤维类型 | Shredded paper 0.6 g 碎纸0.6 g | 400 | 375 | 425 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0 g | 275 | 300 | 250 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0.3 g | 375 | 350 | 400 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0.9 g | 550 | 600 | 575 | Fibres held the halves together 概要：纤维把两半连在一起不散开。 |
-| Polar Bears | Amount of sawdust 木屑用量 | 0 g | 300 | 325 | 275 | |
-| Polar Bears | Amount of sawdust 木屑用量 | 0.6 g | 450 | 475 | 450 | |
-| Polar Bears | Amount of sawdust 木屑用量 | 0.9 g | 575 | 575 | 200 | Repeat 3 slipped off the books 概要：第3次从书上滑落。 |
+| Snow Owls | Type of fibre 纤维种类 | Plain ice 普通冰 | 300 | 250 | 325 | |
+| Snow Owls | Type of fibre 纤维种类 | Sawdust 0.6 g 木屑0.6 g | 425 | 475 | 450 | |
+| Snow Owls | Type of fibre 纤维种类 | Tissue 0.6 g 纸巾0.6 g | 375 | 375 | 125 | Repeat 3 had a crack before testing 概要：第3次测试前已有裂纹。 |
+| Ice Foxes | Type of fibre 纤维种类 | Plain ice 普通冰 | 325 | 300 | 275 | |
+| Ice Foxes | Type of fibre 纤维种类 | Tissue 0.6 g 纸巾0.6 g | 350 | 400 | none 无 | Repeat 3 cracked in the freezer, not tested 概要：第3次在冰柜里裂了，没有测试。 |
+| Ice Foxes | Type of fibre 纤维种类 | Shredded paper 0.6 g 碎纸0.6 g | 400 | 375 | 425 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0 g | 275 | 300 | 250 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0.3 g | 375 | 350 | 400 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0.9 g | 550 | 600 | 575 | Fibres held the halves together 概要：纤维把两半连在一起不散开。 |
+| Polar Bears | Amount of sawdust 木屑的量 | 0 g | 300 | 325 | 275 | |
+| Polar Bears | Amount of sawdust 木屑的量 | 0.6 g | 450 | 475 | 450 | |
+| Polar Bears | Amount of sawdust 木屑的量 | 0.9 g | 575 | 575 | 200 | Repeat 3 slipped off the books 概要：第3次从书上滑落。 |
 
 **Plan A card, second table: melting test (meltwater after 15 minutes, ml) 方案A卡，第二个表：熔化测试（15分钟后融化的水，毫升）**
 
 | Group 小组 | Question 问题 | Sample 样品 | Repeat 1 (ml) 第1次（毫升） | Repeat 2 (ml) 第2次（毫升） | Repeat 3 (ml) 第3次（毫升） | Notes 备注 |
 |---|---|---|---|---|---|---|
-| Snow Leopards | Type of fibre 纤维类型 | Plain ice 普通冰 | 6.0 | 6.5 | 6.5 | |
-| Snow Leopards | Type of fibre 纤维类型 | Sawdust 0.6 g 木屑0.6 g | 4.5 | 4.0 | 5.0 | |
-| Snow Leopards | Type of fibre 纤维类型 | Shredded paper 0.6 g 碎纸0.6 g | 5.0 | 5.5 | 5.0 | |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0 g | 6.5 | 6.5 | 9.5 | Repeat 3 was next to the window in the sun 概要：第3次放在窗边阳光下。 |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0.3 g | 5.5 | 5.0 | 5.5 | |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0.9 g | 3.5 | 3.0 | 3.5 | |
+| Snow Leopards | Type of fibre 纤维种类 | Plain ice 普通冰 | 6.0 | 6.5 | 6.5 | |
+| Snow Leopards | Type of fibre 纤维种类 | Sawdust 0.6 g 木屑0.6 g | 4.5 | 4.0 | 5.0 | |
+| Snow Leopards | Type of fibre 纤维种类 | Shredded paper 0.6 g 碎纸0.6 g | 5.0 | 5.5 | 5.0 | |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0 g | 6.5 | 6.5 | 9.5 | Repeat 3 was next to the window in the sun 概要：第3次放在窗边阳光下。 |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0.3 g | 5.5 | 5.0 | 5.5 | |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0.9 g | 3.5 | 3.0 | 3.5 | |
 
 Footer: "Find the anomalies. Calculate each mean. Then pool the class data. 找出异常值，计算平均值，再汇总全班数据。"
 
@@ -506,24 +506,24 @@ Line under the banner: "Six made-up groups tested thin salt dough strips (12 cm 
 
 | Group 小组 | Question 问题 | Sample 样品 | Repeat 1 (ml) 第1次（毫升） | Repeat 2 (ml) 第2次（毫升） | Repeat 3 (ml) 第3次（毫升） | Notes 备注 |
 |---|---|---|---|---|---|---|
-| Snow Owls | Type of fibre 纤维类型 | No fibre 无纤维 | 275 | 300 | 275 | |
-| Snow Owls | Type of fibre 纤维类型 | Sawdust 0.6 g 木屑0.6 g | 400 | 425 | 400 | |
-| Snow Owls | Type of fibre 纤维类型 | Tissue 0.6 g 纸巾0.6 g | 350 | 375 | 375 | |
-| Ice Foxes | Type of fibre 纤维类型 | No fibre 无纤维 | 250 | 275 | 300 | |
-| Ice Foxes | Type of fibre 纤维类型 | Tissue 0.6 g 纸巾0.6 g | 375 | 350 | 100 | Repeat 3 had a big drying crack 概要：第3次有一条大的干裂纹。 |
-| Ice Foxes | Type of fibre 纤维类型 | Shredded paper 0.6 g 碎纸0.6 g | 350 | 375 | 375 | |
-| Snow Leopards | Type of fibre 纤维类型 | No fibre 无纤维 | 300 | 300 | 275 | |
-| Snow Leopards | Type of fibre 纤维类型 | Sawdust 0.6 g 木屑0.6 g | 425 | 375 | 400 | |
-| Snow Leopards | Type of fibre 纤维类型 | Shredded paper 0.6 g 碎纸0.6 g | 375 | 400 | 350 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0 g | 275 | 275 | 275 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0.3 g | 350 | 325 | 350 | |
-| Frost Hares | Amount of sawdust 木屑用量 | 0.9 g | 525 | 550 | 500 | |
-| Polar Bears | Amount of sawdust 木屑用量 | 0 g | 300 | 275 | 300 | |
-| Polar Bears | Amount of sawdust 木屑用量 | 0.6 g | 425 | 450 | 425 | |
-| Polar Bears | Amount of sawdust 木屑用量 | 0.9 g | 525 | 525 | none 无 | Repeat 3 broke when the foil was peeled off 概要：第3次撕开铝箔时断了。 |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0 g | 275 | 300 | 300 | |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0.3 g | 350 | 375 | 350 | |
-| Arctic Terns | Amount of sawdust 木屑用量 | 0.6 g | 400 | 425 | 400 | |
+| Snow Owls | Type of fibre 纤维种类 | No fibre 无纤维 | 275 | 300 | 275 | |
+| Snow Owls | Type of fibre 纤维种类 | Sawdust 0.6 g 木屑0.6 g | 400 | 425 | 400 | |
+| Snow Owls | Type of fibre 纤维种类 | Tissue 0.6 g 纸巾0.6 g | 350 | 375 | 375 | |
+| Ice Foxes | Type of fibre 纤维种类 | No fibre 无纤维 | 250 | 275 | 300 | |
+| Ice Foxes | Type of fibre 纤维种类 | Tissue 0.6 g 纸巾0.6 g | 375 | 350 | 100 | Repeat 3 had a big drying crack 概要：第3次有一条大的干裂纹。 |
+| Ice Foxes | Type of fibre 纤维种类 | Shredded paper 0.6 g 碎纸0.6 g | 350 | 375 | 375 | |
+| Snow Leopards | Type of fibre 纤维种类 | No fibre 无纤维 | 300 | 300 | 275 | |
+| Snow Leopards | Type of fibre 纤维种类 | Sawdust 0.6 g 木屑0.6 g | 425 | 375 | 400 | |
+| Snow Leopards | Type of fibre 纤维种类 | Shredded paper 0.6 g 碎纸0.6 g | 375 | 400 | 350 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0 g | 275 | 275 | 275 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0.3 g | 350 | 325 | 350 | |
+| Frost Hares | Amount of sawdust 木屑的量 | 0.9 g | 525 | 550 | 500 | |
+| Polar Bears | Amount of sawdust 木屑的量 | 0 g | 300 | 275 | 300 | |
+| Polar Bears | Amount of sawdust 木屑的量 | 0.6 g | 425 | 450 | 425 | |
+| Polar Bears | Amount of sawdust 木屑的量 | 0.9 g | 525 | 525 | none 无 | Repeat 3 broke when the foil was peeled off 概要：第3次撕开铝箔时断了。 |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0 g | 275 | 300 | 300 | |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0.3 g | 350 | 375 | 350 | |
+| Arctic Terns | Amount of sawdust 木屑的量 | 0.6 g | 400 | 425 | 400 | |
 
 Footer: "Find the anomaly. Calculate each mean. Then pool the class data. 找出异常值，计算平均值，再汇总全班数据。"
 

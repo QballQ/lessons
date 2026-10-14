@@ -225,16 +225,16 @@ Cup letter 杯子字母: ____ I observe ______________. I infer ______________ b
 
 **3. Core 基础 (one dot)**
 
-**A. Galileo's thought experiment. 伽利略的思想实验。** Number the boxes 1 to 6 in the right order. 按正确顺序在方框里写上1到6。 Use the storyboard poster: the label in the last column is on one panel of the poster. 用故事板海报：最后一列的标签就在海报的某一格上。
+**A. Galileo's thought experiment. 伽利略的思想实验。** Number the boxes 1 to 6 in the right order. 按正确顺序在方框里写上1到6。
 
-| Order 顺序 | Caption 说明文字 | Poster label 海报标签 |
-|---|---|---|
-| ☐ | But the pair is heavier than the heavy ball alone, so it should fall faster. 概要：但两个球一起比重球更重，所以应该下落得更快。 | 更快？ |
-| ☐ | An old idea: heavy things fall faster than light things. 概要：旧观点：重的东西比轻的东西下落得更快。 | 旧观点 |
-| ☐ | Slower and faster at the same time? Impossible! The old idea must be wrong. 概要：又更慢又更快？不可能！旧观点一定是错的。 | 自相矛盾 |
-| ☐ | Galileo imagines a heavy ball and a light ball. 概要：伽利略想象一个重球和一个轻球。 | 重球与轻球 |
-| ☐ | Without air, heavy and light things fall at the same rate. 概要：没有空气时，重的和轻的东西下落一样快。 | 同时落地 |
-| ☐ | He ties them together. The light ball is slow, so it holds the heavy ball back. The pair should fall slower. 概要：他把它们绑在一起。轻球慢，拖住重球，所以应该下落得更慢。 | 更慢？ |
+| Order 顺序 | Caption 说明文字 |
+|---|---|
+| ☐ | But the pair is heavier than the heavy ball alone, so it should fall faster. 概要：但两个球一起比重球更重，所以应该下落得更快。 |
+| ☐ | An old idea: heavy things fall faster than light things. 概要：旧观点：重的东西比轻的东西下落得更快。 |
+| ☐ | Slower and faster at the same time? Impossible! The old idea must be wrong. 概要：又更慢又更快？不可能！旧观点一定是错的。 |
+| ☐ | Galileo imagines a heavy ball and a light ball. 概要：伽利略想象一个重球和一个轻球。 |
+| ☐ | Without air, heavy and light things fall at the same rate. 概要：没有空气时，重的和轻的东西下落一样快。 |
+| ☐ | He ties them together. The light ball is slow, so it holds the heavy ball back. The pair should fall slower. 概要：他把它们绑在一起。轻球慢，拖住重球，所以应该下落得更慢。 |
 
 **B. Fill the gaps using the word bank. 用词库填空。**
 Word bank 词库: change 改变 | measure 测量 | experiment 实验 | opinion 观点 | evidence 证据
