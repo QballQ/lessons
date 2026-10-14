@@ -332,6 +332,12 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 
 | English | 中文 | First used |
 |---|---|---|
+| Question 1, Question 2 ... (headings on papers) | 第1题、第2题…… | checkpoints |
+| marks / Total (score box) | 分 / 总分 | checkpoints |
+| Year 7 / Year 8 (on paper headers) | 七年级 / 八年级 | checkpoints, booklets |
+| Try (repeat number heading) | 次数 | Y7 W4, checkpoints |
+| Sentence (table heading) | 句子 | checkpoints, Y7 W1 |
+| Student names (Mia, Leo, Ava, Jun, Lin, Kai and all others) | kept in Latin letters inside Chinese lines, never transliterated | matrix L |
 | ball / ball size / bounce height | 球 / 球的大小 / 弹起高度 | Y7 W3 exit ticket |
 | bird / fox / feather / wing marks / hopping / running | 鸟 / 狐狸 / 羽毛 / 翅膀印 / 跳跃 / 奔跑 | Y7 W1 footprint puzzle |
 | card / type of card | 卡纸 / 卡纸类型 | Y7 W3 |
