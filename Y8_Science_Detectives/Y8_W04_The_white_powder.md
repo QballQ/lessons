@@ -159,7 +159,7 @@ On-slide text:
 Use the water test instead. 改用加水检测。
 Cornflour and flour do not dissolve: they go cloudy and settle. 玉米淀粉和面粉不溶解：它们会变浑浊并沉降。
 Vocabulary panel: insoluble | 不溶的, starch | 淀粉
-Visual: Two clear cups side by side: one clear (salt or sugar dissolved), one milky white with powder settling at the bottom (cornflour or flour).
+Visual: Two clear cups side by side: one clear (salt or sugar dissolved), one milky white with powder settling at the bottom (cornflour or flour). Captions under the cups: "Salt or sugar: dissolves 食盐或白糖：溶解" and "Cornflour or flour: cloudy, settles 玉米淀粉或面粉：浑浊、沉降".
 Speaker notes: Use this slide only if iodine is not used today, or for the Challenge task. A student reads the Chinese lines.
 ```
 
@@ -184,7 +184,7 @@ Low, medium or high confidence? 你的把握是低、中还是高？
 Should we stop investigating? 我们应该停止调查吗？
 Exit ticket. 离场小测。
 Vocabulary panel: evidence | 证据
-Visual: A confidence meter (low 低, medium 中, high 高) as a semicircle gauge with a pointer, and the exit ticket strip with a cut line. Teaser icon: a cup of purple liquid (next week).
+Visual: A confidence meter (low 低, medium 中, high 高) as a semicircle gauge with a pointer, and the exit ticket strip with a cut line. On the strip: "Exit ticket 离场小测" and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser icon: a cup of purple liquid (next week), captioned "Next week: the mystery liquid 下周：神秘液体".
 Speaker notes: Do not confirm any suspect. Ask: "What evidence could change your mind?" Good detectives keep testing. A student reads the Chinese lines. Students circle a confidence level in the evidence log, then do the exit ticket and tick the two Today I can boxes on the strip. Next week: the mystery liquid, plus a short checkpoint quiz.
 ```
 
@@ -315,7 +315,7 @@ Create a half-A4 kit card for Year 8 Week 4 using the Think Like a Scientist kit
   - Magnifying glass, 1, and a piece of black card to view powders on
   - Paper towels
 - **Teacher prep before the lesson (about 15 minutes):** Check the allergy list. Fill and label powder pots and evidence bags. Pour vinegar. Test one portion of the scene powder with vinegar yourself (it must fizz strongly). Decide whether iodine will be used; if not, show slide 10.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Wear goggles when using vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。
   - Tell your teacher if you have a food allergy (for example, wheat flour or corn). 如有食物过敏（例如小麦面粉或玉米），请告诉老师。
@@ -347,6 +347,8 @@ Create an A5 landscape laminated lab card for the Think Like a Scientist Science
 ### 6.2 Identification key poster (for after the lesson)
 
 Create an A3 portrait poster of the white powder identification key for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 for the classroom wall (display from Week 5, after students have built their own).
+
+Heading at the top: "White powder identification key 白色粉末检索表".
 
 Flowchart, top to bottom, with diamonds for questions and rounded boxes for answers, each answer box with a small sketch of the powder:
 - "Unknown white powder 未知白色粉末"
