@@ -207,7 +207,7 @@ a) Our question 我们的问题: ______________________________ (copy from your 
 b) ☐ Our results are recorded on the group recording sheet. 我们的结果已记录在小组记录表上。
 
 c) Copy your most important result: 抄写你们最重要的一个结果： ______________________________ (2 lines)
-Picture cue beside the lines: a thumbnail of the group recording sheet with its footer line circled, so the result can be copied from the bilingual footer.
+Picture cue beside the lines: a thumbnail of the group recording sheet, captioned "Group recording sheet 小组记录表", with its footer line circled, so the result can be copied from the bilingual footer.
 
 d) Complete: 完成句子： "The scene sample matches ________________ because ________________________ ." “现场样本与________________匹配，因为________________________。” (2 lines)
 Reason words 理由词 (tick or copy one 勾选或抄写一条): Soil 土壤: same colour 颜色相同 | same bits under the magnifier 放大镜下的碎屑相同 | same layers 分层相同. Paper 纸巾: same layers 层数相同 | same pattern 压纹相同 | same height 高度相同. Ink 2 墨水2: same colours 颜色相同 | same bands 色带相同 | same heights 高度相同. Powder 2 粉末2: fizzed 冒气泡 | no crystals 没有晶体 | no blue-black 没有蓝黑色.
@@ -300,7 +300,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Magnifying glass, 1; white paper, 2 sheets; 30 cm ruler, 1; permanent marker, 1; timer, 1
   - Goggles, 4; disposable gloves (for anyone with cuts or skin problems); paper towels; tray to stand bottles in
 - **Teacher prep (about 30 minutes, earlier in the week):** Collect about 2 cups of soil from each of the four locations into labelled bags; remove stones bigger than a pea, glass, litter and anything sharp; do not collect where animals may have fouled. Take Evidence 6 from the same flowerbed as reference A, at the same time, and bag it separately as "Evidence 6: soil from footprint tread". Let damp soil dry on newspaper overnight if very wet. Before the lesson (10 minutes): fill and label pots; set out bottles.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Soil can carry germs. Wash your hands with soap after the practical. 土壤可能带有细菌。实验后请用肥皂洗手。
   - Do not touch your face or mouth while handling soil. 处理土壤时不要触摸脸部或嘴巴。
   - Cover cuts or wear gloves. 有伤口请包好或戴手套。
@@ -316,7 +316,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Plastic cups, 4; jug of water with 1 drop of food colouring per 100 ml (about 300 ml), 1
   - Pencils for hanging strips, 4; sticky tape, 1 roll; scissors, 2; 30 cm rulers, 2; magnifying glass, 1; timer, 1; paper towels
 - **Teacher prep (about 15 minutes):** Take Evidence 7 from the lab's own roll (the same roll as P1): draw a small pencil arrow along the roll direction, crumple it, then smooth it flat again before the lesson (it must look as if it came from the bin). Draw arrows on all reference sheets in the same direction. Colour the water. Optional: pre-cut strips if the class is slow with scissors (add 10 minutes).
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Food colouring stains skin and clothes. Use one drop only. 食用色素会弄脏皮肤和衣服，只用一滴。
   - Scissors: cut away from your fingers and pass them handle first. 用剪刀时刀口朝外，递剪刀时把手朝向对方。
   - Do not drink the water. 不要喝杯中的水。
@@ -332,7 +332,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Bottled or tap water; salt; white vinegar (about 60 ml); measuring jug; teaspoon; stirring stick
   - Pencils for hanging strips, 6; sticky tape; 30 cm ruler, 1; timer, 1; goggles, 4; paper towels
 - **Teacher prep (about 30 minutes, earlier in the week; then 10 minutes per class):** Pre-test pens A and B and an N strip in salt water (1 level teaspoon of salt in 100 ml of water) and in white vinegar, as in Case Bible Section 11. Keep the dried strips as the backup lab report and answer key. Before the lesson: make N strips with pen B (6 per group plus spares); cut filter strips; fill the vinegar bottle.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Wear goggles when using vinegar. 使用白醋时请佩戴护目镜。
   - Never taste salt water, vinegar or any sample. 不要品尝盐水、白醋或任何样本。
   - If vinegar gets in your eyes, rinse with plenty of water and tell the teacher. 如有白醋进入眼睛，请用大量清水冲洗并告诉老师。
@@ -349,7 +349,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - White vinegar in a labelled cup (about 30 ml) with a dropper, 1; iodine solution in a dropper bottle (optional; Safety Officer only), 1
   - Magnifying glass, 1; black card, 1; goggles, 4; paper towels
 - **Teacher prep (about 20 minutes, the day before):** Check the allergy list. Make the mixtures with equal level teaspoons of each powder, shaken well in a lidded pot: K1 baking soda + cornflour; K2 salt + flour; X baking soda + salt (label only "Mystery mixture X"). Fill pots. Test X and the scene powder yourself under the magnifier: you must be able to see salt cubes in X and none in the scene powder.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。
   - Tell your teacher about food allergies (wheat flour, corn). 如有食物过敏（小麦面粉、玉米），请告诉老师。
@@ -415,9 +415,9 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | B | | | | | | |
 | C | | | | | | |
 | D | | | | | | |
-| Evidence 6 | | | | | | |
+| Evidence 6 证据6 | | | | | | |
 
-- **Drawing box:** five outline bottles side by side labelled A, B, C, D, Evidence 6, each 3 cm wide by 8 cm tall, captioned "Draw and label the layers at 15 minutes 画出并标注15分钟时的分层".
+- **Drawing box:** five outline bottles side by side labelled A, B, C, D, Evidence 6 证据6, each 3 cm wide by 8 cm tall, captioned "Draw and label the layers at 15 minutes 画出并标注15分钟时的分层".
 - **Footer:** "The scene soil matches ____ . 现场土壤与____匹配。 Repeats agreed? 重复结果一致吗？ Yes 是 / Mostly 基本一致 / No 否. Anomaly? 异常值？ ________"
 - **Picture cues:** a small icon beside each column heading (white paper, magnifier, clock with the minute, ruler, stacked layers, floating leaf) so the Recorder can follow the sheet without reading.
 
@@ -445,9 +445,9 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | P2 | | | | |
 | P3 | | | | |
 | P4 | | | | |
-| Evidence 7 | | | | |
+| Evidence 7 证据7 | | | | |
 
-- **Strip box:** five slots 2.5 cm by 13 cm labelled P1, P2, P3, P4, Evidence 7, captioned "Stick your best dry strip here 把最好的一条晾干后贴在这里".
+- **Strip box:** five slots 2.5 cm by 13 cm labelled P1, P2, P3, P4, Evidence 7 证据7, captioned "Stick your best dry strip here 把最好的一条晾干后贴在这里".
 - **Footer:** "The scene paper matches ____ . 现场纸巾与____匹配。 Repeats agreed? 重复结果一致吗？ Yes 是 / Mostly 基本一致 / No 否. Anomaly? 异常值？ ________"
 - **Picture cues:** a small icon beside each column heading (stacked sheets, magnifier, hand, strip with a ruler, mean symbol) so the Recorder can follow the sheet without reading.
 
@@ -500,10 +500,10 @@ Create an A4 portrait sheet of four backup lab report cards (A6 each, 2 by 2, wi
 
 Each card header: "Forensic lab report 法庭科学实验室报告 | Backup result 备用结果". Footer on each: "Use this as a second source. Report your own results too, and say what may have gone wrong. 作为第二来源使用。也要报告你们自己的结果，并说明可能的问题。"
 
-- **Soil:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口花坛的土壤匹配。
-- **Paper:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)." 概要：现场纸巾与实验室自己的纸巾匹配。
-- **Ink 2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Attach your dried pre-test strips.)
-- **Powder 2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found." 概要：现场粉末与纯小苏打相同，不是混合物。
+- **Soil 土壤:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口花坛的土壤匹配。
+- **Paper 纸巾:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)." 概要：现场纸巾与实验室自己的纸巾匹配。
+- **Ink 2 墨水2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Attach your dried pre-test strips.)
+- **Powder 2 粉末2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found." 概要：现场粉末与纯小苏打相同，不是混合物。
 
 ## 7. Notes for the incoming teacher
 

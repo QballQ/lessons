@@ -54,9 +54,9 @@ Create a 16:9 slide deck for Year 8 Week 9, Build the case, using the Think Like
 ```
 Slide 1 | Phase tag: none (title slide)
 Title: Build the case / 构建证据链
-On-slide text: Science Detectives. Week 9. All the evidence. One board. How strong is our case?
+On-slide text: Science Detectives. Week 9. All the evidence. One board. How strong is our case? 科学侦探。第9周。所有证据。一块证据板。我们的证据链有多有力？
 Vocabulary panel: none
-Visual: A corkboard covered with evidence cards (note, fingerprint, powder, puddle, footprint, soil, paper towel, sign-in sheet) joined by string to four suspect portraits along the top. One card is turned face down with a question mark. Amber series accent.
+Visual: A corkboard covered with evidence cards (note 纸条, fingerprint 指纹, powder 粉末, puddle 一小摊液体, footprint 脚印, soil 土壤, paper towel 纸巾, sign-in sheet 登记表) joined by string to four suspect portraits along the top. One card is turned face down with a question mark. Amber series accent.
 Speaker notes: Next week is the Court of Science. Today we put every piece of evidence together and decide how strong our case really is.
 ```
 
@@ -69,7 +69,7 @@ Count the ticks for each suspect, Weeks 2 to 6. 数一数第2到6周每名嫌疑
 Who matches the most? 谁符合得最多？
 Who matches everything? 谁符合全部线索？
 Vocabulary panel: evidence | 证据, suspect | 嫌疑人
-Visual: The suspect tracker from the evidence log, empty, with a pencil and a "Matches 匹配数" column highlighted. 3-minute timer.
+Visual: The suspect tracker from the evidence log, empty (column headings "Suspect 嫌疑人", "Fingerprint 指纹 (W2)", "Ink 墨水 (W3)", "Powder 粉末 (W4)", "Liquid 液体 (W5)", "Footprint 脚印 (W6)"; rows "Lily Chen 陈莉", "Max Zhang 张铭轩", "Chef Zhou 周师傅", "Dr Ruby Huang 黄若琳"), with a pencil and a "Matches 匹配数" column highlighted. 3-minute timer.
 Speaker notes: A student reads the Chinese lines. Answers: Lily 3 of 5, Max 2 of 5, Chef Zhou 2 of 5, Dr Huang 4 of 5. Nobody matches everything. Dr Huang does not match the liquid. Ask: "So what do we do with the liquid?" Move to the Today slide at minute 2, while students finish the count.
 ```
 
@@ -95,7 +95,7 @@ Week 5: the liquid did not fit. 第5周：液体对不上。
 We parked these ideas. 我们把这些想法先放在了想法停车场。
 Today we check them. 今天我们来核实它们。
 Vocabulary panel: evidence | 证据, confidence | 把握
-Visual: Full-width photograph of the class's Week 5 Ideas Parking Board (insert your own photo), with the "P" parking sign in the corner.
+Visual: Full-width photograph of the class's Week 5 Ideas Parking Board (insert your own photo), with the "P" parking sign in the corner and the caption "Ideas Parking Board 想法停车场".
 Speaker notes: Give students thirty seconds to find their own note. A student reads the Chinese lines. Read two or three aloud. Say: "A good detective does not ignore evidence that does not fit. A good detective checks it." Do not say which idea is right.
 ```
 
@@ -128,7 +128,7 @@ On-slide text:
 3. Find who matches the most. 3. 找出谁符合得最多。
 7 minutes. 7分钟。
 Vocabulary panel: strong evidence | 有力证据, supporting evidence | 支持性证据, weak evidence | 薄弱证据
-Visual: An A3 board with three columns (Strong 有力 / Supporting 支持性 / Weak 薄弱) and a "Combination 组合" strip along the bottom, with evidence cards being placed by hands. Role icons with bilingual captions: Lead Scientist 首席科学家 places cards, Recorder 记录员 writes matches, Reporter 汇报员 checks with the evidence log. 7-minute timer.
+Visual: An A3 board with three columns (Strong 有力 / Supporting 支持性 / Weak 薄弱) and a "Combination 组合" strip along the bottom, with evidence cards being placed by hands. Role icons with bilingual captions: "Lead Scientist places cards. 首席科学家摆放证据卡。", "Recorder writes matches. 记录员写下每张卡符合谁。", "Reporter checks with the evidence log. 汇报员对照证据记录检查。" 7-minute timer.
 Speaker notes: Use your evidence log and last week's results from the board. Every card goes somewhere. Argue with evidence, not opinion. Do not ask me who did it: I will not tell you. A student reads the Chinese lines; thumbs check before the timer starts.
 ```
 
@@ -168,7 +168,7 @@ Evidence: which clues? 证据：哪些线索？
 Reasoning: why do they point to that person? 推理：为什么这些线索指向这个人？
 Confidence: low, medium or high, and why? 把握：低、中还是高？为什么？
 Vocabulary panel: claim | 主张, reasoning | 推理, confidence | 把握
-Visual: Three stacked boxes labelled Claim 主张, Evidence 证据, Reasoning 推理, with a confidence meter (low 低, medium 中, high 高) beside them. Frame strip: "We are ___ confident, but not certain, because ___. 我们___有把握，但不能确定，因为___。"
+Visual: Three stacked boxes labelled Claim 主张, Evidence 证据, Reasoning 推理, with a confidence meter labelled "Confidence 把握" (low 低, medium 中, high 高) beside them. Frame strip: "We are ___ confident, but not certain, because ___. 我们___有把握，但不能确定，因为___。"
 Speaker notes: Write on your own worksheet. Use at least three pieces of evidence. A scientist can be highly confident without being certain. Seven minutes. A student reads the Chinese lines and the Chinese frame; language buddies point to the clue names and suspect names in the fold-under word bank before the write.
 ```
 
@@ -205,7 +205,7 @@ Complete the self-assessment slip. 完成自我评估条。
 Be honest. 要诚实。
 Then the exit ticket: which clue was set aside, and why? 然后做离场小测：哪条线索被搁置了？为什么？
 Vocabulary panel: contamination | 污染, confidence | 把握
-Visual: The self-assessment slip thumbnail (six rows of four tick boxes) and an exit ticket strip with a cut line. Teaser icon: a courtroom gavel shaped like a magnifying glass (next week: Court of Science).
+Visual: The self-assessment slip thumbnail (six rows of four tick boxes), captioned "Self-assessment slip 自我评估条", and an exit ticket strip with a cut line, captioned "Exit ticket 离场小测". Teaser icon: a courtroom gavel shaped like a magnifying glass (next week: Court of Science), with the caption "Next week: Court of Science 下周：科学法庭".
 Speaker notes: Four minutes for the slip, one for the exit ticket. Case files stay with me this week: I will read them before the Court of Science. Next week: skills check, then the Court, then the truth. A student reads the Chinese lines.
 ```
 

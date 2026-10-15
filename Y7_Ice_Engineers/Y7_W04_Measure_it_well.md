@@ -72,7 +72,7 @@ Name the IV, DV and one control. 说出自变量、因变量和一个控制变�
 Bonus: two people timed one drop: 1.62 s and 1.85 s. 加分题：两个人给同一次下落计时：1.62 s和1.85 s。
 Why? 为什么？
 Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量
-Visual: Two ice cubes on saucers, one sprinkled with salt, one plain, with a clock beside them. Below, two stopwatches showing 1.62 and 1.85.
+Visual: Two ice cubes on saucers, one sprinkled with salt, one plain, with a clock beside them. Below, two stopwatches showing 1.62 and 1.85. Captions under the saucers: "salt 盐" and "no salt 不加盐".
 Speaker notes: Students start as they arrive. IV: salt or no salt (or amount of salt). DV: time to melt. Controls: size of ice cube, room temperature, type of saucer. For the bonus, take ideas: people press the button at different speeds. A student reads the Chinese lines for anyone who needs them.
 ```
 
@@ -99,14 +99,14 @@ Three timers. 三个计时员。
 Why are the times different? 为什么时间不同？
 Which one is right? 哪一个是对的？
 Vocabulary panel: reaction time | 反应时间; measure | 测量
-Visual: One spinner falling beside a 2 m mark; three stopwatches below showing three slightly different times (for example 2.04, 2.21, 1.93). A large question mark.
+Visual: One spinner falling beside a 2 m mark; three stopwatches below showing three slightly different times (for example 2.04, 2.21, 1.93). A large question mark. Captions under the stopwatches: "Timer 1 计时员1", "Timer 2 计时员2" and "Timer 3 计时员3".
 Speaker notes: Ask three volunteers to time the same drop. Write their times on the board. Ask: "Which is right?" None of them is perfectly right. Each person's reaction time is different, so every measurement has a little error. Today we learn how scientists deal with that. A student reads the Chinese lines.
 ```
 
 ```
 Slide 4 | Phase tag: Learn 新知
 Title: Units matter / 单位很重要
-On-slide text: Wing length: cm. Drop height: m. Fall time: s. Units go in the table heading, not after every number.
+On-slide text: Wing length 翼长: cm. Drop height 下落高度: m. Fall time 下落时间: s. Units go in the table heading, not after every number.
 Key idea 核心概念: 单位写在表头，数字后面不用再写。
 Vocabulary panel: unit | 单位; second (s) | 秒; measure | 测量; results table | 结果表格
 Visual: Three icons with labels: a ruler next to a spinner wing "cm (centimetre 厘米)", a wall mark "m (metre 米)", a stopwatch "s (second 秒)". Below, a table heading "Fall time (s) 下落时间（秒）" with an arrow: "unit in the heading 单位写在表头".
@@ -129,7 +129,7 @@ Title: Spot the anomaly / 找出异常值
 On-slide text: An anomaly does not fit the pattern. Circle it. Write why. Leave it out of the mean. Never rub it out!
 Key idea 核心概念: 异常值不符合规律：圈出、写原因、剔除、不要擦掉。
 Vocabulary panel: anomaly | 异常值; mean | 平均值; repeat | 重复
-Visual: A results table row for 8 cm wings: 2.05, 1.12, 2.11. The value 1.12 is circled. A note beside it: "hit the table, did not spin 撞到桌子，没有旋转". An eraser crossed out.
+Visual: A results table row for 8 cm wings: 2.05, 1.12, 2.11. The value 1.12 is circled. A note beside it: "hit the table, did not spin 撞到桌子，没有旋转". An eraser crossed out. Column headings above the row: "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次"; row label "8 cm".
 Speaker notes: 1.12 s is much shorter than the other two. The group wrote down why: the spinner hit the table and did not spin. So we leave it out: (2.05 + 2.11) ÷ 2 = 4.16 ÷ 2 = 2.08 s. Notice we divide by 2, because now there are only two values. A student reads the Key idea line; show the four steps as gestures (circle, write, leave out, no rubbing out).
 ```
 
@@ -139,7 +139,7 @@ Title: What if we left it in? / 如果保留异常值会怎样？
 On-slide text: With the anomaly: mean 1.76 s. Without it: mean 2.08 s. Which one shows the real pattern?
 Key idea 核心概念: 剔除异常值后，平均值才显示真实的规律。
 Vocabulary panel: anomaly | 异常值; mean | 平均值
-Visual: Two simple bar pairs side by side for 8 cm wings: one bar 1.76 labelled "anomaly left in 保留异常值", one bar 2.08 labelled "anomaly left out 剔除异常值". A small reference bar for 6 cm wings at 1.68.
+Visual: Two simple bar pairs side by side for 8 cm wings: one bar 1.76 labelled "anomaly left in 保留异常值", one bar 2.08 labelled "anomaly left out 剔除异常值". A small reference bar for 6 cm wings at 1.68. Label under the 8 cm pair: "8 cm wings 8 cm翼长"; label under the reference bar: "6 cm wings 6 cm翼长"; y-axis title: "Mean fall time (s) 平均下落时间（秒）".
 Speaker notes: Left in, the mean is 5.28 ÷ 3 = 1.76 s, almost the same as the 6 cm wings at 1.68 s, so the pattern nearly disappears. Left out, 2.08 s fits the pattern: longer wings, longer fall time. That is why we leave out anomalies, but only with a reason. A student reads the Key idea line.
 ```
 
@@ -200,7 +200,7 @@ Calculate the mean without it. 剔除它后计算平均值。
 Show your working. 写出计算过程。
 Logbook: one new word. 科学日志：写一个新词。
 Vocabulary panel: mean | 平均值; anomaly | 异常值
-Visual: Exit ticket strip preview with the table of Hana's results and the "Today I can 今天我能" self-check boxes. Logbook icon with "New words 新词汇" highlighted.
+Visual: Exit ticket strip preview with the table of Hana's results and the "Today I can 今天我能" self-check boxes. Logbook icon with "New words 新词汇" highlighted. The strip preview is headed "Exit ticket 离场小测" and the table is titled "Hana's results Hana的结果"; the logbook icon is labelled "Logbook 科学日志".
 Speaker notes: Students complete the exit ticket strip and write one new word in their logbook. A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Recorders put the group results table and spinners back in the envelope: we need the means next week.
 ```
 
@@ -221,7 +221,7 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 measure | 测量; unit | 单位; second (s) | 秒; repeat | 重复; mean | 平均值; anomaly | 异常值; results table | 结果表格; reaction time | 反应时间
 
-**Do Now box (small, above Core): Does salt change how fast ice melts? 盐会改变冰熔化的快慢吗？**
+**Do Now 课前任务 box (small, above Core): Does salt change how fast ice melts? 盐会改变冰熔化的快慢吗？**
 I change (IV) 我改变: ______________ I measure (DV) 我测量: ______________ I keep the same (control) 我保持不变: ______________
 Two people timed the same drop: 1.62 s and 1.85 s. 两个人给同一次下落计时：1.62 s和1.85 s。 Why? 为什么？ ______________________________
 
@@ -249,7 +249,7 @@ We leave it out of the mean, but only if we have a ______________. 我们算平�
 | 1. Add them up 把它们加起来: 1.31 + 1.25 + 1.37 = | total 总和 = ______ s |
 | 2. Divide by the number of values 除以数据个数: ______ ÷ 3 = | mean 平均值 = ______ s |
 
-(Picture cue beside the box: the Slide 5 strip in miniature, three stopwatches, a plus sign, the total box, "÷ 3", the mean box.)
+(Picture cue beside the box: the Slide 5 strip in miniature, three stopwatches, a plus sign, the total box labelled "total 总和", "÷ 3", the mean box labelled "mean 平均值".)
 
 **D. Our results 我们的结果**
 Drop height 下落高度: ______ m
@@ -363,7 +363,7 @@ Create a half-A4 kit card for Year 7 Week 4 using the Think Like a Scientist kit
 - Re-press any wall marks that have peeled off; check 2.0 m with a metre stick (3 min).
 - Print 6 sample data cards (2 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - Never stand on chairs or tables to drop spinners. Stand flat on the floor.
   禁止站在椅子或桌子上投放纸直升机。请双脚站在地面上。
 - Keep bags off the floor under the drop marks so no one trips.

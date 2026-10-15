@@ -82,7 +82,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 8, Test day, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Where a [Shared] slide says "sample", Plan A means an ice strip and Plan B means a dough strip. Slides are numbered once across both decks, so each deck skips the other plan's numbers; the running orders below list exactly which slides each deck contains.
+Create a 16:9 slide deck for Year 7 Week 8, Test day, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A 方案A" or "Plan B 方案B" tag in the bottom corner of every plan-specific slide. Where a [Shared] slide says "sample", Plan A means an ice strip and Plan B means a dough strip. Slides are numbered once across both decks, so each deck skips the other plan's numbers; the running orders below list exactly which slides each deck contains.
 
 **Running order, Plan A:** 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14.
 **Running order, Plan B:** 1, 2, 4, 5, 6, 7, 10, 11, 13, 14.
@@ -95,7 +95,7 @@ Safety Officer: read the kit card. 安全员：阅读器材卡。
 Recorder: copy your sample codes into the table. 记录员：把样品编号抄写到表格里。
 Everyone else: build two rigs. 其他人：搭建两个测试架。
 Vocabulary panel: sample | 样品; catch tray | 接水盘
-Visual: A group table seen from above: a tray of nine labelled samples, two pairs of desks pushed apart with a narrow gap, books stacked at the gap edges, two buckets on the floor. Five role icons.
+Visual: A group table seen from above: a tray of nine labelled samples, two pairs of desks pushed apart with a narrow gap, books stacked at the gap edges, two buckets on the floor. Five role icons, captioned "Lead Scientist 首席科学家", "Measurer 测量员", "Recorder 记录员", "Safety Officer 安全员" and "Reporter 汇报员".
 Speaker notes: Students start as they arrive. Samples stay in their insulated box (Plan A) or on the tray (Plan B) until they are tested. Rig builders: push two desks together, then open a 10 cm gap. We need every minute today, so start straight away. A student reads the Chinese lines as the slide goes up.
 ```
 
@@ -119,7 +119,7 @@ On-slide text:
 Which will hold more water before it snaps? 哪一个在断裂前能承载更多的水？
 How will each one break? 每一个会怎样断？
 Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的
-Visual: Two strips held up in gloved hands: a clear plain ice strip and a speckled brown sawdust strip. A large question mark between them.
+Visual: Two strips held up in gloved hands: a clear plain ice strip and a speckled brown sawdust strip. A large question mark between them. Captions under the two strips: "Plain ice 普通冰" and "Pykrete 派克瑞特（木屑冰）".
 Speaker notes: Hold up a spare plain strip and a spare sawdust strip. A student reads the Chinese questions, then take a quick vote. Ask: "Will they break in the same way?" Tell students to watch closely today: how a sample breaks is evidence too.
 ```
 
@@ -130,7 +130,7 @@ On-slide text:
 Which strip will hold more water before it snaps? 哪一条在断裂前能承载更多的水？
 How will each one break? 每一个会怎样断？
 Vocabulary panel: snap | 断裂; strength | 强度; brittle | 脆的
-Visual: Two dry dough strips held up: a smooth plain strip and a strip with fibres showing at the edges. A large question mark between them. A small straw mud brick in the corner.
+Visual: Two dry dough strips held up: a smooth plain strip and a strip with fibres showing at the edges. A large question mark between them. Captions under the two strips: "No fibre 无纤维" and "Fibre 有纤维". A small straw mud brick in the corner, captioned "mud brick 泥砖".
 Speaker notes: Hold up a spare plain strip and a spare fibre strip. A student reads the Chinese questions, then take a quick vote. Ask: "Will they break in the same way?" Watch closely today: how a strip breaks is evidence too.
 ```
 
@@ -146,7 +146,7 @@ On-slide text:
 6. Bucket under the bag. 袋子下面放桶。
 Key idea 核心概念: 每个测试架都一样：间隙10厘米，绳圈在正中间。
 Vocabulary panel: load | 负载; catch tray | 接水盘
-Visual: The labelled rig diagram (Section 6a), front view: two desks with a 10 cm gap; a stack of three books on each desk at the gap edge, top books covered with plastic; the sample lying across the gap; a string loop round its middle hanging down through the gap; a carrier bag hanging below the desks; a bucket on the floor directly under the bag. Labels on each part. A ruler showing "10 cm".
+Visual: The labelled rig diagram (Section 6a), front view: two desks with a 10 cm gap; a stack of three books on each desk at the gap edge, top books covered with plastic; the sample lying across the gap; a string loop round its middle hanging down through the gap; a carrier bag hanging below the desks; a bucket on the floor directly under the bag. Labels on each part: "book stack 书堆", "sample 样品", "string loop 绳圈", "bag 袋子", "catch tray (bucket) 接水盘（桶）". A ruler showing "10 cm".
 Speaker notes: Demonstrate with one rig. Measure the gap between the book stacks with a ruler every time: 10 cm. The strip is 12 cm long, so it rests about 1 cm on each stack; the loop goes exactly in the middle. Strips are thin, so hold them by the ends and lay them down gently. The bag hangs just inside the bucket, so when the sample snaps it only falls a few centimetres. A student reads each Chinese step as you point to that part of the rig.
 ```
 
@@ -161,7 +161,7 @@ Count each pour. 每倒一次记一笔。
 Repeat until it snaps. 重复直到断裂。
 Key idea 核心概念: 1毫升水的质量约为1克，所以体积就是负载。
 Vocabulary panel: volume | 体积; millilitre (ml) | 毫升; load | 负载
-Visual: Four picture steps: a pour cup filled to a "25 ml" line from the jug; water poured gently into the bag; a "5 seconds" timer; a tally being added (|||| |). A note box: "1 ml of water has a mass of about 1 g. 300 ml is about 300 g."
+Visual: Four picture steps: a pour cup filled to a "25 ml" line from the jug; water poured gently into the bag; a "5 seconds 5秒" timer; a tally being added (|||| |). A note box: "1 ml of water has a mass of about 1 g. 300 ml is about 300 g."
 Speaker notes: We use water instead of masses: 1 ml of water has a mass of about 1 g, so the volume tells us the load. Pour gently and at the same speed every time; a splash or a jolt is like a push, and it is not fair. Wait 5 seconds between pours so the sample has time to crack if it is going to.
 ```
 
@@ -174,7 +174,7 @@ If it snaps during a pour, count that whole pour. 如果在倒水时断裂，这
 Then write how it broke. 然后写下它是怎样断的。
 Key idea 核心概念: 人人用同一条记录规则，下周才能汇总全班的结果。
 Vocabulary panel: snap | 断裂; volume | 体积; anomaly | 异常值
-Visual: A worked example: tally "|||| |||| ||||" = 15 pours; 15 x 25 ml = 375 ml. Beside it, a results table row: "SD3 R1 | 375 ml | note: cracked, but fibres held the two halves together".
+Visual: A worked example, labelled "Example 例子": tally "|||| |||| ||||" = 15 pours 倒水15次; 15 x 25 ml = 375 ml. Beside it, a results table row: "SD3 R1 | 375 ml | note 备注: cracked, but fibres held the two halves together 裂开了，但纤维把两半连在一起不散开".
 Speaker notes: Same rule for everyone, so results can be pooled next week. 15 pours of 25 ml is 375 ml. If a sample snaps before any water goes in, record 0 ml and write why. Water from the bag goes back into the jug for the next test. A student reads the Chinese rule aloud before the first test.
 ```
 
@@ -190,7 +190,7 @@ Start the stopwatch. 开始计时。
 Then pour each lid's water into the cylinder. 然后把每个盖子里的水倒进量筒。
 Key idea 核心概念: 每个样品：相同时间、相同地点、相同盖子。
 Vocabulary panel: melt | 熔化; volume | 体积; millilitre (ml) | 毫升
-Visual: Picture steps: gloved hands peeling foil off a thin ice strip; nine strips on nine identical lids in three rows, away from the window; a stopwatch at 15:00; ice lifted off with gloves; water poured from a lid into a 10 ml measuring cylinder; an eye at the level of the water surface.
+Visual: Picture steps: gloved hands peeling foil off a thin ice strip; nine strips on nine identical lids in three rows, away from the window; a stopwatch at 15:00; ice lifted off with gloves; water poured from a lid into a 10 ml measuring cylinder; an eye at the level of the water surface, captioned "eye level 平视".
 Speaker notes: Melting groups only. Start all samples at the same time, in the same place, away from sunlight and heaters. At 15 minutes, lift each sample off its lid, let it drip for 5 seconds over the lid, put it in the waste bowl, then pour the lid's water into the measuring cylinder and read it in ml.
 ```
 
@@ -199,7 +199,7 @@ Slide 9 | [Plan A] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Catch tray under every bag. 每个袋子下面都要放接水盘。 Feet clear of the bag. 双脚远离悬挂的袋子。 Gloves for ice. 拿冰请戴手套。 Mop spills now. 洒出的水请立即擦干。
 Vocabulary panel: none
-Visual: Safety slide layout, high visibility. Icons: a bucket under a hanging bag; feet with a "keep clear" zone marked on the floor; gloves; a mop.
+Visual: Safety slide layout, high visibility. Icons: a bucket under a hanging bag; feet with a "keep clear 保持远离" zone marked on the floor; gloves; a mop.
 Speaker notes: Read each line in English; a student reads it in Chinese. The pourer kneels to the side of the bucket, never under or over the bag. If water goes on the floor, stop testing and mop it up first: a wet floor is the biggest danger today.
 ```
 
@@ -208,7 +208,7 @@ Slide 10 | [Plan B] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Catch tray under every bag. 每个袋子下面都要放接水盘。 Feet clear of the bag. 双脚远离悬挂的袋子。 Never eat the dough. 严禁食用面团。 Wash your hands. 实验后请洗手。
 Vocabulary panel: none
-Visual: Safety slide layout, high visibility. Icons: a bucket under a hanging bag; feet with a "keep clear" zone; a crossed-out mouth; hands under a tap.
+Visual: Safety slide layout, high visibility. Icons: a bucket under a hanging bag; feet with a "keep clear 保持远离" zone; a crossed-out mouth; hands under a tap.
 Speaker notes: Read each line in English; a student reads it in Chinese. The pourer kneels to the side of the bucket. Broken strip pieces go in the waste bowl, not in pockets or mouths. Students on the allergy list pour or record; they do not handle the strips.
 ```
 
@@ -221,7 +221,7 @@ Rig 2: Safety Officer pours, Reporter watches. 测试架2：安全员倒水，�
 Recorder: next sample, tallies, results. 记录员：递下一个样品、划记计数、记录结果。
 Target: 3 repeats. Minimum: 2. 目标：重复3次。最少：2次。
 Vocabulary panel: repeat | 重复; strength | 强度; sample | 样品
-Visual: A top-down diagram of one group: two rigs side by side along the same desk gap, about 25 cm apart, each with two role icons; the Recorder in the middle with the sample tray and the results sheet. A 22-minute timer.
+Visual: A top-down diagram of one group: two rigs side by side along the same desk gap, about 25 cm apart, each with two role icons; the Recorder in the middle with the sample tray and the results sheet. Rig labels: "Rig 1 测试架1" and "Rig 2 测试架2". Role icon captions: Rig 1 "Lead Scientist pours. 首席科学家倒水。" and "Measurer watches. 测量员观察。"; Rig 2 "Safety Officer pours. 安全员倒水。" and "Reporter watches. 汇报员观察。"; in the middle "Recorder 记录员". A 22-minute timer.
 Speaker notes: Test the samples in a mixed order (for example plain, fibre, plain, fibre), not all the plain ones first, so that changes during the lesson affect every type equally. Each test takes about two minutes. Halfway, check: are you on track for three repeats? A student reads the Chinese role lines; thumbs check before the first pour.
 ```
 
@@ -257,7 +257,7 @@ On-slide text:
 Exit ticket: one result with its unit, and one thing that was hard to keep the same. 离场小测：一个带单位的结果，和一件很难保持不变的事。
 Tidy: water back in the jug, mop, wash hands. 收拾整理：水倒回水壶，擦地，洗手。
 Vocabulary panel: volume | 体积; millilitre (ml) | 毫升
-Visual: Exit ticket strip preview. Tidy checklist icons: jug, mop, bin, tap.
+Visual: Exit ticket strip preview, headed "Exit ticket 离场小测". Tidy checklist icons: jug, mop, bin, tap, captioned "jug 水壶", "mop 拖把", "bin 垃圾桶" and "tap 水龙头".
 Speaker notes: Students complete the exit ticket and tick the Today I can self-check on the strip while Safety Officers lead the tidy. A student reads the Chinese lines. Results tables go in the group folder; next week we pool the class data and make posters. Photograph the class project board before it is wiped.
 ```
 
@@ -310,7 +310,7 @@ Start time 开始时间: ______ End time (15 minutes later) 结束时间（15分
 **C. [Shared] How did it break? 它是怎样断的？**
 Tick the words that describe one sample. 勾选描述一个样品的词语。 Sample code 样品编号: __________
 ☐ snapped suddenly 突然断裂 ☐ cracked slowly 慢慢裂开 ☐ broke into two pieces 断成两块 ☐ broke into many pieces 碎成很多块 ☐ the pieces stayed joined 碎块仍连在一起 ☐ bent first 先弯曲
-[Plan A, melting groups instead] ☐ fibres left on the surface 表面留下纤维 ☐ melted evenly 均匀熔化 ☐ melted faster at the edges 边缘熔化更快
+[Plan A, melting groups instead] Melting groups 熔化测试组: ☐ fibres left on the surface 表面留下纤维 ☐ melted evenly 均匀熔化 ☐ melted faster at the edges 边缘熔化更快
 
 **4. Stretch 提高 (two dots)**
 a) [Shared] Calculate the mean for each sample. 计算每个样品的平均值。 Show your working in the boxes. 把计算过程写在框里。 (Three working boxes, each with the line "total ______ ÷ ______ = ______ ml 总和______ ÷ ______ = ______毫升".)
@@ -385,7 +385,7 @@ Means: (14 + 16) ÷ 2 = 15 ml; 33 ÷ 3 = 11 ml; 21 ÷ 3 = 7 ml.
 
 ## 5. Kit card [Paste into Claude Design]
 
-Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist kit card template: one titled "Plan A: Test day, ice strips | 测试日：冰条" and one titled "Plan B: Test day, dough strips | 测试日：面团条". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
+Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist kit card template: one titled "Plan A 方案A: Test day, ice strips | 测试日：冰条" and one titled "Plan B 方案B: Test day, dough strips | 测试日：面团条". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
 
 ### Kit card [Plan A]: Test day, ice strips
 
@@ -408,7 +408,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Just before the lesson: move each group's tray from the freezer into its insulated box; put the boxes on the teacher desk (5 min).
 - Set up one demo rig at the front (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.
@@ -441,7 +441,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Check the strips: press a spare strip with a thumbnail; it should feel hard, not soft. If strips are still soft, test the driest groups first and dry the rest for longer (5 min).
 - Check the allergy list: students with a flour allergy pour or record only.
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.
@@ -465,7 +465,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 
 Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test rig | 强度测试架", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white line drawing, clean and technical, like a page from an engineer's notebook. Print spec: 1 for the slides (Slide 5), 1 A3 copy for the board, and 6 A4 copies (one per group, laminated, reusable in future years). Make one version with "sample" labelled "ice strip 冰条 / dough strip 面团条" so it serves both plans.
 
-**Main drawing: front view.**
+**Main drawing: front view.** Caption: "front view 正视图".
 - Two school desks side by side, drawn from the front. Their inner edges are 10 cm apart, with a dimension arrow labelled "span 10 cm 跨距10厘米".
 - On each desk, right at the gap edge, a stack of three books of equal height. The inner faces of the stacks line up with the desk edges. The top book of each stack is covered with a thin plastic bag. Label: "two equal stacks of books 两堆同样高的书".
 - The sample, a thin strip about 12 cm long, 2 cm wide and 5 mm thick, lies across the gap, resting about 1 cm on each stack. Label: "sample strip across the gap 样品条横放在间隙上" and a small dimension "about 1 cm on each side 每边约搭1厘米".
@@ -476,9 +476,9 @@ Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test ri
 - A second student standing at the side of the desks, eyes level with the sample. Label: "watch at eye level and call 'Snap!' 平视观察，断裂时喊“断了！”".
 - A shaded floor zone around the bucket, labelled "keep feet clear 双脚远离".
 
-**Inset 1 (top right): side view of the sample on the stacks**, showing the string loop sitting at the centre line, with "centre 中心" marked by a small arrow.
+**Inset 1 (top right): side view of the sample on the stacks**, captioned "side view 侧视图", showing the string loop sitting at the centre line, with "centre 中心" marked by a small arrow.
 
-**Inset 2 (bottom right): the pour cup**, a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 300 g. 所以300毫升水的负载约为300克。"
+**Inset 2 (bottom right): the pour cup**, captioned "pour cup 倒水杯", a plastic cup with a line and the label "25 ml line 25毫升刻度线". Beside it: "1 ml of water has a mass of about 1 g. 1毫升水的质量约为1克。 So 300 ml of water is a load of about 300 g. 所以300毫升水的负载约为300克。"
 
 **Numbered steps along the bottom (one line each, English then Chinese):**
 1. Push two desks together, then pull them apart to leave a 10 cm gap. 把两张桌子并拢，再拉开10厘米的间隙。
