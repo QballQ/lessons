@@ -76,7 +76,7 @@ Try every question. 每道题都试一试。
 15 minutes. 15分钟。
 Show how much you have grown since Week 1! 看看你从第1周以来进步了多少！
 Vocabulary panel: none
-Visual: A large 15-minute timer graphic. Beside it, a small "Week 1 to Week 10" arrow with the ice crystal icon at the end.
+Visual: A large 15-minute timer graphic. Beside it, a small "Week 1 to Week 10 第1周到第10周" arrow with the ice crystal icon at the end.
 Speaker notes: Same paper, same rules as Week 1. A student reads the Chinese lines before the timer starts. Read any question aloud in English if asked, and explain everyday words only, not science words. Give a 5-minute warning at minute 10 and collect every paper at once at minute 15.
 ```
 
@@ -114,7 +114,7 @@ Audience: one number per group in your notes. 观众：在笔记上为每个小�
 Askers: read your question card. 提问者：读出你的问题卡。
 Everyone: one feedback slip. 所有人：写一张反馈条。
 Vocabulary panel: audience | 观众; feedback | 反馈; evidence | 证据
-Visual: Three columns with icons: a speaker at a poster with the talk frame card; a listener writing notes; a hand holding a question card. Under them, a "two stars and a wish 两颗星和一个愿望" slip.
+Visual: Three columns with icons: a speaker at a poster with the talk frame card; a listener writing notes; a hand holding a question card. Under each icon, its own on-slide line as the only caption, English with the Chinese beneath: the Speakers 发言人 line, the Audience 观众 line and the Askers 提问者 line. Under them, a "two stars and a wish 两颗星和一个愿望" slip. The Everyone 所有人 line goes beside the slip.
 Speaker notes: Keep it quick: everyone should already have their card, notes sheet and slip on the desk. A student reads the Chinese lines; thumbs check before the first talk. A good audience is part of the science: listen for the evidence.
 ```
 
@@ -152,7 +152,7 @@ Week 1 we asked this big question. 第1周我们问过这个大问题。
 Now what do you think? 现在你怎么想？
 Scientists find things out by ___. 科学家通过___发现事物。
 Vocabulary panel: scientist | 科学家; evidence | 证据
-Visual: A row of ten small icons, one per week: footprints, two falling balls, a spinner, a stopwatch, a graph, a wrapped ice cube, an ice ship, a hanging bag, a poster, a microphone. An arrow runs under them all to a large question mark becoming a tick.
+Visual: A row of ten small icons, one per week: footprints, two falling balls, a spinner, a stopwatch, a graph, a wrapped ice cube, an ice ship, a hanging bag, a poster, a microphone. Under each icon, only its week number, "1" to "10" (no word captions). An arrow runs under them all to a large question mark becoming a tick.
 Speaker notes: A student reads the Chinese lines. Pair talk in any language for one minute, then take three answers in English. Look for: observing carefully, asking testable questions, fair tests, repeats, graphs, using evidence, being honest about problems, checking each other's work. Collect feedback slips and give each group its pile.
 ```
 
@@ -163,7 +163,7 @@ On-slide text:
 One thing I learned about being a scientist. 关于做一名科学家，我学到的一件事。
 One thing I want to find out next. 我接下来想探究的一件事。
 Vocabulary panel: scientist | 科学家
-Visual: Exit ticket strip preview with the thought bubble "any language" icon. Add the ten small week icons from Slide 7 along the top of the strip and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐".
+Visual: Exit ticket strip preview with the thought bubble "any language 可用中文" icon. Add the ten small week icons from Slide 7 along the top of the strip and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐".
 Speaker notes: Students complete the exit ticket strip at the bottom of the Expo notes worksheet. A student reads the Chinese lines. It can be written in Chinese. A student may point to a week icon and use the starter "Scientists ___ 科学家___". Then tick the two goals. Collect with the worksheets.
 ```
 
@@ -176,7 +176,7 @@ Tick one face. 勾选一个表情。
 There are no right or wrong answers. 没有对错之分。
 3 minutes. 3分钟。
 Vocabulary panel: none
-Visual: A row of five smiley faces from very unhappy to very happy, matching the survey scale.
+Visual: A row of five smiley faces from very unhappy to very happy, matching the survey scale. Captions under the faces, left to right, as on the survey scale key: "Strongly disagree 非常不同意", "Disagree 不同意", "Not sure 不确定", "Agree 同意" and "Strongly agree 非常同意".
 Speaker notes: Use fresh survey copies and tick the "Week 10" box. A student reads the Chinese lines. Say: "There are no right or wrong answers. This does not change your award. Please be honest." Read each statement aloud once. Collect the surveys separately from everything else.
 ```
 
@@ -296,7 +296,7 @@ Create a half-A4 kit card for Year 7 Week 10 using the Think Like a Scientist ki
 - Type the order of talks onto Slides 3 and 5; fill in the talk record names (5 min).
 - Book the gallery walk (a break time or a later session) and the certificate presentation (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Keep walkways in front of the posters clear of bags.
@@ -335,19 +335,19 @@ Create an A4 portrait teacher run sheet for Year 7 Week 10, Ice Engineers Expo, 
 
 ### 6b. Talk frame card (2 minutes)
 
-Create an A5 portrait talk frame card for Year 7 Weeks 9 and 10, "Our 2-minute Expo talk | 我们的2分钟成果展演讲", using the Think Like a Scientist design system, Ice Engineers series. Black and white, minimum 14 pt, with a small stopwatch icon and a time for each part. Five numbered parts in poster order; each part has a "Speaker: ______" line and the frame in bold with blanks. Each English frame has its Chinese frame beneath in the lighter weight, with the same gaps. If the five parts do not fit on one A5 side at 14 pt with the Chinese, use a folded A4 (A5 when folded): parts 1 to 3 inside left, parts 4 and 5 inside right, the answer frames and tips on the back. Print spec: 1 per student (24 per class), handed out in the Week 9 Think phase and kept in the group folder. The bilingual version must be the one printed in Week 9.
+Create an A5 portrait talk frame card for Year 7 Weeks 9 and 10, "Our 2-minute Expo talk | 我们的2分钟成果展演讲", using the Think Like a Scientist design system, Ice Engineers series. Black and white, minimum 14 pt, with a small stopwatch icon and a time for each part. Five numbered parts in poster order; each part has a "Speaker 发言人: ______" line and the frame in bold with blanks. Each English frame has its Chinese frame beneath in the lighter weight, with the same gaps. If the five parts do not fit on one A5 side at 14 pt with the Chinese, use a folded A4 (A5 when folded): parts 1 to 3 inside left, parts 4 and 5 inside right, the answer frames and tips on the back. Print spec: 1 per student (24 per class), handed out in the Week 9 Think phase and kept in the group folder. The bilingual version must be the one printed in Week 9.
 
 **Header:** Our 2-minute Expo talk / 我们的2分钟成果展演讲 | Group 小组: __________ | My part 我负责的部分: ______
 
-1. **Question and prediction | 问题和预测 (about 20 seconds)** Speaker 发言人: ______
+1. **Question and prediction | 问题和预测 (about 20 seconds 约20秒)** Speaker 发言人: ______
    "Our question was: does the ___ change the ___ of the sample? We changed ___ and we measured ___. We predicted ___ because ___." 我们的问题是：___会改变样品的___吗？我们改变了___，测量了___。我们预测___，因为___。
-2. **Method | 实验步骤 (about 25 seconds)** Speaker 发言人: ______
+2. **Method | 实验步骤 (about 25 seconds 约25秒)** Speaker 发言人: ______
    "We made ___ samples in the same mould. We kept ___ and ___ the same. To test them, we ___. We repeated each test ___ times. To stay safe, we ___." 我们用同一个模具做了___个样品。我们保持___和___不变。为了测试它们，我们___。每个测试我们重复了___次。为了安全，我们___。
-3. **Results | 结果 (about 30 seconds)** Speaker 发言人: ______
+3. **Results | 结果 (about 30 seconds 约30秒)** Speaker 发言人: ______
    "Here is our graph. We drew a ___ because ___. The class mean for ___ was ___ ml, and for ___ it was ___ ml." 这是我们的图表。我们画了___，因为___。___的全班平均值是___毫升，___的是___毫升。
-4. **Conclusion | 结论 (about 25 seconds)** Speaker 发言人: ______
+4. **Conclusion | 结论 (about 25 seconds 约25秒)** Speaker 发言人: ______
    "Our claim is ___. The evidence is ___. This is because the fibres ___ [or: the fibres left on the surface insulate the ice]." 我们的主张是___。证据是___。这是因为纤维___［或：留在表面的纤维给冰隔热］。
-5. **Evaluation and next time | 评价和下一步 (about 20 seconds)** Speaker 发言人: ______
+5. **Evaluation and next time | 评价和下一步 (about 20 seconds 约20秒)** Speaker 发言人: ______
    "One problem was ___. It made our results ___. We are ___ confident because ___. Next time we would ___." 一个问题是___。它使我们的结果___。我们___有把握，因为___。下次我们会___。
 
 **Answering a question 回答问题 (on the back):** "That is a good question. Our evidence shows ___, but it does not show ___." 这是个好问题。我们的证据显示___，但它不能显示___。 | "I am not sure, but I think ___ because ___." 我不确定，但我认为___，因为___。 | "Can you say that again, please?" 可以再说一遍吗？
@@ -356,7 +356,7 @@ Create an A5 portrait talk frame card for Year 7 Weeks 9 and 10, "Our 2-minute E
 
 ### 6c. Question cards
 
-Create an A4 portrait sheet of 12 question cards (3 columns by 4 rows, with cut lines) for Year 7 Week 10, "Expo question cards | 成果展问题卡", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable. Each card has a small question-mark-and-ice-crystal icon, the question in bold English, and one key word glossed in Chinese beneath. The Chinese question sits beneath the English question in the lighter weight, then the key word pair. If two lines per card do not fit at a readable size, use 6 cards per sheet (2 columns by 3 rows) over two sheets per set, so 4 sheets per class. Print spec: 2 sheets per class (24 cards, one per student), on card if possible.
+Create an A4 portrait sheet of 12 question cards (3 columns by 4 rows, with cut lines) for Year 7 Week 10, "Expo question cards | 成果展问题卡", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable. Each card has a small question-mark-and-ice-crystal icon, the question in bold English, and one key word glossed in Chinese beneath. The Chinese question sits beneath the English question in the lighter weight, then the key word pair. If two lines per card do not fit at a readable size, use 6 cards per sheet (2 columns by 3 rows) over two sheets per set, so 4 sheets per class. Label the cut lines "Cut here 沿此线剪下". Print spec: 2 sheets per class (24 cards, one per student), on card if possible.
 
 1. What did you keep the same to make it fair? 为了公平，你们保持了什么不变？ (fair test 公平测试)
 2. Why did you choose a bar chart (or a line graph)? 你们为什么选择条形图（或折线图）？ (graph 图表)
@@ -389,7 +389,7 @@ Create an A4 landscape teacher record sheet for Year 7 Week 10, "Strand 6 Commun
 Create an A4 portrait sign for the Year 7 Ice Engineers Expo gallery walk, "Ice Engineers Expo | 冰雪工程师成果展", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, large text, ice crystal icon and frost border. Print spec: 2 per class (one by the door, one by the posters), plus a pad of sticky notes and a pencil on a string beside each.
 
 Text:
-- "Year 7 asked: Can we make ice stronger? 我们能让冰更坚固吗？"
+- "Year 7 asked: Can we make ice stronger? 七年级提问：我们能让冰更坚固吗？"
 - "Ten weeks. Six investigations. Real data. 十周，六项探究，真实数据。"
 - "Please leave a sticky note on a poster: one thing you learned and one question for the scientists. 请在海报上贴一张便利贴：写下你学到的一点，和一个想问科学家的问题。"
 - Small line at the foot: "Think Like a Scientist | 像科学家一样思考"
