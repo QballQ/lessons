@@ -71,7 +71,7 @@ Name patterns 1, 2 and 3. 说出纹型1、2和3的名称。
 Which suspect did the fingerprint rule out? 指纹排除了哪位嫌疑人？
 Was it strong or weak evidence? 这是有力证据还是薄弱证据？
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹
-Visual: Three fingerprint line drawings: 1 loop, 2 arch, 3 whorl. 4-minute timer.
+Visual: Three fingerprint line drawings: 1 loop, 2 arch, 3 whorl. Label each drawing with its number only (1, 2, 3), not the pattern name. 4-minute timer.
 Speaker notes: Answers: 1 loop, 2 arch, 3 whorl. Chef Zhou was ruled out. Weak evidence, because loops are common and three suspects have them. A student reads the Chinese line of each question.
 ```
 
@@ -94,7 +94,7 @@ Title: Is black ink just black? / 黑墨水只是黑色吗？
 On-slide text:
 Predict: what will happen when water climbs up through a dot of black ink? 预测：当水向上爬过一个黑墨点时，会发生什么？
 Vocabulary panel: mixture | 混合物, dye | 染料
-Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click).
+Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click). Captions: "Before 之前" under the left strip and "After 之后" under the right strip.
 Speaker notes: A student reads the Chinese line. Take predictions first. Then hold up a dried pre-test strip. Black ink is a mixture of dyes. Different pens use different mixtures, so each pen has its own pattern, like a fingerprint for ink.
 ```
 
@@ -104,7 +104,7 @@ Title: How chromatography works / 色谱法的原理
 On-slide text: Water is the solvent. It climbs the paper. Each dye dissolves and is carried up a different distance. The dyes separate.
 Key idea 核心概念: 水是溶剂，把每种染料带到不同的高度，染料就分开了。
 Vocabulary panel: chromatography | 色谱法, solvent | 溶剂, dissolve | 溶解, dye | 染料, mixture | 混合物
-Visual: Labelled diagram of a cup with 1 cm of water, a paper strip hanging from a pencil laid across the top, a pencil baseline 2 cm from the bottom above the water, an ink dot on the baseline, and arrows showing water rising. Labels: "solvent 溶剂", "baseline 基线 (pencil)", "ink dot 墨点", "solvent front 溶剂前沿".
+Visual: Labelled diagram of a cup with 1 cm of water, a paper strip hanging from a pencil laid across the top, a pencil baseline 2 cm from the bottom above the water, an ink dot on the baseline, and arrows showing water rising. Labels: "solvent 溶剂", "baseline (pencil) 基线（铅笔）", "ink dot 墨点", "solvent front 溶剂前沿". No other labels.
 Speaker notes: Dyes that dissolve easily and stick less to the paper travel further. Dyes that stick more to the paper stay lower. That is why they spread out into bands. A student reads the Key idea line.
 ```
 
@@ -129,7 +129,7 @@ Do not move the cup. 不要移动杯子。
 Same time for every strip. 每条滤纸条时间相同。
 Key idea 核心概念: 按这五条规则做，每条滤纸条的测试才公平。
 Vocabulary panel: baseline | 基线, solvent front | 溶剂前沿
-Visual: Five numbered rule icons: pencil; water line below baseline with a tick (and a crossed-out picture with water above the dot); a tiny dot dotted three times; a cup with a "do not move" hand; a timer.
+Visual: Five numbered rule icons: pencil; water line below baseline with a tick (and a crossed-out picture with water above the dot); a tiny dot dotted three times; a cup with a "do not move 不要移动" hand; a timer. Each icon is captioned by its numbered rule line, English with the Chinese beneath; no extra English.
 Speaker notes: Ask: "Why pencil, not pen?" (Pencil does not dissolve in water.) "Why must the water be below the dot?" (Otherwise the ink washes into the water instead of climbing.) A student reads each Chinese rule; the class points to the matching icon.
 ```
 
@@ -143,7 +143,7 @@ On-slide text:
 4. Wait 7 minutes. 等待7分钟。
 5. Mark the solvent front. 标出溶剂前沿。
 Vocabulary panel: baseline | 基线, solvent | 溶剂, reference sample | 参照样本, solvent front | 溶剂前沿
-Visual: Five picture steps: (1) ruler and pencil drawing a line across a strip 2 cm from the bottom, letter written at the top in pencil; (2) felt-tip dotting the centre of the line three times; (3) strip folded over a pencil, taped, pencil resting across a cup, strip bottom in 1 cm of water; (4) a 7-minute timer; (5) pencil marking where the water reached. Note: "Strip N (note ink) is ready made. N号滤纸条（纸条墨水）已制好。"
+Visual: Five picture steps: (1) ruler and pencil drawing a line across a strip 2 cm from the bottom, letter written at the top in pencil; (2) felt-tip dotting the centre of the line three times; (3) strip folded over a pencil, taped, pencil resting across a cup, strip bottom in 1 cm of water; (4) a 7-minute timer; (5) pencil marking where the water reached. Note: "Strip N (note ink) is ready made. N号滤纸条（纸条墨水）已制好。" Each picture is captioned only by its numbered step line, English with the Chinese beneath; no extra English.
 Speaker notes: Say, show, check before anyone touches the kit: read each English step, a student reads the Chinese, thumbs check. Roles: Measurer draws baselines, Lead Scientist dots, Safety Officer pours water to 1 cm, Recorder labels the cups. All five strips must go in at the same time.
 ```
 
@@ -166,7 +166,7 @@ Lay strips side by side. 把滤纸条并排放好。
 Which pen has the same colours at the same heights as N? 哪支笔与N有相同的颜色和相同的高度？
 Fill in the match table. 填写比对表。
 Vocabulary panel: chromatogram | 色谱图, reference sample | 参照样本
-Visual: Five finished chromatograms side by side on a paper towel, with N highlighted by a dashed box and a magnifying glass. Small Stretch 提高 box: "Rf = distance moved by spot ÷ distance moved by solvent Rf = 斑点移动距离 ÷ 溶剂移动距离".
+Visual: Five finished chromatograms side by side on a paper towel, with N highlighted by a dashed box and a magnifying glass. Small Stretch 提高 box: "Rf = distance moved by spot ÷ distance moved by solvent Rf = 斑点移动距离 ÷ 溶剂移动距离". Label the five strips with their letters only (A, B, C, D, N).
 Speaker notes: A student reads the Chinese lines. Look at both the colours and how far each colour travelled. Stretch: measure from the baseline to the middle of the main spot, and from the baseline to the solvent front.
 ```
 
@@ -179,7 +179,7 @@ Max and Dr Huang both carry brand B. 张铭轩和黄若琳都带着B品牌的笔
 What does this evidence show? 这个证据说明了什么？
 What does it not show? 它不能说明什么？
 Vocabulary panel: evidence | 证据, reference sample | 参照样本
-Visual: Pen B in the centre with two arrows to two suspect portraits (Max Zhang 张铭轩 and Dr Ruby Huang 黄若琳). Frame strip: "This supports / does not support ___ because ___. 这支持／不支持___，因为___。"
+Visual: Pen B in the centre with two arrows to two suspect portraits (Max Zhang 张铭轩 and Dr Ruby Huang 黄若琳). Frame strip: "This supports / does not support ___ because ___. 这支持／不支持___，因为___。" The pen is marked with the letter "B" only.
 Speaker notes: A student reads the Chinese lines. Pair talk in any language, then share with the frame. Key points: it shows the note was written with a brand B pen; it rules out Lily (A) and Chef Zhou (C); it also shows Professor Frost (D) did not write the note herself. It does not show which of the two wrote it, and pens can be borrowed. Update evidence log row 3.
 ```
 
@@ -191,7 +191,7 @@ On-slide text:
 2. Who is ruled out? 哪些嫌疑人被排除？
 3. Why do we need reference samples? 我们为什么需要参照样本？
 Vocabulary panel: reference sample | 参照样本, chromatography | 色谱法
-Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes. Teaser icon: a small pile of white powder with a question mark (next week).
+Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes. Teaser icon: a small pile of white powder with a question mark (next week). Self-check line on the strip: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser caption: "Next week: the white powder 下周：白色粉末".
 Speaker notes: A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Collect at the door. Strips dry on paper towels and go into case files next week. Next week: the white powder.
 ```
 
@@ -333,7 +333,7 @@ Create a half-A4 kit card for Year 8 Week 3 using the Think Like a Scientist kit
   - Small jug of water, 1
   - Paper towels for drying strips, 2
 - **Teacher prep before the lesson:** Pen pre-test and labelling done once, at least a week before (about 20 minutes; Case Bible, Section 11). Each class: cut filter strips and make N strips with pen B (about 10 minutes). If you have only one set of pens, pre-dot strips A to D yourself (add 10 minutes). Keep one set of dried pre-test strips as the answer key and backup.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Do not drink the water. 不要喝杯中的水。
   - Wipe up spills straight away. 洒出的水要立即擦干。
   - Felt-tip ink stains clothes. Keep caps on when not in use. 水彩笔墨水会弄脏衣服，不用时请盖好笔帽。

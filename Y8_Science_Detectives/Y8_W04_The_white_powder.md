@@ -56,7 +56,7 @@ Slide 1 | Phase tag: none (title slide)
 Title: The white powder / 白色粉末之谜
 On-slide text: Science Detectives. Week 4. Evidence 3: the white powder. 科学侦探。第4周。证据3：白色粉末。
 Vocabulary panel: none
-Visual: A small zip evidence bag of white powder with a label "Evidence 3: floor by desk (F4)", beside five small labelled pots of white powder. Evidence marker "3".
+Visual: A small zip evidence bag of white powder with a label "Evidence 3: floor by desk (F4)" and, beneath the label in the lighter weight, "中文：证据3：办公桌旁的地面（F4）", beside five small labelled pots of white powder ("Salt 食盐", "Sugar 白糖", "Baking soda 小苏打", "Cornflour 玉米淀粉", "Flour 面粉"). Evidence marker "3".
 Speaker notes: Two tests so far. Today, evidence 3: the white powder on the floor by Professor Frost's desk.
 ```
 
@@ -103,7 +103,7 @@ Title: Three tests / 三种检测
 On-slide text: Water: does it dissolve? Vinegar: does it fizz? Iodine: does it turn blue-black? Plus: look closely with a magnifier.
 Key idea 核心概念: 加水看是否溶解，加白醋看是否冒气泡，加碘液看是否变蓝黑色，再用放大镜仔细看。
 Vocabulary panel: soluble | 可溶的, insoluble | 不溶的, fizz | 冒气泡, starch | 淀粉, iodine solution | 碘液
-Visual: Four panels with simple drawings: (1) a magnifying glass over tiny cube crystals; (2) a clear cup of water, powder disappearing (soluble) vs cloudy (insoluble); (3) a spotting-tile well with bubbles (fizz); (4) a well with a blue-black colour beside one staying orange-brown. Panel labels, small, beneath each drawing, Chinese only (the English is in the on-slide text): 放大镜、水、白醋、碘液.
+Visual: Four panels with simple drawings: (1) a magnifying glass over tiny cube crystals; (2) a clear cup of water, powder disappearing (soluble) vs cloudy (insoluble); (3) a spotting-tile well with bubbles (fizz); (4) a well with a blue-black colour beside one staying orange-brown. Panel labels, small, beneath each drawing, Chinese only (the English is in the on-slide text): 放大镜、水、白醋、碘液. Small captions inside the panels, English with Chinese: under the two cups in panel 2, "soluble 可溶的" and "insoluble 不溶的"; under the bubbling well in panel 3, "fizz 冒气泡"; under the two wells in panel 4, "blue-black 蓝黑色" and "no change 无变化".
 Speaker notes: Fizzing means a reaction is making a gas. Blue-black with iodine means starch is present. Salt and sugar both dissolve, so how will we tell them apart? Look at the crystal shapes: salt makes small cubes. A student reads the Key idea line.
 ```
 
@@ -113,7 +113,7 @@ Title: Be systematic / 系统地检测
 On-slide text: Same amount (a pea-sized spoonful). Same order. Clean spoon for each powder. Record every result straight away.
 Key idea 核心概念: 同样的量，同样的顺序，每种粉末用一把干净的勺子，马上记录每个结果。
 Vocabulary panel: systematic | 系统的, results grid | 结果记录表
-Visual: A results grid with six rows (five powders plus scene powder) and four columns (Look 看, Water 水, Vinegar 白醋, Iodine 碘液), with arrows showing "test across, then record 横着检测，然后记录". A spoon icon with "1 powder = 1 spoon 1种粉末 = 1把勺子".
+Visual: A results grid with six rows (five powders plus scene powder, labelled "Salt 食盐", "Sugar 白糖", "Baking soda 小苏打", "Cornflour 玉米淀粉", "Flour 面粉", "Scene powder 现场粉末") and four columns (Look 看, Water 水, Vinegar 白醋, Iodine 碘液), with arrows showing "test across, then record 横着检测，然后记录". A spoon icon with "1 powder = 1 spoon 1种粉末 = 1把勺子".
 Speaker notes: Ask: "Why a clean spoon for each powder?" If we mix them, our results are contaminated, and we cannot trust them. Remember that word: it will matter later in the case. A student reads the Key idea line.
 ```
 

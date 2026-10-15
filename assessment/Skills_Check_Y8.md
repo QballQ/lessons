@@ -7,7 +7,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 0. How to run the skills check (for the teacher)
 
-- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The student paper in Section 1 was corrected before Week 1, using the language audit: glossary terms, a printed Chinese gloss on every piece of English a student must read to answer, names kept in Latin letters, and a header line saying that every written answer may be in Chinese. Print Week 1 and Week 10 from the same master copy and do not alter it between them, not even to correct a gloss (language access policy, 00_Language_Support/Language_Access_Policy.md, Section 7.1). Any fix from the native-speaker check must be made before the Week 1 print run; after that the paper is frozen until Week 10 has been sat. Whatever access is given in Week 1 is given in the same way in Week 10.
+- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The student paper in Section 1 was corrected before Week 1, using the language audit: glossary terms, printed Chinese on every piece of English a student must read to answer, names kept in Latin letters, and a header line saying that every written answer may be in Chinese. Print Week 1 and Week 10 from the same master copy and do not alter it between them, not even to correct a gloss (language access policy, 00_Language_Support/Language_Access_Policy.md, Section 7.1). Any fix from the native-speaker check must be made before the Week 1 print run; after that the paper is frozen until Week 10 has been sat. Whatever access is given in Week 1 is given in the same way in Week 10.
 - **Do not go through the answers after Week 1.** Collect every paper, mark it, enter the scores in the tracker and keep the papers in the class assessment folder. Do not hand them back or display answers until after Week 10, or the growth measure is lost.
 - **Timing:** 1 minute to give out papers and write names, 15 minutes working, papers collected at once. Give a 5-minute warning.
 - **Language:** you may read any question aloud in English, once or twice. You may explain everyday words (for example "trophy", "drawer"). Do not explain science words (for example "variable", "anomaly", "mean", "evidence"), because knowing them is part of what the paper measures. Under the language access policy you also read the printed Chinese gloss aloud after the English: the printed gloss is part of the paper, so reading it is not explaining a science word. Read the English, then its printed Chinese, once or twice, in exactly the same way in Week 1 and Week 10. Every stem, sub-stem, option, scenario sentence, table heading, panel label, graph title, axis label and answer label now carries a printed Chinese gloss, and each Question 10 clue carries a printed gist line (概要), so no spoken Chinese gloss is needed. The Instruction words key poster and the Classroom language card may stay on the wall: Tick, Write, Work out, Rank and Check are instruction words, not the science the paper measures.
@@ -179,8 +179,9 @@ ______________________________
 
 **Question 9 第9题** (2 marks 2分)
 Detective Bo finds a hair at the scene. He looks at it once, by eye, next to a hair from one suspect. He says, "They match!"
+Bo侦探只用肉眼把现场的头发和一个嫌疑人的头发比较了一次，就说“它们一样！”
 Write ONE improvement. Say why it makes his test better.
-Bo侦探只用肉眼把现场的头发和一个嫌疑人的头发比较了一次，就说“它们一样！”写出一个改进方法，并说明原因。
+写出一个改进方法，并说明原因。
 
 Sentence frame: He should ____________ because ____________.
 句型框架：他应该______，因为______。

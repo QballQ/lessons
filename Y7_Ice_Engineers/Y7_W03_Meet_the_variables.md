@@ -72,7 +72,7 @@ Two people. 两个人。
 Is this a fair race? 这场比赛公平吗？
 It is / is not fair because ___. 它公平／不公平，因为___。
 Vocabulary panel: fair test | 公平测试
-Visual: Two children throwing paper planes across a playground. Child A (Lin) stands on a low wall about 1 m high; child B (Kai) stands on the ground. The planes are different shapes: one pointed, one wide. A finish line in the distance.
+Visual: Two children throwing paper planes across a playground. Child A (Lin) stands on a low wall about 1 m high; child B (Kai) stands on the ground. The planes are different shapes: one pointed, one wide. A finish line in the distance, with a banner "Finish 终点".
 Speaker notes: Students start as they arrive. Take two answers. Draw out at least two unfair things: different heights, different people throwing, different planes. If we change many things, we cannot tell why one plane won. A student reads the Chinese lines; the answer may be given in Chinese.
 ```
 
@@ -96,7 +96,7 @@ On-slide text:
 Which spinner lands first? 哪个纸直升机先落地？
 Vote: short wings, long wings, or same time? 投票：短翼、长翼，还是同时？
 Vocabulary panel: spinner | 纸直升机; wing length | 翼长
-Visual: Two paper spinners side by side, one with short wings, one with long wings, held at the same height next to a wall mark "2 m". Three voting boxes. Box labels: Short wings 短翼 / Long wings 长翼 / Same time 同时.
+Visual: Two paper spinners side by side, one with short wings, one with long wings (captions "Short wings 短翼" and "Long wings 长翼"), held at the same height next to a wall mark "2 m". Three voting boxes. Box labels: Short wings 短翼 / Long wings 长翼 / Same time 同时.
 Speaker notes: A student reads the Chinese lines before the vote. Take a vote. Hold both spinners at the 2 m mark and drop together. Usually the short-winged spinner lands first. Ask: "Why? What is slowing the long one down?" Accept ideas; we will name it air resistance.
 ```
 
@@ -149,7 +149,7 @@ On-slide text:
 3. Fold on dashed lines. 沿虚线折。
 4. Add one paper clip. 夹一个回形针。
 Vocabulary panel: spinner | 纸直升机; wing length | 翼长
-Visual: Four picture steps: (1) scissors cutting round the outer solid line; (2) cutting across the top at the S or M line (L is not trimmed); (3) wing A folded forward, wing B folded back, side flaps folded in; (4) bottom folded up with a paper clip pushed on.
+Visual: Four picture steps: (1) scissors cutting round the outer solid line; (2) cutting across the top at the S or M line (L is not trimmed); (3) wing A folded forward (label "A: fold forward 向前折"), wing B folded back (label "B: fold back 向后折"), side flaps folded in; (4) bottom folded up with a paper clip pushed on.
 Speaker notes: Spinners are pre-printed on card: students only cut and fold. Three students each make one spinner: S (4 cm wings), M (6 cm) and L (8 cm). The Recorder writes names on the group envelope and draws the results table. About 5 minutes for making. A student reads the Chinese lines; thumbs check before cutting starts.
 ```
 
@@ -184,7 +184,7 @@ Title: Why only one change? / 为什么只改变一个量？
 On-slide text: If we change two things, we cannot tell which one made the difference.
 Key idea 核心概念: 如果改变两个量，就不知道是哪个量造成了差别。
 Vocabulary panel: independent variable | 自变量; fair test | 公平测试
-Visual: Two spinners: one with long wings and two paper clips, one with short wings and one paper clip, with a big question mark between them: "Wings or paper clips? 翼还是回形针？"
+Visual: Two spinners: one with long wings and two paper clips, one with short wings and one paper clip, captioned "Long wings, 2 paper clips 长翼，2个回形针" and "Short wings, 1 paper clip 短翼，1个回形针", with a big question mark between them: "Wings or paper clips? 翼还是回形针？"
 Speaker notes: Ask: "If the long spinner with two clips falls faster, was it the wings or the clips?" We cannot tell. That is why a fair test changes only one thing. A student reads the Key idea line.
 ```
 
@@ -195,7 +195,7 @@ On-slide text:
 Ruby tests if ball size changes how high a ball bounces. Ruby要测试球的大小是否会改变球弹起的高度。
 Name the IV, the DV and one control variable. 说出自变量、因变量和一个控制变量。
 Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量
-Visual: A girl dropping a small ball and a large ball beside a metre stick, with the bounce height marked.
+Visual: A girl dropping a small ball and a large ball beside a metre stick, with the bounce height marked. Labels: "small ball 小球", "large ball 大球" and "bounce height 弹起高度".
 Speaker notes: Students complete the exit ticket strip. Collect at the door. Groups put all three spinners in their labelled envelope for next week. A student reads the Chinese lines; answers in Chinese count.
 ```
 
@@ -216,7 +216,7 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 variable | 变量; independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量; fair test | 公平测试; air resistance | 空气阻力; spinner | 纸直升机; wing length | 翼长
 
-**Do Now box (small, above Core): Is this a fair race? 这场比赛公平吗？**
+**Do Now 课前任务 box (small, above Core): Is this a fair race? 这场比赛公平吗？**
 It is / is not fair because ______________________________. 它公平／不公平，因为___。
 
 **3. Core 基础 (one dot)**
@@ -278,7 +278,7 @@ independent variable 自变量 | dependent variable 因变量 | control variable
 **8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 3 第3周 | Name 姓名: __________
 Ruby tests if the size of a ball changes how high it bounces. Ruby要测试球的大小是否会改变它弹起的高度。
-(Thumbnail beside the sentence: the Slide 12 picture, a small ball, a large ball and a metre stick with the bounce height marked.)
+(Thumbnail beside the sentence: the Slide 12 picture, a small ball, a large ball and a metre stick with the bounce height marked. Same labels as Slide 12: "small ball 小球", "large ball 大球" and "bounce height 弹起高度".)
 Independent variable (I change) 自变量（我改变）: ______________
 Dependent variable (I measure) 因变量（我测量）: ______________
 One control variable (I keep the same) 一个控制变量（我保持不变）: ______________
@@ -339,7 +339,7 @@ Create a half-A4 kit card for Year 7 Week 3 using the Think Like a Scientist kit
 - Measure and mark 2 m and 1.8 m on the wall at six stations with a metre stick and masking tape (10 min). Choose walls away from windows, fans and air-conditioning vents.
 - Make one S (4 cm) and one L (8 cm) spinner for the Hook demo and test them once (10 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - Never stand on chairs or tables to drop spinners. Stand flat on the floor.
   禁止站在椅子或桌子上投放纸直升机。请双脚站在地面上。
 - Carry scissors with the points down. Cut away from your fingers.
@@ -363,7 +363,7 @@ Create an A4 portrait spinner template sheet for Year 7 Weeks 3 and 4, "Paper sp
 
 **Layout of the sheet.** Three identical spinner templates side by side, each a rectangle 5 cm wide and 19 cm tall, with 1.5 cm gaps between them and a 1.5 cm left and right margin (5 + 1.5 + 5 + 1.5 + 5 = 18 cm, plus 2 x 1.5 cm margins = 21 cm). Top margin 3 cm. Below the templates, a key box. A 1 cm check square printed in the bottom-right corner with the label "Check: this square should measure 1 cm. 请检查：此方格应为1厘米。"
 
-**Line key (printed in a box at the foot of the sheet):**
+**Line key 线条图例 (printed in a box at the foot of the sheet):**
 - Solid line: cut 实线：剪 (scissors icon)
 - Dashed line: fold 虚线：折 (fold icon)
 - Dotted line with "S" or "M": trim line, cut only for your wing length 带S或M的点线：修剪线，只按你的翼长剪
@@ -384,7 +384,7 @@ Create an A4 portrait spinner template sheet for Year 7 Weeks 3 and 4, "Paper sp
 - **Paper clip position:** a small grey outline of a paper clip drawn on the stem between 16 cm and 19 cm from the top, centred, with the label "paper clip here 回形针夹在这里". After folding the bottom 2 cm up, push one paper clip fully onto the folded end, in the centre.
 - **Name label:** a small box on the stem (between 10 cm and 14 cm from the top) reading "Group 小组 ____ Wing length 翼长 ____ cm".
 
-**Assembly steps (printed in the key box, with tiny picture icons):**
+**Assembly steps 制作步骤 (printed in the key box, with tiny picture icons):**
 1. Cut round the outside solid line. 沿外框实线剪下。
 2. Cut down the centre line to make two wings. 沿中间实线剪开，形成两个翼。
 3. S or M only: cut across the wings on your trim line. S或M：沿修剪线剪短。
