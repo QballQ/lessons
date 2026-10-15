@@ -146,73 +146,76 @@ Mean 平均值 = ______ s
 
 ---
 
-**Question 7** (1 mark)
+**Question 7 第7题** (1 mark 1分)
 Wang Fei puts an ice cube on a plate. She measures the mass of ice left every 10 minutes. Use the graph. How much ice is left after 25 minutes?
-王菲每10分钟测一次剩下的冰的质量。看图：25分钟时还剩多少冰？
+Wang Fei把一块冰块放在盘子上。她每10分钟测一次剩下的冰的质量。看图：25分钟后还剩多少冰？
 
 Graph (line graph, drawn on a full grid, about half the page width):
-- Title: Mass of ice left over time
-- x-axis: "Time (minutes)", from 0 to 40. Vertical gridlines every 5 minutes. Labels at 0, 10, 20, 30, 40.
-- y-axis: "Mass of ice left (g)", from 0 to 50. Horizontal gridlines every 2 g. Labels at 0, 10, 20, 30, 40, 50.
+- Title: Mass of ice left over time 剩下的冰的质量随时间的变化
+- x-axis: "Time (minutes) 时间（分钟）", from 0 to 40. Vertical gridlines every 5 minutes. Labels at 0, 10, 20, 30, 40.
+- y-axis: "Mass of ice left (g) 剩下的冰的质量（克）", from 0 to 50. Horizontal gridlines every 2 g. Labels at 0, 10, 20, 30, 40, 50.
 - Plotted points (crosses): (0, 50), (10, 42), (20, 34), (30, 26), (40, 18).
 - The points are joined by one straight ruled line.
 - No values are written next to the points.
 
-Mass of ice left after 25 minutes = ______ g
+Mass of ice left after 25 minutes 25分钟后剩下的冰的质量 = ______ g
 
 ---
 
-**Question 8** (2 marks)
+**Question 8 第8题** (2 marks 2分)
 A class wraps ice cubes in wool of different thickness. They time how long each ice cube takes to melt. Look at the graph. Write a conclusion. Use the sentence frame and one number from the graph.
-全班用不同厚度的毛线包住冰块，记录融化时间。看图，用句型写结论，并写出图中的一个数据。
+全班用不同厚度的毛线包住冰块，记录熔化时间。看图，用句型框架写结论，并写出图中的一个数据。
 
 Graph (line graph, drawn on a full grid, about half the page width):
-- Title: Thickness of wool and time to melt
-- x-axis: "Thickness of wool (mm)", from 0 to 20. Gridlines every 5 mm. Labels at 0, 5, 10, 15, 20.
-- y-axis: "Time to melt (minutes)", from 0 to 80. Gridlines every 5 minutes. Labels at 0, 20, 40, 60, 80.
+- Title: Thickness of wool and time to melt 毛线厚度与熔化时间
+- x-axis: "Thickness of wool (mm) 毛线厚度（毫米）", from 0 to 20. Gridlines every 5 mm. Labels at 0, 5, 10, 15, 20.
+- y-axis: "Time to melt (minutes) 熔化时间（分钟）", from 0 to 80. Gridlines every 5 minutes. Labels at 0, 20, 40, 60, 80.
 - Plotted points (crosses): (0, 30), (5, 45), (10, 58), (15, 68), (20, 75).
 - The points are joined by a smooth curve that rises steeply at first and then less steeply.
 
 Sentence frame: As the ____________ increases, the ____________ ____________.
-句型：随着______增加，______会______。
+句型框架：随着______增加，______会______。
 
 ______________________________
 ______________________________
 
 ---
 
-**Question 9** (2 marks)
+**Question 9 第9题** (2 marks 2分)
 Ben wants to find out which spinner falls the most slowly.
+Ben想知道哪个纸直升机下落得最慢。
 He drops each spinner once.
+他把每个纸直升机各放下一次。
 He holds each one at about head height.
+他把每个纸直升机都举到大约头部的高度。
 Write ONE improvement. Say why it makes the test better.
 写出一个改进方法，并说明为什么能让测试更好。
 
 Sentence frame: I would ____________ because ____________.
-句型：我会______，因为______。
+句型框架：我会______，因为______。
 
 ______________________________
 ______________________________
 
 ---
 
-**Question 10** (2 marks)
+**Question 10 第10题** (2 marks 2分)
 Jun wraps ice cubes in four materials. He times how long each one takes to melt.
-小军用四种材料包冰块，记录融化时间。
+Jun用四种材料包冰块，记录熔化时间。
 
-| Material | Time to melt (minutes) |
+| Material 材料 | Time to melt (minutes) 熔化时间（分钟） |
 |---|---|
-| Foil | 40 |
-| Newspaper | 55 |
-| Cotton wool | 70 |
-| Bubble wrap | 65 |
+| Foil 铝箔 | 40 |
+| Newspaper 报纸 | 55 |
+| Cotton wool 棉花 | 70 |
+| Bubble wrap 气泡膜 | 65 |
 
 Should Jun draw a bar chart or a line graph? Tick ONE. Then give a reason.
-应该画柱状图还是折线图？勾选一个，并说明原因。
+Jun应该画条形图还是折线图？勾选一个，并说明理由。
 
-☐ Bar chart 柱状图      ☐ Line graph 折线图
+☐ Bar chart 条形图      ☐ Line graph 折线图
 
-Reason 原因: ______________________________
+Reason 理由: ______________________________
 
 ---
 
