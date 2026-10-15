@@ -86,7 +86,7 @@ Try every question. 每道题都要试一试。
 10 minutes. 10分钟。
 Show what you have learned! 展示你学到了什么！
 Vocabulary panel: none
-Visual: A large 10-minute timer graphic. Small icons recapping Weeks 1 to 4: an eye (observe), a question mark (testable), a dial and stopwatch (variables), a results table with a mean.
+Visual: A large 10-minute timer graphic. Small icons recapping Weeks 1 to 4: an eye (observe 观察), a question mark (testable 可检验的), a dial and stopwatch (variables 变量), a results table with a mean (mean 平均值).
 Speaker notes: This checkpoint shows how much you have learned since Week 1. A student reads the Chinese lines before you start. Read each question stem aloud in English, then read the Chinese gloss line printed beneath it, or ask a student to read it. Chinese is accepted for every written answer. Do not explain the science. Collect all papers at exactly 10 minutes, then show the Today slide while you count them.
 ```
 
@@ -110,7 +110,7 @@ Same results, two graphs. 同样的结果，两种图表。
 Which one shows the pattern more clearly? 哪一个更清楚地显示规律？
 Why? 为什么？
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; pattern | 规律
-Visual: Two graphs side by side using the sample data means (4 cm: 1.31 s; 6 cm: 1.68 s; 8 cm: 2.08 s). Left: a bar chart with three separate bars. Right: a line graph with three crosses and a straight line of best fit. Same axis labels on both.
+Visual: Two graphs side by side using the sample data means (4 cm: 1.31 s; 6 cm: 1.68 s; 8 cm: 2.08 s). Left: a bar chart with three separate bars. Right: a line graph with three crosses and a straight line of best fit. Same axis labels on both. Axis labels: "Wing length (cm) 翼长（厘米）" along the bottom and "Mean fall time (s) 平均下落时间（秒）" up the side. Captions under the two graphs: "Bar chart 条形图" (left) and "Line graph 折线图" (right). Both labelled "Sample data | 示例数据", as in 6c.
 Speaker notes: A student reads the Chinese lines. Quick vote, then one reason. Both show the data, but the line graph shows that the fall time rises steadily as the wing length increases, and lets us read values in between, for example 5 cm or 7 cm.
 ```
 
@@ -120,7 +120,7 @@ Title: Bar chart or line graph? / 条形图还是折线图？
 On-slide text: Is the thing you change a word or a group? Bar chart. Is it a number that can have any value? Line graph.
 Key idea 核心概念: 改变的量是文字或类别，画条形图；是数值，画折线图。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; graph | 图表
-Visual: A simple decision flowchart. Start box: "What did I change? (independent variable) 我改变了什么？（自变量）". Arrow to "Words or groups (e.g. type of paper) 文字或类别（例如：纸的种类）" leading to a small bar chart icon. Arrow to "Numbers (e.g. wing length in cm) 数值（例如：翼长，厘米）" leading to a small line graph icon. In each box the Chinese sits beneath the English in the lighter weight.
+Visual: A simple decision flowchart. Start box: "What did I change? (independent variable) 我改变了什么？（自变量）". Arrow to "Words or groups (e.g. type of paper) 文字或类别（例如：纸的种类）" leading to a small bar chart icon. Arrow to "Numbers (e.g. wing length in cm) 数值（例如：翼长，厘米）" leading to a small line graph icon. In each box the Chinese sits beneath the English in the lighter weight. Icon captions: "Bar chart 条形图" and "Line graph 折线图".
 Speaker notes: A student reads the Key idea line. Give quick examples and ask "bar or line?": type of paper (bar); drop height in metres (line); colour of spinner (bar); number of paper clips (line, though some scientists would use bars for whole numbers: accept either with a reason). Our wing length is a number, so we draw a line graph.
 ```
 
@@ -140,7 +140,7 @@ Title: Line of best fit / 最佳拟合线
 On-slide text: Draw one smooth line close to all the points. Some points can be above, some below. Ignore the anomaly.
 Key idea 核心概念: 画一条靠近所有点的平滑线，有的点在线上方、有的在下方，不要穿过异常值。
 Vocabulary panel: line of best fit | 最佳拟合线; pattern | 规律; plot | 描点
-Visual: Two versions of the same graph with four crosses (one obvious anomaly well below the others). Left, labelled with a cross: dot-to-dot zigzag through every point, including the anomaly. Right, labelled with a tick: one straight line passing close to three points and ignoring the anomaly.
+Visual: Two versions of the same graph with four crosses (one obvious anomaly well below the others). Left, labelled with a cross: dot-to-dot zigzag through every point, including the anomaly. Right, labelled with a tick: one straight line passing close to three points and ignoring the anomaly. Captions under the two graphs: "Dot to dot 连点" (left) and "Line of best fit 最佳拟合线" (right). The low point on both graphs labelled "anomaly 异常值".
 Speaker notes: A student reads the Key idea line. The line shows the pattern, not every wobble. Use a ruler if the points look like a straight line, or draw a smooth curve freehand if they curve. Do not draw the line through an anomaly. Our spinner points look close to a straight line.
 ```
 
@@ -153,7 +153,7 @@ On-slide text:
 3. Plot with crosses. 3. 用叉号描点。
 4. Draw a line of best fit. 4. 画最佳拟合线。
 Vocabulary panel: plot | 描点; axis | 坐标轴; line of best fit | 最佳拟合线
-Visual: Four picture steps: a results table with the Mean column highlighted; axis labels being written; three crosses on the grid; a ruler laid along the crosses with a line drawn.
+Visual: Four picture steps: a results table with the Mean column (heading "Mean 平均值") highlighted; axis labels being written ("Wing length (cm) 翼长（厘米）", "Mean fall time (s) 平均下落时间（秒）"); three crosses on the grid; a ruler laid along the crosses with a line drawn.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, then thumbs before anyone starts. Use your own group's means from last week. If your results are missing or do not make sense, use the sample data card: it is fine to use sample data, scientists often analyse other people's data. Check every axis label has a unit in brackets.
 ```
 
@@ -165,7 +165,7 @@ As the ___ increases, the ___ ___. 随着___增加，___ ___。
 Stretch: add your data. 提高：加上你的数据。
 Challenge: explain with air resistance. 挑战：用空气阻力解释。
 Vocabulary panel: conclusion | 结论; increase | 增加; pattern | 规律
-Visual: The conclusion frame in large text with three blank boxes, the Chinese frame beneath it in the lighter weight. Below, two up-arrows side by side: "wing length ↑ 翼长 ↑" and "fall time ↑ 下落时间 ↑". A small air-resistance diagram: a spinner with small arrows of air pushing up on the wings.
+Visual: The conclusion frame in large text with three blank boxes, the Chinese frame beneath it in the lighter weight. Below, two up-arrows side by side: "wing length ↑ 翼长 ↑" and "fall time ↑ 下落时间 ↑". A small air-resistance diagram: a spinner with small arrows of air pushing up on the wings. The arrows labelled "air resistance 空气阻力".
 Speaker notes: A student reads the Chinese frame. Core: "As the wing length increases, the fall time increases." Stretch: quote two means from your table. Challenge: explain why using air resistance, and use your line of best fit to predict the fall time for 10 cm wings.
 ```
 
@@ -188,7 +188,7 @@ On-slide text:
 We tested 4, 6 and 8 cm. 我们测试了4、6和8厘米。
 Can we be sure what happens with 20 cm wings? 我们能确定20厘米的翅膀会怎样吗？
 Vocabulary panel: pattern | 规律; conclusion | 结论
-Visual: The sample line graph with the line of best fit drawn from 4 cm to 8 cm (solid), then continuing as a dotted line with a question mark at 20 cm. A drawing of a spinner with very long, floppy, bent wings.
+Visual: The sample line graph with the line of best fit drawn from 4 cm to 8 cm (solid), then continuing as a dotted line with a question mark at 20 cm. A drawing of a spinner with very long, floppy, bent wings. Axis labels as on Slide 4: "Wing length (cm) 翼长（厘米）" along the bottom and "Mean fall time (s) 平均下落时间（秒）" up the side.
 Speaker notes: A student reads the Chinese lines. Very long wings might bend, flap or not spin at all, so the pattern might stop. We only know about the range we tested. This kind of careful thinking is exactly what we need in the ice project from next week.
 ```
 
@@ -200,7 +200,7 @@ Bar chart or line graph? 条形图还是折线图？
 Tick one and give a reason. 勾选一个，并说出理由。
 Logbook: a question I still have. 科学日志：我还想知道。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; conclusion | 结论
-Visual: Exit ticket strip preview, including the "Today I can 今天我能" self-check boxes. Logbook icon with "A question I still have 我还想知道" highlighted.
+Visual: Exit ticket strip preview, including the "Today I can 今天我能" self-check boxes. Logbook icon with "A question I still have 我还想知道" highlighted. The strip is headed "Exit ticket 离场小测"; the logbook icon is captioned "Logbook 科学日志".
 Speaker notes: A student reads the Chinese lines. Students complete the exit ticket and one logbook line, then tick the two goals they can do. Collect exit tickets and worksheets. Next week a new teacher will lead Ice Engineers, and we start the ice project.
 ```
 
@@ -221,7 +221,7 @@ Name 姓名: __________ Class 班级: ______ Date 日期: ______
 **2. Vocabulary panel**
 graph | 图表; bar chart | 条形图; line graph | 折线图; axis | 坐标轴; plot | 描点; line of best fit | 最佳拟合线; pattern | 规律; conclusion | 结论; increase | 增加
 
-**Do Now box (small, above Core): Quick mean 快速求平均值**
+**Do Now 课前任务 box (small, above Core): Quick mean 快速求平均值**
 1.40 + 1.46 + 1.52 = ______ ÷ 3 = ______ (unit 单位: ______)
 Unit of wing length: ______ 翼长的单位：______
 
@@ -236,7 +236,7 @@ Tick one 勾选一个: ☐ our group's data 我们小组的数据 ☐ sample dat
 | 6 | |
 | 8 | |
 
-(Picture cue in the margin beside the table: a small drawing of the Week 4 results table with the Mean fall time (s) 平均下落时间（秒） column shaded, and an arrow from that column to the empty column here.)
+(Picture cue in the margin beside the table: a small drawing of the Week 4 results table with the Mean fall time (s) 平均下落时间（秒） column shaded, and an arrow from that column to the empty column here. Its other headings: "Wing length (cm) 翼长（厘米）", "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次".)
 
 **B. Draw the graph 画图.**
 - Write the axis labels using the word bank. 用词库写出坐标轴标签。 Word bank 词库: Wing length (cm) 翼长（厘米） | Mean fall time (s) 平均下落时间（秒）
