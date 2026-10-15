@@ -83,7 +83,7 @@ Mean = total ÷ number of values. 平均值＝总和÷数据个数。
 Leave out anomalies (with a reason). 去掉异常值（说明理由）。
 Check against the class table. 对照全班数据表检查。
 Vocabulary panel: mean | 平均值; anomaly | 异常值; class mean | 全班平均值
-Visual: The Week 8 results table with the Mean 平均值 column highlighted. Beside it, a thumbnail of the class results table, copied from the photo of the class project board. Captions under the two tables: "Our results 我们的结果" and "Class table 全班数据表".
+Visual: The Week 8 results table, with column headings Sample 样品 | Repeat 1 (ml) 第1次（毫升） | Repeat 2 (ml) 第2次（毫升） | Repeat 3 (ml) 第3次（毫升） | Mean (ml) 平均值（毫升）, and the Mean 平均值 column highlighted. Beside it, a thumbnail of the class results table, copied from the photo of the class project board. Captions under the two tables: "Our results 我们的结果" and "Class table 全班数据表".
 Speaker notes: Students start as they arrive with their group folders. Read the English; a student reads the Chinese line. Remind them to divide by 2 if they left out an anomaly. If a group's numbers differ from the class table, check their working together. Groups with no usable data get the sample class data card now.
 ```
 
@@ -110,7 +110,7 @@ Snow Owls: mean 292 ml. Ice Foxes: 300 ml. Frost Hares: 275 ml. Polar Bears: 300
 Who is right? 谁是对的？
 Vocabulary panel: pool (data) | 汇总（数据）; class mean | 全班平均值
 Visual: Four group badges (Snow Owls, Ice Foxes, Frost Hares, Polar Bears), each with a small bar showing its plain-sample mean. A large question mark. Small label "Sample data (made-up groups) | 示例数据（虚构小组）".
-Speaker notes: Pair talk in any language for one minute. A student reads the Chinese line first; language buddies read the numbers aloud in Chinese. They are all a little different because every sample and every test varies. No one group is "right". If we pool all four, the class mean is (292 + 300 + 275 + 300) ÷ 4 = 1167 ÷ 4 = about 292 ml. That is better evidence than any one group. [Plan B: six groups, no-fibre strips: 283, 275, 292, 275, 292, 292; class mean 1709 ÷ 6 = about 285 ml.]
+Speaker notes: Pair talk in any language for one minute. A student reads the Chinese line first; language buddies read the numbers aloud in Chinese. They are all a little different because every sample and every test varies. No one group is "right". If we pool all four, the class mean is (292 + 300 + 275 + 300) ÷ 4 = 1167 ÷ 4 = about 292 ml. That is better evidence than any one group. [Plan B: six groups, no-fibre strips 无纤维样品条: 283, 275, 292, 275, 292, 292 (Snow Owls, Ice Foxes, Snow Leopards, Frost Hares, Polar Bears, Arctic Terns); Chinese line on the Plan B slide: 六个小组的平均值：283、275、292、275、292、292毫升。 class mean 1709 ÷ 6 = about 285 ml.]
 ```
 
 ```
@@ -130,7 +130,7 @@ On-slide text: Type of fibre 纤维种类: words, so bar chart. Amount of sawdus
 Key idea 核心概念: 改变的量是文字就用条形图，是数值就用折线图。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图
 Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维种类", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑的量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700. Captions above the two graphs: "Bar chart 条形图" and "Line graph 折线图".
-Speaker notes: Same rule as Week 5: if the thing we changed is a word or group, bar chart; if it is a number, line graph. A student reads the Key idea line. Quick vote: hold up BAR or LINE for your own group's question. Melting groups: same rule, but the y-axis is "Mean meltwater (ml)". [Plan B bars: no fibre 285, sawdust 412, tissue 365, shredded paper 371. Plan B line: (0, 285), (0.3, 350), (0.6, 412), (0.9, 525), y-axis 0 to 600.]
+Speaker notes: Same rule as Week 5: if the thing we changed is a word or group, bar chart; if it is a number, line graph. A student reads the Key idea line. Quick vote: hold up BAR or LINE for your own group's question. Melting groups: same rule, but the y-axis is "Mean meltwater (ml)". [Plan B bars: no fibre 无纤维 285, sawdust 木屑 412, tissue 纸巾 365, shredded paper 碎纸 371. Plan B line: (0, 285), (0.3, 350), (0.6, 412), (0.9, 525), y-axis 0 to 600.]
 ```
 
 ```
@@ -140,7 +140,7 @@ On-slide text: Claim 主张: the answer to our question. Evidence 证据: number
 Key idea 核心概念: 结论＝主张＋证据（数字）＋推理（科学）。
 Vocabulary panel: claim | 主张; evidence | 证据; reasoning | 推理; conclusion | 结论
 Visual: Three stacked blocks like bricks, labelled Claim 主张, Evidence 证据, Reasoning 推理. Claim: "More sawdust makes ice stronger. 更多的木屑使冰更强。" Evidence: "As the sawdust increased from 0 g to 0.9 g, the mean water held increased from 292 ml to 575 ml. 随着木屑从0克增加到0.9克，平均承载水量从292毫升增加到575毫升。" Reasoning: "Ice is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks. 冰是脆的。纤维把碎片连在一起不散开，阻止裂纹，就像泥砖里的稻草。"
-Speaker notes: Read each block aloud. A claim alone is just an opinion; evidence makes it scientific; reasoning explains it. Every conclusion on the poster needs all three, with real numbers. A student reads the Key idea line. [Plan B evidence: "from 285 ml to 525 ml 从285毫升增加到525毫升"; reasoning: "Dry dough is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks. 干面团是脆的。纤维把碎片连在一起不散开，阻止裂纹，就像泥砖里的稻草。"]
+Speaker notes: Read each block aloud. A claim alone is just an opinion; evidence makes it scientific; reasoning explains it. Every conclusion on the poster needs all three, with real numbers. A student reads the Key idea line. [Plan B evidence: "from 285 ml to 525 ml 从285毫升增加到525毫升"; reasoning: "Dry dough is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks. 干面团是脆的。纤维把碎片连在一起不散开，阻止裂纹，就像泥砖里的稻草。"; claim: "More sawdust makes dough stronger. 更多的木屑使面团更强。"]
 ```
 
 ```
@@ -153,7 +153,7 @@ Next time we would ___. 下次我们会___。
 We are ___ confident because ___. 我们___有把握，因为___。
 Key idea 核心概念: 诚实地评价：说出一个问题、它的影响、下次的改进，以及我们有多大把握。
 Vocabulary panel: evaluate | 评价; improvement | 改进; confident | 有把握的
-Visual: The evaluation frame in large text, each English frame with its Chinese frame beneath. Beside it, three small "problem" icons from Week 8: a strip with a crack, a strip slipping off the books, a stopwatch beside a strip left out of the box. Captions under the three icons: "crack 裂纹", "slipped off 滑落" and "waited too long 在箱子外放太久". A confidence scale: not very 不太有把握, fairly 比较有把握, very 很有把握.
+Visual: The evaluation frame in large text, each English frame with its Chinese frame beneath. Beside it, three small "problem" icons from Week 8: a strip with a crack, a strip slipping off the books, a stopwatch beside a strip left out of the box. Captions under the three icons: "crack 裂纹", "slipped off 滑落" and "out of the box too long 离开箱子太久". A confidence scale: not very 不太有把握, fairly 比较有把握, very 很有把握.
 Speaker notes: Model one: "One problem was that one 0.9 g strip slipped off the books. This made its result too low, so we left it out. Next time we would put each strip exactly 2 cm onto each stack. We are fairly confident, because the repeats were close and two groups found the same pattern." A student reads the Chinese frames. Specific improvements beat "be more careful".
 ```
 
@@ -167,7 +167,7 @@ Measurer and Recorder: Results. 测量员和记录员：结果。
 Reporter: Conclusion. 汇报员：结论。
 Everyone: Evaluation and If we did it again. 全体：评价和如果再做一次。
 Vocabulary panel: claim | 主张; evidence | 证据; evaluate | 评价
-Visual: The A3 poster template (Section 6b) with seven numbered panels, each tagged with a role icon. Panel cards being written separately and then glued in place. Captions for the two steps: "Write 写" and "Glue 粘贴". One pair per line, in a two-column icon list: role icon, English line, Chinese line beneath.
+Visual: The A3 poster template (Section 6b) with seven numbered panels, each tagged with a role icon. If the role icons carry captions, use Lead Scientist 首席科学家, Safety Officer 安全员, Measurer 测量员, Recorder 记录员 and Reporter 汇报员. Panel cards being written separately and then glued in place. Captions for the two steps: "Write 写" and "Stick 粘贴". One pair per line, in a two-column icon list: role icon, English line, Chinese line beneath.
 Speaker notes: Work on your panel card at the same time, then glue. A student reads each Chinese line. Say: a panel card may be written in Chinese with the English key words, or as the English frame completed with your language buddy; next week you present the panel you wrote. Use your worksheet frames first, then copy neatly onto the card. 18 minutes: aim to glue the first panels by minute 12. Write big enough to read from 2 metres away.
 ```
 
@@ -182,7 +182,7 @@ Even scale. 刻度均匀。
 Accurate points or bars. 描点或条形准确。
 Class data table beside it. 旁边放全班数据表。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; axis | 坐标轴
-Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑的量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label. Heading above the four labels: "Axis label bank 坐标轴标签库".
+Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑的量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Graph title: "Does sawdust make ice stronger? 木屑会让冰更强吗？" Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label. Heading above the four labels: "Axis label bank 坐标轴标签库".
 Speaker notes: Measurers and Recorders: choose a scale that uses most of the grid. A student reads the Chinese lines. For strength data, steps of 100 ml usually work; for melting data, steps of 1 ml. Bar charts have gaps between the bars and the same width for every bar.
 ```
 
