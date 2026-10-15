@@ -23,6 +23,7 @@ Stage 3 (complete): all content written (Weeks 1 to 10, all years), assessment p
 | `assessment/` | Skills checks, checkpoints, interest survey, rubric and reporting, tracker spec |
 | `00_Teacher_Guide/Teacher_Guide.md` | Everything the incoming teacher needs to run the programme |
 | `00_Language_Support/` | Language access policy, locked glossary, support printables, My Science Dictionary booklets (Years 7 and 8), and the October 2026 audit |
+| `00_Requisition/` | Science requisition for Weeks 1 to 10, all three years (Excel): order list, prep room check, canteen and kitchen, collect or borrow, week-by-week staging; totals follow the number of classes and the freezer plan |
 | `00_Tracker/Think_Like_a_Scientist_Tracker.xlsx` | Progress tracker, one tab per class, awards calculated automatically |
 | `design/brand-board.html` | Draft brand board (programme mark, series, colours, type, icons, templates) |
 | `design/assets/` | HIK \| SVS logo files |

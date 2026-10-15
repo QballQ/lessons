@@ -1,0 +1,2857 @@
+{
+ "canonical": [
+  {
+   "key": "card_white_a4_160gsm",
+   "item_en": "White card, A4, 160 gsm",
+   "item_zh": "160克白卡纸 A4",
+   "spec": "A4 white card, 160 gsm, that feeds through the school printer (greyscale printing). 160 gsm is required for the Y7 spinner templates and assumed for all other card prints (cards, certificates, case file covers, fingerprint record cards, PRIZE strip).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 0
+    },
+    {
+     "year": "Y8",
+     "index": 8
+    },
+    {
+     "year": "Y9",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "key": "paper_a3_white",
+   "item_en": "A3 paper, white, 80 gsm",
+   "item_zh": "A3复印纸（白色，80克）",
+   "spec": "A3 white paper for black-and-white (greyscale) printing; some sheets printed on both sides (Y9 Week 9 report template).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 4
+    },
+    {
+     "year": "Y8",
+     "index": 11
+    },
+    {
+     "year": "Y9",
+     "index": 2
+    }
+   ]
+  },
+  {
+   "key": "paper_a4_plain_white",
+   "item_en": "A4 paper, plain white, 80 gsm",
+   "item_zh": "A4复印纸（白色，80克）",
+   "spec": "Plain, unprinted A4 white paper. Y7 demo sheets must be smaller than the hardback book cover.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 22
+    },
+    {
+     "year": "Y8",
+     "index": 10
+    },
+    {
+     "year": "Y9",
+     "index": 52
+    }
+   ]
+  },
+  {
+   "key": "paper_scrap_a4",
+   "item_en": "Scrap paper, A4 (used or spare)",
+   "item_zh": "废纸（A4，旧纸即可）",
+   "spec": "Any used or spare A4 paper, for shading graphite patches (Y8 fingerprints).",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 7
+    }
+   ]
+  },
+  {
+   "key": "card_black",
+   "item_en": "Black card, small pieces",
+   "item_zh": "黑色卡纸（小张）",
+   "spec": "Small pieces of black card to view white powders on (with a magnifying glass).",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 9
+    }
+   ]
+  },
+  {
+   "key": "print_colour_ph_chart",
+   "item_en": "Colour printing: red cabbage pH colour chart",
+   "item_zh": "彩色打印：紫甘蓝pH比色卡",
+   "spec": "Colour prints of the red cabbage pH colour chart with the colour name written in every box: 6 A5 group copies (then laminated) plus 1 A3 wall copy.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 12
+    }
+   ]
+  },
+  {
+   "key": "print_photo_ideas_board",
+   "item_en": "Photo print: Week 5 Ideas Parking Board",
+   "item_zh": "照片打印：第5周想法停车场",
+   "spec": "Print of the teacher's photograph of the Ideas Parking Board, in colour if possible so the sticky notes can be read.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 13
+    }
+   ]
+  },
+  {
+   "key": "print_footprint_true_size",
+   "item_en": "Scene footprint print, true size (24 cm), A4",
+   "item_zh": "现场脚印打印图（实际尺寸，24厘米）A4",
+   "spec": "A4 portrait, printed at 100% (actual size), never 'fit to page'; check with a ruler that the footprint measures exactly 24 cm.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 27
+    }
+   ]
+  },
+  {
+   "key": "poster_running_order",
+   "item_en": "Running order poster (Year 9, Week 10)",
+   "item_zh": "汇报顺序海报",
+   "spec": "No size or print spec given; filled in with each group's claim before the lesson. Not needed if slide 4 is shown.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 62
+    }
+   ]
+  },
+  {
+   "key": "laminating_pouch_a4",
+   "item_en": "Laminating pouches, A4",
+   "item_zh": "塑封膜 A4",
+   "spec": "A4 laminating pouches for the school laminator.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 1
+    },
+    {
+     "year": "Y8",
+     "index": 15
+    },
+    {
+     "year": "Y9",
+     "index": 5
+    }
+   ]
+  },
+  {
+   "key": "laminating_pouch_a5",
+   "item_en": "Laminating pouches, A5",
+   "item_zh": "塑封膜 A5",
+   "spec": "A5 laminating pouches for the school laminator.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 2
+    },
+    {
+     "year": "Y8",
+     "index": 14
+    },
+    {
+     "year": "Y9",
+     "index": 4
+    }
+   ]
+  },
+  {
+   "key": "laminating_pouch_a3",
+   "item_en": "Laminating pouches, A3",
+   "item_zh": "塑封膜 A3",
+   "spec": "A3 laminating pouches for the school laminator (laminate 'if possible').",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 3
+    },
+    {
+     "year": "Y9",
+     "index": 3
+    }
+   ]
+  },
+  {
+   "key": "envelope_c4",
+   "item_en": "Envelopes, C4 (for A4)",
+   "item_zh": "C4信封（可平放A4纸）",
+   "spec": "C4 or similar, large enough to hold A4 landscape cards or A4 papers flat. Also covers the 2 A4-size envelopes Y9 needs in Week 10.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 5
+    }
+   ]
+  },
+  {
+   "key": "envelope_c5",
+   "item_en": "Envelopes, C5 (for A5)",
+   "item_zh": "C5信封（可放A5纸）",
+   "spec": "C5, holds A5 cards or a results table flat (Y7 group spinner envelopes; Y8 envelope to hide six A5 cleaning log cards). Label with the group name.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 7
+    },
+    {
+     "year": "Y8",
+     "index": 24
+    }
+   ]
+  },
+  {
+   "key": "envelope_c6",
+   "item_en": "Envelopes, C6 (for small card sets)",
+   "item_zh": "C6信封（可装A6及名片大小卡片）",
+   "spec": "C6 (114 x 162 mm), big enough for a set of cards up to A6 or business-card size (8.5 x 5.5 cm). Write the group number or contents on each. Y9's 2 A4-size envelopes for Week 10 come from the C4 line.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 6
+    },
+    {
+     "year": "Y9",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "key": "folder_a3_group",
+   "item_en": "Group folders, A3",
+   "item_zh": "A3文件夹（小组用）",
+   "spec": "1 per group; must hold the A3 poster and planning frame flat.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 8
+    }
+   ]
+  },
+  {
+   "key": "folder_a4_case_file",
+   "item_en": "A4 folders for case files",
+   "item_zh": "A4文件夹（案件档案用）",
+   "spec": "A4 folder, 1 per student, to hold the case file pages.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 16
+    }
+   ]
+  },
+  {
+   "key": "name_cards",
+   "item_en": "Name cards, one per student",
+   "item_zh": "姓名卡（每人一张）",
+   "spec": "Name cards for the group seating plan, 1 per student.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 9
+    },
+    {
+     "year": "Y8",
+     "index": 17
+    }
+   ]
+  },
+  {
+   "key": "booklet_logbook_y7",
+   "item_en": "Scientist's Logbook, A5 booklet (Year 7)",
+   "item_zh": "科学日志（A5小册子，七年级）",
+   "spec": "Slim A5 plain-paper booklet, one page per week, made up and stapled by reprographics; 1 per student.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 10
+    }
+   ]
+  },
+  {
+   "key": "booklet_dictionary_y7",
+   "item_en": "My Science Dictionary (Year 7), A5 booklet",
+   "item_zh": "我的科学词典（七年级，A5小册子）",
+   "spec": "A5 portrait, 24 pages (28 if needed), 90 gsm white paper, black and white, A4 sheets folded and saddle-stitched by reprographics; 1 per student + 4 spares.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 11
+    }
+   ]
+  },
+  {
+   "key": "group_role_cards_y9",
+   "item_en": "Group role cards (Year 9)",
+   "item_zh": "小组角色卡（九年级）",
+   "spec": "Business-card size, one card per role (Lead Scientist, Measurer, Recorder, Safety Officer, Reporter); 1 set of 5 per group, stay on the tables all series.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 6
+    }
+   ]
+  },
+  {
+   "key": "tape_masking",
+   "item_en": "Masking tape",
+   "item_zh": "美纹纸胶带",
+   "spec": "Masking tape rolls; writable, for labels, wall marks and taping the mystery cups shut.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 12
+    },
+    {
+     "year": "Y8",
+     "index": 2
+    }
+   ]
+  },
+  {
+   "key": "tape_clear",
+   "item_en": "Clear sticky tape",
+   "item_zh": "透明胶带",
+   "spec": "Clear sticky tape rolls; 1 roll per group in Y8 for lifting fingerprints.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 3
+    },
+    {
+     "year": "Y9",
+     "index": 61
+    }
+   ]
+  },
+  {
+   "key": "pencils_hb",
+   "item_en": "Pencils, HB",
+   "item_zh": "铅笔（HB）",
+   "spec": "Ordinary HB pencils, sharpened.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 13
+    },
+    {
+     "year": "Y8",
+     "index": 6
+    },
+    {
+     "year": "Y9",
+     "index": 7
+    }
+   ]
+  },
+  {
+   "key": "pencils_soft_2b_4b",
+   "item_en": "Soft pencils, 2B to 4B",
+   "item_zh": "2B至4B铅笔（软芯）",
+   "spec": "2B to 4B soft pencils for shading graphite patches to take fingerprints.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 5
+    }
+   ]
+  },
+  {
+   "key": "pencil_sharpener",
+   "item_en": "Pencil sharpener",
+   "item_zh": "卷笔刀",
+   "spec": "For the teacher desk.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 14
+    }
+   ]
+  },
+  {
+   "key": "string",
+   "item_en": "String, strong",
+   "item_zh": "结实的细绳",
+   "spec": "Strong enough to hang a bag of water from a strip (plain strips should snap at about 150 to 500 ml of water).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 15
+    }
+   ]
+  },
+  {
+   "key": "sticky_notes",
+   "item_en": "Sticky notes",
+   "item_zh": "便利贴",
+   "spec": "Sticky note pads.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 16
+    },
+    {
+     "year": "Y8",
+     "index": 21
+    },
+    {
+     "year": "Y9",
+     "index": 13
+    }
+   ]
+  },
+  {
+   "key": "clipboard_a4",
+   "item_en": "Clipboard, A4",
+   "item_zh": "A4写字板夹",
+   "spec": "A4 clipboard for the teacher's run sheet and marking grid.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 17
+    },
+    {
+     "year": "Y9",
+     "index": 56
+    }
+   ]
+  },
+  {
+   "key": "glue_sticks",
+   "item_en": "Glue sticks",
+   "item_zh": "固体胶",
+   "spec": "Glue sticks (Y8 Week 9 may use Blu Tack instead).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 18
+    },
+    {
+     "year": "Y8",
+     "index": 23
+    }
+   ]
+  },
+  {
+   "key": "pens_felt_black_thick",
+   "item_en": "Black felt-tip pens, thick tip",
+   "item_zh": "黑色马克笔（粗头）",
+   "spec": "Black, thick (broad) tip, for posters.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 19
+    }
+   ]
+  },
+  {
+   "key": "pens_felt_black_thin",
+   "item_en": "Black felt-tip pens, thin tip",
+   "item_zh": "黑色马克笔（细头）",
+   "spec": "Black, thin tip, for posters.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 20
+    }
+   ]
+  },
+  {
+   "key": "pens_felt_washable_4_brands",
+   "item_en": "Black washable felt-tip pens, four different brands",
+   "item_zh": "黑色可水洗水彩笔（水性墨水，4个不同品牌）",
+   "spec": "Black, washable (water-based) felt-tip pens from four different brands; not permanent markers. Cover brand names with masking tape and label A to D after the pre-test.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "key": "marker_permanent_black",
+   "item_en": "Permanent marker pens, black",
+   "item_zh": "黑色油性记号笔",
+   "spec": "Black permanent marker that writes on plastic cups, paper cups, bottles and laminated boards.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 21
+    },
+    {
+     "year": "Y8",
+     "index": 26
+    }
+   ]
+  },
+  {
+   "key": "pens_dry_wipe_fine",
+   "item_en": "Dry-wipe pens, fine tip",
+   "item_zh": "白板笔（细头）",
+   "spec": "Fine-tip dry-wipe pens for mini whiteboards and laminated checklists.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 20
+    },
+    {
+     "year": "Y9",
+     "index": 57
+    }
+   ]
+  },
+  {
+   "key": "marker_whiteboard",
+   "item_en": "Whiteboard marker (board pen)",
+   "item_zh": "白板笔（教师用）",
+   "spec": "Whiteboard marker for the class board.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 9
+    }
+   ]
+  },
+  {
+   "key": "mini_whiteboards",
+   "item_en": "Mini whiteboards",
+   "item_zh": "小白板（学生用）",
+   "spec": "Mini whiteboards, 4 per group.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 19
+    }
+   ]
+  },
+  {
+   "key": "paper_clips_28mm",
+   "item_en": "Paper clips, standard 28 mm",
+   "item_zh": "回形针（标准28毫米）",
+   "spec": "Standard 28 mm metal paper clips, all the same size (they set the spinner mass).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 23
+    },
+    {
+     "year": "Y8",
+     "index": 4
+    }
+   ]
+  },
+  {
+   "key": "rubber_bands",
+   "item_en": "Rubber bands (elastic bands)",
+   "item_zh": "橡皮筋",
+   "spec": "Rubber bands to hold insulation jackets on cups and fabric on bottles.",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 24
+    },
+    {
+     "year": "Y9",
+     "index": 47
+    }
+   ]
+  },
+  {
+   "key": "sticky_labels",
+   "item_en": "Sticky labels",
+   "item_zh": "不干胶标签",
+   "spec": "Sticky labels for pots, cups, bottles and bags (or write on them with a permanent marker).",
+   "category": "stationery_card_print",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 22
+    }
+   ]
+  },
+  {
+   "key": "sleeves_clear_a4",
+   "item_en": "Clear plastic sleeves, A4",
+   "item_zh": "A4透明文件套",
+   "spec": "Clear plastic sleeves to show a note ink strip.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 25
+    }
+   ]
+  },
+  {
+   "key": "ballpoint_pens_identical",
+   "item_en": "Ballpoint pens, identical",
+   "item_zh": "圆珠笔（同款同色）",
+   "spec": "24 identical pens: same model and colour, ideally new; check every one writes. Reused for raw data in later weeks.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 8
+    }
+   ]
+  },
+  {
+   "key": "calculator_basic",
+   "item_en": "Calculator, basic",
+   "item_zh": "计算器（简易型）",
+   "spec": "Basic calculator, 1 per group.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 10
+    }
+   ]
+  },
+  {
+   "key": "stapler",
+   "item_en": "Stapler (with staples)",
+   "item_zh": "订书机（含订书钉）",
+   "spec": "1 per group; paper clips will do instead.",
+   "category": "stationery_card_print",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 59
+    }
+   ]
+  },
+  {
+   "key": "bags_zip_small",
+   "item_en": "Zip-lock bags, small (sandwich size)",
+   "item_zh": "小号自封袋（三明治袋大小）",
+   "spec": "Small resealable bags, sandwich size, that seal watertight; used for ice cubes, dough balls, spare fibre and as evidence bags.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 25
+    },
+    {
+     "year": "Y8",
+     "index": 70
+    }
+   ]
+  },
+  {
+   "key": "bags_freezer_strong",
+   "item_en": "Freezer bags, strong",
+   "item_zh": "冷冻袋（加厚）",
+   "spec": "Strong, clean freezer bags; one holds the notebook prop in the freezer, one is used to crush ice with a rolling pin.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 72
+    },
+    {
+     "year": "Y9",
+     "index": 31
+    }
+   ]
+  },
+  {
+   "key": "bags_soil_sample",
+   "item_en": "Bags for soil samples, about 1 litre (holds about 2 cups of soil)",
+   "item_zh": "土壤采样袋（约1升）",
+   "spec": "Labelled bags, each holding about 2 cups (about 500 ml) of soil with room to close the top.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 71
+    }
+   ]
+  },
+  {
+   "key": "bags_thin_plastic",
+   "item_en": "Thin plastic bags (to cover books)",
+   "item_zh": "薄塑料袋（包书用）",
+   "spec": "Thin plastic bags to cover the top books on the strength rig.",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 44
+    }
+   ]
+  },
+  {
+   "key": "bags_carrier_handles",
+   "item_en": "Small carrier bags or freezer bags with handles",
+   "item_zh": "带提手的小塑料袋或冷冻袋",
+   "spec": "Must have handles and must not leak (hold water on the strength rig).",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 45
+    }
+   ]
+  },
+  {
+   "key": "foil_aluminium",
+   "item_en": "Aluminium foil, kitchen roll",
+   "item_zh": "铝箔纸（厨房用）",
+   "spec": "Kitchen foil roll; each trough uses a piece about 20 x 10 cm folded to double thickness.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 26
+    }
+   ]
+  },
+  {
+   "key": "newspaper",
+   "item_en": "Newspaper",
+   "item_zh": "报纸",
+   "spec": "Old newspaper.",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 27
+    },
+    {
+     "year": "Y8",
+     "index": 68
+    }
+   ]
+  },
+  {
+   "key": "cotton_wool",
+   "item_en": "Cotton wool",
+   "item_zh": "棉花（脱脂棉）",
+   "spec": "Sheet form for insulation squares; loose cotton wool or a cotton ball for the mystery cup and fibre.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 28
+    }
+   ]
+  },
+  {
+   "key": "fabric_scraps",
+   "item_en": "Fabric scraps, one type, same size",
+   "item_zh": "布料碎片（同种布料、同样大小）",
+   "spec": "Plain fabric scraps, all the same type, cut to the same size (Y7 15 x 15 cm squares or 25 x 10 cm strips; Y9 hats and cloth pieces).",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 29
+    },
+    {
+     "year": "Y9",
+     "index": 48
+    }
+   ]
+  },
+  {
+   "key": "bubble_wrap",
+   "item_en": "Bubble wrap",
+   "item_zh": "气泡膜",
+   "spec": "Bubble wrap pieces (also for wrapping a box if cool boxes are short).",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 30
+    }
+   ]
+  },
+  {
+   "key": "sawdust_untreated",
+   "item_en": "Sawdust, untreated natural wood",
+   "item_zh": "未经处理的木屑",
+   "spec": "Untreated natural wood sawdust or pet-bedding wood shavings only; never MDF dust (resin glues). One small bag.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 31
+    }
+   ]
+  },
+  {
+   "key": "tissues_facial",
+   "item_en": "Paper tissues (facial tissues)",
+   "item_zh": "面巾纸",
+   "spec": "Plain facial tissues; Y7 fibre (torn into 5 mm pieces) and Y8 paper reference P3.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 32
+    },
+    {
+     "year": "Y8",
+     "index": 29
+    }
+   ]
+  },
+  {
+   "key": "shredded_paper",
+   "item_en": "Shredded paper, finely shredded",
+   "item_zh": "碎纸（细碎）",
+   "spec": "Fine shreds.",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 33
+    }
+   ]
+  },
+  {
+   "key": "kitchen_roll",
+   "item_en": "Kitchen roll (shop-bought paper towels)",
+   "item_zh": "厨房纸（卷筒）",
+   "spec": "Shop-bought kitchen roll, not the lab dispenser towels; for spills, and one sheet is Y8 paper reference P4.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 34
+    },
+    {
+     "year": "Y8",
+     "index": 30
+    },
+    {
+     "year": "Y9",
+     "index": 18
+    }
+   ]
+  },
+  {
+   "key": "paper_towels_lab_dispenser",
+   "item_en": "Paper towels, the lab's own dispenser roll",
+   "item_zh": "实验室纸巾（水槽抽取式擦手纸）",
+   "spec": "The lab's own sink-dispenser paper towels; reference P1 and Evidence 7 must both come from the same roll.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 28
+    }
+   ]
+  },
+  {
+   "key": "paper_towels_three_brands",
+   "item_en": "Paper towels, three different brands",
+   "item_zh": "纸巾（3个不同品牌，各1卷或1包）",
+   "spec": "One roll or pack of each of 3 brands; the teacher relabels them A, B and C and keeps the key.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 51
+    }
+   ]
+  },
+  {
+   "key": "napkins_canteen",
+   "item_en": "Canteen napkins",
+   "item_zh": "食堂餐巾纸",
+   "spec": "Napkins from the school canteen (Y8 paper reference P2).",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 31
+    }
+   ]
+  },
+  {
+   "key": "gloves_disposable",
+   "item_en": "Disposable gloves",
+   "item_zh": "一次性手套",
+   "spec": "Disposable gloves, boxed (latex-free nitrile suggested); for handling ice, ice and salt mixture, and soil.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 35
+    },
+    {
+     "year": "Y8",
+     "index": 65
+    },
+    {
+     "year": "Y9",
+     "index": 20
+    }
+   ]
+  },
+  {
+   "key": "cups_paper_opaque",
+   "item_en": "Paper cups, opaque",
+   "item_zh": "纸杯（不透明）",
+   "spec": "Opaque paper cups for the mystery cups; small paper cups also hold pre-portioned fibre.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 36
+    }
+   ]
+  },
+  {
+   "key": "coffee_filters_white",
+   "item_en": "White coffee filters (for chromatography strips)",
+   "item_zh": "白色咖啡滤纸（用于色谱滤纸条）",
+   "spec": "White coffee-filter paper, cut into strips 2 cm x 10 cm.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "key": "stirring_sticks",
+   "item_en": "Stirring sticks",
+   "item_zh": "搅拌棒（一次性）",
+   "spec": "Disposable stirring sticks.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 55
+    }
+   ]
+  },
+  {
+   "key": "sticks_flat_levelling",
+   "item_en": "Flat sticks for levelling spoonfuls",
+   "item_zh": "刮平用扁木棒",
+   "spec": "Any flat stick that levels a tablespoon of soil.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 58
+    }
+   ]
+  },
+  {
+   "key": "soap_bar_plain",
+   "item_en": "Plain bar soap",
+   "item_zh": "普通块状肥皂",
+   "spec": "Plain bar soap, not washing-up liquid (which is often close to neutral); 1 bar.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 33
+    }
+   ]
+  },
+  {
+   "key": "water_purified",
+   "item_en": "Bottled or purified water",
+   "item_zh": "纯净水（瓶装）",
+   "spec": "Bottled or purified, not tap (tap water can be slightly alkaline).",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 34
+    }
+   ]
+  },
+  {
+   "key": "fizzy_drink_small",
+   "item_en": "Fizzy drink, small bottles",
+   "item_zh": "碳酸饮料（小瓶装）",
+   "spec": "4 identical small bottles of the same drink; bring to room temperature; never drunk.",
+   "category": "buy_consumable",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 50
+    }
+   ]
+  },
+  {
+   "key": "ice_cubes",
+   "item_en": "Ice cubes",
+   "item_zh": "冰块",
+   "spec": "Ice cubes, fresh on the day; Y7 cubes from the same tray type filled to the same level; Y9 some crushed.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 75
+    },
+    {
+     "year": "Y9",
+     "index": 27
+    }
+   ]
+  },
+  {
+   "key": "flour_plain",
+   "item_en": "Plain flour (wheat)",
+   "item_zh": "面粉（普通小麦粉）",
+   "spec": "Plain wheat flour (check the allergy list).",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 76
+    },
+    {
+     "year": "Y8",
+     "index": 42
+    }
+   ]
+  },
+  {
+   "key": "salt_table",
+   "item_en": "Salt, table salt",
+   "item_zh": "食盐",
+   "spec": "Ordinary table salt, 1 kg bags.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 77
+    },
+    {
+     "year": "Y8",
+     "index": 38
+    },
+    {
+     "year": "Y9",
+     "index": 28
+    }
+   ]
+  },
+  {
+   "key": "sugar_white",
+   "item_en": "Sugar, white",
+   "item_zh": "白糖",
+   "spec": "White sugar.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 39
+    }
+   ]
+  },
+  {
+   "key": "baking_soda",
+   "item_en": "Baking soda (bicarbonate of soda)",
+   "item_zh": "小苏打",
+   "spec": "Baking soda (bicarbonate of soda), food grade.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 40
+    }
+   ]
+  },
+  {
+   "key": "cornflour",
+   "item_en": "Cornflour",
+   "item_zh": "玉米淀粉",
+   "spec": "Cornflour (check the allergy list for corn).",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 41
+    }
+   ]
+  },
+  {
+   "key": "food_colouring",
+   "item_en": "Food colouring",
+   "item_zh": "食用色素",
+   "spec": "Any colour, small bottle.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 32
+    },
+    {
+     "year": "Y9",
+     "index": 46
+    }
+   ]
+  },
+  {
+   "key": "red_cabbage",
+   "item_en": "Red cabbage",
+   "item_zh": "紫甘蓝",
+   "spec": "Fresh red cabbage; a quarter head makes one class's indicator.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 35
+    }
+   ]
+  },
+  {
+   "key": "lemon_juice",
+   "item_en": "Lemon juice",
+   "item_zh": "柠檬汁",
+   "spec": "Lemon juice, about 10 ml per group.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 36
+    }
+   ]
+  },
+  {
+   "key": "vinegar_white",
+   "item_en": "White vinegar",
+   "item_zh": "白醋",
+   "spec": "White (clear) vinegar.",
+   "category": "canteen_or_kitchen",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 37
+    }
+   ]
+  },
+  {
+   "key": "rice_dry",
+   "item_en": "Dry rice, uncooked",
+   "item_zh": "生大米",
+   "spec": "Uncooked rice, 1 teaspoon (mystery cup).",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 57
+    }
+   ]
+  },
+  {
+   "key": "kettle",
+   "item_en": "Electric kettle",
+   "item_zh": "电水壶",
+   "spec": "Teacher use only.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 72
+    },
+    {
+     "year": "Y8",
+     "index": 76
+    },
+    {
+     "year": "Y9",
+     "index": 34
+    }
+   ]
+  },
+  {
+   "key": "jug_plastic_2l",
+   "item_en": "Jugs, plastic, about 2 litres",
+   "item_zh": "塑料水壶（约2升）",
+   "spec": "Plastic jugs, at least 2 litres, that can take warm water up to about 60 °C (Y8 Soil groups need about 1.6 litres); the teacher needs two for warm water at different temperatures (Y7 Week 6 Plan B, Y9 Week 6 about 60 °C and about 35 °C). Only the teacher pours warm water.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 71
+    },
+    {
+     "year": "Y8",
+     "index": 59
+    },
+    {
+     "year": "Y9",
+     "index": 35
+    },
+    {
+     "year": "Y9",
+     "index": 36
+    }
+   ]
+  },
+  {
+   "key": "jug_heatproof_500ml",
+   "item_en": "Heatproof jug, at least 500 ml",
+   "item_zh": "耐热水壶（500毫升以上，可装开水）",
+   "spec": "Heatproof, at least 500 ml, for chopped cabbage in hot kettle water; teacher only.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 77
+    }
+   ]
+  },
+  {
+   "key": "teaspoons_metal",
+   "item_en": "Teaspoons, metal",
+   "item_zh": "茶匙（不锈钢）",
+   "spec": "Metal kitchen teaspoons; amounts on the kit cards are level teaspoons; Y9 claim 10 needs metal.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 73
+    },
+    {
+     "year": "Y8",
+     "index": 56
+    },
+    {
+     "year": "Y9",
+     "index": 33
+    }
+   ]
+  },
+  {
+   "key": "tablespoons",
+   "item_en": "Tablespoons, kitchen",
+   "item_zh": "汤匙",
+   "spec": "Kitchen tablespoons, levelled.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 57
+    }
+   ]
+  },
+  {
+   "key": "saucers",
+   "item_en": "Saucers, small, identical",
+   "item_zh": "小碟子（同款）",
+   "spec": "Small identical saucers (identical plastic lids will do for Y7).",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 46
+    },
+    {
+     "year": "Y8",
+     "index": 81
+    },
+    {
+     "year": "Y9",
+     "index": 45
+    }
+   ]
+  },
+  {
+   "key": "cloth_wiping",
+   "item_en": "Cloths for wiping tables",
+   "item_zh": "抹布",
+   "spec": "Damp cloths for wiping tables, about 1 per group, plus a teacher spare for spills.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 48
+    },
+    {
+     "year": "Y8",
+     "index": 66
+    },
+    {
+     "year": "Y9",
+     "index": 58
+    }
+   ]
+  },
+  {
+   "key": "towels_cloth",
+   "item_en": "Towels, cloth",
+   "item_zh": "毛巾",
+   "spec": "Cloth towels, 2 per group plus 1 for the teacher, for spills on the strength rig.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 47
+    }
+   ]
+  },
+  {
+   "key": "freezer_space",
+   "item_en": "Freezer space",
+   "item_zh": "冰柜空间",
+   "spec": "One level freezer drawer or fridge-freezer compartment, labelled 'Ice Engineers Y7: do not move' (Y7 Plan A, Weeks 5 to 8); a staff freezer compartment overnight for the Y8 notebook prop.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 74
+    },
+    {
+     "year": "Y8",
+     "index": 74
+    }
+   ]
+  },
+  {
+   "key": "fridge_space",
+   "item_en": "Fridge space",
+   "item_zh": "冰箱冷藏空间",
+   "spec": "One shelf to keep the red cabbage indicator (up to 3 days).",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 75
+    }
+   ]
+  },
+  {
+   "key": "sieve",
+   "item_en": "Sieve, kitchen",
+   "item_zh": "滤网（筛子）",
+   "spec": "Kitchen sieve to strain the indicator.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 78
+    }
+   ]
+  },
+  {
+   "key": "drinking_glass",
+   "item_en": "Drinking glass, clear",
+   "item_zh": "玻璃杯（透明）",
+   "spec": "Clear drinking glass for the optional scene display.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 80
+    }
+   ]
+  },
+  {
+   "key": "rolling_pin",
+   "item_en": "Rolling pin",
+   "item_zh": "擀面杖",
+   "spec": "For crushing ice cubes inside a clean bag.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 30
+    }
+   ]
+  },
+  {
+   "key": "vacuum_flask",
+   "item_en": "Vacuum flask",
+   "item_zh": "保温瓶",
+   "spec": "Keeps warm water at about 50 to 60 °C through the lesson.",
+   "category": "canteen_or_kitchen",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 38
+    }
+   ]
+  },
+  {
+   "key": "ice_cube_trays",
+   "item_en": "Ice-cube trays",
+   "item_zh": "冰格",
+   "spec": "Two of the same tray type.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 37
+    }
+   ]
+  },
+  {
+   "key": "cool_box",
+   "item_en": "Cool box, insulated, with lid",
+   "item_zh": "保温箱（带盖）",
+   "spec": "Insulated cool box with lid; big enough for 2 to 3 kg of ice or a group's flat tray of ice strips.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 38
+    },
+    {
+     "year": "Y9",
+     "index": 29
+    }
+   ]
+  },
+  {
+   "key": "waste_bowl",
+   "item_en": "Waste bowl",
+   "item_zh": "废料盆",
+   "spec": "Plastic bowl, 1 per group.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 41
+    }
+   ]
+  },
+  {
+   "key": "storage_box_lidded",
+   "item_en": "Storage boxes, plastic with lid",
+   "item_zh": "带盖塑料收纳箱",
+   "spec": "Lidded storage boxes big enough for 24 A4 case files or logbooks; also the Y7 mystery-cup box and Ice Engineers kit box.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 49
+    },
+    {
+     "year": "Y8",
+     "index": 18
+    }
+   ]
+  },
+  {
+   "key": "height_charts_paper",
+   "item_en": "Height charts, paper, for the wall, 130 to 190 cm",
+   "item_zh": "纸质身高表（墙贴，130至190厘米）",
+   "spec": "Wall height chart covering 130 to 190 cm.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 48
+    }
+   ]
+  },
+  {
+   "key": "small_lidded_pots",
+   "item_en": "Small lidded pots",
+   "item_zh": "带盖小样品盒",
+   "spec": "Small pots with lids, labelled.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 69
+    }
+   ]
+  },
+  {
+   "key": "polystyrene_cups",
+   "item_en": "Polystyrene cups (insulated foam cups)",
+   "item_zh": "泡沫杯（聚苯乙烯，隔热）",
+   "spec": "Insulated cup for the freezing mixture; two nested plastic cups will do instead.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 24
+    }
+   ]
+  },
+  {
+   "key": "headphones",
+   "item_en": "Headphones",
+   "item_zh": "耳机",
+   "spec": "To plug into the teacher's device; test before the lesson.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 54
+    }
+   ]
+  },
+  {
+   "key": "device_phone_tablet",
+   "item_en": "Phone, tablet or camera (teacher's own)",
+   "item_zh": "手机、平板电脑或相机（教师自备）",
+   "spec": "Teacher's own device, charged; photographs data and plays music.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 55
+    }
+   ]
+  },
+  {
+   "key": "bell_signal",
+   "item_en": "Bell, hand bell or desk bell (timing signal)",
+   "item_zh": "手摇铃或桌铃（计时提示用）",
+   "spec": "Rung at 1 min 45 s in each 2-minute talk; a phone alarm will do instead.",
+   "category": "buy_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 60
+    }
+   ]
+  },
+  {
+   "key": "stopwatch",
+   "item_en": "Stopwatch",
+   "item_zh": "秒表",
+   "spec": "Digital stopwatch.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 58
+    },
+    {
+     "year": "Y8",
+     "index": 63
+    },
+    {
+     "year": "Y9",
+     "index": 15
+    }
+   ]
+  },
+  {
+   "key": "metre_stick",
+   "item_en": "Metre stick",
+   "item_zh": "米尺（1米）",
+   "spec": "1 m stick marked in cm (Y8: a tape measure will do).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 59
+    },
+    {
+     "year": "Y8",
+     "index": 47
+    }
+   ]
+  },
+  {
+   "key": "tape_measure_2m",
+   "item_en": "Tape measure, at least 2 m",
+   "item_zh": "卷尺（2米以上）",
+   "spec": "At least 2 m long; retract slowly.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 12
+    }
+   ]
+  },
+  {
+   "key": "ruler_30cm",
+   "item_en": "Ruler, 30 cm",
+   "item_zh": "直尺 30厘米",
+   "spec": "30 cm, marked in mm, with the 0 cm mark at the very end (Y9 ruler drop).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 60
+    },
+    {
+     "year": "Y8",
+     "index": 46
+    },
+    {
+     "year": "Y9",
+     "index": 11
+    }
+   ]
+  },
+  {
+   "key": "scissors",
+   "item_en": "Scissors",
+   "item_zh": "剪刀",
+   "spec": "Student scissors.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 61
+    },
+    {
+     "year": "Y8",
+     "index": 64
+    },
+    {
+     "year": "Y9",
+     "index": 53
+    }
+   ]
+  },
+  {
+   "key": "measuring_cylinder_25ml",
+   "item_en": "Measuring cylinder, 25 ml",
+   "item_zh": "量筒 25毫升",
+   "spec": "25 ml (10 ml acceptable in Week 6; a 20 ml syringe without a needle is acceptable in Week 7).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 62
+    }
+   ]
+  },
+  {
+   "key": "measuring_cylinder_10ml",
+   "item_en": "Measuring cylinder, 10 ml",
+   "item_zh": "量筒 10毫升",
+   "spec": "10 ml, readable to the nearest 0.5 ml.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 63
+    },
+    {
+     "year": "Y9",
+     "index": 44
+    }
+   ]
+  },
+  {
+   "key": "measuring_cylinder_100ml",
+   "item_en": "Measuring cylinder, 100 ml or larger",
+   "item_zh": "量筒 100毫升（或更大）",
+   "spec": "100 ml or larger, to mark a 150 ml line on cups (a jug of 100 ml or more will do).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 64
+    }
+   ]
+  },
+  {
+   "key": "measuring_jug_100ml",
+   "item_en": "Measuring jug, 100 ml",
+   "item_zh": "量杯 100毫升",
+   "spec": "Graduated measuring jug; the teacher measures 100 ml into each cup.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 37
+    }
+   ]
+  },
+  {
+   "key": "measuring_jug_200ml",
+   "item_en": "Measuring jug, 200 ml",
+   "item_zh": "量杯 200毫升",
+   "spec": "Graduated measuring jug, at least 150 ml capacity (a 150 ml or larger measuring cylinder will do).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 60
+    },
+    {
+     "year": "Y9",
+     "index": 41
+    }
+   ]
+  },
+  {
+   "key": "thermometer",
+   "item_en": "Thermometer, spirit or digital, -10 to 110 °C",
+   "item_zh": "温度计（酒精或数显，-10至110°C）",
+   "spec": "Range -10 to 110 °C; spirit-filled (red) or digital only, never mercury; all must agree within 1 °C.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 65
+    },
+    {
+     "year": "Y9",
+     "index": 16
+    }
+   ]
+  },
+  {
+   "key": "scale_1g",
+   "item_en": "Kitchen scale, reads to 1 g",
+   "item_zh": "电子秤（精度1克）",
+   "spec": "Kitchen or top-pan electronic scale reading to 1 g (0.1 g if available).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 66
+    },
+    {
+     "year": "Y9",
+     "index": 42
+    }
+   ]
+  },
+  {
+   "key": "scale_0_1g",
+   "item_en": "Electronic balance, reads to 0.1 g",
+   "item_zh": "电子天平（精度0.1克）",
+   "spec": "0.1 g resolution; test the day before with an opened bottle.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 43
+    }
+   ]
+  },
+  {
+   "key": "trays_kit",
+   "item_en": "Trays, flat (kit trays)",
+   "item_zh": "托盘（平底）",
+   "spec": "Flat kit trays, 1 per group; must hold 9 foil troughs (or cups of water) and fit flat in the freezer drawer; one dark tray for the optional Y8 scene table.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 67
+    },
+    {
+     "year": "Y8",
+     "index": 50
+    },
+    {
+     "year": "Y9",
+     "index": 17
+    }
+   ]
+  },
+  {
+   "key": "cups_plastic_250ml",
+   "item_en": "Plastic cups, clear, identical, about 250 ml",
+   "item_zh": "透明塑料杯（同款，约250毫升）",
+   "spec": "Identical clear plastic cups that hold at least 200 ml of water (about 250 ml).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 68
+    },
+    {
+     "year": "Y9",
+     "index": 19
+    }
+   ]
+  },
+  {
+   "key": "cups_plastic_small_clear",
+   "item_en": "Plastic cups, small, clear",
+   "item_zh": "透明小塑料杯",
+   "spec": "Small clear plastic cups (or small beakers) so colour and cloudiness can be seen.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 51
+    }
+   ]
+  },
+  {
+   "key": "bucket",
+   "item_en": "Bucket, plastic",
+   "item_zh": "塑料水桶",
+   "spec": "Plastic bucket; Y7 Week 8 catch trays need 13 deep enough for a hanging bag to clear the bottom by about 5 cm (borrow, or deep washing-up bowls); Y8 and Y9 need 1 for soil or ice-and-salt waste.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 40
+    },
+    {
+     "year": "Y8",
+     "index": 67
+    },
+    {
+     "year": "Y9",
+     "index": 32
+    }
+   ]
+  },
+  {
+   "key": "mop_and_bucket",
+   "item_en": "Mop and bucket",
+   "item_zh": "拖把和拖把桶",
+   "spec": "Mop and mop bucket near the door.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 69
+    }
+   ]
+  },
+  {
+   "key": "drying_shelf",
+   "item_en": "Drying shelf space for dough strips",
+   "item_zh": "晾干架（晾面团条用）",
+   "spec": "Dry shelf away from sinks and very hot radiators, room for two shallow trays.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 70
+    }
+   ]
+  },
+  {
+   "key": "iodine_solution",
+   "item_en": "Iodine solution, dropper bottles",
+   "item_zh": "碘液（滴瓶装）",
+   "spec": "Orange-brown iodine solution for the starch test, in dropper bottles (optional); teacher or Safety Officer only, goggles, stains skin and clothes.",
+   "category": "prep_room_equipment",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 43
+    }
+   ]
+  },
+  {
+   "key": "goggles_safety",
+   "item_en": "Safety goggles",
+   "item_zh": "护目镜",
+   "spec": "Safety goggles, 1 per student.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 44
+    },
+    {
+     "year": "Y9",
+     "index": 21
+    }
+   ]
+  },
+  {
+   "key": "magnifying_glass",
+   "item_en": "Magnifying glasses, hand-held",
+   "item_zh": "放大镜（手持）",
+   "spec": "Hand magnifiers.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 45
+    }
+   ]
+  },
+  {
+   "key": "droppers_plastic",
+   "item_en": "Droppers (plastic pipettes)",
+   "item_zh": "塑料滴管",
+   "spec": "Plastic pipettes.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 52
+    }
+   ]
+  },
+  {
+   "key": "spotting_tile_12",
+   "item_en": "Spotting tiles, white, 12 wells",
+   "item_zh": "白色点滴板（12孔）",
+   "spec": "White, 12 wells (or 12 white plastic bottle lids per tile).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 53
+    }
+   ]
+  },
+  {
+   "key": "spoons_small_powder",
+   "item_en": "Small spoons or lolly sticks (one per powder)",
+   "item_zh": "药匙（小号）或冰棒棍",
+   "spec": "One per sample so powders are never mixed (lolly sticks are single use).",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 54
+    }
+   ]
+  },
+  {
+   "key": "bottle_small_60ml",
+   "item_en": "Small bottle, about 60 ml (for vinegar)",
+   "item_zh": "小瓶（约60毫升，装白醋）",
+   "spec": "Small bottle that holds about 60 ml of white vinegar; label it.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 61
+    }
+   ]
+  },
+  {
+   "key": "test_tubes_small",
+   "item_en": "Test tubes, small, plastic if possible",
+   "item_zh": "小试管（尽量用塑料）",
+   "spec": "Small tubes, each marked with a line at 3 ml and labelled; plastic if possible.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 22
+    }
+   ]
+  },
+  {
+   "key": "test_tube_rack",
+   "item_en": "Test-tube rack",
+   "item_zh": "试管架",
+   "spec": "An empty cup will do instead.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 23
+    }
+   ]
+  },
+  {
+   "key": "syringe_10ml",
+   "item_en": "Plastic syringe, 10 ml, no needle",
+   "item_zh": "塑料注射器 10毫升（无针头）",
+   "spec": "10 ml plastic syringe without a needle; a small measuring cylinder will do instead.",
+   "category": "prep_room_equipment",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 25
+    }
+   ]
+  },
+  {
+   "key": "box_lidded_card",
+   "item_en": "Box with a lid (to wrap in bubble wrap)",
+   "item_zh": "带盖纸箱（外包气泡膜）",
+   "spec": "Must hold a group's flat tray of ice strips, with its lid; only if cool boxes are short.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 39
+    }
+   ]
+  },
+  {
+   "key": "textbooks_stacks",
+   "item_en": "Textbooks for book stacks",
+   "item_zh": "课本（叠成书堆用）",
+   "spec": "Equal-height stacks; students' own books are fine.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 42
+    }
+   ]
+  },
+  {
+   "key": "hardback_book",
+   "item_en": "Hardback books, flat cover, about A4",
+   "item_zh": "精装书（硬封面，约A4）",
+   "spec": "Any hardback with a flat cover; the Y7 demo book needs a cover larger than an A4 sheet.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 43
+    },
+    {
+     "year": "Y8",
+     "index": 49
+    },
+    {
+     "year": "Y9",
+     "index": 14
+    }
+   ]
+  },
+  {
+   "key": "marbles",
+   "item_en": "Marbles",
+   "item_zh": "玻璃弹珠",
+   "spec": "3 marbles for the mystery cups.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 50
+    }
+   ]
+  },
+  {
+   "key": "coin",
+   "item_en": "Coin",
+   "item_zh": "硬币",
+   "spec": "1 coin for a mystery cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 51
+    }
+   ]
+  },
+  {
+   "key": "eraser",
+   "item_en": "Eraser",
+   "item_zh": "橡皮",
+   "spec": "1 eraser for a mystery cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 52
+    }
+   ]
+  },
+  {
+   "key": "dice",
+   "item_en": "Dice",
+   "item_zh": "骰子",
+   "spec": "1 die for a mystery cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 53
+    }
+   ]
+  },
+  {
+   "key": "bell_small",
+   "item_en": "Small bell (mystery cup object)",
+   "item_zh": "小铃铛",
+   "spec": "Small enough to seal inside a paper cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 54
+    }
+   ]
+  },
+  {
+   "key": "bottle_cap",
+   "item_en": "Bottle cap",
+   "item_zh": "瓶盖",
+   "spec": "1 bottle cap for a mystery cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 55
+    }
+   ]
+  },
+  {
+   "key": "wooden_block_small",
+   "item_en": "Small wooden block (mystery cup object)",
+   "item_zh": "小木块",
+   "spec": "Small enough to seal inside a paper cup.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 56
+    }
+   ]
+  },
+  {
+   "key": "wood_block_trough_template",
+   "item_en": "Wood offcut for the trough template block, 12 x 2 cm",
+   "item_zh": "铝箔槽模具木块（12×2厘米）",
+   "spec": "Wood offcut 12 cm long x 2 cm wide used as the template block for folding every foil trough (or a stack of rulers taped together); keep for next year.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 78
+    },
+    {
+     "year": "Y7",
+     "index": 87
+    }
+   ]
+  },
+  {
+   "key": "bottles_plastic_500ml",
+   "item_en": "Plastic bottles, 500 ml, identical, clean",
+   "item_zh": "塑料瓶（500毫升，同款，洗净）",
+   "spec": "Identical 500 ml plastic bottles, rinsed clean; one holds the Y8 cabbage indicator, labelled 'do not drink'.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 79
+    },
+    {
+     "year": "Y9",
+     "index": 49
+    }
+   ]
+  },
+  {
+   "key": "bottles_clear_300ml_screw",
+   "item_en": "Clear plastic bottles or jars with screw lids, about 300 ml",
+   "item_zh": "透明塑料瓶或罐（带螺旋盖，约300毫升）",
+   "spec": "About 300 ml, clear plastic, all identical, screw lids; no glass.",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 62
+    }
+   ]
+  },
+  {
+   "key": "notebook_prop",
+   "item_en": "Old notebook (prop)",
+   "item_zh": "旧笔记本（道具）",
+   "spec": "An old notebook, ideally blue (optional).",
+   "category": "collect_recycle",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 73
+    }
+   ]
+  },
+  {
+   "key": "soil_campus_samples",
+   "item_en": "Campus soil samples (references A to D)",
+   "item_zh": "校园土壤样本（参照A至D）",
+   "spec": "About 2 cups each from A flowerbed by the science block entrance, B sports field edge, C sandpit, D tree bed by the main gate.",
+   "category": "collect_recycle",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 95
+    }
+   ]
+  },
+  {
+   "key": "tm_mystery_cups",
+   "item_en": "Mystery cups (12, labelled A to L)",
+   "item_zh": "神秘杯子（12个，A至L）",
+   "spec": "One object in an opaque paper cup, second cup upside down on top, taped all round with masking tape, letter underneath; key kept on the teacher desk.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 79
+    }
+   ]
+  },
+  {
+   "key": "tm_demo_spinners",
+   "item_en": "Demo paper spinners (S and L)",
+   "item_zh": "演示用纸直升机（S号和L号）",
+   "spec": "S (4 cm wings) and L (8 cm wings), made from the spinner template card with one paper clip each.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 80
+    }
+   ]
+  },
+  {
+   "key": "tm_wall_drop_marks",
+   "item_en": "Wall drop marks (2.0 m and 1.8 m)",
+   "item_zh": "墙面下落标记（2.0米和1.8米）",
+   "spec": "Masking tape at exactly 2.0 m plus a second mark at 1.8 m, away from windows, fans and air-conditioning vents.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 81
+    }
+   ]
+  },
+  {
+   "key": "tm_insulation_sets",
+   "item_en": "Pre-cut insulation material sets",
+   "item_zh": "预裁隔热材料套装",
+   "spec": "Set A: foil, newspaper, cotton wool sheet; Set B: fabric, bubble wrap, newspaper. Plan A 15 x 15 cm squares; Plan B 25 x 10 cm jacket strip + 10 x 10 cm lid square with a 1 cm slit.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 82
+    }
+   ]
+  },
+  {
+   "key": "tm_bagged_ice_cubes",
+   "item_en": "Bagged ice cubes",
+   "item_zh": "袋装冰块",
+   "spec": "Each cube in its own zip-lock bag, air squeezed out, sealed.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 83
+    }
+   ]
+  },
+  {
+   "key": "tm_cups_150ml_line",
+   "item_en": "Cups marked with a 150 ml line",
+   "item_zh": "标有150毫升刻线的杯子",
+   "spec": "Identical plastic cups about 250 ml, line marked with a measuring cylinder and marker, labelled A to D.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 84
+    }
+   ]
+  },
+  {
+   "key": "tm_warm_water",
+   "item_en": "Warm water, about 50 to 60 °C (teacher-prepared)",
+   "item_zh": "温水（约50至60°C，教师配制）",
+   "spec": "Kettle water mixed with cold tap water and checked with a thermometer: about 50 °C, never above 55 °C for Y7; Y9 up to about 60 °C, never hotter. Only the teacher prepares and pours it.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 85
+    },
+    {
+     "year": "Y9",
+     "index": 39
+    }
+   ]
+  },
+  {
+   "key": "tm_water_35c",
+   "item_en": "Water at about 35 °C (teacher-prepared)",
+   "item_zh": "约35°C温水（教师配制）",
+   "spec": "Mixed just before the lesson and checked with a thermometer.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 40
+    }
+   ]
+  },
+  {
+   "key": "tm_foil_troughs",
+   "item_en": "Foil troughs",
+   "item_zh": "铝箔槽",
+   "spec": "12 cm x 2 cm inside, sides about 1.5 cm high, 3 cm flat tab at one end; folded round the template block from double-thickness foil.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 86
+    }
+   ]
+  },
+  {
+   "key": "tm_fibre_packets",
+   "item_en": "Pre-portioned fibre packets",
+   "item_zh": "预分装纤维包",
+   "spec": "Labelled to match each group's plan, e.g. 'Sawdust 0.6 g'; fibre type 0.6 g per strip; sawdust 0.3, 0.6 or 0.9 g per strip.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 88
+    }
+   ]
+  },
+  {
+   "key": "tm_salt_dough_balls",
+   "item_en": "Salt dough balls, 18 g, bagged",
+   "item_zh": "盐面团球（18克，袋装）",
+   "spec": "Plain salt dough (2 cups flour, 1 cup salt, about 1 cup water per batch), each ball weighed to 18 g and sealed in a small zip-lock bag; never eaten.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 89
+    }
+   ]
+  },
+  {
+   "key": "tm_plain_trial_strips",
+   "item_en": "Plain trial strips",
+   "item_zh": "普通试验样品条",
+   "spec": "5 mm plain strips: 12 ml water frozen (Plan A) or 18 g dough dried a week (Plan B), in the class foil troughs.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 90
+    }
+   ]
+  },
+  {
+   "key": "tm_hanger_strings",
+   "item_en": "Hanger strings, pre-tied",
+   "item_zh": "预先系好的挂绳（绳圈）",
+   "spec": "Loop about 20 cm round to slip over the strip, tail long enough that the bag hangs about 5 cm above the bucket bottom.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 91
+    }
+   ]
+  },
+  {
+   "key": "tm_pour_cups_25ml",
+   "item_en": "Pour cups marked at 25 ml",
+   "item_zh": "标有25毫升刻线的倒水杯",
+   "spec": "Plastic cup with a 25 ml line marked using a measuring cylinder.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y7",
+     "index": 92
+    }
+   ]
+  },
+  {
+   "key": "tm_display_note",
+   "item_en": "Display note (the note prop)",
+   "item_zh": "展示纸条（纸条道具）",
+   "spec": "Exact note text handwritten with pen B on plain white card, with a small snowflake doodle after 'Sorry'.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 82
+    }
+   ]
+  },
+  {
+   "key": "tm_pen_pretest_strips",
+   "item_en": "Pen pre-test strips (answer key)",
+   "item_zh": "A号笔到D号笔预测试滤纸条（答案）",
+   "spec": "Dried chromatograms of each pen on coffee-filter strips 2 cm x 10 cm.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 83
+    }
+   ]
+  },
+  {
+   "key": "tm_note_ink_strips_n",
+   "item_en": "Note ink strips 'N'",
+   "item_zh": "纸条墨水N滤纸条",
+   "spec": "Coffee-filter strip 2 cm x 10 cm, pencil line 2 cm from the bottom, 'N' in pencil at the top, pen B dotted on the line three times.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 84
+    }
+   ]
+  },
+  {
+   "key": "tm_scene_table",
+   "item_en": "Scene table (optional Week 1 display)",
+   "item_zh": "案发现场展示桌（第1周，可选）",
+   "spec": "A glass, the pen-B note, a teaspoon of baking soda on a dark tray, a saucer of scene liquid, a 24 cm paper footprint, and an A5 sign 'Evidence: do not touch'.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 85
+    }
+   ]
+  },
+  {
+   "key": "tm_known_powder_sets",
+   "item_en": "Known powder sets",
+   "item_zh": "已知粉末套装",
+   "spec": "5 labelled pots per group: salt, sugar, baking soda, cornflour, flour, about 2 teaspoons each.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 86
+    }
+   ]
+  },
+  {
+   "key": "tm_evidence3_powder",
+   "item_en": "Evidence 3: scene powder",
+   "item_zh": "证据3：现场白色粉末",
+   "spec": "Baking soda, labelled 'Evidence 3: white powder, floor by desk (F4)'.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 87
+    }
+   ]
+  },
+  {
+   "key": "tm_red_cabbage_indicator",
+   "item_en": "Red cabbage indicator",
+   "item_zh": "紫甘蓝指示剂",
+   "spec": "Quarter red cabbage chopped, about 500 ml hot water from the kettle, left 15 minutes until deep purple, strained, cooled; labelled 'do not drink'.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 88
+    }
+   ]
+  },
+  {
+   "key": "tm_soap_solution",
+   "item_en": "Soap solution",
+   "item_zh": "肥皂水",
+   "spec": "About 1 teaspoon grated plain bar soap in 200 ml warm water, stirred until cloudy.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 89
+    }
+   ]
+  },
+  {
+   "key": "tm_baking_soda_solution",
+   "item_en": "Baking soda solution",
+   "item_zh": "小苏打溶液",
+   "spec": "Baking soda dissolved in water (strength not given in the files).",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 90
+    }
+   ]
+  },
+  {
+   "key": "tm_evidence4_liquid",
+   "item_en": "Evidence 4: scene liquid",
+   "item_zh": "证据4：现场液体",
+   "spec": "Equal amounts of soap solution and baking soda solution; labelled 'Evidence 4: liquid, floor by sink (I2)'.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 91
+    }
+   ]
+  },
+  {
+   "key": "tm_height_stations",
+   "item_en": "Height measuring stations",
+   "item_zh": "身高测量站",
+   "spec": "Paper height chart (130 to 190 cm) taped to the wall, or an upright metre stick with masking tape marked every cm from 100 to 200 cm; station sign beside it.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 92
+    }
+   ]
+  },
+  {
+   "key": "tm_evidence6_soil",
+   "item_en": "Evidence 6: scene soil",
+   "item_zh": "证据6：现场土壤",
+   "spec": "Soil from the flowerbed by the science block entrance (same flowerbed as reference A, taken at the same time).",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 93
+    }
+   ]
+  },
+  {
+   "key": "tm_evidence7_paper_towel",
+   "item_en": "Evidence 7: scene paper towel",
+   "item_zh": "证据7：现场纸巾",
+   "spec": "A sheet from the lab's own paper towel roll (same roll as P1), small pencil arrow along the roll direction, crumpled, then smoothed flat for Week 8.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 94
+    }
+   ]
+  },
+  {
+   "key": "tm_paper_reference_sets",
+   "item_en": "Paper reference sample sets (P1 to P4)",
+   "item_zh": "纸巾参照样本套装（P1至P4）",
+   "spec": "P1 lab paper towel, P2 canteen napkin, P3 tissue, P4 shop kitchen roll; each enough for 3 strips 2 cm x 12 cm, pencil arrow for the cutting direction.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 96
+    }
+   ]
+  },
+  {
+   "key": "tm_coloured_water",
+   "item_en": "Coloured water (Paper option)",
+   "item_zh": "有色水（纸巾检测用）",
+   "spec": "Water with 1 drop of food colouring per 100 ml.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 97
+    }
+   ]
+  },
+  {
+   "key": "tm_powder2_mixtures",
+   "item_en": "Powder 2 mixtures K1, K2 and X",
+   "item_zh": "粉末2混合物（已知混合物K1、K2和神秘混合物X）",
+   "spec": "Equal level teaspoons shaken in a lidded pot: K1 baking soda + cornflour; K2 salt + flour; X baking soda + salt (label only 'Mystery mixture X').",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 98
+    }
+   ]
+  },
+  {
+   "key": "tm_frozen_notebook",
+   "item_en": "Frozen notebook prop (optional)",
+   "item_zh": "冷冻笔记本道具（可选）",
+   "spec": "Old notebook sealed in a freezer bag, frozen overnight.",
+   "category": "teacher_made",
+   "reusable": true,
+   "members": [
+    {
+     "year": "Y8",
+     "index": 99
+    }
+   ]
+  },
+  {
+   "key": "tm_freezing_mixture",
+   "item_en": "Freezing mixture (ice and salt)",
+   "item_zh": "冰盐冷冻混合物（教师配制）",
+   "spec": "About 300 g crushed ice and 100 g salt per cup (3:1 by mass) with a splash of cold water; check it is below about -10 °C; gloves and goggles.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 26
+    }
+   ]
+  },
+  {
+   "key": "tm_prize_strip",
+   "item_en": "PRIZE strip (teacher-made)",
+   "item_zh": "奖励纸条（教师自制）",
+   "spec": "About 15 x 3 cm, cut from A4 card, with 'PRIZE: first choice of role next week' written on it.",
+   "category": "teacher_made",
+   "reusable": false,
+   "members": [
+    {
+     "year": "Y9",
+     "index": 63
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "Coverage check (re-run): kit_lists.json has 257 year items (Y7 93, Y8 100, Y9 64). They map to 181 canonical items. Every item appears exactly once: none are missing, none are duplicated, no index is out of range and no key is used twice. The check and fix script is /tmp/claude-0/-home-user-lessons/87be5608-de6d-534e-a05e-9cde454705aa/scratchpad/canon_check/fix.py. Its output is /tmp/claude-0/-home-user-lessons/87be5608-de6d-534e-a05e-9cde454705aa/scratchpad/canon_check/canonical_fixed.json.",
+  "Review result: membership is unchanged. No merge was undone and no new merge was needed. Doubtful merges were checked against the year lists' uses notes. The Y8 water jugs need up to about 1.6 litres in Week 8, so they belong on the 2-litre line. The Y9 assumptions say cups that hold at least 250 ml are safer, so the 250 ml cup line is right. The Y8 envelope hides six A5 cards, so it belongs on C5. The Y7 marker pen labels cups and writes on the laminated board, so it belongs on the permanent-marker line. Y8 'Metre sticks or tape measures' fits the metre stick.",
+  "Chinese names corrected. Name cards: 名牌 changed to 姓名卡, because 名牌 also means a brand name. Thin black felt-tips: 签字笔 (gel or signing pen) changed to 黑色马克笔（细头）, to match the thick-tip line. Washable four-brand pens: changed to 黑色可水洗水彩笔（水性墨水）, the usual catalogue name for washable felt-tips. Soft pencils: changed to 2B至4B铅笔（软芯）. Mini whiteboards: changed to 小白板（学生用）. Polystyrene cups: 聚苯乙烯保温杯 changed to 泡沫杯（聚苯乙烯，隔热）, because 保温杯 reads as a vacuum mug. Heatproof jug: 可装开水 added, so 水壶 is not read as a kettle. Signal bell: changed to 手摇铃或桌铃.",
+  "Chinese names aligned with Glossary_Y7_Y8.md. Height chart: 身高表 (纸质身高表（墙贴…）). Drying shelf: 晾干架. Book stacks: 书堆 (课本（叠成书堆用）; the old 叠书架 read as a bookshelf). Pens A to D: A号笔到D号笔 (pre-test strips). Known mixture K1/K2 and Mystery mixture X: 已知混合物K1、K2和神秘混合物X. White powder: 白色粉末 (Evidence 3). Other glossary terms already used are unchanged: 纸直升机, 科学日志, 我的科学词典, 想法停车场, 木屑, 厨房纸, 实验室纸巾, 食堂餐巾纸, 面巾纸, 纸巾, 废料盆, 冰格, 托盘, 滴管, 点滴板, 放大镜, 护目镜, 冷冻袋, 冰柜, 拖把/拖把桶, 身高测量站, 铝箔槽, 倒水杯, 神秘杯子, 小苏打, 食盐, 白糖, 玉米淀粉, 面粉, 白醋, 纯净水, 碘液, 紫甘蓝指示剂, 水壶, 茶匙, 汤匙, 秒表, 量筒, 温度计. The glossary marks its Chinese as a draft that needs a native-speaker check.",
+  "English and spec corrections. The warm-water line merges Y7 (about 50 °C) and Y9 (up to about 60 °C); its name read 'about 50 °C' and now reads 'about 50 to 60 °C', in English and in Chinese. The 2-litre jug spec now says the jugs must take warm water up to about 60 °C, that only the teacher pours, and which years need two jugs. The C6 spec now says that Y9's 2 A4 envelopes for Week 10 come from the C4 line. The soil bag line gives both sizes: about 1 litre, holding about 2 cups (500 ml) of soil. Item names are clearer for: height charts, polystyrene cups, signal bell, drying shelf, running order poster (Year 9, Week 10), tablespoons and sieve (kitchen).",
+  "Envelopes: Y9 'Envelopes' (index 1) mixes two sizes: 24 for card sets up to A6 and 2 for A4 papers in Week 10. It is mapped to the C6 line, and the 2 A4 envelopes come from the reusable C4 line (Y7 index 5). Y7 'Envelopes, small, for card sets' is merged into C6, because both hold small card sets and a C6 fits both. The Y7 A5 envelopes and the Y8 envelope that hides six A5 cards are merged as C5.",
+  "One same-year merge: Y7 'Wood offcut for the trough template block' (78) and 'Trough template block' (87). They are the same 12 x 2 cm block with the same uses, so it is bought or collected once.",
+  "Size merges and splits. Merged: the Y7 cups (about 250 ml) and the Y9 cups (about 200 ml) form one 250 ml line. The Y8 jugs and both Y9 jugs (large, and second for 35 °C) are merged into the 2-litre jug line. The Y8 measuring jugs or cylinders (150 ml or more) are merged with the Y9 200 ml measuring jug. Kept separate: the Y8 small clear cups, the Y9 100 ml measuring jug, the Y7 100 ml measuring cylinder (a different type), the Y8 heatproof jug and the Y9 tape measure (at least 2 m).",
+  "Paper towels are three lines on purpose. (1) Shop-bought kitchen roll covers spills and is Y8 reference P4. (2) The lab's own dispenser roll must supply both P1 and Evidence 7. (3) Three brands are needed for Y9 claim 11.",
+  "Other merges: Y7 'Marker pen' with the Y8 permanent markers. Y8 'Blu Tack or glue sticks' into glue sticks. The Y8 freezer bag with the Y9 strong bag for crushing ice. The Y7 lids or saucers with the Y8 and Y9 saucers. The Y7 storage boxes with the Y8 class storage box. The Y7 fabric scraps with the Y9 same-size fabric pieces. The Y8 small zip bags with the Y7 sandwich bags. Y9 'Sticky tape' with the Y8 clear tape.",
+  "Kept apart on purpose. The Y9 whiteboard marker (teacher's board pen) and the fine dry-wipe pens: the Y9 list itself lists them separately. The Y7 small bell (a mystery-cup object) and the Y9 signal bell. The Y8 small spoons or lolly sticks, stirring sticks and levelling sticks: the Y8 list keeps them apart from each other and from the teaspoons. The Y8 four-brand washable pens and the Y7 felt-tips. The Y7 cool box and the Y7 box with a lid. Teacher-made items stay separate from their ingredients (string and hanger strings, paper cups and mystery cups, cups and marked cups), following the year lists' convention.",
+  "Where the year lists disagreed on category or reusable, this is what was chosen. Paper clips and rubber bands: stationery_card_print, not reusable. Disposable gloves: buy_consumable. Wiping cloths: prep_room_equipment. Buckets: prep_room_equipment (Y7 Week 8 needs 13, so borrow them). Storage boxes: buy_equipment. Saucers and 2-litre jugs: canteen_or_kitchen. C5 envelopes: reusable. The template block: collect_recycle. Every other line keeps the year lists' choice.",
+  "These were added to the specs and are not in the year lists: 'latex-free nitrile suggested' for gloves, 80 gsm for plain A3 and A4 paper, the C4, C5 and C6 envelope sizes, 'fine tip' for the dry-wipe pens, about 1 litre for the soil bags, and 'takes warm water up to about 60 °C' for the plastic jugs. Change them if the school's standard stock differs."
+ ]
+}
