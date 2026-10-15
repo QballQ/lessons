@@ -243,7 +243,7 @@ Tick one 勾选一个: ☐ our group's data 我们小组的数据 ☐ sample dat
 - Plot each point with a small cross ( x ). 用小叉号（x）描出每个点。
 - Draw a line of best fit with a ruler. 用尺子画最佳拟合线。
 
-(Picture cue in the margin beside task B: the Slide 7 pair as a thumbnail, a dot-to-dot zigzag marked with a cross and one straight ruled line marked with a tick.)
+(Picture cue in the margin beside task B: the Slide 7 pair as a thumbnail, a dot-to-dot zigzag marked with a cross and one straight ruled line marked with a tick, captioned "Dot to dot 连点" and "Line of best fit 最佳拟合线".)
 
 **Graph grid specification (for the designer):**
 - Grid area 10 cm wide x 12 cm tall, printed in light grey: major lines every 1 cm (slightly darker), minor lines every 2 mm.
@@ -284,7 +284,7 @@ Leo tests how the type of material (paper, card, foil) changes the fall time of 
 Which graph should he draw? 他应该画哪种图表？ ☐ bar chart 条形图 ☐ line graph 折线图
 Because ______________________________. 因为______________________________。
 Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
-(Picture cues: a small bar chart icon beside the first box and a small line graph icon beside the second; a small drawing of a paper sheet, a card sheet and a foil sheet beside Leo's sentence.)
+(Picture cues: a small bar chart icon beside the first box and a small line graph icon beside the second; a small drawing of a paper sheet, a card sheet and a foil sheet beside Leo's sentence, labelled "paper 纸", "card 卡纸" and "foil 铝箔".)
 
 ---
 
@@ -344,13 +344,13 @@ Create a half-A4 kit card for Year 7 Week 5 using the Think Like a Scientist kit
 - Check group envelopes; make a note of groups who will need the sample data card (5 min).
 - Prepare a seat at the back for the incoming teacher, with a copy of this lesson plan and the checkpoint.
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Carry rulers and pencils safely; do not wave them near faces.
   安全拿取尺子和铅笔，不要在别人脸旁挥动。
 
-**Clean-up**
+**Clean-up 收拾整理**
 - Collect checkpoint papers first, counted against the register. 先收齐阶段检测试卷，按点名册清点。
 - Collect worksheets (graphs) and exit tickets. Spinners and envelopes can now be recycled, but keep two sets of S, M and L spinners as a demo for the incoming teacher. 收齐工作纸（图表）和离场小测。纸直升机和信封现在可以回收，但要留下两套S、M、L纸直升机，给接任的老师做示范。
 
@@ -364,9 +364,9 @@ Create four A5 landscape cards for Year 7 Week 5, "Bar or line? | 条形图还�
 
 | Card | Picture | Text |
 |---|---|---|
-| A | Three cups of warm water, each wearing a different hat (wool, cotton, paper) | **A.** Mia tests which type of hat keeps a cup of water warmest: wool, cotton or paper. Mia测试哪种帽子能让一杯水保持最暖：羊毛、棉布还是纸。 I change: type of hat. 我改变：帽子的种类。 I measure: temperature after 10 minutes (°C). 我测量：10分钟后的温度（°C）。 |
+| A | Three cups of warm water, each wearing a different hat (wool, cotton, paper); hats labelled "wool 羊毛", "cotton 棉布" and "paper 纸" | **A.** Mia tests which type of hat keeps a cup of water warmest: wool, cotton or paper. Mia测试哪种帽子能让一杯水保持最暖：羊毛、棉布还是纸。 I change: type of hat. 我改变：帽子的种类。 I measure: temperature after 10 minutes (°C). 我测量：10分钟后的温度（°C）。 |
 | B | A melting ice cube on a saucer with a clock face beside it | **B.** Sam measures the mass of an ice cube every 5 minutes as it melts. Sam每5分钟测量一次正在熔化的冰块的质量。 I change: time (minutes). 我改变：时间（分钟）。 I measure: mass of ice (g). 我测量：冰的质量（克）。 |
-| C | Four ice cubes wrapped in newspaper, foil, bubble wrap and cotton wool | **C.** Yan wraps ice cubes in four different materials and times how long each takes to melt. Yan用四种不同的材料包住冰块，计时每块冰熔化需要多久。 I change: type of material. 我改变：材料的种类。 I measure: melting time (minutes). 我测量：熔化时间（分钟）。 |
+| C | Four ice cubes wrapped in newspaper, foil, bubble wrap and cotton wool; labelled "newspaper 报纸", "foil 铝箔", "bubble wrap 气泡膜" and "cotton wool 棉花" | **C.** Yan wraps ice cubes in four different materials and times how long each takes to melt. Yan用四种不同的材料包住冰块，计时每块冰熔化需要多久。 I change: type of material. 我改变：材料的种类。 I measure: melting time (minutes). 我测量：熔化时间（分钟）。 |
 | D | Ice cubes with spoonfuls of salt (0, 1, 2, 3 g) | **D.** Ming adds 0 g, 1 g, 2 g and 3 g of salt to ice cubes and times how long they take to melt. Ming往冰块上分别加0克、1克、2克和3克盐，计时冰块熔化需要多久。 I change: mass of salt (g). 我改变：盐的质量（克）。 I measure: melting time (minutes). 我测量：熔化时间（分钟）。 |
 
 Footer on each card: "Words or groups: bar chart 条形图. Numbers: line graph 折线图. 文字或类别：条形图。数值：折线图。"
@@ -377,7 +377,7 @@ Create a voting card sheet for Year 7 Week 5 using the Think Like a Scientist de
 
 ### 6c. Hook graphs (for Slide 4)
 
-Create two matching graphs for Slide 4 of Year 7 Week 5, using the Think Like a Scientist design system, Ice Engineers series, labelled "Sample data | 示例数据". Both use the same axes: x-axis "Wing length (cm) 翼长（厘米）" with values 4, 6 and 8; y-axis "Mean fall time (s) 平均下落时间（秒）" from 0 to 2.5 in steps of 0.5. Data: 4 cm, 1.31 s; 6 cm, 1.68 s; 8 cm, 2.08 s. Graph 1 (left): a bar chart with three equal-width bars, gaps between them, labelled 4, 6 and 8 under each bar. Graph 2 (right): a line graph with an evenly scaled x-axis from 0 to 10, three small crosses at the data points and a straight line of best fit from 4 to 8 cm. Greyscale-safe: bars in mid-grey, crosses and line in black.
+Create two matching graphs for Slide 4 of Year 7 Week 5, using the Think Like a Scientist design system, Ice Engineers series, labelled "Sample data | 示例数据". Both use the same axes: x-axis "Wing length (cm) 翼长（厘米）" with values 4, 6 and 8; y-axis "Mean fall time (s) 平均下落时间（秒）" from 0 to 2.5 in steps of 0.5. Data: 4 cm, 1.31 s; 6 cm, 1.68 s; 8 cm, 2.08 s. Graph 1 (left): a bar chart with three equal-width bars, gaps between them, labelled 4, 6 and 8 under each bar. Graph 2 (right): a line graph with an evenly scaled x-axis from 0 to 10, three small crosses at the data points and a straight line of best fit from 4 to 8 cm. Greyscale-safe: bars in mid-grey, crosses and line in black. Captions under the graphs: "Bar chart 条形图" (Graph 1) and "Line graph 折线图" (Graph 2).
 
 ---
 
