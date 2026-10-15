@@ -72,7 +72,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 9, What does it mean?, using the Think Like a Scientist design system, Ice Engineers series. One deck serves both Plan A (ice strips) and Plan B (dough strips): use the word "sample" on slides, and show both small icons (an ice strip and a dough strip) where a sample is drawn. Slides 3 to 7 use the Plan A sample class data; Plan B classes use the Plan B numbers given in brackets in the speaker notes, so make a Plan B version of Slides 3, 5 and 6 with those numbers.
+Create a 16:9 slide deck for Year 7 Week 9, What does it mean?, using the Think Like a Scientist design system, Ice Engineers series. One deck serves both Plan A (ice strips) and Plan B (dough strips): use the word "sample" on slides, and show both small icons (an ice strip and a dough strip) where a sample is drawn. If the icons carry captions, use "ice strip 冰条" and "dough strip 面团条". Slides 3 to 7 use the Plan A sample class data; Plan B classes use the Plan B numbers given in brackets in the speaker notes, so make a Plan B version of Slides 3, 5 and 6 with those numbers.
 
 ```
 Slide 1 | Phase tag: Do Now 课前任务
@@ -83,7 +83,7 @@ Mean = total ÷ number of values. 平均值＝总和÷数据个数。
 Leave out anomalies (with a reason). 去掉异常值（说明理由）。
 Check against the class table. 对照全班数据表检查。
 Vocabulary panel: mean | 平均值; anomaly | 异常值; class mean | 全班平均值
-Visual: The Week 8 results table with the Mean column highlighted. Beside it, a thumbnail of the class results table, copied from the photo of the class project board.
+Visual: The Week 8 results table with the Mean 平均值 column highlighted. Beside it, a thumbnail of the class results table, copied from the photo of the class project board. Captions under the two tables: "Our results 我们的结果" and "Class table 全班数据表".
 Speaker notes: Students start as they arrive with their group folders. Read the English; a student reads the Chinese line. Remind them to divide by 2 if they left out an anomaly. If a group's numbers differ from the class table, check their working together. Groups with no usable data get the sample class data card now.
 ```
 
@@ -119,14 +119,14 @@ Title: Pool the data / 汇总数据
 On-slide text: For each sample type: list every group's mean. Add them. Divide by the number of groups. That is the class mean.
 Key idea 核心概念: 全班平均值＝各组平均值相加，再除以组数。
 Vocabulary panel: pool (data) | 汇总（数据）; class mean | 全班平均值; mean | 平均值
-Visual: A pooling sheet row: "Sawdust 0.6 g 木屑0.6 g | Snow Owls 450 | Polar Bears 458 | 2 groups 2组 | class mean 全班平均值 = 908 ÷ 2 = 454 ml", with arrows showing add, then divide.
+Visual: A pooling sheet row: "Sawdust 0.6 g 木屑0.6 g | Snow Owls 450 | Polar Bears 458 | 2 groups 2组 | class mean 全班平均值 = 908 ÷ 2 = 454 ml", with arrows showing add 加, then divide 除以.
 Speaker notes: 0.6 g of sawdust per strip is the same recipe whether a group was testing fibre type or amount of sawdust, so both groups' results can be pooled. Plain samples and 0 g samples are the same too. Notice how many groups tested each sample: two groups is better than one. A student reads the Key idea line. [Plan B: sawdust 0.6 g: 408, 400, 433, 408; 1649 ÷ 4 = 412.25, about 412 ml.]
 ```
 
 ```
 Slide 5 | Phase tag: Learn 新知
 Title: Bar chart or line graph? / 条形图还是折线图？
-On-slide text: Type of fibre: words, so bar chart. Amount of sawdust: numbers, so line graph. Which one is yours? 你们的是哪一种？
+On-slide text: Type of fibre 纤维种类: words, so bar chart. Amount of sawdust 木屑的量: numbers, so line graph. Which one is yours? 你们的是哪一种？
 Key idea 核心概念: 改变的量是文字就用条形图，是数值就用折线图。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图
 Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维种类", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑的量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700.

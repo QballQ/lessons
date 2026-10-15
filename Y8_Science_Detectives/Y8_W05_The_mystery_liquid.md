@@ -93,7 +93,7 @@ Purple cabbage juice. 紫甘蓝汁。
 Add vinegar... add baking soda solution... 加入白醋……再加入小苏打溶液……
 What is happening? 发生了什么？
 Vocabulary panel: indicator | 指示剂
-Visual: Three cups: purple (labelled "red cabbage indicator 紫甘蓝指示剂"), pink (labelled "+ vinegar 加白醋"), blue-green (labelled "+ baking soda solution 加小苏打溶液"). Colour names written beneath each for greyscale.
+Visual: Three cups: purple (labelled "red cabbage indicator 紫甘蓝指示剂"), pink (labelled "+ vinegar 加白醋"), blue-green (labelled "+ baking soda solution 加小苏打溶液"). Colour names written beneath each for greyscale. Colour names: "purple 紫色", "pink 粉色", "blue-green 蓝绿色".
 Speaker notes: A student reads the Chinese lines. Do the live demo with two cups. It is not magic: the cabbage juice is an indicator. Its colour tells us whether a liquid is an acid, an alkali or neutral.
 ```
 
@@ -103,7 +103,7 @@ Title: Acid, neutral or alkali? / 酸性、中性还是碱性？
 On-slide text: Acid: red or pink. Neutral: purple. Alkali: blue, green, or yellow if very strong.
 Key idea 核心概念: 酸性：红色或粉色；中性：紫色；碱性：蓝色、绿色，很强时为黄色。
 Vocabulary panel: acid | 酸性, neutral | 中性, alkali | 碱性, indicator | 指示剂
-Visual: Three columns with a cup of indicator in each: ACID 酸性 (red/pink, lemon icon), NEUTRAL 中性 (purple, water drop icon), ALKALI 碱性 (blue-green, soap bar icon). Colour names printed in each cup. Colour names are bilingual, the same set as printable 6.1.
+Visual: Three columns with a cup of indicator in each: ACID 酸性 (red/pink, lemon icon), NEUTRAL 中性 (purple, water drop icon), ALKALI 碱性 (blue-green, soap bar icon). Colour names printed in each cup. Colour names are bilingual, the same set as printable 6.1. Icon captions: "lemon juice 柠檬汁" under the lemon, "water 纯净水" under the water drop, "soap solution 肥皂水" under the soap bar.
 Speaker notes: A student reads the Key idea line. Acids include lemon juice and vinegar. Alkalis include soap and baking soda solution. Pure water is neutral. Ask: "Which do you think the puddle is?" Opinion only, for now.
 ```
 
@@ -136,7 +136,7 @@ On-slide text:
 4. Compare with the chart. 与比色卡比较。
 5. Record. 记录。
 Vocabulary panel: indicator | 指示剂, reference sample | 参照样本, colour chart | 比色卡, pH scale | pH值（酸碱度）
-Visual: Six small clear cups of purple indicator on a sheet of white paper, labelled: lemon juice 柠檬汁, vinegar 白醋, water 纯净水, soap solution 肥皂水, baking soda solution 小苏打溶液, scene liquid (Evidence 4) 现场液体（证据4）. A dropper adding drops. The pH colour chart beside them. 15-minute timer.
+Visual: Six small clear cups of purple indicator on a sheet of white paper, labelled: lemon juice 柠檬汁, vinegar 白醋, water 纯净水, soap solution 肥皂水, baking soda solution 小苏打溶液, scene liquid (Evidence 4) 现场液体（证据4）. A dropper adding drops. The pH colour chart beside them. Caption under the chart: "pH colour chart pH比色卡". 15-minute timer.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, then thumbs before anyone starts. Same number of drops in every cup: that keeps it fair. Rinse the dropper between liquids, or use a separate dropper for each. Put the cups on white paper to see the colours clearly. Test the scene liquid last.
 ```
 
@@ -148,7 +148,7 @@ Which reference does the scene liquid match? 现场液体与哪个参照样本�
 Check the suspect cards: who is linked to that liquid? 查看嫌疑人卡：谁与那种液体有关？
 Update your tracker. 更新你的追踪表。
 Vocabulary panel: reference sample | 参照样本, consistent | 一致的
-Visual: The scene liquid cup in the centre with dashed arrows to the two closest reference cups. Four small suspect portraits with their liquids: Lily Chen 陈莉, soap solution 肥皂水; Max Zhang 张铭轩, lemon juice 柠檬汁; Chef Zhou 周师傅, baking soda solution 小苏打溶液; Dr Huang 黄若琳, vinegar 白醋. The liquid labels are bilingual beside each portrait, so Core d) can be done from this slide.
+Visual: The scene liquid cup in the centre with dashed arrows to the two closest reference cups. Cup labels: "scene liquid 现场液体" on the centre cup and "reference sample 参照样本" on each of the two reference cups. Four small suspect portraits with their liquids: Lily Chen 陈莉, soap solution 肥皂水; Max Zhang 张铭轩, lemon juice 柠檬汁; Chef Zhou 周师傅, baking soda solution 小苏打溶液; Dr Huang 黄若琳, vinegar 白醋. The liquid labels are bilingual beside each portrait, so Core d) can be done from this slide.
 Speaker notes: A student reads the Chinese lines. The scene liquid is blue-green: an alkali, about pH 9. It sits between soap solution and baking soda solution, and the indicator cannot reliably tell those two apart. So it matches Lily and Chef Zhou.
 ```
 
@@ -161,7 +161,7 @@ But the ink ruled them out. 但墨水证据排除了他们。
 Dr Huang matched everything until now. 黄若琳到现在为止符合所有证据。
 What is going on? 这是怎么回事？
 Vocabulary panel: consistent | 一致的, evidence | 证据
-Visual: A simple evidence grid: four suspect columns, rows for fingerprint 指纹, ink 墨水, powder 粉末 and liquid 液体, with ticks and crosses matching the Case Bible. The liquid row is highlighted with a dashed outline and a large question mark.
+Visual: A simple evidence grid: four suspect columns, rows for fingerprint 指纹, ink 墨水, powder 粉末 and liquid 液体, with ticks and crosses matching the Case Bible. The liquid row is highlighted with a dashed outline and a large question mark. Column headings: "Lily Chen 陈莉", "Max Zhang 张铭轩", "Chef Zhou 周师傅", "Dr Huang 黄若琳".
 Speaker notes: A student reads the Chinese lines. Pair talk in any language for two minutes: "Why might one clue not fit?" Do not give the answer. Collect ideas on sticky notes for the Ideas Parking Board. Praise ideas that can be checked.
 ```
 
@@ -185,7 +185,7 @@ On-slide text:
 2. pH about ___. pH大约___。
 3. Which suspect fits the most evidence so far? 到目前为止，哪个嫌疑人符合最多的证据？
 Vocabulary panel: acid | 酸性, neutral | 中性, alkali | 碱性, pH scale | pH值（酸碱度）
-Visual: Exit ticket strip with cut line, including the "Today I can 今天我能" self-check boxes. Teaser icon: a footprint with a ruler (next week, with a new teacher).
+Visual: Exit ticket strip with cut line, including the "Today I can 今天我能" self-check boxes. Teaser icon: a footprint with a ruler (next week, with a new teacher). On the strip: "Exit ticket 离场小测" and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser caption: "Next week: footprints and height 下周：脚印与身高".
 Speaker notes: A student reads the Chinese lines. Students tick the two goals they can do. Collect at the door. Next week: footprints and height. Introduce the incoming teacher, who will lead the case from Week 6.
 ```
 
@@ -215,7 +215,7 @@ a) Results table. 结果表格。
 | Baking soda solution 小苏打溶液 | | | |
 | Scene liquid 现场液体 (Evidence 4 证据4) | | | |
 
-(Rows about 1.3 cm tall. Picture cue in the margin beside the table: a dropper over a cup, an arrow to the colour chart, an arrow to the table, so the three steps can be followed without reading.)
+(Rows about 1.3 cm tall. Picture cue in the margin beside the table: a dropper over a cup, an arrow to the colour chart, an arrow to the table, so the three steps can be followed without reading. Step captions under the three pictures: "Add 加入", "Compare 比较", "Record 记录".)
 
 b) Complete: "The scene liquid turned ________ , so it is ________ with a pH of about ________ ." 完成句子：“现场液体变成了________，所以它是________，pH大约是________。”
 
@@ -331,7 +331,7 @@ Create a half-A4 kit card for Year 8 Week 5 using the Think Like a Scientist kit
   - Paper towels
 - **Per class:** checkpoint papers (1 per student), sticky notes, Ideas Parking Board space on the wall.
 - **Teacher prep:** The day before (about 25 minutes): make the red cabbage indicator with hot water from the kettle, strain, cool and refrigerate (Case Bible, Section 13). Before the lesson (about 15 minutes): make soap solution and baking soda solution; mix equal amounts of the two to make the scene liquid; fill and label all cups; test the scene liquid yourself (it must turn blue-green); put checkpoint papers on desks.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Wear goggles when using indicator, vinegar, lemon juice and soap solution. 使用指示剂、白醋、柠檬汁和肥皂水时请佩戴护目镜。
   - Never taste or drink any liquid. 不要品尝或饮用任何液体。
   - Only the teacher uses hot water. The indicator is made before the lesson. 只有老师可以使用热水。指示剂在课前已制好。
@@ -358,7 +358,7 @@ Create an A5 landscape pH colour chart for red cabbage indicator for the Think L
   - 13 and 14: yellow 黄色
 - Under the strip, three brackets: boxes 1 to 6 "ACID 酸性", box 7 "NEUTRAL 中性", boxes 8 to 14 "ALKALI 碱性".
 - Arrows at each end: left "stronger acid 酸性越强", right "stronger alkali 碱性越强".
-- A row of small example icons under the brackets (not exact positions, labelled "examples 例子"): lemon at 2, vinegar bottle at 3, water drop at 7, baking soda tub at 8 to 9, soap bar at 9 to 10.
+- A row of small example icons under the brackets (not exact positions, labelled "examples 例子"): lemon at 2, vinegar bottle at 3, water drop at 7, baking soda tub at 8 to 9, soap bar at 9 to 10. Icon captions, in the same order: "lemon juice 柠檬汁", "vinegar 白醋", "water 纯净水", "baking soda solution 小苏打溶液", "soap solution 肥皂水".
 - Footer: "Colours are approximate. Compare with your reference samples. 颜色为近似值，请与参照样本比较。"
 
 ### 6.2 Ideas Parking Board header
