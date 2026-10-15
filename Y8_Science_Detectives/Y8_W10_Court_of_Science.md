@@ -111,7 +111,7 @@ What it shows. 结果说明了什么。
 How sure we are. 我们有多大把握。
 90 seconds. 90秒。
 Vocabulary panel: expert witness | 专家证人, evidence | 证据, confidence | 把握, testimony | 证词
-Visual: A witness stand with an expert badge icon, a 90-second timer, and the four parts of the statement as four numbered steps. A small strip at the bottom: "Now presenting 现在出庭: ________" (editable).
+Visual: A witness stand with an expert badge icon reading "EXPERT WITNESS 专家证人", a 90-second timer, and the four parts of the statement as four numbered steps. A small strip at the bottom: "Now presenting 现在出庭: ________" (editable).
 Speaker notes: Leave this slide up during each talk and type the group name in the strip. Hold up a "15 seconds" card near the end. If a speaker freezes, say: "Tell us the result first," and let them glance at their frame. Before witness 1, a student reads the Chinese lines, and say the tip aloud: one sentence in Chinese, then the key words in English, is fine.
 ```
 
@@ -135,7 +135,7 @@ On-slide text:
 For each expert, write: what it shows, who it matches, strong, supporting, weak or set aside. 每位专家发言时写下：结果说明了什么、符合谁、有力、支持性、薄弱还是搁置。
 Fill in your peer feedback slip for your group. 为你负责的小组填写同伴反馈条。
 Vocabulary panel: evidence | 证据, verdict | 裁决
-Visual: The jury notes table thumbnail (six rows, one per evidence type) beside a "Two stars and a wish" slip icon. Small list: "Your slip is for group 你的反馈对象: ____".
+Visual: The jury notes table thumbnail (six rows, one per evidence type: Fingerprint 指纹, Ink 墨水, Powder 粉末, Liquid 液体, Footprint 脚印, Soil and paper 土壤与纸巾; column headings "Expert 专家", "What it shows 结果说明了什么", "Matches 符合", "Strong / Supporting / Weak / Set aside 有力 / 支持性 / 薄弱 / 搁置") beside a "Two stars and a wish 两颗星和一个愿望" slip icon. Small list: "Your slip is for group 你的反馈对象: ____".
 Speaker notes: Show this slide once, before talk 1, then switch back to slide 5. Each student writes one peer feedback slip for the group named on their slip. Use the changeover seconds to finish it. A student reads the Chinese lines.
 ```
 
@@ -170,7 +170,7 @@ On-slide text:
 Case closed. 结案。
 Key idea 核心概念: 分享让科学做得更好。
 Vocabulary panel: case closed | 结案
-Visual: Two scientists (fictional, friendly: Professor Frost and Dr Ruby Huang) standing side by side at a Winter Science Fair table with perfect paper-white snowflake crystals on display. A rubber stamp "CASE CLOSED 结案" across the corner.
+Visual: Two scientists (fictional, friendly: Professor Frost and Dr Ruby Huang), captioned "Professor Frost 弗罗斯特教授" and "Dr Ruby Huang 黄若琳", standing side by side at a Winter Science Fair 冬季科学展 table with perfect paper-white snowflake crystals on display. A rubber stamp "CASE CLOSED 结案" across the corner.
 Speaker notes: Finish the read-aloud with "Case closed." Then ask: "Which clue did you trust most? Which one nearly fooled you?" Take one answer. Remind them: the puddle nearly fooled us, and checking it was real science. A student reads the Key idea line.
 ```
 
@@ -182,7 +182,7 @@ Which clue did we trust too much? 我们太相信哪条线索了？
 Which clue did we ignore? 我们忽略了哪条线索？
 Good reasoning still counts. 好的推理仍然有价值。
 Vocabulary panel: evidence | 证据, confidence | 把握
-Visual: The model evidence board with four reliable clues in a column leading to one suspect portrait, the liquid card set to one side under "SET ASIDE 搁置".
+Visual: The model evidence board with four reliable clues in a column (cards labelled "loop 箕形纹", "pen B B号笔", "baking soda 小苏打", "24 cm footprint 24厘米脚印") leading to one suspect portrait captioned "Dr Ruby Huang 黄若琳", the liquid card (labelled "Liquid 液体") set to one side under "SET ASIDE 搁置".
 Speaker notes: Use this slide only if the class verdict was wrong or split. Praise the reasoning that was good. Walk back through the board: loop, pen B, baking soda, 24 cm footprint. The reveal is a learning moment, not a test. A student reads the Chinese lines.
 ```
 
@@ -193,7 +193,7 @@ On-slide text:
 Tick one face for each sentence. 每句话勾选一个表情。
 There are no wrong answers. 没有对错之分。
 Vocabulary panel: none
-Visual: Row of five line-drawn faces from big frown to big smile, greyscale-safe. 3-minute timer.
+Visual: Row of five line-drawn faces from big frown to big smile, greyscale-safe, captioned "Strongly disagree 非常不同意", "Disagree 不同意", "Not sure 不确定", "Agree 同意", "Strongly agree 非常同意" (as on the survey scale key). 3-minute timer.
 Speaker notes: This is the same survey as Week 1. Be honest; it does not change your award. Read each statement aloud once in English. A student reads the Chinese lines before the survey starts; the survey paper itself is unchanged.
 ```
 
@@ -205,7 +205,7 @@ You thought like scientists. 你们像科学家一样思考。
 You tested, checked and changed your minds when the evidence changed. 你们检测、核实，并在证据改变时改变了自己的想法。
 Case closed. 结案。
 Vocabulary panel: none
-Visual: The case file cover from Week 1 with a "CASE CLOSED 结案" stamp across it, and a row of certificate icons (medal G, S, B, ribbon). Snowflakes.
+Visual: The case file cover from Week 1 ("CASE FILE 案件档案", "The Frozen Notebook 冰封笔记本之谜") with a "CASE CLOSED 结案" stamp across it, and a row of certificate icons (medal G, S, B, ribbon). Snowflakes.
 Speaker notes: Thank the class. Give out certificates now if they are ready, or tell students when they will be presented (Section 7). Case files stay with the teacher for marking. A student reads the Chinese lines.
 ```
 
@@ -255,7 +255,7 @@ Suspects 嫌疑人: Lily Chen 陈莉 | Max Zhang 张铭轩 | Chef Zhou 周师傅
 
 **8. Exit ticket strip 离场小测** (cut line above): the verdict slip
 Exit ticket: my verdict 离场小测：我的裁决 | Name 姓名 ________
-My verdict 我的裁决: ________________ took the notebook. ________________拿走了笔记本。 (or: not enough evidence 证据不足)
+My verdict 我的裁决: ________________ took the notebook. ________________拿走了笔记本。 (or 或: not enough evidence 证据不足)
 Confidence 把握: low 低 / medium 中 / high 高
 My strongest reason 我最有力的理由 (any language 可用中文): ______________________________
 "My verdict is ________ because ________________________ ." "我的裁决是________，因为________________________。"
@@ -311,7 +311,7 @@ Create a half-A4 kit card for Year 8 Week 10 using the Think Like a Scientist ki
 - **Per group (4 students):** case file with expert witness statement frame, 1; expert witness badges, 4 (from Week 9); jury question card set, 1.
 - **Per class:** reveal card, 1; Court of Science run sheet, 1; strand 6 talk record, 1; a timer visible to the class; optional notebook prop in a freezer bag; certificates if ready (`../assessment/Rubric_and_Reporting.md`, Section 4).
 - **Teacher prep before the lesson (about 30 minutes):** Print skills checks, surveys, jury notes, peer feedback slips (label each slip with a group number so every group gets feedback from several students) and the strand 6 talk record. Cut jury question cards (one set per group). Return case files and badges to group tables. Put skills check papers face down on desks. Optional: put the notebook prop in a freezer bag in the staff freezer the day before. Arrange the room: a "witness stand" spot at the front, groups facing it.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Notebook prop from the freezer: keep it in its bag; it is cold and wet. 从冰柜取出的笔记本道具：请放在袋子里，它又冷又湿。
 - **Clean-up 收拾整理:** Collect skills checks first (separately), then surveys, then case files with jury notes and peer feedback slips inside. 先单独收技能检测卷，再收问卷，然后收案件档案（内含陪审团笔记和同伴反馈条）。 Badges and question cards back in the class box. 徽章和问题卡放回班级收纳盒。

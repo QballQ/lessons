@@ -20,7 +20,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 1. Student paper [Paste into Claude Design]
 
-Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 8 Skills Check, using the Think Like a Scientist design system, Science Detectives series. Use the series icon (magnifying glass) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text. Chinese gloss lines sit directly under each English stem in a lighter weight. Graph titles, axis labels, picture labels, table headings and table cells are bilingual too: set them in a small bilingual label style, with the Chinese beneath the English in the lighter weight, so that the graph grid and the tables do not crowd. No vocabulary panel, no word bank, no tier icons: this is an assessment paper. Style the top of the paper like a case file cover: "Case: The Missing Trophy | 案件：消失的奖杯".
+Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 8 Skills Check, using the Think Like a Scientist design system, Science Detectives series. Use the series icon (magnifying glass) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text. Chinese gloss lines sit directly under each English stem in a lighter weight. Graph titles, axis labels, picture labels, table headings and table cells are bilingual too. Set graph titles, axis labels, picture labels and table headings in a small bilingual label style, with the Chinese beneath the English in the lighter weight, so that the graph grid and the tables do not crowd. Table cells that hold sentences (Question 1 sentences A to D, the Question 10 clues and their 概要 lines) keep the 12 pt minimum, with the Chinese directly beneath the English. If the page is tight, use a tighter gloss weight and set short options in two columns rather than dropping or shortening any Chinese line; keep the pictures and graph at full size. No vocabulary panel, no word bank, no tier icons: this is an assessment paper. Style the top of the paper like a case file cover: "Case: The Missing Trophy | 案件：消失的奖杯".
 
 **Header**
 - Title: Skills Check / 技能检测
@@ -69,7 +69,7 @@ Read about Detective Lin's experiment. Then answer.
 Detective Lin drops fake blood (red water) onto paper.
 Lin侦探把假血（红色的水）滴到纸上。
 She drops it from 20 cm, 40 cm, 60 cm and 80 cm.
-她分别从20 cm、40 cm、60 cm和80 cm的高度滴下。
+她分别从20 cm、40 cm、60 cm和80 cm处滴下。
 She uses the same dropper each time.
 她每次都用同一个滴管。
 She uses the same type of paper each time.
@@ -138,9 +138,9 @@ a) Which time is the anomaly? (异常值)
 ______ s
 
 b) Work out the mean time. Do not use the anomaly. Show your working.
-计算平均值。不要用异常值。写出过程。
+计算平均值。不要用异常值。写出计算过程。
 
-Working: 过程：______________________________
+Working 计算过程: ______________________________
 
 Mean 平均值 = ______ s
 
@@ -179,7 +179,7 @@ ______________________________
 
 **Question 9 第9题** (2 marks 2分)
 Detective Bo finds a hair at the scene. He looks at it once, by eye, next to a hair from one suspect. He says, "They match!"
-Bo侦探只用肉眼把现场的头发和一个嫌疑人的头发比较了一次，就说“它们一样！”
+Bo侦探在现场找到一根头发。他用肉眼把它和一个嫌疑人的头发比较了一次，然后说：“它们匹配！”
 Write ONE improvement. Say why it makes his test better.
 写出一个改进方法，并说明原因。
 

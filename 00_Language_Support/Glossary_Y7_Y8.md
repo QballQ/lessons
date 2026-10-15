@@ -569,7 +569,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | book / flat paper / crumpled paper (demo labels) | 书 / 平整的纸 / 揉皱的纸 | Y7 W2 |
 | bottle type (control box) | 瓶子类型 | Y8 W8 |
 | box (insulated box) | 箱子 | Y7 W8 |
-| brand / Brand A / Brand B (paper towel brand) | 品牌 / 品牌A / 品牌B | Skills Check Y8 |
+| brand / Brand A / Brand B (paper towel brand) | 品牌 / A品牌 / B品牌 | Skills Check Y8 |
 | breaking load | 断裂负载 | Y7 W9 |
 | bubble wrap | 气泡膜 | Skills Check Y7 |
 | bun dough | 包子面团 | Y8 W1 |
@@ -915,7 +915,7 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | wool / cotton | 羊毛 / 棉布 | Y7 W5 |
 | Work alone and in silence. | 独自安静完成。 | Y7 W5 |
 | Working (label on an answer line) | 计算过程 | Skills Check Y7 |
-| Working / Show your working (answer label) | 过程 / 写出过程 | Skills Check Y8 |
+| Working / Show your working (answer label) | 计算过程 / 写出计算过程 | Skills Check Y8 (same as Y7 W4 and Skills Check Y7) |
 | worksheet | 工作纸 | Y7 W5 |
 | world figure (Stretch b frame) | 世界数据 | Y8 W2 |
 | yes / no question | 是／否问题 | Y8 W4 |
