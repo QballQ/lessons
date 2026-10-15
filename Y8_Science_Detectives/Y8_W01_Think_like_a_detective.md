@@ -311,10 +311,10 @@ Create a half-A4 kit card for Year 8 Week 1 using the Think Like a Scientist kit
 - **Per student:** case file (folder with cover, briefing, sign-in sheet, scene map, suspect cards, evidence log) x1; worksheet x1; skills check paper x1; interest survey x1; pencil x1
 - **Per group:** none beyond the above
 - **Teacher prep before the lesson (about 25 minutes):** print and collate case files (one per student) in this order: cover, briefing with sign-in sheet, scene map, suspect cards, evidence log. Print skills checks and surveys. Set out groups of 4 with name cards. Optional (5 minutes): set up the scene table (see Case Bible, Section 12).
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Optional scene table: look only. Do not touch, taste or smell the evidence. 现场展示桌：只能看，不要触摸、品尝或闻证据。
-- **Clean-up 收拾整理:** Case files go into the class box, filed by group. 案件档案按小组放回班级箱。 Skills checks and surveys collected separately for the tracker. 技能检测卷和问卷单独收齐，用于填写学生进度跟踪表。
+- **Clean-up 收拾整理:** Case files go into the class box, filed by group. 案件档案按小组放回班级收纳盒。 Skills checks and surveys collected separately for the tracker. 技能检测卷和问卷单独收齐，用于填写学生进度跟踪表。
 
 ## 6. Other printables [Paste into Claude Design]
 
@@ -373,7 +373,7 @@ Speech bubble: "Check the evidence first! 先看证据！"
 
 Create an A4 landscape scene map for the Think Like a Scientist Science Detectives series, black-and-white printable, clean architectural top-down floor plan style. Print: 1 per student (inside the case file), plus 1 enlarged A3 copy for the wall.
 
-**Title bar:** "Scene map: Lab 3, the Winter Science Lab | 现场平面图：3号实验室" and "Thursday, 7:30 pm 星期四，晚上7:30".
+**Title bar:** "Scene map: Lab 3, the Winter Science Lab | 现场平面图：3号实验室（冬季科学实验室）" and "Thursday, 7:30 pm 星期四，晚上7:30".
 
 **Grid:** the room is a rectangle divided into a light grid of 10 columns and 7 rows. Columns are labelled A to J along the top and bottom. Rows are labelled 1 to 7 down both sides. Every square is the same size.
 
@@ -401,7 +401,7 @@ Create an A4 landscape scene map for the Think Like a Scientist Science Detectiv
 
 **Also at I3 (no evidence marker, but clearly drawn):** a mop in a bucket and a folding yellow sign labelled "Wet floor 小心地滑". In greyscale, draw the sign as a triangle with a slipping-figure icon.
 
-**Key box (bottom right corner):** "Key 图例: ▲1 to ▲5 = evidence markers 证据标记 | Grid letters and numbers 网格字母和数字 = squares 方格 (e.g. F4 例如F4)".
+**Key box (bottom right corner):** "Key 图例: ▲1 to ▲5 = evidence markers 证据标记 | Grid letters and numbers 网格上的字母和数字 = squares 方格 (e.g. F4)（例如F4）".
 
 Keep the map uncluttered: no people drawn, no extra objects beyond those listed.
 
@@ -481,7 +481,7 @@ Create an A4 landscape evidence log page for the Think Like a Scientist Science 
 | 2 | 2 Fingerprint on glass 玻璃杯上的指纹 | Classify the pattern 纹型分类 | | | | |
 | 3 | 1 Ink on the note 纸条上的墨水 | Chromatography 色谱法 | | | | |
 | 4 | 3 White powder 白色粉末 | Water, vinegar, iodine 水、白醋、碘液 | | | | |
-| 5 | 4 Liquid puddle 一小摊液体 | Cabbage indicator 指示剂 | | | | |
+| 5 | 4 Liquid puddle 一小摊液体 | Cabbage indicator 紫甘蓝指示剂 | | | | |
 | 6 | 5 Footprint 脚印 | Foot length and height 脚长与身高 | | | | |
 | 7 | | | | | | |
 | 8 | | | | | | |
