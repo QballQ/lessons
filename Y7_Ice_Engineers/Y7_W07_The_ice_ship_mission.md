@@ -553,7 +553,7 @@ Repeats: we will make and test ______ of each sample. (Target 3, minimum 2.) 重
 "Write the headings. Put the units in the headings, not after every number." “写出表头。单位写在表头里，不要写在每个数字后面。” A blank table with 6 columns and 4 rows below the heading row: the heading row is empty and tall enough for two lines; the first column is narrow.
 Hint line 提示: Sample 样品 | Repeat 1 重复1 | Repeat 2 重复2 | Repeat 3 重复3 | Mean 平均值 | Notes 备注 | ml
 
-**Plan check (Think phase) 计划检查** (checklist with tick boxes, filled in by the partner group)
+**Plan check (Think phase) 计划检查（思辨与反思环节）** (checklist with tick boxes, filled in by the partner group)
 Checked by group 检查小组: __________
 ☐ Only one thing changes. 只改变一个量。
 ☐ The control sample is included. 包含对照样品。
@@ -563,7 +563,7 @@ Checked by group 检查小组: __________
 ☐ Units in the results table headings. 结果表格表头有单位。
 One fix: "You need to ______________ because ______________." 一个修改建议：“你们需要______________，因为______________。”
 
-**Teacher sign-off box** (thick border): "Plan approved 计划已批准 | Teacher 教师: ______ | Samples 样品: ______ x ______ repeats 重复 | Test 测试: strength 强度 / melting 熔化"
+**Teacher sign-off box 教师签批栏** (thick border): "Plan approved 计划已批准 | Teacher 教师: ______ | Samples 样品: ______ x ______ repeats 重复 | Test 测试: strength 强度 / melting 熔化"
 
 **Secure example of a completed frame (teacher answer key, not printed on the student frame; Plan A, strength, made-up group "Frost Hares"):**
 - Box 1: "Does the amount of sawdust change the strength of an ice strip?"
@@ -586,7 +586,7 @@ Title: Class project board / 全班项目板 | Can we make ice stronger? 我们�
 |---|---|---|---|---|---|---|---|---|
 | (6 empty rows, each about 3 cm tall) | | | | | | | | |
 
-Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g | sawdust 0.3 g | sawdust 0.6 g | sawdust 0.9 g | tissue | shredded paper | cotton wool) and a row of tally boxes: "Number of groups making this sample. Where possible, aim for at least 2 for each type we test. A type made by only one group is still useful, but we will be less sure of it."
+Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g 普通或0克 | sawdust 0.3 g 木屑0.3克 | sawdust 0.6 g 木屑0.6克 | sawdust 0.9 g 木屑0.9克 | tissue 纸巾 | shredded paper 碎纸 | cotton wool 棉花) and a row of tally boxes: "Number of groups making this sample. Where possible, aim for at least 2 for each type we test. A type made by only one group is still useful, but we will be less sure of it."
 
 Teacher note (small, bottom right): "Every group includes the control. Plan A: no more than two melting-test groups. Sawdust 0.6 g in a fibre-type test is the same recipe as 0.6 g in an amount test, so the results can be pooled in Week 9."
 
@@ -602,7 +602,7 @@ Create an A4 sheet of sample labels for Year 7 Week 7, using the Think Like a Sc
 - Made on 制作日期: ______
 - Code 编号: __________
 
-**Code key 编号说明** (printed once at the top of the sheet, not on each label): Group initials + sample + repeat, separated by spaces. 小组首字母 + 样品 + 重复次数，用空格隔开。 Samples: P = plain ice or no fibre; SD3, SD6, SD9 = sawdust 0.3 g, 0.6 g, 0.9 g; T = tissue; SP = shredded paper; CW = cotton wool. 样品：P = 普通冰或无纤维；SD3、SD6、SD9 = 木屑0.3克、0.6克、0.9克；T = 纸巾；SP = 碎纸；CW = 棉花。 Example: **SO SD6 R2** = Snow Owls, sawdust 0.6 g, repeat 2. 例如：**SO SD6 R2** = Snow Owls，木屑0.6克，第2次重复。 (Group names in examples are made up; use your class's own group names and initials.)
+**Code key 编号说明** (printed once at the top of the sheet, not on each label): Group initials + sample + repeat, separated by spaces. 小组首字母 + 样品 + 重复次数，用空格隔开。 Samples: P = plain ice or no fibre; SD3, SD6, SD9 = sawdust 0.3 g, 0.6 g, 0.9 g; T = tissue; SP = shredded paper; CW = cotton wool. 样品：P = 普通冰或无纤维；SD3、SD6、SD9 = 木屑0.3克、0.6克、0.9克；T = 纸巾；SP = 碎纸；CW = 棉花。 Example: **SO SD6 R2** = Snow Owls, sawdust 0.6 g, repeat 2. 例如：**SO SD6 R2** = Snow Owls，木屑0.6克，第2次重复。 (Group names in examples are made up; use your class's own group names and initials.) （示例中的小组名称是虚构的；请使用你们班自己的小组名称和首字母。）
 
 ---
 

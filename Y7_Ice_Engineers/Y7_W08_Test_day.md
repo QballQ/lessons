@@ -174,7 +174,7 @@ If it snaps during a pour, count that whole pour. 如果在倒水时断裂，这
 Then write how it broke. 然后写下它是怎样断的。
 Key idea 核心概念: 人人用同一条记录规则，下周才能汇总全班的结果。
 Vocabulary panel: snap | 断裂; volume | 体积; anomaly | 异常值
-Visual: A worked example, labelled "Example 例子": tally "|||| |||| ||||" = 15 pours 倒水15次; 15 x 25 ml = 375 ml. Beside it, a results table row: "SD3 R1 | 375 ml | note 备注: cracked, but fibres held the two halves together 裂开了，但纤维把两半连在一起不散开".
+Visual: A worked example, labelled "Example 例子": tally "|||| |||| ||||" = 15 pours 倒水15次; 15 x 25 ml = 375 ml. Beside it, a results table row under three column headings, "Sample 样品", "Water held (ml) 承载水量（毫升）" and "Notes 备注": "SD3 R1 | 375 ml | note 备注: cracked, but fibres held the two halves together 裂开了，但纤维把两半连在一起不散开".
 Speaker notes: Same rule for everyone, so results can be pooled next week. 15 pours of 25 ml is 375 ml. If a sample snaps before any water goes in, record 0 ml and write why. Water from the bag goes back into the jug for the next test. A student reads the Chinese rule aloud before the first test.
 ```
 
@@ -246,7 +246,7 @@ Is 50 ml an anomaly? 50毫升是异常值吗？
 What could have happened? 可能发生了什么？
 What should we do? 我们应该怎么做？
 Vocabulary panel: anomaly | 异常值; repeat | 重复; snap | 断裂
-Visual: Three broken plain samples drawn side by side with their results; the third has a visible crack line drawn through it from before the test.
+Visual: Three broken plain samples drawn side by side with their results; the third has a visible crack line drawn through it from before the test. Under the third sample, its note: "note 备注: cracked before the test 测试前就裂开了".
 Speaker notes: Recorders first copy their results onto the class project board. A student reads the Chinese questions. Then pair talk with the frame card (English and Chinese frame): "The anomaly is ___ because ___." 50 ml is much lower than the others; the note says it had a crack before testing, so we leave it out of the mean but never rub it out. If we had a spare sample, we would test it.
 ```
 
@@ -257,7 +257,7 @@ On-slide text:
 Exit ticket: one result with its unit, and one thing that was hard to keep the same. 离场小测：一个带单位的结果，和一件很难保持不变的事。
 Tidy: water back in the jug, mop, wash hands. 收拾整理：水倒回水壶，擦地，洗手。
 Vocabulary panel: volume | 体积; millilitre (ml) | 毫升
-Visual: Exit ticket strip preview, headed "Exit ticket 离场小测". Tidy checklist icons: jug, mop, bin, tap, captioned "jug 水壶", "mop 拖把", "bin 垃圾桶" and "tap 水龙头".
+Visual: Exit ticket strip preview, headed "Exit ticket 离场小测", showing the strip's lines as in Section 3 item 8: "One of our results: sample ______________ held / melted ______ (unit: ______). 我们的一个结果：样品______________承载了／熔化了______（单位：______）。", "One thing that was hard to keep the same: ______________________________. 一件很难保持不变的事：______________________________。" and "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Tidy checklist icons: jug, mop, bin, tap, captioned "jug 水壶", "mop 拖把", "bin 垃圾桶" and "tap 水龙头".
 Speaker notes: Students complete the exit ticket and tick the Today I can self-check on the strip while Safety Officers lead the tidy. A student reads the Chinese lines. Results tables go in the group folder; next week we pool the class data and make posters. Photograph the class project board before it is wiped.
 ```
 
@@ -408,7 +408,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Just before the lesson: move each group's tray from the freezer into its insulated box; put the boxes on the teacher desk (5 min).
 - Set up one demo rig at the front (5 min).
 
-**Hazards and controls 危险源与控制措施**
+**Hazards and controls 危险源和控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.
@@ -441,7 +441,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Check the strips: press a spare strip with a thumbnail; it should feel hard, not soft. If strips are still soft, test the driest groups first and dry the rest for longer (5 min).
 - Check the allergy list: students with a flour allergy pour or record only.
 
-**Hazards and controls 危险源与控制措施**
+**Hazards and controls 危险源和控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.
@@ -470,7 +470,7 @@ Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test ri
 - On each desk, right at the gap edge, a stack of three books of equal height. The inner faces of the stacks line up with the desk edges. The top book of each stack is covered with a thin plastic bag. Label: "two equal stacks of books 两堆同样高的书".
 - The sample, a thin strip about 12 cm long, 2 cm wide and 5 mm thick, lies across the gap, resting about 1 cm on each stack. Label: "sample strip across the gap 样品条横放在间隙上" and a small dimension "about 1 cm on each side 每边约搭1厘米".
 - A string loop goes round the middle of the sample and hangs down through the gap. Label: "string loop at the centre 绳圈套在正中间".
-- Below the desk tops, the string tail is tied to both handles of a carrier bag, so the bag mouth stays open. Label: "bag 塑料袋".
+- Below the desk tops, the string tail is tied to both handles of a carrier bag, so the bag mouth stays open. Label: "bag 袋子".
 - On the floor directly under the bag, a bucket. The bottom of the bag hangs about 5 cm above the bottom of the bucket. Label: "catch tray (bucket) 接水盘（桶）" and "bag hangs about 5 cm above the bottom 袋子离桶底约5厘米".
 - A student kneeling beside the bucket (to one side, not underneath), pouring from a small cup into the bag. Label: "pour 25 ml at a time 每次倒25毫升".
 - A second student standing at the side of the desks, eyes level with the sample. Label: "watch at eye level and call 'Snap!' 平视观察，断裂时喊“断了！”".
@@ -493,9 +493,9 @@ Create an A4 landscape labelled diagram for Year 7 Week 8, "The strength test ri
 
 Create an A5 landscape station card for Year 7 Week 8, "Melting test station | 熔化测试站", using the Think Like a Scientist design system, Ice Engineers series. Black and white, picture steps in a row with one line of text under each. Print spec: 2 per class (only for melting-test groups), laminated.
 
-Steps:
+Steps 步骤:
 1. Gloves on. Peel the foil off every strip. 戴手套，剥掉所有铝箔。
-2. Each sample on its own lid, in rows, away from windows and heaters. 每个样品放在一个盖子上，远离窗户和暖气。
+2. Each sample on its own lid, in rows, away from windows and heaters. 每个样品放在一个盖子上，排成几排，远离窗户和暖气。
 3. Start the stopwatch for all samples together. 所有样品同时开始计时。
 4. At 15 minutes: lift each sample off, let it drip for 5 seconds, put it in the waste bowl. 15分钟时，拿起样品，滴水5秒，放进废料盆。
 5. Pour the lid's water into the 10 ml measuring cylinder. Read at eye level, to the nearest 0.5 ml. 把盖子里的水倒进10毫升量筒，平视读数，读到最接近的0.5毫升。
