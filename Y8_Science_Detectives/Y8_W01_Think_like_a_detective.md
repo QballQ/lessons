@@ -79,7 +79,7 @@ Speaker notes: This paper shows us your starting point, so we can see how much y
 Slide 3 | Phase tag: Do Now 课前任务
 Title: How do you feel about science? / 你对科学的感受
 On-slide text:
-Circle one face for each line. 每行圈出一个表情。
+Tick one face for each sentence. 每句话勾选一个表情。
 There are no wrong answers. 没有错误答案。
 Vocabulary panel: none
 Visual: Row of five faces from very unhappy to very happy, greyscale-safe (line drawings). End labels, as on the survey: "Strongly disagree 非常不同意" under the first face and "Strongly agree 非常同意" under the last. 3-minute timer.
@@ -107,7 +107,7 @@ Title: Case alert! / 案件警报！
 On-slide text:
 Last night, Professor Frost's notebook disappeared from Lab 3. 昨晚，弗罗斯特教授的笔记本在3号实验室不见了。
 The Winter Science Fair is tomorrow. 冬季科学展明天就开始了。
-She left this note behind... 办公桌上有一张短短的纸条……
+Someone left this note behind... 有人留下了这张纸条……
 Vocabulary panel: evidence | 证据, suspect | 嫌疑人, crime scene | 案发现场
 Visual: Photo-style image of a handwritten note on white card, black ink, reading: "Do not worry. / Your notebook is safe and cold. / Back before the Fair. / Sorry!" with a small snowflake doodle. Card lies on a wooden desk next to an empty space where a notebook was. A yellow evidence marker "1". Beneath the note image, in the lighter weight, one gist line: "概要：纸条说笔记本安全且冰冷，科学展前归还。"
 Speaker notes: Read the note aloud slowly. A student reads the Chinese lines; then read the Chinese note from the Case Bible, Section 2, or have a confident student read it. Ask: "What do you notice about this note?" Take two answers. Tell them: "Professor Frost needs detectives who think like scientists. That means you."
