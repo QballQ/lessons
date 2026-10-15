@@ -153,7 +153,7 @@ On-slide text:
 3. Plot with crosses. 3. 用叉号描点。
 4. Draw a line of best fit. 4. 画最佳拟合线。
 Vocabulary panel: plot | 描点; axis | 坐标轴; line of best fit | 最佳拟合线
-Visual: Four picture steps: a results table (headings "Wing length (cm) 翼长（厘米）", "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次", "Mean 平均值") with the Mean column highlighted; axis labels being written ("Wing length (cm) 翼长（厘米）", "Mean fall time (s) 平均下落时间（秒）"); three crosses on the grid; a ruler laid along the crosses with a line drawn.
+Visual: Four picture steps: a results table (headings "Wing length (cm) 翼长（厘米）", a spanning heading "Fall time (s) 下落时间（秒）" over "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次", and "Mean fall time (s) 平均下落时间（秒）") with the Mean column highlighted; axis labels being written ("Wing length (cm) 翼长（厘米）", "Mean fall time (s) 平均下落时间（秒）"); three crosses on the grid; a ruler laid along the crosses with a line drawn.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, then thumbs before anyone starts. Use your own group's means from last week. If your results are missing or do not make sense, use the sample data card: it is fine to use sample data, scientists often analyse other people's data. Check every axis label has a unit in brackets.
 ```
 
@@ -256,7 +256,7 @@ Tick one 勾选一个: ☐ our group's data 我们小组的数据 ☐ sample dat
 
 **C. Conclusion 结论.** Fill the gaps using the word bank. 用词库填空。
 Word bank 词库: wing length 翼长 | fall time 下落时间 | increases 增加
-As the ______________ increases, the ______________ ______________. 随着______________增加，______________ ______________。
+As the ______________ increases, the ______________ ______________. 随着______________增加，______________会______________。
 
 **4. Stretch 提高 (two dots)**
 a) We drew a line graph because the independent variable (wing length) is a ______________. 我们画了折线图，因为自变量（翼长）是一个______________。

@@ -174,7 +174,7 @@ On-slide text:
 Write three testable questions about winter. 写三个关于冬天的可检验的问题。
 Add a prediction: I predict ___ because ___. 加一个预测：我预测___，因为___。
 Vocabulary panel: testable | 可检验的; prediction | 预测; reason | 理由
-Visual: Winter scene icons as idea starters: ice cubes, salt, a snowman, a woolly hat, a frozen puddle, a hot drink, a snowball.
+Visual: Winter scene icons as idea starters, pictures only with no word captions: ice cubes, salt, a snowman, a woolly hat, a frozen puddle, a hot drink, a snowball.
 Speaker notes: A student reads the Chinese lines. About 10 minutes. Core students use the gap-fill frame "Does ___ change ___?" Stretch students add predictions with reasons. Challenge students try the Galileo prediction questions. One of these questions might become your Ice Engineers project later.
 ```
 
@@ -198,7 +198,7 @@ Exit ticket: tick the testable question. 离场小测：勾选可检验的问题
 Write a prediction with a reason. 写一个带理由的预测。
 Logbook: what did you find today? 科学日志：你今天发现了什么？
 Vocabulary panel: testable | 可检验的; prediction | 预测; reason | 理由
-Visual: Exit ticket strip preview with two questions and tick boxes. Logbook icon labelled "Logbook 科学日志", with "What I found 我发现了什么" highlighted.
+Visual: Exit ticket strip preview, headed "Exit ticket 离场小测", with the two questions as in Section 3 item 8 (each English line with its Chinese) and tick boxes. Logbook icon labelled "Logbook 科学日志", with "What I found 我发现了什么" highlighted.
 Speaker notes: A student reads the Chinese lines. Students complete the exit ticket strip, then write one line in their logbook under "What I found". Answers may be in Chinese. Collect exit tickets at the door.
 ```
 
@@ -391,7 +391,7 @@ Create an A3 landscape poster (also used on Slide 5) for Year 7 Week 2, "Galileo
 |---|---|---|---|
 | 1 | An ancient Greek thinker in a robe pointing at a large stone falling faster than a small pebble, with a thought bubble "Heavy = fast 重=快" | An old idea: heavy things fall faster. 概要：旧观点：重的东西下落得更快。 | 旧观点 |
 | 2 | Galileo (1600s Italian clothing, beard) with a thought bubble showing a large dark ball labelled H (heavy 重的) and a small light ball labelled L (light 轻的) | Galileo imagines a heavy ball and a light ball. 概要：伽利略想象一个重球和一个轻球。 | 重球与轻球 |
-| 3 | The two balls tied together with a short string, falling. The small ball is above, with a small "brake" symbol and an upward arrow on it. A speedometer shows a slow reading. | Tie them together. The light ball holds the heavy ball back. Slower? 概要：绑在一起。轻球拖住重球。更慢？ | 更慢？ |
+| 3 | The two balls tied together with a short string, falling. The small ball is above, with a small brake symbol (a picture only, no word) and an upward arrow on it. A speedometer shows a slow reading. | Tie them together. The light ball holds the heavy ball back. Slower? 概要：绑在一起。轻球拖住重球。更慢？ | 更慢？ |
 | 4 | The same tied pair, with a big weight label "H + L = heavier 更重". A speedometer shows a fast reading. | But the pair is heavier. Faster? 概要：但两个球一起更重。更快？ | 更快？ |
 | 5 | Galileo scratching his head, with a big question mark and both speedometers side by side, one slow, one fast, crossed out | Slower AND faster? Impossible! The old idea is wrong. 概要：又更慢又更快？不可能！旧观点是错的。 | 自相矛盾 |
 | 6 | An astronaut on the Moon dropping a hammer and a feather, both halfway down at exactly the same height | Without air, heavy and light things fall together. 概要：没有空气时，重的和轻的东西同时落地。 | 同时落地 |

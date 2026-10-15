@@ -281,7 +281,7 @@ observation 观察 | inference 推断 | evidence 证据 | clue 线索 | track �
 
 **8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 1 第1周 | Name 姓名: __________
-Picture: a wet umbrella dripping on a mat beside a classroom door. 图片：一把湿雨伞在教室门边的地垫上滴水。
+(Picture beside the questions: a wet umbrella dripping on a mat beside a classroom door. Draw the picture only, with no caption or words, so students make their own observations.)
 Word bank 词库: umbrella 雨伞 | wet 湿的 | dripping 滴水 | rain 雨 | door 门 | mat 地垫
 One observation 一个观察: I observe ______________________________. 我观察到___。
 One inference 一个推断: I infer ______________________________ because ______________________________. 我推断___，因为___。
