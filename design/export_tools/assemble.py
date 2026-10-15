@@ -61,4 +61,33 @@ zips = [zipdirs('TLaS_Programme_support_and_assessment.zip', ['00_Read_me', '01_
 for y, (folder, _) in YEARS.items():
     zips.append(zipdirs(f'TLaS_{folder}.zip', ['00_Read_me', folder]))
 zips.append(zipdirs('TLaS_All_resources.zip', sorted(os.listdir(OUT))))
+# parts under the 30 MiB file-sharing limit: whole weeks only, each with the read-me
+import io
+LIMIT = 29.3 * 1024 * 1024
+def files_of(item):
+    return [item] if os.path.isfile(item) else [os.path.join(r, f) for r, _, fs in os.walk(item) for f in sorted(fs)]
+def zip_items(items, dest=None):
+    buf = open(dest, 'wb') if dest else io.BytesIO()
+    with zipfile.ZipFile(buf, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zf:
+        for it in items:
+            for f in files_of(it): zf.write(f, os.path.join(TOP, os.path.relpath(f, OUT)))
+    n = buf.tell(); buf.close(); return n
+readme = os.path.join(OUT, '00_Read_me')
+for y, (folder, _) in YEARS.items():
+    entries = sorted(os.listdir(os.path.join(OUT, folder)))
+    weeks = [os.path.join(OUT, folder, e) for e in entries if e.startswith('Week_')]
+    extras = [os.path.join(OUT, folder, e) for e in entries if not e.startswith('Week_')]
+    groups, cur = [], []
+    for w in weeks:
+        if cur and zip_items([readme] + cur + [w]) > LIMIT: groups.append(cur); cur = []
+        cur.append(w)
+    groups.append(cur)
+    for e in extras:
+        for g in reversed(groups):
+            if zip_items([readme] + g + [e]) <= LIMIT: g.append(e); break
+        else: groups[0].append(e)
+    for i, g in enumerate(groups, 1):
+        wk = [os.path.basename(w)[5:7] for w in g if os.path.basename(w).startswith('Week_')]
+        name = f'TLaS_{y}_part{i}_of_{len(groups)}_' + (f'Weeks_{wk[0]}_to_{wk[-1]}' if wk[0] != wk[-1] else f'Week_{wk[0]}') + '.zip'
+        zip_items([readme] + g, os.path.join(Z, name)); zips.append(os.path.join(Z, name))
 print(json.dumps({'missing': missing, 'zips': {os.path.basename(z): os.path.getsize(z) for z in zips}}, indent=1))

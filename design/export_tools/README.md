@@ -19,7 +19,7 @@ All output goes to `design/export_all/` (ignored by git; the files are too large
 3. `python3 run_all.py [slug ...]` exports each site to `export_all/raw/` (slides: `.pptx` and `.pdf`; printables: `.pdf` of all artboards). Three run at once.
 4. `python3 qa.py [slug ...]` checks page and slide counts against the source, page sizes against the artboards, speaker notes, the PDF text layer and PowerPoint validity, and writes contact sheets to `export_all/qa/` for a visual check.
 5. `python3 make_doc_jobs.py && python3 md2html.py doc_jobs.json && node html2pdf.js docs_html ../export_all/docs_pdf` makes the teacher PDFs.
-6. `python3 assemble.py` builds `export_all/Think_Like_a_Scientist_Resources/` and the zips in `export_all/zips/`. It shrinks the exported PDFs (slides to 150 dpi, printables to 200 dpi), keeping the searchable text, and swaps the PowerPoint serif to Garamond.
+6. `python3 assemble.py` builds `export_all/Think_Like_a_Scientist_Resources/` and the zips in `export_all/zips/`: one per year, one for the programme-wide folders, one with everything, and each year split into parts under 30 MiB (whole weeks, each part with the read-me) for sending as attachments. It shrinks the exported PDFs (slides to 150 dpi, printables to 200 dpi), keeping the searchable text, and swaps the PowerPoint serif to Garamond.
 
 `README_resources.md` is the read-me placed at the top of the resource folder.
 
