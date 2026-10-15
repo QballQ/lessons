@@ -196,7 +196,7 @@ I measure: meltwater (ml) after 30 minutes. 我测量：30分钟后融化的水�
 I keep the same: cube size, bag, cup, time, place. 我保持不变：冰块大小、袋子、杯子、时间、地点。
 Key idea 核心概念: 融化的水越少，隔热材料越好。
 Vocabulary panel: material | 材料; meltwater | 融化的水; thermal insulator | 隔热材料
-Visual: The three gesture icons from Week 3 (dial, stopwatch, flat hands). Under the dial: four material swatches. Under the stopwatch: a measuring cylinder with water to 5 ml. Under the flat hands: identical cubes, bags, cups and a clock. Each paired line sits beside its gesture icon as its caption.
+Visual: The three gesture icons from Week 3 (dial, stopwatch, flat hands). Under the dial: four material swatches, shown by texture only, with no text labels. Under the stopwatch: a measuring cylinder with water to 5 ml. Under the flat hands: identical cubes, bags, cups and a clock. Each paired line sits beside its gesture icon as its caption.
 Speaker notes: Do the gestures from Week 3. A student reads each Chinese line as the class makes the gesture. Ask: "Why is cup A bare?" It is our control: it shows how fast ice melts with no insulator. Less meltwater means a better insulator. Prediction: "I predict ___ will be the best insulator because ___."
 ```
 
@@ -209,7 +209,7 @@ I measure: temperature drop (°C) in 15 minutes. 我测量：15分钟内的温�
 I keep the same: cup, 150 ml water, start temperature, time, place. 我保持不变：杯子、150 ml水、起始温度、时间、地点。
 Key idea 核心概念: 温度下降越小，隔热材料越好。
 Vocabulary panel: material | 材料; temperature | 温度; thermometer | 温度计
-Visual: The three gesture icons. Under the dial: four material swatches. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop 起始温度减结束温度 = 温度下降". Under the flat hands: identical cups, a 150 ml line and a clock. Each paired line sits beside its gesture icon as its caption.
+Visual: The three gesture icons. Under the dial: four material swatches, shown by texture only, with no text labels. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop 起始温度减结束温度 = 温度下降". Under the flat hands: identical cups, a 150 ml line and a clock. Each paired line sits beside its gesture icon as its caption.
 Speaker notes: Temperature drop = start temperature take away end temperature. A smaller drop means a better insulator. Cup A is the control. A student reads each Chinese line as the class makes the gesture. Ask: "Why must every cup start with the same amount of water?" More water would cool more slowly, so the test would not be fair.
 ```
 
@@ -491,7 +491,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - On the day: put each cube into its own zip-lock bag, squeeze out the air and seal; keep in the cool box or freezer until the lesson (10 min).
 - Cut the material squares and set out the trays by Set A and Set B (10 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Wear gloves if you hold ice for more than a minute.
   手持冰块超过一分钟时请戴手套。
 - Keep the bags sealed until the measuring slot.
@@ -525,7 +525,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - Cut the jackets and lids; set out the trays by Set A and Set B (5 min).
 - During the Do Now: mix kettle water and cold tap water in the jug until it reads about 50 °C (never above 55 °C). You need about 3.6 litres for 24 cups (5 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Only the teacher pours the warm water. It is about 50 °C, never hotter than 55 °C.
   只有老师可以倒温水。水温约50 °C，绝不超过55 °C。
 - Do not move the cups once they are full.

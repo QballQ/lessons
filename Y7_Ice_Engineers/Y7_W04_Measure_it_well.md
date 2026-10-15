@@ -129,7 +129,7 @@ Title: Spot the anomaly / 找出异常值
 On-slide text: An anomaly does not fit the pattern. Circle it. Write why. Leave it out of the mean. Never rub it out!
 Key idea 核心概念: 异常值不符合规律：圈出、写原因、剔除、不要擦掉。
 Vocabulary panel: anomaly | 异常值; mean | 平均值; repeat | 重复
-Visual: A results table row for 8 cm wings: 2.05, 1.12, 2.11. The value 1.12 is circled. A note beside it: "hit the table, did not spin 撞到桌子，没有旋转". An eraser crossed out. Column headings above the row: "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次"; row label "8 cm".
+Visual: A results table row for 8 cm wings: 2.05, 1.12, 2.11. The value 1.12 is circled. A note beside it: "hit the table, did not spin 撞到桌子，没有旋转". An eraser crossed out. Column headings above the row: "Wing length (cm) 翼长（厘米）", "Repeat 1 (s) 第1次（秒）", "Repeat 2 (s) 第2次（秒）", "Repeat 3 (s) 第3次（秒）"; the row starts with "8".
 Speaker notes: 1.12 s is much shorter than the other two. The group wrote down why: the spinner hit the table and did not spin. So we leave it out: (2.05 + 2.11) ÷ 2 = 4.16 ÷ 2 = 2.08 s. Notice we divide by 2, because now there are only two values. A student reads the Key idea line; show the four steps as gestures (circle, write, leave out, no rubbing out).
 ```
 
@@ -152,7 +152,7 @@ Record every time. 记录每一次的时间。
 Circle anomalies and write why. 圈出异常值并写明原因。
 Then calculate the means. 然后计算平均值。
 Vocabulary panel: repeat | 重复; results table | 结果表格; anomaly | 异常值; unit | 单位
-Visual: The worksheet results table, with Repeat 1 第1次, Repeat 2 第2次, Repeat 3 第3次 and Mean 平均值 columns highlighted. Role icons: Dropper 投放员, Measurer 测量员, Recorder 记录员, Safety Officer 安全员.
+Visual: The worksheet results table, with Repeat 1 第1次, Repeat 2 第2次, Repeat 3 第3次 and Mean 平均值 columns highlighted. Its other headings: "Wing length (cm) 翼长（厘米）" (rows 4, 6, 8) and "Notes 备注", with the spanning heading "Fall time (s) 下落时间（秒）" over the three Repeat columns. Role icons: Dropper 投放员, Measurer 测量员, Recorder 记录员, Safety Officer 安全员.
 Speaker notes: Say, show, check: read each line in English, a student reads the Chinese line, thumbs check before groups start. Same roles as last week, but rotate: a new Measurer. Keep the same Measurer for all nine drops, because changing timers adds error. If a spinner is damaged, take a spare sheet. Aim to finish dropping in about 8 minutes, leaving time for the means.
 ```
 
