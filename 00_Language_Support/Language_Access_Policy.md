@@ -82,7 +82,7 @@ What does **not** need translation, and why: speaker notes (the teacher speaks),
 
 ## 7. Rules for assessment
 
-1. **Skills checks (Weeks 1 and 10).** The questions are not changed. The same printed paper must be used in Week 10 as in Week 1; if Week 1 has already been sat, do not reprint. Access is given by the teacher reading the English and the Chinese gloss aloud, by a reader where recorded in the tracker, and by accepting Chinese for every written answer.
+1. **Skills checks (Weeks 1 and 10).** The questions and the science are not changed. The audit's language corrections (glossary terms, missing glosses on the English a student must read, names kept in Latin letters, the line saying any answer may be in Chinese) were made in October 2026, before Week 1 was sat. The same printed paper must then be used in Week 10 as in Week 1, so the paper is frozen once Week 1 is printed. Access is given by the teacher reading the English and the Chinese gloss aloud, by a reader where recorded in the tracker, and by accepting Chinese for every written answer.
 2. **Checkpoints (Week 5).** Every stem, sub-stem and scenario sentence is paired. Instruction words are paired. Chinese accepted for every written answer.
 3. **Mark schemes** stay English (teacher only), with the rule "mark the science, not the English" kept.
 4. **Interest survey, rubric footer, certificates, skills report, self-assessment and peer feedback slips** are already bilingual and unchanged.
@@ -129,4 +129,4 @@ The volume of Chinese has roughly doubled, so the check should run in this order
 
 ## 12. What this means for Claude Design
 
-The slide and worksheet templates need four additions, listed in `design/00_Brand_and_Design_System_Brief.md` Part 2: the Today slide layout; the paired-line style (Chinese beneath English, lighter weight); the Key idea band on Learn slides; the "I can" self-check on the exit ticket strip and the fixed tier footers on the worksheet template. Every Year 7 and Year 8 deck and printables set was built on 2 and 3 October 2026, before this policy, so Weeks 2 to 10 must be rebuilt from the updated files. Week 1 has been taught; rebuild it only for re-teaching or the next cohort.
+The slide and worksheet templates need four additions, listed in `design/00_Brand_and_Design_System_Brief.md` Part 2: the Today slide layout; the paired-line style (Chinese beneath English, lighter weight); the Key idea band on Learn slides; the "I can" self-check on the exit ticket strip and the fixed tier footers on the worksheet template. Every Year 7 and Year 8 deck and printables set was built on 2 and 3 October 2026, before this policy, so Weeks 1 to 10 must be rebuilt from the updated files, Week 1 first. Week 1 had not been taught when this was written.

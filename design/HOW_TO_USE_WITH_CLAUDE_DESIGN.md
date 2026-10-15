@@ -20,7 +20,7 @@ The brand, the design systems, Year 9 and the assessment pack stay as they are. 
 
 1. **Templates first.** Give Claude Design the "Additions for Years 7 and 8 (October 2026)" in Part 2 of `design/00_Brand_and_Design_System_Brief.md`, so the slide and worksheet templates gain the Today slide, paired lines, the Key idea band and the worksheet changes.
 2. **Language support pack.** Build it new (step 2 above).
-3. **Rebuild each lesson, Weeks 2 to 10, in teaching order.** Rebuild rather than patch: a Today slide is inserted after the Do Now, so every later slide number moves; almost every slide gains Chinese lines; the worksheets were rewritten. Ask Claude Design to replace the content of the existing slides and printables artifacts, so the links and the design stay the same. Week 1 has been taught; rebuild it only for re-teaching or the next cohort.
+3. **Rebuild each lesson, Weeks 1 to 10, in teaching order, Week 1 first.** Rebuild rather than patch: a Today slide is inserted after the Do Now, so every later slide number moves; almost every slide gains Chinese lines; the worksheets were rewritten. Ask Claude Design to replace the content of the existing slides and printables artifacts, so the links and the design stay the same. Week 1 has not yet been taught, so it comes first; its printables also hold the corrected skills check and the interest survey. Ready prompts with the real links for every lesson are in `design/REBUILD_PROMPTS_Y7_Y8.md`.
 
 Prompt for each lesson (change the week, file name and the two links):
 

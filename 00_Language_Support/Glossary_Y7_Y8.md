@@ -181,6 +181,12 @@ Chinese text status: draft, needs native-speaker check
 | Word bank | 词库 | inline |
 | Fold-under word bank | 折叠词库 | worksheet foot |
 | Exit ticket | 离场小测 | strip |
+| Fold under (fold line label) | 向后折 | worksheet template, above the fold-under word bank |
+| Cut here (cut line label) | 沿此线剪下 | worksheet and card templates |
+| Turn over | 请翻页 | worksheet template, page footer |
+| Teacher copy | 教师用 | kit card template |
+| Answer in English or Chinese. Use the English key words. | 可用英语或中文作答，请使用英语关键词。 | worksheet template: Core tier footer |
+| Try English with the frames. Reasons may be in Chinese. | 尽量用句型框架写英语，理由可以用中文。 | worksheet template: Stretch and Challenge tier footer |
 | Goal 1 / Goal 2 | 目标1 / 目标2 | self-check |
 | Name | 姓名 |  |
 | Class | 班级 |  |

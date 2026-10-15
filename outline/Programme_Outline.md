@@ -58,25 +58,24 @@ Think Like a Scientist is a ten-week enrichment programme for Years 7 to 9 in th
 |---|---|---|
 | Frequency and length | **Confirmed:** one session per week, 40 minutes | Practical time is about 18 minutes, so kit is prepared in advance and some tasks are trimmed (see Section 7) |
 | Classes | Y7, Y8 and Y9 taught as separate groups, up to 24 students, working in groups of 3 or 4 | Kit quantities and group roles are based on 6 groups |
-| Start date | Week commencing 12 October 2026 (after the National Day holiday) | Puts the handover at the Week 5 / Week 6 boundary and the ice project in late November |
-| Incoming teacher | Arrives around 5 to 12 November (Week 4 or 5) | Can observe Week 5 and lead from Week 6 |
-| Freezer | **Not yet confirmed.** Decision by Week 4 (w/c 2 November) | Plan A uses ice; Plan B needs no freezer. Both are fully planned (see below) |
+| Start | Week 1 is the first lesson week. The plan uses week numbers only, so a delay moves every week on together | Puts the handover at the Week 5 / Week 6 boundary and the ice project in Weeks 6 to 8 |
+| Incoming teacher | Arrives around Week 4 or 5 | Can observe Week 5 and lead from Week 6 |
+| Freezer | **Not yet confirmed.** Decision by Week 4 | Plan A uses ice; Plan B needs no freezer. Both are fully planned (see below) |
 | Printing | A4, black and white | All resources are designed to work in greyscale |
 | Devices | No student devices. One teacher screen or projector | Nothing depends on students having phones or tablets |
 | Language | Mandarin first language; English as second language with mixed proficiency | Shapes the scaffolding in every resource |
 | Prior experience | This is the first year of the programme, so Y8 and Y9 have not done the Y7 series | Y8 and Y9 Weeks 1 to 3 re-teach the core ideas (observation, variables, fair testing) through their own theme |
 
-**Indicative calendar** (confirm against the school calendar)
+**Calendar by week** (week numbers only; a delay moves every week on together)
 
 | Week | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| w/c | 12 Oct | 19 Oct | 26 Oct | 2 Nov | 9 Nov | 16 Nov | 23 Nov | 30 Nov | 7 Dec | 14 Dec |
 | Phase | Skills | Skills | Skills | Skills | Checkpoint | Project | Project | Project | Project | Assessment |
 | Teacher | Current | Current | Current | Current | Current (new teacher observes) | **New teacher leads** | New | New | New | New |
 
 ### Freezer: Plan A and Plan B
 
-Freezer access is not yet confirmed, so the programme does not depend on it. Both plans are fully built, and the choice is made by **Week 4 (w/c 2 November)**, before any ice is needed. The current teacher records the decision in the handover note.
+Freezer access is not yet confirmed, so the programme does not depend on it. Both plans are fully built, and the choice is made by **Week 4**, before any ice is needed. The current teacher records the decision in the handover note.
 
 **What Plan A actually needs** (much less than a full freezer):
 - Year 7 Week 6: one or two trays of ice cubes (about 24 cubes).
@@ -725,7 +724,7 @@ Scientist's Logbook (A5), group role cards, kit cards (half A4, laminated if pos
 1. ~~Year 8 option~~ **Confirmed:** Science Detectives.
 2. ~~Year 9 option~~ **Confirmed:** Claim Busters.
 3. ~~Assumptions~~ **Confirmed:** 40-minute lessons; separate year groups, class sizes and start date as assumed.
-4. **Freezer:** check the canteen, boarding house and staff-room fridges by Week 4 (w/c 2 November). A small freezer compartment is enough. If none, run Plan B.
+4. **Freezer:** check the canteen, boarding house and staff-room fridges by Week 4. A small freezer compartment is enough. If none, run Plan B.
 5. **Kit ordering:** who places the order for the "Buy" list, and by when.
 6. **Translation check:** which Chinese-speaking colleague can check glossaries and safety text.
 7. **Exploring Science:** confirm which digital copies can be sourced.

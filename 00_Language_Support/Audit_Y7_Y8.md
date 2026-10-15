@@ -52,10 +52,10 @@ Across the ten Year 7 files alone the auditors counted about 630 sentences to pa
 
 ## 5. What this means next
 
-- **Claude Design.** The slide and worksheet templates need the four additions in the brief (Part 2): the Today slide layout, paired lines, the Key idea band, and the worksheet header, strip, tier footers and self-check. Every Year 7 and Year 8 deck and printables set was built on 2 and 3 October, before this pass, so Weeks 2 to 10 must be rebuilt from the updated files. The Language support tab in the paste kit holds the new printables and booklets.
+- **Claude Design.** The slide and worksheet templates need the four additions in the brief (Part 2): the Today slide layout, paired lines, the Key idea band, and the worksheet header, strip, tier footers and self-check. Every Year 7 and Year 8 deck and printables set was built on 2 and 3 October, before this pass, so Weeks 1 to 10 must be rebuilt from the updated files, Week 1 first. The Language support tab in the paste kit holds the new printables and booklets.
 - **Native-speaker check.** The volume of Chinese has roughly doubled. Check in the policy's priority order: Today slides and goals, instructions, question stems, word banks and the dictionary, frames, key idea and gist lines, printables. Change the glossary first if a term changes.
-- **Printing.** The language support pack (posters, cards, booklets) is for the next lesson, not Week 1. Reprint Weeks 2 to 5 worksheets from the updated files once designed.
-- **The skills check** stays as printed. If the Week 1 paper has been sat, Week 10 uses the identical paper.
+- **Printing.** Print the language support pack (posters, cards, booklets) before Week 1, and print Year 7 and 8 materials only from the rebuilt designs.
+- **The skills check.** Week 1 had not been sat, so the language corrections this audit lists for the two papers were made before the first printing. Week 10 then uses the identical paper.
 - **Year 9** is unchanged. The same policy can be applied later with the same scripts; the Year 9 files already follow the same seven-section structure.
 
 
