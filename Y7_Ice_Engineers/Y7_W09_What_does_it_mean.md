@@ -129,18 +129,18 @@ Title: Bar chart or line graph? / 条形图还是折线图？
 On-slide text: Type of fibre 纤维种类: words, so bar chart. Amount of sawdust 木屑的量: numbers, so line graph. Which one is yours? 你们的是哪一种？
 Key idea 核心概念: 改变的量是文字就用条形图，是数值就用折线图。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图
-Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维种类", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑的量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700.
+Visual: Two graphs side by side, labelled "Sample data | 示例数据". Left: bar chart, x-axis "Type of fibre 纤维种类", bars for plain 普通 292, sawdust 木屑 454, tissue 纸巾 375, shredded paper 碎纸 400; y-axis "Mean water held (ml) 平均承载水量（毫升）". Right: line graph, x-axis "Amount of sawdust per strip (g) 每条木屑的量（克）" from 0 to 1.0, crosses at (0, 292), (0.3, 375), (0.6, 454), (0.9, 575) with a line of best fit; y-axis "Mean water held (ml) 平均承载水量（毫升）" from 0 to 700. Captions above the two graphs: "Bar chart 条形图" and "Line graph 折线图".
 Speaker notes: Same rule as Week 5: if the thing we changed is a word or group, bar chart; if it is a number, line graph. A student reads the Key idea line. Quick vote: hold up BAR or LINE for your own group's question. Melting groups: same rule, but the y-axis is "Mean meltwater (ml)". [Plan B bars: no fibre 285, sawdust 412, tissue 365, shredded paper 371. Plan B line: (0, 285), (0.3, 350), (0.6, 412), (0.9, 525), y-axis 0 to 600.]
 ```
 
 ```
 Slide 6 | Phase tag: Learn 新知
 Title: Claim, evidence, reasoning / 主张、证据、推理
-On-slide text: Claim: the answer to our question. Evidence: numbers from the class data. Reasoning: the science that explains it.
+On-slide text: Claim 主张: the answer to our question. Evidence 证据: numbers from the class data. Reasoning 推理: the science that explains it.
 Key idea 核心概念: 结论＝主张＋证据（数字）＋推理（科学）。
 Vocabulary panel: claim | 主张; evidence | 证据; reasoning | 推理; conclusion | 结论
-Visual: Three stacked blocks like bricks, labelled Claim 主张, Evidence 证据, Reasoning 推理. Claim: "More sawdust makes ice stronger." Evidence: "As the sawdust increased from 0 g to 0.9 g, the mean water held increased from 292 ml to 575 ml." Reasoning: "Ice is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks."
-Speaker notes: Read each block aloud. A claim alone is just an opinion; evidence makes it scientific; reasoning explains it. Every conclusion on the poster needs all three, with real numbers. A student reads the Key idea line. [Plan B evidence: "from 285 ml to 525 ml"; reasoning: "Dry dough is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks."]
+Visual: Three stacked blocks like bricks, labelled Claim 主张, Evidence 证据, Reasoning 推理. Claim: "More sawdust makes ice stronger. 更多的木屑使冰更强。" Evidence: "As the sawdust increased from 0 g to 0.9 g, the mean water held increased from 292 ml to 575 ml. 随着木屑从0克增加到0.9克，平均承载水量从292毫升增加到575毫升。" Reasoning: "Ice is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks. 冰是脆的。纤维把碎片连在一起不散开，阻止裂纹，就像泥砖里的稻草。"
+Speaker notes: Read each block aloud. A claim alone is just an opinion; evidence makes it scientific; reasoning explains it. Every conclusion on the poster needs all three, with real numbers. A student reads the Key idea line. [Plan B evidence: "from 285 ml to 525 ml 从285毫升增加到525毫升"; reasoning: "Dry dough is brittle. Fibres hold the pieces together and stop cracks, like straw in mud bricks. 干面团是脆的。纤维把碎片连在一起不散开，阻止裂纹，就像泥砖里的稻草。"]
 ```
 
 ```
@@ -153,7 +153,7 @@ Next time we would ___. 下次我们会___。
 We are ___ confident because ___. 我们___有把握，因为___。
 Key idea 核心概念: 诚实地评价：说出一个问题、它的影响、下次的改进，以及我们有多大把握。
 Vocabulary panel: evaluate | 评价; improvement | 改进; confident | 有把握的
-Visual: The evaluation frame in large text, each English frame with its Chinese frame beneath. Beside it, three small "problem" icons from Week 8: a strip with a crack, a strip slipping off the books, a stopwatch beside a strip left out of the box. A confidence scale: not very 不太有把握, fairly 比较有把握, very 很有把握.
+Visual: The evaluation frame in large text, each English frame with its Chinese frame beneath. Beside it, three small "problem" icons from Week 8: a strip with a crack, a strip slipping off the books, a stopwatch beside a strip left out of the box. Captions under the three icons: "crack 裂纹", "slipped off 滑落" and "waited too long 在箱子外放太久". A confidence scale: not very 不太有把握, fairly 比较有把握, very 很有把握.
 Speaker notes: Model one: "One problem was that one 0.9 g strip slipped off the books. This made its result too low, so we left it out. Next time we would put each strip exactly 2 cm onto each stack. We are fairly confident, because the repeats were close and two groups found the same pattern." A student reads the Chinese frames. Specific improvements beat "be more careful".
 ```
 
@@ -167,7 +167,7 @@ Measurer and Recorder: Results. 测量员和记录员：结果。
 Reporter: Conclusion. 汇报员：结论。
 Everyone: Evaluation and If we did it again. 全体：评价和如果再做一次。
 Vocabulary panel: claim | 主张; evidence | 证据; evaluate | 评价
-Visual: The A3 poster template (Section 6b) with seven numbered panels, each tagged with a role icon. Panel cards being written separately and then glued in place. One pair per line, in a two-column icon list: role icon, English line, Chinese line beneath.
+Visual: The A3 poster template (Section 6b) with seven numbered panels, each tagged with a role icon. Panel cards being written separately and then glued in place. Captions for the two steps: "Write 写" and "Glue 粘贴". One pair per line, in a two-column icon list: role icon, English line, Chinese line beneath.
 Speaker notes: Work on your panel card at the same time, then glue. A student reads each Chinese line. Say: a panel card may be written in Chinese with the English key words, or as the English frame completed with your language buddy; next week you present the panel you wrote. Use your worksheet frames first, then copy neatly onto the card. 18 minutes: aim to glue the first panels by minute 12. Write big enough to read from 2 metres away.
 ```
 
@@ -182,7 +182,7 @@ Even scale. 刻度均匀。
 Accurate points or bars. 描点或条形准确。
 Class data table beside it. 旁边放全班数据表。
 Vocabulary panel: bar chart | 条形图; line graph | 折线图; axis | 坐标轴
-Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑的量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label.
+Visual: A checklist with tick boxes beside a small sample graph: the x-axis label "Amount of sawdust (g) 木屑的量（克）" and y-axis label "Mean water held (ml) 平均承载水量（毫升）" circled; scale marks evenly spaced; crosses on points. Beneath the checklist, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, so Band 1 students copy a correct label. Heading above the four labels: "Axis label bank 坐标轴标签库".
 Speaker notes: Measurers and Recorders: choose a scale that uses most of the grid. A student reads the Chinese lines. For strength data, steps of 100 ml usually work; for melting data, steps of 1 ml. Bar charts have gaps between the bars and the same width for every bar.
 ```
 
@@ -194,7 +194,7 @@ Does your conclusion answer the question? 你的结论回答了问题吗？
 Does it have two numbers? 它有两个数字吗？
 Does it explain with fibres, cracks or insulation? 它用纤维、裂纹或隔热来解释了吗？
 Vocabulary panel: claim | 主张; evidence | 证据; reasoning | 推理
-Visual: Two conclusions side by side. Weak 薄弱 (cross): "Sawdust is good. It was the best." Strong 有力 (tick): the Slide 6 CER conclusion, with the two numbers highlighted.
+Visual: Two conclusions side by side. Weak 薄弱 (cross): "Sawdust is good. It was the best. 木屑很好。它是最好的。" Strong 有力 (tick): the Slide 6 CER conclusion, with the two numbers highlighted. Each sentence keeps its Chinese beneath, copied from Slide 6.
 Speaker notes: Reporters, read your conclusion to your group and check it against the three questions. A student reads the Chinese lines. Melting groups: your reasoning is about insulation: the fibres left on the surface slow heat moving in from the air, like the materials in Week 6.
 ```
 
@@ -219,7 +219,7 @@ Everyone speaks. 每个人都要发言。
 Choose your panel. 选择你的海报栏。
 Exit ticket: write your part. 离场小测：写下你要讲的部分。
 Vocabulary panel: claim | 主张; evidence | 证据
-Visual: The talk frame card (Week 10, Section 6b) with its five parts and a stopwatch showing 2:00. Five small speaking figures, one per role.
+Visual: The talk frame card (Week 10, Section 6b) with its five parts and a stopwatch showing 2:00. Five small speaking figures, one per role. Captions under the figures: "Lead Scientist 首席科学家", "Safety Officer 安全员", "Measurer 测量员", "Recorder 记录员" and "Reporter 汇报员".
 Speaker notes: Groups decide who presents each part, following the poster order. A student reads the Chinese lines. Students who need language support present the results part with the numbers and the graph, using a cue card. Collect posters flat in the folders. Exit tickets show who presents what.
 ```
 
@@ -240,7 +240,7 @@ My poster panel 我的海报栏: ☐ 1 and 2 ☐ 3 ☐ 4 ☐ 5 ☐ 6 and 7
 **2. Vocabulary panel**
 pool (data) | 汇总（数据）; class mean | 全班平均值; bar chart | 条形图; line graph | 折线图; claim | 主张; evidence | 证据; reasoning | 推理; evaluate | 评价; improvement | 改进; confident | 有把握的
 
-**Do Now box (small, above Core): Finish your means 算完平均值**
+**Do Now 课前任务 box (small, above Core): Finish your means 算完平均值**
 Sample 样品 ______: ______ + ______ + ______ = ______ ÷ ______ = ______ ml
 
 **3. Core 基础 (one dot)**
@@ -402,7 +402,7 @@ Create a half-A4 kit card for Year 7 Week 9 using the Think Like a Scientist kit
 - Put any missing Week 8 results sheets back in the folders; decide which groups need the sample class data (5 min).
 - Choose a flat, safe place to store posters overnight (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Carry scissors with the points down.
@@ -435,7 +435,7 @@ Instruction: For each sample, write every group's mean. Add them. Divide by the 
 | Shredded paper 0.6 g 碎纸0.6 g | | | | | | | | | |
 | Cotton wool 0.6 g 棉花0.6 g | | | | | | | | | |
 
-A small row of six boxes above the group columns to write the group names.
+A small row of six boxes above the group columns to write the group names. Label the row "Group name 小组名称".
 Layout note: to keep 12 pt in A4 landscape, print "mean (ml) 平均值（毫升）" once in a spanning heading over the six group columns, so each group column carries only "Group 1 第1组" to "Group 6 第6组".
 
 **Table 2 表2 (Plan A melting groups only 仅方案A熔化测试组): Meltwater after 15 minutes (ml) | 15分钟后融化的水（毫升）**
@@ -447,19 +447,19 @@ Same columns as Table 1, with the same seven sample rows.
 
 Create an A3 portrait, black-and-white-printable investigation poster template for Year 7, "Ice Engineers investigation poster | 冰雪工程师探究海报", using the Think Like a Scientist poster template, Ice Engineers series (ice crystal icon and border pattern). One version serves both plans. Seven numbered panels with thin borders and generous empty space; each panel has its English heading in bold, the Chinese heading beneath in a lighter weight, and a short prompt in small grey text at the top of the panel. Prompts are pairs: the English line, then its Chinese beneath in the lighter weight. Print spec: 1 per group plus 1 spare (7 per class), A3.
 
-Also create a matching set of seven panel cards, the same size as the poster panels, printed on A4 (with cut lines), carrying the same headings and prompts, so that students can write their panels at the same time and glue them onto the poster. Print spec: 1 set per group plus 1 spare set.
+Also create a matching set of seven panel cards, the same size as the poster panels, printed on A4 (with cut lines), carrying the same headings and prompts, so that students can write their panels at the same time and glue them onto the poster. Print spec: 1 set per group plus 1 spare set. Label the cut lines "Cut here 沿此线剪下".
 
 **Title strip (top, full width):**
 - A writing line for the title, with the prompt: "Our question as a title, for example: Does sawdust make ice stronger? 把我们的问题写成标题，例如：木屑会让冰更强吗？"
 - Group name 小组名称: __________ | Members 成员: __________
-- Tick boxes: ☐ Plan A: ice strips 冰条 ☐ Plan B: dough strips 面团条
+- Tick boxes: ☐ Plan A 方案A: ice strips 冰条 ☐ Plan B 方案B: dough strips 面团条
 - Series mark: Ice Engineers 冰雪工程师 | Ice Engineers Expo 冰雪工程师成果展
 
 **Panels (layout: two columns; Panel 4 Results is the largest, about a quarter of the poster):**
 1. **Question | 我们的问题.** Prompt: "Does the ___ change the ___ of the sample? ___会改变样品的___吗？ What we changed (independent variable). 我们改变了什么（自变量）。 What we measured (dependent variable). 我们测量了什么（因变量）。"
 2. **Prediction | 我们的预测.** Prompt: "We predicted ___ because ___. 我们预测___，因为___。" A small line: "Were we right? 我们预测对了吗？ ☐ yes 是 ☐ partly 部分对 ☐ no 否".
-3. **Method in picture steps | 实验步骤（图示步骤）.** Six small picture boxes in two rows (each about 5 cm x 4 cm) with two writing lines under each. Prompt: "How we made the samples and how we tested them. 我们怎样制作样品、怎样测试。 Include: what we kept the same, repeats, one safety step. 包括：我们保持不变的量、重复次数、一个安全步骤。"
-4. **Results | 结果.** Top part: a class data table outline with 3 columns (Sample 样品 | Number of groups 组数 | Class mean (ml) 全班平均值（毫升）) and 5 rows. Bottom part: a graph grid 14 cm wide x 10 cm tall (light grey, major lines every 1 cm, minor every 2 mm), with blank lines for the title 标题, x-axis label 横轴（x轴）标签 and y-axis label 纵轴（y轴）标签. Beside the grid, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank. Prompt: "Bar chart for type of fibre. 纤维种类用条形图。 Line graph for amount of sawdust. 木屑的量用折线图。 Units on both axes. 两条坐标轴都要有单位。"
+3. **Method in picture steps | 实验步骤（图示步骤）.** Six small picture boxes in two rows (each about 5 cm x 4 cm) with two writing lines under each. Number the boxes "Step 1 步骤1" to "Step 6 步骤6". Prompt: "How we made the samples and how we tested them. 我们怎样制作样品、怎样测试。 Include: what we kept the same, repeats, one safety step. 包括：我们保持不变的量、重复次数、一个安全步骤。"
+4. **Results | 结果.** Top part: a class data table outline with 3 columns (Sample 样品 | Number of groups 组数 | Class mean (ml) 全班平均值（毫升）) and 5 rows. Bottom part: a graph grid 14 cm wide x 10 cm tall (light grey, major lines every 1 cm, minor every 2 mm), with blank lines for the title 标题, x-axis label 横轴（x轴）标签 and y-axis label 纵轴（y轴）标签. Beside the grid, in small text, the same four bilingual axis labels as the worksheet Core B axis-label bank, under the heading "Axis label bank 坐标轴标签库". Prompt: "Bar chart for type of fibre. 纤维种类用条形图。 Line graph for amount of sawdust. 木屑的量用折线图。 Units on both axes. 两条坐标轴都要有单位。"
 5. **Conclusion: Claim, Evidence, Reasoning | 结论：主张、证据、推理.** Three labelled strips: "Claim 主张: ___" | "Evidence 证据 (numbers! 数字！): ___" | "Reasoning 推理 (science! 科学！): ___".
 6. **Evaluation | 评价.** Prompt: "One problem was ___. 一个问题是___。 This made our results ___. 这使我们的结果___。 We are ☐ not very ☐ fairly ☐ very confident because ___. 我们☐不太有把握☐比较有把握☐很有把握，因为___。"
 7. **If we did it again | 如果再做一次.** Prompt: "Next time we would ___ because ___. 下次我们会___，因为___。 A new question we would like to test: ___. 我们还想测试的一个新问题：___。"
