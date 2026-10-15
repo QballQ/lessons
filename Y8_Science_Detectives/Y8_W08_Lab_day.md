@@ -69,7 +69,7 @@ On-slide text:
 3. Read your plan. 3. 阅读你们的计划。
 4. Roles agreed. 4. 确认分工。
 Vocabulary panel: method | 实验步骤, hazard | 危险源, record | 记录
-Visual: A checklist with four tick boxes beside a tray icon, a kit card icon and the five role icons, each captioned with its role name only, English and Chinese (Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员, Reporter 汇报员). 3-minute timer.
+Visual: A checklist with four tick boxes beside a tray icon captioned "Tray 托盘", a kit card icon captioned "Kit card 器材卡" and the five role icons, each captioned with its role name only, English and Chinese (Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员, Reporter 汇报员). 3-minute timer.
 Speaker notes: Your plan sheet has my comments on it. Fix anything I have marked before you start. Do not open any sample until the Safety Officer has read the hazards. A student reads the four Chinese lines before any tray is opened; the Safety Officer reads the kit card hazards in English and Chinese.
 ```
 
@@ -161,7 +161,7 @@ One sentence each: 每组说一句：
 Our test showed ___ . 我们的检测显示___。
 This evidence is strong / supporting / weak because ___ . 这个证据有力／支持性／薄弱，因为___。
 Vocabulary panel: reliable | 可靠的, match | 匹配, evidence | 证据
-Visual: Six speech bubbles in a circle labelled Group 1 to Group 6, each with its option icon and option name (Soil 土壤, Paper 纸巾, Ink 2 墨水2 or Powder 2 粉末2). Frame strip at the bottom. The frames are English with the Chinese frames beneath.
+Visual: Six speech bubbles in a circle labelled Group 1 第1组 to Group 6 第6组, each with its option icon and option name (Soil 土壤, Paper 纸巾, Ink 2 墨水2 or Powder 2 粉末2). Frame strip at the bottom. The frames are English with the Chinese frames beneath.
 Speaker notes: Twenty seconds per Reporter. Write each group's result on the board under the four option headings. Everyone will need the other groups' results next week. Reporters may say their sentence in Chinese and then the English key word.
 ```
 
@@ -184,7 +184,7 @@ On-slide text:
 2. Did our repeats agree? 2. 我们的重复结果一致吗？
 3. Strong, supporting or weak evidence? Why? 3. 有力、支持性还是薄弱证据？为什么？
 Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
-Visual: Exit ticket strip with cut line. It ends with the two "Today I can 今天我能" tick boxes. Teaser icon: a corkboard with evidence cards and string (next week: build the case), captioned "Next week: Build the case 下周：构建证据链".
+Visual: Exit ticket strip with cut line, headed "Exit ticket 离场小测", the cut line labelled "Cut here 沿此线剪下". It ends with the two "Today I can 今天我能" tick boxes. Teaser icon: a corkboard with evidence cards and string (next week: build the case), captioned "Next week: Build the case 下周：构建证据链".
 Speaker notes: Collect at the door. Recording sheets and worksheets go into case files. Next week we put all the evidence together on one board, and something unexpected turns up.
 ```
 
@@ -364,7 +364,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
 
 Create an A4 landscape teacher run sheet for Year 8 Week 8, Lab day, for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 for the teacher's clipboard, 1 enlarged A3 copy for the wall. Clear table with the Do-phase minutes down the side and the four options across.
 
-**Header:** "Lab day run sheet 检测日流程表 | Week 8 | 40 minutes"
+**Header:** "Lab day run sheet 检测日流程表 | Week 8 第8周 | 40 minutes 40分钟"
 
 **Whole lesson**
 
@@ -397,7 +397,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 
 - **Header:** "Recording sheet: Soil 记录表：土壤 | Evidence 6 证据6 | Group 小组 ____ | Recorder 记录员 ________"
 - **Control box:** "Same for every bottle 每个瓶子相同: soil 土壤 ____ tablespoon 汤匙 | water 水 ____ ml | shaken 摇动 ____ s | bottle type 瓶子类型 ____________"
-- **Table 1: Looking 观察** (5 rows)
+- **Table 1 表1: Looking 观察** (5 rows)
 
 | Sample 样本 | Colour on white paper 在白纸上的颜色 | Under the magnifier (stones, sand, roots, leaves) 放大镜下（石子、沙、根、叶） |
 |---|---|---|
@@ -407,7 +407,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | D Tree bed 树坛 | | |
 | Evidence 6 (scene) 证据6（现场） | | |
 
-- **Table 2: Settling bottles 沉降瓶** (5 rows; one table for Pair 1 第1对 and an identical one beneath for Pair 2 第2对, headed "Repeat 重复")
+- **Table 2 表2: Settling bottles 沉降瓶** (5 rows; one table for Pair 1 第1对 and an identical one beneath for Pair 2 第2对, headed "Repeat 重复")
 
 | Sample 样本 | Water at 1 min: cloudy / clear 1分钟：浑浊／清澈 | At 5 min 5分钟 | At 10 min 10分钟 | Bottom layer at 15 min (mm) 15分钟底层高度（毫米） | Number of layers 层数 | Floating bits? 漂浮物？ |
 |---|---|---|---|---|---|---|
@@ -427,7 +427,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 
 - **Header:** "Recording sheet: Paper 记录表：纸巾 | Evidence 7 证据7 | Group 小组 ____ | Recorder 记录员 ________"
 - **Control box:** "Same for every strip 每条相同: size 尺寸 2 cm × 12 cm | cut along the arrow 沿箭头剪 | water depth 水深 ____ cm | time 时间 60 s"
-- **Table 1: Looking 观察** (5 rows)
+- **Table 1 表1: Looking 观察** (5 rows)
 
 | Paper 纸 | Layers (ply) 层数 | Pattern under the magnifier 放大镜下的压纹 | Feel: thin / thick / soft / rough 手感：薄／厚／软／粗糙 |
 |---|---|---|---|
@@ -437,7 +437,7 @@ Create an A4 portrait group recording sheet for the Think Like a Scientist Scien
 | P4 Kitchen roll 厨房纸 | | | |
 | Evidence 7 (scene) 证据7（现场） | | | |
 
-- **Table 2: Absorbency strips 吸水纸巾条** (5 rows)
+- **Table 2 表2: Absorbency strips 吸水纸巾条** (5 rows)
 
 | Paper 纸 | Height after 60 s, strip 1 (mm) 60秒后的高度，第1条（毫米） | Strip 2 (mm) 第2条（毫米） | Strip 3 (mm) 第3条（毫米） | Mean (mm) 平均值（毫米） |
 |---|---|---|---|---|
@@ -502,7 +502,7 @@ Each card header: "Forensic lab report 法庭科学实验室报告 | Backup resu
 
 - **Soil 土壤:** "Evidence 6 was tested against four campus soils with settling bottles and a magnifier. Result: the scene soil matches the flowerbed by the science block entrance (same colour, same root fragments, same layers)." 概要：现场土壤与科学楼入口花坛的土壤匹配。
 - **Paper 纸巾:** "Evidence 7 was tested against four papers for layers, pattern and absorbency. Result: the scene paper towel matches the lab's own paper towels (same ply, same pattern, absorbency within 3 mm)." 概要：现场纸巾与实验室自己的纸巾匹配。
-- **Ink 2 墨水2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Attach your dried pre-test strips.)
+- **Ink 2 墨水2:** "The note ink (N) and pens A to D were tested in water, salt water and vinegar. Result: N matches pen B in all three solvents." 概要：在三种溶剂中，N都与B号笔匹配。 (Teacher note, not printed on the card: attach your dried pre-test strips.)
 - **Powder 2 粉末2:** "The scene powder was tested with a magnifier, water, vinegar and iodine, beside pure baking soda and known mixtures. Result: same as pure baking soda; no crystals of salt or sugar and no starch found." 概要：现场粉末与纯小苏打相同，不是混合物。
 
 ## 7. Notes for the incoming teacher

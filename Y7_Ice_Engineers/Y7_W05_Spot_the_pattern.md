@@ -153,7 +153,7 @@ On-slide text:
 3. Plot with crosses. 3. 用叉号描点。
 4. Draw a line of best fit. 4. 画最佳拟合线。
 Vocabulary panel: plot | 描点; axis | 坐标轴; line of best fit | 最佳拟合线
-Visual: Four picture steps: a results table with the Mean column (heading "Mean 平均值") highlighted; axis labels being written ("Wing length (cm) 翼长（厘米）", "Mean fall time (s) 平均下落时间（秒）"); three crosses on the grid; a ruler laid along the crosses with a line drawn.
+Visual: Four picture steps: a results table (headings "Wing length (cm) 翼长（厘米）", "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次", "Mean 平均值") with the Mean column highlighted; axis labels being written ("Wing length (cm) 翼长（厘米）", "Mean fall time (s) 平均下落时间（秒）"); three crosses on the grid; a ruler laid along the crosses with a line drawn.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, then thumbs before anyone starts. Use your own group's means from last week. If your results are missing or do not make sense, use the sample data card: it is fine to use sample data, scientists often analyse other people's data. Check every axis label has a unit in brackets.
 ```
 
@@ -188,7 +188,7 @@ On-slide text:
 We tested 4, 6 and 8 cm. 我们测试了4、6和8厘米。
 Can we be sure what happens with 20 cm wings? 我们能确定20厘米的翅膀会怎样吗？
 Vocabulary panel: pattern | 规律; conclusion | 结论
-Visual: The sample line graph with the line of best fit drawn from 4 cm to 8 cm (solid), then continuing as a dotted line with a question mark at 20 cm. A drawing of a spinner with very long, floppy, bent wings. Axis labels as on Slide 4: "Wing length (cm) 翼长（厘米）" along the bottom and "Mean fall time (s) 平均下落时间（秒）" up the side.
+Visual: The sample line graph with the line of best fit drawn from 4 cm to 8 cm (solid), then continuing as a dotted line with a question mark at 20 cm. A drawing of a spinner with very long, floppy, bent wings. Axis labels as on Slide 4: "Wing length (cm) 翼长（厘米）" along the bottom and "Mean fall time (s) 平均下落时间（秒）" up the side. Labelled "Sample data | 示例数据", as on Slide 4.
 Speaker notes: A student reads the Chinese lines. Very long wings might bend, flap or not spin at all, so the pattern might stop. We only know about the range we tested. This kind of careful thinking is exactly what we need in the ice project from next week.
 ```
 
@@ -236,7 +236,7 @@ Tick one 勾选一个: ☐ our group's data 我们小组的数据 ☐ sample dat
 | 6 | |
 | 8 | |
 
-(Picture cue in the margin beside the table: a small drawing of the Week 4 results table with the Mean fall time (s) 平均下落时间（秒） column shaded, and an arrow from that column to the empty column here. Its other headings: "Wing length (cm) 翼长（厘米）", "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次".)
+(Picture cue in the margin beside the table: a small drawing of the Week 4 results table with the Mean fall time (s) 平均下落时间（秒） column shaded, and an arrow from that column to the empty column here. Its other headings: "Wing length (cm) 翼长（厘米）", a spanning heading "Fall time (s) 下落时间（秒）" over "Repeat 1 第1次", "Repeat 2 第2次", "Repeat 3 第3次", and "Notes 备注".)
 
 **B. Draw the graph 画图.**
 - Write the axis labels using the word bank. 用词库写出坐标轴标签。 Word bank 词库: Wing length (cm) 翼长（厘米） | Mean fall time (s) 平均下落时间（秒）

@@ -56,7 +56,7 @@ Slide 1 | Phase tag: none (title slide)
 Title: Build the case / 构建证据链
 On-slide text: Science Detectives. Week 9. All the evidence. One board. How strong is our case? 科学侦探。第9周。所有证据。一块证据板。我们的证据链有多有力？
 Vocabulary panel: none
-Visual: A corkboard covered with evidence cards (note 纸条, fingerprint 指纹, powder 粉末, puddle 一小摊液体, footprint 脚印, soil 土壤, paper towel 纸巾, sign-in sheet 登记表) joined by string to four suspect portraits along the top. One card is turned face down with a question mark. Amber series accent.
+Visual: A corkboard covered with evidence cards (note 纸条, fingerprint 指纹, powder 粉末, puddle 一小摊液体, footprint 脚印, soil 土壤, paper towel 纸巾, sign-in sheet 登记表) joined by string to four suspect portraits along the top, labelled Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Ruby Huang 黄若琳. One card is turned face down with a question mark. Amber series accent.
 Speaker notes: Next week is the Court of Science. Today we put every piece of evidence together and decide how strong our case really is.
 ```
 
@@ -141,7 +141,7 @@ Read it. 读一读。
 Check the scene map and the sign-in sheet. 核对现场平面图和登记表。
 What does it change? 它改变了什么？
 Vocabulary panel: contamination | 污染, evidence | 证据
-Visual: The cleaning log card shown as a clipboard page: "Snowfield School Cleaning Log | Lab 3 | Thursday. 6:30 pm. Mopped floor by the sink with soapy floor cleaner. Left bucket and "Wet floor" sign by the sink to dry. Some water left on the floor. Signed: Cleaning team." Title 清洁记录. Beneath the entry, in the lighter weight, the same gist line as printable 6.3 (facts only, no inference): "概要：晚上6:30用含肥皂的地板清洁剂拖了水槽旁的地，留下了桶、标志和一些水。" Beside it, a small crop of the scene map showing the puddle at I2 next to the mop bucket and "Wet floor" sign at I3, labelled "puddle 一小摊液体", "mop bucket 拖把桶", "Wet floor 小心地滑".
+Visual: The cleaning log card shown as a clipboard page: "Snowfield School Cleaning Log | Lab 3 | Thursday. 6:30 pm. Mopped floor by the sink with soapy floor cleaner. Left bucket and "Wet floor" sign by the sink to dry. Some water left on the floor. Signed: Cleaning team." Beneath the title line, in the lighter weight: "雪原学校清洁记录 | 3号实验室 | 星期四". Beneath the entry, in the lighter weight, the same gist line as printable 6.3 (facts only, no inference): "概要：晚上6:30用含肥皂的地板清洁剂拖了水槽旁的地，留下了桶、标志和一些水。" Beside it, a small crop of the scene map showing the puddle at I2 next to the mop bucket and "Wet floor" sign at I3, labelled "puddle 一小摊液体", "mop bucket 拖把桶", "Wet floor 小心地滑".
 Speaker notes: Hand out one cleaning log card per group now, only after every group has a first board. Read it aloud once. A student reads the Chinese lines and the 概要 line. Then say nothing for one minute and let groups work it out.
 ```
 
@@ -230,16 +230,16 @@ Strength key 强度判断 (with the three-bar, two-bar and one-bar icons from Sl
 
 | Evidence 证据 | Result 结果 | Matches which suspects? 符合哪些嫌疑人？ | Strength 强度 (circle one 圈出一个) |
 |---|---|---|---|
-| 1 Ink on the note 纸条墨水 | Pen B B号笔 | | Strong / Supporting / Weak |
-| 2 Fingerprint on glass 玻璃杯上的指纹 | Loop 箕形纹 | | Strong / Supporting / Weak |
-| 3 White powder 白色粉末 | Baking soda 小苏打 | | Strong / Supporting / Weak |
-| 4 Puddle of liquid 一小摊液体 | Alkali, about pH 9 碱性，pH约9 | | Strong / Supporting / Weak |
-| 5 Footprint 脚印 | 24 cm; height about 150 to 170 cm 24厘米；身高约150到170厘米 | | Strong / Supporting / Weak |
-| 6 Soil in footprint 脚印中的土壤 | Flowerbed by the science block 科学楼旁的花坛 | | Strong / Supporting / Weak |
-| 7 Paper towel 纸巾 | Lab's own paper towels 实验室自己的纸巾 | | Strong / Supporting / Weak |
-| Sign-in sheet and alibis 登记表与不在场证明 | Who was in the lab, and when 谁在实验室里，什么时候 | | Strong / Supporting / Weak |
+| 1 Ink on the note 纸条墨水 | Pen B B号笔 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 2 Fingerprint on glass 玻璃杯上的指纹 | Loop 箕形纹 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 3 White powder 白色粉末 | Baking soda 小苏打 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 4 Puddle of liquid 一小摊液体 | Alkali, about pH 9 碱性，pH约9 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 5 Footprint 脚印 | 24 cm; height about 150 to 170 cm 24厘米；身高约150到170厘米 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 6 Soil in footprint 脚印中的土壤 | Flowerbed by the science block 科学楼旁的花坛 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| 7 Paper towel 纸巾 | Lab's own paper towels 实验室自己的纸巾 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
+| Sign-in sheet and alibis 登记表与不在场证明 | Who was in the lab, and when 谁在实验室里，什么时候 | | Strong 有力 / Supporting 支持性 / Weak 薄弱 |
 
-(8 rows, about 1 cm tall. The Chinese for Strong / Supporting / Weak is given once in the strength key above the table, not in every row.)
+(8 rows, about 1 cm tall.)
 
 b) After the cleaning log. Complete: 读完清洁记录后。补全句子： "Evidence 4 is contaminated evidence because ________________________ . We set it aside." "证据4是受污染的证据，因为________________________。我们把它搁置。" (2 lines)
 
@@ -369,7 +369,7 @@ Create a half-A4 kit card for Year 8 Week 9 using the Think Like a Scientist kit
 - **Per group (4 students):** evidence card pack (8 cards plus 1 blank), 1; A3 evidence board, 1; Blu Tack or glue stick, 1; cleaning log card (**held by the teacher until minute 7 of the Do phase**), 1; expert witness statement frame, 1 (A3) or 4 (A4); case files with evidence logs, 4; worksheets, 4; self-assessment slips, 4 (from `../assessment/Rubric_and_Reporting.md`, Section 7).
 - **Per class:** photo of the Week 5 Ideas Parking Board on slide 4 (and the board itself if it is still up); photos of Week 8 results; the board notes from the Week 8 Reporter round.
 - **Teacher prep before the lesson (about 25 minutes):** Print and cut evidence card packs (one per group). Print A3 boards and cleaning log cards; put the cleaning log cards in an envelope so they cannot be seen. Print statement frames and self-assessment slips. Insert the parking board photo into slide 4. Decide expert witness roles (Section 4).
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Soil bottles on the windowsill: look only, do not open. 窗台上的土壤瓶：只能看，不要打开。
 - **Clean-up 收拾整理:** Photograph every evidence board. 给每块证据板拍照。 Boards, worksheets and statement frames go into case files. 证据板、工作纸和陈述框架放进案件档案。 Collect all case files and self-assessment slips for marking before Week 10. 第10周前收齐所有案件档案和自我评估条，以便评分。
@@ -428,7 +428,7 @@ Create an A4 landscape concept cartoon for the Think Like a Scientist Science De
 Create an A3 portrait expert witness statement frame (also printable as A4) for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 A3 per group, or 1 A4 per student. Each Chinese frame sits beneath its English frame in the lighter weight, with the same gaps in the same order.
 
 - **Header:** "Expert witness statement 专家证人陈述 | Court of Science 科学法庭 | Group 小组 ____"
-- **Our evidence (tick one) 我们的证据（勾选一项）:** ☐ Fingerprint 指纹 (Evidence 2) ☐ Ink 墨水 (Evidence 1) ☐ Powder 粉末 (Evidence 3) ☐ Liquid 液体 (Evidence 4) ☐ Footprint 脚印 (Evidence 5) ☐ Soil and paper 土壤与纸巾 (Evidence 6 and 7)
+- **Our evidence (tick one) 我们的证据（勾选一项）:** ☐ Fingerprint 指纹 (Evidence 2 证据2) ☐ Ink 墨水 (Evidence 1 证据1) ☐ Powder 粉末 (Evidence 3 证据3) ☐ Liquid 液体 (Evidence 4 证据4) ☐ Footprint 脚印 (Evidence 5 证据5) ☐ Soil and paper 土壤与纸巾 (Evidence 6 and 7 证据6和7)
 - **Four boxes, one per speaker, each with "Speaker 发言人: ________" and about 25 seconds of speaking:**
   1. **What we tested 我们检测了什么:** "We are the ________ experts. We tested Evidence ____ , the ________ found at ________ ." "我们是________专家。我们检测了证据____，即在________发现的________。"
   2. **How we tested it 我们怎样检测:** "We used ________ . We compared it with reference samples: ________ . We kept ________ the same. We repeated it ________ times." "我们用了________。我们把它与参照样本比对：________。我们保持________不变。我们重复了________次。"
