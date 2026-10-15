@@ -29,7 +29,7 @@ The lesson files in QballQ/lessons, branch claude/sharp-dirac-gcoekh, were updat
 ### 4. Year 7 Week 2, Thought experiments (follow-up only)
 
 ```
-After your rebuild of Year 7 Week 2, a few student-facing labels in Y7_Ice_Engineers/Y7_W02_Thought_experiments.md gained their Chinese (for example the "Example" lead-in on the testable questions slide, the role duties on the question sort slide, the On Earth and On the Moon captions, and the logbook label). Compare the current file with the existing artifacts https://claude.ai/artifact/59enWzYFhvwrRT2SqojThA and https://claude.ai/artifact/NtBePdQSpEwrZyVjFzenvw and add only what changed, keeping everything else exactly as it is. Use the English and Chinese exactly as written in the file.
+After your rebuild of Year 7 Week 2, a few student-facing labels in Y7_Ice_Engineers/Y7_W02_Thought_experiments.md gained their Chinese (for example the "Example" lead-in on the testable questions slide, the role duties on the question sort slide, the On Earth and On the Moon captions, and the logbook label). Compare the current file with the existing artifacts https://claude.ai/artifact/59enWzYFhvwrRT2SqojThA and https://claude.ai/artifact/NtBePdQSpEwrZyVjFzenvw and add only what changed, keeping everything else exactly as it is. Use the English and Chinese exactly as written in the file. Also show Week 2 第2周 in the slide headers and on Slide 1 (glossary Part 2: Week 第……周), and label the fold-under bank "Fold-under word bank 折叠词库" as the file has it.
 ```
 
 ### 5. Year 8 Week 2, Fingerprints

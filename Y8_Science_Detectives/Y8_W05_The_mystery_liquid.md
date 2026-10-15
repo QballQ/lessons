@@ -173,7 +173,7 @@ Write one possible explanation on a sticky note. 在便利贴上写一个可能�
 We will check these ideas later in the case. 我们以后在案件中会检验这些想法。
 One problem with this evidence is ___. 这个证据的一个问题是___。
 Vocabulary panel: evidence | 证据, consistent | 一致的
-Visual: A cork-board style frame with empty sticky-note shapes and a "P" parking sign. Example note (handwritten style): "Maybe two people were in the lab? 也许实验室里有两个人？"
+Visual: A cork-board style frame with empty sticky-note shapes and a "P" parking sign. Example note (handwritten style), tagged "Example 例子": "Maybe two people were in the lab? 也许实验室里有两个人？"
 Speaker notes: A student reads the Chinese lines and the Chinese frame. Notes may be written in Chinese. Stick notes on the board as students leave. Do not sort them yet. Photograph the board: it goes in the handover folder for the Week 9 lesson. Students circle their confidence in the evidence log.
 ```
 

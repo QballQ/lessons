@@ -352,10 +352,10 @@ Create a half-A4 kit card for Year 7 Week 2 using the Think Like a Scientist kit
 - Keep the mystery cups sealed. Never put small objects in your mouth.
   神秘杯子请保持密封。不要把小物件放进嘴里。
 - Only the teacher drops the book, from about 1 m, onto a table or the floor. Keep feet and hands clear.
-  只有老师投放书本，高度约1米，落在桌面或地面上。手脚请远离。
+  只有老师松手让书本落下，高度约1米，落到桌面或地面上。手脚请远离。
 
 **Clean-up 收拾整理**
-- Cups checked for intact tape and returned to the teacher box (keep for future years). 检查杯子的胶带是否完好，放回老师的盒子里。
+- Cups checked for intact tape and returned to the teacher box (keep for future years). 检查杯子的胶带是否完好，放回老师的盒子里（留到以后几年再用）。
 - Question cards counted (12) and returned to the envelope. 数一数问题卡片（12张），放回信封。
 
 ---
