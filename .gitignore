@@ -1,0 +1,6 @@
+design/export_all/
+design/export_tools/fontcache/
+design/export_tools/docs_html/
+design/export_tools/doc_jobs.json
+design/export_tools/ready.json
+__pycache__/
