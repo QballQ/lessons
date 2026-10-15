@@ -27,7 +27,7 @@ Exported on 15 October 2026 from the designed slides and printables in Claude De
 
 ### Notes
 
-- **PowerPoint fonts.** The PowerPoint files use Arial and Georgia so they look the same on any school computer. The PDFs use the programme fonts (EB Garamond and Noto Sans). If you edit a slide in PowerPoint, the PDF will not change: save a new PDF from PowerPoint (File, Save As, PDF).
+- **PowerPoint fonts.** The PowerPoint files use Arial and Garamond, which come with Microsoft Office, so they look the same on any school computer. The PDFs use the programme fonts (EB Garamond and Noto Sans). If you edit a slide in PowerPoint, the PDF will not change: save a new PDF from PowerPoint (File, Save As, PDF).
 - **Printing.** Print printables at 100% ("Actual size"), not "Fit to page", so A5 cards stay A5. Print the Year 8 pH colour chart in colour and laminate it.
 - **Chinese text.** All Chinese is marked "draft, needs native-speaker check". Check before printing class sets.
 - **If a deck is rebuilt in Claude Design later,** these files will be out of date for that week. Use the Download button on that deck (PowerPoint or PDF), or ask for a fresh export.

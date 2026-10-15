@@ -17,6 +17,7 @@ def place(src, dst, kind=None):
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     if kind == 'slides_pdf': shrink(src, dst, 150, 80)
     elif kind == 'print_pdf': shrink(src, dst, 200, 82)
+    elif kind == 'pptx': subprocess.run([sys.executable, os.path.join(HERE, 'pptx_fonts.py'), src, dst], check=True)
     else: shutil.copyfile(src, dst)
 if os.path.exists(OUT): shutil.rmtree(OUT)
 os.makedirs(OUT)
@@ -39,7 +40,7 @@ for y, (folder, repodir) in YEARS.items():
         w, title = m.group(1), m.group(2)
         wd = os.path.join(OUT, folder, f'Week_{w}_{title}')
         pre = f'{y}_W{w}'
-        place(os.path.join(RAW, f'{pre}_slides.pptx'), os.path.join(wd, f'{pre}_Slides.pptx'))
+        place(os.path.join(RAW, f'{pre}_slides.pptx'), os.path.join(wd, f'{pre}_Slides.pptx'), 'pptx')
         place(os.path.join(RAW, f'{pre}_slides.pdf'), os.path.join(wd, f'{pre}_Slides.pdf'), 'slides_pdf')
         place(os.path.join(RAW, f'{pre}_printables.pdf'), os.path.join(wd, f'{pre}_Printables.pdf'), 'print_pdf')
         place(os.path.join(DOCS, f'{pre}_lesson_file.pdf'), os.path.join(wd, f'{pre}_Lesson_file.pdf'))

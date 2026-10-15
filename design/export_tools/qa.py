@@ -58,9 +58,12 @@ def qa(slug):
         r['sheets'] = sheet(pdf, slug, 4, 30)
         if os.path.exists(pp) and os.environ.get('QA_PPTX_RENDER', '1') == '1':
             lo = os.path.join(QA, 'lo'); os.makedirs(lo, exist_ok=True)
+            # render the delivered version: serif swapped to Garamond (alias Garamond to EB Garamond in fontconfig for a faithful preview)
+            sw = os.path.join(lo, slug + '.pptx')
+            subprocess.run([sys.executable, os.path.join(HERE, 'pptx_fonts.py'), pp, sw], check=True)
             # SOFFICE_WRAPPER: the pptx skill's scripts/office/soffice.py (bare soffice can hang in a sandbox); needs LibreOffice Impress
             wrapper = os.environ.get('SOFFICE_WRAPPER')
-            cmd = ([sys.executable, wrapper] if wrapper else ['soffice']) + ['--headless', '--convert-to', 'pdf', '--outdir', lo, pp]
+            cmd = ([sys.executable, wrapper] if wrapper else ['soffice']) + ['--headless', '--convert-to', 'pdf', '--outdir', lo, sw]
             subprocess.run(cmd, capture_output=True, timeout=600)
             lp = os.path.join(lo, slug + '.pdf')
             if os.path.exists(lp):
