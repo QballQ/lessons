@@ -56,7 +56,7 @@ Slide 1 | Phase tag: none (title slide)
 Title: Lab day / 检测日
 On-slide text: Science Detectives. Week 8. Your plan. Your test. Your evidence. 科学侦探。第8周。你们的计划。你们的检测。你们的证据。
 Vocabulary panel: none
-Visual: Four lab stations in a row seen from the front, each with its kit: settling bottles (Soil), paper strips over cups (Paper), chromatography strips in three cups (Ink 2), spotting tiles and a magnifier (Powder 2). Goggles on the bench. Amber series accent.
+Visual: Four lab stations in a row seen from the front, each with its kit and a short label: settling bottles (Soil 土壤), paper strips over cups (Paper 纸巾), chromatography strips in three cups (Ink 2 墨水2), spotting tiles and a magnifier (Powder 2 粉末2). Goggles on the bench. Amber series accent.
 Speaker notes: Today you are the forensic lab. Work carefully, repeat, and record everything. Next week your results go on the evidence board.
 ```
 
@@ -69,7 +69,7 @@ On-slide text:
 3. Read your plan. 3. 阅读你们的计划。
 4. Roles agreed. 4. 确认分工。
 Vocabulary panel: method | 实验步骤, hazard | 危险源, record | 记录
-Visual: A checklist with four tick boxes beside a tray icon, a kit card icon and the five role icons (Lead Scientist, Measurer, Recorder, Safety Officer, Reporter). 3-minute timer.
+Visual: A checklist with four tick boxes beside a tray icon, a kit card icon and the five role icons, each captioned with its role name only, English and Chinese (Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员, Reporter 汇报员). 3-minute timer.
 Speaker notes: Your plan sheet has my comments on it. Fix anything I have marked before you start. Do not open any sample until the Safety Officer has read the hazards. A student reads the four Chinese lines before any tray is opened; the Safety Officer reads the kit card hazards in English and Chinese.
 ```
 
@@ -94,7 +94,7 @@ Did you repeat it? 你们重复了吗？
 Did you test the references the same way? 你们用同样的方法检测参照样本了吗？
 Could your sample be contaminated? 你们的样本可能被污染了吗？
 Vocabulary panel: repeat | 重复, reference sample | 参照样本, reliable | 可靠的
-Visual: Three large question cards on a courtroom bench, each with an icon: a circular arrow (repeat), a row of identical jars (same way), a smudged spoon (contamination).
+Visual: Three large question cards on a courtroom bench, each with an icon: a circular arrow (repeat 重复), a row of identical jars (same way 同样的方法), a smudged spoon (contamination 污染).
 Speaker notes: Next week you build the case, and in Week 10 you present to the Court of Science. The jury will ask these questions, so make sure today you can answer "yes, yes, and here is how we stopped it". A student reads the three Chinese lines.
 ```
 
@@ -103,7 +103,7 @@ Slide 5 | Phase tag: Learn 新知
 Title: Safety / 安全须知
 On-slide text: Goggles for vinegar, iodine and shaking bottles. 使用白醋、碘液和摇瓶时请戴护目镜。 Never taste any sample. 不要品尝任何样本。 Wash hands after soil. 接触土壤后请洗手。 Wipe spills at once. 洒出的液体要立即擦干。
 Vocabulary panel: none
-Visual: Fully bilingual high-visibility safety layout with icons: goggles, a crossed-out mouth, hand washing, a cloth wiping a spill, an allergy alert (Powder 2 only), a plastic bottle with a tick and a glass jar with a cross.
+Visual: Fully bilingual high-visibility safety layout with icons: goggles, a crossed-out mouth, hand washing, a cloth wiping a spill, an allergy alert (Powder 2 only) captioned "Powder 2: food allergy? Tell the teacher. 粉末2：如有食物过敏，请告诉老师。", a plastic bottle with a tick and a glass jar with a cross, captioned "Plastic, not glass. 用塑料瓶，不要用玻璃瓶。"
 Speaker notes: Safety Officers check goggles before any vinegar or iodine is opened and before any soil bottle is shaken. Powder 2 groups: anyone with a wheat or corn allergy is the Recorder today.
 ```
 
@@ -113,7 +113,7 @@ Title: Record like a forensic scientist / 像法庭科学家一样记录
 On-slide text: Record straight away. Units in the heading. Never rub out: cross out with one line. Circle anything odd and write why.
 Key idea 核心概念: 结果要立刻记录，表头写单位；不擦掉，划一条线；圈出异常并写明原因。
 Vocabulary panel: record | 记录, results table | 结果表格, anomaly | 异常值, repeat | 重复
-Visual: A close-up of a recording sheet with: units in brackets in the headings, one result neatly crossed out with a single line and the new value beside it, one value circled with a note "strip touched the cup", and a "Repeat 2" column filled in.
+Visual: A close-up of a recording sheet with: units in brackets in the headings (first column "Sample 样本" with rows P1 to P4, then "Height (mm) 高度（毫米）"), one result neatly crossed out with a single line and the new value beside it, one value circled with a note "strip touched the cup 纸巾条碰到了杯子", and a "Repeat 2 重复2" column filled in.
 Speaker notes: Real forensic scientists never rub out results, because the court may ask what happened. A surprising result is not a failure: record it honestly and look for a reason. A student reads the Key idea line in Chinese.
 ```
 
@@ -149,7 +149,7 @@ Which reference does the scene sample match? 现场样本与哪个参照样本�
 Did the repeats agree? 重复结果一致吗？
 Which suspects does it rule in or out? 它能把哪些嫌疑人纳入或排除？
 Vocabulary panel: match | 匹配, reliable | 可靠的, anomaly | 异常值
-Visual: The scene sample in the centre with dashed arrows to four reference samples, one arrow bold with a tick. Below, a small tracker grid of the four suspects with question marks. Frame strip: "The scene sample matches ___ because ___." 现场样本与___匹配，因为___。
+Visual: The scene sample in the centre, labelled "Scene sample 现场样本", with dashed arrows to four reference samples grouped under the label "References 参照样本", one arrow bold with a tick. Below, a small tracker grid of the four suspects (one row each: Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Ruby Huang 黄若琳) with question marks. Frame strip: "The scene sample matches ___ because ___." 现场样本与___匹配，因为___。
 Speaker notes: Look at every test, not just one. Then think about the case: if the scene sample matches something everybody used, can it rule anyone out? A student reads the Chinese lines and the Chinese frame.
 ```
 
@@ -161,7 +161,7 @@ One sentence each: 每组说一句：
 Our test showed ___ . 我们的检测显示___。
 This evidence is strong / supporting / weak because ___ . 这个证据有力／支持性／薄弱，因为___。
 Vocabulary panel: reliable | 可靠的, match | 匹配, evidence | 证据
-Visual: Six speech bubbles in a circle labelled Group 1 to Group 6, each with its option icon. Frame strip at the bottom. The frames are English with the Chinese frames beneath.
+Visual: Six speech bubbles in a circle labelled Group 1 to Group 6, each with its option icon and option name (Soil 土壤, Paper 纸巾, Ink 2 墨水2 or Powder 2 粉末2). Frame strip at the bottom. The frames are English with the Chinese frames beneath.
 Speaker notes: Twenty seconds per Reporter. Write each group's result on the board under the four option headings. Everyone will need the other groups' results next week. Reporters may say their sentence in Chinese and then the English key word.
 ```
 
@@ -172,7 +172,7 @@ On-slide text:
 Row 8: evidence, test, result, ruled in, ruled out, strength. 第8行：证据、检测方法、结果、符合、排除、证据强度。
 Copy the other groups' results from the board. 从黑板上抄写其他组的结果。
 Vocabulary panel: evidence | 证据, reliable | 可靠的
-Visual: Row 8 of the evidence log enlarged, with a pencil filling in the columns, and a small note "Other groups' results: write under the table 其他组的结果写在表格下方".
+Visual: Row 8 of the evidence log enlarged, under the log's printed column headings "Week 周", "Evidence 证据", "Test 检测方法", "Result 结果", "Ruled IN 符合", "Ruled OUT 排除", "Strength 证据强度", with a pencil filling in the columns, and a small note "Other groups' results: write under the table 其他组的结果写在表格下方".
 Speaker notes: Many groups will find their result rules nobody out. That is a real and useful finding: it tells the jury what the evidence does not show.
 ```
 
@@ -184,7 +184,7 @@ On-slide text:
 2. Did our repeats agree? 2. 我们的重复结果一致吗？
 3. Strong, supporting or weak evidence? Why? 3. 有力、支持性还是薄弱证据？为什么？
 Vocabulary panel: repeat | 重复, reliable | 可靠的, match | 匹配
-Visual: Exit ticket strip with cut line. It ends with the two "Today I can 今天我能" tick boxes. Teaser icon: a corkboard with evidence cards and string (next week: build the case).
+Visual: Exit ticket strip with cut line. It ends with the two "Today I can 今天我能" tick boxes. Teaser icon: a corkboard with evidence cards and string (next week: build the case), captioned "Next week: Build the case 下周：构建证据链".
 Speaker notes: Collect at the door. Recording sheets and worksheets go into case files. Next week we put all the evidence together on one board, and something unexpected turns up.
 ```
 
