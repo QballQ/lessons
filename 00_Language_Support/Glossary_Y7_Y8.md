@@ -920,3 +920,32 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | world figure (Stretch b frame) | 世界数据 | Y8 W2 |
 | yes / no question | 是／否问题 | Y8 W4 |
 | Your slip is for group (Slide 7 label) | 你的反馈对象 | Y8 W10 |
+
+### Added before Week 1: skills checks and picture labels
+
+| English | 中文 | Where |
+|---|---|---|
+| You can write any answer in Chinese. (paper header line) | 所有书面答案都可以用中文写。 | Skills Checks Y7 and Y8 |
+| tray (ice cube tray) | 冰格 | Skills Check Y7 Q3 (a flat tray stays 托盘) |
+| metal tray / plastic tray | 金属托盘 / 塑料托盘 | Skills Check Y7 Q2 |
+| plate | 盘子 | Skills Check Y7 Q3, Q7 |
+| winter festival | 冬季节日 | Skills Check Y7 Q2 |
+| cat / playground | 猫 / 操场 | Skills Check Y7 Q1 |
+| keeps (an ice cube) frozen | 保持冻结 | Skills Check Y7 Q4 |
+| on a cold day | 在一个寒冷的日子 | Skills Check Y7 Q5 |
+| about head height | 大约和头一样高的位置 | Skills Check Y7 Q9 |
+| Mass of ice left over time (graph title) | 剩下的冰的质量随时间的变化 | Skills Check Y7 Q7 |
+| Thickness of wool and time to melt (graph title) | 毛线厚度与熔化时间 | Skills Check Y7 Q8 |
+| Detective Lin / Detective Hu / Detective Bo | Lin侦探 / Hu侦探 / Bo侦探 | Skills Check Y8 (names stay in Latin letters) |
+| fake blood (red water) | 假血（红色的水） | Skills Check Y8 Q3 |
+| dropper (the tool) | 滴管 | Skills Check Y8 Q3; Y8 W4, W7, W8 (not the Year 7 Dropper role 投放员) |
+| stain (fake blood stain) | 血迹 | Skills Check Y8 Q3 |
+| width (of a stain) | 宽度 | Skills Check Y8 Q3 |
+| window / pieces of glass | 窗户 / 玻璃碎片 | Skills Check Y8 Q1 |
+| drawer | 抽屉 | Skills Check Y8 Q1, Q10 |
+| Suspect 1 to Suspect 4 (numbered suspects) | 1号嫌疑人 到 4号嫌疑人 | Skills Check Y8 Q2, Q10 |
+| kind person | 善良的人 | Skills Check Y8 Q2 |
+| detective film | 侦探电影 | Skills Check Y8 Q2 |
+| witness (eyewitness) | 目击者 | Skills Check Y8 Q10 (not expert witness 专家证人) |
+| a person in a dark coat | 穿深色外套的人 | Skills Check Y8 Q10 |
+| size 38 (shoe size) | 38码 | Skills Check Y8 Q10 |
