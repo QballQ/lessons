@@ -94,7 +94,7 @@ Title: Is black ink just black? / 黑墨水只是黑色吗？
 On-slide text:
 Predict: what will happen when water climbs up through a dot of black ink? 预测：当水向上爬过一个黑墨点时，会发生什么？
 Vocabulary panel: mixture | 混合物, dye | 染料
-Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click). Captions: "Before 之前" under the left strip and "After 之后" under the right strip.
+Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click). Captions: "Before 测试前" under the left strip and "After 测试后" under the right strip.
 Speaker notes: A student reads the Chinese line. Take predictions first. Then hold up a dried pre-test strip. Black ink is a mixture of dyes. Different pens use different mixtures, so each pen has its own pattern, like a fingerprint for ink.
 ```
 
@@ -191,7 +191,7 @@ On-slide text:
 2. Who is ruled out? 哪些嫌疑人被排除？
 3. Why do we need reference samples? 我们为什么需要参照样本？
 Vocabulary panel: reference sample | 参照样本, chromatography | 色谱法
-Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes. Teaser icon: a small pile of white powder with a question mark (next week). Self-check line on the strip: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser caption: "Next week: the white powder 下周：白色粉末".
+Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes. Teaser icon: a small pile of white powder with a question mark (next week). On the strip: "Exit ticket 离场小测" and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser caption: "Next week: the white powder 下周：白色粉末".
 Speaker notes: A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Collect at the door. Strips dry on paper towels and go into case files next week. Next week: the white powder.
 ```
 
