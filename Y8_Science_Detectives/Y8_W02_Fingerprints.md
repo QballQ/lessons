@@ -72,7 +72,7 @@ Use your suspect cards. 使用你的嫌疑人卡。
 3. Who has the biggest feet? 谁的脚最大？
 4. Who is linked to salt? 谁与食盐有关？
 Vocabulary panel: suspect | 嫌疑人, alibi | 不在场证明, evidence | 证据
-Visual: Four small suspect portraits in a row with names, and four numbered question boxes. 4-minute timer.
+Visual: Four small suspect portraits in a row with names (Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Ruby Huang 黄若琳), and four numbered question boxes. 4-minute timer.
 Speaker notes: Answers: 1 Max Zhang and Dr Huang. 2 Dr Huang (out at 7:20 pm). 3 Max Zhang (size 44). 4 Lily Chen. If anyone has not filled in row 1 of the evidence log, do it now. A student reads the Chinese line of each question.
 ```
 
@@ -105,7 +105,7 @@ Title: Three fingerprint patterns / 三种指纹纹型
 On-slide text: Loop: in and back out the same side. Whorl: circles or a spiral. Arch: in one side, over a hill, out the other side.
 Key idea 核心概念: 指纹分三种纹型：箕形纹、斗形纹、弓形纹。
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹, classify | 分类
-Visual: Three large, clear, black line drawings of fingerprint patterns side by side, each labelled with English and Chinese. Loop: ridges entering from the left, curving round and leaving on the left, with a small triangle where lines meet on the right. Whorl: concentric circles in the centre. Arch: ridges flowing left to right with a gentle hump in the middle, no circles. A small hand gesture icon for each (curved finger for loop, circling finger for whorl, finger tracing a hill for arch).
+Visual: Three large, clear, black line drawings of fingerprint patterns side by side, each labelled with English and Chinese ("Loop 箕形纹", "Whorl 斗形纹", "Arch 弓形纹"). Loop: ridges entering from the left, curving round and leaving on the left, with a small triangle where lines meet on the right. Whorl: concentric circles in the centre. Arch: ridges flowing left to right with a gentle hump in the middle, no circles. A small hand gesture icon for each (curved finger for loop, circling finger for whorl, finger tracing a hill for arch). The gesture icons share the drawing labels; no extra English.
 Speaker notes: Teach a gesture for each pattern and have the class copy it. Loop: draw a U on its side in the air. Whorl: draw a circle. Arch: draw a hill. A student reads the Key idea line.
 ```
 
@@ -117,7 +117,7 @@ A, B, C, D: loop, whorl or arch? A、B、C、D：箕形纹、斗形纹还是弓�
 Show the gesture. 做手势。
 Key idea 核心概念: 箕形纹开口向左或向右，都是箕形纹。
 Vocabulary panel: same as previous
-Visual: Four smaller fingerprint drawings labelled A to D: A whorl, B loop opening to the right, C arch, D loop opening to the left.
+Visual: Four smaller fingerprint drawings labelled A to D: A whorl, B loop opening to the right, C arch, D loop opening to the left. Print the letters only, not the pattern names.
 Speaker notes: Answers: A whorl, B loop, C arch, D loop. Point out that loops can open to the left or the right: both are loops. A student reads the Chinese lines.
 ```
 
@@ -127,7 +127,7 @@ Title: How common is each type? / 每种纹型有多常见？
 On-slide text: Loop about 60 to 65%. Whorl about 30 to 35%. Arch about 5%. Common evidence matches many people.
 Key idea 核心概念: 常见的纹型很多人都有，所以是薄弱证据。
 Vocabulary panel: common / rare | 常见的／罕见的, loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹
-Visual: A row of 20 small person icons: 13 shaded for loop, 6 with a circle symbol for whorl, 1 with a hill symbol for arch, with a key. Greyscale-safe (patterns, not colour).
+Visual: A row of 20 small person icons: 13 shaded for loop, 6 with a circle symbol for whorl, 1 with a hill symbol for arch, with a key labelled "Loop 箕形纹", "Whorl 斗形纹" and "Arch 弓形纹". Caption under the row: "20 people 20个人". Greyscale-safe (patterns, not colour).
 Speaker notes: Out of 20 people, about 13 have loops, 6 have whorls and only 1 has arches. Ask: "If the scene print is a loop, how many people could have left it?" Let's see if our class is similar. A student reads the Key idea line.
 ```
 
@@ -141,7 +141,7 @@ On-slide text:
 4. Peel and stick on the card. 揭下来，粘贴到记录卡上。
 5. Classify! 分类！
 Vocabulary panel: fingerprint | 指纹, classify | 分类, pattern | 纹型
-Visual: Five picture steps in a row: (1) pencil shading a dark 3 cm square on scrap paper; (2) fingertip rubbed on the square, turning grey; (3) a strip of clear tape pressed on the fingertip; (4) the tape peeled off and stuck onto a box on a white card; (5) a magnifying glass over the print with a question mark. Timer: 5 minutes.
+Visual: Five picture steps in a row: (1) pencil shading a dark 3 cm square on scrap paper; (2) fingertip rubbed on the square, turning grey; (3) a strip of clear tape pressed on the fingertip; (4) the tape peeled off and stuck onto a box on a white card; (5) a magnifying glass over the print with a question mark. Each picture is captioned only by its numbered step line, English with the Chinese beneath; no extra English. Timer: 5 minutes.
 Speaker notes: Say, show, check: read each step in English, a student reads the Chinese line, thumbs check before anyone starts. Measurer shades, everyone takes their own print. Start with your right index finger. If the print is too dark, rub less graphite. Safety Officer: everyone washes hands at the end.
 ```
 
@@ -167,7 +167,7 @@ Classify each suspect. 给每位嫌疑人的指纹分类。
 Who matches? 谁匹配？
 Who is ruled out? 谁被排除？
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹, evidence | 证据
-Visual: Thumbnail of the Fingerprint File: one larger smudged print labelled "Scene print (glass) 现场指纹（玻璃杯）" at the top, five smaller labelled prints beneath (Lily Chen, Max Zhang, Chef Zhou, Dr Huang, Professor Frost).
+Visual: Thumbnail of the Fingerprint File: one larger smudged print labelled "Scene print (glass) 现场指纹（玻璃杯）" at the top, five smaller labelled prints beneath (Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Huang 黄博士, Professor Frost 弗罗斯特教授).
 Speaker notes: The scene print is smudged, so we can only see its type, not the tiny details real experts compare. That is an honest limit of our evidence. Four minutes. Say, show, check first: a student reads the Chinese lines, thumbs check.
 ```
 
@@ -190,7 +190,7 @@ On-slide text:
 3. Is this evidence strong or weak? 这个证据有力还是薄弱？
 Why? 为什么？
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹
-Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes. Teaser icon in corner: a black ink dot spreading into colours (next week: chromatography).
+Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser icon in corner: a black ink dot spreading into colours (next week: chromatography), captioned "Next week: chromatography 下周：色谱法".
 Speaker notes: A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Collect at the door. Next week: who wrote the note? We will find out what is hiding inside black ink.
 ```
 
@@ -330,7 +330,7 @@ Create a half-A4 kit card for Year 8 Week 2 using the Think Like a Scientist kit
   - Fingerprint File (printed), 1
   - Paper towels or wet wipes, a few
 - **Teacher prep before the lesson (about 15 minutes):** Print fingerprint record cards on white card (one per student) and the Fingerprint File (one per group). Draw the tally table on the board. Label its rows as on the Slide 9 visual (Loop 箕形纹 / Whorl 斗形纹 / Arch 弓形纹 / Total 总数), so students copy each row by its label, not by its position. Set out trays. Optional: tape a printed copy of the scene print onto a real glass for display.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - Pencil graphite makes fingers dirty. Wash your hands after taking fingerprints. 铅笔石墨会弄脏手指。采集指纹后请洗手。
   - Do not put pencils or tape in your mouth. 不要把铅笔或胶带放进嘴里。
   - Take only your own fingerprints. 只采集自己的指纹。
@@ -345,7 +345,7 @@ Create a half-A4 landscape fingerprint record card for the Think Like a Scientis
 - Header: "Fingerprint record card 指纹记录卡 | Science Detectives 科学侦探" and fields "Name 姓名 ________ Class 班级 ________".
 - A row of five equal boxes (each 4 cm wide by 5 cm tall), labelled underneath: "Right thumb 右手拇指 | Right index 右手食指 | Right middle 右手中指 | Right ring 右手无名指 | Right little 右手小指". The right index box has a thicker border and a small star with the note "Start here 从这里开始".
 - Under each box, three small tick boxes in a row: "☐ Loop 箕形纹 ☐ Whorl 斗形纹 ☐ Arch 弓形纹".
-- Right-hand strip: a mini guide with three tiny line drawings (loop, whorl, arch) and their names, labelled "Pattern guide 纹型指南". Beside each drawing, the matching small hand gesture icon from Slide 5.
+- Right-hand strip: a mini guide with three tiny line drawings (loop, whorl, arch) and their names ("Loop 箕形纹", "Whorl 斗形纹", "Arch 弓形纹"), labelled "Pattern guide 纹型指南". Beside each drawing, the matching small hand gesture icon from Slide 5.
 - Footer line: "My right index finger is a ________ . 我的右手食指是 ________ 。"
 
 ### 6.2 Fingerprint File (scene print and references)

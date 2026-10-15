@@ -97,7 +97,7 @@ Colour one face. 给一个表情涂色。
 There are no right or wrong answers. 没有对错之分。
 3 minutes. 3分钟。
 Vocabulary panel: none
-Visual: A row of five smiley faces from very unhappy to very happy, matching the survey scale.
+Visual: A row of five smiley faces from very unhappy to very happy, matching the survey scale. End labels, as on the survey: "Strongly disagree 非常不同意" under the first face and "Strongly agree 非常同意" under the last.
 Speaker notes: Read each survey statement aloud. Students may answer honestly in any way; their answers stay private. Collect the survey before moving on.
 ```
 
@@ -124,7 +124,7 @@ Fresh snow. 新雪。
 Two tracks. 两条足迹。
 What do you notice? 你注意到了什么？
 Vocabulary panel: footprint | 脚印; track | 足迹
-Visual: Full-width image of Footprint Puzzle Stage 1 (see Section 6): top-down view of fresh snow, large four-toed paw prints entering from the left, small three-toed prints in pairs coming down from a tree trunk at the top left.
+Visual: Full-width image of Footprint Puzzle Stage 1 (see Section 6): top-down view of fresh snow, large four-toed paw prints entering from the left, small three-toed prints in pairs coming down from a tree trunk at the top left. Caption: "Stage 1 第一阶段".
 Speaker notes: Give pairs 30 seconds to whisper what they notice, in any language. Take two or three ideas. Do not say who is right; say "Interesting, how do you know?"
 ```
 
@@ -144,7 +144,7 @@ Title: Observation or inference? / 观察还是推断？
 On-slide text: Observation: what I see, hear, touch or measure. Inference: what I think it means.
 Key idea 核心概念: 观察是我看到、听到、摸到或测到的；推断是我认为它的含义。
 Vocabulary panel: observation | 观察; inference | 推断; evidence | 证据
-Visual: Photo-style illustration of a melted snowman: a puddle on a path with a carrot, two black stones, a red scarf and a stick lying in it. A sun in a clear blue sky. Two labelled speech bubbles: an eye icon for observation 观察, a thought bubble for inference 推断.
+Visual: Photo-style illustration of a melted snowman: a puddle on a path with a carrot, two black stones, a red scarf and a stick lying in it. A sun in a clear blue sky. Two labelled speech bubbles: an eye icon for observation 观察, a thought bubble for inference 推断. Bubble labels: "Observation 观察" and "Inference 推断".
 Speaker notes: Point to the picture. "I observe a carrot in a puddle" is an observation: we can all see it. "I infer a snowman melted because it was sunny" is an inference: it is what we think happened. Ask: what else can you observe?
 ```
 
@@ -172,7 +172,7 @@ Stage 1: write 3 observations and 1 inference. 第一阶段：写3个观察和1�
 Wait for Stage 2. 等待第二阶段。
 Your story can change! 你的故事可以改变！
 Vocabulary panel: observation | 观察; inference | 推断; track | 足迹; clue | 线索
-Visual: Three envelope icons labelled Stage 1 第一阶段, Stage 2 第二阶段, Stage 3 第三阶段, with only Stage 1 open. The two frames shown in a box: "I observe ___." 我观察到___。 "I infer ___ because ___." 我推断___，因为___。
+Visual: Three envelope icons labelled Stage 1 第一阶段, Stage 2 第二阶段, Stage 3 第三阶段, with only Stage 1 open. The two frames shown in a box: "I observe ___." 我观察到___。 "I infer ___ because ___." 我推断___，因为___。 Box heading: "Sentence frames 句型框架".
 Speaker notes: Say, show, check before the envelopes open: read the English, a student reads the Chinese line, thumbs check. Lead Scientists collect Stage 1. Groups talk in any language, but each student writes their own table in English or Chinese, using the English key words. Give Stage 2 after about 3 minutes and Stage 3 after about 6 minutes. Keep asking: "What can you see that makes you think that?"
 ```
 
@@ -185,7 +185,7 @@ What is new? 有什么新发现？
 Does your story still fit? 你的故事还成立吗？
 If not, change it. 如果不成立，就改变它。
 Vocabulary panel: evidence | 证据; inference | 推断; clue | 线索
-Visual: The full Footprint Puzzle Stage 3 image (see Section 6), shown only after groups have received the Stage 3 card. Before that, show the Stage 2 image.
+Visual: The full Footprint Puzzle Stage 3 image (see Section 6), shown only after groups have received the Stage 3 card. Before that, show the Stage 2 image. Caption each image with its stage: "Stage 2 第二阶段" or "Stage 3 第三阶段".
 Speaker notes: Show Stage 2 on the screen when groups get the Stage 2 card, then Stage 3. A student reads the Chinese lines each time. Stretch: "At first I inferred ___. Now I infer ___ because ___." 起初我推断___。现在我推断___，因为___。 Challenge: can your group find two stories that both fit all the evidence?
 ```
 
@@ -197,7 +197,7 @@ Story A: the fox caught the bird. 故事A：狐狸抓住了鸟。
 Story B: the bird flew away. 故事B：鸟飞走了。
 Which clues support each story? 哪些线索支持哪个故事？
 Vocabulary panel: evidence | 证据; inference | 推断; clue | 线索
-Visual: The Stage 3 image with two arrows: one pointing to the feather (labelled Story A 故事A), one pointing to the wing marks (labelled Story B 故事B).
+Visual: The Stage 3 image with two arrows: one pointing to the feather (labelled Story A 故事A), one pointing to the wing marks (labelled Story B 故事B). Caption: "Stage 3 第三阶段".
 Speaker notes: Ask two Reporters to share their story with the frame. Point out that the feather supports Story A and the wing marks support Story B. Scientists often cannot be completely sure, so they say which story the evidence supports best and what evidence would help. Pair talk in any language is welcome.
 ```
 
@@ -208,7 +208,7 @@ On-slide text:
 Exit ticket: one observation and one inference about the picture. 离场小测：写出关于图片的一个观察和一个推断。
 Logbook: write your name and one thing you did today. 科学日志：写上你的名字和今天做的一件事。
 Vocabulary panel: observation | 观察; inference | 推断; scientist | 科学家
-Visual: Exit ticket picture: a wet umbrella dripping on a mat beside a classroom door. Small logbook icon (A5 booklet) with the four headings: What I did 我做了什么 / What I found 我发现了什么 / New words 新词汇 / A question I still have 我还想知道.
+Visual: Exit ticket picture: a wet umbrella dripping on a mat beside a classroom door. Small logbook icon (A5 booklet) with the four headings: What I did 我做了什么 / What I found 我发现了什么 / New words 新词汇 / A question I still have 我还想知道. Captions: "Exit ticket 离场小测" under the umbrella picture and "Logbook 科学日志" on the logbook icon.
 Speaker notes: A student reads the Chinese lines. Students complete the exit ticket strip at the bottom of the worksheet, then open their new Scientist's Logbook and fill in "What I did" (and "New words" if time). Point to the self-check line on the strip: tick each goal you can do. Collect exit tickets at the door.
 ```
 
@@ -236,7 +236,7 @@ Look at the picture: a melted snowman (a puddle with a carrot, two black stones,
 Write **O** for observation or **I** for inference in each box. 在每个框里写O（观察）或I（推断）。
 (The melted snowman picture from Slide 7 prints here, about 5 cm tall, beside the instruction. In the table heading, a small eye icon sits beside O and a small thought-bubble icon beside I, the same icons as Slides 7 and 8.)
 
-| Statement 陈述 | O or I O 还是 I |
+| Statement 陈述 | O or I 观察（O）还是推断（I） |
 |---|---|
 | Example 例子: There is a stick in the puddle. 水坑里有一根木棍。 | O |
 | 1. There is a carrot in the puddle. 水坑里有一根胡萝卜。 | ☐ |
@@ -281,7 +281,7 @@ observation 观察 | inference 推断 | evidence 证据 | clue 线索 | track �
 
 **8. Exit ticket strip 离场小测** (cut line above)
 Exit ticket 离场小测 | Week 1 第1周 | Name 姓名: __________
-Picture: a wet umbrella dripping on a mat beside a classroom door.
+Picture: a wet umbrella dripping on a mat beside a classroom door. 图片：一把湿雨伞在教室门边的地垫上滴水。
 Word bank 词库: umbrella 雨伞 | wet 湿的 | dripping 滴水 | rain 雨 | door 门 | mat 地垫
 One observation 一个观察: I observe ______________________________. 我观察到___。
 One inference 一个推断: I infer ______________________________ because ______________________________. 我推断___，因为___。
@@ -346,13 +346,13 @@ Create a half-A4 kit card for Year 7 Week 1 using the Think Like a Scientist kit
 - Put the three puzzle stages into labelled envelopes for each group; keep Stage 2 and 3 envelopes on the teacher desk (5 min).
 - Set out name cards using the group seating plan, and one set of role cards per table (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Keep bags and coats under the tables so walkways stay clear.
   书包和外套放在桌子下面，保持通道畅通。
 
-**Clean-up**
+**Clean-up 收拾整理**
 - Puzzle cards back into their envelopes, all three stages in order. 拼图卡片放回信封，三个阶段按顺序放好。 Envelopes returned to the teacher. 信封交还给老师。
 - Logbooks collected and stored in the class box. 科学日志收齐，放进班级箱子。
 
@@ -364,7 +364,7 @@ Create a half-A4 kit card for Year 7 Week 1 using the Think Like a Scientist kit
 
 Create a set of three A4 landscape puzzle cards for Year 7 Week 1, "The footprint puzzle | 脚印之谜", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable line drawings. Print spec: 6 sets per class (18 cards), single-sided, ideally on card or laminated so they can be reused.
 
-**The whole scene (for the illustrator).** A top-down (bird's-eye) view of a flat area of fresh, smooth snow, drawn as a white background with light grey shading for texture. The scene is one long picture divided into three equal vertical thirds: left, middle and right. Card 1 shows the left third only. Card 2 shows the left and middle thirds. Card 3 shows the whole scene. Each card uses the same scale so the parts line up exactly. A scale bar "10 cm" sits in the bottom-right corner of every card. No people. No blood or injured animals anywhere.
+**The whole scene (for the illustrator).** A top-down (bird's-eye) view of a flat area of fresh, smooth snow, drawn as a white background with light grey shading for texture. The scene is one long picture divided into three equal vertical thirds: left, middle and right. Card 1 shows the left third only. Card 2 shows the left and middle thirds. Card 3 shows the whole scene. Each card uses the same scale so the parts line up exactly. A scale bar "10 cm" sits in the bottom-right corner of every card. No people. No blood or injured animals anywhere. Apart from the scale bar, put no words in the drawing: students work out what each mark is.
 
 Two kinds of prints appear:
 - **Large prints (fox):** each print is an oval heel pad with four oval toe pads in front and a small claw dot in front of each toe, about 5 cm long at the scene's scale. Drawn in dark grey.

@@ -73,7 +73,7 @@ Do NOT open! 不要打开！
 Write: 写：
 I observe ___. I infer ___ because ___. 我观察到___。我推断___，因为___。
 Vocabulary panel: observation | 观察; inference | 推断; evidence | 证据
-Visual: Two opaque paper cups, taped shut at the top, labelled with letters. Small icons for an ear (listen), a hand (feel) and a crossed-out opening (do not open).
+Visual: Two opaque paper cups, taped shut at the top, labelled with letters. Small icons for an ear (listen 听), a hand (feel 感受) and a crossed-out opening (do not open 不要打开).
 Speaker notes: Students start as they arrive. Each group has two sealed cups. Scientists often cannot open the box: we cannot open the Earth or visit a star, so we infer from evidence. Take one or two inferences, but do not reveal the contents. A student reads the Chinese lines; the inference may be written in Chinese.
 ```
 
@@ -149,10 +149,10 @@ Speaker notes: A student reads the Chinese lines. Before each drop, students sho
 ```
 Slide 8 | Phase tag: Learn 新知
 Title: Testable questions / 可检验的问题
-On-slide text: A testable question: you can change something and measure something. Example: Does salt make ice melt faster?
+On-slide text: A testable question: you can change something and measure something. Example 例子: Does salt make ice melt faster?
 Key idea 核心概念: 可检验的问题：可以改变一样东西，并测量一样东西。
 Vocabulary panel: testable | 可检验的; evidence | 证据; prediction | 预测
-Visual: The example question, with its Chinese 盐能让冰熔化得更快吗？ beneath it in the lighter weight, with two labels: an arrow to "salt" labelled "I change 我改变" and an arrow to "melt faster" labelled "I measure (time) 我测量". Beside it, a crossed-out question: "Is snow beautiful?" with 雪美吗？ beneath it, labelled "Not testable 不可检验的".
+Visual: The example question, with its Chinese 盐能让冰熔化得更快吗？ beneath it in the lighter weight, with two labels: an arrow to "salt" labelled "I change 我改变" and an arrow to "melt faster" labelled "I measure (time) 我测量（时间）". Beside it, a crossed-out question: "Is snow beautiful?" with 雪美吗？ beneath it, labelled "Not testable 不可检验的".
 Speaker notes: Galileo thought it through; then other scientists tested it. A testable question can be answered with an experiment that collects evidence. "Is snow beautiful?" is an opinion: there is nothing to measure. Model the frame: "This question is testable because we can change ___ and measure ___." A student reads the Key idea line.
 ```
 
@@ -163,7 +163,7 @@ On-slide text:
 Sort the 12 cards: testable or not testable. 把12张卡片分类：可检验的还是不可检验的。
 Be ready to explain one card. 准备好解释一张卡片。
 Vocabulary panel: testable | 可检验的; reason | 理由
-Visual: Two labelled card piles: "Testable 可检验的" with a tick icon, "Not testable 不可检验的" with a cross icon. Group role icons: Lead Scientist 首席科学家 reads, Recorder 记录员 sorts, Reporter 汇报员 explains.
+Visual: Two labelled card piles: "Testable 可检验的" with a tick icon, "Not testable 不可检验的" with a cross icon. Group role icons, captioned "Lead Scientist reads. 首席科学家朗读。", "Recorder sorts. 记录员分类。" and "Reporter explains. 汇报员解释。"
 Speaker notes: A student reads the Chinese lines; thumbs check before the sort starts. Give about 8 minutes. Lead Scientist reads each card aloud; the language buddy reads the Chinese question on the card. The group decides together. Check sorts as you circulate and ask "What would you change? What would you measure?" Groups that finish early: rewrite a not testable card as a testable one (back of the worksheet).
 ```
 
@@ -186,7 +186,7 @@ On-slide text:
 Always, sometimes or never? 总是、有时还是从不？
 Give an example. 举一个例子。
 Vocabulary panel: gravity | 重力; air resistance | 空气阻力; fall | 下落
-Visual: Three large cards: Always 总是 / Sometimes 有时 / Never 从不. Small pictures beneath: a feather and a hammer on Earth; the same on the Moon.
+Visual: Three large cards: Always 总是 / Sometimes 有时 / Never 从不. Small pictures beneath: a feather and a hammer on Earth; the same on the Moon. Captions under the two pictures: "On Earth 在地球上" and "On the Moon 在月球上".
 Speaker notes: A student reads the Chinese lines. Pair talk in any language for 2 minutes, then share in English: "I think ___ because ___." The best answer is "sometimes": in air, a heavy object can fall faster than a light one of a different shape, because of air resistance. With no air, like on the Moon, they fall together.
 ```
 
@@ -198,7 +198,7 @@ Exit ticket: tick the testable question. 离场小测：勾选可检验的问题
 Write a prediction with a reason. 写一个带理由的预测。
 Logbook: what did you find today? 科学日志：你今天发现了什么？
 Vocabulary panel: testable | 可检验的; prediction | 预测; reason | 理由
-Visual: Exit ticket strip preview with two questions and tick boxes. Logbook icon with "What I found 我发现了什么" highlighted.
+Visual: Exit ticket strip preview with two questions and tick boxes. Logbook icon labelled "Logbook 科学日志", with "What I found 我发现了什么" highlighted.
 Speaker notes: A student reads the Chinese lines. Students complete the exit ticket strip, then write one line in their logbook under "What I found". Answers may be in Chinese. Collect exit tickets at the door.
 ```
 
@@ -219,7 +219,7 @@ Today I can 今天我能:
 **2. Vocabulary panel**
 thought experiment | 思想实验; prediction | 预测; reason | 理由; testable | 可检验的; evidence | 证据; fall | 下落; gravity | 重力; air resistance | 空气阻力
 
-**Do Now box (small, above Core): Mystery cups 神秘杯子**
+**Do Now 课前任务 box (small, above Core): Mystery cups 神秘杯子**
 Cup letter 杯子字母: ____ I observe ______________. I infer ______________ because ______________. 我观察到___。我推断___，因为___。
 Cup letter 杯子字母: ____ I observe ______________. I infer ______________ because ______________. 我观察到___。我推断___，因为___。
 
@@ -348,7 +348,7 @@ Create a half-A4 kit card for Year 7 Week 2 using the Think Like a Scientist kit
 - Make 12 mystery cups (15 min): put one object in each opaque paper cup, place a second cup upside down on top (rim to rim) and tape all round with masking tape. Label A to L underneath. Suggested contents (teacher key): A marble; B cotton ball; C coin; D paper clip; E teaspoon of dry rice; F eraser; G dice; H small bell; I bottle cap; J wooden block; K two marbles; L nothing (empty cup). Keep this key on the teacher desk, not on the tables.
 - Print, cut and envelope the question sort cards (5 min if already printed and cut).
 
-**Hazards and controls**
+**Hazards and controls 危险源与控制措施**
 - Keep the mystery cups sealed. Never put small objects in your mouth.
   神秘杯子请保持密封。不要把小物件放进嘴里。
 - Only the teacher drops the book, from about 1 m, onto a table or the floor. Keep feet and hands clear.
@@ -390,7 +390,7 @@ Create an A3 landscape poster (also used on Slide 5) for Year 7 Week 2, "Galileo
 | Panel | Picture | Caption (English) | 中文 label |
 |---|---|---|---|
 | 1 | An ancient Greek thinker in a robe pointing at a large stone falling faster than a small pebble, with a thought bubble "Heavy = fast 重=快" | An old idea: heavy things fall faster. 概要：旧观点：重的东西下落得更快。 | 旧观点 |
-| 2 | Galileo (1600s Italian clothing, beard) with a thought bubble showing a large dark ball labelled H (heavy) and a small light ball labelled L (light) | Galileo imagines a heavy ball and a light ball. 概要：伽利略想象一个重球和一个轻球。 | 重球与轻球 |
+| 2 | Galileo (1600s Italian clothing, beard) with a thought bubble showing a large dark ball labelled H (heavy 重的) and a small light ball labelled L (light 轻的) | Galileo imagines a heavy ball and a light ball. 概要：伽利略想象一个重球和一个轻球。 | 重球与轻球 |
 | 3 | The two balls tied together with a short string, falling. The small ball is above, with a small "brake" symbol and an upward arrow on it. A speedometer shows a slow reading. | Tie them together. The light ball holds the heavy ball back. Slower? 概要：绑在一起。轻球拖住重球。更慢？ | 更慢？ |
 | 4 | The same tied pair, with a big weight label "H + L = heavier 更重". A speedometer shows a fast reading. | But the pair is heavier. Faster? 概要：但两个球一起更重。更快？ | 更快？ |
 | 5 | Galileo scratching his head, with a big question mark and both speedometers side by side, one slow, one fast, crossed out | Slower AND faster? Impossible! The old idea is wrong. 概要：又更慢又更快？不可能！旧观点是错的。 | 自相矛盾 |

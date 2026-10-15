@@ -56,7 +56,7 @@ Slide 1 | Phase tag: none (title slide)
 Title: Design your own test / 设计你的检测
 On-slide text: Science Detectives. Week 7. You are the forensic scientists now. 科学侦探。第7周。现在你们就是法庭科学家。
 Vocabulary panel: none
-Visual: A forensic scientist's planning desk seen from above: a clipboard with a plan sheet, a sealed evidence bag with a little soil, a crumpled paper towel in a bag, a chromatography strip and a spotting tile. Amber series accent.
+Visual: A forensic scientist's planning desk seen from above: a clipboard with a plan sheet (headed "Plan sheet 计划表"), a sealed evidence bag with a little soil, a crumpled paper towel in a bag (both bags tagged "Evidence 证据"), a chromatography strip and a spotting tile. Amber series accent.
 Speaker notes: For five weeks I gave you the tests. Today your group designs its own test. Next week you carry it out. Good planning now means good results next week.
 ```
 
@@ -68,7 +68,7 @@ On-slide text:
 2. Which suspects fit the footprint? 2. 哪些嫌疑人符合这个脚印？
 3. Week 4: why one clean spoon per powder? 3. 第4周：为什么每种粉末用一把干净的勺子？
 Vocabulary panel: line of best fit | 最佳拟合线, range | 范围, reference sample | 参照样本
-Visual: A small scatter graph with a line of best fit and a dashed arrow up from 22 cm. A spoon icon. Three numbered question boxes. 4-minute timer.
+Visual: A small scatter graph (x axis "Foot length (cm) 脚长（厘米）", y axis "Height (cm) 身高（厘米）") with a line of best fit and a dashed arrow up from 22 cm. A spoon icon. Three numbered question boxes. 4-minute timer.
 Speaker notes: A student reads the Chinese lines as the slide goes up. Answers: 1 about 147 cm (accept 144 to 150 with the sample data, or read from your class graph). 2 Lily Chen and Dr Huang. 3 So one powder does not get into another: that would contaminate the test and make it unfair.
 ```
 
@@ -93,7 +93,7 @@ The forensic team found two more clues. 法庭科学小组又发现了两条线�
 The lab has two more questions. 实验室还有两个新问题。
 Each group gets one case. 每个小组领取一个检测任务。
 Vocabulary panel: evidence | 证据, reference sample | 参照样本
-Visual: Two evidence bags with tags: "Evidence 6: soil from the footprint tread 证据6：脚印鞋纹里的土壤" and "Evidence 7: crumpled paper towel, corridor bin 证据7：走廊垃圾桶里的纸巾团". Beside them two lab memo cards: "Ink 2: is water the best solvent? 墨水2：水是最好的溶剂吗？" and "Powder 2: a mixture? 粉末2：是混合物吗？".
+Visual: Two evidence bags with tags: "Evidence 6: soil from the footprint tread 证据6：脚印鞋纹里的土壤" and "Evidence 7: crumpled paper towel, corridor bin 证据7：走廊垃圾桶里的纸巾团". Beside them two lab memo cards, each headed "Lab memo 实验室备忘录": "Ink 2: is water the best solvent? 墨水2：水是最好的溶剂吗？" and "Powder 2: a mixture? 粉末2：是混合物吗？".
 Speaker notes: Hold up the two real evidence bags (sealed). A student reads the Chinese lines. Hand out the option cards: each group already has its option from last week's vote. Reporters read their group's question aloud, in English and then in Chinese.
 ```
 
@@ -106,7 +106,7 @@ Paper: which paper towel? 纸巾：是哪一种纸巾？
 Ink 2: which solvent works best? 墨水2：哪种溶剂效果最好？
 Powder 2: is it a mixture? 粉末2：它是混合物吗？
 Vocabulary panel: testable question | 可检验的问题, reference sample | 参照样本
-Visual: Four panels with icons and short labels: Soil 土壤 (clear plastic bottle with layers of soil and water); Paper 纸巾 (paper strip with coloured water climbing); Ink 2 墨水2 (three chromatography strips in three cups: water, salt water, vinegar); Powder 2 粉末2 (spotting tile, magnifier).
+Visual: Four panels with icons and short labels: Soil 土壤 (clear plastic bottle with layers of soil and water); Paper 纸巾 (paper strip with coloured water climbing); Ink 2 墨水2 (three chromatography strips in three cups: water 水, salt water 盐水, vinegar 白醋); Powder 2 粉末2 (spotting tile, magnifier).
 Speaker notes: A student reads the Chinese lines. Every option compares a scene sample with reference samples, just like our earlier tests. Ask: "Which of these could rule a suspect out? Which might not?" Take one or two ideas; do not answer yet.
 ```
 
@@ -116,27 +116,27 @@ Title: Plan like a forensic scientist / 像法庭科学家一样计划
 On-slide text: 1. Question. 2. Reference samples. 3. Variables. 4. Method with repeats. 5. Risk table. 6. Results table.
 Key idea 核心概念: 好的检测计划有六步：问题、参照样本、变量、实验步骤（含重复）、风险评估表、结果表格。
 Vocabulary panel: testable question | 可检验的问题, method | 实验步骤, hazard | 危险源, risk | 风险
-Visual: Six numbered stepping stones across a path to a lab door labelled "Lab day 检测日", each with a small icon and a bilingual label (Question 问题; Reference samples 参照样本; Variables 变量; Method with repeats 实验步骤（含重复）; Risk table 风险评估表; Results table 结果表格): question mark, row of labelled jars, three sliders (change / measure / keep), numbered list, warning triangle, empty table.
+Visual: Six numbered stepping stones across a path to a lab door labelled "Lab day 检测日", each with a small icon and a bilingual label (Question 问题; Reference samples 参照样本; Variables 变量; Method with repeats 实验步骤（含重复）; Risk table 风险评估表; Results table 结果表格): question mark, row of labelled jars (letters A, B, C only), three sliders (change 改变 / measure 测量 / keep 保持不变), numbered list, warning triangle, empty table.
 Speaker notes: These six steps are the boxes on your plan sheet. Checkpoint 1 is steps 1 and 2. Checkpoint 2 is steps 3, 4 and 5. I sign off each checkpoint before you move on. A student reads the Key idea line in Chinese.
 ```
 
 ```
 Slide 7 | Phase tag: Learn 新知
 Title: Change one thing / 只改变一个因素
-On-slide text: We change: which sample. We observe or measure: the result. We keep the same: amount, time, equipment. The references are our controls.
+On-slide text: We change 我们改变: which sample. We observe or measure 我们观察或测量: the result. We keep the same 我们保持不变: amount, time, equipment. The references are our controls.
 Key idea 核心概念: 只改变“哪个样本”，其他条件保持不变；参照样本是我们用来比较的已知样本。
 Vocabulary panel: independent variable | 自变量, dependent variable | 因变量, control variable | 控制变量, fair test | 公平测试
-Visual: Worked example from Week 4 as three labelled sliders: "Change 改变: which powder (salt, sugar, baking soda, cornflour, flour, scene)"; "Observe 观察: fizz, dissolve, colour"; "Keep the same 保持不变: pea-sized spoonful, 5 drops vinegar, clean spoon". A row of six pots with "references 参照样本" under five and "scene 现场" under one.
+Visual: Worked example from Week 4, captioned "Week 4 example 第4周的例子", as three labelled sliders: "Change 改变: which powder (salt, sugar, baking soda, cornflour, flour, scene) 哪种粉末（食盐、白糖、小苏打、玉米淀粉、面粉、现场）"; "Observe 观察: fizz, dissolve, colour 冒气泡、溶解、颜色"; "Keep the same 保持不变: pea-sized spoonful, 5 drops vinegar, clean spoon 豌豆大小的一勺、5滴白醋、干净的勺子". A row of six pots with "references 参照样本" under five and "scene 现场" under one.
 Speaker notes: In Week 4 the thing we changed was which powder we tested. We kept the amount and the drops the same. The five known powders were our reference samples: our controls. Your plan works the same way. A student reads the Key idea line in Chinese.
 ```
 
 ```
 Slide 8 | Phase tag: Learn 新知
 Title: Hazard, risk, control / 危险源、风险、控制措施
-On-slide text: Hazard: vinegar. Risk: it could splash in an eye and sting. Control: wear goggles; small amounts; droppers only.
+On-slide text: Hazard 危险源: vinegar. Risk 风险: it could splash in an eye and sting. Control 控制措施: wear goggles; small amounts; droppers only.
 Key idea 核心概念: 危险源是那个物品，风险是可能发生的伤害，控制措施是我们保证安全的做法。
 Vocabulary panel: hazard | 危险源, risk | 风险
-Visual: A three-column risk table with one completed row (Hazard 危险源 | Risk 风险 | Control 控制措施) and two empty rows. Goggles icon in the control cell.
+Visual: A three-column risk table with one completed row (Hazard 危险源 | Risk 风险 | Control 控制措施) and two empty rows; the completed row is tagged "Example 例子". Goggles icon in the control cell.
 Speaker notes: The hazard is the thing. The risk is what could happen and how likely it is. The control is what you do to stay safe. Your option card lists the main hazards; you write the controls. A student reads the Key idea line in Chinese.
 ```
 
@@ -148,7 +148,7 @@ Use your option card. 使用你们的选项卡。
 Checkpoint 1 at 6 minutes: question and references. 第6分钟检查点1：问题和参照样本。
 Checkpoint 2 at 12 minutes: variables, method, risks. 第12分钟检查点2：变量、实验步骤、风险。
 Vocabulary panel: testable question | 可检验的问题, reference sample | 参照样本, method | 实验步骤, hazard | 危险源
-Visual: The plan sheet thumbnail with two stamp boxes "Checkpoint 1 ✓ 检查点1 ✓" and "Checkpoint 2 ✓ 检查点2 ✓". Group role icons with bilingual task lines: Lead Scientist keeps time 首席科学家计时, Recorder writes the group copy 记录员写小组共用的一份, Safety Officer leads the risk table 安全员负责风险评估表, Measurer plans measurements 测量员计划测量, Reporter prepares to explain the plan 汇报员准备讲解计划. 18-minute timer.
+Visual: The plan sheet thumbnail, captioned "Plan sheet 计划表", with two stamp boxes "Checkpoint 1 ✓ 检查点1 ✓" and "Checkpoint 2 ✓ 检查点2 ✓". Group role icons with bilingual task lines: Lead Scientist keeps time 首席科学家计时, Recorder writes the group copy 记录员写小组共用的一份, Safety Officer leads the risk table 安全员负责风险评估表, Measurer plans measurements 测量员计划测量, Reporter prepares to explain the plan 汇报员准备讲解计划. 18-minute timer.
 Speaker notes: Read the three lines in English; a student reads the Chinese lines; thumbs check before groups start. Each student completes their own plan sheet, but the group agrees one plan. Put your hand up at each checkpoint: I check and sign. At the checkpoints the Reporter may explain the plan in Chinese, and the language buddy may help. Groups that finish early: Stretch and Challenge, then fill in the kit request.
 ```
 
@@ -160,7 +160,7 @@ Rows: one for each sample, scene sample last. 行：每个样本一行，现场�
 Columns: each test, with units. 列：每项检测一列，写上单位。
 Leave space for repeats. 留出重复的位置。
 Vocabulary panel: reference sample | 参照样本, dependent variable | 因变量
-Visual: An example empty results table with bilingual headings: first column "Sample 样本" with rows "Reference 1 参照样本1, Reference 2 参照样本2, Reference 3 参照样本3, Reference 4 参照样本4, Scene sample 现场样本"; columns "Test 1 (unit) 测试1（单位）", "Repeat 1 重复1", "Repeat 2 重复2", "Mean or best match 平均值或最匹配". Units in brackets highlighted.
+Visual: An example empty results table, tagged "Example 例子", with bilingual headings: first column "Sample 样本" with rows "Reference 1 参照样本1, Reference 2 参照样本2, Reference 3 参照样本3, Reference 4 参照样本4, Scene sample 现场样本"; columns "Test 1 (unit) 测试1（单位）", "Repeat 1 重复1", "Repeat 2 重复2", "Mean or best match 平均值或最匹配". Units in brackets highlighted.
 Speaker notes: A student reads the Chinese lines. A table drawn before the lab saves time on lab day. If you measure something, put the unit in the heading, not in every box. If you only observe (colour, layers, fizz), say what words you will use. Headings may be copied from this slide.
 ```
 
@@ -172,7 +172,7 @@ Plan A: a spoonful of each soil, any jar, shake until it looks mixed. 方案A：
 Plan B: 1 level tablespoon, same bottles, shake 30 seconds. 方案B：1平汤匙，同样的瓶子，摇30秒。
 Which is better? Why? 哪个更好？为什么？
 Vocabulary panel: fair test | 公平测试, control variable | 控制变量
-Visual: Two clipboards side by side labelled "Plan A 方案A" and "Plan B 方案B", each with three short lines and simple sketches (Plan A: different-sized jars and heaped spoons; Plan B: identical bottles, level spoons, a timer).
+Visual: Two clipboards side by side labelled "Plan A 方案A" and "Plan B 方案B", each with three short lines (the plan's words from the on-slide text, split into lines with the Chinese beneath: Plan A "a spoonful of each soil 每种土壤一勺", "any jar 随便一个罐子", "shake until it looks mixed 摇到看起来混匀"; Plan B "1 level tablespoon 1平汤匙", "same bottles 同样的瓶子", "shake 30 seconds 摇30秒") and simple sketches (Plan A: different-sized jars and heaped spoons; Plan B: identical bottles, level spoons, a timer).
 Speaker notes: A student reads the Chinese lines. Pair talk in any language, then vote. Plan B: same amount, same container and same shaking time are control variables, so only the soil changes. Ask: "Which line in your own plan is like Plan A?" Fix it now.
 ```
 
@@ -197,7 +197,7 @@ On-slide text:
 3. One thing we keep the same: ___ . 3. 我们保持不变的一个量：___。
 4. One hazard and its control. 4. 一个危险源及其控制措施。
 Vocabulary panel: independent variable | 自变量, dependent variable | 因变量, control variable | 控制变量, hazard | 危险源
-Visual: Exit ticket strip with cut line, ending with the two "Today I can 今天我能" tick boxes. Teaser icon: a lab coat and goggles (next week: lab day).
+Visual: Exit ticket strip with cut line, ending with the two "Today I can 今天我能" tick boxes. Teaser icon: a lab coat and goggles (next week: lab day), captioned "Next week: Lab day 下周：检测日".
 Speaker notes: A student reads the Chinese lines. Answers may be in Chinese with the English key words. Tick the two goals at the bottom of the strip. Collect exit tickets and plan sheets at the door. I will read every plan and prepare your kit. Next week is lab day.
 ```
 
@@ -209,7 +209,7 @@ Create an A4 portrait, black-and-white-printable worksheet (two sides) for Year 
 Design your own test / 设计你的检测 | Science Detectives 科学侦探 | Week 7 第7周 | Name 姓名 ________ Class 班级 ________ Date 日期 ________ | Group 小组 ____
 Today I can 今天我能: I can write a testable question for my group's forensic test and name what we change, what we observe or measure, and what we keep the same. 我能为小组的法庭科学检测写出一个可检验的问题，并说出我们改变什么、观察或测量什么、保持什么不变。 | I can plan a safe method with reference samples, repeats, a risk table and a results table. 我能制定一个安全的实验步骤，包括参照样本、重复、风险评估表和结果表格。
 Tick our option 勾选我们的选项: ☐ Soil 土壤 ☐ Paper 纸巾 ☐ Ink 2 墨水2 ☐ Powder 2 粉末2
-Two small stamp boxes in the top-right corner: "Checkpoint 1 检查点1" and "Checkpoint 2 检查点2" (teacher initials).
+Two small stamp boxes in the top-right corner: "Checkpoint 1 检查点1" and "Checkpoint 2 检查点2" (teacher initials 教师签名).
 
 **2. Vocabulary panel**
 testable question 可检验的问题 | independent variable 自变量 | dependent variable 因变量 | control variable 控制变量 | fair test 公平测试 | reference sample 参照样本 | method 实验步骤 | prediction 预测 | hazard 危险源 | risk 风险
@@ -429,7 +429,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
   - (T) Add one level tablespoon of soil to each bottle. 在每个瓶子里加入一平汤匙土壤。 (picture: level spoon over a bottle)
   - (U) Look at a pinch of each soil on white paper with a magnifier. 把每种土壤各取一小撮放在白纸上，用放大镜观察。 (picture: magnifier over soil)
   - (V) Measure the height of each layer in mm. 用毫米测量每一层的高度。 (picture: ruler beside a bottle)
-- **Picture box:** a labelled diagram of a settled bottle: from the bottom, "small stones 小石子", "sand 沙", "silt 粉砂", "clay (stays cloudy) 黏土（水保持浑浊）", "water 水", "floating bits (roots, leaves) 漂浮物（根、叶）".
+- **Picture box 图片框:** a labelled diagram of a settled bottle: from the bottom, "small stones 小石子", "sand 沙", "silt 粉砂", "clay (stays cloudy) 黏土（水保持浑浊）", "water 水", "floating bits (roots, leaves) 漂浮物（根、叶）".
 - **Main hazards 主要危险源:**
   - Soil can carry germs. Wash your hands after. 土壤可能带有细菌，操作后请洗手。
   - Do not touch your face or mouth. 不要触摸脸部或嘴巴。
@@ -468,7 +468,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
 - **Your question 你的问题:** "Which solvent separates our inks best: water, salt water or vinegar? 哪种溶剂把我们的墨水分离得最好：水、盐水还是白醋？ Does the note ink still match pen B? 纸条墨水还与B号笔匹配吗？"
 - **Your samples 你的样本:** References 参照样本: pens A, B, C, D A、B、C、D号笔. Scene sample 现场样本: note ink strips N (ready made) 带纸条墨水N的滤纸条（已制好）. Solvents 溶剂: water 水, salt water 盐水 (1 level teaspoon of salt in 100 ml of water) （100毫升水加1平茶匙食盐）, white vinegar 白醋.
 - **Method ideas 实验步骤提示 (put them in order 把它们排好顺序):**
-  - (P) Pour solvent 1 cm deep into labelled cups. 在贴了标签的杯子里倒入1厘米深的溶剂。 (picture: three cups with a 1 cm line)
+  - (P) Pour solvent 1 cm deep into labelled cups. 在贴了标签的杯子里倒入1厘米深的溶剂。 (picture: three cups with a 1 cm line, labelled "water 水", "salt water 盐水", "vinegar 白醋")
   - (Q) Draw a pencil baseline 2 cm from the bottom of each strip and label it at the top. 在每条滤纸条离底部2厘米处画一条铅笔基线，并在顶部写上标签。 (picture: ruler and pencil)
   - (R) Wait 7 minutes. Do not move the cups. 等7分钟。不要移动杯子。 (picture: timer)
   - (S) Dot the pen on the baseline three times. 用笔在基线上点三次。 (picture: pen dotting)
@@ -496,7 +496,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
   - (R) Record each result straight away. 每个结果都要立即记录。 (picture: pencil and grid)
   - (S) Stir a pea-sized spoonful into a third of a cup of water. 把豌豆大小的一勺搅进三分之一杯水里。 (picture: cup and stirring stick)
   - (T) Add 1 drop of iodine to a pea-sized spoonful in another well (Safety Officer only). 在另一个凹孔里放豌豆大小的一勺，加1滴碘液（仅限安全员操作）。 (picture: dropper, blue-black well)
-- **Clue box:** "A mixture can show the signs of BOTH powders. 混合物可能同时显示两种粉末的特征。 Example: fizzes (baking soda) AND blue-black (starch). 例如：既冒气泡（小苏打）又变蓝黑色（淀粉）。"
+- **Clue box 线索框:** "A mixture can show the signs of BOTH powders. 混合物可能同时显示两种粉末的特征。 Example: fizzes (baking soda) AND blue-black (starch). 例如：既冒气泡（小苏打）又变蓝黑色（淀粉）。"
 - **Main hazards 主要危险源:**
   - Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder. 不要品尝或食用任何粉末。

@@ -1,4 +1,4 @@
-# Y7 Skills Check | 科学技能检测
+# Y7 Skills Check | 技能检测
 
 Series: Ice Engineers 冰雪工程师 | Week 1 (baseline) and Week 10 (final) | 15 minutes | 20 marks
 Chinese text status: draft, needs native-speaker check
@@ -7,107 +7,112 @@ Chinese text status: draft, needs native-speaker check
 
 ## 0. How to run the skills check (for the teacher)
 
-- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The identical paper must be used in Week 10, so if Week 1 has already been sat, do not reprint or alter the paper for Week 10, not even to add Chinese or to correct a gloss; print Week 10 from the same master copy as Week 1, or use the spare copies printed in Week 1. Language access for the current cohort comes only from the Language, Answers in Chinese and Support bullets below, never from a changed paper. If Week 1 has not yet been sat, the corrections listed under "For the next cohort" may be made before the first printing, and the paper is then frozen until after Week 10.
+- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The paper was corrected before Week 1: the glossary terms and the Chinese glosses that the language audit found missing are now printed on it. Print Week 1 and Week 10 from the same master copy (or use spare copies printed with Week 1) and do not alter it between them, not even to add Chinese or to correct a gloss after the native-speaker check. Any further language access comes only from the Language, Answers in Chinese and Support bullets below, never from a changed paper.
 - **Do not go through the answers after Week 1.** Collect every paper, mark it, enter the scores in the tracker and keep the papers in the class assessment folder. Do not hand them back or display answers until after Week 10, or the growth measure is lost.
 - **Timing:** 1 minute to give out papers and write names, 15 minutes working, papers collected at once. Give a 5-minute warning.
-- **Language:** you may read any question aloud in English, once or twice. You may also read the printed Chinese gloss aloud straight after the English, and a reader may read the English stem and the Chinese gloss aloud in the same way (Language Access Policy, Section 7.1). Where an item has no printed gloss (Question 1 sentences A to D, the Question 2 options A to C, the five Question 3 scenario sentences and the stems of 3a to 3c, the Question 6a stem, the three Question 9 scenario sentences, the table headings in Questions 1, 6 and 10, and the graph titles and axis labels in Questions 7 and 8), you may give a short spoken Chinese gloss of the everyday English, pointing to the row, option or axis as you say it. Translate the sentence, not the science: the science words keep only the gloss printed on the paper. Write down the spoken wording you use in Week 1 and keep it in the class assessment folder with the papers, so that Week 10 hears exactly the same gloss and the growth measure stays fair. You may explain everyday words (for example "windowsill", "tray"). Do not explain science words (for example "variable", "anomaly", "mean"), because knowing them is part of what the paper measures. Reading a printed gloss of a science word aloud (for example 自变量 beside "independent variable" in Question 3a) is not explaining it: the gloss is already on every student's paper.
-- **Answers in Chinese** are accepted for explanations (Questions 4, 8, 9 and 10) and for every other written answer on the paper: Question 3 a to c (for example 盐的量 for 3a and 熔化时间 for 3b), the Question 5 headings (for example 时间（分钟） and 温度（°C）), the Question 6 working and the Question 10 reason. Mixed Chinese and English answers are also accepted. This is the same rule as "Mark the science, not the English" in the mark scheme, and it applies to markers as well as to students. The printed line "You can write some answers in Chinese" understates it, so before the paper starts say the full rule aloud in English and in Chinese: any written answer may be in Chinese; any question will be read to you in English and Chinese if you ask; put your hand up if you want a reader. Spelling and grammar are not marked if the science is clear.
+- **Language:** you may read any question aloud in English, once or twice. You may also read the printed Chinese gloss aloud straight after the English, and a reader may read the English and the Chinese gloss aloud in the same way (Language Access Policy, Section 7.1). Every stem, scenario sentence, sub-stem, option, table heading, panel label, graph title, axis label and answer label now has its Chinese printed on the paper, so no spoken gloss is needed: read the printed Chinese rather than your own wording, so that Week 1 and Week 10 hear the same thing. You may explain everyday words (for example "windowsill", "tray"). Do not explain science words (for example "variable", "anomaly", "mean"), because knowing them is part of what the paper measures. Reading a printed gloss of a science word aloud (for example 自变量 beside "independent variable" in Question 3a) is not explaining it: the gloss is already on every student's paper.
+- **Answers in Chinese** are accepted for explanations (Questions 4, 8, 9 and 10) and for every other written answer on the paper: Question 3 a to c (for example 盐的量 for 3a and 熔化时间 for 3b), the Question 5 headings (for example 时间（分钟） and 温度（°C）), the Question 6 working and the Question 10 reason. Mixed Chinese and English answers are also accepted. This is the same rule as "Mark the science, not the English" in the mark scheme, and it applies to markers as well as to students. The printed header line says so ("You can write any answer in Chinese. 所有书面答案都可以用中文写。"). Before the paper starts, also say the full rule aloud in English and in Chinese: any written answer may be in Chinese; any question will be read to you in English and Chinese if you ask; put your hand up if you want a reader. Spelling and grammar are not marked if the science is clear.
 - **No calculators needed.** Students may write working on the paper.
-- **Support:** students who need it may have a reader. The reader reads the English stem and the printed Chinese gloss aloud, gives the same spoken gloss for the unglossed items as in the Language bullet, and does not explain science words or point towards an answer. A reader, a spoken gloss given to one student and any other tool allowed by the policy all count as access arrangements. Record any access arrangement in the tracker notes column.
+- **Support:** students who need it may have a reader. The reader reads the English and the printed Chinese gloss aloud, and does not explain science words or point towards an answer. A reader and any other tool allowed by the policy count as access arrangements. Record any access arrangement in the tracker notes column.
 - **What the paper does not need:** no knowledge of pykrete, fibres or anything taught later in the series. Every question gives the information needed.
-- **For the next cohort (do not change this term):** the language audit of this paper found glossary conflicts and missing Chinese glosses. Correct them in Section 1 only before a future cohort's Week 1 is printed, never between a Week 1 and a Week 10 sitting, and freeze the paper again once it is printed.
-  - Glossary conflicts (the lessons teach the glossary term; the paper prints another): the file title and the paper header "Skills Check 科学技能检测" should read 技能检测; Question 6 "paper spinner 纸旋翼" should be 纸直升机; Question 10 "Bar chart 柱状图" in the stem gloss and the tick box should be 条形图; Question 10 "Reason 原因" in the label and 说明原因 in the stem should use 理由; Questions 8 and 10 "融化时间" for time to melt should use 熔化 (熔化时间); the Question 8 label "Sentence frame 句型" should be 句型框架; the Question 8 frame "随着______增加，______会______。" and the Question 9 frame "我会______，因为______。" should use ___ gaps as in the policy, and both frames should be added to glossary Part 4 (the three-gap version 随着___增加，___会___。 is a faithful rendering of the English frame and may be kept).
-  - Missing glosses in the header: Year 7 (七年级); Week 1 ☐ Week 10 ☐ (第1周 / 第10周); Total ___ / 20 (总分, the glossary's score box term, not 总和, which is a sum of values); the line "You can write some answers in Chinese 部分答案可以用中文写" understates the rule and should say that every written answer may be in Chinese.
-  - Missing glosses on English the student must read to answer: Question 1 table headings "Sentence | O or I?" (句子 | O还是I？) and sentences A to D; Question 2 options A to C; the five Question 3 scenario sentences and the stems of 3a (Chen Yu改变了什么？), 3b (Chen Yu测量什么？) and 3c (写出一个她保持不变的东西。); Question 4 panel labels Foil and Cotton wool (铝箔 / 棉花), and the stem gloss drops "frozen"; the Question 5 stem gloss omits "on a cold day"; Question 6 table headings "Try | Time to fall (s)" (次数 | 下落时间（秒）) and the 6a stem (哪个时间是异常值？); Question 6b labels Working and Mean (计算过程 / 平均值); Question 7 first sentence "Wang Fei puts an ice cube on a plate", graph title (剩下的冰的质量随时间的变化), axis labels (时间（分钟） / 剩下的冰的质量（克）) and the answer line (25分钟后剩下的冰的质量); Question 8 graph title (毛线厚度与熔化时间) and axis labels (毛线厚度（毫米） / 熔化时间（分钟）); the three Question 9 scenario sentences; Question 10 table headings "Material | Time to melt (minutes)" (材料 | 熔化时间（分钟）) and row labels Foil, Newspaper, Cotton wool and Bubble wrap (铝箔 / 报纸 / 棉花 / 气泡膜).
-  - Names: the paper transliterates Amy, Lily, Wang Fei and Chen Yu and gives Sam and Jun different Chinese names (小山, 小军); the policy keeps names in Latin letters inside Chinese lines. Correct this at the same reprint, and record any new pairing in glossary Part 5.
-  - Design: Chinese on the graph grids and in the table headings needs a small bilingual axis-label style in the design system before the reprint, so that the grids do not crowd.
 
 ---
 
 ## 1. Student paper [Paste into Claude Design]
 
-Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 7 Skills Check, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. No vocabulary panel, no word bank, no tier icons: this is an assessment paper.
+Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 7 Skills Check, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. Set the table headings and rows, panel labels, graph titles and axis labels as small bilingual labels, English first with the Chinese beneath it in the lighter weight, so that the tables and graph grids do not crowd. No vocabulary panel, no word bank, no tier icons: this is an assessment paper.
 
 **Header**
-- Title: Skills Check / 科学技能检测
-- Subtitle: Ice Engineers 冰雪工程师 | Year 7
+- Title: Skills Check / 技能检测
+- Subtitle: Ice Engineers 冰雪工程师 | Year 7 七年级
 - Fields: Name 姓名 ________ | Class 班级 ____ | Date 日期 ____
-- Tick box: Week 1 ☐  Week 10 ☐
-- Line: 15 minutes | 20 marks | Answer every question. 请回答所有问题。
-- Line: You can write some answers in Chinese. 部分答案可以用中文写。
-- Score box at top right: Total ___ / 20
+- Tick box: Week 1 第1周 ☐  Week 10 第10周 ☐
+- Line: 15 minutes 15分钟 | 20 marks 20分 | Answer every question. 请回答所有问题。
+- Line: You can write any answer in Chinese. 所有书面答案都可以用中文写。
+- Score box at top right: Total 总分 ___ / 20
 
 ---
 
-**Question 1** (2 marks)
+**Question 1 第1题** (2 marks 2分)
 Look at the picture. Is each sentence an observation (O) or an inference (I)? Write O or I.
 看图。每句话是观察（O）还是推断（I）？写 O 或 I。
 
 Picture (line drawing, about one third of the page width): a school playground covered in snow, early morning. A line of small paw prints crosses the snow from the gate to a bush. A puddle by the classroom door is covered with ice. The sky is clear. No animals or people are in the picture.
 
-| Sentence | O or I? |
+| Sentence 句子 | O or I? 观察（O）还是推断（I）？ |
 |---|---|
-| A. There are paw prints in the snow. | |
-| B. A cat walked across the playground in the night. | |
-| C. The puddle by the door has ice on top. | |
-| D. The temperature was below 0 °C last night. | |
+| A. There are paw prints in the snow. 雪地上有脚印。 | |
+| B. A cat walked across the playground in the night. 夜里有一只猫走过了操场。 | |
+| C. The puddle by the door has ice on top. 门边的水坑上面有冰。 | |
+| D. The temperature was below 0 °C last night. 昨晚的温度低于0 °C。 | |
 
 ---
 
-**Question 2** (1 mark)
+**Question 2 第2题** (1 mark 1分)
 Which question can be tested with an experiment? Tick (✓) ONE box.
 哪个问题可以用实验来检验？只勾选一个。
 
 ☐ A. Is snow more beautiful than rain?
+雪比雨更美丽吗？
 ☐ B. Does an ice cube melt faster on a metal tray or on a plastic tray?
+冰块在金属托盘上熔化得更快，还是在塑料托盘上熔化得更快？
 ☐ C. Which winter festival is the best?
+哪个冬季节日最好？
 
 ---
 
-**Question 3** (3 marks)
+**Question 3 第3题** (3 marks 3分)
 Read about Chen Yu's experiment. Then answer.
-阅读陈雨的实验，然后回答。
+阅读Chen Yu的实验，然后回答。
 
 Chen Yu wants to find out if salt changes how fast ice melts.
+Chen Yu想知道盐会不会改变冰熔化的快慢。
 She puts 0 g, 5 g and 10 g of salt on three ice cubes.
+她在三块冰块上分别放0 g、5 g和10 g盐。
 The ice cubes come from the same tray.
+这些冰块来自同一个冰格。
 She puts them on plates in the same room.
+她把它们放在同一个房间里的盘子上。
 She times how long each ice cube takes to melt.
+她记录每块冰块熔化所用的时间。
 
 a) What does Chen Yu change? (independent variable 自变量)
+Chen Yu改变了什么？
 ______________________________
 
 b) What does Chen Yu measure? (dependent variable 因变量)
+Chen Yu测量什么？
 ______________________________
 
 c) Write ONE thing she keeps the same. (control variable 控制变量)
+写出一个她保持不变的东西。
 ______________________________
 
 ---
 
-**Question 4** (2 marks)
+**Question 4 第4题** (2 marks 2分)
 Amy wants to know which material keeps an ice cube frozen for longer: foil or cotton wool.
-艾米想知道哪种材料能让冰块保持更久：铝箔还是棉花。
+Amy想知道哪种材料能让冰块保持冻结的时间更长：铝箔还是棉花。
 
 Picture (two simple panels side by side):
-- Panel 1, labelled "Foil": a small ice cube wrapped in foil, on a sunny windowsill. Draw a sun shining through the window.
-- Panel 2, labelled "Cotton wool": a big ice cube wrapped in cotton wool, inside a dark, cold cupboard.
+- Panel 1, labelled "Foil 铝箔": a small ice cube wrapped in foil, on a sunny windowsill. Draw a sun shining through the window.
+- Panel 2, labelled "Cotton wool 棉花": a big ice cube wrapped in cotton wool, inside a dark, cold cupboard.
 
 a) Write ONE thing that makes this test unfair.
 写出一个让测试不公平的地方。
 ______________________________
 
 b) How can Amy make this thing fair?
-艾米怎样让这一点变公平？
+Amy怎样让这一点变公平？
 ______________________________
 
 ---
 
-**Question 5** (2 marks)
+**Question 5 第5题** (2 marks 2分)
 Lily puts a cup of warm water outside on a cold day. She reads the temperature every 5 minutes. Write the two missing headings. Include units.
-莉莉把一杯温水放在室外。她每5分钟读一次温度。写出两个表头，并写上单位。
+Lily在一个寒冷的日子把一杯温水放在室外。她每5分钟读一次温度。写出两个缺少的表头，并写上单位。
 
-Units you might need 可能用到的单位: cm | g | minutes | °C
+Units you might need 可能用到的单位: cm | g | minutes 分钟 | °C
 
 | ______________ | ______________ |
 |---|---|
@@ -120,23 +125,24 @@ Units you might need 可能用到的单位: cm | g | minutes | °C
 
 ---
 
-**Question 6** (3 marks)
+**Question 6 第6题** (3 marks 3分)
 Sam drops the same paper spinner four times. He times how long it takes to fall.
-小山把同一个纸旋翼放下四次，记录下落时间。
+Sam把同一个纸直升机放下四次，记录下落时间。
 
-| Try | 1 | 2 | 3 | 4 |
+| Try 次数 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
-| Time to fall (s) | 2.4 | 2.6 | 4.9 | 2.5 |
+| Time to fall (s) 下落时间（秒） | 2.4 | 2.6 | 4.9 | 2.5 |
 
 a) Which time is the anomaly? (异常值)
+哪个时间是异常值？
 ______ s
 
 b) Work out the mean time. Do not use the anomaly. Show your working.
-计算平均值。不要用异常值。写出过程。
+计算平均值。不要用异常值。写出计算过程。
 
-Working: ______________________________
+Working 计算过程: ______________________________
 
-Mean = ______ s
+Mean 平均值 = ______ s
 
 ---
 

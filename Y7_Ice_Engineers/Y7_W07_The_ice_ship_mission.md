@@ -74,7 +74,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 7, The ice ship mission, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Slides are numbered once across both decks, so each deck skips the other plan's numbers; the running orders below list exactly which slides each deck contains.
+Create a 16:9 slide deck for Year 7 Week 7, The ice ship mission, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A 方案A" or "Plan B 方案B" tag in the bottom corner of every plan-specific slide. Slides are numbered once across both decks, so each deck skips the other plan's numbers; the running orders below list exactly which slides each deck contains.
 
 **Running order, Plan A:** 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 15, 17.
 **Running order, Plan B:** 1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 14, 16, 17.
@@ -88,7 +88,7 @@ Give a number. 给出一个数值。
 Name the IV, DV and one control. 说出自变量、因变量和一个控制变量。
 Lead Scientists: read page 1 of your plan. 首席科学家：读你们计划的第1页。
 Vocabulary panel: thermal insulator | 隔热材料; independent variable | 自变量; dependent variable | 因变量
-Visual: Four small wrapped cups from Week 6 with question marks. A group folder icon with "Page 1" showing.
+Visual: Four small wrapped cups from Week 6 with question marks. A group folder icon with "Page 1 第1页" showing.
 Speaker notes: Students start as they arrive. A student reads the Chinese lines as the slide goes up. Take two answers. IV: the material. DV: meltwater in ml, or the temperature drop in °C. Control: same cubes or same water, same time, same place. Folders are on the tables: Lead Scientists remind the group what they chose last week.
 ```
 
@@ -111,7 +111,7 @@ Title: A ship made of ice? / 用冰造船？
 On-slide text: Second World War. Not enough steel. One inventor had a strange idea: build giant ships out of ice.
 Key idea 核心概念: 第二次世界大战时钢不够用，一位发明家想用冰造巨型船。
 Vocabulary panel: strength | 强度; brittle | 脆的
-Visual: A black-and-white, 1940s-style illustration of an enormous flat ship, much longer than a normal ship, carved from ice, floating in a grey sea, with tiny aeroplanes on its deck. A small portrait sketch of a man in round glasses labelled "Geoffrey Pyke (inventor) 杰弗里·派克".
+Visual: A black-and-white, 1940s-style illustration of an enormous flat ship, much longer than a normal ship, carved from ice, floating in a grey sea, with tiny aeroplanes on its deck. A small portrait sketch of a man in round glasses labelled "Geoffrey Pyke (inventor) 杰弗里·派克（发明家）".
 Speaker notes: During the Second World War, steel was in short supply, because it was needed for so many things. A British inventor called Geoffrey Pyke suggested building giant ships, big enough for aeroplanes to land on, out of ice. Ask: "What is the problem with ice?" It is brittle and it melts. A student reads the Key idea line in Chinese.
 ```
 
@@ -121,7 +121,7 @@ Title: Pykrete: ice plus sawdust / 木屑冰：冰加木屑
 On-slide text: About 14% sawdust mixed into ice. Much stronger. Melts more slowly. A small prototype was built on a lake in Canada in 1943.
 Key idea 核心概念: 冰里混入约14%的木屑后，强度大得多，熔化得更慢。
 Vocabulary panel: sawdust | 木屑; composite material | 复合材料; strength | 强度
-Visual: Two blocks side by side. Left: a plain ice block with a crack running right through it. Right: a slightly brown, speckled "pykrete" block, whole. Below, a pie chart: about 86% ice, about 14% sawdust (by mass). A small inset: a wooden-roofed boat-shaped prototype on a lake with pine trees.
+Visual: Two blocks side by side. Left: a plain ice block with a crack running right through it, captioned "Plain ice 普通冰". Right: a slightly brown, speckled "pykrete 派克瑞特（木屑冰）" block, whole. Below, a pie chart: about 86% ice, about 14% sawdust (by mass), with the segment labels "ice 冰" and "sawdust 木屑" and the note "by mass 按质量计". A small inset: a wooden-roofed boat-shaped prototype on a lake with pine trees, captioned "Prototype, Canada, 1943 样机，加拿大，1943年".
 Speaker notes: Pyke's team found that ice mixed with about 14% sawdust by mass, later called pykrete, was much stronger than plain ice and melted more slowly. A small prototype was built on a lake in Canada in 1943. Legend has it that when the material was shown to military leaders, a bullet fired at a block bounced off. Historians are not sure exactly what happened, so we say "legend has it". The giant ship was never built. Can we test Pyke's idea ourselves?
 ```
 
@@ -131,7 +131,7 @@ Title: Why do fibres help? / 纤维为什么有用？
 On-slide text: Brittle materials crack straight through. Fibres hold the pieces together and stop the crack. Straw in mud bricks works the same way.
 Key idea 核心概念: 脆的材料会一裂到底；纤维把碎片连在一起不散开，阻止裂纹。
 Vocabulary panel: brittle | 脆的; fibre | 纤维; reinforce | 加固; composite material | 复合材料
-Visual: Three panels. (1) Plain ice: a crack running straight from the bottom to the top. (2) Ice with fibres: the crack stops at fibres that bridge across it, drawn as short lines. (3) Two real-world photos-style drawings: a traditional mud brick with straw poking out of the broken end (labelled "straw in mud bricks 草泥砖"); a giant ice palace lit up at night (labelled "Harbin Ice and Snow Festival 哈尔滨冰雪节").
+Visual: Three panels. (1) Plain ice: a crack running straight from the bottom to the top. (2) Ice with fibres: the crack stops at fibres that bridge across it, drawn as short lines. (3) Two real-world photos-style drawings: a traditional mud brick with straw poking out of the broken end (labelled "straw in mud bricks 草泥砖"); a giant ice palace lit up at night (labelled "Harbin Ice and Snow Festival 哈尔滨冰雪节"). Panel captions: "Plain ice 普通冰" for (1) and "Ice with fibres 加了纤维的冰" for (2); in (2), small labels "crack 裂纹" and "fibre 纤维".
 Speaker notes: Ice is brittle: once a crack starts, it runs right through. Fibres bridge the crack and hold the pieces together, so it is harder to break. For thousands of years, people in China and around the world have mixed straw into mud bricks so they crack less. At the Harbin Ice and Snow Festival, builders make huge buildings from ice blocks cut from the frozen Songhua River. Could fibres make those buildings stronger? A student reads the Key idea line in Chinese.
 ```
 
@@ -143,7 +143,7 @@ Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一�
 Measure ONE thing: strength (ml of water held) OR melting (ml of meltwater in 15 minutes). 只测量一个量：强度（承载的水的毫升数）或熔化（15分钟内融化的水的毫升数）。
 Key idea 核心概念: 公平测试只改变一个量，只测量一个量。
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: A two-step choice grid. Step 1 "I change 我改变": card A "Type of fibre 纤维种类: plain ice 普通冰, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": card C "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数"; card D "Melting 熔化: ml of meltwater after 15 minutes 15分钟后融化的水的毫升数". Small icons on each card.
+Visual: A two-step choice grid. Step 1 步骤1 "I change 我改变": card A "Type of fibre 纤维种类: plain ice 普通冰, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 步骤2 "I measure 我测量": card C "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数"; card D "Melting 熔化: ml of meltwater after 15 minutes 15分钟后融化的水的毫升数". Small icons on each card.
 Speaker notes: Read the two English lines; a student reads the Chinese lines. Every group makes three kinds of sample, and one of them must be plain ice (or 0 g), because that is our control. Every sample is a thin strip made from 12 ml of water, about 12 cm long, 2 cm wide and 5 mm thick. Strength is the main test; I can take up to two melting groups so the class can pool results. Choose with your group in 1 minute, then tell me.
 ```
 
@@ -155,7 +155,7 @@ Change ONE thing: type of fibre (0.6 g each) OR amount of sawdust. 只改变一�
 Measure: strength (ml of water the strip holds before it snaps). 测量：强度（面团条断裂前承载的水的毫升数）。
 Key idea 核心概念: 公平测试只改变一个量，只测量一个量。
 Vocabulary panel: fibre | 纤维; strength | 强度; independent variable | 自变量; dependent variable | 因变量
-Visual: Step 1 "I change 我改变": card A "Type of fibre 纤维种类: no fibre 无纤维, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 "I measure 我测量": one card "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数". A small drawing of a straw mud brick beside a dough strip.
+Visual: Step 1 步骤1 "I change 我改变": card A "Type of fibre 纤维种类: no fibre 无纤维, sawdust 木屑, tissue 纸巾, shredded paper 碎纸, cotton wool 棉花 (0.6 g each 每条0.6克)"; card B "Amount of sawdust 木屑的量: 0 g, 0.3 g, 0.6 g, 0.9 g". Step 2 步骤2 "I measure 我测量": one card "Strength 强度: a bag of water hangs from the strip, ml when it snaps 一袋水挂在条上，记录断裂时的毫升数". A small drawing of a straw mud brick beside a dough strip, captioned "mud brick 泥砖" and "dough strip 面团条".
 Speaker notes: Read the two English lines; a student reads the Chinese lines. We have no freezer, so we will do what brick-makers do: put fibres into a soft material that sets hard. Our strips are made of salt dough, the same size as the ice strips other classes make (12 cm long, 2 cm wide, 5 mm thick), and they dry for a week. Every group makes three kinds of strip, and one must have no fibre (0 g): that is our control. Each strip uses one 18 g ball of dough.
 ```
 
@@ -179,20 +179,20 @@ Speaker notes: A student reads the Chinese lines. Split the frame by role so you
 ```
 Slide 9 | [Plan A] | Phase tag: Learn 新知
 Title: Hazard, risk, control / 危险源、风险、控制措施
-On-slide text: Hazard: very cold ice. Risk: cold, painful fingers. Control: wear gloves if you hold ice for more than a minute.
+On-slide text: Hazard 危险源: very cold ice. Risk 风险: cold, painful fingers. Control 控制措施: wear gloves if you hold ice for more than a minute.
 Key idea 核心概念: 危险源是东西，风险是可能发生的事，控制措施是我们的做法。
 Vocabulary panel: hazard | 危险源; risk | 风险
-Visual: A three-column table with the column labels "Hazard 危险源", "Risk 风险", "Control 控制措施" and icons: a snowflake (hazard), a sore hand (risk), gloves (control). Below it, three more empty rows with icon hints: a bag of sawdust, a wet floor, a hanging bag of water.
+Visual: A three-column table with the column labels "Hazard 危险源", "Risk 风险", "Control 控制措施" and icons: a snowflake (hazard), a sore hand (risk), gloves (control). Below it, three more empty rows with icon hints: a bag of sawdust, a wet floor, a hanging bag of water. Small labels under the hint icons: "sawdust 木屑", "spilt water 洒出的水", "hanging bag 悬挂的袋子".
 Speaker notes: This is one row of your risk assessment, done for you; the same row is printed in Box 7 of your frame in both languages. A student reads the Key idea line in Chinese. Write three more. Hints: sawdust (dust, and it must be untreated, never MDF), spilt water (slipping), the hanging bag in Week 8 (it falls when the strip snaps: catch trays and feet clear).
 ```
 
 ```
 Slide 10 | [Plan B] | Phase tag: Learn 新知
 Title: Hazard, risk, control / 危险源、风险、控制措施
-On-slide text: Hazard: flour. Risk: an allergic reaction. Control: allergy check first; anyone allergic does not touch the dough.
+On-slide text: Hazard 危险源: flour. Risk 风险: an allergic reaction. Control 控制措施: allergy check first; anyone allergic does not touch the dough.
 Key idea 核心概念: 危险源是东西，风险是可能发生的事，控制措施是我们的做法。
 Vocabulary panel: hazard | 危险源; risk | 风险
-Visual: A three-column table with the column labels "Hazard 危险源", "Risk 风险", "Control 控制措施" and icons: a bag of flour (hazard), a person with a rash (risk), a checklist with a tick (control). Below it, three more empty rows with icon hints: a "no eating" icon, a cloud of dust, a hanging bag of water.
+Visual: A three-column table with the column labels "Hazard 危险源", "Risk 风险", "Control 控制措施" and icons: a bag of flour (hazard), a person with a rash (risk), a checklist with a tick (control). Below it, three more empty rows with icon hints: a "no eating 禁止食用" icon, a cloud of dust, a hanging bag of water. Small labels under the other two hint icons: "flour dust 面粉粉尘", "hanging bag 悬挂的袋子".
 Speaker notes: This is one row of your risk assessment, done for you; the same row is printed in Box 7 of your frame in both languages. A student reads the Key idea line in Chinese. Write three more. Hints: eating the dough (it is very salty and not food), flour dust (knead inside a closed bag), the hanging bag in Week 8 (it falls when the strip snaps: catch trays and feet clear).
 ```
 
@@ -206,7 +206,7 @@ Every box filled. 每个框都要填满。
 Units in the results table. 结果表格里要有单位。
 Tell the teacher your three samples. 告诉老师你们的三个样品。
 Vocabulary panel: sample | 样品; strength | 强度; fibre | 纤维; risk | 风险
-Visual: A large 13-minute timer. Five role icons (Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员, Reporter 汇报员), each pointing to its part of the frame.
+Visual: A large 13-minute timer. Five role icons (Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员, Reporter 汇报员), each pointing to its part of the frame. Under each role icon, a caption for its part: Lead Scientist "question and prediction 问题和预测"; Measurer "variables and method 变量和实验步骤"; Recorder "results table 结果表格"; Safety Officer "risk assessment 风险评估"; Reporter "checks everything 检查所有内容".
 Speaker notes: Say, show, check: read each line in English, a student reads the Chinese, thumbs check before the timer starts. Go round with the class project board. Check that every group includes plain ice (or no fibre, or 0 g), that, where possible, each sample type is made by at least two groups across the class (the class does not need to test every fibre), and, in Plan A, no more than two melting groups. Push for a prediction with a science reason, not just "because it is better".
 ```
 
@@ -257,7 +257,7 @@ Slide 15 | [Plan A] | Phase tag: Do 实践
 Title: Stay safe / 注意安全
 On-slide text: Untreated sawdust only. Never MDF. 只用未经处理的木屑，严禁使用中密度纤维板粉尘。 Keep sawdust damp. 保持木屑湿润。 Mop spills straight away. 洒出的水请立即擦干。
 Vocabulary panel: none
-Visual: Safety slide layout, high visibility. Icons: a bag labelled "untreated sawdust" with a tick and a crossed-out board labelled "MDF"; a water drop on sawdust; a mop.
+Visual: Safety slide layout, high visibility. Icons: a bag labelled "untreated sawdust 未经处理的木屑" with a tick and a crossed-out board labelled "MDF 中密度纤维板"; a water drop on sawdust; a mop.
 Speaker notes: Read each line in English; a student reads it in Chinese. Our sawdust is natural, untreated wood. MDF board dust contains glue and must never be used. Do not blow on sawdust or tip it from a height. Only the teacher carries the trays to the freezer.
 ```
 
@@ -381,7 +381,7 @@ Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐
 
 ## 5. Kit card [Paste into Claude Design]
 
-Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist kit card template: one titled "Plan A: Pykrete strips | 木屑冰条" and one titled "Plan B: Straw-brick science | 草砖科学". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
+Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist kit card template: one titled "Plan A: Pykrete strips | 方案A：木屑冰条" and one titled "Plan B: Straw-brick science | 方案B：草砖科学". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
 
 **Sample size (both plans):** every sample is a thin strip about 12 cm long, 2 cm wide and 5 mm thick, made in a foil trough. Plan A: 12 ml of water per strip. Plan B: one 18 g ball of salt dough per strip.
 
@@ -416,7 +416,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 - Pre-portion the fibres (20 min). With a 1 g scale: weigh 6 g of a fibre and split it into 10 equal piles by eye (each about 0.6 g); for 0.3 g, split 3 g into 10; for 0.9 g, split 9 g into 10. With a 0.1 g scale, weigh each portion directly. For sawdust you can instead find a level measure (for example a level quarter teaspoon, roughly 0.6 g) by weighing 10 level measures once, then use the same level measure every time. Dampen the sawdust with a few drops of water and keep it in a sealed bag.
 - Clear and label one freezer drawer "Ice Engineers Y7: do not move"; check it is level (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - Use untreated natural wood sawdust or pet-bedding shavings only. Never use MDF dust.
   只使用未经处理的天然木屑或宠物垫料木刨花。严禁使用中密度纤维板（MDF）粉尘。
 - Keep sawdust damp. Do not blow it or tip it from a height.
@@ -458,7 +458,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 - Make the salt dough on the morning of the lesson: one batch is 2 cups (about 250 g) plain flour, 1 cup (about 290 g) salt and about 1 cup (240 ml) water, mixed and kneaded until smooth and not sticky. One batch makes about 780 g of dough, so 2 batches are plenty for 54 balls of 18 g plus spares. Weigh each ball (18 g on a 1 g scale) and seal it in a small bag (20 min).
 - Pre-portion the fibres as in Plan A (10 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - Tell the teacher if you have a flour or wheat allergy. You will not touch the dough.
   如果你对面粉或小麦过敏，请告诉老师。你将不接触面团。
 - Never eat the dough. It is very salty and is not food.
@@ -480,7 +480,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 
 ### 6a. Planning frame: our investigation
 
-Create a two-page planning frame (two sides of A4 portrait, or one A3 sheet folded) for Year 7 Weeks 6 and 7, "Our investigation plan | 我们的探究计划", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, minimum 12 pt, generous writing boxes. Numbered boxes 1 to 8 in a clear order, each with its English heading, a Chinese heading beneath in a lighter weight, and a small role icon showing who leads that box. Make two versions: Plan A ("Pykrete strips | 木屑冰条") and Plan B ("Straw-brick science | 草砖科学"); all text is the same except where a box is marked [Plan A] or [Plan B]. Print spec: 1 per group (6 per class) plus 2 spares, kept in the group folder from Week 6 to Week 10.
+Create a two-page planning frame (two sides of A4 portrait, or one A3 sheet folded) for Year 7 Weeks 6 and 7, "Our investigation plan | 我们的探究计划", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, minimum 12 pt, generous writing boxes. Numbered boxes 1 to 8 in a clear order, each with its English heading, a Chinese heading beneath in a lighter weight, and a small role icon showing who leads that box. Caption each role icon with the role name, English then Chinese: Lead Scientist 首席科学家, Measurer 测量员, Recorder 记录员, Safety Officer 安全员. Make two versions: Plan A ("Pykrete strips | 木屑冰条") and Plan B ("Straw-brick science | 草砖科学"); all text is the same except where a box is marked [Plan A] or [Plan B]. Print spec: 1 per group (6 per class) plus 2 spares, kept in the group folder from Week 6 to Week 10.
 
 **Header:** Our investigation plan / 我们的探究计划 | Ice Engineers 冰雪工程师 | Group name 小组名称: __________ | Members 成员: __________ | Date started 开始日期: ______
 Project question across the top: **Can we make ice stronger? 我们能让冰更坚固吗？** [Plan B] add beneath: "Our test material: salt dough strips, like straw-and-mud bricks. 我们的测试材料：盐面团条，类似草泥砖。"
@@ -578,7 +578,7 @@ One fix: "You need to ______________ because ______________." 一个修改建议
 
 ### 6b. Class project board
 
-Create an A3 landscape class project board for Year 7 Weeks 7 to 9, "Class project board | 全班项目板", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, for the wall; the teacher writes on it in marker. Two versions: Plan A and Plan B (Plan B has no "Test" column choice: it is printed "Strength"). Print spec: 1 per class, A3, laminated if possible.
+Create an A3 landscape class project board for Year 7 Weeks 7 to 9, "Class project board | 全班项目板", using the Think Like a Scientist design system, Ice Engineers series. Black-and-white printable, for the wall; the teacher writes on it in marker. Two versions: Plan A and Plan B (Plan B has no "Test" column choice: it is printed "Strength 强度"). Print spec: 1 per class, A3, laminated if possible.
 
 Title: Class project board / 全班项目板 | Can we make ice stronger? 我们能让冰更坚固吗？ [Plan B: "Can fibres make a brittle material stronger? 纤维能让脆的材料更坚固吗？"]
 

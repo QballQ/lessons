@@ -90,7 +90,7 @@ The footprint is 24 cm long. 这个脚印长24厘米。
 Was the person short, medium or tall? 这个人是矮、中等还是高？
 I predict ___ because ___. 我预测___，因为___。
 Vocabulary panel: foot length | 脚长, height | 身高, estimate | 估计
-Visual: The true-size scene footprint beside a simple outline of a person with a question mark over the head and a vertical height scale. Three voting cards: short 矮, medium 中等, tall 高.
+Visual: The true-size scene footprint beside a simple outline of a person with a question mark over the head and a vertical height scale labelled "Height (cm) 身高（厘米）". Three voting cards: short 矮, medium 中等, tall 高.
 Speaker notes: Hold up the printed footprint and lay a metre stick beside it. Take a quick vote and write the numbers on the board. Say: "That was opinion. Let's collect data and find out." A student reads the Chinese frame before the vote.
 ```
 
@@ -100,7 +100,7 @@ Title: Scatter graphs / 散点图
 On-slide text: One cross for each person. Across: foot length. Up: height. Do the crosses make a pattern? That pattern is a correlation.
 Key idea 核心概念: 每个叉代表一个人；叉的规律就是相关性。
 Vocabulary panel: scatter graph | 散点图, correlation | 相关性, data | 数据, foot length | 脚长, height | 身高
-Visual: A clean scatter graph with six crosses rising from bottom left to top right. x axis "Foot length (cm) 脚长（厘米）", y axis "Height (cm) 身高（厘米）", both with a small zigzag near the origin to show the scale does not start at zero. An arrow labelled "positive correlation 正相关: as one goes up, the other goes up".
+Visual: A clean scatter graph with six crosses rising from bottom left to top right. x axis "Foot length (cm) 脚长（厘米）", y axis "Height (cm) 身高（厘米）", both with a small zigzag near the origin to show the scale does not start at zero. An arrow labelled "positive correlation 正相关: as one goes up, the other goes up 一个量增加，另一个量也增加".
 Speaker notes: Each cross is one person. If the crosses go up from left to right, people with longer feet are usually taller. Point out the zigzag: we start the axes at 20 cm and 135 cm so the crosses are not squashed into a corner. A student reads the Key idea line.
 ```
 
@@ -110,7 +110,7 @@ Title: Line of best fit / 最佳拟合线
 On-slide text: One straight line through the middle. About the same number of crosses above and below. Read up from 24 cm, then across.
 Key idea 核心概念: 最佳拟合线穿过叉的中间，不是连点；从24厘米向上再横向读数。
 Vocabulary panel: line of best fit | 最佳拟合线, estimate | 估计, range | 范围
-Visual: The same graph with a ruler-drawn straight line through the middle of the crosses (not dot-to-dot, not starting at zero). A dashed arrow goes up from 24 cm on the x axis to the line, then across to the y axis. A bracket on the y axis shows "range 范围" covering the crosses near 24 cm.
+Visual: The same graph with a ruler-drawn straight line through the middle of the crosses (not dot-to-dot, not starting at zero), labelled "line of best fit 最佳拟合线". A dashed arrow goes up from 24 cm on the x axis to the line, then across to the y axis. A bracket on the y axis shows "range 范围" covering the crosses near 24 cm.
 Speaker notes: Do not join the dots. Use a ruler. Then read up and across. Ask: "Is everyone with a 24 cm foot exactly the same height?" No: so we also look at the crosses near 24 cm and give a range, from the lowest to the highest. A student reads the Key idea line.
 ```
 
@@ -140,7 +140,7 @@ On-slide text:
 4. Recorder writes your group's numbers. 记录员写下你们小组的数据。
 4 minutes. 4分钟。
 Vocabulary panel: foot length | 脚长, height | 身高, data | 数据
-Visual: Four picture steps: ruler and foot; height chart and book; two students swapping roles (icons, no faces); Recorder writing in a small table "Student no. 编号 | Foot (cm) 脚长（厘米） | Height (cm) 身高（厘米）". 4-minute timer.
+Visual: Four picture steps, each captioned with its numbered on-slide line (English and Chinese): ruler and foot; height chart and book; two students swapping roles (icons, no faces); Recorder writing in a small table "Student no. 编号 | Foot (cm) 脚长（厘米） | Height (cm) 身高（厘米）". 4-minute timer.
 Speaker notes: Say, show, check: read the English, a student reads the Chinese lines, thumbs check before the pairs start. Measurer and Recorder roles rotate within the group. Each student writes their own two numbers on their worksheet. Measure each foot twice if there is time: if the two readings differ by more than 0.5 cm, measure again.
 ```
 
@@ -165,7 +165,7 @@ On-slide text:
 3. Read the height at 24 cm. 读出24厘米处的身高。
 4. Give a range. 给出一个范围。
 Vocabulary panel: scatter graph | 散点图, line of best fit | 最佳拟合线, estimate | 估计, range | 范围
-Visual: Four small picture steps on graph paper: a cross being plotted with a sharp pencil; a ruler laid through the middle of the crosses; a dashed arrow up from 24 cm and across; a bracket on the y axis showing the range. 11-minute timer.
+Visual: Four small picture steps on graph paper, each captioned with its numbered on-slide line (English and Chinese): a cross being plotted with a sharp pencil; a ruler laid through the middle of the crosses; a dashed arrow up from 24 cm and across; a bracket on the y axis showing the range, labelled "range 范围". 11-minute timer.
 Speaker notes: A student reads the four Chinese lines. Plot with small, neat crosses. Check each cross with your partner. At minute 15 of the Do phase, everyone stops plotting and draws the line, even if a few points are missing.
 ```
 
@@ -178,7 +178,7 @@ Check each suspect's height. 检查每名嫌疑人的身高。
 Who fits? 谁符合？
 Who is ruled out? 谁被排除？
 Vocabulary panel: range | 范围, estimate | 估计, suspect | 嫌疑人
-Visual: A vertical height scale from 140 to 190 cm with a shaded band from 150 to 170 cm labelled "Our range 我们的范围". Four suspect silhouettes standing beside the scale at their heights: Lily Chen 158 cm, Dr Ruby Huang 165 cm, Chef Zhou 176 cm, Max Zhang 182 cm. Names in English and Chinese.
+Visual: A vertical height scale from 140 to 190 cm (scale title "Height (cm) 身高（厘米）") with a shaded band from 150 to 170 cm labelled "Our range 我们的范围". Four suspect silhouettes standing beside the scale at their heights: Lily Chen 陈莉 158 cm, Dr Ruby Huang 黄若琳 165 cm, Chef Zhou 周师傅 176 cm, Max Zhang 张铭轩 182 cm. Names in English and Chinese.
 Speaker notes: A student reads the Chinese frame. Take answers with the frame. Lily (158 cm) and Dr Huang (165 cm) are inside the range. Chef Zhou (176 cm) and Max (182 cm) are outside. Update evidence log row 6, the tracker column "Footprint" and the W6 confidence row.
 ```
 
@@ -190,7 +190,7 @@ On-slide text:
 How strong is the footprint evidence? 脚印证据的强度如何？
 This evidence is strong / weak because ___. 这个证据有力／薄弱，因为___。
 Vocabulary panel: correlation | 相关性, estimate | 估计, range | 范围
-Visual: Three large cards: Always 总是 / Sometimes 有时 / Never 从不, with the statement in a speech bubble. Small inset: two crosses on the scatter graph at the same foot length but different heights, circled.
+Visual: Three large cards: Always 总是 / Sometimes 有时 / Never 从不, with the statement in a speech bubble. Small inset: two crosses on the scatter graph at the same foot length but different heights, circled, captioned "same foot length, different heights 脚长相同，身高不同".
 Speaker notes: A student reads the Chinese lines. Pair talk in any language for one minute, then vote. Best answer: sometimes. Usually true, but not always: look at the circled crosses. So the footprint gives a range and matches two suspects: supporting evidence, not proof.
 ```
 
@@ -202,7 +202,7 @@ On-slide text:
 2. Which suspects fit? 哪些嫌疑人符合？
 3. Next week, I want to test: Soil, Paper, Ink 2 or Powder 2? 下周我想检测：土壤、纸巾、墨水2还是粉末2？
 Vocabulary panel: range | 范围, estimate | 估计
-Visual: Exit ticket strip with cut line. Four small option icons along the bottom: soil jar (Soil 土壤), paper towel strip (Paper 纸巾), chromatography strip (Ink 2 墨水2), spotting tile (Powder 2 粉末2).
+Visual: Exit ticket strip with cut line, with "Name 姓名 ________" at the top. Four small option icons along the bottom: soil jar (Soil 土壤), paper towel strip (Paper 纸巾), chromatography strip (Ink 2 墨水2), spotting tile (Powder 2 粉末2).
 Speaker notes: A student reads the Chinese lines; students tick the two goals on the strip. Collect at the door. Next week your group designs its own forensic test. I will use your votes to give each group one option, so I may need to balance the choices.
 ```
 
@@ -376,7 +376,7 @@ Create a half-A4 kit card for Year 8 Week 6 using the Think Like a Scientist kit
   - Sharp pencils, 4
 - **Per class:** 2 or 3 height measuring stations: a paper height chart (130 to 190 cm) taped to the wall, or a metre stick held upright against the wall with a strip of masking tape marked every centimetre from 100 to 200 cm. Projected class data table (slide 9).
 - **Teacher prep before the lesson (about 20 minutes):** Print the scene footprint at 100% scale, one per group, and check each measures exactly 24 cm (printers sometimes shrink pages). Print the sample data cards (1 per group) and worksheets. Set up the height stations on clear wall space away from doors. Decide whether the class will use its own data or the sample data (sample data recommended if the class is small or many students are absent).
-- **Hazards and controls:**
+- **Hazards and controls 危险源与控制措施:**
   - Take your shoes off for measuring and put them under your desk, not in the walkway. 测量时请脱鞋，把鞋子放在桌子下面，不要放在通道上。
   - Do not stand on chairs or tables to read the scale. 不要站在椅子或桌子上读刻度。
   - Hold metre sticks upright and close to the wall. Do not swing them. 米尺要竖直靠墙拿好，不要挥动。

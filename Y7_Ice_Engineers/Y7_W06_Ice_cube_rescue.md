@@ -88,7 +88,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 2. Slides [Paste into Claude Design]
 
-Create a 16:9 slide deck for Year 7 Week 6, Ice cube rescue, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A" or "Plan B" tag in the bottom corner of every plan-specific slide. Slides are numbered in file order across both plans (the Today slide, Slide 3, is shared), so each deck uses only the slide numbers in its running order below.
+Create a 16:9 slide deck for Year 7 Week 6, Ice cube rescue, using the Think Like a Scientist design system, Ice Engineers series. This deck has two versions. Slides marked [Shared] go in both. Build the Plan A deck from [Shared] and [Plan A] slides, and the Plan B deck from [Shared] and [Plan B] slides. Put a small "Plan A 方案A" or "Plan B 方案B" tag in the bottom corner of every plan-specific slide. Slides are numbered in file order across both plans (the Today slide, Slide 3, is shared), so each deck uses only the slide numbers in its running order below.
 
 **Running order, Plan A:** 1, 3, 4, 5, 7, 8, 9, 11, 13, 14, 15, 17, 18.
 **Running order, Plan B:** 2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 16, 14, 17, 18.
@@ -103,7 +103,7 @@ Each bag in its cup. 每个袋子放进对应的杯子。
 Write the start time. 写下开始时间。
 Go! 开始！
 Vocabulary panel: material | 材料; thermal insulator | 隔热材料
-Visual: Four labelled cups A to D in a row. Cup A: an ice cube in a sealed bag, no wrap. Cups B to D: bags wrapped in a square of material, held with an elastic band. A large clock icon with "Start time 开始时间: ____".
+Visual: Four labelled cups A to D in a row. Cup A: an ice cube in a sealed bag, no wrap. Caption under cup A: "no wrap 不包裹". Cups B to D: bags wrapped in a square of material, held with an elastic band. A large clock icon with "Start time 开始时间: ____".
 Speaker notes: Students start as they arrive. The cubes are already in sealed bags, so they stay clean and the meltwater cannot soak into the wrapping. Wrap tightly, one layer only, and do not hold the bags in warm hands for long. A student reads the Chinese line for each step to the group if anyone is unsure. Check every group has started by minute 4 and write the start time on the board.
 ```
 
@@ -115,7 +115,7 @@ Wrap cups B, C and D: one material each, side and lid. 包好B、C、D杯：每�
 Leave cup A bare. A杯不包。
 Do not touch the water jug. 不要碰水壶。
 Vocabulary panel: material | 材料; thermal insulator | 隔热材料
-Visual: Four empty plastic cups labelled A to D, each with a line marked "150 ml". Cups B to D wear a jacket of material held by an elastic band; a matching square lid with a small slit lies beside each. Cup A is bare. A water jug with a "Teacher only 仅限老师" sign.
+Visual: Four empty plastic cups labelled A to D, each with a line marked "150 ml". Cups B to D wear a jacket of material held by an elastic band; a matching square lid with a small slit lies beside each. Cup A is bare. Caption under cup A: "no wrap 不包裹". A water jug with a "Teacher only 仅限老师" sign.
 Speaker notes: Students start as they arrive. Wrap the material round the side of the cup, one layer, held with an elastic band. Put the lid square beside the cup: it goes on after I pour. I will pour the warm water myself; no student touches the jug. A student reads the Chinese line for each step to the group if anyone is unsure.
 ```
 
@@ -163,7 +163,7 @@ Recorder: write each start temperature. 记录员：写下每个起始温度。
 Start the stopwatch at cup A. 在A杯开始计时。
 Key idea 核心概念: 顺序相同、节奏相同，每个杯子都有15分钟，测试才公平。
 Vocabulary panel: thermometer | 温度计; temperature | 温度
-Visual: A thermometer pushed through the slit in a lid, with an eye level line drawn to the scale. Arrow sequence A to B to C to D. Stopwatch icon labelled "Start at cup A 从A杯开始计时".
+Visual: A thermometer pushed through the slit in a lid, with an eye level line drawn to the scale. The eye level line is captioned "eye level 视线与液面平齐". Arrow sequence A to B to C to D. Stopwatch icon labelled "Start at cup A 从A杯开始计时".
 Speaker notes: Same order, same pace, both times: that keeps it fair, because every cup then gets 15 minutes. A student reads the Chinese line for each step. Read with your eye level with the liquid. The thermometer must not touch the bottom of the cup. Give this 2 minutes, then teach.
 ```
 
@@ -173,7 +173,7 @@ Title: Heat moves from warm to cold / 热量从高温处传向低温处
 On-slide text: Heat always moves from a warmer place to a colder place. This is heat transfer. Cold does not move: heat does.
 Key idea 核心概念: 热量总是从高温处传向低温处，这就是热传递。冷不会移动，移动的是热量。
 Vocabulary panel: heat transfer | 热传递; temperature | 温度; melt | 熔化
-Visual: Two simple diagrams. Left: warm air (labelled 20 °C) with red-grey arrows pointing into a snowman (labelled 0 °C). Right: a cup of warm water (50 °C) with arrows pointing out into the room (20 °C). Arrow style must read in greyscale (thick solid arrows).
+Visual: Two simple diagrams. Left: warm air (labelled 20 °C) with red-grey arrows pointing into a snowman (labelled 0 °C). Right: a cup of warm water (50 °C) with arrows pointing out into the room (20 °C). Arrow style must read in greyscale (thick solid arrows). Captions under the diagrams: left "Heat in 热量进入", right "Heat out 热量散出".
 Speaker notes: The snowman melts because heat moves from the warm air into the snow. A cup of warm water cools because heat moves out of it into the room. In both cases heat goes from warm to cold. A student reads the Key idea line. Students often say "the cold gets in"; correct this gently.
 ```
 
@@ -196,7 +196,7 @@ I measure: meltwater (ml) after 30 minutes. 我测量：30分钟后融化的水�
 I keep the same: cube size, bag, cup, time, place. 我保持不变：冰块大小、袋子、杯子、时间、地点。
 Key idea 核心概念: 融化的水越少，隔热材料越好。
 Vocabulary panel: material | 材料; meltwater | 融化的水; thermal insulator | 隔热材料
-Visual: The three gesture icons from Week 3 (dial, stopwatch, flat hands). Under the dial: four material swatches. Under the stopwatch: a measuring cylinder with water to 5 ml. Under the flat hands: identical cubes, bags, cups and a clock.
+Visual: The three gesture icons from Week 3 (dial, stopwatch, flat hands). Under the dial: four material swatches. Under the stopwatch: a measuring cylinder with water to 5 ml. Under the flat hands: identical cubes, bags, cups and a clock. Each paired line sits beside its gesture icon as its caption.
 Speaker notes: Do the gestures from Week 3. A student reads each Chinese line as the class makes the gesture. Ask: "Why is cup A bare?" It is our control: it shows how fast ice melts with no insulator. Less meltwater means a better insulator. Prediction: "I predict ___ will be the best insulator because ___."
 ```
 
@@ -209,7 +209,7 @@ I measure: temperature drop (°C) in 15 minutes. 我测量：15分钟内的温�
 I keep the same: cup, 150 ml water, start temperature, time, place. 我保持不变：杯子、150 ml水、起始温度、时间、地点。
 Key idea 核心概念: 温度下降越小，隔热材料越好。
 Vocabulary panel: material | 材料; temperature | 温度; thermometer | 温度计
-Visual: The three gesture icons. Under the dial: four material swatches. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop 起始温度减结束温度 = 温度下降". Under the flat hands: identical cups, a 150 ml line and a clock.
+Visual: The three gesture icons. Under the dial: four material swatches. Under the stopwatch: a thermometer and "start temperature take away end temperature = drop 起始温度减结束温度 = 温度下降". Under the flat hands: identical cups, a 150 ml line and a clock. Each paired line sits beside its gesture icon as its caption.
 Speaker notes: Temperature drop = start temperature take away end temperature. A smaller drop means a better insulator. Cup A is the control. A student reads each Chinese line as the class makes the gesture. Ask: "Why must every cup start with the same amount of water?" More water would cool more slowly, so the test would not be fair.
 ```
 
@@ -218,7 +218,7 @@ Slide 11 | [Plan A] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Wear gloves if you hold ice for more than a minute. 手持冰块超过一分钟请戴手套。 Mop spills straight away. 洒出的水请立即擦干。 Keep bags sealed. 保持袋子密封。
 Vocabulary panel: none
-Visual: Safety slide layout, high visibility. Icons: gloves; a mop and wet floor sign; a sealed bag.
+Visual: Safety slide layout, high visibility. Icons: gloves; a mop and wet floor sign reading "Wet floor 小心地滑"; a sealed bag.
 Speaker notes: Read each line in English; a student reads it in Chinese. The bags stay sealed until the measuring slot. If water spills, the Safety Officer mops it up straight away with paper towels.
 ```
 
@@ -227,7 +227,7 @@ Slide 12 | [Plan B] | Phase tag: Learn 新知
 Title: Stay safe / 注意安全
 On-slide text: Only the teacher pours the warm water. 只有老师可以倒温水。 Thermometers can break: tell the teacher. 温度计易碎，破损请告诉老师。 Mop spills straight away. 洒出的水请立即擦干。
 Vocabulary panel: none
-Visual: Safety slide layout, high visibility. Icons: a jug with "Teacher only"; a thermometer with a crack and a hand raised; a mop and wet floor sign.
+Visual: Safety slide layout, high visibility. Icons: a jug with "Teacher only 仅限老师"; a thermometer with a crack and a hand raised; a mop and wet floor sign reading "Wet floor 小心地滑".
 Speaker notes: Read each line in English; a student reads it in Chinese. The water is about 50 °C: warm, not boiling, but it can still hurt if it spills on skin. Do not move the cups once they are filled. Lay thermometers flat on the tray so they cannot roll off.
 ```
 
@@ -238,7 +238,7 @@ On-slide text:
 Do not touch the cups! 不要碰杯子！
 Complete: variables table, prediction, then Stretch and Challenge. 完成：变量表、预测，然后做提高和挑战。
 Vocabulary panel: thermal insulator | 隔热材料; heat transfer | 热传递; material | 材料
-Visual: A clock face with a shaded sector showing time passing. Beside it, a worksheet icon with Core D, Stretch and Challenge ticked off in order. The icon's labels are bilingual: Core D 基础D, Stretch 提高, Challenge 挑战. A "hands off" icon over the cups.
+Visual: A clock face with a shaded sector showing time passing. Beside it, a worksheet icon with Core D, Stretch and Challenge ticked off in order. The icon's labels are bilingual: Core D 基础D, Stretch 提高, Challenge 挑战. A "hands off 不要碰" icon over the cups.
 Speaker notes: Moving or squeezing the cups adds heat from hands, so leave them alone. A student reads the Chinese lines; thumbs check before anyone starts. Recorders keep an eye on the clock. Plan B: when your stopwatch reaches 15 minutes, stop writing and take end readings in the same order as before.
 ```
 
@@ -250,7 +250,7 @@ Project question: Can we make ice stronger? 项目问题：我们能让冰更坚
 Choose: type of fibre, or amount of sawdust. 选择：纤维种类，或木屑的量。
 Draft page 1 of your plan. 起草你们计划的第1页。
 Vocabulary panel: fibre | 纤维; independent variable | 自变量; strength | 强度
-Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool 纤维种类：无、木屑、纸巾、碎纸、棉花" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g 每条木屑的量：0 g、0.3 g、0.6 g、0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Ice Engineers ice crystal icon above.
+Visual: Two signposts. Left: "Type of fibre: none, sawdust, tissue, shredded paper, cotton wool 纤维种类：无、木屑、纸巾、碎纸、棉花" with small icons. Right: "Amount of sawdust per strip: 0 g, 0.3 g, 0.6 g, 0.9 g 每条木屑的量：0 g、0.3 g、0.6 g、0.9 g" with four small piles. A small drawing of a thin strip (about 12 cm long, 2 cm wide, 5 mm thick) under both signposts. Its only labels are the sizes "12 cm", "2 cm" and "5 mm". Ice Engineers ice crystal icon above.
 Speaker notes: Next week you plan your own investigation and make your samples. Today, as a group, choose one question and draft page 1 of the planning frame. A student reads the Chinese lines; the discussion may be in Chinese. Plan B classes make dough strips instead of ice, with the same fibres. You can change your mind next week.
 ```
 
@@ -277,7 +277,7 @@ At 15 minutes: read A, B, C, D in the same order. 15分钟时：按同样的顺�
 Temperature drop = start take away end. 温度下降 = 起始温度减结束温度。
 Smallest drop = best insulator. 下降最小 = 最好的隔热材料。
 Vocabulary panel: temperature | 温度; thermometer | 温度计; thermal insulator | 隔热材料
-Visual: The stopwatch showing 15:00. The same A to D arrow sequence as Slide 6. A worked example: start 48 °C, end 41 °C, drop 7 °C.
+Visual: The stopwatch showing 15:00. The same A to D arrow sequence as Slide 6. A worked example: start 48 °C, end 41 °C, drop 7 °C. Label it "Example 例子", with "start 起始温度 48 °C", "end 结束温度 41 °C" and "drop 温度下降 7 °C".
 Speaker notes: Same order and same 30-second wait as the start readings. Then calculate each drop. A student reads the Chinese lines. Worked example: 48 take away 41 is a drop of 7 °C. Check your units: °C.
 ```
 
@@ -301,7 +301,7 @@ Which material was the best insulator? 哪种材料是最好的隔热材料？
 Give one number from your results and a reason. 写出你结果中的一个数字和一个理由。
 Logbook: what I found. 科学日志：我发现了什么。
 Vocabulary panel: thermal insulator | 隔热材料; material | 材料
-Visual: Exit ticket strip preview. The strip includes the "Today I can 今天我能" self-check line. Logbook icon with "What I found 我发现了什么" highlighted.
+Visual: Exit ticket strip preview. The strip includes the "Today I can 今天我能" self-check line. Logbook icon with "What I found 我发现了什么" highlighted. The strip is headed "Exit ticket 离场小测"; the logbook icon is captioned "Logbook 科学日志".
 Speaker notes: Students complete the exit ticket. A student reads the Chinese lines; answers in Chinese count. Then everyone ticks the two goals on the strip. Lead Scientists put the planning frame in the group folder; it comes back next week. Plan A: bags and wet materials in the bin, cups stacked. Plan B: the teacher collects thermometers first.
 ```
 
@@ -467,7 +467,7 @@ Prediction (Secure): "I predict cotton wool will be the best insulator because i
 
 ## 5. Kit card [Paste into Claude Design]
 
-Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist kit card template: one titled "Plan A: Ice cube rescue | 冰块保卫战" and one titled "Plan B: Keep it warm | 保温挑战". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
+Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist kit card template: one titled "Plan A: Ice cube rescue | 方案A：冰块保卫战" and one titled "Plan B: Keep it warm | 方案B：保温挑战". Use a large "A" or "B" badge in the corner so they cannot be mixed up.
 
 ### Kit card [Plan A]: Ice cube rescue
 
@@ -491,7 +491,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - On the day: put each cube into its own zip-lock bag, squeeze out the air and seal; keep in the cool box or freezer until the lesson (10 min).
 - Cut the material squares and set out the trays by Set A and Set B (10 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - Wear gloves if you hold ice for more than a minute.
   手持冰块超过一分钟时请戴手套。
 - Keep the bags sealed until the measuring slot.
@@ -499,7 +499,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - Mop up spills straight away so no one slips.
   洒出的水请立即擦干，以免滑倒。
 
-**Clean-up**
+**Clean-up 收拾整理**
 - Ice, bags and wet materials in the bin; dry foil and bubble wrap can be reused. 冰、袋子和湿的材料扔进垃圾桶；干的铝箔和气泡膜可以重复使用。
 - Measuring cylinders rinsed and counted back; cups stacked; tables wiped dry. 量筒冲洗干净并数好归还；杯子叠好；桌子擦干。
 
@@ -525,7 +525,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - Cut the jackets and lids; set out the trays by Set A and Set B (5 min).
 - During the Do Now: mix kettle water and cold tap water in the jug until it reads about 50 °C (never above 55 °C). You need about 3.6 litres for 24 cups (5 min).
 
-**Hazards and controls**
+**Hazards and controls 危险源和控制措施**
 - Only the teacher pours the warm water. It is about 50 °C, never hotter than 55 °C.
   只有老师可以倒温水。水温约50 °C，绝不超过55 °C。
 - Do not move the cups once they are full.
@@ -535,7 +535,7 @@ Create two half-A4 kit cards for Year 7 Week 6 using the Think Like a Scientist 
 - Mop up spills straight away so no one slips.
   洒出的水请立即擦干，以免滑倒。
 
-**Clean-up**
+**Clean-up 收拾整理**
 - Teacher collects and counts thermometers first. 老师先收回并清点温度计。
 - Water poured into the sink; wet newspaper and cotton wool in the bin; foil, fabric and bubble wrap dried for reuse; tables wiped. 水倒进水槽；湿的报纸和棉花扔进垃圾桶；铝箔、布料和气泡膜晾干以便重复使用；桌子擦干净。
 

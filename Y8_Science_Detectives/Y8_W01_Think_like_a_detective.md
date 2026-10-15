@@ -82,7 +82,7 @@ On-slide text:
 Circle one face for each line. 每行圈出一个表情。
 There are no wrong answers. 没有错误答案。
 Vocabulary panel: none
-Visual: Row of five faces from very unhappy to very happy, greyscale-safe (line drawings). 3-minute timer.
+Visual: Row of five faces from very unhappy to very happy, greyscale-safe (line drawings). End labels, as on the survey: "Strongly disagree 非常不同意" under the first face and "Strongly agree 非常同意" under the last. 3-minute timer.
 Speaker notes: This survey is about you, not about right answers. A student reads the Chinese lines. Be honest. We will do the same survey in Week 10.
 ```
 
@@ -119,7 +119,7 @@ Title: The first forensic scientist? / 第一位法庭科学家？
 On-slide text: Song Ci 宋慈, a judge in China. In 1247 he wrote 《洗冤集录》, one of the world's first forensic science books. His rule: go and look carefully yourself.
 Key idea 核心概念: 宋慈的规则：亲自去仔细查看。
 Vocabulary panel: forensic science | 法庭科学, evidence | 证据, detective | 侦探
-Visual: A respectful ink-brush style illustration of a Song dynasty official at a desk writing on a scroll, with an open bound book. Timeline strip underneath: 1247 Song Ci ... today. No gory or frightening images.
+Visual: A respectful ink-brush style illustration of a Song dynasty official at a desk writing on a scroll, with an open bound book. Timeline strip underneath: 1247 Song Ci 宋慈 ... today 今天. No gory or frightening images.
 Speaker notes: Almost 800 years ago, Song Ci told investigators not to trust rumours or guesses, but to look at the evidence themselves and write down exactly what they saw. A student reads 《洗冤集录》 and the Chinese key idea aloud. That is what scientists still do. Today you will practise his rule.
 ```
 
@@ -159,7 +159,7 @@ Core: tick O or I. 基础：勾选O或I。
 Stretch: write 3 observations and 3 inferences. 提高：写3个观察和3个推断。
 Challenge: how would you test one inference? 挑战：你会怎样检验一个推断？
 Vocabulary panel: observation | 观察, inference | 推断, crime scene | 案发现场, evidence | 证据
-Visual: Thumbnail of the scene map (top-down plan of Lab 3 on a lettered grid) with three tier icons (one, two, three dots) beside the three tasks. 10-minute timer.
+Visual: Thumbnail of the scene map (top-down plan of Lab 3 on a lettered grid) with three tier icons (one, two, three dots) beside the three tasks. Caption under the thumbnail: "Scene map 现场平面图". 10-minute timer.
 Speaker notes: Say, show, check before groups start: read the English, a student reads the Chinese line, thumbs check. Give each square a reference, like F4, so others can find what you saw. Talk in any language in your group; write key words in English. Ten minutes.
 ```
 
@@ -194,7 +194,7 @@ Write one observation and one inference about the scene. 写出关于现场的�
 Label them O and I. 标注O和I。
 Next week: fingerprints! 下周：指纹！
 Vocabulary panel: observation | 观察, inference | 推断
-Visual: Exit ticket strip graphic with scissors cut line. Small fingerprint icon in the corner as a teaser.
+Visual: Exit ticket strip graphic with scissors cut line. On the strip, as on the worksheet: "Exit ticket 离场小测" and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Small fingerprint icon in the corner as a teaser.
 Speaker notes: A student reads the Chinese lines. Point to the self-check line on the strip: tick each goal you can do. Collect exit tickets at the door. Case files stay in the classroom box. Next week we test our first piece of evidence: the fingerprint on the glass.
 ```
 
@@ -314,7 +314,7 @@ Create a half-A4 kit card for Year 8 Week 1 using the Think Like a Scientist kit
 - **Hazards and controls:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Optional scene table: look only. Do not touch, taste or smell the evidence. 现场展示桌：只能看，不要触摸、品尝或闻证据。
-- **Clean-up 收拾整理:** Case files go into the class box, filed by group. 案件档案按小组放回班级箱。 Skills checks and surveys collected separately for the tracker.
+- **Clean-up 收拾整理:** Case files go into the class box, filed by group. 案件档案按小组放回班级箱。 Skills checks and surveys collected separately for the tracker. 技能检测卷和问卷单独收齐，用于填写学生进度跟踪表。
 
 ## 6. Other printables [Paste into Claude Design]
 
@@ -401,7 +401,7 @@ Create an A4 landscape scene map for the Think Like a Scientist Science Detectiv
 
 **Also at I3 (no evidence marker, but clearly drawn):** a mop in a bucket and a folding yellow sign labelled "Wet floor 小心地滑". In greyscale, draw the sign as a triangle with a slipping-figure icon.
 
-**Key box (bottom right corner):** "Key 图例: ▲1 to ▲5 = evidence markers 证据标记 | Grid letters and numbers = squares 方格 (e.g. F4)".
+**Key box (bottom right corner):** "Key 图例: ▲1 to ▲5 = evidence markers 证据标记 | Grid letters and numbers 网格字母和数字 = squares 方格 (e.g. F4 例如F4)".
 
 Keep the map uncluttered: no people drawn, no extra objects beyond those listed.
 
@@ -410,7 +410,7 @@ Keep the map uncluttered: no people drawn, no extra objects beyond those listed.
 Create an A4 portrait sheet of four suspect profile cards (each A6, 2 by 2 layout with cut lines) for the Think Like a Scientist Science Detectives series, black-and-white printable. Print: 1 sheet per student (inside the case file; students may cut them out). Each card has a friendly illustrated portrait at top left (fictional, not a real person, neutral kind expression), a "SUSPECT 嫌疑人" stamp, and these fields in a two-column table. The English alibi stays as spoken; its Chinese gist sits beneath it in the lighter weight.
 
 **Card 1: Lily Chen | 陈莉**
-| Field | |
+| Field 项目 | |
 |---|---|
 | Role 身份 | Lab technician 实验员, age 29 29岁 |
 | Why in the lab 来实验室的原因 | Setting up Fair demos (ice-and-salt tray); washing glassware 概要：布置科学展演示（冰盐盘）；清洗玻璃器皿 |
@@ -424,7 +424,7 @@ Create an A4 portrait sheet of four suspect profile cards (each A6, 2 by 2 layou
 | Fingerprint 指纹 | On file: see Week 2 已存档：见第2周 |
 
 **Card 2: Max Zhang | 张铭轩**
-| Field | |
+| Field 项目 | |
 |---|---|
 | Role 身份 | Year 12 student, Science Club president, age 17 12年级学生，科学社社长，17岁 |
 | Why in the lab 来实验室的原因 | Checking his Fair project, "Sugar Snowflakes" 概要：查看他的科学展项目“糖雪花” |
@@ -438,7 +438,7 @@ Create an A4 portrait sheet of four suspect profile cards (each A6, 2 by 2 layou
 | Fingerprint 指纹 | On file: see Week 2 已存档：见第2周 |
 
 **Card 3: Chef Zhou | 周师傅**
-| Field | |
+| Field 项目 | |
 |---|---|
 | Role 身份 | Head chef, school canteen, age 45 学校食堂主厨，45岁 |
 | Why in the lab 来实验室的原因 | Brought buns for volunteers; borrowed the lab scales to weigh baking soda for tomorrow's buns 概要：给志愿者送包子；借实验室的天平称明天做包子用的小苏打 |
@@ -452,7 +452,7 @@ Create an A4 portrait sheet of four suspect profile cards (each A6, 2 by 2 layou
 | Fingerprint 指纹 | On file: see Week 2 已存档：见第2周 |
 
 **Card 4: Dr Ruby Huang | 黄若琳**
-| Field | |
+| Field 项目 | |
 |---|---|
 | Role 身份 | Visiting scientist, Northpoint Science Centre, age 38 访问科学家，北角科学中心，38岁 |
 | Why in the lab 来实验室的原因 | Setting up her "Erupting Volcano" Fair demonstration 概要：布置她的科学展演示“火山喷发” |
@@ -473,7 +473,7 @@ Create an A4 landscape evidence log page for the Think Like a Scientist Science 
 
 **Header:** "Evidence log 证据记录 | The Frozen Notebook 冰封笔记本之谜 | Detective 侦探 ________"
 
-**Part 1: Evidence table** (10 rows, each about 1.4 cm tall)
+**Part 1: Evidence table 第1部分：证据表** (10 rows, each about 1.4 cm tall)
 
 | Week 周 | Evidence 证据 | Test 检测方法 | Result 结果 | Ruled IN 符合 | Ruled OUT 排除 | Strength 证据强度 (Strong 有力 / Supporting 支持性 / Weak 薄弱) |
 |---|---|---|---|---|---|---|
@@ -488,7 +488,7 @@ Create an A4 landscape evidence log page for the Think Like a Scientist Science 
 | 9 | | | | | | |
 | 10 | | | | | | |
 
-**Part 2: Suspect tracker 嫌疑人追踪表** (grid; students write ✓ = matches 匹配, ✗ = does not match 不匹配, ? = not sure 不确定; print this key bilingual under the grid)
+**Part 2: Suspect tracker 第2部分：嫌疑人追踪表** (grid; students write ✓ = matches 匹配, ✗ = does not match 不匹配, ? = not sure 不确定; print this key bilingual under the grid)
 
 | Suspect 嫌疑人 | Fingerprint 指纹 (W2) | Ink 墨水 (W3) | Powder 粉末 (W4) | Liquid 液体 (W5) | Footprint 脚印 (W6) | Matches 匹配数 |
 |---|---|---|---|---|---|---|
@@ -497,7 +497,7 @@ Create an A4 landscape evidence log page for the Think Like a Scientist Science 
 | Chef Zhou 周师傅 | | | | | | |
 | Dr Ruby Huang 黄若琳 | | | | | | |
 
-**Part 3: My confidence 我的把握** (one small row per week, Weeks 2 to 6)
+**Part 3: My confidence 第3部分：我的把握** (one small row per week, Weeks 2 to 6)
 "My main suspect now is ________. 我现在的主要嫌疑人是___。 Confidence 把握: low 低 / medium 中 / high 高" (circle one 圈出一个), repeated five times with week labels W2 to W6.
 
 Footer: "Good detectives change their minds when the evidence changes. 好侦探会根据证据改变想法。"
