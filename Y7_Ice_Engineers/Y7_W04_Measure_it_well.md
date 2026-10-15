@@ -200,7 +200,7 @@ Calculate the mean without it. 剔除它后计算平均值。
 Show your working. 写出计算过程。
 Logbook: one new word. 科学日志：写一个新词。
 Vocabulary panel: mean | 平均值; anomaly | 异常值
-Visual: Exit ticket strip preview with the table of Hana's results and the "Today I can 今天我能" self-check boxes. Logbook icon with "New words 新词汇" highlighted. The strip preview is headed "Exit ticket 离场小测" and the table is titled "Hana's results Hana的结果"; the logbook icon is labelled "Logbook 科学日志".
+Visual: Exit ticket strip preview with the table of Hana's results and the "Today I can 今天我能: Goal 1 目标1 ☐ Goal 2 目标2 ☐" self-check line. Logbook icon with "New words 新词汇" highlighted. The strip preview is headed "Exit ticket 离场小测" and the table is titled "Hana's results for 6 cm wings Hana的6 cm翼长结果"; the logbook icon is labelled "Logbook 科学日志".
 Speaker notes: Students complete the exit ticket strip and write one new word in their logbook. A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Recorders put the group results table and spinners back in the envelope: we need the means next week.
 ```
 
