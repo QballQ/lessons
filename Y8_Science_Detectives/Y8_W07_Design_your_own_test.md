@@ -126,7 +126,7 @@ Title: Change one thing / 只改变一个因素
 On-slide text: We change 我们改变: which sample. We observe or measure 我们观察或测量: the result. We keep the same 我们保持不变: amount, time, equipment. The references are our controls.
 Key idea 核心概念: 只改变“哪个样本”，其他条件保持不变；参照样本是我们用来比较的已知样本。
 Vocabulary panel: independent variable | 自变量, dependent variable | 因变量, control variable | 控制变量, fair test | 公平测试
-Visual: Worked example from Week 4, captioned "Week 4 example 第4周的例子", as three labelled sliders: "Change 改变: which powder (salt, sugar, baking soda, cornflour, flour, scene) 哪种粉末（食盐、白糖、小苏打、玉米淀粉、面粉、现场）"; "Observe 观察: fizz, dissolve, colour 冒气泡、溶解、颜色"; "Keep the same 保持不变: pea-sized spoonful, 5 drops vinegar, clean spoon 豌豆大小的一勺、5滴白醋、干净的勺子". A row of six pots with "references 参照样本" under five and "scene 现场" under one.
+Visual: Worked example from Week 4, captioned "Week 4 example 第4周的例子", as three labelled sliders: "Change 改变: which powder (salt, sugar, baking soda, cornflour, flour, scene) 哪种粉末（食盐、白糖、小苏打、玉米淀粉、面粉、现场）"; "Observe 观察: fizz, dissolve, colour 冒气泡、溶解、颜色"; "Keep the same 保持不变: pea-sized spoonful, 5 drops vinegar, clean spoon 豌豆大小的一勺、5滴白醋、干净的勺子". A row of six pots with "references 参照样本" under five and "scene 现场" under one (no other labels on the pots).
 Speaker notes: In Week 4 the thing we changed was which powder we tested. We kept the amount and the drops the same. The five known powders were our reference samples: our controls. Your plan works the same way. A student reads the Key idea line in Chinese.
 ```
 
@@ -375,7 +375,7 @@ Create a half-A4 kit card for Year 8 Week 7 using the Think Like a Scientist kit
 **Kit card: Week 7 planning lesson**
 - **Per group (4 students):** option card (their option only), 1; plan sheets, 4; sealed evidence bag for their option (Soil and Paper groups: Evidence 6 or 7; Ink 2 groups: a note ink strip N in a clear sleeve; Powder 2 groups: Evidence 3 bag), 1; Week 4 results grid (in case files); mini whiteboards and pens, 4.
 - **Teacher prep before the lesson (about 30 minutes):** Allocate options to groups from the Week 6 exit tickets. Print option cards (one per group, plus spares) and plan sheets. Stage Evidence 6 and Evidence 7 (Case Bible, Section 12: label them "Evidence 6" and "Evidence 7"). Collect the reference soils and papers now if possible, so groups can see them.
-- **Hazards and controls:**
+- **Hazards and controls 危险源和控制措施:**
   - No practical work today. Evidence bags stay sealed. 今天没有实验操作。证据袋保持密封。
   - Do not open, smell or taste any sample. 不要打开、闻或品尝任何样本。
 - **Clean-up 收拾整理:** Evidence bags back to the teacher. 证据袋交回老师。 Plan sheets and kit requests collected at the door. 计划表和器材申请在门口收齐。
@@ -386,13 +386,13 @@ Create a half-A4 kit card for Year 8 Week 7 using the Think Like a Scientist kit
 - Measuring jug or cylinder (at least 150 ml), 1; jug of water, 1
 - Tablespoons, 5 (one per sample); magnifying glass, 1; white paper, 2 sheets; 30 cm ruler, 1; marker pen, 1; timer, 1
 - Disposable gloves (for anyone with cuts or skin problems); goggles, 4; paper towels
-- Hazard lines: Wash your hands after touching soil. 接触土壤后请洗手。 Do not touch your face or mouth while handling soil. 处理土壤时不要触摸脸部或嘴巴。 Wear goggles while shaking bottles; check lids are tight. 摇瓶时请戴护目镜，并检查瓶盖是否拧紧。 Use plastic bottles, not glass. 使用塑料瓶，不要用玻璃瓶。
+- Hazard lines 危险源提示: Wash your hands after touching soil. 接触土壤后请洗手。 Do not touch your face or mouth while handling soil. 处理土壤时不要触摸脸部或嘴巴。 Wear goggles while shaking bottles; check lids are tight. 摇瓶时请戴护目镜，并检查瓶盖是否拧紧。 Use plastic bottles, not glass. 使用塑料瓶，不要用玻璃瓶。
 
 **Option kit list: Paper (per group)**
 - Labelled paper samples, enough for 3 strips 2 cm by 12 cm each, with a direction arrow: P1 the lab's own paper towels, P2 canteen napkin, P3 tissue, P4 kitchen roll; plus Evidence 7 (scene paper towel), 5
 - Plastic cups, 4; jug of water with 1 drop of food colouring per 100 ml, 1
 - Pencils (for hanging strips), 4; sticky tape, 1; scissors, 2; 30 cm rulers, 2; magnifying glass, 1; timer, 1; paper towels
-- Hazard lines: Food colouring stains skin and clothes. Use one drop only. 食用色素会弄脏皮肤和衣服，只用一滴。 Cut away from your fingers; pass scissors handle first. 剪的时候刀口朝外，递剪刀时把手朝向对方。 Wipe up spills straight away. 洒出的液体要立即擦干。
+- Hazard lines 危险源提示: Food colouring stains skin and clothes. Use one drop only. 食用色素会弄脏皮肤和衣服，只用一滴。 Cut away from your fingers; pass scissors handle first. 剪的时候刀口朝外，递剪刀时把手朝向对方。 Wipe up spills straight away. 洒出的液体要立即擦干。
 
 **Option kit list: Ink 2 (per group)**
 - Coffee-filter strips 2 cm by 10 cm, 16; note ink strips N (made with pen B by the teacher), 6
@@ -400,14 +400,14 @@ Create a half-A4 kit card for Year 8 Week 7 using the Think Like a Scientist kit
 - Plastic cups, 6, labelled "Water", "Salt water" and "Vinegar" (2 of each)
 - Water (bottled or tap), salt (1 level teaspoon per 100 ml), white vinegar (about 50 ml), measuring jug, teaspoon, stirring stick
 - Pencils, 6; sticky tape; 30 cm ruler, 1; timer, 1; goggles, 4; paper towels
-- Hazard lines: Wear goggles when using vinegar. 使用白醋时请佩戴护目镜。 Never taste salt water, vinegar or any sample. 不要品尝盐水、白醋或任何样本。 Keep pen caps on when not in use. 不用时请盖好笔帽。
+- Hazard lines 危险源提示: Wear goggles when using vinegar. 使用白醋时请佩戴护目镜。 Never taste salt water, vinegar or any sample. 不要品尝盐水、白醋或任何样本。 Keep pen caps on when not in use. 不用时请盖好笔帽。
 
 **Option kit list: Powder 2 (per group)**
 - Labelled pots, about 2 teaspoons each: Baking soda; K1 "Baking soda + cornflour"; K2 "Salt + flour"; X "Mystery mixture X"; Evidence 3 (scene powder), 5
 - Small spoons (one per sample), 5; spotting tiles (or 12 white plastic lids), 2; small clear cups a third full of water, 10; stirring sticks, 10
 - White vinegar in a labelled cup with a dropper, 1; iodine solution in a dropper bottle (optional, Safety Officer only), 1
 - Magnifying glass, 1, and black card; goggles, 4; paper towels
-- Hazard lines: Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。 Never taste any powder or liquid. 不要品尝任何粉末或液体。 Tell your teacher about food allergies (wheat, corn). 如有食物过敏（小麦、玉米），请告诉老师。 Iodine stains: one drop, dropper only. 碘液会染色：只用滴管滴一滴。
+- Hazard lines 危险源提示: Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。 Never taste any powder or liquid. 不要品尝任何粉末或液体。 Tell your teacher about food allergies (wheat, corn). 如有食物过敏（小麦、玉米），请告诉老师。 Iodine stains: one drop, dropper only. 碘液会染色：只用滴管滴一滴。
 
 ## 6. Other printables [Paste into Claude Design]
 
@@ -429,7 +429,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
   - (T) Add one level tablespoon of soil to each bottle. 在每个瓶子里加入一平汤匙土壤。 (picture: level spoon over a bottle)
   - (U) Look at a pinch of each soil on white paper with a magnifier. 把每种土壤各取一小撮放在白纸上，用放大镜观察。 (picture: magnifier over soil)
   - (V) Measure the height of each layer in mm. 用毫米测量每一层的高度。 (picture: ruler beside a bottle)
-- **Picture box 图片框:** a labelled diagram of a settled bottle: from the bottom, "small stones 小石子", "sand 沙", "silt 粉砂", "clay (stays cloudy) 黏土（水保持浑浊）", "water 水", "floating bits (roots, leaves) 漂浮物（根、叶）".
+- **Picture box 图示:** a labelled diagram of a settled bottle: from the bottom, "small stones 小石子", "sand 沙", "silt 粉砂", "clay (stays cloudy) 黏土（水保持浑浊）", "water 水", "floating bits (roots, leaves) 漂浮物（根、叶）".
 - **Main hazards 主要危险源:**
   - Soil can carry germs. Wash your hands after. 土壤可能带有细菌，操作后请洗手。
   - Do not touch your face or mouth. 不要触摸脸部或嘴巴。
@@ -443,7 +443,7 @@ Create an A4 portrait option card for the Think Like a Scientist Science Detecti
 Create an A4 portrait option card for the Think Like a Scientist Science Detectives series, black-and-white printable.
 
 - **Header:** "Option: Paper | 选项：纸巾" with a paper strip icon with water climbing.
-- **Story hook 案情线索:** "A crumpled paper towel was found in the waste bin by Professor Frost's desk. Which paper towel is it? (Evidence 7) 在弗罗斯特教授办公桌旁的垃圾桶里发现了一团纸巾。它是哪一种纸巾？（证据7）"
+- **Story hook 案情线索:** "A crumpled paper towel was found in the corridor bin just outside the lab door. Which paper towel is it? (Evidence 7) 在实验室门外的走廊垃圾桶里发现了一团纸巾。它是哪一种纸巾？（证据7）"
 - **Your question 你的问题:** "Which paper towel matches the paper towel found at the scene? 哪种纸巾与现场发现的纸巾匹配？"
 - **Your samples 你的样本:** Four reference papers 四种参照纸巾: P1 The lab's paper towels (from the dispenser by the sink) 实验室纸巾（水槽旁取纸盒里的）; P2 Canteen napkin 食堂餐巾纸; P3 Tissue 面巾纸; P4 Kitchen roll from a shop 厨房纸. Scene sample 现场样本: Evidence 7 证据7 (smoothed flat by your teacher, with an arrow showing which way to cut) （已由老师压平，箭头表示剪的方向）.
 - **Method ideas 实验步骤提示 (put them in order 把它们排好顺序):**
