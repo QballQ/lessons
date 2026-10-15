@@ -56,6 +56,17 @@ def qa(slug):
                 r['pptx_valid'] = 'PASSED' in v.stdout
             if r['pptx_valid'] is False: r['problems'].append('validate.py: ' + (v.stdout + v.stderr)[-300:])
         r['sheets'] = sheet(pdf, slug, 4, 30)
+        if os.path.exists(pp) and os.environ.get('QA_PPTX_RENDER', '1') == '1':
+            lo = os.path.join(QA, 'lo'); os.makedirs(lo, exist_ok=True)
+            # SOFFICE_WRAPPER: the pptx skill's scripts/office/soffice.py (bare soffice can hang in a sandbox); needs LibreOffice Impress
+            wrapper = os.environ.get('SOFFICE_WRAPPER')
+            cmd = ([sys.executable, wrapper] if wrapper else ['soffice']) + ['--headless', '--convert-to', 'pdf', '--outdir', lo, pp]
+            subprocess.run(cmd, capture_output=True, timeout=600)
+            lp = os.path.join(lo, slug + '.pdf')
+            if os.path.exists(lp):
+                r['pptx_render_pages'] = len(pdfinfo(lp))
+                r['pptx_sheets'] = sheet(lp, slug + '_pptx', 4, 30)
+            else: r['problems'].append('PowerPoint could not be rendered by LibreOffice')
     else:
         cj = json.load(open(os.path.join(site, 'project/canvas.json')))
         boards = cj.get('order') or list(cj['boards'])
