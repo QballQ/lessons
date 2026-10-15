@@ -14,7 +14,8 @@ for src, name in [('00_Teacher_Guide/Teacher_Guide.md', 'Teacher_Guide'), ('outl
                   ('00_Language_Support/Glossary_Y7_Y8.md', 'Glossary_Y7_Y8'),
                   ('assessment/Rubric_and_Reporting.md', 'Rubric_and_Reporting_source'),
                   ('assessment/Tracker_Spec.md', 'Tracker_guide'),
-                  ('design/export_tools/README_resources.md', 'README_resources')]:
+                  ('design/export_tools/README_resources.md', 'README_resources'),
+                  ('design/export_tools/Corrections_list.md', 'Corrections_list')]:
     jobs.append({'src': src, 'name': name, 'title': name.replace('_', ' ')})
 json.dump(jobs, open(os.path.join(HERE, 'doc_jobs.json'), 'w'), indent=1)
 print(len(jobs), 'jobs')

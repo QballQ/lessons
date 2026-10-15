@@ -22,6 +22,7 @@ def place(src, dst, kind=None):
 if os.path.exists(OUT): shutil.rmtree(OUT)
 os.makedirs(OUT)
 place(os.path.join(DOCS, 'README_resources.pdf'), os.path.join(OUT, '00_Read_me', 'Read_me_first.pdf'))
+place(os.path.join(DOCS, 'Corrections_list.pdf'), os.path.join(OUT, '00_Read_me', 'Corrections_list.pdf'))
 T = os.path.join(OUT, '01_Teacher_documents')
 for n in ['Teacher_Guide', 'Programme_Outline', 'Language_Access_Policy_Y7_Y8', 'Glossary_Y7_Y8', 'Tracker_guide']:
     place(os.path.join(DOCS, n + '.pdf'), os.path.join(T, n + '.pdf'))
