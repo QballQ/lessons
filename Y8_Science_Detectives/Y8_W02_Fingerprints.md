@@ -167,7 +167,7 @@ Classify each suspect. 给每位嫌疑人的指纹分类。
 Who matches? 谁匹配？
 Who is ruled out? 谁被排除？
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹, evidence | 证据
-Visual: Thumbnail of the Fingerprint File: one larger smudged print labelled "Scene print (glass) 现场指纹（玻璃杯）" at the top, five smaller labelled prints beneath (Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Huang 黄博士, Professor Frost 弗罗斯特教授).
+Visual: Thumbnail of the Fingerprint File: one larger smudged print labelled "Scene print (glass) 现场指纹（玻璃杯）" at the top, five smaller labelled prints beneath (Lily Chen 陈莉, Max Zhang 张铭轩, Chef Zhou 周师傅, Dr Ruby Huang 黄若琳, Professor Frost 弗罗斯特教授).
 Speaker notes: The scene print is smudged, so we can only see its type, not the tiny details real experts compare. That is an honest limit of our evidence. Four minutes. Say, show, check first: a student reads the Chinese lines, thumbs check.
 ```
 
@@ -190,7 +190,7 @@ On-slide text:
 3. Is this evidence strong or weak? 这个证据有力还是薄弱？
 Why? 为什么？
 Vocabulary panel: loop | 箕形纹, whorl | 斗形纹, arch | 弓形纹
-Visual: Exit ticket strip with cut line. The strip shows the Today I can 今天我能 self-check boxes: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser icon in corner: a black ink dot spreading into colours (next week: chromatography), captioned "Next week: chromatography 下周：色谱法".
+Visual: Exit ticket strip with cut line, headed "Exit ticket 离场小测", the cut line labelled "Cut here 沿此线剪下". The strip shows the Today I can 今天我能 self-check boxes: "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Teaser icon in corner: a black ink dot spreading into colours (next week: chromatography), captioned "Next week: chromatography 下周：色谱法".
 Speaker notes: A student reads the Chinese lines. Students tick the two Today I can boxes on the strip. Collect at the door. Next week: who wrote the note? We will find out what is hiding inside black ink.
 ```
 
@@ -233,8 +233,8 @@ a) Work out the percentage of the class with each type. 计算全班每种纹型
 
 | Type 纹型 | Our class % 我们班的百分比 | World % (approx.) 世界百分比（约） |
 |---|---|---|
-| Loop 箕形纹 | | 60 to 65% |
-| Whorl 斗形纹 | | 30 to 35% |
+| Loop 箕形纹 | | 60 to 65% 60%到65% |
+| Whorl 斗形纹 | | 30 to 35% 30%到35% |
 | Arch 弓形纹 | | about 5% 约5% |
 
 b) Complete: 完成句子： "In our class, ___% have loops. This is more than / less than / about the same as the world figure." “我们班有___%的人是箕形纹。与世界数据相比：多于／少于／大致相同。” (circle one) （圈出一个）

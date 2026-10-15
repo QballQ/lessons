@@ -94,7 +94,7 @@ Title: Is black ink just black? / 黑墨水只是黑色吗？
 On-slide text:
 Predict: what will happen when water climbs up through a dot of black ink? 预测：当水向上爬过一个黑墨点时，会发生什么？
 Vocabulary panel: mixture | 混合物, dye | 染料
-Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click). Captions: "Before 测试前" under the left strip and "After 测试后" under the right strip.
+Visual: Left: a single black dot on a white paper strip with a question mark. Right: the same strip after chromatography, showing coloured bands (reveal on click). Captions: "Before 之前" under the left strip and "After 之后" under the right strip.
 Speaker notes: A student reads the Chinese line. Take predictions first. Then hold up a dried pre-test strip. Black ink is a mixture of dyes. Different pens use different mixtures, so each pen has its own pattern, like a fingerprint for ink.
 ```
 

@@ -56,7 +56,7 @@ Slide 1 | Phase tag: none (title slide)
 Title: The white powder / 白色粉末之谜
 On-slide text: Science Detectives. Week 4. Evidence 3: the white powder. 科学侦探。第4周。证据3：白色粉末。
 Vocabulary panel: none
-Visual: A small zip evidence bag of white powder with a label "Evidence 3: floor by desk (F4)" and, beneath the label in the lighter weight, "中文：证据3：办公桌旁的地面（F4）", beside five small labelled pots of white powder ("Salt 食盐", "Sugar 白糖", "Baking soda 小苏打", "Cornflour 玉米淀粉", "Flour 面粉"). Evidence marker "3".
+Visual: A small zip evidence bag of white powder with a label "Evidence 3: floor by desk (F4)" and, beneath the label in the lighter weight, "证据3：办公桌旁的地面（F4）", beside five small labelled pots of white powder ("Salt 食盐", "Sugar 白糖", "Baking soda 小苏打", "Cornflour 玉米淀粉", "Flour 面粉"). Evidence marker "3".
 Speaker notes: Two tests so far. Today, evidence 3: the white powder on the floor by Professor Frost's desk.
 ```
 
