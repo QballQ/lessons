@@ -7,7 +7,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 0. How to run the skills check (for the teacher)
 
-- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The paper was corrected before Week 1: the glossary terms and the Chinese glosses that the language audit found missing are now printed on it. Print Week 1 and Week 10 from the same master copy (or use spare copies printed with Week 1) and do not alter it between them, not even to add Chinese or to correct a gloss after the native-speaker check. Any further language access comes only from the Language, Answers in Chinese and Support bullets below, never from a changed paper.
+- **Same paper twice.** This exact paper is used in Week 1 (baseline) and Week 10 (final). Growth = Week 10 score minus Week 1 score. The paper was corrected before Week 1: the glossary terms and the Chinese glosses that the language audit found missing are now printed on it. Print Week 1 and Week 10 from the same master copy (or use spare copies printed with Week 1) and do not alter it between them, not even to add Chinese or to correct a gloss. If the native-speaker check is done before Week 1 is printed, make its corrections then; once Week 1 is printed, make no change until after Week 10. Any further language access comes only from the Language, Answers in Chinese and Support bullets below, never from a changed paper.
 - **Do not go through the answers after Week 1.** Collect every paper, mark it, enter the scores in the tracker and keep the papers in the class assessment folder. Do not hand them back or display answers until after Week 10, or the growth measure is lost.
 - **Timing:** 1 minute to give out papers and write names, 15 minutes working, papers collected at once. Give a 5-minute warning.
 - **Language:** you may read any question aloud in English, once or twice. You may also read the printed Chinese gloss aloud straight after the English, and a reader may read the English and the Chinese gloss aloud in the same way (Language Access Policy, Section 7.1). Every stem, scenario sentence, sub-stem, option, table heading, panel label, graph title, axis label and answer label now has its Chinese printed on the paper, so no spoken gloss is needed: read the printed Chinese rather than your own wording, so that Week 1 and Week 10 hear the same thing. You may explain everyday words (for example "windowsill", "tray"). Do not explain science words (for example "variable", "anomaly", "mean"), because knowing them is part of what the paper measures. Reading a printed gloss of a science word aloud (for example 自变量 beside "independent variable" in Question 3a) is not explaining it: the gloss is already on every student's paper.
@@ -20,7 +20,7 @@ Chinese text status: draft, needs native-speaker check
 
 ## 1. Student paper [Paste into Claude Design]
 
-Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 7 Skills Check, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. Set the table headings and rows, panel labels, graph titles and axis labels as small bilingual labels, English first with the Chinese beneath it in the lighter weight, so that the tables and graph grids do not crowd. No vocabulary panel, no word bank, no tier icons: this is an assessment paper.
+Create an A4 portrait, black-and-white-printable assessment paper (two sides of A4) for the Year 7 Skills Check, using the Think Like a Scientist design system, Ice Engineers series. Use the series icon (ice crystal) in the header, a clear mark box in the right margin of every question ("__ / 2" style), generous writing lines, and minimum 12 pt text (14 pt for question stems). Chinese gloss lines sit directly under each English stem in a lighter weight. Set short table headings and row labels, panel labels, graph titles and axis labels (Questions 4, 6, 7, 8 and 10) as small bilingual labels, English first with the Chinese beneath it in the lighter weight, so that the tables and graph grids do not crowd. The Question 1 sentences A to D and every other line a student reads stay at 12 pt minimum, with the Chinese directly beneath the English. If the page is tight, use a tighter gloss weight and set the Question 2 options in two columns rather than dropping or shortening any Chinese line; keep the pictures and graphs at full size. No vocabulary panel, no word bank, no tier icons: this is an assessment paper.
 
 **Header**
 - Title: Skills Check / 技能检测
@@ -187,7 +187,7 @@ Ben想知道哪个纸直升机下落得最慢。
 He drops each spinner once.
 他把每个纸直升机各放下一次。
 He holds each one at about head height.
-他把每个纸直升机都举到大约头部的高度。
+他把每个纸直升机都举到大约和头一样高的位置。
 Write ONE improvement. Say why it makes the test better.
 写出一个改进方法，并说明为什么能让测试更好。
 
