@@ -140,7 +140,7 @@ On-slide text:
 4. Recorder writes your group's numbers. 记录员写下你们小组的数据。
 4 minutes. 4分钟。
 Vocabulary panel: foot length | 脚长, height | 身高, data | 数据
-Visual: Four picture steps, each captioned with its numbered on-slide line (English and Chinese): ruler and foot; height chart and book; two students swapping roles (icons, no faces); Recorder writing in a small table "Student no. 编号 | Foot (cm) 脚长（厘米） | Height (cm) 身高（厘米）". 4-minute timer.
+Visual: Four picture steps, each captioned with its numbered on-slide line (English and Chinese): ruler and foot; height chart and book; two students swapping roles (icons, no faces), labelled "Measurer 测量员" and "Recorder 记录员", with a two-way arrow between them; Recorder writing in a small table "Student no. 编号 | Foot (cm) 脚长（厘米） | Height (cm) 身高（厘米）". 4-minute timer.
 Speaker notes: Say, show, check: read the English, a student reads the Chinese lines, thumbs check before the pairs start. Measurer and Recorder roles rotate within the group. Each student writes their own two numbers on their worksheet. Measure each foot twice if there is time: if the two readings differ by more than 0.5 cm, measure again.
 ```
 
@@ -202,7 +202,7 @@ On-slide text:
 2. Which suspects fit? 哪些嫌疑人符合？
 3. Next week, I want to test: Soil, Paper, Ink 2 or Powder 2? 下周我想检测：土壤、纸巾、墨水2还是粉末2？
 Vocabulary panel: range | 范围, estimate | 估计
-Visual: Exit ticket strip with cut line, with "Name 姓名 ________" at the top. Four small option icons along the bottom: soil jar (Soil 土壤), paper towel strip (Paper 纸巾), chromatography strip (Ink 2 墨水2), spotting tile (Powder 2 粉末2).
+Visual: Exit ticket strip with cut line, headed "Exit ticket 离场小测", with "Name 姓名 ________" at the top and the self-check line "Today I can 今天我能: Goal 1 目标1 ☐  Goal 2 目标2 ☐". Four small option icons along the bottom: soil jar (Soil 土壤), paper towel strip (Paper 纸巾), chromatography strip (Ink 2 墨水2), spotting tile (Powder 2 粉末2).
 Speaker notes: A student reads the Chinese lines; students tick the two goals on the strip. Collect at the door. Next week your group designs its own forensic test. I will use your votes to give each group one option, so I may need to balance the choices.
 ```
 
@@ -261,7 +261,7 @@ e) Draw a line of best fit with a ruler. 用直尺画一条最佳拟合线。 Re
 (Picture cue beside task e): a tiny dashed up-and-across arrow pictogram, up from the footprint icon at 24 cm to a ruled line, then across to the y axis, so the read-off method is visible without reading.)
 
 f) Use the suspect cards. 使用嫌疑人卡。 Who is close to this height? 谁的身高接近这个数？ ________________ Who is far from it? 谁的身高相差很远？ ________________
-(Picture cue beside task f), a mini suspect height strip copied from Slide 11: a vertical height scale from 140 to 190 cm with four silhouettes standing at their heights, labelled Lily Chen 陈莉 158 cm, Max Zhang 张铭轩 182 cm, Chef Zhou 周师傅 176 cm, Dr Ruby Huang 黄若琳 165 cm, and under each silhouette two tick boxes: close 接近 ☐ far 远 ☐. A student compares the number from e) with the strip and ticks, so the cards can be read or skipped.)
+(Picture cue beside task f), a mini suspect height strip copied from Slide 11: a vertical height scale from 140 to 190 cm (scale title "Height (cm) 身高（厘米）") with four silhouettes standing at their heights, labelled Lily Chen 陈莉 158 cm, Max Zhang 张铭轩 182 cm, Chef Zhou 周师傅 176 cm, Dr Ruby Huang 黄若琳 165 cm, and under each silhouette two tick boxes: close 接近 ☐ far 远 ☐. A student compares the number from e) with the strip and ticks, so the cards can be read or skipped.)
 
 **4. Stretch 提高 (two dots)**
 
@@ -376,12 +376,12 @@ Create a half-A4 kit card for Year 8 Week 6 using the Think Like a Scientist kit
   - Sharp pencils, 4
 - **Per class:** 2 or 3 height measuring stations: a paper height chart (130 to 190 cm) taped to the wall, or a metre stick held upright against the wall with a strip of masking tape marked every centimetre from 100 to 200 cm. Projected class data table (slide 9).
 - **Teacher prep before the lesson (about 20 minutes):** Print the scene footprint at 100% scale, one per group, and check each measures exactly 24 cm (printers sometimes shrink pages). Print the sample data cards (1 per group) and worksheets. Set up the height stations on clear wall space away from doors. Decide whether the class will use its own data or the sample data (sample data recommended if the class is small or many students are absent).
-- **Hazards and controls 危险源与控制措施:**
+- **Hazards and controls 危险源和控制措施:**
   - Take your shoes off for measuring and put them under your desk, not in the walkway. 测量时请脱鞋，把鞋子放在桌子下面，不要放在通道上。
   - Do not stand on chairs or tables to read the scale. 不要站在椅子或桌子上读刻度。
   - Hold metre sticks upright and close to the wall. Do not swing them. 米尺要竖直靠墙拿好，不要挥动。
   - Be kind. Measurements have a number, not a name. You may use the sample data instead. 请友善。数据只写编号，不写名字。你也可以使用样本数据。
-- **Clean-up 收拾整理:** Shoes back on before anyone leaves their seat. 离开座位前先穿好鞋。 Rulers and metre sticks counted back into the tray. 直尺和米尺数好放回托盘。 Leave the height charts up if Year 7 or 9 need them; otherwise remove the tape. Footprints go into case files. 脚印放进案件档案。
+- **Clean-up 收拾整理:** Shoes back on before anyone leaves their seat. 离开座位前先穿好鞋。 Rulers and metre sticks counted back into the tray. 直尺和米尺数好放回托盘。 Leave the height charts up if Year 7 or 9 need them; otherwise remove the tape. 如果七年级或九年级需要用身高表，就把它们留在墙上；否则撕下胶带。 Footprints go into case files. 脚印放进案件档案。
 
 ## 6. Other printables [Paste into Claude Design]
 
