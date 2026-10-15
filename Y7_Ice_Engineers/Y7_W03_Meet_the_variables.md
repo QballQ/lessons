@@ -72,7 +72,7 @@ Two people. 两个人。
 Is this a fair race? 这场比赛公平吗？
 It is / is not fair because ___. 它公平／不公平，因为___。
 Vocabulary panel: fair test | 公平测试
-Visual: Two children throwing paper planes across a playground. Child A (Lin) stands on a low wall about 1 m high; child B (Kai) stands on the ground. The planes are different shapes: one pointed, one wide. A finish line in the distance, with a banner "Finish 终点".
+Visual: Two children throwing paper planes across a playground. Child A (Lin) stands on a low wall about 1 m high; child B (Kai) stands on the ground. The planes are different shapes: one pointed, one wide. A finish line in the distance, with a banner "Finish 终点". Labels: names only, "Lin" and "Kai".
 Speaker notes: Students start as they arrive. Take two answers. Draw out at least two unfair things: different heights, different people throwing, different planes. If we change many things, we cannot tell why one plane won. A student reads the Chinese lines; the answer may be given in Chinese.
 ```
 
@@ -116,7 +116,7 @@ Title: Our spinner test / 我们的纸直升机实验
 On-slide text: I change the wing length. I measure the fall time. I keep the drop height, paper clip and card the same.
 Key idea 核心概念: 公平测试只改变一个量，这里是翼长。
 Vocabulary panel: independent variable | 自变量; dependent variable | 因变量; control variable | 控制变量; wing length | 翼长
-Visual: A spinner with its wings labelled "wing length (cm), I change 翼长（厘米），我改变" with a dial icon; a stopwatch labelled "fall time (s), I measure 下落时间（秒），我测量"; a wall mark "2 m", a paper clip and a card sheet labelled "I keep the same 我保持不变".
+Visual: A spinner with its wings labelled "wing length (cm), I change 翼长（厘米），我改变" with a dial icon; a stopwatch labelled "fall time (s), I measure 下落时间（秒），我测量"; a wall mark "2 m", a paper clip and a card sheet labelled "I keep the same 我保持不变". Item labels: "drop height 下落高度" (on the wall mark), "paper clip 回形针" and "card 卡纸".
 Speaker notes: Do the gestures with each part. This is a fair test because only one thing changes: the wing length. Longer wings push against more air, so there is more air resistance and the spinner falls more slowly. A student reads the Key idea line.
 ```
 
@@ -149,7 +149,7 @@ On-slide text:
 3. Fold on dashed lines. 沿虚线折。
 4. Add one paper clip. 夹一个回形针。
 Vocabulary panel: spinner | 纸直升机; wing length | 翼长
-Visual: Four picture steps: (1) scissors cutting round the outer solid line; (2) cutting across the top at the S or M line (L is not trimmed); (3) wing A folded forward (label "A: fold forward 向前折"), wing B folded back (label "B: fold back 向后折"), side flaps folded in; (4) bottom folded up with a paper clip pushed on.
+Visual: Four picture steps: (1) scissors cutting round the outer solid line; (2) cutting across the top at the S or M line (designer note, not printed: L is not trimmed); (3) wing A folded forward (label "A: fold forward 向前折"), wing B folded back (label "B: fold back 向后折"), side flaps folded in (label "fold in 向内折"); (4) bottom folded up (label "fold up 向上折") with a paper clip pushed on.
 Speaker notes: Spinners are pre-printed on card: students only cut and fold. Three students each make one spinner: S (4 cm wings), M (6 cm) and L (8 cm). The Recorder writes names on the group envelope and draws the results table. About 5 minutes for making. A student reads the Chinese lines; thumbs check before cutting starts.
 ```
 
@@ -401,7 +401,7 @@ Create four cards for Year 7 Week 3, "Odd one out | 找不同", using the Think 
 
 | Card | Picture | Text |
 |---|---|---|
-| A | A girl holding two spinners (short wings, long wings) at a 2 m wall mark; one paper clip on each | **Test A 测试A:** Lin drops a 4 cm and an 8 cm spinner from 2 m. Each has one paper clip. 概要：Lin从2 m投放4 cm和8 cm的纸直升机，各夹一个回形针。 |
+| A | A girl holding two spinners (short wings, long wings) at a 2 m wall mark; one paper clip on each. Captions: "Short wings 短翼" and "Long wings 长翼". | **Test A 测试A:** Lin drops a 4 cm and an 8 cm spinner from 2 m. Each has one paper clip. 概要：Lin从2 m投放4 cm和8 cm的纸直升机，各夹一个回形针。 |
 | B | A boy holding one spinner at a 2 m mark and the other at a 1 m mark | **Test B 测试B:** Kai drops the 4 cm spinner from 2 m and the 8 cm spinner from 1 m. 概要：Kai从2 m投放4 cm纸直升机，从1 m投放8 cm纸直升机。 |
 | C | A girl at a 2 m mark with a stopwatch held by a friend beside her, same friend in both mini-pictures | **Test C 测试C:** Mei drops both spinners from 2 m. Hao times both drops. 概要：Mei从2 m投放两个纸直升机，两次都由Hao计时。 |
 | D | A boy at a 2 m mark; two different friends, each holding a stopwatch, one for each spinner | **Test D 测试D:** Jun drops both spinners from 2 m. Tao times the first drop and Wen times the second. 概要：Jun从2 m投放两个纸直升机，第一次由Tao计时，第二次由Wen计时。 |
