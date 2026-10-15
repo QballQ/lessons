@@ -586,7 +586,7 @@ Title: Class project board / 全班项目板 | Can we make ice stronger? 我们�
 |---|---|---|---|---|---|---|---|---|
 | (6 empty rows, each about 3 cm tall) | | | | | | | | |
 
-Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g 普通或0克 | sawdust 0.3 g 木屑0.3克 | sawdust 0.6 g 木屑0.6克 | sawdust 0.9 g 木屑0.9克 | tissue 纸巾 | shredded paper 碎纸 | cotton wool 棉花) and a row of tally boxes: "Number of groups making this sample. Where possible, aim for at least 2 for each type we test. A type made by only one group is still useful, but we will be less sure of it."
+Footer box "Coverage check 覆盖检查" (for the teacher): a small grid with one column per sample type (plain or 0 g 普通或0克 | sawdust 0.3 g 木屑0.3克 | sawdust 0.6 g 木屑0.6克 | sawdust 0.9 g 木屑0.9克 | tissue 纸巾 | shredded paper 碎纸 | cotton wool 棉花) and a row of tally boxes: "Number of groups making this sample. 制作这种样品的组数。 Where possible, aim for at least 2 for each type we test. 尽可能让我们测试的每种样品至少由2个组制作。 A type made by only one group is still useful, but we will be less sure of it. 只有一个组制作的样品仍然有用，但我们对它的结果会没那么有把握。"
 
 Teacher note (small, bottom right): "Every group includes the control. Plan A: no more than two melting-test groups. Sawdust 0.6 g in a fibre-type test is the same recipe as 0.6 g in an amount test, so the results can be pooled in Week 9."
 

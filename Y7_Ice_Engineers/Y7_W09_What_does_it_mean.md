@@ -110,7 +110,7 @@ Snow Owls: mean 292 ml. Ice Foxes: 300 ml. Frost Hares: 275 ml. Polar Bears: 300
 Who is right? 谁是对的？
 Vocabulary panel: pool (data) | 汇总（数据）; class mean | 全班平均值
 Visual: Four group badges (Snow Owls, Ice Foxes, Frost Hares, Polar Bears), each with a small bar showing its plain-sample mean. A large question mark. Small label "Sample data (made-up groups) | 示例数据（虚构小组）".
-Speaker notes: Pair talk in any language for one minute. A student reads the Chinese line first; language buddies read the numbers aloud in Chinese. They are all a little different because every sample and every test varies. No one group is "right". If we pool all four, the class mean is (292 + 300 + 275 + 300) ÷ 4 = 1167 ÷ 4 = about 292 ml. That is better evidence than any one group. [Plan B: six groups, no-fibre strips 无纤维样品条: 283, 275, 292, 275, 292, 292 (Snow Owls, Ice Foxes, Snow Leopards, Frost Hares, Polar Bears, Arctic Terns); Chinese line on the Plan B slide: 六个小组的平均值：283、275、292、275、292、292毫升。 class mean 1709 ÷ 6 = about 285 ml.]
+Speaker notes: Pair talk in any language for one minute. A student reads the Chinese line first; language buddies read the numbers aloud in Chinese. They are all a little different because every sample and every test varies. No one group is "right". If we pool all four, the class mean is (292 + 300 + 275 + 300) ÷ 4 = 1167 ÷ 4 = about 292 ml. That is better evidence than any one group. [Plan B: six groups, no-fibre strips 无纤维样品条: 283, 275, 292, 275, 292, 292 (Snow Owls, Ice Foxes, Snow Leopards, Frost Hares, Polar Bears, Arctic Terns); class mean 1709 ÷ 6 = about 285 ml. Chinese line on the Plan B slide: 六个小组的平均值：283、275、292、275、292、292毫升。]
 ```
 
 ```
@@ -235,7 +235,7 @@ Ice Engineers 冰雪工程师 | Week 9 第9周 | Name 姓名: __________ Class �
 Today I can 今天我能:
 - I can choose the right graph for our data and write a conclusion with a claim, evidence (numbers) and reasoning (science). 我能为我们的数据选择合适的图表，并写出包含主张、证据（数字）和推理（科学）的结论。
 - I can explain one problem with our test, how it affected the results, and how sure we are. 我能解释我们测试中的一个问题、它如何影响结果，以及我们有多大把握。
-My poster panel 我的海报栏: ☐ 1 and 2 ☐ 3 ☐ 4 ☐ 5 ☐ 6 and 7
+My poster panel 我的海报栏: ☐ 1 and 2 1和2 ☐ 3 ☐ 4 ☐ 5 ☐ 6 and 7 6和7
 
 **2. Vocabulary panel**
 pool (data) | 汇总（数据）; class mean | 全班平均值; bar chart | 条形图; line graph | 折线图; claim | 主张; evidence | 证据; reasoning | 推理; evaluate | 评价; improvement | 改进; confident | 有把握的
