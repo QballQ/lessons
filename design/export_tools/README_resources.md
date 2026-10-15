@@ -28,6 +28,7 @@ Exported on 15 October 2026 from the designed slides and printables in Claude De
 ### Notes
 
 - **PowerPoint fonts.** The PowerPoint files use Arial and Garamond, which come with Microsoft Office, so they look the same on any school computer. The PDFs use the programme fonts (EB Garamond and Noto Sans). If you edit a slide in PowerPoint, the PDF will not change: save a new PDF from PowerPoint (File, Save As, PDF).
+- **Small PowerPoint differences.** A few details convert imperfectly to PowerPoint, and the PDFs show the intended design: on the Year 8 exit-ticket slides the goal numbers sit against their tick boxes; the ruled notebook lines behind the sentence frames on Year 8 Week 1 slide 10 are missing; and a few labels or titles wrap onto a different number of lines. Nudge them in PowerPoint if they matter to you.
 - **Printing.** Print printables at 100% ("Actual size"), not "Fit to page", so A5 cards stay A5. Print the Year 8 pH colour chart in colour and laminate it.
 - **Chinese text.** All Chinese is marked "draft, needs native-speaker check". Check before printing class sets.
 - **Layout corrections.** About 100 layout faults found during the export (text pushed to the slide edge on cover slides, safety rules drawn over the title on Safety slides, footers and table rows cut off at the bottom of printable pages, and a few smaller ones) are corrected in these files. No wording was changed. The live Claude Design pages still have these faults until they are rebuilt or corrected there. See `Corrections_list.pdf`.

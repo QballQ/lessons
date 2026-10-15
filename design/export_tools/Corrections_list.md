@@ -7,13 +7,17 @@ These layout faults were found when the resources were exported and are correcte
 | Week | File | Slide or page | What was wrong |
 |---|---|---|---|
 | 1 | Slides | 1 | Cover slide: text sat against the slide edge, the Ice Engineers badge was cut off at the bottom and the key words box was pushed onto the patterned panel. |
+| 1 | Slides | 3 | Feelings scale: the spacing between boxes was lost, so cards or icons sat closer together than designed.
 | 2 | Slides | 1 | Cover slide: text sat against the slide edge, the sentence frame box covered the cup picture and its A and B labels, and the Year 7 badge was cut off at the right. |
 | 3 | Slides | 1 | Cover slide: text sat against the slide edge, the sentence frame box covered half of the paper plane picture, and the Year 7 badge was cut off at the right. |
+| 3 | Slides | 6 | Fill the gaps: the spacing between boxes was lost, so cards or icons sat closer together than designed.
 | 3 | Slides | 7 | Stay safe slide: the safety rules were drawn over the title and the rest of the slide was empty. |
 | 4 | Slides | 1 | Do Now slide: text sat against the slide edge, the Bonus box ran over the picture and the key words box was cut off at the bottom. |
 | 4 | Slides | 4 | In the PDF, the label 'wing' on the ruler picture broke across two lines. |
+| 4 | Slides | 8 | Results table and role strip: the spacing between boxes was lost, so cards or icons sat closer together than designed.
 | 4 | Slides | 9 | Stay safe slide: the safety rules were drawn over the title. |
 | 4 | Printables | 3 | Core D 'Our results' table: the Repeat 1, 2 and 3 headings were too wide for their columns. |
+| 4 | Printables | 7 | Sample data card: the Repeat 1, 2 and 3 headings split their Chinese across two lines. |
 | 5 | Slides | 1 | Do Now slide: text sat against the slide edge, the Bonus box hid part of the picture and the key words box was cut off at the bottom. |
 | 5 | Printables | 6 to 9 | The data cards printed in the wrong order (A, C, B, D); they now run A to D. |
 | 5 | Printables | 10 | Voting cards (front): the cards ran into the footer, so the bottom cut line went through the footer text. |
@@ -27,7 +31,8 @@ These layout faults were found when the resources were exported and are correcte
 | 6 | Printables | 23 | Planning frame B, teacher sign-off box: the write-in lines were missing (now restored) and 'melting' ran into the edge of the box. |
 | 7 | Slides | 1 | Cover slide: text and logo sat against the slide edge, and the Year 7 badge touched the bottom right corner. |
 | 7 | Slides | 5 | In the PDF, the diagram label 'crack' broke across two lines and the stray 'k' printed over the Chinese label. |
-| 7 | Slides | 15 and 16 | Stay safe slides (Plan A and Plan B): the safety rules were drawn over the title. |
+| 7 | Slides | 6, 7, 8, 11 and 12 | Mission, planning and plan check slides: the spacing between boxes was lost, so cards or icons sat closer together than designed.
+| 7 | Slides | 15 and 16 | Stay safe slides (Plan A and Plan B): the safety rules were drawn over the title, and the gaps between the safety cards were lost. |
 | 7 | Printables | 18 | Planning frame A, teacher sign-off box: the write-in lines were missing (now restored). |
 | 7 | Printables | 23 | Planning frame B, teacher sign-off box: the write-in lines were missing (now restored) and the text ran up to the edge of the box. |
 | 8 | Slides | 1 | Cover slide: text and logo sat against the left and top edges of the slide. |
@@ -62,7 +67,7 @@ These layout faults were found when the resources were exported and are correcte
 | 6 | Printables | 7 | A5 sample data card: footer cut off at the bottom of the page. |
 | 7 | Printables | 1 | The 'Tick our option' row ran past the end of the line into the right margin. |
 | 7 | Printables | 5 | Soil option card: the Chinese part of the 'Your samples' line ran over the right edge of the box. |
-| 8 | Slides | 5 | Safety slide: the safety rules were drawn over the title. |
+| 8 | Slides | 5 | Safety slide: the safety rules were drawn over the title, and the gaps between the safety tiles were lost. |
 | 8 | Printables | 1 | Reason words: the 'Powder 2' label ran straight into the first word chip with no gap. |
 | 8 | Printables | 4 and 5 | Soil recording sheet, Table 2: the 'Floating bits?' column was squeezed to a sliver with no room to write. |
 | 8 | Printables | 6 | Paper recording sheet, Table 2: the 'Mean (mm)' column was too narrow and its heading ran past the table edge. |
@@ -87,16 +92,17 @@ These layout faults were found when the resources were exported and are correcte
 | 4 | Printables | 7 | A3 class data sheet: the table ran almost to the bottom edge and the footer was pushed off the page. |
 | 5 | Slides | 13 | Exit ticket: 'Then your logbook line.' ran straight into the next sentence with no gap. |
 | 5 | Printables | 1, 2 and 14 | Worksheet pages 1 and 2, and the mark scheme on page 14: footer cut off, or too close to the bottom edge to print. |
-| 6 | Slides | 7 and 8 | Safety slides 6A and 6B: the safety rules were drawn over the title and the rest of the slide was empty. |
+| 6 | Slides | 7 and 8 | Safety slides 6A and 6B: the safety rules were drawn over the title, the rest of the slide was empty, and the gaps between the safety tiles were lost. |
 | 6 | Slides | 11, 12, 13, 14, 16, 17 and 20 | KEY WORDS box: the last character of the Chinese for 'operational definition' was cut off by the edge of the box. |
 | 6 | Printables | 1 and 2 | Worksheet Version A: footer cut off at the bottom of the page. |
 | 6 | Printables | 7 | Worksheet Version B page 1: the results table ran off the bottom of the page, cutting off the last row and the footer. |
 | 6 | Printables | 15 | A3 class results board (Plan B): the verdict box was cut off at the bottom and the footer was missing. |
 | 7 | Slides | 2, 4, 5, 10 and 12 | KEY WORDS box: the Chinese for 'operational definition' and 'testable question' touched or crossed the edge of the box. |
+| 7 | Slides | 7 | Testing people fairly: the spacing between boxes was lost, so cards or icons sat closer together than designed.
 | 7 | Printables | 9 | Model plan sheet, section 10 results table: the Temperature headings were wider than their columns. |
 | 7 | Printables | 10 | A3 planning frame: a writing line ran through 'Approved by teacher' in the sign-off strip at the bottom. |
 | 7 | Printables | 13 | Peer plan check: the page was too long, so the last writing line and the footer were cut off. |
-| 8 | Slides | 7 | Safety slide: the safety rules were drawn over the title. |
+| 8 | Slides | 7 | Safety slide: the safety rules were drawn over the title, and the gaps between the safety tiles were lost. |
 | 8 | Printables | 1 | Worksheet page 1: footer too close to the bottom edge and likely to be cut off when printed. |
 | 8 | Printables | 5 | Run sheet page 1: the table ran to the bottom edge and the footer was cut off. |
 | 9 | Slides | 2, 6 and 7 | KEY WORDS box: the Chinese for 'fact-check report' ran right up to the edge of the box. |

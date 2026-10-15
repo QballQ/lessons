@@ -2,6 +2,7 @@
 into an allowed equivalent. Edits the downloaded site copies in place, keeping <file>.orig backups.
 - top padding T > 256: padding-top 256, and the flow children wrapped in a div pinned to the intended padding box
 - right padding R > 256: padding-right 128 plus max-width (1920 - R - L) on every direct flow child
+- gap with two values (also dropped by the runtime): replaced by the smaller value, in every slide
 Usage: python3 fix_padding.py <sites_dir>"""
 import os, re, sys, glob, shutil
 from html.parser import HTMLParser
@@ -26,6 +27,18 @@ class Kids(HTMLParser):
         if s.depth == 1: s.kids.append((s.off(), tag, dict(attrs)))
     def handle_endtag(s, tag):
         if tag not in VOID: s.depth -= 1
+
+TWO_GAP = re.compile(r'(?<![-\w])gap\s*:\s*(\d+)px\s+(\d+)px')
+def one_gap(text):
+    """The runtime accepts a single gap value only and drops 'gap: A B' entirely; use the smaller value."""
+    return TWO_GAP.sub(lambda m: f'gap:{min(int(m.group(1)), int(m.group(2)))}px', text)
+def fix_gaps(path):
+    src = open(path, encoding='utf-8').read()
+    out = one_gap(src)
+    if out == src: return None
+    if not os.path.exists(path + '.orig'): shutil.copyfile(path, path + '.orig')
+    open(path, 'w', encoding='utf-8').write(out)
+    return f'{len(TWO_GAP.findall(src))} two-value gap(s) made single'
 def fix(path):
     src = open(path, encoding='utf-8').read()
     m = re.search(r'<section\b[^>]*\bstyle="([^"]*)"[^>]*>', src)
@@ -71,7 +84,7 @@ def fix(path):
         end = after[0][0] if after else len(inner)
         between = [x for x in kids if start < x[0] < flow[-1][0] and x not in flow]
         if between or any(x[1] not in ('aside', 'script', 'style') for x in after): raise SystemExit(f'{path}: flow children not contiguous')
-        flex = ';'.join(f'{p}:{v.strip()}' for p, v in re.findall(r'(?<![-\w])(display|flex-direction|gap|align-items|justify-content)\s*:\s*([^;]+)', style))
+        flex = ';'.join(f'{p}:{v.strip()}' for p, v in re.findall(r'(?<![-\w])(display|flex-direction|flex-wrap|gap|align-items|justify-content|justify-items|grid-template-columns|grid-template-rows)\s*:\s*([^;]+)', style))
         wrap = f'<div style="position:absolute;left:{l}px;top:{t}px;right:{r}px;bottom:{b}px;{flex}">'
         inner = inner[:start] + wrap + inner[start:end].rstrip() + '</div>\n' + inner[end:]
     out = src[:m.start(1)] + new_style + src[m.end(1):sec_end] + inner + src[body_end:]
@@ -81,4 +94,7 @@ def fix(path):
 if __name__ == '__main__':
     for f in sorted(glob.glob(os.path.join(sys.argv[1], '*_slides/project/slides/*.html'))):
         r = fix(f)
+        if r: print(os.path.relpath(f, sys.argv[1]), r)
+    for f in sorted(glob.glob(os.path.join(sys.argv[1], '*_slides/project/slides/*.html'))):
+        r = fix_gaps(f)
         if r: print(os.path.relpath(f, sys.argv[1]), r)
