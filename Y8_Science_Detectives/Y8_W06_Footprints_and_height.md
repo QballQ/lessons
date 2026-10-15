@@ -376,7 +376,7 @@ Create a half-A4 kit card for Year 8 Week 6 using the Think Like a Scientist kit
   - Sharp pencils, 4
 - **Per class:** 2 or 3 height measuring stations: a paper height chart (130 to 190 cm) taped to the wall, or a metre stick held upright against the wall with a strip of masking tape marked every centimetre from 100 to 200 cm. Projected class data table (slide 9).
 - **Teacher prep before the lesson (about 20 minutes):** Print the scene footprint at 100% scale, one per group, and check each measures exactly 24 cm (printers sometimes shrink pages). Print the sample data cards (1 per group) and worksheets. Set up the height stations on clear wall space away from doors. Decide whether the class will use its own data or the sample data (sample data recommended if the class is small or many students are absent).
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Take your shoes off for measuring and put them under your desk, not in the walkway. 测量时请脱鞋，把鞋子放在桌子下面，不要放在通道上。
   - Do not stand on chairs or tables to read the scale. 不要站在椅子或桌子上读刻度。
   - Hold metre sticks upright and close to the wall. Do not swing them. 米尺要竖直靠墙拿好，不要挥动。

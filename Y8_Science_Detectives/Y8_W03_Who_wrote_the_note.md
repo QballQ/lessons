@@ -333,7 +333,7 @@ Create a half-A4 kit card for Year 8 Week 3 using the Think Like a Scientist kit
   - Small jug of water, 1
   - Paper towels for drying strips, 2
 - **Teacher prep before the lesson:** Pen pre-test and labelling done once, at least a week before (about 20 minutes; Case Bible, Section 11). Each class: cut filter strips and make N strips with pen B (about 10 minutes). If you have only one set of pens, pre-dot strips A to D yourself (add 10 minutes). Keep one set of dried pre-test strips as the answer key and backup.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Do not drink the water. 不要喝杯中的水。
   - Wipe up spills straight away. 洒出的水要立即擦干。
   - Felt-tip ink stains clothes. Keep caps on when not in use. 水彩笔墨水会弄脏衣服，不用时请盖好笔帽。

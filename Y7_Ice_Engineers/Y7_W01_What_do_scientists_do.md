@@ -28,7 +28,7 @@ Chinese text status: draft, needs native-speaker check
 | Phase | Min | Teacher does | Students do | Resource |
 |---|---|---|---|---|
 | Assessment: skills check | 15 | Seats groups from the plan as students arrive; hands out the skills check; reads each question stem aloud in English; does not help with answers | Complete the baseline skills check alone, in silence | Slide 1 to 2; `assessment/Skills_Check_Y7.md` |
-| Assessment: interest survey | 3 | Collects skills checks; hands out the survey; reads each statement aloud | Colour one face for each statement | Slide 3; `assessment/Interest_Survey.md` |
+| Assessment: interest survey | 3 | Collects skills checks; hands out the survey; reads each statement aloud | Tick one face for each statement | Slide 3; `assessment/Interest_Survey.md` |
 | Today slide | 1 (inside the survey's 3, while surveys are collected) | Shows the Today slide while collecting the surveys; reads each goal in English, a student reads the Chinese; points to the seven key words; thumbs check | Listen; one student reads each Chinese goal line aloud; thumbs up if the goal is clear | Slide 4 |
 | Hook | 3 | Shows Stage 1 of the snow tracks: "Who walked here? What do scientists do?" Introduces the series in one sentence | Quick pair guesses (any language) | Slides 5 to 6 |
 | Learn | 4 | Teaches observation vs inference with the melted snowman picture; models the two sentence frames | Say which statements are observations and which are inferences (thumbs up / thumbs down) | Slides 7 to 8; worksheet Core A |
@@ -93,7 +93,7 @@ Slide 3 | Phase tag: Do Now 课前任务
 Title: How do you feel about science? / 你对科学有什么感受？
 On-slide text:
 Read each sentence. 阅读每一句话。
-Colour one face. 给一个表情涂色。
+Tick one face for each sentence. 每句话勾选一个表情。
 There are no right or wrong answers. 没有对错之分。
 3 minutes. 3分钟。
 Vocabulary panel: none

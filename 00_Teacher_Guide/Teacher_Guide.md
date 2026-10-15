@@ -237,7 +237,7 @@ Each lesson plan lists its frames; slides show them in the Think phase, English 
 |---|---|---|
 | I observe ___. I infer ___ because ___. 我观察到___。我推断___，因为___。 | The evidence shows ___. This supports / does not support ___ because ___. 证据显示___。这支持／不支持___，因为___。 | The data suggests ___; however, ___. |
 | I predict ___ because ___. 我预测___，因为___。 | This sample matches ___ because ___. 这个样本与___匹配，因为___。 | To be more confident, we would need ___. |
-| As the ___ increases, the ___ ___. 随着___增加，___。 | This evidence is strong / weak because ___. 这个证据有力／薄弱，因为___。 | This could also be explained by ___. |
+| As the ___ increases, the ___ ___. 随着___增加，___会___。 | This evidence is strong / weak because ___. 这个证据有力／薄弱，因为___。 | This could also be explained by ___. |
 | If I did it again, I would ___. 如果再做一次，我会___。 | One problem with this evidence is ___. 这个证据的一个问题是___。 | Our verdict is ___ because ___. |
 
 Point to the frame, say it once with the gap filled, then let students try. Leave frames on the board.

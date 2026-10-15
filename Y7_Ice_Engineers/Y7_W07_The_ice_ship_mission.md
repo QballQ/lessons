@@ -111,7 +111,7 @@ Title: A ship made of ice? / 用冰造船？
 On-slide text: Second World War. Not enough steel. One inventor had a strange idea: build giant ships out of ice.
 Key idea 核心概念: 第二次世界大战时钢不够用，一位发明家想用冰造巨型船。
 Vocabulary panel: strength | 强度; brittle | 脆的
-Visual: A black-and-white, 1940s-style illustration of an enormous flat ship, much longer than a normal ship, carved from ice, floating in a grey sea, with tiny aeroplanes on its deck. A small portrait sketch of a man in round glasses labelled "Geoffrey Pyke (inventor) 杰弗里·派克（发明家）".
+Visual: A black-and-white, 1940s-style illustration of an enormous flat ship, much longer than a normal ship, carved from ice, floating in a grey sea, with tiny aeroplanes on its deck. A small portrait sketch of a man in round glasses labelled "Geoffrey Pyke (inventor 发明家)".
 Speaker notes: During the Second World War, steel was in short supply, because it was needed for so many things. A British inventor called Geoffrey Pyke suggested building giant ships, big enough for aeroplanes to land on, out of ice. Ask: "What is the problem with ice?" It is brittle and it melts. A student reads the Key idea line in Chinese.
 ```
 
@@ -416,7 +416,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 - Pre-portion the fibres (20 min). With a 1 g scale: weigh 6 g of a fibre and split it into 10 equal piles by eye (each about 0.6 g); for 0.3 g, split 3 g into 10; for 0.9 g, split 9 g into 10. With a 0.1 g scale, weigh each portion directly. For sawdust you can instead find a level measure (for example a level quarter teaspoon, roughly 0.6 g) by weighing 10 level measures once, then use the same level measure every time. Dampen the sawdust with a few drops of water and keep it in a sealed bag.
 - Clear and label one freezer drawer "Ice Engineers Y7: do not move"; check it is level (5 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Use untreated natural wood sawdust or pet-bedding shavings only. Never use MDF dust.
   只使用未经处理的天然木屑或宠物垫料木刨花。严禁使用中密度纤维板（MDF）粉尘。
 - Keep sawdust damp. Do not blow it or tip it from a height.
@@ -458,7 +458,7 @@ Create two half-A4 kit cards for Year 7 Week 7 using the Think Like a Scientist 
 - Make the salt dough on the morning of the lesson: one batch is 2 cups (about 250 g) plain flour, 1 cup (about 290 g) salt and about 1 cup (240 ml) water, mixed and kneaded until smooth and not sticky. One batch makes about 780 g of dough, so 2 batches are plenty for 54 balls of 18 g plus spares. Weigh each ball (18 g on a 1 g scale) and seal it in a small bag (20 min).
 - Pre-portion the fibres as in Plan A (10 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Tell the teacher if you have a flour or wheat allergy. You will not touch the dough.
   如果你对面粉或小麦过敏，请告诉老师。你将不接触面团。
 - Never eat the dough. It is very salty and is not food.
@@ -530,7 +530,7 @@ Prompt in a lighter weight: Use a science word 用一个科学词: fibre 纤维 
 Two strips of picture boxes (each box 4 cm x 3 cm with two writing lines under it). Students draw a quick sketch and complete each step. Printed instruction above the boxes: Draw a quick sketch and complete each step. 画一个简单的草图，并把每一步补充完整。
 
 Making the samples (Week 7) 制作样品（第7周）:
-- [Plan A] 1. Measure ______ ml of water. 1. 量______毫升水。 2. Add ______ g of ______. 2. 加入______克______。 3. Stir for 20 seconds. 3. 搅拌20秒。 4. Pour into the ______. 4. 倒进______。 5. Push the fibres under the water. 5. 把纤维压到水面下。 6. Label and freeze for at least ______ hours. 6. 贴标签，冷冻至少______小时。
+- [Plan A] 1. Measure ______ ml of water. 1. 量______毫升水。 2. Add ______ g of ______. 2. 加入______克______。 3. Stir for 10 seconds. 3. 搅拌10秒。 4. Pour into the ______. 4. 倒进______。 5. Spread the fibres. 5. 把纤维铺匀。 6. Label and freeze for at least ______ hours. 6. 贴标签，冷冻至少______小时。
 - [Plan B] 1. Take one ______ g ball of dough. 1. 取一个______克的面团球。 2. Add ______ g of ______. 2. 加入______克______。 3. Knead in the closed bag for 1 minute. 3. 在封好的袋子里揉1分钟。 4. Roll it into a sausage. 4. 搓成一条长条。 5. Press it evenly along the whole foil ______ (12 cm). 5. 把它均匀地压满整个铝箔______（12厘米）。 6. Label and dry for one ______. 6. 贴标签，晾干一______。
 
 Testing the samples (Week 8) 测试样品（第8周）:

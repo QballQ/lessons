@@ -369,7 +369,7 @@ Create a half-A4 kit card for Year 8 Week 9 using the Think Like a Scientist kit
 - **Per group (4 students):** evidence card pack (8 cards plus 1 blank), 1; A3 evidence board, 1; Blu Tack or glue stick, 1; cleaning log card (**held by the teacher until minute 7 of the Do phase**), 1; expert witness statement frame, 1 (A3) or 4 (A4); case files with evidence logs, 4; worksheets, 4; self-assessment slips, 4 (from `../assessment/Rubric_and_Reporting.md`, Section 7).
 - **Per class:** photo of the Week 5 Ideas Parking Board on slide 4 (and the board itself if it is still up); photos of Week 8 results; the board notes from the Week 8 Reporter round.
 - **Teacher prep before the lesson (about 25 minutes):** Print and cut evidence card packs (one per group). Print A3 boards and cleaning log cards; put the cleaning log cards in an envelope so they cannot be seen. Print statement frames and self-assessment slips. Insert the parking board photo into slide 4. Decide expert witness roles (Section 4).
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Soil bottles on the windowsill: look only, do not open. 窗台上的土壤瓶：只能看，不要打开。
 - **Clean-up 收拾整理:** Photograph every evidence board. 给每块证据板拍照。 Boards, worksheets and statement frames go into case files. 证据板、工作纸和陈述框架放进案件档案。 Collect all case files and self-assessment slips for marking before Week 10. 第10周前收齐所有案件档案和自我评估条，以便评分。

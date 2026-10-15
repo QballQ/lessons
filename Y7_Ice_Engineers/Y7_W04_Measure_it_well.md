@@ -249,7 +249,7 @@ We leave it out of the mean, but only if we have a ______________. 我们算平�
 | 1. Add them up 把它们加起来: 1.31 + 1.25 + 1.37 = | total 总和 = ______ s |
 | 2. Divide by the number of values 除以数据个数: ______ ÷ 3 = | mean 平均值 = ______ s |
 
-(Picture cue beside the box: the Slide 5 strip in miniature, three stopwatches, a plus sign, the total box labelled "total 总和", "÷ 3", the mean box labelled "mean 平均值".)
+(Picture cue beside the box: the Slide 5 strip in miniature with every box left empty, no numbers, so it does not show the answers; three stopwatches, a plus sign, the total box labelled "total 总和", "÷ 3", the mean box labelled "mean 平均值".)
 
 **D. Our results 我们的结果**
 Drop height 下落高度: ______ m

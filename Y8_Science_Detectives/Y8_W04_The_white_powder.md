@@ -315,7 +315,7 @@ Create a half-A4 kit card for Year 8 Week 4 using the Think Like a Scientist kit
   - Magnifying glass, 1, and a piece of black card to view powders on
   - Paper towels
 - **Teacher prep before the lesson (about 15 minutes):** Check the allergy list. Fill and label powder pots and evidence bags. Pour vinegar. Test one portion of the scene powder with vinegar yourself (it must fizz strongly). Decide whether iodine will be used; if not, show slide 10.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Wear goggles when using vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。
   - Tell your teacher if you have a food allergy (for example, wheat flour or corn). 如有食物过敏（例如小麦面粉或玉米），请告诉老师。

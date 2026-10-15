@@ -330,7 +330,7 @@ Create a half-A4 kit card for Year 8 Week 2 using the Think Like a Scientist kit
   - Fingerprint File (printed), 1
   - Paper towels or wet wipes, a few
 - **Teacher prep before the lesson (about 15 minutes):** Print fingerprint record cards on white card (one per student) and the Fingerprint File (one per group). Draw the tally table on the board. Label its rows as on the Slide 9 visual (Loop 箕形纹 / Whorl 斗形纹 / Arch 弓形纹 / Total 总数), so students copy each row by its label, not by its position. Set out trays. Optional: tape a printed copy of the scene print onto a real glass for display.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Pencil graphite makes fingers dirty. Wash your hands after taking fingerprints. 铅笔石墨会弄脏手指。采集指纹后请洗手。
   - Do not put pencils or tape in your mouth. 不要把铅笔或胶带放进嘴里。
   - Take only your own fingerprints. 只采集自己的指纹。

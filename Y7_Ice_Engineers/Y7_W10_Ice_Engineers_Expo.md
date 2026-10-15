@@ -46,7 +46,7 @@ Chinese text status: draft, needs native-speaker check
 - **Language support:**
   - Frames on the talk frame card, one per part. Answering: "That is a good question. Our evidence shows ___, but it does not show ___." Asking: read the question card aloud. Big question: "Scientists find things out by ___."
   - Students may glance at or read from their talk frame card. A student who freezes may give one sentence in Chinese and then the key words in English.
-  - Band 1 today: the student sits beside their language buddy. Before Talk 1 the buddy reads the Chinese frame for the student's part on the talk frame card (6b) and the Chinese line of their question card (6c), and the student rehearses once in Chinese; the student may read from the card, present the results part with the numbers and the graph (as planned in Week 9), and say one sentence in Chinese and then the English key words. Start with Core: the Expo notes table has bilingual headings and pre-printed choices to circle, so for each talk the student circles what the group changed and what they measured (the poster's Question panel carries the same bilingual labels) and copies one number with its unit from the poster's Results panel; the listen-for strip above the table shows which three sentences of each talk give the answers. Chinese answers count for every Core task; the exit ticket may be answered in Chinese by pointing to a week icon and using the starter 科学家___.
+  - Band 1 today: the student sits beside their language buddy. Before Talk 1 the buddy reads the Chinese frame for the student's part on the talk frame card (6b) and the Chinese line of their question card (6c), and the student rehearses once in Chinese; the student may read from the card, present the results part with the numbers and the graph (as planned in Week 9), and say one sentence in Chinese and then the English key words. Start with Core: the Expo notes table has bilingual headings and pre-printed choices to circle, so for each talk the student circles what the group changed and what they measured (the poster's Question panel carries the same bilingual labels) and copies one number with its unit from the poster's Results panel. Chinese answers count for every Core task; the exit ticket may be answered in Chinese by pointing to a week icon.
   - Strand 6 is judged on the clarity of the science, not on grammar or accent (`assessment/Rubric_and_Reporting.md`, Section 1).
 - **Misconceptions to watch for:**
   - "A good talk means our results were perfect." A good talk explains what went wrong too.
@@ -296,7 +296,7 @@ Create a half-A4 kit card for Year 7 Week 10 using the Think Like a Scientist ki
 - Type the order of talks onto Slides 3 and 5; fill in the talk record names (5 min).
 - Book the gallery walk (a break time or a later session) and the certificate presentation (5 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Keep walkways in front of the posters clear of bags.

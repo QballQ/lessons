@@ -331,7 +331,7 @@ Create a half-A4 kit card for Year 8 Week 5 using the Think Like a Scientist kit
   - Paper towels
 - **Per class:** checkpoint papers (1 per student), sticky notes, Ideas Parking Board space on the wall.
 - **Teacher prep:** The day before (about 25 minutes): make the red cabbage indicator with hot water from the kettle, strain, cool and refrigerate (Case Bible, Section 13). Before the lesson (about 15 minutes): make soap solution and baking soda solution; mix equal amounts of the two to make the scene liquid; fill and label all cups; test the scene liquid yourself (it must turn blue-green); put checkpoint papers on desks.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Wear goggles when using indicator, vinegar, lemon juice and soap solution. 使用指示剂、白醋、柠檬汁和肥皂水时请佩戴护目镜。
   - Never taste or drink any liquid. 不要品尝或饮用任何液体。
   - Only the teacher uses hot water. The indicator is made before the lesson. 只有老师可以使用热水。指示剂在课前已制好。

@@ -300,7 +300,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Magnifying glass, 1; white paper, 2 sheets; 30 cm ruler, 1; permanent marker, 1; timer, 1
   - Goggles, 4; disposable gloves (for anyone with cuts or skin problems); paper towels; tray to stand bottles in
 - **Teacher prep (about 30 minutes, earlier in the week):** Collect about 2 cups of soil from each of the four locations into labelled bags; remove stones bigger than a pea, glass, litter and anything sharp; do not collect where animals may have fouled. Take Evidence 6 from the same flowerbed as reference A, at the same time, and bag it separately as "Evidence 6: soil from footprint tread". Let damp soil dry on newspaper overnight if very wet. Before the lesson (10 minutes): fill and label pots; set out bottles.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Soil can carry germs. Wash your hands with soap after the practical. 土壤可能带有细菌。实验后请用肥皂洗手。
   - Do not touch your face or mouth while handling soil. 处理土壤时不要触摸脸部或嘴巴。
   - Cover cuts or wear gloves. 有伤口请包好或戴手套。
@@ -316,7 +316,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Plastic cups, 4; jug of water with 1 drop of food colouring per 100 ml (about 300 ml), 1
   - Pencils for hanging strips, 4; sticky tape, 1 roll; scissors, 2; 30 cm rulers, 2; magnifying glass, 1; timer, 1; paper towels
 - **Teacher prep (about 15 minutes):** Take Evidence 7 from the lab's own roll (the same roll as P1): draw a small pencil arrow along the roll direction, crumple it, then smooth it flat again before the lesson (it must look as if it came from the bin). Draw arrows on all reference sheets in the same direction. Colour the water. Optional: pre-cut strips if the class is slow with scissors (add 10 minutes).
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Food colouring stains skin and clothes. Use one drop only. 食用色素会弄脏皮肤和衣服，只用一滴。
   - Scissors: cut away from your fingers and pass them handle first. 用剪刀时刀口朝外，递剪刀时把手朝向对方。
   - Do not drink the water. 不要喝杯中的水。
@@ -332,7 +332,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - Bottled or tap water; salt; white vinegar (about 60 ml); measuring jug; teaspoon; stirring stick
   - Pencils for hanging strips, 6; sticky tape; 30 cm ruler, 1; timer, 1; goggles, 4; paper towels
 - **Teacher prep (about 30 minutes, earlier in the week; then 10 minutes per class):** Pre-test pens A and B and an N strip in salt water (1 level teaspoon of salt in 100 ml of water) and in white vinegar, as in Case Bible Section 11. Keep the dried strips as the backup lab report and answer key. Before the lesson: make N strips with pen B (6 per group plus spares); cut filter strips; fill the vinegar bottle.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Wear goggles when using vinegar. 使用白醋时请佩戴护目镜。
   - Never taste salt water, vinegar or any sample. 不要品尝盐水、白醋或任何样本。
   - If vinegar gets in your eyes, rinse with plenty of water and tell the teacher. 如有白醋进入眼睛，请用大量清水冲洗并告诉老师。
@@ -349,7 +349,7 @@ Create four half-A4 kit cards for Year 8 Week 8 (one per option: Soil, Paper, In
   - White vinegar in a labelled cup (about 30 ml) with a dropper, 1; iodine solution in a dropper bottle (optional; Safety Officer only), 1
   - Magnifying glass, 1; black card, 1; goggles, 4; paper towels
 - **Teacher prep (about 20 minutes, the day before):** Check the allergy list. Make the mixtures with equal level teaspoons of each powder, shaken well in a lidded pot: K1 baking soda + cornflour; K2 salt + flour; X baking soda + salt (label only "Mystery mixture X"). Fill pots. Test X and the scene powder yourself under the magnifier: you must be able to see salt cubes in X and none in the scene powder.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - Wear goggles for vinegar and iodine. 使用白醋和碘液时请佩戴护目镜。
   - Never taste or eat any powder or liquid. 不要品尝或食用任何粉末或液体。
   - Tell your teacher about food allergies (wheat flour, corn). 如有食物过敏（小麦面粉、玉米），请告诉老师。

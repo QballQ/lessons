@@ -10,7 +10,7 @@ Chinese text status: draft, needs native-speaker check
 - **Big idea:** A graph turns a table of numbers into a picture, so we can spot the pattern and write a conclusion that uses the data as evidence.
 - **Learning goals:**
   - I can choose between a bar chart and a line graph and plot my results accurately. 我能在条形图和折线图之间做出选择，并准确描点画出我的结果。
-  - I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___ ___。”写出结论。
+  - I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___会___。”写出结论。
 - **Key words:**
 
 | English | 中文 | Student-friendly meaning |
@@ -96,7 +96,7 @@ Title: Today / 今天
 On-slide text:
 Today I can ... 今天我能……
 I can choose between a bar chart and a line graph and plot my results accurately. 我能在条形图和折线图之间做出选择，并准确描点画出我的结果。
-I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___ ___。”写出结论。
+I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___会___。”写出结论。
 Vocabulary panel: Key words today 今天的关键词 (the right-hand list of the Today layout): graph | 图表; bar chart | 条形图; line graph | 折线图; axis | 坐标轴; plot | 描点; line of best fit | 最佳拟合线; pattern | 规律; conclusion | 结论; increase | 增加
 Visual: Today 今天 layout. Left: the two goals, English with the Chinese beneath in the lighter weight, each with an empty tick box. Right: the nine key words, English 中文. Ice crystal series icon as accent.
 Speaker notes: Shown as the checkpoint papers are collected, before the Hook; one minute, no extra time. Read each goal in English; a student reads the Chinese line. Point to the key words: "You will see these on every slide today, and you will tick these two goals on your exit ticket at the end."
@@ -161,7 +161,7 @@ Speaker notes: Say, show, check: read each step in English, a student reads the 
 Slide 9 | Phase tag: Do 实践
 Title: Write your conclusion / 写出结论
 On-slide text:
-As the ___ increases, the ___ ___. 随着___增加，___ ___。
+As the ___ increases, the ___ ___. 随着___增加，___会___。
 Stretch: add your data. 提高：加上你的数据。
 Challenge: explain with air resistance. 挑战：用空气阻力解释。
 Vocabulary panel: conclusion | 结论; increase | 增加; pattern | 规律
@@ -215,7 +215,7 @@ Spot the pattern / 发现规律
 Ice Engineers 冰雪工程师 | Week 5 第5周
 Today I can 今天我能:
 - I can choose between a bar chart and a line graph and plot my results accurately. 我能在条形图和折线图之间做出选择，并准确描点画出我的结果。
-- I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___ ___。”写出结论。
+- I can write a conclusion using "As the ___ increases, the ___ ___." 我能用“随着___增加，___会___。”写出结论。
 Name 姓名: __________ Class 班级: ______ Date 日期: ______
 
 **2. Vocabulary panel**

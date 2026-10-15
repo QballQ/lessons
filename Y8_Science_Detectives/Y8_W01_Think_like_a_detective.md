@@ -311,7 +311,7 @@ Create a half-A4 kit card for Year 8 Week 1 using the Think Like a Scientist kit
 - **Per student:** case file (folder with cover, briefing, sign-in sheet, scene map, suspect cards, evidence log) x1; worksheet x1; skills check paper x1; interest survey x1; pencil x1
 - **Per group:** none beyond the above
 - **Teacher prep before the lesson (about 25 minutes):** print and collate case files (one per student) in this order: cover, briefing with sign-in sheet, scene map, suspect cards, evidence log. Print skills checks and surveys. Set out groups of 4 with name cards. Optional (5 minutes): set up the scene table (see Case Bible, Section 12).
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - No practical hazards beyond normal classroom rules. 除正常课堂规则外，无其他实验危险。
   - Optional scene table: look only. Do not touch, taste or smell the evidence. 现场展示桌：只能看，不要触摸、品尝或闻证据。
 - **Clean-up 收拾整理:** Case files go into the class box, filed by group. 案件档案按小组放回班级收纳盒。 Skills checks and surveys collected separately for the tracker. 技能检测卷和问卷单独收齐，用于填写学生进度跟踪表。

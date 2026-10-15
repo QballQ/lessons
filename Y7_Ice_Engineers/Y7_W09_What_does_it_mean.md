@@ -402,7 +402,7 @@ Create a half-A4 kit card for Year 7 Week 9 using the Think Like a Scientist kit
 - Put any missing Week 8 results sheets back in the folders; decide which groups need the sample class data (5 min).
 - Choose a flat, safe place to store posters overnight (5 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - No practical hazards beyond normal classroom rules.
   本节课除常规课堂规则外，没有实验安全隐患。
 - Carry scissors with the points down.

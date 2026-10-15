@@ -181,6 +181,7 @@ Chinese text status: draft, needs native-speaker check
 | Word bank | 词库 | inline |
 | Fold-under word bank | 折叠词库 | worksheet foot |
 | Exit ticket | 离场小测 | strip |
+| Hazards and controls (kit card heading) | 危险源与控制措施 | every kit card |
 | Fold under (fold line label) | 向后折 | worksheet template, above the fold-under word bank |
 | Cut here (cut line label) | 沿此线剪下 | worksheet and card templates |
 | Turn over | 请翻页 | worksheet template, page footer |
@@ -424,7 +425,7 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 | gallery walk | 展览漫步 | Y7 W10 |
 | heavy / light (mass) | 重的 / 轻的 | Y7 W2 |
 | hold together | 连在一起不散开 | Y7 W9 |
-| Ice cube rescue / Keep it warm / The ice ship mission / Test day / Straw-brick science (titles) | 冰块救援 / 保温 / 冰船任务 / 测试日 / 草砖科学 | Y7 W6 to W8 |
+| Ice cube rescue / Keep it warm / The ice ship mission / Test day / Straw-brick science (titles) | 冰块保卫战 / 保温挑战 / 冰船计划 / 测试日 / 草砖科学 | Y7 W6 to W8 (the titles every file uses) |
 | length / time (single word bank items) | 长度 / 时间 | Y7 W3 |
 | measuring cylinder | 量筒 | Y7 W6, Y7 W8 |
 | melting test / strength test | 熔化测试 / 强度测试 | Y7 W8 |
@@ -498,7 +499,7 @@ Editors add any new pairing here (English | 中文 | file where first used). Kee
 | Song Ci / Xi Yuan Ji Lu | 宋慈 / 《洗冤集录》 | Y8 W1 |
 | Tally (short table heading) | 划记 | Y8 W2 (key word tally is 划记计数) |
 | test (word bank item: a test) / Test (evidence log column: the test used) | 测试 / 检测方法 | Y8 W1 |
-| The white powder / The mystery liquid / Who wrote the note? / Fingerprints (titles) | 白色粉末之谜 / 神秘液体 / 谁写了纸条？ / 指纹档案 | Y8 W2 to W5 (keep the existing file titles) |
+| The white powder / The mystery liquid / Who wrote the note? / Fingerprints (titles) | 白色粉末之谜 / 神秘液体 / 纸条是谁写的？ / 指纹档案 | Y8 W2 to W5 (the titles every file uses) |
 | warm water / cold water | 温水 / 冷水 | Checkpoint_Y8 |
 | worked example / Now you try | 例题 / 现在你来试试 | Y8 W3 |
 | absorbency / layers (ply) / layers (settling) / thin / thick / soft / rough | 吸水性 / 层数 / 分层 / 薄 / 厚 / 软 / 粗糙 | Y8 W7, W8 |
@@ -885,8 +886,8 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | type of (hat, material, paper) | ……的种类 | Y7 W5 |
 | type of fibre / amount of sawdust | 纤维种类 / 木屑的量 | Y7 W8 |
 | type of fibre / amount of sawdust (word bank items, already in file) | 纤维种类 / 木屑的量 | Y7 W10 |
-| Type of fibre / Amount of sawdust / Amount of sawdust per strip (g) | 纤维类型 / 木屑用量 / 每条木屑用量（克） | Y7 W9 |
-| type of fibre / amount of sawdust per strip | 纤维类型 / 每条木屑的量 | Y7 W6 |
+| Type of fibre / Amount of sawdust / Amount of sawdust per strip (g) | 纤维种类 / 木屑的量 / 每条木屑的量（克） | Y7 W9 |
+| type of fibre / amount of sawdust per strip | 纤维种类 / 每条木屑的量 | Y7 W6 |
 | type of paper | 纸的类型 | Y7 W3 |
 | umbrella / wet / dripping / rain / door / mat (exit ticket mini word bank) | 雨伞 / 湿的 / 滴水 / 雨 / 门 / 地垫 | Y7 W1 |
 | unique (fingerprints) | 独一无二 | Y8 W2 |
@@ -949,3 +950,101 @@ Pairings the file editors introduced, listed as reported. Alphabetical. Where a 
 | witness (eyewitness) | 目击者 | Skills Check Y8 Q10 (not expert witness 专家证人) |
 | a person in a dark coat | 穿深色外套的人 | Skills Check Y8 Q10 |
 | size 38 (shoe size) | 38码 | Skills Check Y8 Q10 |
+| 15 pours (count of pours in the worked example) | 倒水15次 | Y7 W08 |
+| 20 people (caption under the person-icon row) | 20个人 | Y8 W02 |
+| 24 cm footprint (clue card label) | 24厘米脚印 | Y8 W10 |
+| 6 cm wings / 8 cm wings (bar and group labels) | 6 cm翼长 / 8 cm翼长 | Y7 W04 |
+| as one goes up, the other goes up (arrow label after "positive correlation 正相关") | 一个量增加，另一个量也增加 | Y8 W06 |
+| Assembly steps | 制作步骤 | Y7 W03 |
+| book stack | 书堆 | Y7 W08 |
+| by mass | 按质量计 | Y7 W07 |
+| checks everything (Reporter caption) | 检查所有内容 | Y7 W07 |
+| Clue box (option card) | 线索框 | Y8 W07 |
+| do not move (icon caption) | 不要移动 | Y8 W03 |
+| do not open (icon label) | 不要打开 | Y7 W02 |
+| Does sawdust make ice stronger? (example graph or poster title) | 木屑会让冰更强吗？ | Y7 W09 |
+| Dot to dot (caption under the zigzag graph) | 连点 | Y7 W05 |
+| e.g. (inside a printed key) | 例如 | Y8 W01 |
+| Evidence table (evidence log Part 1 heading) | 证据表 | Y8 W01 |
+| eye level (diagram caption) | 视线与液面平齐 | Y7 W06 |
+| eye level (watch / read at eye level) | 平视 | Y7 W08 |
+| feel (icon label, feel the weight) | 感受 | Y7 W02 |
+| Fibre (caption on the strip with fibre, Plan B Hook) | 有纤维 | Y7 W08 |
+| Field (suspect card table header) | 项目 | Y8 W01 |
+| Finish (banner on the finish line) | 终点 | Y7 W03 |
+| floor by desk (Evidence 3 bag label) | 办公桌旁的地面 | Y8 W04 |
+| flour dust | 面粉粉尘 | Y7 W07 |
+| fold forward / fold back (wing labels) | 向前折 / 向后折 | Y7 W03 |
+| fold forward / fold back / fold in / fold up (spinner template labels) | 向前折 / 向后折 / 向内折 / 向上折 | Y7 W03 |
+| fold in / fold up (template and picture-step labels) | 向内折 / 向上折 | Y7 W03 |
+| food allergy | 食物过敏 | Y8 W08 |
+| footprints and height (Week 6 title, in the teaser caption) | 脚印与身高 | Y8 W05 |
+| front view | 正视图 | Y7 W08 |
+| front view / side view (diagram captions) | 正视图 / 侧视图 | Y7 W08 |
+| Grid letters and numbers (scene map key) | 网格上的字母和数字 | Y8 W01 |
+| Group initials | 小组首字母 | Y7 W07 |
+| hands off (icon caption) | 不要碰 | Y7 W06 |
+| hanging bag | 悬挂的袋子 | Y7 W07 |
+| Hazard lines (option kit list label) | 危险源提示 | Y8 W07 |
+| Heat in / Heat out (diagram captions) | 热量进入 / 热量散出 | Y7 W06 |
+| height chart | 身高表 | Y8 W06 |
+| Ice with fibres | 加了纤维的冰 | Y7 W07 |
+| inventor | 发明家 | Y7 W07 |
+| keep (short slider icon label for keep the same) | 保持不变 | Y8 W07 |
+| keep clear (safety zone label) | 保持远离 | Y7 W08 |
+| Key (map key) / evidence markers | 图例 / 证据标记 | Y8 W01 |
+| Lab memo | 实验室备忘录 | Y8 W07 |
+| Lead Scientist places cards. / Recorder writes matches. / Reporter checks with the evidence log. (role icon captions) | 首席科学家摆放证据卡。 / 记录员写下每张卡符合谁。 / 汇报员对照证据记录检查。 | Y8 W09 |
+| Line key (box on the spinner template) | 线条图例 | Y7 W03 |
+| MDF | 中密度纤维板 | Y7 W07 |
+| Mean (ml) (results table column heading) | 平均值（毫升） | Y7 W09 |
+| Next week (teaser caption) | 下周 | Y8 W02, Y8 W03, Y8 W04, Y8 W05, Y8 W07 |
+| Next week: Build the case (teaser caption) | 下周：构建证据链 | Y8 W08 |
+| Next week: Court of Science (teaser caption) | 下周：科学法庭 | Y8 W09 |
+| no eating (icon) | 禁止食用 | Y7 W07 |
+| no salt (picture caption, paired with salt 盐) | 不加盐 | Y7 W04 |
+| no wrap (caption for the bare cup A) | 不包裹 | Y7 W06 |
+| no-fibre strips (Plan B Hook label) | 无纤维样品条 | Y7 W09 |
+| On Earth / On the Moon (picture captions) | 在地球上 / 在月球上 | Y7 W02 |
+| or (choice word on a printed answer line) | 或 | Y8 W10 |
+| out of the box too long (Slide 7 problem icon caption) | 离开箱子太久 | Y7 W09 |
+| Page 1 | 第1页 | Y7 W07 |
+| Page 1 / Page 2 (planning frame) | 第1页 / 第2页 | Y7 W07 |
+| paper (material label on a picture, Year 7) | 纸 | Y7 W05 |
+| Part 1 / Part 2 / Part 3 (evidence log section headings) | 第1部分 / 第2部分 / 第3部分 | Y8 W01 |
+| pH colour chart (caption under the chart picture) | pH比色卡 | Y8 W05 |
+| Picture (exit ticket strip label) | 图片 | Y7 W01 |
+| plain or 0 g (Coverage check column) | 普通或0克 | Y7 W07 |
+| Plastic, not glass. (safety icon caption) | 用塑料瓶，不要用玻璃瓶。 | Y8 W08 |
+| progress tracker | 学生进度跟踪表 | Y8 W01 |
+| progress tracker / the tracker (the teacher's progress tracker) | 学生进度跟踪表 | Y8 W01 |
+| question and prediction / variables and method / checks everything (role part captions) | 问题和预测 / 变量和实验步骤 / 检查所有内容 | Y7 W07 |
+| read aloud (role icon caption: Lead Scientist reads.) | 朗读 | Y7 W02 |
+| reads (aloud; Lead Scientist duty caption on the question sort slide) | 朗读 | Y7 W02 |
+| same foot length, different heights (inset caption) | 脚长相同，身高不同 | Y8 W06 |
+| same way (Hook icon label) | 同样的方法 | Y8 W08 |
+| Science Detectives. Week 9. All the evidence. One board. How strong is our case? (title slide line) | 科学侦探。第9周。所有证据。一块证据板。我们的证据链有多有力？ | Y8 W09 |
+| side view | 侧视图 | Y7 W08 |
+| slipped off / waited too long (problem icon captions) | 滑落 / 在箱子外放太久 | Y7 W09 |
+| small ball / large ball | 小球 / 大球 | Y7 W03 |
+| spilt water | 洒出的水 | Y7 W07 |
+| Step 1 / Step 2 (choice-grid labels) | 步骤1 / 步骤2 | Y7 W07 |
+| Steps (station card lead-in) | 步骤 | Y7 W08 |
+| strip touched the cup (example note on a recording sheet) | 纸巾条碰到了杯子 | Y8 W08 |
+| Strongly disagree / Strongly agree (survey scale end labels) | 非常不同意 / 非常同意 | Y7 W01, Y7 W10, Y8 W01, Y8 W10 |
+| Table 1 / Table 2 (numbered table heading) | 表1 / 表2 | Y8 W08 |
+| tap (water tap) | 水龙头 | Y7 W08 |
+| teacher initials (stamp box) | 教师签名 | Y8 W07 |
+| Teacher sign-off box | 教师签批栏 | Y7 W07 |
+| Think phase (in a heading) | 思辨与反思环节 | Y7 W07 |
+| Timer 1 / Timer 2 / Timer 3 (stopwatch captions) | 计时员1 / 计时员2 / 计时员3 | Y7 W04 |
+| untreated sawdust | 未经处理的木屑 | Y7 W07 |
+| Week 1 to Week 10 (arrow label) | 第1周到第10周 | Y7 W10 |
+| which powder (slider label) | 哪种粉末 | Y8 W07 |
+| Winter Science Lab | 冬季科学实验室 | Y8 W01 |
+| Year 7 asked: (gallery walk sign lead-in) | 七年级提问： | Y7 W10 |
+| Year 9 | 九年级 | Y8 W06 |
+| eye level (watching a sample; reading a measuring cylinder) | 平视 / 平视读数 | Y7 W8 |
+| eye level (reading a thermometer or a liquid level) | 视线与液面平齐 | Y7 W6 (the native-speaker check may unify with 平视) |
+| about (a time: about 20 seconds) | 约（约20秒） | Y7 W10 |
+| Group 1 to Group 6 (group labels) | 第1组 至 第6组 | Y8 W8 |

@@ -408,7 +408,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Just before the lesson: move each group's tray from the freezer into its insulated box; put the boxes on the teacher desk (5 min).
 - Set up one demo rig at the front (5 min).
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.
@@ -441,7 +441,7 @@ Create two half-A4 kit cards for Year 7 Week 8 using the Think Like a Scientist 
 - Check the strips: press a spare strip with a thumbnail; it should feel hard, not soft. If strips are still soft, test the driest groups first and dry the rest for longer (5 min).
 - Check the allergy list: students with a flour allergy pour or record only.
 
-**Hazards and controls 危险源和控制措施**
+**Hazards and controls 危险源与控制措施**
 - Put a catch tray (bucket) under every hanging bag.
   每个悬挂的袋子下面都要放接水盘（桶）。
 - Keep your feet and hands clear of the hanging bag. The pourer kneels to the side.

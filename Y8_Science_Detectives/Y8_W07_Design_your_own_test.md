@@ -375,7 +375,7 @@ Create a half-A4 kit card for Year 8 Week 7 using the Think Like a Scientist kit
 **Kit card: Week 7 planning lesson**
 - **Per group (4 students):** option card (their option only), 1; plan sheets, 4; sealed evidence bag for their option (Soil and Paper groups: Evidence 6 or 7; Ink 2 groups: a note ink strip N in a clear sleeve; Powder 2 groups: Evidence 3 bag), 1; Week 4 results grid (in case files); mini whiteboards and pens, 4.
 - **Teacher prep before the lesson (about 30 minutes):** Allocate options to groups from the Week 6 exit tickets. Print option cards (one per group, plus spares) and plan sheets. Stage Evidence 6 and Evidence 7 (Case Bible, Section 12: label them "Evidence 6" and "Evidence 7"). Collect the reference soils and papers now if possible, so groups can see them.
-- **Hazards and controls 危险源和控制措施:**
+- **Hazards and controls 危险源与控制措施:**
   - No practical work today. Evidence bags stay sealed. 今天没有实验操作。证据袋保持密封。
   - Do not open, smell or taste any sample. 不要打开、闻或品尝任何样本。
 - **Clean-up 收拾整理:** Evidence bags back to the teacher. 证据袋交回老师。 Plan sheets and kit requests collected at the door. 计划表和器材申请在门口收齐。
