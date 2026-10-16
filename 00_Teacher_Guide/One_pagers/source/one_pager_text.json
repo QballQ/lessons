@@ -1,0 +1,917 @@
+{
+ "Y8_W06": {
+  "id": "Y8_W06",
+  "big_idea": "Linked measurements (a correlation) let a scatter graph and line of best fit estimate one from the other; people vary, so give a range.",
+  "goals": [
+   "I can measure foot length and height, plot a scatter graph and draw a line of best fit.",
+   "I can estimate the footprint owner's height as a range from my graph and name suspects who fit."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "New case leader intro; 3 Week 5 recap questions from the evidence log; Parking Board; goals"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "True-size footprint by a metre stick: can it tell height? Vote short, medium or tall"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Scatter graph, correlation, line of best fit; read off a range; model measuring safely, kindly"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Measure in pairs, class data table, plot scatter graph, line of best fit, read off at 24 cm"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Which suspects fit the range? Pair talk; evidence log row 6, tracker; exit ticket with vote"
+   }
+  ],
+  "practical": "Pairs measure foot length (shoes off, 0.5 cm) and height (1 cm), plot a scatter graph and read off at 24 cm.",
+  "assessment": "Scatter graph and estimate (rubric strand 4); evidence log row 6, tracker, W6 confidence; exit ticket with Week 7 vote",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Meet current teacher: handover, tracker, freezer decision, Weeks 6, 7 kit",
+    "minutes": 30,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read Case Bible Sections 4 to 6 (suspects' heights and foot lengths)",
+    "minutes": 20,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job (rebuilt designs): worksheets, data cards, signs, kit card",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Print footprint at 100% (not fit to page): 6 per class plus 1; check 24 cm",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 7 sample data cards in A5 pouches (optional)",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Borrow 6 hardbacks; collect rulers, metre sticks, trays; sharpen 24 pencils",
+    "minutes": 20,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Find the Week 5 Ideas Parking Board or its photo for the Do Now",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Set up 2 or 3 height stations (chart or metre stick, sign); check the scale",
+    "minutes": 8,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Check the slide 9 data table can be typed into while projected",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Decide: class's own data or sample data (sample if class small)",
+    "minutes": 2,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out group trays, case files, role and frame cards; Hook kit at front",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: shoes on, kit counted, data cards collected, footprints filed",
+    "minutes": 3,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets: record Week 7 option choices, give each group one option",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Last class: return kit and books, store data cards; leave charts if needed",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (2 sheets each, double-sided)",
+   "Scene footprint x6 per class, A4 at 100%, check 24 cm (1 per group)",
+   "Sample class data card x6, A5, laminated if possible (1 per group)",
+   "Height station sign x3, A4 (1 per station)",
+   "Teacher copies: kit card (A5), sample data card, Hook footprint"
+  ],
+  "get_items": [
+   "Rulers, 30 cm x12 (2 per group)",
+   "Metre sticks or tape measures x7 (6 groups, 1 Hook)",
+   "Hardback books x6 (borrow from library or staff room)",
+   "Paper height charts, 130 to 190 cm x3 (buy ready-made)",
+   "Masking tape x1 roll",
+   "Up to 3 metre sticks for upright stations (optional)",
+   "Laminating pouches, A5 x7 (optional)",
+   "Make: height stations x3 (chart, masking tape, sign)"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Case files x24",
+   "Scientist's Logbooks x24",
+   "My Science Dictionaries x24",
+   "Role card and frame card sets x6 each",
+   "Group trays x6",
+   "Sharp pencils x24 (4 per group)",
+   "Ideas Parking Board (Week 5) or photo"
+  ],
+  "hazards": [
+   "Shoes off, socks on: shoes under desks, back on before anyone leaves their seat",
+   "No standing on chairs or tables; never swing metre sticks; retract tapes slowly",
+   "Measuring is voluntary: numbers not names, no comments on size; sample data allowed"
+  ],
+  "watch_out": [
+   "Measuring slow or under 16 measured: switch all to the sample data card; never mix data on one graph.",
+   "Joining dots, starting at zero or one number: ask 'As many crosses above as below?' Insist on a range."
+  ],
+  "language_note": "Frame: 'The person was probably between ___ cm and ___ cm tall.' Say 'height', not 'high'. Chinese answers count.",
+  "next_week": "Exit tickets: give each group one option (Soil, Paper, Ink 2, Powder 2), sets Week 8 kit; collect Week 7 soil"
+ },
+ "Y8_W07": {
+  "id": "Y8_W07",
+  "big_idea": "A good forensic test has a clear question, tests the scene sample exactly like the references, changes one thing and is planned to be safe.",
+  "goals": [
+   "I can write a testable question and name what we change, observe or measure, and keep the same.",
+   "I can plan a safe method with reference samples, repeats, a risk table and a results table."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Three recap questions on whiteboards or in the logbook; Today slide with goals and key words"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Show sealed Evidence 6 and 7 bags; hand out option cards; Reporters read the question aloud"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Six planning steps modelled with the Week 4 powder test; one worked risk-table row (vinegar)"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Groups plan on the plan sheet; checkpoints at minutes 6 and 12; results table and kit request"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Pick the fairer soil method; plan swap (skip if short); exit ticket; collect sheets at the door"
+   }
+  ],
+  "practical": "No practical: groups plan their Week 8 test (Soil, Paper, Ink 2 or Powder 2) and only look at sealed bags.",
+  "assessment": "Plan sheet (rubric strands 1 and 2) signed off at checkpoints 1 and 2; exit ticket; kit requests; evidence log row 7.",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Book printing: plan sheets x24 (48 sheets), kit card, Week 8 kit lists",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Allocate options, print 10 option cards, make Evidence 6 and 7 bags",
+    "minutes": 30,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Evidence 3 bags: unopened Week 4 bag, or about 3 tsp baking soda each",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Note ink strips N: Week 3 spares or new with pen B, in clear sleeves",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 10 option cards (optional)",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect reference soils A to D and papers P1 to P4 (optional)",
+    "minutes": 45,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out group kits, class box items; Evidence 6 and 7 on teacher desk",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: bags and N strips to teacher, keep option cards, wipe boards",
+    "minutes": 3,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read plan sheets: check risk tables, one comment each, read exit tickets",
+    "minutes": 30,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Turn the six kit requests into Week 8 tray lists",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Plan sheet x24 (4 A4 pages: 2 sheets each, double-sided)",
+   "Option cards x10 (1 sheet each, single-sided: 6 group, 4 spare)",
+   "Teacher copies: kit card (A5), Week 8 kit lists by option (4 A5)"
+  ],
+  "get_items": [
+   "Sealed evidence bags, up to 2 each: Evidence 6, 7, 3",
+   "Note ink strips N x2 (Week 3 spares first)",
+   "Small zip bags x6",
+   "Sticky labels x6",
+   "Clear plastic sleeves x2",
+   "Lab paper towel sheets x2 (from the lab's own roll)",
+   "Baking soda 6 tsp, if no sealed Week 4 bag (optional)",
+   "Coffee-filter strips 2 cm x 10 cm x2 (optional)",
+   "Mini whiteboards x24 (optional)",
+   "Dry-wipe pens x24 (optional)",
+   "Laminating pouches A4 x10 (optional)",
+   "Reference soils A to D, papers P1 to P4 (optional)"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Case files x24 (Week 4 results grid)",
+   "Scientist's Logbooks x24",
+   "Role card sets x6 (with buddy card)",
+   "Sentence frame card sets x6",
+   "My Science Dictionary x24",
+   "Pencils x24",
+   "Pen B, for new N strips (optional)"
+  ],
+  "hazards": [
+   "No practical work: evidence bags stay sealed and go back to the teacher.",
+   "Do not open, smell or taste any sample.",
+   "Teacher checks every group's risk table before any Week 8 practical."
+  ],
+  "watch_out": [
+   "Groups change two things, list kit instead of a method, or skip repeats: insist on the 'We change' frame.",
+   "Evidence 6 must come from flowerbed A; Evidence 7 from the lab's own roll, arrow marked before crumpling."
+  ],
+  "language_note": "Frames: 'We change / observe / keep ___'. Hazard is the thing, risk the chance. Band 1: language buddy, Core b) first.",
+  "next_week": "Week 8 lab day: commented plan sheets back in the Do Now; keep option cards and bags; trays from kit requests."
+ },
+ "Y8_W08": {
+  "id": "Y8_W08",
+  "big_idea": "Doing a planned test carefully, repeating it and recording every result straight away (surprises too) makes a result trustworthy evidence.",
+  "goals": [
+   "I can carry out our plan safely, repeat the test and record results with units in a table.",
+   "I can say what our result matches, how reliable it is and what it does or does not show."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 3,
+    "what": "Safety Officer reads kit card aloud; group checks tray against kit request; roles confirmed."
+   },
+   {
+    "phase": "Hook",
+    "minutes": 2,
+    "what": "Jury's three questions: repeated? references tested the same way? contaminated?"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 3,
+    "what": "Safety slide, goggles on; record straight away, units, one line through, circle anomalies."
+   },
+   {
+    "phase": "Do",
+    "minutes": 24,
+    "what": "Pairs run parallel repeats, scene sample last; record on sheet; photos 18 to 21; tidy from 21."
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Worksheet; Reporter round, 20 seconds per group; evidence log row 8; exit ticket at the door."
+   }
+  ],
+  "practical": "Groups run their Week 7 plan (Soil, Paper, Ink 2 or Powder 2) as two pairs doing parallel repeats.",
+  "assessment": "Recording sheet and worksheet (strand 3, part of strand 4) into case files; evidence log row 8; exit ticket; photos.",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Print job 1: worksheets (48 sheets), run sheet A4 and A3, backup cards",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "2 or more weeks before",
+    "text": "Buy or request consumables; ask canteen for napkins; check filters, tape",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "2 or more weeks before",
+    "text": "Collect, rinse 20 identical 300 ml plastic screw-lid bottles per Soil class",
+    "minutes": 15,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Once options are allocated, print recording sheets x10 and kit cards x10",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Write a tray list per group from Week 7 plans; note each class's split",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Gather prep-room kit, check pens A to D; bag soils A to D and Evidence 6",
+    "minutes": 50,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Soil: if very wet, dry it on newspaper overnight (optional)",
+    "minutes": 5,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Ink 2 pen pre-test (salt water, vinegar); keep dried strips as answer key",
+    "minutes": 30,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Powder 2 pots (allergy check first); Ink 2 strips and vinegar; backup cards",
+    "minutes": 35,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Paper: make Evidence 7, cut and label P1 to P4, colour the water",
+    "minutes": 15,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Paper: pre-cut strips if the class is slow with scissors (optional)",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Fill Soil pots, set out bottles and one checked tray per group",
+    "minutes": 25,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Wash, restock trays; stick in Ink 2 strips; empty soil bottles after Week 9",
+    "minutes": 30,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Save photos, board notes; read and file work; photograph soil bottles again",
+    "minutes": 45,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (3 pages on 2 sheets: pages 1 and 2 double-sided)",
+   "Recording sheets x10 (1 sheet, double-sided; 12 if before allocation)",
+   "Kit cards x10 (A5, or 2 per A4 sheet; 4 are for the teacher's file)",
+   "Run sheet A3 enlargement x1 (wall)",
+   "Teacher copies: run sheet A4, backup cards (1 sheet, cut into 4)"
+  ],
+  "get_items": [
+   "Identical 300 ml plastic screw-lid bottles x20",
+   "Labels x39, markers x2, A4 paper x4, soil bags x5",
+   "Filter strips 2 cm by 10 cm x50, plus spares",
+   "Small plastic cups x44; stirring sticks x22",
+   "Timers x5, scissors x4, bucket x1, extra trays x2",
+   "Teaspoons x3, tablespoons x10, flat sticks x2",
+   "Water jugs x4; measuring jugs or cylinders x4",
+   "Small bottles for Ink 2 vinegar x2 (about 60 ml each)",
+   "Gloves, cloths, paper towels; camera or tablet x1",
+   "White vinegar 180 ml, plus a little for the pre-test",
+   "Baking soda 12, salt 7, cornflour 2, flour 2 level tsp",
+   "Tissues x2, canteen napkins x2, food colouring 6 drops",
+   "Make: soils A to D; Evidence 3, 6 and 7 (x2 each)",
+   "Make: P1 to P4 x2, Powder 2 sets x2, N strips x14",
+   "Make: pre-test strips x6, coloured water 600 ml",
+   "Optional: iodine dropper bottles x2, newspaper"
+  ],
+  "reuse_items": [
+   "Class box, case files, logbooks",
+   "Week 7 plan sheets and option cards",
+   "Role cards x6 sets; dictionaries",
+   "Goggles x20, magnifiers x5, rulers x7",
+   "Trays x6, tiles x4, droppers x2, tape x4",
+   "Pots x23, spoons x10, black card x2",
+   "Pens A to D x2 sets; kitchen roll",
+   "Pencils: 24 writing, 20 for strips"
+  ],
+  "hazards": [
+   "Goggles for vinegar, iodine, shaking soil bottles; lids tight; plastic bottles only",
+   "Never taste; Powder 2 allergy check (wheat, corn): an allergic student is Recorder",
+   "Soil: cover cuts or wear gloves, wash hands, never down the sink; iodine by dropper"
+  ],
+  "watch_out": [
+   "Check every tray before students arrive: with 24 Do minutes, a missing item costs a group its repeat.",
+   "No rubbing out: one line through, circle anomalies. A match is weak or supporting evidence, never proof."
+  ],
+  "language_note": "Frame: 'The scene sample matches ___ because ___ .' Traps: repeat vs replace, reliable vs accurate. Chinese welcome.",
+  "next_week": "Week 9: soil bottles stay labelled on the windowsill (look, do not open); keep photos, board notes, strips."
+ },
+ "Y8_W09": {
+  "id": "Y8_W09",
+  "big_idea": "No single clue proves who took the notebook: rank evidence by how many suspects it fits, set aside contaminated evidence with a checked reason.",
+  "goals": [
+   "I can rank evidence as strong, supporting or weak, and explain why the puddle is set aside.",
+   "I can write a CER conclusion with a confidence level and explain how tunnel vision misleads."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 3,
+    "what": "Count each suspect's ticks in the suspect tracker: nobody matches everything. Slides 2 to 3."
+   },
+   {
+    "phase": "Hook",
+    "minutes": 2,
+    "what": "Week 5 Ideas Parking Board photo: students find their note; today we check them. Slide 4."
+   },
+   {
+    "phase": "Learn",
+    "minutes": 5,
+    "what": "Strong fits one suspect, supporting two, weak three or four; a combination can be strong."
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Build A3 board (7 min); cleaning log card, set Evidence 4 aside (4 min); own CER (7 min)."
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 12,
+    "what": "Cartoon and parking board sort (3); roles and frames (4); self-assessment (4); exit ticket (1)."
+   }
+  ],
+  "practical": "No practical: groups build an A3 evidence board from evidence cards, then set aside the contaminated puddle.",
+  "assessment": "CER and photographed board: rubric strands 4 and 5, into the case file. Collect self-assessment slips and exit tickets.",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Book the Week 9 print job with reprographics (all classes)",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read Case Bible Section 9 and the answer key (all classes)",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect and count the printed worksheets, boards, frames and slips",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check stock; print and cut 6 card packs; cut 24 slips and 6 badges",
+    "minutes": 18,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Print 6 cleaning log cards, seal in envelope; decide roles, number badges",
+    "minutes": 8,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Slide 4 photo; photograph soil bottles; gather Week 8 photos, notes",
+    "minutes": 12,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Optional: print the concept cartoon and put it up",
+    "minutes": 3,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Optional, if time is short: pre-fill 'Matches' lines on the 6 card packs",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out case files and resources; teacher desk in hand-out order",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Photograph every evidence board",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: work into case files; collect them, slips, tickets; badges to box",
+    "minutes": 3,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Empty soil bottles on a flowerbed or into a bucket, never the sink",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets and case files; draft strands 1 to 5 before Week 10",
+    "minutes": 90,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (2 sheets each, double-sided)",
+   "Evidence card pack x6 (1 A4 card sheet each, cut into 9 cards)",
+   "Evidence board x6 (A3 landscape)",
+   "Cleaning log card x6 (A5)",
+   "Statement frame x6 (A3); A4 alternative x24 (optional)",
+   "Self-assessment slip x24 (12 A4 sheets, cut in half)",
+   "Expert witness badges x6 (1 A4 sheet, cut out)",
+   "Teacher copies: kit card, enlarged model evidence board",
+   "Concept cartoon x1 (A4 landscape) (optional)",
+   "Week 5 Ideas Parking Board photo print x1 (optional)"
+  ],
+  "get_items": [
+   "Blu Tack or glue sticks x6",
+   "Envelope x1",
+   "Camera or phone x1"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Case files x24",
+   "Pencils and dictionaries x24",
+   "Role cards and frame card sets x6",
+   "Week 8 results photos and board notes",
+   "Soil bottles from Week 8 (windowsill)",
+   "Week 5 Ideas Parking Board (optional)"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules.",
+   "Soil settling bottles stay sealed on the windowsill: look only, do not open."
+  ],
+  "watch_out": [
+   "Keep cleaning log cards sealed in the envelope until Do minute 7, then give a full minute of quiet.",
+   "Never confirm the culprit, even if every group says Dr Huang; nobody reads a model conclusion aloud."
+  ],
+  "language_note": "Chinese welcome in talk; English key words in writing. Traps: contamination/contaminated, confidence/confident.",
+  "next_week": "Before Week 10: draft strands 1 to 5; return case files, frames. Print Week 10 set; optional prop to freezer."
+ },
+ "Y8_W10": {
+  "id": "Y8_W10",
+  "big_idea": "Scientists defend conclusions with evidence, answer hard questions honestly (including what evidence does not show) and accept the result of checking.",
+  "goals": [
+   "I can explain one piece of evidence: what we tested, how, what it shows and how sure we are.",
+   "I can answer or ask a question about evidence and reach a verdict on the strength of all of it."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now: skills check",
+    "minutes": 15,
+    "what": "Same paper as Week 1, worked alone; 5-minute warning, collected at once; never shortened."
+   },
+   {
+    "phase": "Hook",
+    "minutes": 1,
+    "what": "Teacher becomes judge; experts put on badges; juries take question cards and jury notes."
+   },
+   {
+    "phase": "Do: Court of Science",
+    "minutes": 14,
+    "what": "Six 90-second talks in evidence order, one jury question each; jury notes, feedback slip."
+   },
+   {
+    "phase": "Think and Reflect: verdict",
+    "minutes": 5,
+    "what": "Exit ticket verdict (30 seconds), vote; teacher reads reveal card, 概要 lines; case closed."
+   },
+   {
+    "phase": "Think and Reflect: survey",
+    "minutes": 5,
+    "what": "Interest survey (3 minutes); thanks and certificates, or thanks if they come later."
+   }
+  ],
+  "practical": "No practical: groups give 90-second expert witness talks, answer a jury question; the class votes a verdict.",
+  "assessment": "Skills check (out of 20, vs Week 1); interest survey; strand 6 talk record; case files (strands 1 to 5); exit ticket.",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Book Weeks 9 and 10 printing (once); agree certificate ceremony with lead",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Book Week 1 reader or support for the skills check; make '15 seconds' card",
+    "minutes": 7,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job (only designs rebuilt after the language pass)",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Cut question cards (6 sets of 18), surveys, slips; staple checklists",
+    "minutes": 23,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Label slips by group; names in talk record; pick 概要 reader; check buddies",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Optional: freeze an old notebook in a freezer bag overnight",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Optional: print certificates for awards already fixed, if given today",
+    "minutes": 20,
+    "who": "teacher",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out: papers face down, table packs, witness stand, timer, clipboard",
+    "minutes": 7,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: skills checks first, surveys, case files; badges, cards in box",
+    "minutes": 3,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Sort feedback slips and reveal cards into group case files",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Mark skills checks out of 20; enter tracker; finalise strands; check awards",
+    "minutes": 145,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Optional: enter question marks on the tracker's Question_analysis tab",
+    "minutes": 15,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Print and sign 25 certificates; skills reports; photos; programme summary",
+    "minutes": 175,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Optional: return Week 1 and 10 skills checks after marking and entry",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": true,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Skills check x24 (3 sheets each, double-sided, as Week 1)",
+   "Interest survey x24 (half A4, 2 per sheet, cut: 12 sheets)",
+   "Jury notes sheet x24 (1 sheet each, double-sided)",
+   "Peer feedback slips x24 (A6, 4 per sheet, cut: 6 sheets)",
+   "Final case file checklist x24 (A5, 2 per sheet, cut: 12 sheets)",
+   "Reveal card x7 (1 sheet each: 1 teacher, 1 per group)",
+   "Jury question cards x6 sets (2 A4 card sheets each, cut)",
+   "Teacher copies: run sheet, strand 6 talk record (2 sheets), kit card",
+   "After marking: certificates x25 (A4 card), skills reports x24",
+   "Extra expert witness badge sheets x3 (6 per sheet, cut) (optional)"
+  ],
+  "get_items": [
+   "Timer visible to the class x1 (on-screen works)",
+   "Clipboard x1",
+   "Stapler and staples x1",
+   "'15 seconds' card x1 (hand-written)",
+   "Old notebook x1 and freezer bag x1 (optional)",
+   "Staff freezer space overnight (optional)"
+  ],
+  "reuse_items": [
+   "Case files x24 (with Week 9 frames)",
+   "Expert witness badges (6 from Week 9)",
+   "Class box",
+   "Pencils x24 (Week 1)",
+   "Role cards, frame cards (6 sets each)",
+   "Language cards x24, wall posters x4",
+   "Dictionaries x24, Logbooks x24",
+   "Teacher copies: mark scheme, rubric"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules.",
+   "Optional frozen notebook: cold and wet; pass it round in its bag, not out of it."
+  ],
+  "watch_out": [
+   "Skills check as in Week 1: unaltered paper, same access, dictionaries away, never shortened.",
+   "Talk past 2 minutes: thank, move on. Short of time: 75-second talks, 3 questions; never skip verdict."
+  ],
+  "language_note": "Frames on the stand; 'My verdict is ___ because ___.' Band 1 sits by language buddy; Chinese answers count for Core.",
+  "next_week": "Last lesson. Then: mark, enter tracker, finalise strands, apply award rules; certificates within a week."
+ }
+}

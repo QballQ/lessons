@@ -56,21 +56,23 @@ def plan_tag(p):
 
 
 def minutes_summary(prep):
-    """Total minutes for one class, split into teacher and could-be-delegated, per plan when plans differ."""
+    """Before-the-lesson and after-the-lesson minutes for one class, per freezer plan when the plans differ."""
     plans = sorted({t['plan'] for t in prep if t['plan'] in ('Plan A', 'Plan B')})
     out = []
     for plan in (plans or ['Both']):
         tasks = [t for t in prep if not t['optional'] and t['plan'] in ('Both', plan)]
         known = [t for t in tasks if t.get('minutes') is not None]
-        total = sum(t['minutes'] for t in known)
-        delegable = sum(t['minutes'] for t in known if t['who'] != 'Teacher')
+        before = [t for t in known if t['when'] != 'After the lesson']
+        after = [t for t in known if t['when'] == 'After the lesson']
+        b, a = sum(t['minutes'] for t in before), sum(t['minutes'] for t in after)
+        d = sum(t['minutes'] for t in before if t['who'] != 'Teacher')
         est = any(t['minutes_source'] == 'estimate' for t in known)
-        unknown = len(tasks) - len(known)
         label = '' if plan == 'Both' else f'{plan}: '
-        s = f'{label}about {total} min'
-        if delegable: s += f', of which {delegable} min could be done by someone else'
-        if unknown: s += f' (+{unknown} untimed)'
-        out.append((s, est))
+        txt = f'{label}before the lesson about {b} min'
+        if d: txt += f' ({d} could be done by someone else)'
+        txt += f'; after about {a} min'
+        if len(tasks) > len(known): txt += f'; {len(tasks) - len(known)} untimed'
+        out.append((txt, est))
     return out
 
 
@@ -265,32 +267,34 @@ def main():
     todo = [L['id'] for L in lessons]
     by_id = {L['id']: L for L in lessons}
     shorts = json.load(open(SHORT)) if os.path.exists(SHORT) else {}
+    failed = set()
     for _ in range(40):
         for i in todo:
             doc = page_short(by_id[i], shorts[i], scales[i]) if i in shorts and levels[i] == 0 else page(by_id[i], scales[i], levels[i])
             open(os.path.join(HTML_DIR, f'{i}_One_pager.html'), 'w', encoding='utf-8').write(doc)
         heights = render([f'{i}_One_pager.html' for i in todo])
-        todo = [f.replace('_One_pager.html', '') for f, h in heights.items() if h > PAGE_H]
+        todo = [f.replace('_One_pager.html', '') for f, h in heights.items() if h > PAGE_H and f.replace('_One_pager.html', '') not in failed]
         if not todo: break
         for i in todo:
             if i in shorts:  # condensed text: only shrink, never below 80%
                 if scales[i] > 0.815: scales[i] = round(scales[i] - 0.03, 2); continue
-                sys.exit(f'Condensed text still too long for one page: {i}')
+                failed.add(i); continue
             # shrink to 88% at each level of condensing, then condense further and start again at 96%
             if scales[i] > 0.885: scales[i] = round(scales[i] - 0.04, 2)
             elif levels[i] < 3: levels[i] += 1; scales[i] = 0.96
             elif scales[i] > 0.765: scales[i] = round(scales[i] - 0.03, 2)
-            else: sys.exit(f'Too long for one page: {i}')
+            else: failed.add(i)
     for i in scales:
         n = len(pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')).pages)
-        if n != 1: sys.exit(f'{i} has {n} pages')
+        if n != 1: failed.add(i)
     for y, name in [('Y7', 'Year_7_One_pagers.pdf'), ('Y8', 'Year_8_One_pagers.pdf')]:
         merged, keep = pikepdf.new(), []
         for i in sorted(k for k in scales if k.startswith(y)):
             src = pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')); keep.append(src)
             merged.pages.extend(src.pages)
         merged.save(os.path.join(OUT, name))
-    print(json.dumps({i: [scales[i], levels[i]] for i in scales}))
+    print(json.dumps({i: [scales[i], levels[i], 'condensed' if i in shorts else 'auto'] for i in scales}))
+    if failed: sys.exit(f'Not on one page: {sorted(failed)}')
 
 
 if __name__ == '__main__':
