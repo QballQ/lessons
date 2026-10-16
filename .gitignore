@@ -4,3 +4,5 @@ design/export_tools/docs_html/
 design/export_tools/doc_jobs.json
 design/export_tools/ready.json
 __pycache__/
+00_Teacher_Guide/One_pagers/source/fontcache/
+00_Teacher_Guide/One_pagers/source/html/
