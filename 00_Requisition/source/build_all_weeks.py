@@ -126,13 +126,15 @@ def build():
     pw.sheet_view.showGridLines = False
     pw['A1'] = 'Prep by week: how much time each lesson takes to get ready'
     st(pw['A1'], bold=True, size=14, wrap=False)
-    pw['A2'] = ('Minutes come from the kit cards where they give them; the rest are estimates (marked). "Could be done by someone else" means a technician, '
-                'assistant, reprographics or the students. Uses the classes and freezer plan on the All weeks sheet.')
+    pw['A2'] = ('Minutes come from the kit cards where they give them; the rest are estimates (marked). "After" is marking, the tracker and putting kit away. '
+                '"Could be done by someone else" means a technician, assistant, reprographics or the students. Uses the classes and freezer plan on the All weeks sheet: '
+                'until a Year 7 freezer plan is chosen, Weeks 5 to 8 count the prep for both plans.')
     st(pw['A2'], wrap=False)
     S0 = 4
-    scols = ['Week', 'Year 7 prep (min)', 'Year 7: could be done by someone else', 'Year 7 untimed tasks', 'Year 8 prep (min)',
-             'Year 8: could be done by someone else', 'Year 8 untimed tasks', 'Both years (hours)', 'Optional extras (min, not counted)']
-    swidths = [7, 12, 14, 10, 12, 14, 10, 11, 14]
+    scols = ['Week', 'Year 7: before the lesson (min)', 'Year 7: after (marking, admin)', 'Year 7: could be done by someone else',
+             'Year 8: before the lesson (min)', 'Year 8: after (marking, admin)', 'Year 8: could be done by someone else',
+             'Both years, before and after (hours)', 'Optional extras (min, not counted)']
+    swidths = [7, 13, 13, 14, 13, 13, 14, 13, 14]
     T0 = S0 + 14  # task table header row
     tcols = ['Week', 'Year', 'When', 'Task', 'Minutes (one class)', 'Minutes from', 'Who could do it', 'Once for all classes?',
              'Reused later', 'Optional?', 'Plan', 'Minutes for your classes']
@@ -166,10 +168,10 @@ def build():
         pw.cell(row=rr, column=1, value=w)
         for yi, (yr, base) in enumerate([('Year 7', 2), ('Year 8', 5)]):
             crit = f'{rng("A")},$A{rr},{rng("B")},"{yr}",{rng("J")},"No"'
-            pw.cell(row=rr, column=base, value=f'=SUMIFS({rng("L")},{crit})')
-            pw.cell(row=rr, column=base + 1, value=f'=SUMIFS({rng("L")},{crit},{rng("G")},"<>Teacher")')
-            pw.cell(row=rr, column=base + 2, value=f'=COUNTIFS({crit},{rng("E")},"")')
-        pw.cell(row=rr, column=8, value=f'=ROUND((B{rr}+E{rr})/60,1)')
+            pw.cell(row=rr, column=base, value=f'=SUMIFS({rng("L")},{crit},{rng("C")},"<>After the lesson")')
+            pw.cell(row=rr, column=base + 1, value=f'=SUMIFS({rng("L")},{crit},{rng("C")},"After the lesson")')
+            pw.cell(row=rr, column=base + 2, value=f'=SUMIFS({rng("L")},{crit},{rng("G")},"<>Teacher")')
+        pw.cell(row=rr, column=8, value=f'=ROUND((B{rr}+C{rr}+E{rr}+F{rr})/60,1)')
         pw.cell(row=rr, column=9, value=f'=SUMIFS({rng("L")},{rng("A")},$A{rr},{rng("J")},"Optional")')
         for i in range(1, 10):
             c = pw.cell(row=rr, column=i); st(c, align='center'); c.border = BOX
@@ -179,8 +181,8 @@ def build():
         pw.cell(row=rr, column=i, value=f'=SUM({col}{S0 + 1}:{col}{S0 + 10})')
     for i in range(1, 10):
         c = pw.cell(row=rr, column=i); st(c, bold=True, align='center', fill=HEAD); c.border = BOX
-    for col in 'BEH':
-        pw.conditional_formatting.add(f'{col}{S0 + 1}:{col}{S0 + 10}', DataBarRule(start_type='num', start_value=0, end_type='max', color='F5B335' if col == 'E' else '1F78B4'))
+    for col, colour in (('B', '1F78B4'), ('C', '9DB7D0'), ('E', 'F5B335'), ('F', 'F7D58F'), ('H', '00235F')):
+        pw.conditional_formatting.add(f'{col}{S0 + 1}:{col}{S0 + 10}', DataBarRule(start_type='num', start_value=0, end_type='max', color=colour))
     pw.cell(row=T0 - 1, column=1, value='All prep tasks')
     st(pw.cell(row=T0 - 1, column=1), bold=True, wrap=False, size=12)
     pw.freeze_panes = pw.cell(row=T0 + 1, column=1)
@@ -228,7 +230,11 @@ def cut_the_prep(ws, lessons, T0, tl, H, last):
         ('3. Make the reusable sets once, in one session before Week 1',
          'These are made once and reused in later weeks and by every class. Doing them together saves setting up and packing away each time.',
          None),
-        ('4. Drop or simplify the optional extras',
+        ('4. Separate the marking and admin from the prep',
+         'Much of the time in Weeks 1, 5 and 10 is marking the skills checks and checkpoints, entering the tracker and putting kit away after the lesson, not getting ready for it.',
+         [('After the lesson (min, one class)', f'=SUMIFS({rng("E")},{rng("C")},"After the lesson",{rng("J")},"No")'),
+          ('Before the lesson (min, one class)', f'=SUMIFS({rng("E")},{rng("C")},"<>After the lesson",{rng("J")},"No")')]),
+        ('5. Drop or simplify the optional extras',
          'Optional tasks are not counted in the totals; skipping them costs nothing in the lesson plan.',
          [('Optional extras (min, one class)', f'=SUMIFS({rng("E")},{rng("J")},"Optional")')]),
     ]
@@ -262,7 +268,7 @@ def cut_the_prep(ws, lessons, T0, tl, H, last):
     tot = defaultdict(int)
     for L in lessons:
         tot[L['id']] = sum(t['minutes'] or 0 for t in L['prep'] if not t['optional'])
-    ws.cell(row=r, column=1, value='5. The heaviest lessons to prepare (one class, both freezer plans counted)'); st(ws.cell(row=r, column=1), bold=True, size=12, wrap=False)
+    ws.cell(row=r, column=1, value='6. The heaviest lessons (one class, before and after the lesson, both freezer plans counted)'); st(ws.cell(row=r, column=1), bold=True, size=12, wrap=False)
     r += 1
     for i, h in enumerate(['Week', 'Year', 'Lesson', 'Minutes'], 1):
         c = ws.cell(row=r, column=i, value=h); st(c, bold=True, fill=HEAD); c.border = BOX

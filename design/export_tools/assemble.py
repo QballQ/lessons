@@ -28,6 +28,7 @@ for n in ['Teacher_Guide', 'Programme_Outline', 'Language_Access_Policy_Y7_Y8', 
     place(os.path.join(DOCS, n + '.pdf'), os.path.join(T, n + '.pdf'))
 place(os.path.join(REPO, '00_Requisition', 'Science_Requisition_Weeks_1_to_10.xlsx'), os.path.join(T, 'Science_Requisition_Weeks_1_to_10.xlsx'))
 place(os.path.join(REPO, '00_Tracker', 'Think_Like_a_Scientist_Tracker.xlsx'), os.path.join(T, 'Think_Like_a_Scientist_Tracker.xlsx'))
+place(os.path.join(REPO, '00_Requisition', 'Resources_Weeks_1_to_10_Y7_Y8.xlsx'), os.path.join(T, 'Resources_and_prep_Weeks_1_to_10_Y7_Y8.xlsx'))
 L = os.path.join(OUT, '02_Language_support_Y7_Y8')
 place(os.path.join(RAW, 'LS_Language_support_pack.pdf'), os.path.join(L, 'Language_support_pack_Y7_Y8.pdf'), 'print_pdf')
 place(os.path.join(RAW, 'LS_My_Science_Dictionary.pdf'), os.path.join(L, 'My_Science_Dictionary.pdf'), 'print_pdf')
@@ -45,7 +46,11 @@ for y, (folder, repodir) in YEARS.items():
         place(os.path.join(RAW, f'{pre}_slides.pdf'), os.path.join(wd, f'{pre}_Slides.pdf'), 'slides_pdf')
         place(os.path.join(RAW, f'{pre}_printables.pdf'), os.path.join(wd, f'{pre}_Printables.pdf'), 'print_pdf')
         place(os.path.join(DOCS, f'{pre}_lesson_file.pdf'), os.path.join(wd, f'{pre}_Lesson_file.pdf'))
+        if y in ('Y7', 'Y8'):
+            place(os.path.join(REPO, '00_Teacher_Guide', 'One_pagers', f'{pre}_One_pager.pdf'), os.path.join(wd, f'{pre}_One_pager.pdf'))
 place(os.path.join(DOCS, 'Y8_Case_Bible_teacher_only.pdf'), os.path.join(OUT, YEARS['Y8'][0], 'Y8_Case_Bible_TEACHER_ONLY.pdf'))
+for y, n in (('Y7', 'Year_7'), ('Y8', 'Year_8')):
+    place(os.path.join(REPO, '00_Teacher_Guide', 'One_pagers', f'{n}_One_pagers.pdf'), os.path.join(OUT, YEARS[y][0], f'{n}_One_pagers_all_weeks.pdf'))
 # zips: one per year (each with the read-me), one for programme-wide folders, one with everything
 Z = os.path.join(EA, 'zips'); shutil.rmtree(Z, ignore_errors=True); os.makedirs(Z)
 def zipdirs(name, dirs):

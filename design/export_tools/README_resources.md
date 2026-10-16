@@ -9,11 +9,11 @@ Exported on 15 October 2026 from the designed slides and printables in Claude De
 | Folder | What is inside |
 |---|---|
 | `00_Read_me` | This page, and the list of layout corrections made in these files. |
-| `01_Teacher_documents` | Teacher Guide, Programme Outline, Language Access Policy (Years 7 and 8), Glossary (Years 7 and 8), Tracker guide, the tracker workbook and the science requisition workbook (Excel). |
+| `01_Teacher_documents` | Teacher Guide, Programme Outline, Language Access Policy (Years 7 and 8), Glossary (Years 7 and 8), Tracker guide, the tracker workbook, the science requisition workbook, and the resources and prep workbook for Years 7 and 8 (every resource for every week on one sheet, prep time by week, and ways to cut the prep). |
 | `02_Language_support_Y7_Y8` | Language support pack (instruction words key, classroom language card, frame banks, role cards, poster) and My Science Dictionary. |
 | `03_Assessment` | Rubric, certificates and skills reports. The Week 1 skills checks and interest survey are in each year's Week 1 printables; the Week 5 checkpoints are in each year's Week 5 printables. |
-| `Year_7_Ice_Engineers` | One folder per week. |
-| `Year_8_Science_Detectives` | One folder per week, plus the Case Bible (teacher only, never give to students). |
+| `Year_7_Ice_Engineers` | One folder per week, plus all ten one-pagers in one file. |
+| `Year_8_Science_Detectives` | One folder per week, all ten one-pagers in one file, and the Case Bible (teacher only, never give to students). |
 | `Year_9_Claim_Busters` | One folder per week. |
 
 ### Inside each week folder
@@ -24,6 +24,7 @@ Exported on 15 October 2026 from the designed slides and printables in Claude De
 | `..._Slides.pdf` | Projecting or sharing when no editing is needed. Looks exactly like the design. |
 | `..._Printables.pdf` | Printing: worksheets, kit card, cards and any other printables for that week, each page at its own paper size (mostly A4; kit cards and logbook pages are A5). |
 | `..._Lesson_file.pdf` | The full lesson file for the teacher: lesson plan, timings, answer key and handover notes. |
+| `..._One_pager.pdf` (Years 7 and 8) | One page per lesson: the lesson at a glance, the prep with timings and who could do it, and what to print, get and have ready. All ten are also in one file in each year folder. |
 
 ### Notes
 

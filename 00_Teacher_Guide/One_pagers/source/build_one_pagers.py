@@ -25,6 +25,25 @@ FONTS = ('<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=
 e = lambda s: html.escape(str(s or ''))
 
 
+def short(text, n=110):
+    """First clause of a long instruction: text before the first colon, semicolon or full stop, then a word-boundary cut."""
+    t = str(text or '').strip()
+    for sep in (': ', '; ', '. ', ' (', ', then '):
+        i = t.find(sep)
+        if 18 <= i < len(t) - 1:
+            t = t[:i]
+            break
+    if len(t) > n:
+        t = t[:n].rsplit(' ', 1)[0] + '…'
+    return t.rstrip('.,;:')
+
+
+def first_sentence(text):
+    t = str(text or '').strip()
+    i = t.find('. ')
+    return t[:i + 1] if 0 < i < len(t) - 1 else t
+
+
 def qty_text(r):
     if r.get('quantity') is None:
         return r.get('quantity_text') or 'not stated'
@@ -55,52 +74,8 @@ def minutes_summary(prep):
     return out
 
 
-def page(L, scale):
-    s = SERIES[L['id'][:2]]
-    op = L['one_pager']
-    res = L['resources']
-    prep = L['prep']
-    # lesson flow
-    flow = ''.join(f'<tr><td class="ph">{e(f["phase"])}</td><td class="mn">{e(f["minutes"])}</td><td>{e(f["what"])}</td></tr>' for f in op['flow'])
-    total_min = sum(f['minutes'] for f in op['flow'])
-    goals = ''.join(f'<li>{e(g)}</li>' for g in op['goals'])
-    kws = ''.join(f'<span class="kw">{e(k["en"])} <span class="zh">{e(k["zh"])}</span></span>' for k in op['key_words'])
-    hazards = ''.join(f'<li>{e(h)}</li>' for h in op['hazards']) or '<li>No practical hazards beyond normal classroom rules.</li>'
-    watch = ''.join(f'<li>{e(w)}</li>' for w in op['watch_out'][:3])
-    # prep grouped by when
-    prep_html = ''
-    for when in WHEN_ORDER:
-        tasks = [t for t in prep if t['when'] == when]
-        if not tasks: continue
-        prep_html += f'<div class="when">{e(when)}</div>'
-        for t in tasks:
-            m = t.get('minutes')
-            mtxt = '' if m is None else (f'~{m} min' if t['minutes_source'] == 'estimate' else f'{m} min')
-            who = WHO_SHORT.get(t['who'], t['who'])
-            extra = []
-            if t.get('once_for_all_classes'): extra.append('once for all classes')
-            if t.get('reused_later'): extra.append(f'reused {t["reused_later"]}')
-            opt = ' <span class="opt">optional</span>' if t['optional'] else ''
-            meta = ' · '.join(x for x in [mtxt, who] + extra if x)
-            prep_html += f'<div class="task"><span class="box"></span><div><span class="tt">{e(t["task"])}</span>{opt}{plan_tag(t["plan"])}<span class="meta">{e(meta)}</span></div></div>'
-    msum = ''.join(f'<div class="tot">{e(x)}{" (some times estimated)" if est else ""}</div>' for x, est in minutes_summary(prep))
-    # resources
-    new = [r for r in res if not r.get('reuse')]
-    reused = [r for r in res if r.get('reuse')]
-    printing = [r for r in new if r['group'] == 'Printing (paper copies)' or r.get('paper') in ('A4 card',)]
-    other = [r for r in new if r not in printing]
-
-    def line(r, with_unit=True):
-        txt = f'{e(r["item"])} <b>{e(qty_text(r))}</b>'
-        if with_unit and r.get('unit'): txt += f' <span class="u">{e(r["unit"])}</span>'
-        if r['optional']: txt = f'<i>{txt} (optional)</i>'
-        return txt + plan_tag(r['plan'])
-    print_html = ''.join(f'<li>{line(r)}</li>' for r in printing) or '<li>Nothing to print.</li>'
-    other_html = '; '.join(line(r) for r in other) or 'Nothing new.'
-    reuse_html = ', '.join(e(r['item']) for r in reused) or 'Nothing.'
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{e(L["id"])} one-pager</title>{FONTS}
-<style>
-@page {{ size: A4; margin: 0; }}
+def css(s, scale):
+    return f'''@page {{ size: A4; margin: 0; }}
 html, body {{ margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }}
 body {{ font-family: 'Noto Sans', 'Noto Sans SC', sans-serif; color: #00235f; }}
 .page {{ width: 794px; min-height: 1123px; box-sizing: border-box; padding: 0 0 18px; font-size: {10.5 * scale:.2f}px; line-height: 1.32; }}
@@ -131,7 +106,64 @@ td.ph {{ font-weight: 700; white-space: nowrap; }} td.mn {{ text-align: right; w
 .small {{ font-size: {9.5 * scale:.2f}px; }}
 .safety {{ background: #fde6e8; border-left: 3px solid #c8102e; padding: 3px 8px; border-radius: 3px; }}
 .foot {{ display: flex; justify-content: space-between; color: #4d658f; font-size: {8.5 * scale:.2f}px; padding: 8px 36px 0; }}
-</style></head><body><div class="page">
+.meta2 {{ color: #4d658f; font-size: {9 * scale:.2f}px; white-space: nowrap; }}
+.two {{ columns: 2; column-gap: 14px; }}
+'''
+
+
+def page(L, scale, level=0):
+    s = SERIES[L['id'][:2]]
+    op = L['one_pager']
+    res = L['resources']
+    prep = L['prep']
+    # lesson flow
+    fw = (lambda t: t) if level == 0 else first_sentence
+    flow = ''.join(f'<tr><td class="ph">{e(f["phase"])}</td><td class="mn">{e(f["minutes"])}</td><td>{e(fw(f["what"]))}</td></tr>' for f in op['flow'])
+    total_min = sum(f['minutes'] for f in op['flow'])
+    goals = ''.join(f'<li>{e(g)}</li>' for g in op['goals'])
+    kws = ''.join(f'<span class="kw">{e(k["en"])} <span class="zh">{e(k["zh"])}</span></span>' for k in op['key_words'])
+    hazards = ''.join(f'<li>{e(h)}</li>' for h in op['hazards']) or '<li>No practical hazards beyond normal classroom rules.</li>'
+    watch = ''.join(f'<li>{e(w if level < 2 else first_sentence(w))}</li>' for w in op['watch_out'][:3 if level < 3 else 2])
+    if level >= 2:
+        hazards = ''.join(f'<li>{e(first_sentence(h))}</li>' for h in op['hazards'][:4]) or hazards
+    # prep grouped by when
+    prep_html = ''
+    for when in WHEN_ORDER:
+        tasks = [t for t in prep if t['when'] == when]
+        if not tasks: continue
+        prep_html += f'<div class="when">{e(when)}</div>'
+        for t in tasks:
+            m = t.get('minutes')
+            mtxt = '' if m is None else (f'~{m} min' if t['minutes_source'] == 'estimate' else f'{m} min')
+            who = WHO_SHORT.get(t['who'], t['who'])
+            extra = []
+            if t.get('once_for_all_classes'): extra.append('once for all classes')
+            if t.get('reused_later'): extra.append(f'reused {t["reused_later"]}')
+            opt = ' <span class="opt">optional</span>' if t['optional'] else ''
+            meta = ' · '.join(x for x in [mtxt, who] + extra if x)
+            ttxt = t['task'] if level == 0 else short(t['task'], 120 if level == 1 else 80)
+            if level >= 2: meta = ' · '.join(x for x in [mtxt, who] if x)
+            prep_html += f'<div class="task"><span class="box"></span><div><span class="tt">{e(ttxt)}</span>{opt}{plan_tag(t["plan"])}<span class="meta">{e(meta)}</span></div></div>'
+    msum = ''.join(f'<div class="tot">{e(x)}{" (some times estimated)" if est else ""}</div>' for x, est in minutes_summary(prep))
+    # resources
+    new = [r for r in res if not r.get('reuse')]
+    reused = [r for r in res if r.get('reuse')]
+    printing = [r for r in new if r['group'] == 'Printing (paper copies)' or r.get('paper') in ('A4 card',)]
+    other = [r for r in new if r not in printing]
+
+    def line(r, with_unit=True):
+        txt = f'{e(r["item"])} <b>{e(qty_text(r))}</b>'
+        if with_unit and r.get('unit'): txt += f' <span class="u">{e(r["unit"])}</span>'
+        if r['optional']: txt = f'<i>{txt} (optional)</i>'
+        return txt + plan_tag(r['plan'])
+    if level == 0:
+        print_html = '<ul class="small">' + (''.join(f'<li>{line(r)}</li>' for r in printing) or '<li>Nothing to print.</li>') + '</ul>'
+    else:
+        print_html = '<p class="small">' + ('; '.join(line(r, with_unit=(level == 1)) for r in printing) or 'Nothing to print.') + '</p>'
+    other_html = '; '.join(line(r, with_unit=(level == 0)) for r in other) or 'Nothing new.'
+    reuse_html = ', '.join(e(r['item']) for r in reused) or 'Nothing.'
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{e(L["id"])} one-pager</title>{FONTS}
+<style>{css(s, scale)}</style></head><body><div class="page">
 <div class="band"><div class="kick">{s['year']} · {e(s['name'])} <span class="zh">{e(s['zh'])}</span> · Week {L['week']} of 10 · {total_min} minutes</div>
 <h1>{e(L['title_en'])}<span class="zh">{e(L['title_zh'])}</span></h1></div>
 <div class="body">
@@ -146,16 +178,73 @@ td.ph {{ font-weight: 700; white-space: nowrap; }} td.mn {{ text-align: right; w
 <p class="small"><b>Collect or assess:</b> {e(op['assessment'])}</p>
 <h2>Safety</h2><div class="safety small"><ul>{hazards}</ul></div>
 <h2>Watch out</h2><ul class="small">{watch}</ul>
-<p class="small"><b>Language:</b> {e(op['language_note'])}</p>
-<p class="small"><b>Next week:</b> {e(op['next_week_link'])}</p>
+<p class="small"><b>Language:</b> {e(op['language_note'] if level < 2 else first_sentence(op['language_note']))}</p>
+<p class="small"><b>Next week:</b> {e(op['next_week_link'] if level < 2 else first_sentence(op['next_week_link']))}</p>
 </div>
 <div>
 <h2>Prep for one class</h2>
 {msum}
 {prep_html}
-<h2>Print</h2><ul class="small">{print_html}</ul>
+<h2>Print</h2>{print_html}
 <h2>Get or make</h2><p class="small">{other_html}</p>
 <p class="small"><b>Already have from earlier weeks:</b> {reuse_html}</p>
+</div>
+</div></div>
+<div class="foot"><span>Think Like a Scientist · {e(L['id'].replace('_', ' '))} · one-pager · full detail in the lesson file and the resources sheet</span><span>Chinese: draft, needs native-speaker check</span></div>
+</div></body></html>'''
+
+
+SHORT = os.path.join(HERE, 'one_pager_text.json')
+
+
+def page_short(L, sh, scale):
+    """Page from the condensed text (one_pager_text.json); prep totals still come from the full prep list."""
+    s = SERIES[L['id'][:2]]
+    total_min = sum(f['minutes'] for f in sh['flow'])
+    flow = ''.join(f'<tr><td class="ph">{e(f["phase"])}</td><td class="mn">{e(f["minutes"])}</td><td>{e(f["what"])}</td></tr>' for f in sh['flow'])
+    goals = ''.join(f'<li>{e(g)}</li>' for g in sh['goals'])
+    kws = ''.join(f'<span class="kw">{e(k["en"])} <span class="zh">{e(k["zh"])}</span></span>' for k in L['one_pager']['key_words'])
+    hazards = ''.join(f'<li>{e(h)}</li>' for h in sh['hazards']) or '<li>No practical hazards beyond normal classroom rules.</li>'
+    watch = ''.join(f'<li>{e(w)}</li>' for w in sh['watch_out'])
+    prep_html = ''
+    for when in WHEN_ORDER:
+        lines = [t for t in sh['prep_lines'] if t['when'] == when]
+        if not lines: continue
+        prep_html += f'<div class="when">{e(when)}</div>'
+        for t in lines:
+            m = '' if t.get('minutes') is None else f'{t["minutes"]} min'
+            meta = ' · '.join(x for x in [m, t['who']] if x)
+            opt = ' <span class="opt">optional</span>' if t['optional'] else ''
+            prep_html += f'<div class="task"><span class="box"></span><div><span class="tt">{e(t["text"])}</span>{opt}{plan_tag(t["plan"])} <span class="meta2">{e(meta)}</span></div></div>'
+    msum = ''.join(f'<div class="tot">{e(x)}{" (some times estimated)" if est else ""}</div>' for x, est in minutes_summary(L['prep']))
+    li = lambda items: ''.join(f'<li>{e(x)}</li>' for x in items)
+    reuse = ', '.join(e(x) for x in sh['reuse_items']) or 'Nothing.'
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{e(L["id"])} one-pager</title>{FONTS}
+<style>{css(s, scale)}</style></head><body><div class="page">
+<div class="band"><div class="kick">{s['year']} · {e(s['name'])} <span class="zh">{e(s['zh'])}</span> · Week {L['week']} of 10 · {total_min} minutes</div>
+<h1>{e(L['title_en'])}<span class="zh">{e(L['title_zh'])}</span></h1></div>
+<div class="body">
+<p class="idea">{e(sh['big_idea'])}</p>
+<ul>{goals}</ul>
+<div class="kws">{kws}</div>
+<div class="cols">
+<div>
+<h2>The lesson</h2>
+<table>{flow}</table>
+<p class="small"><b>Hands-on:</b> {e(sh['practical'])}</p>
+<p class="small"><b>Collect or assess:</b> {e(sh['assessment'])}</p>
+<h2>Safety</h2><div class="safety small"><ul>{hazards}</ul></div>
+<h2>Watch out</h2><ul class="small">{watch}</ul>
+<p class="small"><b>Language:</b> {e(sh['language_note'])}</p>
+<p class="small"><b>Next week:</b> {e(sh['next_week'])}</p>
+</div>
+<div>
+<h2>Prep for one class</h2>
+{msum}
+{prep_html}
+<h2>Print</h2><ul class="small">{li(sh['print_items']) or '<li>Nothing to print.</li>'}</ul>
+<h2>Get or make (new this lesson)</h2><ul class="small two">{li(sh['get_items']) or '<li>Nothing new.</li>'}</ul>
+<p class="small"><b>Have ready from earlier weeks:</b> {reuse}</p>
 </div>
 </div></div>
 <div class="foot"><span>Think Like a Scientist · {e(L['id'].replace('_', ' '))} · one-pager · full detail in the lesson file and the resources sheet</span><span>Chinese: draft, needs native-speaker check</span></div>
@@ -172,17 +261,26 @@ def main():
     lessons = sorted(json.load(open(DATA)), key=lambda L: L['id'])
     os.makedirs(HTML_DIR, exist_ok=True)
     scales = {L['id']: 1.0 for L in lessons}
+    levels = {L['id']: 0 for L in lessons}
     todo = [L['id'] for L in lessons]
     by_id = {L['id']: L for L in lessons}
-    for _ in range(12):
+    shorts = json.load(open(SHORT)) if os.path.exists(SHORT) else {}
+    for _ in range(40):
         for i in todo:
-            open(os.path.join(HTML_DIR, f'{i}_One_pager.html'), 'w', encoding='utf-8').write(page(by_id[i], scales[i]))
+            doc = page_short(by_id[i], shorts[i], scales[i]) if i in shorts and levels[i] == 0 else page(by_id[i], scales[i], levels[i])
+            open(os.path.join(HTML_DIR, f'{i}_One_pager.html'), 'w', encoding='utf-8').write(doc)
         heights = render([f'{i}_One_pager.html' for i in todo])
         todo = [f.replace('_One_pager.html', '') for f, h in heights.items() if h > PAGE_H]
         if not todo: break
-        for i in todo: scales[i] = round(scales[i] - 0.04, 2)
-        if any(scales[i] < 0.72 for i in todo):
-            sys.exit(f'Too long for one page even at 72%: {todo}')
+        for i in todo:
+            if i in shorts:  # condensed text: only shrink, never below 80%
+                if scales[i] > 0.815: scales[i] = round(scales[i] - 0.03, 2); continue
+                sys.exit(f'Condensed text still too long for one page: {i}')
+            # shrink to 88% at each level of condensing, then condense further and start again at 96%
+            if scales[i] > 0.885: scales[i] = round(scales[i] - 0.04, 2)
+            elif levels[i] < 3: levels[i] += 1; scales[i] = 0.96
+            elif scales[i] > 0.765: scales[i] = round(scales[i] - 0.03, 2)
+            else: sys.exit(f'Too long for one page: {i}')
     for i in scales:
         n = len(pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')).pages)
         if n != 1: sys.exit(f'{i} has {n} pages')
@@ -192,7 +290,7 @@ def main():
             src = pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')); keep.append(src)
             merged.pages.extend(src.pages)
         merged.save(os.path.join(OUT, name))
-    print(json.dumps(scales, indent=0))
+    print(json.dumps({i: [scales[i], levels[i]] for i in scales}))
 
 
 if __name__ == '__main__':
