@@ -24,6 +24,8 @@ Stage 3 (complete): all content written (Weeks 1 to 10, all years), assessment p
 | `00_Teacher_Guide/Teacher_Guide.md` | Everything the incoming teacher needs to run the programme |
 | `00_Language_Support/` | Language access policy, locked glossary, support printables, My Science Dictionary booklets (Years 7 and 8), and the October 2026 audit |
 | `00_Requisition/` | Science requisition for Weeks 1 to 10, all three years (Excel): order list, prep room check, canteen and kitchen, collect or borrow, week-by-week staging; totals follow the number of classes and the freezer plan |
+| `00_Requisition/Resources_Weeks_1_to_10_Y7_Y8.xlsx` | Years 7 and 8: every resource for every week on one sheet, prep time by week (before and after the lesson, and what someone else could do), and ways to cut the prep |
+| `00_Teacher_Guide/One_pagers/` | One A4 page per Year 7 and Year 8 lesson: the lesson at a glance, the prep with timings, and what to print, get and have ready (PDF, also as one file per year) |
 | `00_Tracker/Think_Like_a_Scientist_Tracker.xlsx` | Progress tracker, one tab per class, awards calculated automatically |
 | `design/brand-board.html` | Draft brand board (programme mark, series, colours, type, icons, templates) |
 | `design/assets/` | HIK \| SVS logo files |
