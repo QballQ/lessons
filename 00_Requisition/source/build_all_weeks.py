@@ -88,6 +88,8 @@ def build():
             r += 1
             q = x.get('quantity')
             reuse = x.get('reuse') or ''
+            if x.get('paper') == 'Booklet (reprographics)' and x.get('sheets_per_copy'):
+                x = dict(x, paper='A4 90 gsm (booklet)')  # booklets with a known page count count as 90 gsm A4 sheets
             vals = [L['week'], year_of(L), x['group'], x['item'], q if q is not None else None,
                     x.get('unit') or '' if q is not None else ((x.get('quantity_text') or 'not stated') + (('; ' + x['unit']) if x.get('unit') else '')),
                     'per ' + x['basis'], x['plan'] if x['plan'] != 'Both' else '', None, x.get('paper') or None,
