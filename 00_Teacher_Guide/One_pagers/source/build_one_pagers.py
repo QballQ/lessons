@@ -115,6 +115,7 @@ ul {{ margin: 2px 0 4px; padding-left: 16px; }} li {{ margin: 1px 0; }}
 .kws {{ display: flex; flex-wrap: wrap; gap: 4px 6px; margin: 4px 0 8px; }}
 .kw {{ background: {s['tint']}; border-radius: 4px; padding: 1px 6px; font-size: {9.5 * scale:.2f}px; font-weight: 600; }}
 .zh {{ font-family: 'Noto Sans SC', sans-serif; font-weight: 400; color: #4d658f; }}
+.band .zh {{ color: inherit; opacity: .9; }}
 .cols {{ display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }}
 h2 {{ font-size: {11 * scale:.2f}px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: {s['accent']}; margin: 8px 0 3px; border-bottom: 1.5px solid #b7c2d3; padding-bottom: 2px; }}
 table {{ border-collapse: collapse; width: 100%; }}

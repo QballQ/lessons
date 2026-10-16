@@ -253,6 +253,11 @@ def cut_the_prep(ws, lessons, T0, tl, H, last):
                             c = ws.cell(row=r, column=i, value=v); st(c, align='center' if i in (1, 4) else 'left'); c.border = BOX
             r += 1
         r += 1
+    ws.page_setup.orientation = 'portrait'
+    ws.page_setup.paperSize = ws.PAPERSIZE_A4
+    ws.page_setup.fitToWidth = 1
+    ws.page_setup.fitToHeight = 0
+    ws.sheet_properties.pageSetUpPr.fitToPage = True
     # heaviest lessons (computed here for one class, both plans)
     tot = defaultdict(int)
     for L in lessons:
