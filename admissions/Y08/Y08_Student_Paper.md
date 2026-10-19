@@ -179,7 +179,7 @@ Li Na and Jun are 13. They both want to swim. They show their student cards. How
 [[passage]]
 #### Lulu Learns a Word
 
-![A parrot sitting on a perch inside a big birdcage](diagrams/y08_e_rb_parrot.svg){.w25 .right}
+![A parrot sitting on a perch inside a big birdcage](diagrams/y08_e_rb_parrot.svg){.w30 .right}
 
 Zhang Wei's aunt was going away for a week, so Zhang Wei looked after her parrot, Lulu. Lulu was green, with a red patch on her head. She lived in a big cage by the window.
 

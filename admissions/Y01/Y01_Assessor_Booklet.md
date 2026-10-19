@@ -251,7 +251,7 @@ None of the five words is on the reading cards, so the child has not just seen t
 
 ## 4. Maths (12 minutes, student booklet pages 4 to 11)
 
-**Content:** the end of Reception (Early Years goals). **Section A: Number problems** (items 1 to 8, 8 marks). **Section B: Word problems and pictures** (items 9 to 15, 7 marks, including 3 word problems: items 11, 12 and 15). Total 15 marks.
+**Content:** the end of Reception (Early Years goals). **Section A: Number problems** (items 1 to 8, 8 marks). **Section B: Word problems and pictures** (items 9 to 15, 7 marks, with 3 word problems: 11, 12 and 15). Total 15 marks.
 
 #### How
 

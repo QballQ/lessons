@@ -192,7 +192,7 @@ name_footer: yes
 
 **2**
 
-![The picture story: Jun walks to school, it rains, Mei shares her umbrella, they arrive at school in the sun](diagrams/y02_e1_talk_umbrella.svg){.w55}
+![The picture story: Jun walks to school, it rains, Mei shares her umbrella, they arrive at school in the sun](diagrams/y02_e1_talk_umbrella.svg){.w75}
 
 [[lines:6]]
 

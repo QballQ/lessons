@@ -60,6 +60,8 @@ Write the child's name on page 1 if they cannot.
 
 Ask the prompts in order. Wait about 5 seconds before you move on. You may point to a picture, but do not name things for the child and do not correct their English. Write down what the child says, as exactly as you can.
 
+[[keep]]
+
 <div class="y-talk" markdown="1">
 
 | Step | Say (and point) | Listen for | What the child said |
@@ -71,6 +73,8 @@ Ask the prompts in order. Wait about 5 seconds before you move on. You may point
 | 5 Predict and connect | "What do you think Mei will do next?" Then: "Do you have plants or flowers at home? Tell me about them." | An idea of their own; talk about their own life | |
 
 </div>
+
+[[/keep]]
 
 **Speaking guide for this task.** Use it together with the interview. The speaking band goes on the interview record and in the score summary.
 
@@ -128,7 +132,6 @@ Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared
 - **If not:** as Year 2. Finish Section 1 (and Section 2 if Section 1 is 15 or more), then the letter sounds, the tricky words and the passages.
 
 Then give the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at **Level 2** (sentence 4).
-
 
 - The instructions for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`; those for the sentence reading are on `shared/Sentence_Reading_Record.md`. Follow their scoring and stopping rules. This booklet has no reading task of its own.
 - In Years 1 to 3 the **reading band** comes from the Early Reading Screen; the sentence reading screen confirms it (see the Sentence Reading Record, Section 7).
