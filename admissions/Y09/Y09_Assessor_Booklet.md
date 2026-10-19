@@ -37,7 +37,7 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 
 **Say (welcome):** "Hello, I am [name]. Thank you for coming today. These activities help us get to know you, so that we can help you when you join us. Some questions are easy and some are hard. Nobody gets everything right, and that is fine. Do your best. If you do not know an answer, go on to the next question. In the English parts, I can only repeat the instructions. In maths and science, I can read any question to you. Do you have any questions before we start?"
 
-**Access rules** (the same in every year group)
+#### Access rules (the same in every year group)
 
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
@@ -48,7 +48,7 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 
 Extra time, a reader or other arrangements for a known need are allowed: record them in the score summary.
 
-**Stopping rules**
+#### Stopping rules
 - The student may stop any section when they have done what they can. Say: "That is fine. Thank you. We will go on to the next part."
 - **Reading paper:** if the student cannot answer any of Part A after about 4 minutes, let them stop and record it. Do not move them on to Parts B and C.
 - **Writing:** if the student has written nothing in English after 3 minutes, say once: "Write anything you can in English: a few words or sentences about yourself is fine." Then let them stop when they wish.
@@ -110,13 +110,13 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | 7 | **The rain will not be a big problem.** | | |
 | 8 | **To warn Tom, or to remind him why he must bring his card** | Any answer that shows what happened to Jun because he forgot his card (he had to wait 20 minutes), or that Mei does not want the same thing to happen to Tom | "Jun is her friend"; "Jun was late"; an answer about lunch or dumplings |
 
-**Band guide**
+#### Band guide
 
 | Score | 0 to 2 | 3 to 4 | 5 to 6 | 7 | 8 |
 |---|---|---|---|---|---|
 | Listening band | A | B | C | D | E |
 
-**What to look for**
+#### What to look for
 - Questions 1 to 3 check the main points; 4 to 6 need exact detail and include distractors (8:45, cloudy, robots); 7 and 8 need implied meaning. A student who gets 1 to 6 but not 7 and 8 follows everyday talk but not yet what is meant: usually C.
 - A wrong answer that is a distractor (8:45, B in question 3) shows the student heard words but not how they connect ("leaves at", "in the morning").
 - Compare with listening in the interview (how much of your English the student understood). If the two differ by more than one band, use the interview as a check: some students freeze in a test, and some hide gaps in conversation with good routines.
@@ -163,7 +163,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | 20 | Vocabulary in context | It suddenly became very loud; everyone started cheering at once | 1 | very loud; suddenly noisy; people shouted and clapped. Do not accept a literal explosion or "something broke". |
 | 21 | Inference across the text | From frightened or nervous (start) to happy, proud, relieved or confident (end) | 1 | Both ends needed. |
 
-**Band guide** (use judgement when a result is uneven, and check against the sentence reading screen)
+#### Band guide (use judgement when a result is uneven, and check against the sentence reading screen)
 
 | Result | Band |
 |---|---|
@@ -173,7 +173,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | Part C 3 to 5 | **D** Competent |
 | Part C 6 to 8 | **E** Fluent |
 
-**What to look for**
+#### What to look for
 - **Strong readers** answer Part C in their own words, explain *why* (questions 18 and 19), and see the change in feeling (21). Retrieval-only answers in Part C, with inference questions blank, usually mean band C or a low D.
 - **An English barrier** looks like: Part A secure, Part B patchy, Part C blank or copied lines that do not answer the question. A student who reads aloud well (sentence reading) but scores low on Parts B and C may be decoding without understanding: see the meaning checks on the sentence reading record.
 - **Speed.** Note where the student was when time ran out. A student who answers everything they reach correctly but does not reach Part C may be a slow but accurate reader: give a D or C by judgement and say so.
@@ -205,7 +205,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 **Band E writing at this age.** A fluent 13 year old usually writes 150 to 250 words in 10 minutes, in paragraphs, with a clear opening and ending, a range of sentence types used for effect, controlled tenses, precise and sometimes ambitious vocabulary, and mostly accurate spelling and punctuation. The story has a voice and some suspense; the article sounds like an article (it speaks to the reader, gives reasons and examples, and ends with a conclusion).
 
-**What to look for**
+#### What to look for
 - Typical features of English from speakers of Chinese (missing articles, plural -s, past tense -ed, third person -s) are normal at bands C and D. Do not let them alone pull a well-organised, well-developed piece below D.
 - A memorised opening ("Once upon a time", "Nowadays, with the development of society") followed by very simple writing shows exam training more than fluency: band by what the student can produce independently.
 - A student who plans well (clear notes in the plan box) but writes little may have the ideas but not yet the English: note it, because it points to good progress with support.
@@ -256,7 +256,7 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 **Not tested this year** (not enough time): rotation and enlargement, scatter graphs, inequalities shown on a number line. Ask about them in the interview if they matter for placement.
 
-**What to look for**
+#### What to look for
 - **Number problems against word problems.** A student who scores well on Section A but poorly on the word problems (questions 7 to 10) may have an **English barrier rather than a maths difficulty**. Check by reading the word problem aloud in English, and, if a Chinese-speaking colleague is present, once in Chinese (mark it L). If the student then solves it quickly, record the barrier: it points to English support in maths lessons, not to a lower maths set.
 - **Strong responses** show clear, organised working, correct units, and confidence on the Grade 8 topics (factorising, Pythagoras, graphs). Many students from Chinese schools calculate quickly and accurately but leave out working: that is a habit, not a weakness, but they will need to show working in IGCSE later.
 - **Weak responses** show errors on taught topics (negative numbers, equations, percentages), not just on NT topics. If most of the lost marks are NT questions, write the likely band once taught in the summary.
@@ -279,12 +279,12 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 **Band guide** (provisional): 0 to 3: **1**; 4 to 5: **2**; 6 to 8: **3**; 9 to 10: **4**. Look at the NT questions before deciding.
 
-**What to look for**
+#### What to look for
 - **Working scientifically** (questions 5 and 7): a student who explains a fair test and spots the pattern in a table is likely to do well once taught, even with several NT questions.
 - **An English barrier** looks like: blank or wrong answers that become right when you read the question aloud, or explanations written in Chinese (mark L). Science vocabulary in English (producer, compound, mixture, ammeter) is often the gap: note the words the student did not know.
 - **Strong responses** give the reason as well as the answer in question 1(b) and name a sensible control variable in question 7(a).
 
-[[pagebreak]]
+[[keep]]
 
 ## 6. Score summary
 
@@ -308,3 +308,5 @@ Copy to `forms/Candidate_Summary_and_Decision`.
 [[lines:5]]
 
 [[field:Assessor signature and date]]
+
+[[/keep]]

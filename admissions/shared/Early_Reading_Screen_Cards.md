@@ -13,14 +13,14 @@ footer: Early Reading Screen | Reading cards
 .ers-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 7mm 4.5mm; margin: 12mm 0 0; }
 .ers-grid > div { box-sizing: border-box; width: 25.5mm; border: 1.6px solid #111; border-radius: 8px; text-align: center; font-family: 'Andika', sans-serif; line-height: 1.45; padding: 3mm 0 4mm; }
 .ers-letters > div { font-size: 46pt; }
-.ers-sounds > div { font-size: 38pt; }
+.ers-sounds { gap: 10mm 3mm; } .ers-sounds > div { font-size: 38pt; width: 27mm; }
 .cards.ers-words { gap: 6mm; margin: 8mm 0 0; }
 .cards.ers-words > div { position: relative; font-size: 40pt; line-height: 1.3; padding: 7.5mm 4mm; }
 .cards.ers-words > div.ers-c { padding-left: 22mm; }
 .ers-words svg.ers-icon { position: absolute; left: 4mm; top: 50%; transform: translateY(-50%); }
 .ers-num { position: absolute; top: 2mm; right: 3mm; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 9pt; line-height: 1; color: #777; }
-.ers-tricky { display: grid; grid-template-columns: repeat(4, 1fr); gap: 7mm 4mm; margin: 12mm 0 0; }
-.ers-tricky > div { position: relative; border: 1.6px solid #111; border-radius: 8px; text-align: center; font-family: 'Andika', sans-serif; font-size: 28pt; line-height: 1.3; padding: 6mm 1mm; }
+.ers-tricky { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10mm 4mm; margin: 14mm 0 0; }
+.ers-tricky > div { position: relative; border: 1.6px solid #111; border-radius: 8px; text-align: center; font-family: 'Andika', sans-serif; font-size: 28pt; line-height: 1.3; padding: 8mm 1mm; }
 .ers-pass { margin-top: 3mm; }
 .ers-pass h4 { font-size: 1.1em; margin: 1mm 0 3mm; }
 .ers-pass p { margin: 0 0 0.5em; }
@@ -51,14 +51,14 @@ The child reads from these cards, one to one. The scripts, scoring rules and rec
 | 6 | 7 | Phonics words, Section 2 | Words 21 to 30 |
 | 7 | 8 | Phonics words, Section 2 | Words 31 to 40 |
 | 8 | 9 | Tricky words | 20 common exception words |
-| 9 | 10 | Passages | Passage 1: Where Is the Cat? (Pink, ORT 1+, 23 words) |
-| 10 | 11 | Passages | Passage 2: At the Market (Red, ORT 2, 36 words) |
-| 11 | 12 | Passages | Passage 3: The Kite (Yellow, ORT 3, 57 words) |
-| 12 | 13 | Passages | Passage 4: A New Friend (Blue, ORT 4, 79 words) |
-| 13 | 14 | Passages | Passage 5: The Lucky Dumpling (Green, ORT 5, 99 words) |
-| 14 | 15 | Passages | Passage 6: The Fast Train (Orange, ORT 6, 126 words) |
-| 15 | 16 | Passages | Passage 7: The Rabbit Lantern (Turquoise and Purple, ORT 7 to 8, 151 words) |
-| 16 | 17 | Passages | Passage 8: The Drummer (Gold and White, ORT 9 to 10, 178 words) |
+| 9 | 10 | Passages | Passage 1: Where Is the Cat? (Pink, Oxford Level 1+, 23 words) |
+| 10 | 11 | Passages | Passage 2: At the Market (Red, Oxford Level 2, 36 words) |
+| 11 | 12 | Passages | Passage 3: The Kite (Yellow, Oxford Level 3, 57 words) |
+| 12 | 13 | Passages | Passage 4: A New Friend (Light Blue, Oxford Level 4, 79 words) |
+| 13 | 14 | Passages | Passage 5: The Lucky Dumpling (Green, Oxford Level 5, 99 words) |
+| 14 | 15 | Passages | Passage 6: The Fast Train (Orange, Oxford Level 6, 126 words) |
+| 15 | 16 | Passages | Passage 7: The Rabbit Lantern (Turquoise and Purple, Oxford Level 7 to 8, 151 words) |
+| 16 | 17 | Passages | Passage 8: The Drummer (Gold and White, Oxford Level 9 to 10, 178 words) |
 
 </div>
 
@@ -230,11 +230,11 @@ The child reads from these cards, one to one. The scripts, scoring rules and rec
 
 <p class="ers-tag">Card 9</p>
 
-<div class="passage ers-pass" style="font-size:32pt;line-height:1.75" markdown="1">
+<div class="passage ers-pass" style="font-size:36pt;line-height:1.7" markdown="1">
 
 #### Where Is the Cat?
 
-![A cat sitting on a striped mat](diagrams/ers_p1_cat.svg){.w40}
+![A cat sitting on a striped mat](diagrams/ers_p1_cat.svg){.w55}
 
 The cat is on the mat.<br>
 The cat is on the bed.<br>
@@ -251,7 +251,7 @@ The cat is on Dad!
 
 #### At the Market
 
-![A market stall with a striped roof, boxes of round fruit and a shopping bag](diagrams/ers_p2_market.svg){.w45}
+![A market stall with a striped roof, boxes of round fruit and a shopping bag](diagrams/ers_p2_market.svg){.w50}
 
 Mei and Gran go to the market.<br>
 Gran gets a fish.<br>
@@ -323,19 +323,21 @@ They played until the bell rang.
 
 ![A plate of steaming dumplings with a pair of chopsticks](diagrams/ers_p5_dumplings.svg){.w40}
 
-It was the day before Spring Festival. Lin and<br>
-Grandma were making dumplings in the kitchen.<br>
-Grandma hid a coin inside one of the dumplings.<br>
-“The person who finds the coin will be lucky all<br>
-year,” she said.
+It was the day before Spring Festival. Lin<br>
+and Grandma were making dumplings in the<br>
+kitchen. Grandma hid a coin inside one of the<br>
+dumplings. “The person who finds the coin<br>
+will be lucky all year,” she said.
 
-That evening, the whole family sat down to eat. Lin<br>
-ate one dumpling, then two, then three. There was<br>
-no coin. Lin was too full to eat any more.
+That evening, the whole family sat down to<br>
+eat. Lin ate one dumpling, then two, then<br>
+three. There was no coin. Lin was too full to<br>
+eat any more.
 
-Dad found nothing. Mum found nothing. Then<br>
-Grandpa bit into a dumpling and stopped. He<br>
-smiled and held up the shiny coin.
+Dad found nothing. Mum found nothing.<br>
+Then Grandpa bit into a dumpling and<br>
+stopped. He smiled and held up the<br>
+shiny coin.
 
 “Grandpa is the lucky one!” shouted Lin, and<br>
 everyone laughed.
@@ -352,23 +354,26 @@ everyone laughed.
 
 ![A long, fast train with a pointed nose moving along the track](diagrams/ers_p6_train.svg){.w45}
 
-Amir and his mum were going to visit his cousins in<br>
-Shanghai. At the station, the fast train was waiting. It<br>
-was long and white, with a pointed nose like a bird.
+Amir and his mum were going to visit his cousins<br>
+in Shanghai. At the station, the fast train was<br>
+waiting. It was long and white, with a pointed<br>
+nose like a bird.
 
-Amir found his seat next to a big window. At first, the<br>
-train moved slowly. Then it went faster and faster. Green<br>
-fields, rivers and tall buildings rushed past.
+Amir found his seat next to a big window. At first,<br>
+the train moved slowly. Then it went faster and<br>
+faster. Green fields, rivers and tall buildings<br>
+rushed past.
 
-“This train is even faster than our car!” said Amir.
+“This train is even faster than our car!”<br>
+said Amir.
 
-After a while, a lady pushed a trolley along the carriage.<br>
-Mum bought two bowls of noodles and a bottle of water.<br>
-Amir ate his noodles and looked out of the window.<br>
-Soon his eyes began to close.
+After a while, a lady pushed a trolley along the<br>
+carriage. Mum bought two bowls of noodles and a<br>
+bottle of water. Amir ate his noodles and looked<br>
+out of the window. Soon his eyes began to close.
 
-When he woke up, the train had stopped. “Wake up,<br>
-sleepy head,” said Mum. “We are here!”
+When he woke up, the train had stopped. “Wake<br>
+up, sleepy head,” said Mum. “We are here!”
 
 </div>
 
@@ -382,27 +387,28 @@ sleepy head,” said Mum. “We are here!”
 
 ![A paper rabbit lantern with one floppy ear, hanging from a stick under a full moon](diagrams/ers_p7_lantern.svg){.w35}
 
-Every year, Chen Yu’s class made paper lanterns for the<br>
-Mid-Autumn Festival. This year, Miss Wang showed them how<br>
-to make a rabbit.
+Every year, Chen Yu’s class made paper lanterns for<br>
+the Mid-Autumn Festival. This year, Miss Wang<br>
+showed them how to make a rabbit.
 
-Chen Yu cut out two long ears and glued them on carefully.<br>
-But when he held up his lantern, one ear flopped down. The<br>
-rabbit’s face was crooked, too. Next to him, Aisha had made a<br>
-perfect rabbit with neat pink eyes.
+Chen Yu cut out two long ears and glued them on<br>
+carefully. But when he held up his lantern, one ear<br>
+flopped down. The rabbit’s face was crooked, too. Next<br>
+to him, Aisha had made a perfect rabbit with neat<br>
+pink eyes.
 
 “Mine looks silly,” Chen Yu said quietly.
 
-That evening, his family walked to the park by the lake. The<br>
-full moon was round and bright, and hundreds of lanterns<br>
-glowed in the dark. Grandpa put a small light inside the rabbit,<br>
-and it began to shine.
+That evening, his family walked to the park by the lake.<br>
+The full moon was round and bright, and hundreds of<br>
+lanterns glowed in the dark. Grandpa put a small light<br>
+inside the rabbit, and it began to shine.
 
-A little girl pulled her mother’s sleeve. “Look at that rabbit!”<br>
-she said. “It is waving its ear at me!”
+A little girl pulled her mother’s sleeve. “Look at that<br>
+rabbit!” she said. “It is waving its ear at me!”
 
-Chen Yu looked at his lantern again. Then he smiled, lifted it<br>
-high and made the floppy ear wave hello.
+Chen Yu looked at his lantern again. Then he smiled,<br>
+lifted it high and made the floppy ear wave hello.
 
 </div>
 
@@ -410,32 +416,34 @@ high and made the floppy ear wave hello.
 
 <p class="ers-tag">Card 16</p>
 
-<div class="passage ers-pass" style="font-size:16pt;line-height:1.5" markdown="1">
+<div class="passage ers-pass" style="font-size:17pt;line-height:1.5" markdown="1">
 
 #### The Drummer
 
 ![A long dragon boat on the water with a dragon head, a row of paddlers and a drummer](diagrams/ers_p8_boat.svg){.w40}
 
-Zhang Wei had never felt so nervous. It was the Dragon Boat Festival,<br>
-and his school was racing three other boats on the lake. Twelve<br>
-children sat in two long rows, holding their paddles. At the front sat the<br>
-drummer, and this year the drummer was Zhang Wei.
+Zhang Wei had never felt so nervous. It was the Dragon<br>
+Boat Festival, and his school was racing three other boats<br>
+on the lake. Twelve children sat in two long rows, holding<br>
+their paddles. At the front sat the drummer, and this year<br>
+the drummer was Zhang Wei.
 
-“Remember,” said Coach Liu, “the paddlers listen to your drum. Keep<br>
-a steady beat, and they will paddle together.”
+“Remember,” said Coach Liu, “the paddlers listen to your<br>
+drum. Keep a steady beat, and they will paddle together.”
 
-The whistle blew, and the boats shot forward. Zhang Wei was so<br>
-excited that he beat the drum far too fast. Behind him, the paddles<br>
-splashed in a muddle, and the boat began to wobble. Another boat slid<br>
-past them.
+The whistle blew, and the boats shot forward. Zhang Wei<br>
+was so excited that he beat the drum far too fast. Behind<br>
+him, the paddles splashed in a muddle, and the boat began<br>
+to wobble. Another boat slid past them.
 
-Zhang Wei took a deep breath. He thought of the clock in his<br>
-classroom, ticking slowly and evenly. Boom, boom, boom. One by one,<br>
-the paddlers found the beat, and the boat flew across the water like an<br>
-arrow.
+Zhang Wei took a deep breath. He thought of the clock in<br>
+his classroom, ticking slowly and evenly. Boom, boom,<br>
+boom. One by one, the paddlers found the beat, and the<br>
+boat flew across the water like an arrow.
 
-They did not win, but they came a close second. Afterwards, Coach Liu<br>
-shook Zhang Wei’s hand. “A good drummer does not just make a<br>
-noise,” she said. “A good drummer listens.”
+They did not win, but they came a close second.<br>
+Afterwards, Coach Liu shook Zhang Wei’s hand. “A good<br>
+drummer does not just make a noise,” she said. “A good<br>
+drummer listens.”
 
 </div>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="600" height="170">
+  <title>Three pictures to choose from: A a mobile phone, B an electric bus, C a bridge</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="70" y="14" width="50" height="100" rx="9" fill="#e6e6e6"/>
+    <rect x="76" y="26" width="38" height="70" rx="3" fill="#fff"/>
+    <circle cx="95" cy="105" r="4.5" fill="#fff"/>
+    <line x1="88" y1="20" x2="102" y2="20" stroke-width="2"/>
+  </g>
+  <g transform="translate(205 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 18 40 Q 18 30 28 30 L 160 30 Q 172 30 172 44 L 172 98 L 18 98 Z" fill="#e6e6e6"/>
+    <rect x="28" y="40" width="26" height="22" rx="3" fill="#fff"/>
+    <rect x="62" y="40" width="26" height="22" rx="3" fill="#fff"/>
+    <rect x="96" y="40" width="26" height="22" rx="3" fill="#fff"/>
+    <rect x="134" y="40" width="28" height="48" rx="3" fill="#fff"/>
+    <line x1="148" y1="40" x2="148" y2="88" stroke-width="2"/>
+    <circle cx="50" cy="100" r="11" fill="#fff"/><circle cx="140" cy="100" r="11" fill="#fff"/>
+    <path d="M 40 72 L 52 72 L 46 82 L 58 82 L 42 94 L 47 84 L 36 84 Z" fill="#7a7a7a" stroke-width="1.5"/>
+    <line x1="8" y1="113" x2="182" y2="113" stroke-width="2.5"/>
+  </g>
+  <g transform="translate(410 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 12 56 L 178 56 L 178 66 L 12 66 Z" fill="#e6e6e6"/>
+    <path d="M 30 66 Q 95 -4 160 66" fill="none" stroke-width="3"/>
+    <line x1="52" y1="42" x2="52" y2="56"/><line x1="74" y1="30" x2="74" y2="56"/><line x1="95" y1="26" x2="95" y2="56"/>
+    <line x1="116" y1="30" x2="116" y2="56"/><line x1="138" y1="42" x2="138" y2="56"/>
+    <rect x="24" y="66" width="12" height="40" fill="#bdbdbd"/><rect x="154" y="66" width="12" height="40" fill="#bdbdbd"/>
+    <path d="M 8 100 q 10 -7 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none"/>
+    <path d="M 8 114 q 10 -7 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none"/>
+  </g>
+  <rect x="1.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="77" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <rect x="97" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="206.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="282" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">B</text>
+  <rect x="302" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="411.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="487" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">C</text>
+  <rect x="507" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

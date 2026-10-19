@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="600" height="170">
+  <title>Three pictures to choose from: A painting, B a radio with a screwdriver, C a football</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 40 70 C 40 30 100 18 140 36 C 166 48 160 78 136 80 C 118 82 124 100 104 108 C 72 120 40 104 40 70 Z" fill="#e6e6e6"/>
+    <circle cx="72" cy="88" r="9" fill="#fff"/>
+    <circle cx="70" cy="52" r="8" fill="#7a7a7a"/><circle cx="96" cy="40" r="8" fill="#bdbdbd"/>
+    <circle cx="124" cy="46" r="8" fill="#fff"/><circle cx="104" cy="70" r="8" fill="#7a7a7a"/>
+    <line x1="120" y1="122" x2="172" y2="20" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 172 20 L 178 8 L 170 14 Z" fill="#111"/>
+  </g>
+  <g transform="translate(205 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <line x1="120" y1="40" x2="150" y2="10"/>
+    <rect x="28" y="40" width="120" height="70" rx="8" fill="#e6e6e6"/>
+    <circle cx="64" cy="75" r="22" fill="#fff"/>
+    <circle cx="58" cy="69" r="2.5" fill="#111"/><circle cx="70" cy="69" r="2.5" fill="#111"/><circle cx="58" cy="81" r="2.5" fill="#111"/><circle cx="70" cy="81" r="2.5" fill="#111"/><circle cx="64" cy="75" r="2.5" fill="#111"/>
+    <rect x="98" y="54" width="38" height="14" rx="2" fill="#fff"/>
+    <circle cx="117" cy="90" r="9" fill="#bdbdbd"/>
+    <path d="M 152 118 L 120 92" stroke-width="3.5" stroke-linecap="round"/>
+    <rect x="150" y="112" width="30" height="12" rx="5" transform="rotate(38 165 118)" fill="#7a7a7a"/>
+  </g>
+  <g transform="translate(410 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+  <circle cx="95" cy="66" r="50" fill="#fff"/>
+  <path d="M 95 49 L 78.8 60.7 L 85 79.8 L 105 79.8 L 111.2 60.7 Z" fill="#111"/>
+  <line x1="95" y1="49" x2="95" y2="32"/>
+  <path d="M 112.1 19 L 95 32 L 77.9 19" fill="none"/>
+  <line x1="78.8" y1="60.7" x2="62.7" y2="55.5"/>
+  <path d="M 55.6 35.2 L 62.7 55.5 L 45 67.7" fill="none"/>
+  <line x1="85" y1="79.8" x2="75" y2="93.5"/>
+  <path d="M 53.5 94 L 75 93.5 L 81.2 114.1" fill="none"/>
+  <line x1="105" y1="79.8" x2="115" y2="93.5"/>
+  <path d="M 108.8 114.1 L 115 93.5 L 136.5 94" fill="none"/>
+  <line x1="111.2" y1="60.7" x2="127.3" y2="55.5"/>
+  <path d="M 145 67.7 L 127.3 55.5 L 134.4 35.2" fill="none"/>
+  </g>
+  <rect x="1.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="77" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <rect x="97" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="206.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="282" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">B</text>
+  <rect x="302" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="411.5" y="1.5" width="187" height="130" rx="10" fill="none" stroke="#111" stroke-width="2.5"/>
+  <text x="487" y="162" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">C</text>
+  <rect x="507" y="143" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

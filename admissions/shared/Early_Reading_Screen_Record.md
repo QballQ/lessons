@@ -48,14 +48,14 @@ footer: Early Reading Screen | Record and instructions
 
 **You need:** the reading cards; one set of record sheets; a pencil; a watch; a plain card to cover lines if the child finds a full card too busy; a levelled book from the school's assessment set (optional, see 5.5).
 
-**The passages**
+**The passages.** Each passage is matched to a book band and an Oxford Level (the levels used for Oxford Reading Tree books), so a real levelled book at the same level can be used in its place (5.5).
 
-| Passage | Card | Title | Book band | ORT | Words | Independent: errors at most | Pass (90%): errors at most | Pass: questions at least |
+| Passage | Card | Title | Book band | Oxford Level | Words | Independent: errors at most | Pass (90%): errors at most | Pass: questions at least |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 9 | Where Is the Cat? | Pink | 1+ | 23 | 1 | 2 | 2 of 3 |
 | 2 | 10 | At the Market | Red | 2 | 36 | 1 | 3 | 2 of 3 |
 | 3 | 11 | The Kite | Yellow | 3 | 57 | 2 | 5 | 2 of 4 |
-| 4 | 12 | A New Friend | Blue | 4 | 79 | 3 | 7 | 2 of 4 |
+| 4 | 12 | A New Friend | Light Blue | 4 | 79 | 3 | 7 | 2 of 4 |
 | 5 | 13 | The Lucky Dumpling | Green | 5 | 99 | 4 | 9 | 2 of 4 |
 | 6 | 14 | The Fast Train | Orange | 6 | 126 | 6 | 12 | 2 of 4 |
 | 7 | 15 | The Rabbit Lantern | Turquoise and Purple | 7 to 8 | 151 | 7 | 15 | 2 of 4 |
@@ -82,7 +82,7 @@ Words skipped by a start rule are not scored: write "start rule" across them, an
 | Section 1 8 to 15 | Passage 1, Pink (Card 9) |
 | Section 1 16 or more, and Section 2 under 8 or not given | Passage 2, Red (Card 10) |
 | Section 2 8 to 13 | Passage 3, Yellow (Card 11) |
-| Section 2 14 to 17 | Passage 4, Blue (Card 12) |
+| Section 2 14 to 17 | Passage 4, Light Blue (Card 12) |
 | Section 2 18 or more | Passage 5, Green (Card 13). Year 3 and older: Passage 6, Orange (Card 14). |
 
 ### Moving between passages
@@ -310,9 +310,9 @@ Point to the big creature, then to **jop**. **Say:** "Look. This is a creature. 
 - You may use a real levelled book at the same band instead of a passage, for example an Oxford Reading Tree book from the school's assessment set. The book list is in `01_Reading_Books_and_Materials.md`.
 - Choose a book the child has not read. Ask: "Have you read this book before?"
 - Use the same method: introduce it with the title and one sentence, then use the same marks, error rules, accuracy levels, self-correction rate and fluency scale.
-- Pink to Yellow: use the whole book. Blue and above: use a section of about 100 to 150 words, and count the words before you start.
+- Pink to Yellow: use the whole book. Light Blue and above: use a section of about 100 to 150 words, and count the words before you start.
 - Use **Sheet 12**. Before you start, write 3 or 4 questions (literal, inference, vocabulary, and prediction or personal response) and the answers you expect. A pass is the same: 90% or more and at least half the questions.
-- Write the book's title, band and ORT level on the summary sheet.
+- Write the book's title, band and Oxford Level on the summary sheet.
 
 ## 6. What the results mean
 
@@ -325,7 +325,7 @@ Point to the big creature, then to **jop**. **Say:** "Look. This is a creature. 
 | Section 1: 16 or more / 20 | Blending is secure with single letters, consonant digraphs and adjacent consonants. |
 | Section 1: under 12 | Blending is not yet secure. The child needs phonics teaching from the early stages. |
 | Section 2: 14 or more / 20 | Vowel digraphs and split digraphs are mostly secure. |
-| Section 1 secure, Section 2 under 10 | Single letters and blends are secure; vowel digraphs and split digraphs are not yet. Typical of a fluent English reader at the end of Reception. |
+| Section 1 secure, Section 2 under 10 | Single letters and blends are secure; vowel digraphs and split digraphs are not yet. Typical of a fluent English reader partway through Reception. |
 | Both sections secure | Decoding is secure for Key Stage 1 phonics. The next limit is vocabulary and understanding: look at the passages. |
 | Tricky words: 8 or more of the Year 1 words (or of the Year 2 words) | The common exception words for that year are known by sight. |
 
@@ -365,30 +365,33 @@ Point to the big creature, then to **jop**. **Say:** "Look. This is a creature. 
 
 ### 6.6 Book bands: what a fluent English reader usually reads
 
-A guide only. Expectations vary between schools and between reading schemes, and many children read above or below these bands.
+These are **Oxford's guide figures for fluent English readers** (Oxford levelling guidance: end of Reception Oxford Level 3, end of Year 1 Level 6, end of Year 2 Level 10, end of Year 3 Level 13). Oxford says the chart is a guide only, and schools vary. **Most children joining from Chinese schools will read below these bands at entry. That is expected**, and it is what the A to E band in 6.7 takes into account: the band describes how far the child's English reading has come, compared with these figures.
 
-| Point in the school year | Age (about) | Book band | ORT level | Phonics on this screen |
+| Point in the school year | Age (about) | Book band | Oxford Level | Phonics on this screen |
 |---|---|---|---|---|
-| Start of Year 1 | 5 | Red to Yellow | 2 to 3 | Most letter sounds; Section 1 mostly right |
-| Start of Year 2 | 6 | Green to Orange | 5 to 6 | Section 1 secure; Section 2 mostly right |
-| Start of Year 3 | 7 | Purple to Gold | 8 to 9 | Both sections secure; tricky words known |
-| Start of Year 4 | 8 | White to Lime and above | 10 to 11 and above | Secure. Lime and above is beyond the top of this screen. |
+| Start of Year 1 | 5 | Yellow | 3 | Letter sounds and Section 1 mostly secure; some of Section 2 |
+| Start of Year 2 | 6 | Orange | 6 | Sections 1 and 2 mostly secure |
+| Start of Year 3 | 7 | White | 10 | Secure; tricky words known |
+| Start of Year 4 | 8 | Lime and above | 11 and above | Secure. Beyond the top of this screen (Passage 8 is Gold and White). |
+
+Oxford Levels and book bands, for matching a real book: 1 Lilac, 1+ Pink, 2 Red, 3 Yellow, 4 Light Blue, 5 Green, 6 Orange, 7 Turquoise, 8 Purple, 9 Gold, 10 White, 11 Lime.
 
 ### 6.7 Band guide: the reading band A to E
 
-Use the column for the child's age (the year group they are joining). "Passage" means the book band level: the highest passage passed. Band E means comparable to a fluent English reader of the same age.
+Use the column for the year group the child is joining. "Passage" means the book band level: the highest passage passed (5.4). Band E means comparable to a fluent English reader of the same age, so it is set at the Oxford figures in 6.6.
 
-| Reading band | Age 5 (joining Year 1) | Age 6 (joining Year 2) | Age 7 (joining Year 3) |
+| Reading band | Age 5, joining Year 1 (fluent readers: about Yellow) | Age 6, joining Year 2 (fluent readers: about Orange) | Age 7, joining Year 3 (fluent readers: about White) |
 |---|---|---|---|
 | **A** New to English | Fewer than 10 letter sounds; reads no words. | Fewer than 10 letter sounds, or fewer than 4 Section 1 words. | Fewer than 8 Section 1 words; no passage. |
-| **B** Early acquisition | 10 or more letter sounds; reads 1 to 9 Section 1 words. | Reads 4 or more Section 1 words; not yet Passage 1. | 8 or more Section 1 words; Passage 1 or 2 (Pink, Red), or no passage yet. |
-| **C** Developing competence | Section 1: 10 or more; not yet Passage 1. | Passage 1 or 2 (Pink, Red). | Passage 3 or 4 (Yellow, Blue). |
-| **D** Competent | Passage 1 (Pink). | Passage 3 or 4 (Yellow, Blue). | Passage 5 or 6 (Green, Orange). |
-| **E** Fluent | Passage 2 (Red) or above. | Passage 5 (Green) or above. | Passage 7 (Turquoise and Purple) with 3 or 4 questions right, or Passage 8 (Gold and White). |
+| **B** Early acquisition | 10 or more letter sounds; reads 1 to 9 Section 1 words. | 4 or more Section 1 words but no passage; or Passage 1 (Pink). | 8 or more Section 1 words but no passage; or Passage 1, 2 or 3 (Pink, Red, Yellow). |
+| **C** Developing competence | Section 1: 10 or more but no passage; or Passage 1 (Pink). | Passage 2 or 3 (Red, Yellow). | Passage 4 or 5 (Light Blue, Green). |
+| **D** Competent | Passage 2 (Red). | Passage 4 or 5 (Light Blue, Green). | Passage 6 or 7 (Orange; Turquoise and Purple). |
+| **E** Fluent | Passage 3 (Yellow) or above. | Passage 6 (Orange) or above. | Passage 8 (Gold and White). |
 
+- **E also needs reading that sounds fluent for the age:** fluency 3 or 4 and most of the questions right at that level. If not, give D.
 - **Best fit, not a formula.** If the results are uneven (for example Passage 4 passed with very few letter sounds known), use judgement and say why in the notes. Check against the Graded Sentence Reading Screen and the listening and speaking bands.
 - **Joining later in the school year:** expect a little more for D and E, about one passage higher by the second half of the year.
-- **An older student new to English:** this screen only finds the floor. As a guide: below Pink, A; Pink to Yellow, B; Blue to Orange, C. If they pass Passage 7 or 8, their band comes from the year group's reading paper. Use the letter sound and phonics results to plan teaching.
+- **An older student new to English:** this screen only finds the floor. As a guide: below Pink, A; Pink to Yellow, B; Light Blue to Orange, C. If they pass Passage 7 or 8, their band comes from the year group's reading paper. Use the letter sound and phonics results to plan teaching.
 
 [[pagebreak]]
 
@@ -497,12 +500,12 @@ Year 1 words: ______ / 10 &nbsp; Year 2 words: ______ / 10 &nbsp; Total: ______ 
 
 #### Passages: quick reference
 
-| Passage | Card | Title | Book band | ORT | Words | Independent: errors at most | Pass (90%): errors at most | Pass: questions at least |
+| Passage | Card | Title | Book band | Oxford Level | Words | Independent: errors at most | Pass (90%): errors at most | Pass: questions at least |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 9 | Where Is the Cat? | Pink | 1+ | 23 | 1 | 2 | 2 of 3 |
 | 2 | 10 | At the Market | Red | 2 | 36 | 1 | 3 | 2 of 3 |
 | 3 | 11 | The Kite | Yellow | 3 | 57 | 2 | 5 | 2 of 4 |
-| 4 | 12 | A New Friend | Blue | 4 | 79 | 3 | 7 | 2 of 4 |
+| 4 | 12 | A New Friend | Light Blue | 4 | 79 | 3 | 7 | 2 of 4 |
 | 5 | 13 | The Lucky Dumpling | Green | 5 | 99 | 4 | 9 | 2 of 4 |
 | 6 | 14 | The Fast Train | Orange | 6 | 126 | 6 | 12 | 2 of 4 |
 | 7 | 15 | The Rabbit Lantern | Turquoise and Purple | 7 to 8 | 151 | 7 | 15 | 2 of 4 |
@@ -516,7 +519,7 @@ Record each passage you use on its own sheet (Sheets 4 to 11). For a real levell
 
 [[field:Candidate name]]
 
-**Pink band, ORT 1+. 23 words (the title is not counted). Card 9.**
+**Pink band, Oxford Level 1+. 23 words (the title is not counted). Card 9.**
 
 **Say:** "This story is called *Where Is the Cat?*. It is about a cat at home. Read it to me, please. If you do not know a word, try it."
 
@@ -567,7 +570,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Red band, ORT 2. 36 words (the title is not counted). Card 10.**
+**Red band, Oxford Level 2. 36 words (the title is not counted). Card 10.**
 
 **Say:** "This story is called *At the Market*. It is about a girl called Mei. Read it to me, please. If you do not know a word, try it."
 
@@ -621,7 +624,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Yellow band, ORT 3. 57 words (the title is not counted). Card 11.**
+**Yellow band, Oxford Level 3. 57 words (the title is not counted). Card 11.**
 
 **Say:** "This story is called *The Kite*. It is about a boy called Tom. Read it to me, please. If you do not know a word, try it."
 
@@ -679,7 +682,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Blue band, ORT 4. 79 words (the title is not counted). Card 12.**
+**Light Blue band, Oxford Level 4. 79 words (the title is not counted). Card 12.**
 
 **Say:** "This story is called *A New Friend*. It is about a boy called Hao at school. Read it to me, please. If you do not know a word, try it."
 
@@ -741,7 +744,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Green band, ORT 5. 99 words (the title is not counted). Card 13.**
+**Green band, Oxford Level 5. 99 words (the title is not counted). Card 13.**
 
 **Say:** "This story is called *The Lucky Dumpling*. It is about a girl called Lin at Spring Festival. Read it to me, please. If you do not know a word, try it."
 
@@ -749,19 +752,21 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 | Line | Text: write your marks above the words | E | SC |
 |---|---|---|---|
-| 1 | It was the day before Spring Festival. Lin and | | |
-| 2 | Grandma were making dumplings in the kitchen. | | |
-| 3 | Grandma hid a coin inside one of the dumplings. | | |
-| 4 | “The person who finds the coin will be lucky all | | |
-| 5 | year,” she said. | | |
-| 6 | That evening, the whole family sat down to eat. Lin | | |
-| 7 | ate one dumpling, then two, then three. There was | | |
-| 8 | no coin. Lin was too full to eat any more. | | |
-| 9 | Dad found nothing. Mum found nothing. Then | | |
-| 10 | Grandpa bit into a dumpling and stopped. He | | |
-| 11 | smiled and held up the shiny coin. | | |
-| 12 | “Grandpa is the lucky one!” shouted Lin, and | | |
-| 13 | everyone laughed. | | |
+| 1 | It was the day before Spring Festival. Lin | | |
+| 2 | and Grandma were making dumplings in the | | |
+| 3 | kitchen. Grandma hid a coin inside one of the | | |
+| 4 | dumplings. “The person who finds the coin | | |
+| 5 | will be lucky all year,” she said. | | |
+| 6 | That evening, the whole family sat down to | | |
+| 7 | eat. Lin ate one dumpling, then two, then | | |
+| 8 | three. There was no coin. Lin was too full to | | |
+| 9 | eat any more. | | |
+| 10 | Dad found nothing. Mum found nothing. | | |
+| 11 | Then Grandpa bit into a dumpling and | | |
+| 12 | stopped. He smiled and held up the | | |
+| 13 | shiny coin. | | |
+| 14 | “Grandpa is the lucky one!” shouted Lin, and | | |
+| 15 | everyone laughed. | | |
 | | **Totals** | | |
 
 </div>
@@ -802,7 +807,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Orange band, ORT 6. 126 words (the title is not counted). Card 14.**
+**Orange band, Oxford Level 6. 126 words (the title is not counted). Card 14.**
 
 **Say:** "This story is called *The Fast Train*. It is about a boy called Amir. Read it to me, please. If you do not know a word, try it."
 
@@ -810,19 +815,22 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 | Line | Text: write your marks above the words | E | SC |
 |---|---|---|---|
-| 1 | Amir and his mum were going to visit his cousins in | | |
-| 2 | Shanghai. At the station, the fast train was waiting. It | | |
-| 3 | was long and white, with a pointed nose like a bird. | | |
-| 4 | Amir found his seat next to a big window. At first, the | | |
-| 5 | train moved slowly. Then it went faster and faster. Green | | |
-| 6 | fields, rivers and tall buildings rushed past. | | |
-| 7 | “This train is even faster than our car!” said Amir. | | |
-| 8 | After a while, a lady pushed a trolley along the carriage. | | |
-| 9 | Mum bought two bowls of noodles and a bottle of water. | | |
-| 10 | Amir ate his noodles and looked out of the window. | | |
-| 11 | Soon his eyes began to close. | | |
-| 12 | When he woke up, the train had stopped. “Wake up, | | |
-| 13 | sleepy head,” said Mum. “We are here!” | | |
+| 1 | Amir and his mum were going to visit his cousins | | |
+| 2 | in Shanghai. At the station, the fast train was | | |
+| 3 | waiting. It was long and white, with a pointed | | |
+| 4 | nose like a bird. | | |
+| 5 | Amir found his seat next to a big window. At first, | | |
+| 6 | the train moved slowly. Then it went faster and | | |
+| 7 | faster. Green fields, rivers and tall buildings | | |
+| 8 | rushed past. | | |
+| 9 | “This train is even faster than our car!” | | |
+| 10 | said Amir. | | |
+| 11 | After a while, a lady pushed a trolley along the | | |
+| 12 | carriage. Mum bought two bowls of noodles and a | | |
+| 13 | bottle of water. Amir ate his noodles and looked | | |
+| 14 | out of the window. Soon his eyes began to close. | | |
+| 15 | When he woke up, the train had stopped. “Wake | | |
+| 16 | up, sleepy head,” said Mum. “We are here!” | | |
 | | **Totals** | | |
 
 </div>
@@ -863,7 +871,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Turquoise and Purple band, ORT 7 to 8. 151 words (the title is not counted). Card 15.**
+**Turquoise and Purple band, Oxford Level 7 to 8. 151 words (the title is not counted). Card 15.**
 
 **Say:** "This story is called *The Rabbit Lantern*. It is about a boy called Chen Yu at the Mid-Autumn Festival. Read it to me, please. If you do not know a word, try it."
 
@@ -871,22 +879,23 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 | Line | Text: write your marks above the words | E | SC |
 |---|---|---|---|
-| 1 | Every year, Chen Yu’s class made paper lanterns for the | | |
-| 2 | Mid-Autumn Festival. This year, Miss Wang showed them how | | |
-| 3 | to make a rabbit. | | |
-| 4 | Chen Yu cut out two long ears and glued them on carefully. | | |
-| 5 | But when he held up his lantern, one ear flopped down. The | | |
-| 6 | rabbit’s face was crooked, too. Next to him, Aisha had made a | | |
-| 7 | perfect rabbit with neat pink eyes. | | |
-| 8 | “Mine looks silly,” Chen Yu said quietly. | | |
-| 9 | That evening, his family walked to the park by the lake. The | | |
-| 10 | full moon was round and bright, and hundreds of lanterns | | |
-| 11 | glowed in the dark. Grandpa put a small light inside the rabbit, | | |
-| 12 | and it began to shine. | | |
-| 13 | A little girl pulled her mother’s sleeve. “Look at that rabbit!” | | |
-| 14 | she said. “It is waving its ear at me!” | | |
-| 15 | Chen Yu looked at his lantern again. Then he smiled, lifted it | | |
-| 16 | high and made the floppy ear wave hello. | | |
+| 1 | Every year, Chen Yu’s class made paper lanterns for | | |
+| 2 | the Mid-Autumn Festival. This year, Miss Wang | | |
+| 3 | showed them how to make a rabbit. | | |
+| 4 | Chen Yu cut out two long ears and glued them on | | |
+| 5 | carefully. But when he held up his lantern, one ear | | |
+| 6 | flopped down. The rabbit’s face was crooked, too. Next | | |
+| 7 | to him, Aisha had made a perfect rabbit with neat | | |
+| 8 | pink eyes. | | |
+| 9 | “Mine looks silly,” Chen Yu said quietly. | | |
+| 10 | That evening, his family walked to the park by the lake. | | |
+| 11 | The full moon was round and bright, and hundreds of | | |
+| 12 | lanterns glowed in the dark. Grandpa put a small light | | |
+| 13 | inside the rabbit, and it began to shine. | | |
+| 14 | A little girl pulled her mother’s sleeve. “Look at that | | |
+| 15 | rabbit!” she said. “It is waving its ear at me!” | | |
+| 16 | Chen Yu looked at his lantern again. Then he smiled, | | |
+| 17 | lifted it high and made the floppy ear wave hello. | | |
 | | **Totals** | | |
 
 </div>
@@ -927,7 +936,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Candidate name]]
 
-**Gold and White band, ORT 9 to 10. 178 words (the title is not counted). Card 16.**
+**Gold and White band, Oxford Level 9 to 10. 178 words (the title is not counted). Card 16.**
 
 **Say:** "This story is called *The Drummer*. It is about a boy called Zhang Wei and a dragon boat race. Read it to me, please. If you do not know a word, try it."
 
@@ -935,23 +944,25 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 | Line | Text: write your marks above the words | E | SC |
 |---|---|---|---|
-| 1 | Zhang Wei had never felt so nervous. It was the Dragon Boat Festival, | | |
-| 2 | and his school was racing three other boats on the lake. Twelve | | |
-| 3 | children sat in two long rows, holding their paddles. At the front sat the | | |
-| 4 | drummer, and this year the drummer was Zhang Wei. | | |
-| 5 | “Remember,” said Coach Liu, “the paddlers listen to your drum. Keep | | |
-| 6 | a steady beat, and they will paddle together.” | | |
-| 7 | The whistle blew, and the boats shot forward. Zhang Wei was so | | |
-| 8 | excited that he beat the drum far too fast. Behind him, the paddles | | |
-| 9 | splashed in a muddle, and the boat began to wobble. Another boat slid | | |
-| 10 | past them. | | |
-| 11 | Zhang Wei took a deep breath. He thought of the clock in his | | |
-| 12 | classroom, ticking slowly and evenly. Boom, boom, boom. One by one, | | |
-| 13 | the paddlers found the beat, and the boat flew across the water like an | | |
-| 14 | arrow. | | |
-| 15 | They did not win, but they came a close second. Afterwards, Coach Liu | | |
-| 16 | shook Zhang Wei’s hand. “A good drummer does not just make a | | |
-| 17 | noise,” she said. “A good drummer listens.” | | |
+| 1 | Zhang Wei had never felt so nervous. It was the Dragon | | |
+| 2 | Boat Festival, and his school was racing three other boats | | |
+| 3 | on the lake. Twelve children sat in two long rows, holding | | |
+| 4 | their paddles. At the front sat the drummer, and this year | | |
+| 5 | the drummer was Zhang Wei. | | |
+| 6 | “Remember,” said Coach Liu, “the paddlers listen to your | | |
+| 7 | drum. Keep a steady beat, and they will paddle together.” | | |
+| 8 | The whistle blew, and the boats shot forward. Zhang Wei | | |
+| 9 | was so excited that he beat the drum far too fast. Behind | | |
+| 10 | him, the paddles splashed in a muddle, and the boat began | | |
+| 11 | to wobble. Another boat slid past them. | | |
+| 12 | Zhang Wei took a deep breath. He thought of the clock in | | |
+| 13 | his classroom, ticking slowly and evenly. Boom, boom, | | |
+| 14 | boom. One by one, the paddlers found the beat, and the | | |
+| 15 | boat flew across the water like an arrow. | | |
+| 16 | They did not win, but they came a close second. | | |
+| 17 | Afterwards, Coach Liu shook Zhang Wei’s hand. “A good | | |
+| 18 | drummer does not just make a noise,” she said. “A good | | |
+| 19 | drummer listens.” | | |
 | | **Totals** | | |
 
 </div>
@@ -994,7 +1005,7 @@ Errors: ______ &nbsp; Self-corrections: ______ &nbsp; Accuracy: ______ % &nbsp; 
 
 [[field:Book title]]
 
-Band ______________ &nbsp; ORT level ______ &nbsp; Pages read ______ &nbsp; **Words read (N)** ______
+Band ______________ &nbsp; Oxford Level ______ &nbsp; Pages read ______ &nbsp; **Words read (N)** ______
 
 **Say:** "This story is called ______. It is about ______. Read it to me, please. If you do not know a word, try it."
 
@@ -1054,7 +1065,7 @@ Self-corrections ______ &nbsp; SC rate 1 : ______ &nbsp; Fluency [[scale:1,2,3,4
 | Letter sounds | Single letters ______ / 26 &nbsp; Letter groups ______ / 18 &nbsp; N (names only) ______ &nbsp; P (pinyin) ______ |
 | Phonics words | Section 1 ______ / 20 (real ______ / 10, nonsense ______ / 10) &nbsp; Section 2 ______ / 20 (real ______ / 10, nonsense ______ / 10) &nbsp; Total ______ / 40 &nbsp; P ______ SO ______ RW ______ |
 | Tricky words | Year 1 words ______ / 10 &nbsp; Year 2 words ______ / 10 |
-| Book band level | Passage ______ (or book: ______________) &nbsp; Band ______________ &nbsp; ORT ______ &nbsp; [[tick]] not yet Pink |
+| Book band level | Passage ______ (or book: ______________) &nbsp; Band ______________ &nbsp; Oxford Level ______ &nbsp; [[tick]] not yet Pink |
 | At that level | Accuracy ______ % &nbsp; SC rate 1 : ______ &nbsp; Fluency ______ / 4 &nbsp; Questions ______ / ______ |
 | Decodes at (if higher) | Highest passage read at 90% or more: ______ (questions ______ / ______) |
 | Reading band | **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E** &nbsp; (circle; 6.7) |
@@ -1064,4 +1075,4 @@ Self-corrections ______ &nbsp; SC rate 1 : ______ &nbsp; Fluency [[scale:1,2,3,4
 
 </div>
 
-**One line for the Candidate Summary:** for example, "ERS: letters 24/26, phonics 31/40 (S1 18, S2 13), tricky 14/20; book band Blue (P4, 93%, 3/4 questions, fluency 2); pinyin vowels; reading band C."
+**One line for the Candidate Summary:** for example, "ERS: letters 24/26, phonics 31/40 (S1 18, S2 13), tricky 14/20; book band Light Blue (P4, 93%, 3/4 questions, fluency 2); pinyin vowels; reading band C."
