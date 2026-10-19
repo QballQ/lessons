@@ -1,72 +1,87 @@
 ---
-title: Year 9 Admission Assessment: Assessor booklet
+title: Year 9 Admission Assessment v2: Assessor booklet
 style: assessor
-footer: Year 9 Admission Assessment | Assessor booklet
+footer: Year 9 Admission Assessment v2 | Assessor booklet
 ---
-# Year 9 Admission Assessment: assessor booklet
+<style>
+.ms tr.sec td { background: #f2f2f2; }
+.passage p { break-inside: avoid; }
+</style>
+
+# Year 9 Admission Assessment v2: assessor booklet
+
+**Version 2, October 2026.** Use with `Y09_Student_Paper_v2`; it replaces version 1. New in version 2: an academic listening talk (listening Part B), a demanding literary text (reading Part C) and a harder maths paper that reports fluency, word questions and applied problems separately. The writing, the science and the interview are unchanged.
 
 [[namebox:candidate]]
 
 **Who this is for.** Students applying for **Year 9** (age 13 on 1 September). A student from a Chinese mainstream school has usually **completed Grade 7 (初一)**; a student joining mid-year is partway through Grade 8. Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in `00_Admissions_Guide.md`.
 
-**What it measures.** The student's level of English in listening, reading, writing and speaking (bands A to E), their maths and science against the UK Year 8 curriculum (what a Year 9 student should know on entry), and, through the interview, who they are, their future plans and their suitability for the programme.
+**What it measures.** The student's level of English in listening, reading, writing and speaking (bands A to E), their maths and science against the UK Year 8 curriculum (what a Year 9 student should know on entry), and, through the interview, who they are, their future plans and their suitability for the programme. Version 2 is harder at the top, to separate competent (D) from fluent (E) students and to place strong mathematicians accurately.
 
 ## 1. At a glance
 
 <table>
-<colgroup><col style="width:6%"><col style="width:26%"><col style="width:8%"><col style="width:21%"><col style="width:23%"><col style="width:16%"></colgroup>
+<colgroup><col style="width:5%"><col style="width:29%"><col style="width:8%"><col style="width:17%"><col style="width:24%"><col style="width:17%"></colgroup>
 <tr><th>Order</th><th>Task</th><th>Minutes</th><th>Who leads</th><th>Materials</th><th>Print</th></tr>
 <tr><td>1</td><td>Welcome</td><td>2</td><td>Assessor</td><td></td><td>This booklet</td></tr>
-<tr><td>2</td><td>Listening: 8 questions (8 marks)</td><td>5</td><td>Assessor reads the script (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 3; pencil</td><td>Student paper</td></tr>
-<tr><td>3</td><td>Reading paper: Parts A, B and C (24 marks)</td><td>12</td><td>Student works alone</td><td>Student paper pages 4 to 9</td><td></td></tr>
-<tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student works alone</td><td>Student paper pages 10 to 11</td><td></td></tr>
-<tr><td>5</td><td>Break</td><td>3 to 5</td><td></td><td>Water</td><td></td></tr>
-<tr><td>6</td><td>Maths: Section A Number problems, Section B Word problems and pictures (30 marks)</td><td>20</td><td>Student works alone; the assessor may read any question aloud</td><td>Student paper pages 12 to 17; pencil, rubber, ruler; <b>no calculator, no protractor</b></td><td></td></tr>
-<tr><td>7</td><td>Science: 7 questions (10 marks)</td><td>8</td><td>Student works alone; the assessor may read any question aloud</td><td>Student paper pages 18 to 21</td><td></td></tr>
-<tr><td>8</td><td>Interview, opening with the Graded Sentence Reading Screen at <b>Level 8</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card (laminated); a plain card to cover sentences</td><td>Sentence Reading Record; Interview Record Years 7 to 10</td></tr>
-<tr><td></td><td><b>Total</b></td><td><b>about 70 to 75</b></td><td></td><td>A clock or timer</td><td>Candidate Summary and Decision</td></tr>
+<tr><td>2</td><td>Listening: Part A conversation (1 to 8), Part B academic talk (9 to 16) (16 marks)</td><td>10</td><td>Assessor reads the scripts (3.1)</td><td>Pages 2 to 5; pencil</td><td>Student paper</td></tr>
+<tr><td>3</td><td>Reading paper: Parts A, B and C (24 marks)</td><td>15</td><td>Student alone</td><td>Pages 6 to 12</td><td></td></tr>
+<tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student alone</td><td>Pages 13 to 14</td><td></td></tr>
+<tr><td>5</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
+<tr><td>6</td><td>Maths: A Fluency, B Word questions, C Applied problems (30 marks)</td><td>25</td><td>Student alone; you may read any question aloud</td><td>Pages 15 to 20; pencil, rubber, ruler; <b>scientific calculator in Section C only</b>; no protractor</td><td></td></tr>
+<tr><td>7</td><td>Science: 7 questions (10 marks)</td><td>8</td><td>Student alone; you may read any question aloud</td><td>Pages 21 to 24; no calculator</td><td></td></tr>
+<tr><td>8</td><td>Interview, opening with the Sentence Reading Screen at <b>Level 8</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card; a plain card to cover sentences</td><td>Sentence Reading Record; Interview Record Years 7 to 10</td></tr>
+<tr><td></td><td><b>Total</b></td><td><b>about 90</b></td><td></td><td>A clock; a scientific calculator for each student</td><td>Candidate Summary and Decision</td></tr>
 </table>
 
 Files: `shared/Sentence_Reading_Card`, `shared/Sentence_Reading_Record`, `forms/Interview_Record_Y7_Y10`, `forms/Candidate_Summary_and_Decision`.
 
 The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
 
+**Planning note.** At a natural classroom pace, reading both listening texts twice takes about 9 to 10 minutes, so with the reading time before each part the listening often runs to about 12 minutes. Allow 12 minutes in the timetable.
+
 ## 2. Before you start
 
-**Room.** Quiet, bright, a clock the student can see, the student paper face down, a pencil, rubber and ruler. Glasses or hearing aids if the student uses them.
+**Room and materials.** Quiet, bright, a clock the student can see, the student paper face down, a pencil, rubber and ruler. Glasses or hearing aids if the student uses them. **Calculators:** one scientific calculator per student for maths **Section C only**. Keep calculators out of reach until the student reaches Section C (in a group, hand them out when you say "Section C"), and collect them before the science. A phone may not be used as a calculator.
 
-**Say (welcome):** "Hello, I am [name]. Thank you for coming today. These activities help us get to know you, so that we can help you when you join us. Some questions are easy and some are hard. Nobody gets everything right, and that is fine. Do your best. If you do not know an answer, go on to the next question. In the English parts, I can only repeat the instructions. In maths and science, I can read any question to you. Do you have any questions before we start?"
+**Say (welcome):** "Hello, I am [name]. Thank you for coming today. These activities help us get to know you, so that we can help you when you join us. Some questions are easy and some are hard. Nobody gets everything right, and that is fine. Do your best. If you do not know an answer, go on to the next question. In the English parts, I can only repeat the instructions. In maths and science, I can read any question to you. You can use a calculator only in the last part of the maths, Section C. Please write all your answers in English. Do you have any questions before we start?"
 
 #### Access rules (the same in every year group)
 
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not read the reading texts or questions aloud, explain words or translate. Instructions may be repeated in English. | Any question may be read aloud in English, as often as the student asks. You may point to the picture. |
-| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. Count the L questions in the score summary: they are evidence about English. |
+| Answers | **In English only.** An answer in Chinese scores 0. | **In English only:** numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
+| Calculator | Not allowed. | Maths Section C only (a scientific calculator). Not allowed in maths Sections A and B or in science. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 Extra time, a reader or other arrangements for a known need are allowed: record them in the score summary.
 
 #### Stopping rules
 - The student may stop any section when they have done what they can. Say: "That is fine. Thank you. We will go on to the next part."
+- **Listening:** read both parts to every student; in a group, never stop the reading for one student. Part B is meant to stretch. A student who found Part A very hard may sit quietly through Part B: say once, "It is fine to leave Part B."
 - **Reading paper:** if the student cannot answer any of Part A after about 4 minutes, let them stop and record it. Do not move them on to Parts B and C.
 - **Writing:** if the student has written nothing in English after 3 minutes, say once: "Write anything you can in English: a few words or sentences about yourself is fine." Then let them stop when they wish.
 - **Maths and science:** encourage the student to look at every page, because later questions on different topics may be easier for them. Do not stop early unless the student is distressed.
 - If a student becomes upset at any point, stop, take a break, and continue only if they are happy to. Record it.
 
-**Keeping the student at ease.** Smile, use the student's name, and keep your voice calm. Do not say "right" or "wrong" during the tasks; say "thank you" instead. Give a two-minute warning before the end of the reading paper, maths and science. A student who finishes early may check their work quietly.
+**Keeping the student at ease.** Smile, use the student's name, and keep your voice calm. Do not say "right" or "wrong" during the tasks; say "thank you" instead. Give a two-minute warning before the end of the reading paper, maths and science. A student who finishes early may check their work quietly. Version 2 is harder at the top on purpose: tell the student before the reading paper and the maths that the last part is meant to be difficult.
 
 ## 3. English
 
-### 3.1 Listening (5 minutes, 8 marks)
+### 3.1 Listening (about 10 minutes, 16 marks)
 
-**Say:** "Turn to the Listening page. You will hear two friends, Mei and Tom, talking about a science club trip. I will read it two times. First, you have one minute to read the questions." Wait one minute. **Say:** "Now listen." Read the script. Wait 10 seconds. **Say:** "Now listen again." Read it again. Then give the student one more minute to finish.
+There are two parts. **Part A** (questions 1 to 8) is the version 1 listening, unchanged: an everyday conversation. **Part B** (questions 9 to 16) is new: a short academic talk at the level of a lesson for a fluent English speaker of 13 to 14. Each part is read twice.
 
-**Read it twice at a natural, steady pace** (about the speed of a teacher talking to a class). Say each speaker's name before their line, a little more quietly, both times. At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat lines or explain anything.
+**Part A.** **Say:** "Turn to the Listening page. There are two parts. First, Part A. You will hear two friends, Mei and Tom, talking about a science club trip. I will read it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Read it again.
+
+**Part B.** **Say:** "Now turn to Part B. You will hear a scientist, Dr Lin, giving a short talk to a class about tea. I will read it two times. First, you have one minute to read questions 9 to 16. You can also finish Part A." Wait one minute. **Say:** "Now listen." Read the Part B script. Wait 10 seconds. **Say:** "Now listen again." Read it again. Then give the student one more minute to finish.
+
+**Read it twice at a natural, steady pace** (about the speed of a teacher talking to a class). In Part A, say each speaker's name before their line, a little more quietly, both times. In Part B, read as a teacher gives a short lesson: clearly and with natural stress, but without slowing down for the numbers, the dates or the subject words. At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat lines or explain anything. Part A takes about 2 minutes per reading and Part B about 3 minutes per reading.
 
 [[passage]]
-#### Script: Planning the Saturday trip
+#### Script: Part A, planning the Saturday trip
 
 **Mei:** Hi, Tom. Are you coming on the science club trip on Saturday?
 
@@ -105,7 +120,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 **Tom:** Poor Jun. I don't want that to happen to me. See you on Saturday! [pause]
 [[/passage]]
 
-**Answers** (1 mark each). Spelling does not matter in listening if the meaning is clear (for example "studen kard").
+**Part A answers** (1 mark each). Spelling does not matter in listening if the meaning is clear (for example "studen kard"). This applies to Part B too.
 
 | Q | Answer | Also accept | Do not accept, and what it tells you |
 |---|---|---|---|
@@ -118,23 +133,64 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | 7 | **The rain will not be a big problem.** | | |
 | 8 | **To warn Tom, or to remind him why he must bring his card** | Any answer that shows what happened to Jun because he forgot his card (he had to wait 20 minutes), or that Mei does not want the same thing to happen to Tom | "Jun is her friend"; "Jun was late"; an answer about lunch or dumplings |
 
-#### Band guide
+[[passage]]
+#### Script: Part B, a short talk about tea (Dr Lin, a scientist, talking to a class)
 
-| Score | 0 to 2 | 3 to 4 | 5 to 6 | 7 | 8 |
-|---|---|---|---|---|---|
-| Listening band | A | B | C | D | E |
+Good morning, everyone. Today I want to answer two questions: where did tea come from, and why are there so many different kinds? [pause]
+
+After water, tea is the most popular drink in the world, and its history begins in China. According to a famous legend, nearly five thousand years ago, the emperor Shennong was boiling water under a tree when a few leaves drifted into his pot, and he liked the taste. It's a charming story, and a very convenient one for an emperor. What historians can show for certain is much more recent. [pause] In the Tang dynasty, more than twelve hundred years ago, a scholar called Lu Yu wrote the first book entirely about tea, explaining how to grow, prepare and serve it. [pause]
+
+From China, tea spread in two directions. Merchants carried it over land to Central Asia, Russia and the Middle East, while European ships later carried it by sea. Dutch traders brought the first tea to Europe in the early fifteen hundreds. Actually, no, I've got my dates wrong: it was the early sixteen hundreds, about a hundred years later. They bought it from merchants from Fujian, on China's south-east coast, and from the Netherlands it later reached Britain. [pause]
+
+Now for the science. Surprisingly, green tea, black tea and oolong all come from exactly the same plant, an evergreen bush called Camellia sinensis. Pickers take only the top two leaves and the bud, which is the tiny leaf that hasn't opened yet. [pause]
+
+The difference between the teas comes from a process called oxidation. When a leaf is crushed, chemicals inside it react with oxygen in the air, and the leaf gradually turns brown, just like a sliced apple. [pause] To make green tea, workers heat the leaves soon after picking, in a hot pan or with steam. The heat stops oxidation, so the leaves stay green and taste fresh. Black tea, on the other hand, is first withered, which means it is spread out until it goes soft. Next, it is rolled to break the leaves, then left in warm air until it is fully oxidised. Finally, it is dried. As a result, black tea is darker and stronger. Oolong, however, is only partly oxidised, so it sits somewhere in between. [pause]
+
+One last puzzle: in Fujian, the local word for tea sounds like "te". Countries that received their tea by sea mostly use a word like "tea", whereas countries that received it over land say something like "cha" or "chai". So the name of your drink may tell you which way the tea travelled. [pause]
+[[/passage]]
+
+**About the Part B script** (for the English team). 427 words in 27 sentences: an average sentence of about 16 words. About 19% of the words are outside the 2000 most common word forms of English (about 13% if names are left out and simple word endings are matched, the method in `02_Listening_Evidence_Statement`, Section 6). It explains a process (oxidation and how black tea is made) and a cause and effect (heat stops oxidation, so green tea stays green); compares green, black and oolong tea, and the land and sea routes; uses numbers and dates; explains subject words in context (bud, oxidation, withered); implies an opinion (that the Shennong legend may not be true); corrects itself ("Actually, no, I've got my dates wrong"); and uses the discourse markers however, whereas, on the other hand and as a result.
+
+**Part B answers** (1 mark each; questions 13 and 14 are one gap each). The questions follow the order of the talk.
+
+| Q | Skill | Answer | Also accept | Do not accept, and what it tells you |
+|---|---|---|---|---|
+| 9 | Main idea: the speaker's purpose | **To explain where tea came from and why there are different kinds.** | | "To tell the story of the emperor Shennong" (one detail from the start: the student has not followed the whole talk). "To show that green tea is better than black tea" (the talk compares the teas but never says one is better). |
+| 10 | Speaker's attitude (implied) | **It is a nice story, but it may not be true.** | | "The best evidence we have" (the student took the legend as fact and missed "a very convenient one for an emperor" and "What historians can show for certain is much more recent"). "Historians have proved that it is wrong" (too strong: Dr Lin doubts it but does not say it has been disproved). |
+| 11 | Specific detail: a number | **1200** (more than twelve hundred years ago) | twelve hundred; 1,200 | 5000 (the legend). 120 or 12 000 (the number was heard but not understood as "twelve hundred"). |
+| 12 | Specific detail: a date, after a correction | **1600s** (the early sixteen hundreds) | sixteen hundreds; the seventeenth century; 1600; about 1610 | **1500s** or fifteen hundreds: the date Dr Lin corrects. The student heard the first date but not "Actually, no, I've got my dates wrong". This is the key error to note. |
+| 13 | Note completion: a subject word explained in the talk | **(the) bud** | budd (any spelling that is clearly bud); "the tiny leaf"; "the leaf that has not opened" | leaf or leaves alone; flower; top; tea |
+| 14 | Note completion: a subject word | **oxygen** | oxigen, oxgen (clearly oxygen); O₂ | air (already in the sentence); oxidation; water; steam |
+| 15 | Process: the order of steps | **Rolled 2, left in warm air 3, dried 4** (withered 1 is given) | | All three numbers must be right for the mark. "Dried" before "left in warm air" shows that "Finally, it is dried" was missed. |
+| 16 | Inference that joins two parts of the talk | **Tea came to Britain by sea** (Dutch ships brought it from Fujian merchants, and in Fujian the word sounds like "te"), and countries that got tea by sea use a word like "tea" | Any answer that links how tea reached Britain or England (by sea, by ship, from the Dutch, from Fujian) with the name: "Britain got it by sea"; "it came from Fujian, where they say te"; "the Dutch brought it from Fujian by ship" | "English people like tea"; "cha is a Chinese word"; "tea is easier to say". The rule alone ("countries that got tea by sea say tea") with nothing about how tea reached Britain: the link is the inference. |
+
+#### Band guide v2
+
+| Result | Band |
+|---|---|
+| Part A 0 to 2 | **A** New to English |
+| Part A 3 to 4 | **B** Early acquisition |
+| Part A 5 to 6, or Part A 7 to 8 with Part B 0 to 2 | **C** Developing competence |
+| Part A 7 to 8 with Part B 3 to 5 | **D** Competent |
+| Part A 7 to 8 with Part B 6 to 8 | **E** Fluent |
+
+Part A places bands A to C; Part B separates C, D and E. If the result is uneven (for example Part A 5 or 6 but Part B 3 or more), use judgement and check against listening in the interview.
 
 #### What to look for
-- Questions 1 to 3 check the main points, each with a distractor (robots, 8:45, cloudy); 4 to 6 need exact detail; 7 and 8 need implied meaning. The questions follow the order of the script. A student who gets 1 to 6 but not 7 and 8 follows everyday talk but not yet what is meant: usually C.
-- A wrong answer that is a distractor (8:45, B in question 3) shows the student heard words but not how they connect ("leaves at", "in the morning").
+- **Part A.** Questions 1 to 3 check the main points, each with a distractor (robots, 8:45, cloudy); 4 to 6 need exact detail; 7 and 8 need implied meaning. A student who gets 1 to 6 but not 7 and 8 follows everyday talk but not yet what is meant. A wrong answer that is a distractor (8:45, B in question 3) shows the student heard words but not how they connect ("leaves at", "in the morning").
+- **Part B.** Questions 11 to 15 need details, subject words and a sequence heard in a longer talk; questions 10 and 16 need what is implied or what joins two parts of the talk. A student who scores 3 to 5, with 10 and 16 wrong, follows the content of a lesson but not yet the speaker's meaning: usually D. Fluent listeners usually get the correction in question 12 and the inference in question 16.
+- **Stamina.** A student who answers questions 9 to 12 well but leaves the later questions blank may have lost concentration in a three-minute talk, rather than not understood it: note it, and check in the interview.
 - Compare with listening in the interview (how much of your English the student understood). If the two differ by more than one band, use the interview as a check: some students freeze in a test, and some hide gaps in conversation with good routines.
 
-### 3.2 Reading paper (12 minutes, 24 marks)
+### 3.2 Reading paper (15 minutes, 24 marks)
 
-**Say:** "Turn to the Reading page. There are three parts, A, B and C. Each part is harder. Read the texts yourself. I cannot read them to you or explain words. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Give a two-minute warning.
+**Say:** "Turn to the Reading page. There are three parts, A, B and C. Each part is harder. Read the texts yourself. I cannot read them to you or explain words. Do as much as you can. It is fine if you do not finish. Part C is hard: do as much as you can. You have 15 minutes." Give a two-minute warning.
 
-**General rules.** Answers can be in the student's own words or copied from the text, unless the question says "copy". Ignore spelling and grammar unless the answer cannot be understood (except question 12). Answers must be in English; an answer in Chinese scores 0.
+**General rules.** Answers can be in the student's own words or copied from the text, unless the question says "in your own words". Ignore spelling and grammar unless the answer cannot be understood. Answers must be in English; an answer in Chinese scores 0.
 
+**What changed from version 1.** Part A is the version 1 Part A (the poster). Part B is the version 1 Part C ("Halfway Up"), renumbered as questions 8 to 14. Part C is new: a literary memoir above the age-expected level. The version 1 Part B (pandas) is not used.
+
+[[keep]]
 **Part A: sports centre poster** (very accessible; picture support)
 
 | Q | Answer | Marks | Also accept / notes |
@@ -146,45 +202,51 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | 5 | False, True, True, False | 2 | All four correct: 2. Three correct: 1. Two or fewer: 0 (two is the score from guessing). |
 | 6 | **No** and a reason: climbing is for ages 13 and over; he is too young; he is only 12 | 1 | Both parts needed. "No" alone: 0. |
 | 7 | Table tennis | 1 | Climbing is on Saturday afternoon, so "climbing" does not score. |
+[[/keep]]
 
-**Part B: "Why Do Pandas Eat All Day?"** (non-fiction, about two years below age level)
-
-| Q | Answer | Marks | Also accept / notes |
-|---|---|---|---|
-| 8 | In (the mountain forests of) central China | 1 | China; in mountain forests; in the mountains. Do not accept "in a zoo" or "bamboo". |
-| 9 | 14 (hours) | 1 | up to 14. Do not accept 12 (that is the kilograms). |
-| 10 | They get very little energy from bamboo | 1 | Their body is made for eating meat, so it cannot use bamboo well; bamboo has little energy. Do not accept "because they like bamboo" or "they are hungry" without a reason. |
-| 11 | A bone in its wrist that works like a thumb | 1 | thumb; wrist bone; a long bone. Do not accept "teeth", or "hand" or "paw" alone. |
-| 12 | tiny | 1 | Must be the copied word, spelt correctly. |
-| 13 | "Pandas move slowly to save energy." and "A newborn panda weighs about the same as an apple." | 2 | 1 mark for each correct tick, minus 1 for each wrong tick (minimum 0). |
-| 14 | Forests are protected, and scientists work carefully to help pandas | 1 | Either idea: protected forests; scientists; people protect them. |
-
-**Part C: "Halfway Up"** (fiction, age-appropriate for a fluent reader of 13)
+**Part B: "Halfway Up"** (fiction, age-appropriate for a fluent reader of 13; version 1 Part C, questions renumbered)
 
 | Q | Skill | Answer | Marks | Also accept / notes |
 |---|---|---|---|---|
-| 15 | Retrieval | Eight metres | 1 | 8 m; 8. Do not accept 2 metres (the training height). |
-| 16 | Vocabulary and meaning in context | "Mei knew the move was easy, but she still felt afraid." | 1 | |
-| 17 | Retrieval and inference | Any **two** of: her arms shook; sweat made her fingers slippery; her breathing was fast and loud; she wanted to be lowered down or give up; "one terrible second"; she was "not so sure"; the coach's voice sounded far away; something tight in her chest | 2 | 1 mark each, own words or quotation. Do not accept "she looked up" or "she was eight metres up" alone. |
-| 18 | Author's purpose | To show the pressure on Mei: she does not want to be the only one who fails; she feels she must reach the top too | 1 | To make the reader worry that she will fail; to make her feel worse or more nervous. Do not accept a retelling with no purpose ("because they reached the top"). |
-| 19 | Inference | The sign was funny or sweet (her little brother made it; "MEI CAN FLY"), and it made her feel better | 1 | Either idea: it was funny or cute; her brother's support cheered her up or made her less nervous. Do not accept "she was happy" with no reason. |
-| 20 | Vocabulary in context | It suddenly became very loud; everyone started cheering at once | 1 | very loud; suddenly noisy; people shouted and clapped. Do not accept a literal explosion or "something broke". |
-| 21 | Inference across the text | From frightened or nervous (start) to happy, proud, relieved or confident (end) | 1 | Both ends needed. |
+| 8 | Retrieval | Eight metres | 1 | 8 m; 8. Do not accept 2 metres (the training height). |
+| 9 | Vocabulary and meaning in context | "Mei knew the move was easy, but she still felt afraid." | 1 | |
+| 10 | Retrieval and inference | Any **two** of: her arms shook; sweat made her fingers slippery; her breathing was fast and loud; she wanted to be lowered down or give up; "one terrible second"; she was "not so sure"; the coach's voice sounded far away; something tight in her chest | 2 | 1 mark each, own words or quotation. Do not accept "she looked up" or "she was eight metres up" alone. |
+| 11 | Author's purpose | To show the pressure on Mei: she does not want to be the only one who fails; she feels she must reach the top too | 1 | To make the reader worry that she will fail; to make her feel worse or more nervous. Do not accept a retelling with no purpose ("because they reached the top"). |
+| 12 | Inference | The sign was funny or sweet (her little brother made it; "MEI CAN FLY"), and it made her feel better | 1 | Either idea: it was funny or cute; her brother's support cheered her up or made her less nervous. Do not accept "she was happy" with no reason. |
+| 13 | Vocabulary in context | It suddenly became very loud; everyone started cheering at once | 1 | very loud; suddenly noisy; people shouted and clapped. Do not accept a literal explosion or "something broke". |
+| 14 | Inference across the text | From frightened or nervous (start) to happy, proud, relieved or confident (end) | 1 | Both ends needed. |
 
-#### Band guide (use judgement when a result is uneven, and check against the sentence reading screen)
+[[keep]]
+**Part C: "Before the Cranes Came"** (literary memoir, about 650 words, above the age-expected level; for a fluent reader of 13 to 14 it is demanding). An adult remembers the last summer before her grandmother's lane was knocked down. The point of view must be inferred: the grandmother's cheerfulness hides her sadness, and the writer understands this only as an adult.
+
+| Q | Skill | Answer | Marks | Also accept / notes |
+|---|---|---|---|---|
+| 15 | Explanation in own words | People did their everyday, private things outside, where everyone could see them: there was no privacy | 1 | Any own-words explanation that daily life was done openly, or that everyone saw or knew what everyone else was doing. An example in the student's own words is fine if it explains the idea ("people washed food and played chess outside, so everyone saw everything"). Do not accept the sentence copied, "everything happened", or an example copied from the text with no explanation. |
+| 16 | Inference with evidence | She was not really happy to leave (she was sad, worried or unsure) and was trying to persuade herself or other people; she says it "so often" and "so loudly", as if she needs to convince someone | 1 | Both parts needed: a feeling that is not simple happiness (sad, unsure, pretending, hiding her feelings) and a reason from the words (she repeats it; she says it too loudly). "She was happy about the hot water" scores 0: it takes her words at face value. |
+| 17 | Vocabulary in context | The heat went away; it became less hot; it got cooler | 1 | eased; faded; went down; ended. Do not accept "rose", "went up", "picked up" or "was raised" (the usual meaning of lift). |
+| 18 | Effect of the writer's language | "Swallowed" makes the building sites sound like a huge mouth or animal eating the old district: it is disappearing quickly and completely, and nothing can stop it | 1 | Any answer that explains that the old district is being eaten up, destroyed, taken over or lost. Better answers add the feeling it creates (sad, threatening, helpless). Do not accept "the building sites are big", or "it means eaten" with no link to the district. |
+| 19 | Inference with evidence | As a reminder of her old home: a piece of Willow Lane that she could keep. Evidence: her reason is not true, because the balcony door "had never needed holding"; or the brick is grey like the lane ("a narrow seam of grey brick"); or she also kept the basins and grew chives as she did in the lane | 1 | Both parts needed: a reason (memory, missing her home, a piece of the lane) and one piece of evidence. "To hold the door open" scores 0: it is her excuse, and the writer shows that it is not true. |
+| 20 | Writer's viewpoint | She misses the lane and feels sad or a sense of loss that it has gone; she values it now, although she found it embarrassing as a child. Evidence: she tried to find where the house had been and "found that I could not"; she has been into the shopping centre only once; she now understands her grandmother's feelings | 1 | A feeling and a piece of evidence are both needed. Accept nostalgic, regretful, fond, sad that it has gone. Do not accept "embarrassed" (how she felt as a child) or "she likes the shopping centre". |
+| 21 | Summary in own words | Any two of: (1) she told everyone she was pleased and praised the new flat, hiding her sadness behind cheerfulness; (2) she kept herself busy: cleaning, giving away her things, refusing help; (3) she quietly said goodbye to the lane, sitting at the end of it every evening until dark; (4) she kept reminders of her old home: the basins, the chives and the brick | 2 | 1 mark for each different point, up to 2. Two examples of the same point (cleaning and giving things away) score 1. Long copied sentences with no selection score 1 at most. |
+[[/keep]]
+
+[[keep]]
+#### Band guide v2 (use judgement when a result is uneven, and check against the sentence reading screen)
 
 | Result | Band |
 |---|---|
-| Part A under 4 | **A** New to English |
-| Part A 4 or more, Part B under 4 | **B** Early acquisition |
-| Part B 4 or more, Part C under 3 | **C** Developing competence |
-| Part C 3 to 5 | **D** Competent |
-| Part C 6 to 8 | **E** Fluent |
+| Part A 0 to 3 | **A** New to English |
+| Part A 4 or more, Part B 0 to 2 | **B** Early acquisition |
+| Part B 3 to 5 | **C** Developing competence |
+| Part B 6 to 8 with Part C 0 to 4 | **D** Competent |
+| Part B 6 to 8 with Part C 5 to 8 | **E** Fluent |
+[[/keep]]
 
 #### What to look for
-- **Strong readers** answer Part C in their own words, explain *why* (questions 18 and 19), and see the change in feeling (21). Retrieval-only answers in Part C, with inference questions blank, usually mean band C or a low D.
+- **Part B** ("Halfway Up") is the age-appropriate text: 6 or more shows a competent reader of age-level fiction. **Part C** is above the age-expected level: a fluent reader of 13 to 14 usually scores 5 or more.
+- **Strong readers** in Part C explain in their own words (questions 15 and 21), read beneath the surface (16 and 19: the grandmother's cheerfulness is a performance, and the brick is from the lane), comment on the effect of a word (18), and see that the adult writer feels differently now (20). Retrieval-only answers in Part C, with the inference questions blank, usually mean band D, not E.
 - **An English barrier** looks like: Part A secure, Part B patchy, Part C blank or copied lines that do not answer the question. A student who reads aloud well (sentence reading) but scores low on Parts B and C may be decoding without understanding: see the meaning checks on the sentence reading record.
-- **Speed.** Note where the student was when time ran out. A student who answers everything they reach correctly but does not reach Part C may be a slow but accurate reader: give a D or C by judgement and say so.
+- **Speed.** Note where the student was when time ran out. A student who answers everything they reach correctly but does not reach Part C may be a slow but accurate reader: give a band by judgement and say so.
 
 ### 3.3 Writing (10 minutes, 16 marks)
 
@@ -226,48 +288,71 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 - **Interview** (about 10 minutes): choose questions from each block on the form, including **future plans and aspirations** and the suitability strands. Use the easier and stretch prompts so that every student can show their best spoken English.
 - **Speaking band:** circle it on the interview record, using the descriptors there, and copy it to the score summary below. Pronunciation features of a speaker of Chinese do not lower the band if the student is easy to understand.
 
-## 4. Maths (20 minutes, 30 marks)
+## 4. Maths (25 minutes, 30 marks)
 
-**Say:** "Turn to the Maths page. You have 20 minutes. Write your answers in the boxes and show your working. I can read any question to you in English. You may not use a calculator. Do as much as you can, and look at every page." The example box at the start of Section A shows what the command words Expand, Factorise and Solve mean; it is there so that an English word does not hide maths the student knows.
+**Say:** "Turn to the Maths page. You have 25 minutes. There are three sections. In Sections A and B, you may not use a calculator. In Section C, you may use a calculator. Write your answers in the boxes and show your working. I can read any question to you in English. Do as much as you can, and look at every page. Section C is meant to be hard." Give the calculator only when the student reaches Section C. Give a two-minute warning.
 
-**Sections.** Section A, **Number problems** (questions 1 to 6, 9 marks): calculation and algebra with no context. Section B, **Word problems and pictures** (questions 7 to 18, 21 marks): **word problems** (questions 7 to 10, 7 marks) and problems with diagrams, pictures and tables (questions 11 to 18, 14 marks). Questions 6 and 18 are ceiling items from the Year 9 curriculum; questions 1, 2 and 7 are floor items.
+The example box at the start of Section A shows what the command words mean (simplify, expand, factorise, standard form, make *x* the subject), and the example at the start of Section B shows how to write an equation from words. They are there so that an English word does not hide maths the student knows.
 
-**Marking.** M = method mark, A = accuracy mark (depends on the method), B = independent mark. A correct answer with no working gets full marks unless the scheme says otherwise. Units are not needed unless stated. Working in numbers and symbols is fine; any words must be in English.
+**Sections.** There are no floor questions: every question is at or above the expected level for entry to Year 9.
+- **Section A, Fluency** (questions 1 to 6, 10 marks): calculation and algebra with no context; **no calculator**. It starts at the top of the Year 8 expected content (index laws, standard form) and goes into early Year 9 (zero and negative indices, double brackets, factorising quadratics, simultaneous equations, rearranging).
+- **Section B, Word questions** (questions 7 to 10, 8 marks): problems given only in words, with no diagram; **no calculator**. The student must decide what to do and usually form an equation (direct proportion, a reverse percentage, simultaneous equations from a context, a quadratic from an area).
+- **Section C, Applied problems** (questions 11 to 15, 12 marks): multi-step problems in real contexts with a picture, a table, a graph or a diagram; **a scientific calculator is allowed**. Best value, simple and compound interest, a real-life graph (what the gradient means), a cylinder with a flow rate, and Pythagoras with a ratio. Question 13(b) is an **Explain** question; question 15 is a **Show that** question in an unfamiliar context (how TV screens are measured).
 
-**What a Year 9 entrant may not have been taught.** A student from a Chinese mainstream school has usually completed **Grade 7 (初一)**: operations with negative numbers, algebraic expressions and "removing brackets", linear equations and inequalities, angles and parallel lines, square roots, coordinates and simultaneous equations. Grade 8 topics (factorising, multiplying out double brackets, Pythagoras, polygon angle sums, linear functions and graphs, weighted mean) **may not have been taught yet**. Probability as a number is often met in Grade 9. Use NT and judge whether the student would reach the expected band once taught.
+**Marking.** M = method mark, A = accuracy mark (depends on the method), B = independent mark, ft = follow through (allow the mark for correct work with the student's own earlier wrong value). A correct answer with no working gets full marks, except in questions 11, 12 and 15, where the working is part of the answer. Units are not needed unless stated. Working in numbers and symbols is fine; any words must be in English (an explanation in Chinese scores 0).
 
-| Q | Topic | Answer | Marks and partial credit | May not have been taught? |
-|---|---|---|---|---|
-| **Section A** | **Number problems** | | | |
-| 1 | Negative numbers (floor) | (a) 5 (b) −18 | B1 each | Usually secure (Grade 6 to 7). |
-| 2 | Index notation | 7 | B1. 16 − 9. A wrong answer of 2 (from 8 − 6) shows powers read as multiplication. | Usually secure (Grade 7, 乘方). |
-| 3 | Expand; factorise | (a) 8*x* − 12 (b) 3(2*y* + 5) | B1 each. (b) accept 3(5 + 2*y*). | (a) usually secure ("removing brackets", Grade 7). (b) factorising is Grade 8 (因式分解): may not have been taught. |
-| 4 | Equation with brackets and unknowns on both sides | *x* = 4 | M1 for 3*x* + 12 = *x* + 20 or 2*x* = 8; A1 for 4. | Usually secure (Grade 7). |
-| 5 | Linear inequality | *x* ≤ 5 | B1. Accept 5 ≥ *x*. Do not accept *x* = 5 or *x* < 5. | Usually secure (Grade 7). |
-| 6 | Double brackets (ceiling) | *x*² + 8*x* + 15 | B1 for the simplified answer. If *x*² + 3*x* + 5*x* + 15 is seen but not simplified: 0, but note "expands correctly". | Grade 8 (整式的乘法): may not have been taught. |
-| **Section B** | **Word problems** | | | |
-| 7 | Percentage of an amount (one step) | 14 | B1 | Secure (Grade 6). |
-| 8 | Direct proportion, money (two steps) | ¥56 | M1 for ¥7 for one notebook, or 35 × 8 ÷ 5, or 35 + 21; A1 for 56. | Secure (Grade 6). |
-| 9 | Percentage decrease, money (two steps) | ¥180 | M1 for 60 (25% of 240), or 240 × 0.75, or 240 × 3/4; A1 for 180. An answer of 60 scores M1 only. | Secure: Chinese students know discounts well (75% of the price is 七五折). |
-| 10 | Speed, distance, time (two steps) | 750 km | M1 for 2.5 hours seen, or 300 × 2 + 150, or 300 × 2.5; A1 for 750. An answer of 690 (using 2.3 hours) scores 0 but shows a time conversion error: note it. | Secure (primary: 速度 × 时间 = 路程). |
-| **Section B** | **Diagrams, pictures and tables** | | | |
-| 11 | Probability (spinner) | 3/8 | B1. Accept 0.375, 37.5%, "3 out of 8". Do not accept 3 : 5 or 3 : 8. | Probability as a fraction is often Grade 9 (概率): may not have been taught, although "likelihood" is met in primary. |
-| 12 | Parallel lines; angles on a line | *a* = 62°, *b* = 118° | B1 each. *b*: follow through 180 − their *a*. Reasons not needed. | Secure (Grade 7, 平行线). |
-| 13 | Circumference and area of a circle | (a) 31.4 cm (b) 78.5 cm² | B1 each. Accept 10π and 25π. An area of 314 (using the diameter as the radius) scores 0: note it. | Secure (Grade 6). |
-| 14 | Interior angle of a regular hexagon | 120° | B1 | Polygon angle sums are Grade 8 (多边形内角和): may not have been taught. Some students reason from six equilateral triangles. |
-| 15 | Volume of a triangular prism | 120 cm³ | M1 for 12 (the triangle area, ½ × 6 × 4) or ½ × 6 × 4 × 10; A1 for 120. An answer of 240 (no ½) scores 0: note it. | Usually secure (volume = base area × height, Grade 5 to 6). |
-| 16 | Mean from a frequency table | 2.1 | M1 for 42 (0 + 3 + 16 + 15 + 8) or 42 ÷ 20; A1 for 2.1. Answers of 2 (mode or median) or 4 (20 ÷ 5) score 0. | The weighted mean is Grade 8 (加权平均数): may not have been taught, although the simple mean is met in Grade 4. |
-| 17 | Straight-line graph | (a) 1, 3, 5 (b) a straight line through (0, −1) and (4, 7) | (a) B1 for all three. (b) B1 for a ruled straight line through at least four correct points from *x* = 0 to 4 (follow through from their table if their points are on a straight line). | Linear functions are Grade 8 (一次函数): may not have been taught. Coordinates are secure (Grade 7). |
-| 18 | Pythagoras' theorem (ceiling) | 13 m | M1 for 12² + 5² or 169; A1 for 13. An answer of 17 (12 + 5) scores 0. | Grade 8 (勾股定理): may not have been taught. |
+**Calculators.** Many Chinese middle schools do not allow calculators, so some students are slow with one. A calculator is allowed in Section C, not required: every Section C question can be done by hand (with π = 3.14 in question 14). Do not count it against a student who works by hand.
 
-**Totals:** Section A / 9, Section B / 21 (of which word problems, questions 7 to 10: / 7). **Band guide** (provisional): 0 to 11: **1** Well below expected; 12 to 17: **2** Working towards; 18 to 25: **3** Expected; 26 to 30: **4** Greater depth.
+**What a Year 9 entrant may not have been taught.** A student from a Chinese mainstream school has usually completed **Grade 7 (初一)**: operations with negative numbers, algebraic expressions, linear equations, simultaneous linear equations, linear inequalities, angles and parallel lines, square roots and coordinates. **Linear and simultaneous equations and inequalities are usually strong.** Grade 8 (初二) topics **may not have been taught yet**: zero and negative indices, multiplying out double brackets, factorising, Pythagoras' theorem and linear functions (gradient). Quadratic equations are Grade 9 (初三). Textbooks differ: 北师大版 teaches index laws and multiplying polynomials in the second term of Grade 7, 人教版 in Grade 8, so ask which book the student used. Use NT and judge whether the student would reach the expected band once taught.
 
-**Not tested this year** (not enough time): rotation and enlargement, scatter graphs, inequalities shown on a number line. Ask about them in the interview if they matter for placement.
+<table class="ms">
+<colgroup><col style="width:4%"><col style="width:14%"><col style="width:17%"><col style="width:40%"><col style="width:25%"></colgroup>
+<thead><tr><th>Q</th><th>Topic</th><th>Answer</th><th>Marks and partial credit</th><th>May not have been taught?</th></tr></thead>
+<tbody>
+<tr class="sec"><td colspan="5"><b>Section A: Fluency (no calculator)</b></td></tr>
+<tr><td>1</td><td>Negative index; power of a product</td><td>(a) 1/8 (b) 4<em>x</em>⁶</td><td>(a) B1. Accept 0.125. −8 or −6 score 0 (the negative power read as "minus"): note it. (b) B1. 2<em>x</em>⁶ (only <em>x</em>³ squared) or 4<em>x</em>⁵ (indices added) score 0: note it.</td><td>(a) Negative indices are Grade 8 (负整数指数幂): may not have been taught. (b) Powers of products (积的乘方) are Grade 8 in 人教版, Grade 7 in 北师大版: may not have been taught.</td></tr>
+<tr><td>2</td><td>Standard form calculation with a negative power</td><td>1.5 × 10⁻²</td><td>M1 for 15 × 10⁻³ or 0.015 seen; A1 for 1.5 × 10⁻². 15 × 10⁻³ as the final answer: M1 only (not standard form). 1.5 × 10⁻³ with no correct working: 0.</td><td>Standard form for large numbers is Grade 7 (科学记数法); with negative powers it is Grade 8: may not have been taught.</td></tr>
+<tr><td>3</td><td>Expanding double brackets</td><td>2<em>x</em>² + 5<em>x</em> − 12</td><td>M1 for at least three of the four terms 2<em>x</em>², +8<em>x</em>, −3<em>x</em>, −12; A1 for the simplified answer.</td><td>Multiplying polynomials (多项式乘多项式) is Grade 8 in 人教版, Grade 7 in 北师大版: may not have been taught. Single brackets are secure.</td></tr>
+<tr><td>4</td><td>Factorising a quadratic</td><td>(<em>x</em> − 5)(<em>x</em> + 3)</td><td>B1, either order. (<em>x</em> + 5)(<em>x</em> − 3) scores 0 (it expands to <em>x</em>² + 2<em>x</em> − 15): note "sign error".</td><td>Factorising a trinomial (十字相乘法) is often taught only with quadratic equations in Grade 9, or as enrichment: likely not yet taught.</td></tr>
+<tr><td>5</td><td>Simultaneous equations (a multiplier is needed)</td><td><em>x</em> = 2, <em>y</em> = 1</td><td>M1 for a correct method to eliminate one letter (for example 4<em>x</em> + 6<em>y</em> = 14 and 15<em>x</em> − 6<em>y</em> = 24, so 19<em>x</em> = 38), or a correct substitution; A1 for both values.</td><td>Usually secure (Grade 7, 二元一次方程组). A student from a Chinese school who loses these marks is weaker in algebra than the rest of the profile may suggest.</td></tr>
+<tr><td>6</td><td>Rearranging a formula</td><td><em>x</em> = (5<em>y</em> + 2)/3</td><td>B1. Accept 5<em>y</em>/3 + 2/3, (2 + 5<em>y</em>) ÷ 3 or any equivalent. A part-way step (5<em>y</em> = 3<em>x</em> − 2, or 3<em>x</em> = 5<em>y</em> + 2) does not score: note it.</td><td>The algebra is Grade 7 (等式的性质) and usually secure; the English "make <em>x</em> the subject" may be new, which is why the example box explains it.</td></tr>
+<tr class="sec"><td colspan="5"><b>Section B: Word questions (no calculator)</b></td></tr>
+<tr><td>7</td><td>Direct proportion: a rate</td><td>15 minutes</td><td>M1 for 14 pages per minute, or 210 ÷ 84 = 2.5 (then × 6), or 6 ÷ 84 minutes per page; A1 for 15.</td><td>Secure (Grade 6, 正比例).</td></tr>
+<tr><td>8</td><td>Reverse percentage</td><td>¥120</td><td>M1 for 96 ÷ 0.8, or 96 ÷ 80 × 100, or 0.8<em>x</em> = 96, or 80% = ¥96; A1 for 120. An answer of 115.20 (96 × 1.2, adding 20% back on) scores 0: note it. It is the most common error, and shows the reverse step is not understood.</td><td>Usually secure: discounts (打折, "八折") and finding the original price are common in Grade 6 and in Grade 7 equation problems.</td></tr>
+<tr><td>9</td><td>Simultaneous equations from a context</td><td>One pen ¥4, one notebook ¥7</td><td>M1 for two correct equations (3<em>p</em> + 2<em>n</em> = 26 and <em>p</em> + 4<em>n</em> = 32, any letters) or a systematic trial that uses both facts; A1 for both values.</td><td>The maths is secure (Grade 7); the test is forming the equations from English sentences.</td></tr>
+<tr><td>10</td><td>Forming and solving a quadratic from an area</td><td>Equation <em>w</em>(<em>w</em> + 3) = 40 (or <em>w</em>² + 3<em>w</em> − 40 = 0); width <strong>5 cm</strong></td><td>B1 for a correct equation in <em>w</em>. B1 for 5, from factorising ((<em>w</em> + 8)(<em>w</em> − 5) = 0) or from trying values (5 × 8 = 40). If both 5 and −8 are given as the width, the second mark needs −8 to be rejected.</td><td>Quadratic equations are Grade 9 (一元二次方程): may not have been taught. The width can be found by trying values, so a strong student can still score both marks.</td></tr>
+<tr class="sec"><td colspan="5"><b>Section C: Applied problems (calculator allowed)</b></td></tr>
+<tr><td>11</td><td>Best value: unit price</td><td>The <strong>2.5 kg</strong> bag</td><td>M1 for at least two correct values that can be compared: price per kg (¥13.80, ¥13.00, ¥13.20), or kg per yuan (0.0725, 0.0769, 0.0758), or the price of the same mass (for 5 kg: ¥69, ¥65, ¥66); A1 for 2.5 kg with all three compared correctly. The tick alone, with no working, scores 0.</td><td>Secure (unit price, 单价, Grades 4 to 6). Many students expect the biggest bag to be the best value; here it is not.</td></tr>
+<tr><td>12</td><td>Simple and compound interest</td><td><strong>Account A</strong> (¥5600, against ¥5540.63 in Account B)</td><td>M1 for one correct final amount or interest: A ¥5600 or ¥600 interest; B ¥5540.63 (5000 × 1.026⁴, or year by year 5130, 5263.38, 5400.23, 5540.63) or ¥540.63 interest; A1 for both correct and Account A chosen. Accept B rounded to ¥5541 or ¥5540.6. Compound interest at 3% for A (¥5627.54) or simple interest at 2.6% for B (¥5520) shows the table was not read: M0.</td><td>Simple interest is Grade 6 (利率). Compound interest is usually met only in Grade 9 (增长率, (1 + <em>x</em>)²) or later: may not have been taught. The table explains how each account works, so a careful reader can work year by year.</td></tr>
+<tr><td>13</td><td>Real-life straight-line graph: the gradient and what it means</td><td>(a) <strong>15</strong> (b) The cost goes up by <strong>¥15 for each extra hour</strong> (the hire charge is ¥15 per hour)</td><td>(a) B1. Accept 15 yuan per hour. (b) B1 for an explanation in context: per hour, with a value (ft their (a)). "The line goes up" or "it is steep" scores 0. "The fixed fee is ¥10" is the intercept, not the gradient: 0 for (b), but it shows the graph was read.</td><td>Linear functions and gradient are Grade 8 (一次函数): may not have been taught. A student who does not know the English word "gradient" may still explain the cost per hour: mark (b) on its own.</td></tr>
+<tr><td>14</td><td>Volume of a cylinder; units; a rate</td><td><strong>40 minutes</strong></td><td>M1 for the volume π × 40² × 120 (603 186 cm³, or 0.603 m³, or 603 litres); M1 for dividing by 1000 and by 15, or equivalent (ft their volume); A1 for 40. Accept 40.2. π = 3.14 gives 40.19: accept 40. Using 80 as the radius gives about 161: M0 M1 A0, note "diameter used as radius".</td><td>Cylinder volume is Grade 6 (圆柱的体积) and litres and cm³ Grade 5: usually secure. Errors are usually the radius or the unit conversion.</td></tr>
+<tr><td>15</td><td>Pythagoras with a ratio: <strong>Show that</strong>, unfamiliar context</td><td>Width = 16 × 140 ÷ √337 = <strong>122.02</strong> cm, which is about 122 cm</td><td>M1 for using Pythagoras with the ratio: (16<em>k</em>)² + (9<em>k</em>)² = 140², or 337<em>k</em>² = 19 600, or the diagonal of a 16 by 9 rectangle is √337 = 18.36, or <em>w</em>² + (9<em>w</em>/16)² = 140²; M1 for <em>k</em> = 7.626 (or the scale factor 140 ÷ 18.36, or <em>w</em>² = 14 888); A1 for 122.0 or 122.02 seen (more accurate than 122). A complete check that starts from 122 (height 122 × 9 ÷ 16 = 68.6, and √(122² + 68.6²) = 140.0) with a conclusion also scores 3. "122" with no working scores 0. Sharing 140 in the ratio 16 : 9 (89.6 cm) scores 0: note it.</td><td>Pythagoras' theorem is Grade 8 (勾股定理): may not have been taught. Ratio is secure (Grade 6). This is a ceiling question for the strongest students.</td></tr>
+</tbody>
+</table>
+
+**Totals:** Fluency (Section A) / 10; Word questions (Section B) / 8; Applied problems (Section C) / 12; total / 30.
+
+**Band guide v2** (provisional, for a harder paper): 0 to 10 (under 35%): **1** Below expected; 11 to 16 (35 to 54%): **2** Working towards; 17 to 22 (55 to 74%): **3** Expected; 23 to 30 (75% or more): **4** Greater depth, likely top set. Look at the NT questions before deciding.
+
+[[keep]]
+#### Reading the three sub-scores
+
+As a rough guide, "high" is about three quarters of a section or more, and "low" is under half.
+
+| Profile | What it usually means | What to do |
+|---|---|---|
+| High Fluency, low Word questions | The English of the questions, not the maths, is the barrier. | Read one or two of the word questions aloud in English, then, if a Chinese-speaking colleague is present, once in Chinese (mark L). If the student then solves them quickly, record an English barrier: it points to English support in maths lessons, not to a lower maths set. |
+| High Fluency and Word questions, low Applied | Secure content, but less practised at multi-step problems, choosing a method and explaining. | The student needs teaching in problem solving and explaining, not more content. It is not a reason for a lower set. |
+| Low Fluency | Gaps in calculation and algebra, or several NT topics. | Check the NT notes: if most of the lost marks are NT questions (1, 2, 3, 4 and 10), write the likely band once taught in the summary. |
+| Applied as high as, or higher than, Fluency | Good reasoning with some gaps in technique or untaught algebra. | Usually NT topics in Section A; check before placing lower. |
+[[/keep]]
+
+**Not tested this year** (not enough time): scatter graphs, two-way tables and tree diagrams, bearings, similar shapes, depreciation, inequalities. Ask about them in the interview if they matter for placement.
 
 #### What to look for
-- **Number problems against word problems.** A student who scores well on Section A but poorly on the word problems (questions 7 to 10) may have an **English barrier rather than a maths difficulty**. Check by reading the word problem aloud in English, and, if a Chinese-speaking colleague is present, once in Chinese (mark it L). If the student then solves it quickly, record the barrier: it points to English support in maths lessons, not to a lower maths set.
-- **Strong responses** show clear, organised working, correct units, and confidence on the Grade 8 topics (factorising, Pythagoras, graphs). Many students from Chinese schools calculate quickly and accurately but leave out working: that is a habit, not a weakness, but they will need to show working in IGCSE later.
-- **Weak responses** show errors on taught topics (negative numbers, equations, percentages), not just on NT topics. If most of the lost marks are NT questions, write the likely band once taught in the summary.
+- **Word questions.** A student who defines letters and writes equations ("Let *p* be the cost of a pen") is ready for English-medium maths. A student who writes only numbers but gets the answers has the maths; check in the interview whether they can explain a method in English.
+- **Applied problems.** Look at whether the student chooses a method without being told (unit price, year-by-year interest, volume then litres, Pythagoras with a ratio). The Explain in 13(b) and the Show that in 15 show whether the student can communicate maths in English. Many students from Chinese schools calculate quickly and accurately but leave out working: that is a habit, not a weakness, but in a Show that question the working is the answer.
+- **Weak responses** show errors on taught topics (simultaneous equations, percentages, unit price, cylinder volume), not just on NT topics. If most of the lost marks are NT questions, write the likely band once taught in the summary.
 
 ## 5. Science (8 minutes, 10 marks)
 
@@ -298,22 +383,22 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 ## 6. Score summary
 
-Copy to `forms/Candidate_Summary_and_Decision`.
+Copy to `forms/Candidate_Summary_and_Decision`, and write "v2" beside the scores there: the version 2 listening is out of 16 and the maths has three sub-scores.
 
 <table>
 <colgroup><col style="width:22%"><col style="width:34%"><col style="width:17%"><col style="width:27%"></colgroup>
 <tr><th>Part</th><th>Score</th><th>Band</th><th>Notes (NT, L, access arrangements, behaviour)</th></tr>
-<tr><td>Listening</td><td>___ / 8</td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
+<tr><td>Listening</td><td>___ / 16 (Part A ___ / 8, Part B ___ / 8)</td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
 <tr><td>Reading paper</td><td>___ / 24 (A ___ / 8, B ___ / 8, C ___ / 8)</td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
 <tr><td>Sentence reading (shared record)</td><td>points ___ / 72; reading age ______</td><td>indicative:<br>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td>Meaning checks:<br>Fluency:</td></tr>
 <tr><td>Writing (task A or B)</td><td>___ / 16 (content ___, vocabulary ___, grammar ___, spelling and punctuation ___)</td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
 <tr><td>Speaking (from the interview)</td><td></td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
-<tr><td>Maths</td><td>___ / 30 (A ___ / 9, B ___ / 21, of which word problems ___ / 7)</td><td>1&nbsp;&nbsp; 2&nbsp;&nbsp; 3&nbsp;&nbsp; 4</td><td>NT:<br><br>L:</td></tr>
+<tr><td>Maths</td><td>___ / 30 (Fluency ___ / 10, Word questions ___ / 8, Applied ___ / 12)</td><td>1&nbsp;&nbsp; 2&nbsp;&nbsp; 3&nbsp;&nbsp; 4</td><td>NT:<br><br>L:<br><br>Profile:</td></tr>
 <tr><td>Science</td><td>___ / 10</td><td>1&nbsp;&nbsp; 2&nbsp;&nbsp; 3&nbsp;&nbsp; 4</td><td>NT:<br><br>L:</td></tr>
 <tr><td><b>Overall English</b> (the band most skills sit in; name any skill two or more bands lower)</td><td></td><td>A&nbsp; B&nbsp; C&nbsp; D&nbsp; E</td><td></td></tr>
 </table>
 
-**Assessor's comment** (strengths, English barrier or not, NT topics and the likely maths and science band once taught, anything to follow up):
+**Assessor's comment** (strengths, English barrier or not, NT topics and the likely maths and science band once taught, the maths profile, anything to follow up):
 
 [[lines:5]]
 

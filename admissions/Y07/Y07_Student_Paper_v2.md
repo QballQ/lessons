@@ -13,14 +13,13 @@ name_footer: yes
 .half td, .half th { width: 50%; }
 .parts td:last-child, .parts th:last-child { white-space: nowrap; }
 .side { overflow: hidden; }
+.ver { float: right; font-size: 0.55em; font-weight: 400; margin-top: 0.55em; }
 .exn { text-align: center; line-height: 1.45em; padding: 0 6px; font-family: 'Andika', 'Atkinson Hyperlegible', sans-serif; font-size: 1.05em; }
 .steps table { width: auto; }
 .steps td:first-child, .steps th:first-child { text-align: center; }
 </style>
 
-# Year 7 Admission Assessment
-
-Version 2, October 2026
+# Year 7 Admission Assessment <span class="ver">Version 2, October 2026</span>
 
 [[namebox]]
 
@@ -47,7 +46,7 @@ Do your best. It is fine if you cannot answer every question.
 
 | Part | What you do | Time |
 |---|---|---|
-| Listening | Part A: listen to a phone message. Part B: listen to a short talk. Answer 16 questions. | 10 minutes |
+| Listening | Listen to a message and a talk. Answer 16 questions. | 10 minutes |
 | Reading | Read three texts. Answer the questions. | 15 minutes |
 | Writing | Choose one task. Write about 20 lines. | 10 minutes |
 | Break | Have a short rest. | 5 minutes |
@@ -61,18 +60,16 @@ Do your best. It is fine if you cannot answer every question.
 
 # Listening
 
-There are two parts. Your teacher will read each part **two times**.
-
 ## Part A: A phone message
 
-Li Na is calling her friend Sofia about Saturday.
+Your teacher will read a phone message **two times**. Li Na is calling her friend Sofia about Saturday.
 
 **Read** the questions now. Then **listen** and **answer** the questions.
 
 ### 1 [[marks:1]]
 Where are Li Na and Sofia going on Saturday? **Tick** one box.
 
-![Three cards with tick boxes: A a cinema, B a science museum, C a shopping centre](diagrams/y07_e_l01_places.svg){.w100}
+![Three cards with tick boxes: A a cinema, B a science museum, C a shopping centre](diagrams/y07_e_l01_places.svg){.w85}
 
 ### 2 [[marks:1]]
 What time will they meet? **Tick** one box.
@@ -82,7 +79,7 @@ What time will they meet? **Tick** one box.
 ### 3 [[marks:1]]
 How will Sofia travel to the museum? **Tick** one box.
 
-![Three cards with tick boxes: A a bus, B a metro train, C a car](diagrams/y07_e_l03_transport.svg){.w100}
+![Three cards with tick boxes: A a bus, B a metro train, C a car](diagrams/y07_e_l03_transport.svg){.w85}
 
 ### 4 [[marks:1]]
 What must Sofia bring? **Tick** two boxes.
@@ -112,13 +109,11 @@ Li Na tells Sofia about her brother. Why? **Write** your answer.
 
 [[lines:2]]
 
-[[stop]]
-
 [[pagebreak]]
 
 ## Part B: A short talk
 
-A science teacher is giving a lesson about deserts.
+Your teacher will read a short talk **two times**. A science teacher is giving a lesson about deserts.
 
 You have one minute to **read** questions 9 to 16. Then **listen** and **answer** the questions.
 
@@ -146,7 +141,7 @@ Many desert animals are nocturnal. They look for food at <span class="ans wide e
 
 #### Notes: desert animals
 
-**12** &nbsp; The fennec fox has very big ears. Its ears help it to lose [[answer:wide]]
+**12** &nbsp; The fennec fox's big ears help it to lose [[answer:wide]]
 
 **13** &nbsp; A camel's hump is full of [[answer:wide]]
 
@@ -512,7 +507,7 @@ Here are the first four terms of a sequence.
 
 [[/cols]]
 
-[[pagebreak]]
+[[keep]]
 
 ## Section B: Word questions
 
@@ -525,6 +520,8 @@ Here are the first four terms of a sequence.
 
 **Solve it.** 4*n* = 32, so *n* = 8. &nbsp;&nbsp; **Check:** 4 × 8 − 7 = 25. &nbsp;&nbsp; My number is **8**.
 [[/example]]
+
+[[/keep]]
 
 ### 10 [[marks:2]]
 I think of a number. I add 6 to it. Then I multiply the answer by 3. The result is 51.
@@ -568,14 +565,14 @@ How old is Amir now?
 
 Amir is [[answer]] years old.
 
-[[pagebreak]]
-
 ## Section C: Applied problems
 
 ### 14 [[marks:2]]
-A shop sells milk in two sizes.
+![Two milk cartons. Carton A holds 750 ml and costs 12.60 yuan. Carton B holds 1.2 litres and costs 19.20 yuan.](diagrams/y07v2_m14_milk.svg){.w45 .right}
 
-![Two milk cartons. Carton A holds 750 ml and costs 12.60 yuan. Carton B holds 1.2 litres and costs 19.20 yuan.](diagrams/y07v2_m14_milk.svg){.w65}
+<div class="side" markdown="1">
+
+A shop sells milk in two sizes.
 
 Which carton is better value for money? **Show** how you decide.
 
@@ -583,18 +580,24 @@ Which carton is better value for money? **Show** how you decide.
 
 Carton [[answer:short]] is better value.
 
-### 15 [[marks:2]]
-Zhang Wei plays basketball. The bar chart shows his points in games 1 to 4.
+</div>
 
-![A bar chart of points scored in each game. Game 1: 12 points. Game 2: 8 points. Game 3: 14 points. Game 4: 10 points. Game 5 has no bar and a question mark.](diagrams/y07v2_m15_points.svg){.w70}
+### 15 [[marks:2]]
+![A bar chart of points scored in each game. Game 1: 12 points. Game 2: 8 points. Game 3: 14 points. Game 4: 10 points. Game 5 has no bar and a question mark.](diagrams/y07v2_m15_points.svg){.w55 .right}
+
+<div class="side" markdown="1">
+
+Zhang Wei plays basketball. The bar chart shows his points in games 1 to 4.
 
 Then he plays game 5. His mean for the 5 games is 2 points more than his mean for games 1 to 4.
 
 How many points did he score in game 5?
 
-[[box:3:Working]]
+[[box:4:Working]]
 
 [[answer]] points
+
+</div>
 
 ### 16 [[marks:3]]
 ![A folding stool seen from the side. The seat is a straight line through A and B. Leg AC and leg BD are straight and cross at X. XA and XB are marked equal. Angle DXC, between the legs below X, is 50 degrees. Angle x is between the seat and leg AX, inside triangle AXB. Angle y is between the seat and leg AX, on the outside of the stool. Not drawn accurately.](diagrams/y07v2_m16_stool.svg){.w50 .right}
@@ -617,7 +620,7 @@ XA = XB. Angle DXC = 50°.
 
 *x* = [[answer:short]] ° &nbsp; Reason:
 
-[[lines:1]]
+[[lines:2]]
 
 *y* = [[answer:short]] ° &nbsp; Reason:
 
@@ -625,6 +628,8 @@ XA = XB. Angle DXC = 50°.
 
 ### 17 [[marks:2]]
 A 3D printer makes a model from thin layers of plastic. It prints one layer on top of another.
+
+The model is 6 cm tall. Each layer is 0.2 mm thick. The printer takes 30 seconds to print each layer.
 
 ![A 3D printer printing a model tower. A label shows that the model is 6 cm tall. A close-up shows the layers: each layer is 0.2 mm thick. A note says: 30 seconds for each layer.](diagrams/y07v2_m17_printer.svg){.w90}
 
@@ -634,7 +639,7 @@ At what time does it finish the model?
 
 [[box:4:Working]]
 
-[[answer]]
+The printer finishes at [[answer]]
 
 ### 18 [[marks:3]]
 Tom makes garden paths from grey tiles and white tiles.

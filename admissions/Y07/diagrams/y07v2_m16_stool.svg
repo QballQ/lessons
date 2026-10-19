@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 300" width="340" height="300" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A folding stool seen from the side. The seat is a straight horizontal line through points A and B. Leg AC and leg BD are straight and cross at X. XA and XB are marked as equal. The angle between the legs below X, angle DXC, is 50 degrees. Angle x is at A, between the seat and leg AX, inside triangle AXB. Angle y is also at A, between leg AX and the part of the seat to the left of A. Not drawn accurately.</title>
+<text x="335" y="18" font-size="15" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+<line x1="70" y1="264.23" x2="270" y2="264.23" stroke="#7a7a7a" stroke-width="2" stroke-linecap="round"/>
+<line x1="121.4" y1="55.77" x2="218.6" y2="264.23" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="218.6" y1="55.77" x2="121.4" y2="264.23" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="56" y1="55.77" x2="284" y2="55.77" stroke="#111" stroke-width="5" stroke-linecap="round"/>
+<path d="M155.4,55.77 A34,34 0 0 1 135.77,86.59" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="163.57" y="88.64" font-size="20" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">x</text>
+<path d="M129.85,73.9 A20,20 0 0 1 101.4,55.77" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="100.98" y="93.82" font-size="20" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">y</text>
+<path d="M182.68,187.19 A30,30 0 0 1 157.32,187.19" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="170" y="216" font-size="17" text-anchor="middle" fill="#111">50°</text>
+<line x1="152.04" y1="104.93" x2="139.36" y2="110.85" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="200.64" y1="110.85" x2="187.96" y2="104.93" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="121.4" y="43.77" font-size="17" text-anchor="middle" font-weight="700" fill="#111">A</text>
+<text x="218.6" y="43.77" font-size="17" text-anchor="middle" font-weight="700" fill="#111">B</text>
+<text x="148" y="166" font-size="17" text-anchor="middle" font-weight="700" fill="#111">X</text>
+<text x="222.6" y="286.23" font-size="17" text-anchor="middle" font-weight="700" fill="#111">C</text>
+<text x="117.4" y="286.23" font-size="17" text-anchor="middle" font-weight="700" fill="#111">D</text>
+<!-- check: angle DXC 50.00, x 65.00, y 115.00, XA = XB = 115.00 -->
+</svg>

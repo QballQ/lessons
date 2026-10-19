@@ -13,16 +13,16 @@ name_footer: yes
 .half td, .half th { width: 50%; }
 .parts td:last-child, .parts th:last-child { white-space: nowrap; }
 .side { overflow: hidden; }
-.version { font-size: 1.1em; font-weight: 700; margin: 0 0 10px; }
+.ver { float: right; font-size: 0.6em; margin-top: 0.5em; }
+.cont { text-align: right; font-style: italic; margin: 6px 0 0; }
 .fill { font-family: 'Andika', 'Atkinson Hyperlegible', sans-serif; font-size: 1.1em; line-height: 1.4em; text-align: center; padding: 0 8px; }
 .notes { line-height: 2.3; }
 .order td:last-child, .order th:last-child { width: 22mm; text-align: center; }
 .steps p { margin: 0 0 4px; }
+.ans.mid { min-width: 45mm; }
 </style>
 
-# Year 8 Admission Assessment
-
-<p class="version">Version 2, October 2026</p>
+# Year 8 Admission Assessment <span class="ver">Version 2, October 2026</span>
 
 [[namebox]]
 
@@ -49,7 +49,7 @@ Do your best. It is fine if you cannot answer every question.
 
 | Part | What you do | Time |
 |---|---|---|
-| Listening | Part A: listen to two students talking. Part B: listen to a short talk. Answer 16 questions. | 10 minutes |
+| Listening | Listen to a conversation and a short talk. Answer 16 questions. | 10 minutes |
 | Reading | Read three texts. Answer the questions. | 15 minutes |
 | Writing | Choose one task. Write about 20 lines. | 10 minutes |
 | Break | Have a short rest. | 5 minutes |
@@ -166,9 +166,9 @@ You write: Class visit: science museum, on <span class="ans fill">Friday</span>
 
 #### Notes: the Munich airport study
 
-<div class="notes" markdown="1">
-
 1992: the city of Munich moved its airport. Researchers tested children near the old airport and the new airport.
+
+<div class="notes" markdown="1">
 
 Near the new airport: the children's reading and **(12)** [[answer]] became worse.
 
@@ -345,13 +345,19 @@ This is a strange way to build a mind, and that is precisely what fascinates sci
 
 And what cleverness it is. In laboratories, octopuses have learnt to unscrew jars to reach the food inside. Off the coast of Indonesia, veined octopuses have been filmed collecting halves of coconut shells, carrying them awkwardly across the seabed and fitting them together to make a portable shelter. Keepers report that some octopuses take a dislike to particular people, greeting them with a jet of cold water whenever they approach the tank. Many octopuses can change the colour and even the texture of their skin in under a second, melting into rock or coral, even though most scientists believe they cannot see colour at all.
 
+<p class="cont">The article continues on the next page.</p>
+
+[[clear]]
+[[/passage]]
+
+[[pagebreak]]
+
+[[passage]]
 Perhaps most remarkable of all, octopuses achieve this in a very short life. Most species live for only a year or two, and young octopuses never meet their parents. Nobody shows them how to hunt, hide or escape. Each one has to work out the world for itself, almost from nothing.
 
 For centuries, we have judged animal intelligence by asking how closely an animal resembles us. Can it use tools? Can it recognise faces? Can it solve puzzles? The octopus passes many of these tests, but it also exposes how narrow the tests are. If octopuses set an intelligence test for us, it is not obvious that we would pass. A creature that thinks with its arms, matches colours it cannot see and lives almost entirely alone may be clever in ways we have barely begun to imagine.
 
 Several countries have recently extended their animal welfare laws to protect octopuses from unnecessary harm. It may seem a small step. Yet it could also be a sign that, after a long history of looking down on creatures that are not like us, we are slowly learning a little humility.
-
-[[clear]]
 [[/passage]]
 
 ### 14 [[marks:1]]
@@ -432,222 +438,271 @@ You have 10 minutes.
 
 # Maths
 
-You have 20 minutes. You cannot use a calculator.
+You have 25 minutes. You cannot use a calculator.
 
 You can ask your teacher to read a question to you.
 
 **Show** your working. You can get marks for your working.
 
-## Section A: Number problems
+There are three sections: A, B and C. Do as much as you can.
+
+## Section A: Fluency
 
 **Work out** the answers. **Write** each answer in the box.
 
-[[cols:2]]
-
 ### 1 [[marks:1]]
-<span class="calc">3.7 + 12.45 =</span> [[answer]]
-
-### 2 [[marks:2]]
-a. <span class="calc">−8 + 3 =</span> [[answer:short]]
-
-b. <span class="calc">(−4) × (−6) =</span> [[answer:short]]
-
-### 3 [[marks:1]]
-**Write** the highest common factor (HCF) of 18 and 24.
-
-[[answer:short]]
-
-### 4 [[marks:1]]
-**Write** 60 as a product of prime factors.
+**Write** 360 as a product of prime factors. **Give** your answer in index form.
 
 [[example]]
-![A factor tree for 12: 12 splits into 2 and 6, and 6 splits into 2 and 3](diagrams/y08_m04_tree.svg){.w50 .right}
-
-Example:
-
-12 = 2 × 2 × 3
-
-[[clear]]
+Example: &nbsp; 72 = 2 × 2 × 2 × 3 × 3 = 2<sup>3</sup> × 3<sup>2</sup>
 [[/example]]
 
-[[box:3:Working]]
+[[box:2:Working]]
 
-60 = [[answer]]
+360 = [[answer:wide]]
 
-### 5 [[marks:1]]
-<span class="calc"><span class="fr"><span>2</span><span>3</span></span> + <span class="fr"><span>1</span><span>4</span></span> =</span> [[answer]]
+[[cols:2]]
 
-### 6 [[marks:2]]
-a. **Simplify** <span class="calc">3*a* + 5*b* − *a* + 2*b*</span>
-
-[[answer:wide]]
-
-b. *a* = 5 and *b* = −2. **Work out** <span class="calc">3*a* + 4*b*</span>
+### 2 [[marks:2]]
+a. **Write** the highest common factor (HCF) of 84 and 120.
 
 [[answer:short]]
 
-### 7 [[marks:1]]
-**Solve** <span class="calc">5*x* − 7 = 18</span>
+b. **Write** the lowest common multiple (LCM) of 84 and 120.
 
-*x* = [[answer:short]]
+[[answer:short]]
 
-### 8 [[marks:1]]
-**Solve** <span class="calc">4*x* + 3 = *x* + 15</span>
+[[box:2:Working]]
 
-*x* = [[answer:short]]
+### 3 [[marks:1]]
+**Write** these numbers in order of size. Start with the smallest.
 
-[[box:3:Working]]
+<span class="calc"><span class="fr"><span>2</span><span>5</span></span> &nbsp;&nbsp; 0.38 &nbsp;&nbsp; 37% &nbsp;&nbsp; <span class="fr"><span>3</span><span>8</span></span></span>
+
+Smallest first:
+
+[[answer:short]] [[answer:short]] [[answer:short]] [[answer:short]]
 
 [[/cols]]
 
-## Section B: Word problems and pictures
+[[cols:2]]
 
-### 9 [[marks:1]]
-At 6 am, the temperature in Harbin was −18 °C.
+### 4 [[marks:1]]
+**Expand** and **simplify**
 
-By midday, it was 7 degrees warmer.
+<span class="calc">3(2*x* − 5) − 2(*x* − 4)</span>
 
-What was the temperature at midday?
+[[answer:mid]]
 
-[[answer:short]] °C
+### 5 [[marks:1]]
+**Factorise** fully
 
-### 10 [[marks:2]]
-![A triangle on a straight line. The bottom left angle is 60 degrees. At the bottom right, the angle outside the triangle is 125 degrees and the angle inside is y. The top angle is x. Not drawn accurately.](diagrams/y08_m10_angles.svg){.w65}
+<span class="calc">12*x*<sup>2</sup> − 18*xy*</span>
 
-The bottom side of the triangle is part of a straight line. **Work out** angle *y* and angle *x*.
+[[answer:mid]]
 
-*y* = [[answer:short]] ° &nbsp;&nbsp;&nbsp;&nbsp; *x* = [[answer:short]] °
+[[/cols]]
 
-### 11 [[marks:3]]
-![A compound shape like a letter L. The bottom side is 10 cm, the left side is 8 cm, the top side is 6 cm and the lower right side is 5 cm. All corners are right angles. Not drawn accurately.](diagrams/y08_m11_shape.svg){.w55 .right}
+[[cols:2]]
 
-<div class="side" markdown="1">
-
-All the corners are right angles.
-
-**Tick** the correct unit for each answer.
-
-a. **Work out** the area of the shape.
-
-[[answer:short]] &nbsp; [[scale:cm,cm²,cm³]]
-
-b. **Work out** the perimeter of the shape.
-
-[[answer:short]] &nbsp; [[scale:cm,cm²,cm³]]
-
-</div>
-
-### 12 [[marks:2]]
-![Two red envelopes, one for Mei and one for Jun](diagrams/y08_m12_envelopes.svg){.w40 .right}
-
-<div class="side" markdown="1">
-
-Grandma gives Mei and Jun 120 yuan.
-
-They share it in the ratio 3 : 5.
-
-Mei gets the smaller share.
-
-How much does each person get?
-
-Mei [[answer:short]] yuan
-
-Jun [[answer:short]] yuan
-
-</div>
-
-### 13 [[marks:1]]
-Bus A leaves the bus station every 6 minutes.
-
-Bus B leaves the bus station every 8 minutes.
-
-Both buses leave at 8:00.
-
-When will they next leave at the same time?
-
-[[answer:short]]
-
-### 14 [[marks:2]]
-Here is a spinner with 8 equal parts.
-
-![A spinner with 8 equal parts: 4 white, 3 grey and 1 striped, and a probability scale from 0 to 1](diagrams/y08_m14_spinner.svg){.w100}
-
-[[example]]
-An event that will **certainly** happen has a probability of 1.
-[[/example]]
-
-a. **Draw** an arrow on the probability scale to show the probability that the spinner lands on **white**.
-
-b. **Write** the probability that the spinner lands on **grey**. [[answer:short]]
-
-### 15 [[marks:2]]
-![Two parallel lines crossed by a straight line. At the lower crossing, the angle above the line on the right is 70 degrees. At the upper crossing, angle a is above the line on the right and angle b is below it. Not drawn accurately.](diagrams/y08_m15_parallel.svg){.w60}
-
-The two lines with arrows are parallel. **Work out** angle *a* and angle *b*.
-
-*a* = [[answer:short]] ° &nbsp;&nbsp;&nbsp;&nbsp; *b* = [[answer:short]] °
-
-### 16 [[marks:1]]
-![A pie chart of how 40 students travel to school. Bus is a quarter, marked with a right angle. Metro is the largest sector, marked 135 degrees. Walk and car are the other sectors.](diagrams/y08_m16_pie.svg){.w50 .right}
-
-<div class="side" markdown="1">
-
-40 students travel to school.
-
-The pie chart shows how they travel.
-
-The angle for metro is 135°.
-
-How many students travel by metro?
-
-[[box:2:Working]]
-
-[[answer:short]]
-
-</div>
-
-### 17 [[marks:2]]
-![A bar chart of minutes of homework each day: Monday 35, Tuesday 60, Wednesday 30, Thursday 60, Friday 40.](diagrams/y08_m17_bar.svg){.w50 .right}
-
-<div class="side" markdown="1">
-
-The bar chart shows how many minutes Zhang Wei spent on homework each day.
-
-**Work out** each answer in minutes.
-
-Mode [[answer:short]] &nbsp;&nbsp; Median [[answer:short]]
-
-Range [[answer:short]] &nbsp;&nbsp; Mean [[answer:short]]
-
-[[box:2:Working]]
-
-</div>
-
-### 18 [[marks:2]]
-Hexagon tables are put in a row. A chair goes at every free side.
-
-![Hexagon tables in a row with chairs: 1 table has 6 chairs, 2 tables have 10 chairs, 3 tables have 14 chairs.](diagrams/y08_m18_tables.svg){.w90}
-
-a. How many chairs are needed for 10 tables in a row? [[answer:short]]
-
-b. **Write** a rule for the number of chairs for *n* tables in a row.
-
-Number of chairs = [[answer:wide]]
-
-### 19 [[marks:2]]
-![A bike with a price tag of 800 yuan](diagrams/y08_m19_bike.svg){.w35 .right}
-
-<div class="side" markdown="1">
-
-A bike costs 800 yuan.
-
-Next month, the price will go up by 15%.
-
-What will the new price be?
+### 6 [[marks:1]]
+**Solve** <span class="calc">4(2*x* − 3) = 3(*x* + 6)</span>
 
 [[box:3:Working]]
 
-[[answer]] yuan
+*x* = [[answer:short]]
+
+### 7 [[marks:1]]
+**Solve** <span class="calc">11 − 3*x* > 2</span>
+
+[[box:3:Working]]
+
+[[answer:mid]]
+
+[[/cols]]
+
+[[cols:2]]
+
+### 8 [[marks:1]]
+**Simplify** <span class="calc">(*y*<sup>4</sup>)<sup>3</sup> ÷ *y*<sup>5</sup></span>
+
+[[answer:short]]
+
+### 9 [[marks:1]]
+**Work out** <span class="calc">(4 × 10<sup>5</sup>) × (3 × 10<sup>3</sup>)</span>
+
+**Give** your answer in standard form.
+
+[[example]]
+Example: &nbsp; 35 000 = 3.5 × 10<sup>4</sup> in standard form.
+[[/example]]
+
+[[answer:mid]]
+
+[[/cols]]
+
+## Section B: Word questions
+
+These questions are in words only. **Read** each question carefully. **Decide** what to do.
+
+You can **write** an equation, then **solve** it.
+
+[[example]]
+**Example: write an equation, then solve it.**
+
+I think of a number. I multiply it by 4, then I subtract 7. The answer is 33. What is my number?
+
+<div class="steps" markdown="1">
+
+Let the number be *n*.
+
+Equation: &nbsp; 4*n* − 7 = 33
+
+Solve: &nbsp; 4*n* = 40, so *n* = 10
+
+My number is **10**.
+
+</div>
+[[/example]]
+
+[[cols:2]]
+
+### 10 [[marks:2]]
+The three angles in a triangle are *x*°, 2*x*° and (*x* + 20)°.
+
+**Work out** the size of the largest angle.
+
+[[box:4:Working]]
+
+[[answer:short]] °
+
+### 11 [[marks:2]]
+Three consecutive even numbers add up to 114.
+
+(Consecutive even numbers follow each other, like 6, 8 and 10.)
+
+What is the largest of the three numbers?
+
+[[box:4:Working]]
+
+[[answer:short]]
+
+[[/cols]]
+
+[[cols:2]]
+
+### 12 [[marks:2]]
+Amir and Sofia share some money in the ratio 3 : 5.
+
+Sofia gets ¥24 more than Amir.
+
+How much money is there altogether?
+
+[[box:4:Working]]
+
+¥ [[answer:short]]
+
+### 13 [[marks:2]]
+Mei draws a rectangle. Its length is 3 times its width.
+
+Then she draws a square. The side of the square is 4 cm shorter than the length of the rectangle. It is 4 cm longer than the width of the rectangle.
+
+**Work out** the area of the rectangle.
+
+[[box:4:Working]]
+
+[[answer:short]] cm²
+
+[[/cols]]
+
+## Section C: Applied problems
+
+### 14 [[marks:2]]
+The same jacket costs ¥600 in two shops. Both shops have a sale.
+
+![Two shop signs for the same jacket. Shop A: jacket 600 yuan. Sale: 20% off, then another 10% off the new price. Shop B: jacket 600 yuan. Sale: 30% off.](diagrams/y08v2_m14_shops.svg){.w75}
+
+Mei says, "The sale price is the same in both shops."
+
+Is Mei correct? **Show** your working.
+
+[[box:3:Working]]
+
+**Tick** one box. &nbsp; [[tick]] Yes &nbsp;&nbsp; [[tick]] No &nbsp;&nbsp; **Explain** your answer.
+
+[[lines:2]]
+
+### 15 [[marks:2]]
+A bag has only red, blue and green counters. Li Na takes one counter without looking.
+
+The table shows the probability of each colour.
+
+<div class="full" markdown="1">
+
+| Colour | red | blue | green |
+|---|---|---|---|
+| Probability | 0.3 | 0.45 | ? |
+
+</div>
+
+a. **Work out** the probability that the counter is green. &nbsp; [[answer:short]]
+
+b. There are 15 green counters in the bag. How many counters are in the bag altogether? &nbsp; [[answer:short]]
+
+[[box:2:Working]]
+
+### 16 [[marks:3]]
+![A map of Chen Yu's route. From her home, the route goes 3.5 cm on the map to a bridge over a river, then 2.5 cm to the park gate, then 3 cm through the park to the lake. The scale is 1 : 50 000. Not drawn accurately.](diagrams/y08v2_m15_map.svg){.w100}
+
+The map shows Chen Yu's route from her home to the lake. The lengths are measured on the map.
+
+The scale of the map is 1 : 50 000.
+
+Chen Yu cycles at an average speed of 15 km/h. She leaves home at 9:40.
+
+At what time does she arrive at the lake?
+
+[[box:8:Working]]
+
+[[answer:short]]
+
+### 17 [[marks:3]]
+Mei asks 20 students, "How many books did you read last month?" The table shows her results.
+
+<div class="full" markdown="1">
+
+| Number of books | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| Number of students | 1 | 5 | 6 | 5 | 3 |
+
+</div>
+
+a. **Work out** the mean number of books that these students read.
+
+[[box:3:Working]]
+
+[[answer:short]]
+
+b. Jun says, "The mean is 2, because (0 + 1 + 2 + 3 + 4) ÷ 5 = 2."
+
+**Explain** why Jun is wrong.
+
+[[lines:2]]
+
+### 18 [[marks:2]]
+![A square lawn with sides of 6 metres. A sprinkler stands at the centre and waters a circle of radius 3 metres. The circle touches the middle of each side of the square. The four corners of the lawn get no water.](diagrams/y08v2_m18_sprinkler.svg){.w45 .right}
+
+<div class="side" markdown="1">
+
+A sprinkler stands in the centre of a square lawn. Each side of the lawn is 6 m.
+
+The sprinkler waters a circle with a radius of 3 m.
+
+**Use** π = 3.14.
+
+**Show** that more than three quarters of the lawn gets water.
+
+[[box:6:Working]]
 
 </div>
 

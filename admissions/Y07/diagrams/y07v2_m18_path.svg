@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 150" width="528" height="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Three garden paths made of square tiles. Pattern 1 is 1 grey tile with 8 white tiles around it. Pattern 2 is a row of 2 grey tiles with 10 white tiles around them. Pattern 3 is a row of 3 grey tiles with 12 white tiles around them.</title>
+<rect x="48" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="74" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="100" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="48" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="74" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="100" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="48" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="74" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="100" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="87" y="116" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Pattern 1</text>
+<text x="87" y="137" font-size="15" text-anchor="middle" fill="#111">1 grey, 8 white</text>
+<rect x="186" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="212" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="238" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="264" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="186" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="212" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="238" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="264" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="186" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="212" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="238" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="264" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="238" y="116" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Pattern 2</text>
+<text x="238" y="137" font-size="15" text-anchor="middle" fill="#111">2 grey, 10 white</text>
+<rect x="350" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="376" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="402" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="428" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="454" y="12" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="350" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="376" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="402" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="428" y="38" width="26" height="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="454" y="38" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="350" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="376" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="402" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="428" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="454" y="64" width="26" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="415" y="116" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Pattern 3</text>
+<text x="415" y="137" font-size="15" text-anchor="middle" fill="#111">3 grey, 12 white</text>
+</svg>

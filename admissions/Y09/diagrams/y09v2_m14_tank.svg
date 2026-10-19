@@ -17,5 +17,5 @@
   <path d="M 230 268 l -5 -11 l 10 0 Z" fill="#111"/>
   <text x="130" y="42" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">80 cm</text>
   <text x="240" y="176" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">120 cm</text>
-  <text x="4" y="16" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" font-style="italic" fill="#111">Not drawn accurately</text>
+  <text x="2" y="17" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-style="italic" fill="#111">Not drawn accurately</text>
 </svg>

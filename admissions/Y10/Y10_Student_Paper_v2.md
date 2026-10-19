@@ -18,8 +18,10 @@ body.secondary h1 ~ h1, .newpage { break-before: page; }
 .frac > span { padding: 0 4px; }
 .frac > span:first-child { border-bottom: 1.4px solid #111; }
 .big .frac { font-size: 0.9em; }
-.dep td, .dep th { min-width: 3.9em; height: 2.1em; text-align: center; vertical-align: middle; }
-.rt { border-top: 1.3px solid #111; padding: 0 1px; }
+.dep { width: 100%; table-layout: fixed; }
+.dep td, .dep th { height: 2.1em; padding: 3px 4px; text-align: center; vertical-align: middle; }
+.dep th:first-child { width: 6.2em; }
+.rt { padding: 0 0 0 1px; }
 .calc { border: 1.6px solid #111; border-radius: 4px; padding: 3px 8px; margin: 2px 0 8px; display: inline-block; font-weight: 700; }
 </style>
 
@@ -532,16 +534,18 @@ How long do the two pumps take to fill the empty tank together?
 **Show** your working. You can get marks for your working, even if your answer is wrong.
 
 ### 11 [[marks:2]]
+![A frequency chart of the waiting times of 40 customers. Bars: 0 to 4 minutes, 6 customers; 4 to 8 minutes, 14 customers; 8 to 12 minutes, 12 customers; 12 to 16 minutes, 8 customers.](diagrams/y10v2_m11_wait_chart.svg){.w55 .right}
+
 A café records how long 40 customers wait for their food.
 The chart shows the results.
 
-![A frequency chart of the waiting times of 40 customers. Bars: 0 to 4 minutes, 6 customers; 4 to 8 minutes, 14 customers; 8 to 12 minutes, 12 customers; 12 to 16 minutes, 8 customers.](diagrams/y10v2_m11_wait_chart.svg){.w65}
-
 **Work out** an estimate of the mean waiting time.
 
-[[box:3:Working]]
+<div class="box" style="--n:4; margin-right: 58%;"><span>Working</span></div>
 
 [[answer]] minutes
+
+[[clear]]
 
 ### 12 [[marks:2]]
 A new laptop costs ¥6000.
@@ -557,20 +561,25 @@ You can use the table.
 [[answer:short]] years
 
 ### 13 [[marks:2]]
+![Two mathematically similar bottles of juice. The small bottle is 10 cm tall, holds 200 ml and costs 12 yuan. The large bottle is 15 cm tall and costs 36 yuan. Not drawn accurately.](diagrams/y10v2_m13_bottles.svg){.w50 .right}
+
 These two bottles of juice are mathematically similar.
 
-![Two mathematically similar bottles of juice. The small bottle is 10 cm tall, holds 200 ml and costs 12 yuan. The large bottle is 15 cm tall and costs 36 yuan.](diagrams/y10v2_m13_bottles.svg){.w60}
+The small bottle is 10&nbsp;cm tall.
+It holds 200&nbsp;ml. It costs ¥12.
+The large bottle is 15&nbsp;cm tall.
+It costs ¥36.
 
-The small bottle is 10 cm tall. It holds 200 ml. It costs ¥12.
-The large bottle is 15 cm tall. It costs ¥36.
 Which bottle is better value? **Show** how you decide.
 
-[[box:3:Working]]
+<div class="box" style="--n:4; margin-right: 53%;"><span>Working</span></div>
 
 **Tick** one. <span class="sp"></span> Small bottle [[tick]] <span class="sp"></span> Large bottle [[tick]]
 
+[[clear]]
+
 ### 14 [[marks:2]]
-![A jar with 10 sweets: 7 sweets marked L for lemon and 3 sweets marked M for mint.](diagrams/y10v2_m14_sweets.svg){.w40 .right}
+![A jar with 10 sweets: 7 sweets marked L for lemon and 3 sweets marked M for mint.](diagrams/y10v2_m14_sweets.svg){.w45 .right}
 
 A jar has 10 sweets.
 7 are lemon (L) and 3 are mint (M).
@@ -579,7 +588,7 @@ Then he takes another sweet at random.
 
 **Work out** the probability that the two sweets are the **same** flavour.
 
-<div class="box" style="--n:3; margin-right: 44%;"><span>Working</span></div>
+<div class="box" style="--n:3; margin-right: 49%;"><span>Working</span></div>
 
 [[answer]]
 
@@ -590,7 +599,7 @@ This is a rule for wheelchair ramps:
 
 > A ramp must not be steeper than **1 in 12**. For every 12 m across the ground, it can rise at most 1 m.
 
-![A wheelchair ramp up to a door. The ramp goes 6 m across the ground and makes an angle of 5 degrees with the ground. The height it rises is h. Not drawn accurately.](diagrams/y10v2_m15_ramp.svg){.w60}
+![A wheelchair ramp up to a door. The ramp goes 6 m across the ground and makes an angle of 5 degrees with the ground. The height it rises is h. Not drawn accurately.](diagrams/y10v2_m15_ramp.svg){.w70}
 
 This ramp goes 6 m across the ground. It makes an angle of 5° with the ground.
 Does this ramp follow the rule? **Explain** your answer.
@@ -600,15 +609,19 @@ Does this ramp follow the rule? **Explain** your answer.
 **Tick** one. <span class="sp"></span> Yes, it follows the rule. [[tick]] <span class="sp"></span> No, it is too steep. [[tick]]
 
 ### 16 [[marks:2]]
-![A lift with a sign that says Maximum load 630 kg, and eight boxes, each labelled 75 kg.](diagrams/y10v2_m16_lift.svg){.w60}
+![A lift with a sign that says Maximum load 630 kg, and eight boxes in two stacks of four, each box labelled 75 kg.](diagrams/y10v2_m16_lift.svg){.w50 .right}
 
 A lift can carry a maximum load of 630 kg.
-There are eight boxes. Each box has a mass of 75 kg, correct to the nearest 5 kg.
+There are eight boxes.
+Each box has a mass of 75&nbsp;kg, correct to the nearest 5&nbsp;kg.
+
 Can the lift **always** carry all eight boxes at the same time? **Explain** your answer.
 
-[[box:3:Working]]
+<div class="box" style="--n:3; margin-right: 53%;"><span>Working</span></div>
 
 **Tick** one. <span class="sp"></span> Yes [[tick]] <span class="sp"></span> No [[tick]]
+
+[[clear]]
 
 # Science
 

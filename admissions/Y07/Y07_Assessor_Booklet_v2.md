@@ -1,27 +1,29 @@
 ---
-title: Year 7 Admission Assessment: Assessor booklet
+title: Year 7 Admission Assessment v2: Assessor booklet
 style: assessor
-footer: Year 7 Admission Assessment | Assessor booklet
+footer: Year 7 Admission Assessment v2 | Assessor booklet
 ---
-# Year 7 Admission Assessment: assessor booklet
+# Year 7 Admission Assessment v2: assessor booklet
 
-For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7 entrant from a Chinese mainstream school has usually **completed Grade 5** and is the same age as a student starting Grade 6. The maths paper tests UK Year 6 content, so several topics (ratio, percentages, circles, negative numbers, pie charts, coordinates with negative numbers, multiplying and dividing fractions) **may not have been taught yet**. Section 4 lists them. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.
+**Version 2, October 2026.** This version replaces version 1 for Year 7 admissions; the version 1 files are kept for reference only. What is new: the listening has a second, academic part (Part B, a short lesson), so it is out of 16; the reading paper has a new, harder Part C (the version 1 Part C is now Part B, and the version 1 Part B is no longer used); and the maths paper is new, aimed at the higher end, with three sub-scores: fluency, word questions and applied problems. Writing, science, the interview and the shared reading files have not changed.
+
+For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7 entrant from a Chinese mainstream school has usually **completed Grade 5** and is the same age as a student starting Grade 6. The maths paper starts at the level expected for entry to Year 7 (the end of UK Year 6) and goes well beyond it, so several topics (dividing fractions, powers, negative numbers, percentages, expanding brackets, the nth term, vertically opposite angles) **may not have been taught yet**. Section 4 lists them. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.
 
 ## 1. At a glance
 
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 3) | 5 | Assessor reads the script twice | This booklet, Section 3.1 | Can be done with a small group |
-| 3 | Reading paper (pages 4 to 9) | 12 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
-| 4 | Writing (pages 10 to 11) | 10 | Student works alone | | Choose one of two tasks |
-| 5 | Break | 3 to 5 | | Water | |
-| 6 | Maths (pages 12 to 16) | 20 | Student; assessor may read questions aloud | No calculator, no protractor | Section A number problems, Section B word problems and pictures |
-| 7 | Science (pages 17 to 19) | 8 | Student; assessor may read questions aloud | | |
+| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | 10 | Assessor reads each script twice | This booklet, Section 3.1 | Can be done with a small group |
+| 3 | Reading paper (pages 6 to 12) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
+| 4 | Writing (pages 13 to 14) | 10 | Student works alone | | Choose one of two tasks |
+| 5 | Break | 5 | | Water | |
+| 6 | Maths (pages 15 to 20) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A fluency, Section B word questions, Section C applied problems |
+| 7 | Science (pages 21 to 23) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | `forms/Interview_Record_Y7_Y10`, `shared/Sentence_Reading_Record`, `shared/Sentence_Reading_Card`, a plain card | Sentence reading starts at **Level 6** (sentence 16) |
-| | **Total** | **about 70** | | | Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 85 to 90** | | | Plus the parent conversation (about 15 minutes, separate) |
 
-**Print for each candidate:** the Year 7 student paper (19 pages, A4), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
+**Print for each candidate:** the Year 7 v2 student paper (23 pages, A4), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
 
 ## 2. Before you start
 
@@ -34,20 +36,25 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not explain words, translate or read the reading texts aloud. You may repeat instructions in English. | Read any question aloud in English, as often as asked, and point to the picture. |
-| Chinese | Not used by staff. All answers must be in English; an answer in Chinese scores 0. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. Answers must be in English; an answer or explanation in Chinese scores 0. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. |
+| Answers | **In English only.** An answer in Chinese scores 0. | **In English only.** Numbers, ticks, drawings and working count. An answer, reason or explanation written in Chinese scores 0, even after an L reading. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 - **Extra time or a reader** for a known need is allowed; record it in the score summary.
-- **Stopping.** The student may stop any section when they have done what they can. In the reading paper, Part C is meant to stretch: if the student is clearly stuck after Part B, let them stop and say "Thank you, that is fine." In writing, if the student cannot write in English, ask them to write any words they know, or a plan; do not score Chinese writing, but keep it. Never push a distressed student: take a break or stop, and record it.
+- **Stopping.** The student may stop any section when they have done what they can. Listening Part B and reading Part C are meant to stretch fluent students: a student who is new to English may follow little of them, and that is expected. In the reading paper, if the student is clearly stuck after Part B, let them stop and say "Thank you, that is fine." In maths, the paper goes well beyond the expected level, so many students will not finish; reassure them. In writing, if the student cannot write in English, ask them to write any words they know, or a plan; do not score Chinese writing, but keep it. Never push a distressed student: take a break or stop, and record it.
 - **Keeping the student at ease.** Explain the order of the morning and the break. Sit beside, not opposite, for the interview. Praise effort, not answers ("Thank you, you are working hard"). Do not show surprise at mistakes. Keep the timer out of the student's line of sight, and give a calm two-minute warning near the end of each timed part.
 
 ## 3. English
 
-### 3.1 Listening (5 minutes, 8 marks)
+### 3.1 Listening (about 10 minutes, 16 marks)
 
-**Say:** "Turn to the Listening page. I am going to read a phone message. Li Na is calling her friend Sofia. I will read it two times. First, read the questions." Give the student **one minute** to look at all eight questions (pages 2 and 3). Then say: "Now listen. You can answer while I read."
+Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B.
 
-**Read it twice at a natural, steady pace.** Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part of the message, and do not explain any word.
+#### Part A: a phone message (questions 1 to 8, 8 marks)
+
+**Say:** "Turn to the Listening page. This is Part A. I am going to read a phone message. Li Na is calling her friend Sofia. I will read it two times. First, read the questions." Give the student **one minute** to look at questions 1 to 8 (pages 2 and 3). Then say: "Now listen. You can answer while I read."
+
+**Read it twice at a natural, steady pace.** Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give 30 seconds to finish. Do not repeat any part of the message, and do not explain any word.
 
 > **Script: a phone message**
 >
@@ -84,18 +91,67 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | 7 | The first show (in the space theatre) starts at ten. | They will miss the show; the show is at 10; they must be there before the show. | "Because they meet at half past nine" with no reason. |
 | 8 | To show that the robot exhibition must be very good: even her brother, who thinks everything is boring, liked it. | To make Sofia want to come; because the robots are amazing; because it is good and it closes soon. | "Because he is fourteen"; "because he is boring". |
 
-**Band guide (listening, / 8):** 0 to 2 **A** · 3 to 4 **B** · 5 to 6 **C** · 7 **D** · 8 **E**
+#### Part B: a short talk (questions 9 to 16, 8 marks)
+
+**Say:** "Now turn to Part B, on page 4. You will hear a short talk. A science teacher is giving a lesson about deserts. I will read it two times. You have one minute to read questions 9 to 16." After **one minute**, say: "Now listen. You can answer while I read."
+
+**Read it twice at a natural classroom pace**, as you would explain something to a class of fluent 11 year olds (about 150 words a minute; each reading takes about 2 and a half minutes). Pause for 2 to 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give **one minute** to finish. Do not slow down to dictation speed, repeat any part, or explain any word: Part B measures whether the student can follow a lesson in English at normal speed.
+
+> **Script: a short lesson about deserts**
+>
+> Good morning, everyone. Today we are finding out how plants and animals survive in one of the harshest habitats on Earth: the desert. **[pause]**
+>
+> When you hear the word "desert", you probably imagine golden sand and blazing sunshine. However, scientists define a desert by its precipitation, which means rain or snow, rather than by its temperature. A desert receives less than 250 millimetres of precipitation a year, while Shanghai, by comparison, gets more than a thousand. By this definition, about a third of the land on our planet is desert. The largest is the Sahara, in North Africa. Actually, I need to correct that: the Sahara is the largest hot desert, but the largest desert of all is Antarctica. **[pause]**
+>
+> Even when rain does come, it usually falls in one short, heavy storm, and much of it evaporates, or turns into water vapour, within a few hours. So how does anything survive? The answer is adaptations: special features that help a living thing to survive in its habitat. **[pause]**
+>
+> Take the cactus. Most plants lose a lot of water through their leaves. A cactus, on the other hand, has sharp spines instead of leaves, and as a result, far less water escapes into the air. Its thick stem stores water like a tank, while its roots spread out widely, just below the surface. **[pause]**
+>
+> Many desert animals are nocturnal: they shelter from the heat of the day and look for food at night. The fennec fox has enormous ears, which release heat from its body, whereas the Arctic fox has small ears that keep heat in. Many people think a camel's hump is full of water. In fact, it is full of fat, which the camel can turn into energy when food is scarce. **[pause]**
+>
+> The most remarkable example, though, is a beetle from the Namib Desert, in south-west Africa. On foggy mornings, it climbs to the top of a sand dune and leans forward into the wind. Tiny drops of water from the fog collect on its back and then roll down into its mouth. **[pause]**
+>
+> So, next time someone tells you that a desert is an empty place, you might ask them how carefully they have looked.
+
+**What the talk contains** (measured from the script above): 364 words in 23 sentences, an average of 16 words per sentence. 23% of its words are not among the 2000 most common English words in the `wordfreq` lists; with the method of `02_Listening_Evidence_Statement` (word endings matched, names of places not counted) the figure is about 19%, against 6 to 15% for the version 1 scripts. Features: a process (how the beetle collects water) and cause and effect (spines, so less water escapes); comparisons (a cactus and most plants; the fennec fox and the Arctic fox; desert and Shanghai rainfall); numbers (250 millimetres, more than a thousand, a third, a few hours); subject words explained in passing (precipitation, evaporates, adaptations, habitat, nocturnal); a self-correction ("Actually, I need to correct that"); a misconception corrected ("In fact"); an opinion that is implied, not stated (the last sentence); discourse markers (however, while, by comparison, on the other hand, as a result, whereas, in fact, though).
+
+**Answers.** One mark each (questions 12 and 13 are one mark per gap). Spelling does not matter if the meaning is clear. Short answers and notes are fine: the writing is not marked here. Answers must be in English. The questions follow the order of the talk; question 16 is about the whole talk.
+
+| Q | Skill | Answer | Also accept | Do not accept, and what it tells you |
+|---|---|---|---|---|
+| 9 | Specific detail (a number) | **250** (millimetres) | two hundred and fifty | 1000 or "a thousand" (Shanghai's rainfall): heard the comparison, not the definition. |
+| 10 | Specific detail (a name) | **Antarctica** | | The Sahara: missed the self-correction ("Actually, I need to correct that: the Sahara is the largest hot desert"). The Namib: caught a later name only. |
+| 11 | Inference joining two parts of the talk | Rain does not last long in a desert: it comes in one short storm and much of it evaporates within a few hours, so roots just below the surface can take in the water quickly, before it evaporates. | Any answer that links the roots to the rain disappearing quickly: "to catch the rain fast before it dries up"; "the water evaporates quickly, so the roots must get it quickly"; "the rain only comes for a short time". | "To get water" or "to drink water" with no link to the rain disappearing quickly (a literal answer that does not join the two parts); "to hold the cactus up"; "because it rains a lot". |
+| 12 | Note completion | **heat** | body heat; heat from its body; the heat; hot air | "water", "sound"; "cold" (mixed up with the Arctic fox's small ears that keep heat in). |
+| 13 | Note completion | **fat** | fats; fat for energy | "water": the belief the teacher corrects ("Many people think a camel's hump is full of water. In fact, it is full of fat"): heard the first sentence, missed "In fact". "Energy" alone: what the fat becomes, not what fills the hump. |
+| 14 | Process: a sequence | From the top: **3, 1, 4, 2** (climbs the dune, leans into the wind, drops collect on its back, water rolls into its mouth) | | Any other order: 0. All four must be right for the mark. "Leans" before "climbs" usually means the student caught the words but not the order. |
+| 15 | Speaker's attitude (implied) | **They have not looked carefully enough.** | | "They are right": took "an empty place" at face value and missed the meaning of "you might ask them how carefully they have looked". |
+| 16 | Main idea | **how plants and animals survive with very little water** | | "why deserts are always hot and sandy" (the talk says the opposite; caught "sand" and "sunshine" from the opening); "camels" (one detail). |
+
+**Band guide v2 (listening, / 16).** Use the part scores, in this order:
+
+| Result | Band |
+|---|---|
+| Part A 0 to 2 | **A** |
+| Part A 3 to 4 | **B** |
+| Part A 5 to 6, or Part A 7 to 8 with Part B 0 to 2 | **C** |
+| Part A 7 to 8 with Part B 3 to 5 | **D** |
+| Part A 7 to 8 with Part B 6 to 8 | **E** |
+
+Use judgement when a result is uneven (for example Part A 6 with Part B 6, which can happen when a student misses one picture item but follows the talk well): look at which items were lost, and check against "listening in conversation" on the interview record.
 
 **What to look for**
-- Questions 1 to 4 test gist and detail with a distractor in each. A student who chooses the distractor every time is catching single words ("cinema", "ten", "dad") without the sentence around them: typical of band B.
-- Questions 7 and 8 need inference. A fluent Year 7 listener gets both quickly. Short answers are fine: the writing is not marked here.
+- In Part A, questions 1 to 4 each have a distractor. A student who chooses the distractor every time is catching single words ("cinema", "ten", "dad") without the sentence around them: typical of band B. Questions 7 and 8 need inference.
+- Part A shows secure everyday listening; Part B shows whether the student can follow a lesson at normal speed. A fluent Year 7 listener answers most of Part B quickly, including questions 11 and 15, which depend on joining ideas rather than catching words.
+- Questions 10 and 13 have a strong distractor that is said first and then corrected ("Actually", "In fact"). A student who chooses the Sahara or writes "water" is following word by word and missing how the speaker's ideas connect: typical of band C or low D.
+- A student who scores 7 or 8 in Part A but 0 to 2 in Part B copes with everyday English but will find lessons in English hard at first: band C, with listening support planned.
 - **English barrier or something else?** If a student scores low but follows your spoken instructions easily, check whether the problem was speed (they may do better in conversation) or attention. Note it for the interview.
 
-### 3.2 Reading paper (12 minutes, 24 marks)
+### 3.2 Reading paper (15 minutes, 24 marks)
 
-**Say:** "Turn to the Reading pages. Read the texts and answer the questions. There are three parts. They get harder. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Start the timer. Do not read the texts or questions aloud, and do not explain words. You may repeat this instruction. Give a two-minute warning.
+**Say:** "Turn to the Reading pages. Read the texts and answer the questions. There are three parts. They get harder. Part C is hard. Do as much as you can. It is fine if you do not finish. You have 15 minutes." Start the timer. Do not read the texts or questions aloud, and do not explain words. You may repeat this instruction. Give a two-minute warning.
 
-**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question. Answers must be in English; an answer in Chinese scores 0.
+**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question, except where a question asks for the student's own words (questions 15 and 20). Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: After-school clubs** (a notice; very accessible, with pictures)
 
@@ -108,45 +164,48 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | 5 | a False · b True · c False | | 1 mark for each correct row (3 marks) |
 | 6 | Drama | Drama Club | Art |
 
-**Part B: Kites** (non-fiction, about two years below age level)
-
-| Q | Answer | Also accept | Do not accept |
-|---|---|---|---|
-| 7 | wood | | |
-| 8 | more than two thousand years | over 2000 years; 2000 years; two thousand years | |
-| 9 | B | | |
-| 10 | It keeps the kite steady. | It stops the kite spinning (round and round); it helps it stay still or balanced. | It makes the kite fly; it holds the kite. |
-| 11 | a True · b False | | 1 mark each |
-| 12 | They cost less money. | | |
-| 13 | There are no trees or wires for the kite to get caught in. | It is safe; there is space to run or to fly it; nothing is in the way; there is more wind. | Answers that only repeat "a park or a beach" with no reason. |
-
-**Part C: Mist** (fiction, age-appropriate for a fluent reader of 11)
+**Part B: Mist** (fiction, age-appropriate for a fluent reader of 11; this was Part C in version 1, with the same questions and answers, renumbered)
 
 | Q | Skill | Answer | Also accept | Do not accept |
 |---|---|---|---|---|
-| 14 | Retrieval | Next to Tom | By the window; at the empty desk by the window | |
-| 15 | Retrieval | A place they loved | A favourite place; a place they like | His grandfather's tea garden (what Chen Yu drew, not what was asked) |
-| 16 | Inference | He was alone and did not want people to see it. | He had nobody to talk to; he was shy, nervous or lonely; he did not know anyone; so nobody would notice him | He was hungry; the rice was hot |
-| 17 | Vocabulary in context | flow fast, like a river | | |
-| 18 | Inference with evidence (2) | **1 mark** for a feeling: nervous, shy, lonely, worried, scared, uncomfortable, sad, alone, not happy. **1 mark** for evidence that fits: he counted the faces; nobody looked up; he kept his eyes on the board; he copied every word; Tom did not say a word; he sat at the end of the table; he ate slowly to look busy. | Evidence in the student's own words | A positive feeling ("happy", "excited") scores 0 for the feeling; the evidence mark can still be given if the evidence is correct. |
-| 19 | Why do you think | To make a joke; to make Chen Yu feel welcome or relaxed. | To show the club is friendly and you do not need to be good at sport; because Tom is bad at football too; to make him laugh | "Because they play football in the club" |
-| 20 | Author's purpose | The grey streets show Chen Yu's feelings: he feels happier or more hopeful now, because he has made a friend. | He is not lonely now; his day got better; things seem better because of Tom and the art club | "Because the rain stopped" (not in the text: a literal reading; note it) |
+| 7 | Retrieval | Next to Tom | By the window; at the empty desk by the window | |
+| 8 | Retrieval | A place they loved | A favourite place; a place they like | His grandfather's tea garden (what Chen Yu drew, not what was asked) |
+| 9 | Inference | He was alone and did not want people to see it. | He had nobody to talk to; he was shy, nervous or lonely; he did not know anyone; so nobody would notice him | He was hungry; the rice was hot |
+| 10 | Vocabulary in context | flow fast, like a river | | |
+| 11 | Inference with evidence (2) | **1 mark** for a feeling: nervous, shy, lonely, worried, scared, uncomfortable, sad, alone, not happy. **1 mark** for evidence that fits: he counted the faces; nobody looked up; he kept his eyes on the board; he copied every word; Tom did not say a word; he sat at the end of the table; he ate slowly to look busy. | Evidence in the student's own words | A positive feeling ("happy", "excited") scores 0 for the feeling; the evidence mark can still be given if the evidence is correct. |
+| 12 | Why do you think | To make a joke; to make Chen Yu feel welcome or relaxed. | To show the club is friendly and you do not need to be good at sport; because Tom is bad at football too; to make him laugh | "Because they play football in the club" |
+| 13 | Author's purpose | The grey streets show Chen Yu's feelings: he feels happier or more hopeful now, because he has made a friend. | He is not lonely now; his day got better; things seem better because of Tom and the art club | "Because the rain stopped" (not in the text: a literal reading; note it) |
 
-**Band guide (reading paper).** Use the part scores, in this order:
+**Part C: The Long Black Case** (literary fiction, above the level expected at 11 or 12; new in version 2)
+
+571 words. Rich vocabulary (insisted, overwhelming, tenderly, convinced, ferocious, elaborate, propped, glittered), long and varied sentences, figurative language ("as tenderly as if it were a newborn baby", "a restless sea of windows and headlights", "our hearts thudding louder than our footsteps"), gentle irony (Lin's "evidence"), and an ending that echoes an earlier detail. The narrator's view of Lin, and the change in the children, must be inferred: neither is stated.
+
+| Q | Skill | Answer | Also accept | Do not accept |
+|---|---|---|---|---|
+| 14 | Vocabulary in context | very strong, so it is hard to argue with | | |
+| 15 | Explaining in your own words | **1 mark** for two reasons in the student's own words: he moved in in the middle of the night; he only goes out after dark (after sunset) and comes back at dawn, tired; he has a long black case that he carries very carefully, as if something secret is inside. | Key words from the text inside the student's own sentence ("He goes out at night and comes home in the morning"; "He has a big black case and he is very careful with it"); "nobody saw any furniture"; "he hums" (from the notebook) | One reason only; two whole sentences copied from the text ("He never left the building before sunset, and he crept home at dawn ..."); "because he is a spy" |
+| 16 | Writer's viewpoint | The writer wants us to see that Lin's evidence is not really evidence: humming proves nothing, so the writer is gently making fun of Lin and her spy idea. | Her evidence is silly, funny or weak; anyone can hum; Lin thinks everything is suspicious; Lin is imagining things; the narrator does not really believe her | "Spies hum" or "Mr Gao is a spy" (takes Lin at her word: a literal reading, so note it); "humming is suspicious" |
+| 17 | Inference with evidence | **1 mark** for an inference and evidence that fits it: he already knew the children had been watching or following him (and did not mind). Evidence: "The two who write everything down." | He had seen them spying; he knew about the notebook; he expected or wanted them to come, with "The two who write everything down", "Come and see what I have been hiding" or "If anything, he looked pleased"; he is friendly and wanted to share the telescope, with "he looked pleased" or "Come and see" | An inference with no evidence, or evidence that does not fit; "he was not surprised" (repeats the question); "he is a spy" |
+| 18 | Inference with evidence | **1 mark** for an inference and evidence that fits it: she realised that she had been wrong about Mr Gao, and felt embarrassed or sorry that she had spied on him. Evidence: "Lin said nothing. For once, she did not write anything down either", or "She did not explain". | She does not think he is a spy any more; she wants to forget the spy game; she likes him now; she does not need the notes, because she knows the truth (the case held a telescope) | "Because the notebook was full"; "to throw away rubbish"; an inference with no evidence |
+| 19 | Effect of the writer's choice of structure | 8:47 is the time in Lin's notebook when Mr Gao leaves with his case. At the end the children are waiting for him at the same time, but now to look through the telescope with him, not to spy on him. The repeated time shows how much they have changed. | It links the ending to the notebook at the start; they now want to go with him every evening; the spy game has turned into stargazing; they want to see Saturn again at the time he goes up | "Because it is in the evening"; "because he goes out then" with no sense of the change (literal: note it) |
+| 20 | Summary (2) | **1 mark** for each of two stages, in order and in the student's own words, up to 2: at first they think he is a spy (Lin is sure; the narrator is not sure, but enjoys the game) and spy on him; on the roof they are surprised or amazed to find he only has a telescope, and realise they were wrong; at the end they like or admire him and want to look at the sky with him again. | Short, simple sentences; the start and the end without the middle (2 marks) | Events with no feelings ("they followed him up the stairs") score 0 for that point; whole sentences copied from the story score 0 |
+
+**Band guide v2 (reading paper, / 24).** Use the part scores, in this order:
 
 | Result | Band |
 |---|---|
-| Part A under 4 | **A** |
-| Part A 4 or more, Part B under 4 | **B** |
-| Part B 4 or more, Part C under 3 | **C** |
-| Part C 3 to 5 | **D** |
-| Part C 6 to 8 | **E** |
+| Part A 0 to 3 | **A** |
+| Part A 4 or more, Part B 0 to 2 | **B** |
+| Part B 3 to 5 | **C** |
+| Part B 6 to 8 with Part C 0 to 4 | **D** |
+| Part B 6 to 8 with Part C 5 to 8 | **E** |
 
 Use judgement when a result is uneven (for example a high Part C with a low Part B, which can happen when a student ran out of time or misread one instruction), and check against the sentence reading screen in the interview.
 
 **What to look for**
-- Strong readers answer Part C questions 16, 18 and 20 in their own words and link feelings to evidence. Weaker readers copy a nearby sentence whether or not it answers the question.
-- A student who does Parts A and B well but leaves Part C blank may have run out of time rather than understanding. Note where they stopped at 12 minutes.
+- Part B (Mist) is the age-level story: a fluent reader of 11 scores 6 or more. Part C is above age level; 5 or more in Part C is strong evidence of band E, and of a reader who will cope with demanding texts in English lessons.
+- In Part C, strong readers explain in their own words (15 and 20), see the joke in Lin's "evidence" (16) and notice that the ending repeats 8:47 (19). Weaker readers copy sentences, or read Lin's view as the truth ("spies hum").
+- A student who does Parts A and B well but leaves Part C blank may have run out of time rather than understanding. Note where they stopped at 15 minutes.
 - **English barrier or reading difficulty?** Most students in this pack are learning English, so low scores usually reflect vocabulary. If a student reads aloud fluently in the sentence reading screen but scores low here, the gap is vocabulary and comprehension, not decoding. If a student is slow and inaccurate in both, and also reads slowly in Chinese (ask the parents), note a possible reading difficulty.
 
 ### 3.3 Writing (10 minutes, 16 marks)
@@ -181,68 +240,83 @@ The interview is 1:1 and uses **`forms/Interview_Record_Y7_Y10`**. It opens with
 
 The interview record's opinion questions include homework and phones. These do not overlap with the writing tasks above.
 
-## 4. Maths (20 minutes, 30 marks)
+## 4. Maths (25 minutes, 30 marks)
 
-**Say:** "Turn to the Maths pages. Section A is number problems. Section B is word problems and problems with pictures. You cannot use a calculator. Show your working in the boxes: you can get marks for your working. I can read any question to you. Just ask. You have 20 minutes."
+**Say:** "Turn to the Maths pages. There are three sections. Section A is calculation and algebra. Section B is word questions: read the question, write an equation and solve it. Section C is problems with pictures, tables and charts. You cannot use a calculator. Show your working in the boxes: you can get marks for your working. I can read any question to you. Just ask. You have 25 minutes."
 
-Read any question aloud on request, as often as asked, and point to the picture. Follow the access rules (Section 2): mark **L** if a Chinese-speaking colleague gave a question once in Chinese, and **NT** if the student says they have not learnt the topic.
+Read any question aloud on request, as often as asked, and point to the picture. Follow the access rules (Section 2): mark **L** if a Chinese-speaking colleague gave a question once in Chinese, and **NT** if the student says they have not learnt the topic. Answers, reasons and explanations must be in English (numbers and working count).
 
-**Marking.** Accept any clear, correct method. Accept equivalent answers (for example 6/15 for 2/5) unless the question says otherwise. Units are printed on the paper, so a missing unit does not lose a mark. Where a method mark is shown, give it for a correct method with one arithmetic slip.
+**What the paper is for.** Version 2 is aimed at the higher end. It starts at the level expected for entry to Year 7 (the end of UK Year 6) and goes well beyond it, into Year 7 and early Year 8 content; there are no easy "floor" questions. It measures three things separately, because students from Chinese schools are usually strong in the first and less practised in the other two: **fluency** (Section A: calculation and algebra with no context), **word questions** (Section B: problems given only in sentences, which the student must read and set up) and **applied problems** (Section C: multi-step problems in real or unfamiliar contexts, with diagrams, charts and "Show" or "Explain").
 
-**Section A: Number problems (11 marks)**
+**Marking.** Accept any clear, correct method. A correct answer scores full marks, with or without working, except where the question says **Show** or **Explain** (questions 14 and 18c) or asks for reasons (16): there the working or reason is part of the answer. In Section B, a correct answer scores 2 however it was found (an equation, a bar model, or trial and improvement with a check). Accept equivalent answers (for example 6/10 for 3/5) unless the question says otherwise. Units are printed on the paper, so a missing unit does not lose a mark. **M1** is a method mark: give it for a correct method with one arithmetic slip, or for the step named, when the final answer is wrong.
 
-| Q | Answer | Marks | Accept, partial credit and common errors | Content |
-|---|---|---|---|---|
-| 1 | 7244 | 1 | | Addition (floor item) |
-| 2 | 9342 | 1 | Common slips: 6920 + 2422 added wrongly; 346 × 2 instead of × 20 (3114). | Long multiplication (floor item) |
-| 3 | a 17 · b 6 | 1 + 1 | a: 32 means the student worked from left to right. b: 2.4 (12 ÷ 5) means the student added before dividing; 18 means the brackets were ignored. | Order of operations |
-| 4 | 36 | 2 | **1 mark** for a correct method (long or short division, chunking such as 24 × 30 = 720, remainder 144 = 24 × 6) with one arithmetic error. | Long division |
-| 5 | 2/5 | 1 | 6/15, 0.4 | Multiplying fractions |
-| 6 | 1/4 | 1 | 3/12, 0.25. 9/4 means the student multiplied. | Dividing a fraction by a whole number |
-| 7 | 60 (%) | 1 | | Fraction, decimal and percentage equivalence |
-| 8 | 12 | 1 | | Percentage of an amount |
-| 9 | −13 | 1 | 13, −3 or 3 show a sign error. | Negative numbers (Year 7 content: ceiling item) |
-
-**Section B: Word problems and pictures (19 marks).** **W** = word problem (8 marks in all).
+**Section A: Fluency (10 marks)**
 
 | Q | Answer | Marks | Accept, partial credit and common errors | Content |
 |---|---|---|---|---|
-| 10 **W** | 1800 (cm³) | 1 | One-step, measures. 41 (adding) means the student did not know volume. | Volume of a cuboid |
-| 11 | a 30 · b 40 (cm²) | 1 + 1 | a: 60 forgot to halve. b: 48 used the sloping side (8 × 6). | Area of a triangle and a parallelogram |
-| 12 **W** | 450 (g) | 1 | Two-step: 300 ÷ 4 × 6, or 300 + 150. 600 (doubled) or 306 (added 6) are common errors. | Ratio and scaling |
-| 13 | a = 50, b = 55 (degrees) | 1 + 1 | b: follow through from a wrong a: give the mark for 180 − 75 − (their a) if positive. a = 130 confuses vertically opposite angles with angles on a straight line. | Vertically opposite angles; angles in a triangle |
-| 14 | radius **B**, diameter **C**, circumference **A** | 1 | All three correct for the mark. | Parts of a circle (English vocabulary) |
-| 15 **W** | 180 (yuan) | 2 | Multi-step, money and percentages. **1 mark** for 60 seen (25% of 240), or for 3/4 × 240 or 240 × 0.75 with an arithmetic slip. 60 as the final answer scores 1. 215 (took away 25) scores 0. | Percentages of amounts |
-| 16 | a 1/4 · b 20 | 1 + 1 | a: 25%, 0.25, 30/120, 90/360. b: 60/360 × 120. 60 (the angle) scores 0. | Pie charts |
-| 17 **W** | a 26 · b 15 | 1 + 1 | Multi-step, money, a formula. a: 10 + 2 × 8. 96 (10 + 2 then × 8) is an order of operations error. b: (40 − 10) ÷ 2. 20 (40 ÷ 2) ignores the starting cost. | Simple formulae; missing numbers |
-| 18 | a (−3, 4) · b (−3, −2) | 1 + 1 | Brackets not needed if the order is clear. If **both** answers have x and y the wrong way round, give 1 mark in total and note it. | Coordinates in four quadrants |
-| 19 | a 16 · b 3*n* + 1 | 1 + 1 | b: 3 × *n* + 1, 1 + 3*n*, "multiply by 3 and add 1". "Add 3" (the term-to-term rule) scores 0 but shows partial understanding: note it. | The nth term (b is a ceiling item) |
-| 20 **W** | a 5 · b 11 | 1 + 1 | Multi-step. b: 6 × 6 = 36, 36 − 25 = 11. 6 or 7 are common guesses. | The mean (b is a ceiling item) |
+| 1 | a 4 7/12 · b 3/5 | 1 + 1 | a: 55/12, 3 19/12. 3 8/10 means the student added the numerators and the denominators. b: 0.6, 24/40, 6/10. 64/15 or 4 4/15 means the student multiplied instead of dividing. | Adding mixed numbers with different denominators (the expected level for entry); dividing mixed numbers |
+| 2 | 80 | 1 | 8 or 800: a place value slip. | Dividing by a decimal |
+| 3 | 100 | 1 | 316 means (3 × 6)²; 5.5 means the student worked from left to right ((108 − 64) ÷ 8). | Order of operations with powers and brackets |
+| 4 | 19 | 1 | −1 means 5 × (−2) was taken as +10; 1 means (−3)² was taken as −9. | Negative numbers and powers |
+| 5 | 42 | 1 | Usually 10% + 5% + 2.5% = 24 + 12 + 6. | Percentages of amounts |
+| 6 | 2*x* − 15 | 1 | −15 + 2*x*. 2*x* − 5 means only the first term was multiplied; 10*x* − 15 means 4*x* was added. | Expanding a bracket and collecting like terms |
+| 7 | 33 | 1 | −15 (9 − 24, a sign error in −2*ab*); 15 ((−3)² taken as −9). | Substitution with negative numbers |
+| 8 | −3.5 | 1 | −7/2, −3½, −14/4. 3.5 is a sign error; 6.5 or −6.5 means 6 was added to 20. | Solving a two-step equation with a negative answer |
+| 9 | 26 − 3*n* | 1 | −3*n* + 26. "Subtract 3" (the term-to-term rule) scores 0 but shows partial understanding: note it. 23 − 3*n* or 3*n* + 20 score 0. | The *n*th term of a decreasing sequence |
 
-**Totals:** Section A / 11 · Section B / 19 · **of which word problems / 8** (questions 10, 12, 15, 17 and 20).
+**Section B: Word questions (8 marks)**
 
-**Band guide (maths, / 30; provisional):** 0 to 11 **1** Well below expected · 12 to 17 **2** Working towards · 18 to 25 **3** Expected · 26 to 30 **4** Greater depth. List NT questions, and judge whether the student would reach band 3 once taught.
+| Q | Answer | Marks | Accept, partial credit and common errors | Content |
+|---|---|---|---|---|
+| 10 | 11 | 2 | **M1** for 3(*n* + 6) = 51, (*n* + 6) × 3 = 51, or 51 ÷ 3 = 17 seen. 33 (from *n* + 6 × 3 = 51) means the order in the sentences was not followed; 15 (from 3*n* + 6 = 51) the same. | "I think of a number": brackets from words |
+| 11 | ¥2 (2.00) | 2 | **M1** for 3(*p* + 2.50) + 2*p* = 17.50, or 5*p* + 7.50 = 17.50, or a trial checked correctly. 4.50 (the pen, not the pencil) scores 1. 3 (from 3*p* + 2.50 + 2*p* = 17.50, with the 2.50 counted once) and 3.50 (17.50 ÷ 5) score 0. | Costs: forming and solving an equation with decimals |
+| 12 | 126 (cm²) | 2 | **M1** for width 9 or length 14 (from 4*w* + 10 = 46 or 2(*w* + *w* + 5) = 46). 9 or 14 as the final answer scores 1. 132.25 (treated as a square, 11.5 × 11.5) scores 0. | Perimeter with algebraic sides, then area |
+| 13 | 15 | 2 | **M1** for 3*a* + 5 = 2(*a* + 5), or Aisha's age 5 seen. 5 as the final answer (Aisha's age) scores 1. 30 (from 3*a* = 2(*a* + 5), forgetting that Amir also gets 5 years older) scores 0. | Ages: an equation with the unknown on both sides |
+
+**Section C: Applied problems (12 marks)**
+
+| Q | Answer | Marks | Accept, partial credit and common errors | Content |
+|---|---|---|---|---|
+| 14 | Carton **B** (1.2 litres) | 2 | **M1** for values that compare the two cartons by a correct method, for example ¥16.80 and ¥16.00 a litre; ¥1.68 and ¥1.60 for 100 ml; ¥2.52 and ¥2.40 for 150 ml; ¥50.40 and ¥48.00 for 3 litres; or ¥20.16 for 1.2 litres at Carton A's price. **A1** for correct values and B. "B" with no working, or "B because it is bigger", scores 0 (the question says Show). | Best buy: proportional reasoning with decimals and mixed units (ml and litres) |
+| 15 | 21 (points) | 2 | **M1** for 44 and 11 (the total and mean of games 1 to 4) with 13 seen, or 65 (5 × 13). 16 (60 − 44, using a mean of 12) and 13 (the new mean given as the score) score 0. | The mean with a missing value; reading a bar chart |
+| 16 | *x* = 65, *y* = 115 (degrees) | 3 | **1** for *x* = 65. **1** for *y* = 115 (follow through: 180 − their *x*). **1** for a correct reason for each: for *x*, vertically opposite angles are equal (angle AXB = 50°) or the base angles of an isosceles triangle are equal, or angles in a triangle add up to 180°; for *y*, angles on a straight line add up to 180°. Simple words are fine ("opposite angles are the same", "two equal sides so two equal angles", "a straight line is 180"). *x* = 50 (the given angle copied) scores 0. | Angle reasoning with reasons: vertically opposite angles, isosceles triangles, angles on a straight line |
+| 17 | 12:15 | 2 | 12:15 pm, 12.15, quarter past twelve. **M1** for 300 layers (60 ÷ 0.2), 9000 seconds, 150 minutes or 2 hours 30 minutes. 2 hours 30 minutes as the final answer scores 1. 10:00 (from 30 layers: 6 ÷ 0.2, with centimetres not changed to millimetres) scores 0. | Rates in an unfamiliar context; changing units (cm and mm, seconds, minutes and hours); time |
+| 18 | a 26 · b 22 · c see the next column | 1 + 1 + 1 | a: 2 × 10 + 6, or counting on in twos from 8. b: 22 (22 grey tiles use 2 × 22 + 6 = 50 white tiles; 23 would need 52). 22.5 or 23 scores 0. c: any correct general reason: the number of white tiles is 2*n* + 6 = 2(*n* + 3), which is a multiple of 2; the white tiles are two equal rows (above and below) plus 2 at the ends; each new grey tile adds 2 white tiles, starting from 8. "8, 10 and 12 are even" (examples only) scores 0, because it does not explain why every pattern is even. | A linear pattern in context; the largest whole number that fits; explaining a general rule |
+
+**Totals:** Fluency (Section A) / 10 · Word questions (Section B) / 8 · Applied (Section C) / 12 · **Total / 30**.
+
+**Band guide v2 (maths, / 30; provisional, for a harder paper):** 0 to 10 **1** Below expected (under 35%) · 11 to 16 **2** Working towards (35 to 54%) · 17 to 22 **3** Expected (55 to 74%) · 23 to 30 **4** Greater depth, likely top set (75% or more). List NT questions, and judge whether the student would reach band 3 once taught. These cut-offs are lower than in version 1 because the paper is harder; review them after the first 20 to 30 candidates.
+
+**Reading the three sub-scores**
+
+| Profile | What it usually means | What to do |
+|---|---|---|
+| Fluency high (8 to 10), word questions low (0 to 4) | The English of the questions, not the maths, is the barrier. | Read the word questions aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the student then solves them, record that the barrier is English. |
+| Fluency and word questions high, applied low (under 6) | Strong calculation and setting up, less practice in multi-step problems, choosing a method and explaining. | The student needs teaching in problem solving and explaining, not more content. Note it for the maths teacher. |
+| All three high (23 or more in total) | Greater depth. | Likely top set. |
+| Fluency low, mostly on NT topics (1b, 3, 4, 5, 6, 7, 8) | Gaps from the different order of topics in Chinese schools. | List the NT topics and judge whether the student will reach band 3 once taught. |
+| Fluency low on familiar topics (1a, 2) | A real gap in calculation. | Note it, with the word question and applied scores, for the maths teacher. |
 
 **May not have been taught.** A Year 7 entrant from a Chinese mainstream school has usually completed Grade 5 (PEP sequence; other textbooks differ a little, so ask the student). These topics are usually taught in Grade 6 or later, so the student **may not have been taught** them:
 
 | Questions | Topic | Usually taught in China |
 |---|---|---|
-| 5, 6 | Multiplying and dividing fractions | Grade 6 |
-| 7, 8, 15 | Percentages | Grade 6 |
-| 9 | Negative numbers | Grade 6 (operations in Grade 7) |
-| 12 | Ratio (the scaling method itself is familiar) | Grade 6 |
-| 13 | Vertically opposite angles (angle sum of a triangle is Grade 4) | Grade 7 |
-| 14 | Parts of a circle | Grade 6 |
-| 16 | Pie charts | Grade 6 |
-| 18 | Coordinates with negative numbers (first-quadrant number pairs may be known from Grade 5) | Grade 7 |
-| 19b | A rule for the nth term (pattern spotting is common; letters for numbers is Grade 5) | Not taught formally |
+| 1b | Dividing fractions (adding fractions with different denominators and mixed numbers is Grade 5) | Grade 6 |
+| 3 | Powers such as 4³ (squares may be familiar from area) | Grade 7 |
+| 4, 7 | Calculating with negative numbers | Grade 6 (meaning), Grade 7 (operations) |
+| 5 | Percentages | Grade 6 |
+| 6 | Expanding brackets and collecting like terms | Grade 7 |
+| 8 | An equation with a negative answer (simple equations are Grade 5) | Grade 7 |
+| 9, 18 | A rule for the *n*th term (spotting patterns is common; letters for numbers is Grade 5) | Not taught formally |
+| 16 | Vertically opposite angles (isosceles triangles, the angle sum of a triangle and angles on a straight line are Grade 4) | Grade 7 |
 
-Usually **familiar**: addition, long multiplication and division, order of operations (Grade 4), area of triangles and parallelograms and volume of cuboids (Grade 5), simple formulae and equations (Grade 5), the mean (Grade 4).
+Usually **familiar**: decimals, including dividing by a decimal (Grade 5); adding and subtracting fractions (Grade 5); solving word problems with an equation (Grade 5, and often practised a lot in Chinese, so Section B mainly tests whether the student can read the problem in English); unit prices; the mean (Grade 4); perimeter and area (Grade 3); 24-hour time (Grade 3).
 
 **What to look for**
-- **Number problems against word problems.** Compare Section A with the word problems (W). A student who does well on number problems but poorly on word problems may have an **English barrier** rather than a maths difficulty. Check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the student then solves it, record that the barrier is English.
-- Strong students show efficient written methods, check answers, and get the ceiling items (9, 19b, 20b). Many students from Chinese schools calculate quickly and accurately but leave out working: that is fine when the answer is right.
-- A low score that is mostly NT topics (circles, percentages, pie charts, negative numbers, coordinates) is not the same as a low score on taught topics (calculation, area, volume, the mean). Say which in the summary.
+- **Compare the three sub-scores** (table above) before deciding that a student is weak at maths.
+- In Section B, a student who writes a correct equation but makes a slip has understood the English. A student who leaves the section blank, or combines the numbers in the order they appear (for example 6 × 3 + 51), has probably been stopped by the English: read the question aloud and see.
+- Questions 14, 16 and 18c ask the student to show, give reasons or explain. Many students from Chinese schools give correct answers without reasons. A correct number with no reason gets the answer marks only. That is useful information for teachers, not a sign of weak maths.
+- Strong students get 3, 8, 9, 13, 15, 17 and 18b, and give general reasons in 18c. Question 17 is an unfamiliar context: a student who changes 6 cm to 60 mm without being told is reading the problem carefully.
 
 ## 5. Science (8 minutes, 10 marks)
 
@@ -275,15 +349,15 @@ Usually **familiar**: addition, long multiplication and division, order of opera
 
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
-| Listening | / 8 | A B C D E | |
-| Reading paper | / 24 (A / 8, B / 8, C / 8) | A B C D E | Where did the student stop at 12 minutes? |
+| Listening | / 16 (Part A / 8, Part B / 8) | A B C D E | |
+| Reading paper | / 24 (A / 8, B / 8, C / 8) | A B C D E | Where did the student stop at 15 minutes? |
 | Sentence reading (shared record) | points / 72, reading age | indicative A B C D E | Meaning checks, fluency |
 | Writing | / 16 (content / 4, vocabulary / 4, grammar / 4, spelling and punctuation / 4) | A B C D E | Task chosen: 1 2 |
 | Speaking (from the interview) | | A B C D E | |
-| Maths | / 30 (A / 11, B / 19, of which word problems / 8) | 1 2 3 4 | NT: L: |
+| Maths | / 30 (Fluency / 10, Word questions / 8, Applied / 12) | 1 2 3 4 | NT: L: |
 | Science | / 10 | 1 2 3 4 | NT: L: |
 
-**Number problems against word problems:** Section A ____ / 11 (____ %) and word problems ____ / 8 (____ %). If the word problem percentage is much lower, was the barrier English? (Tick if a word problem was solved after it was read aloud or given in Chinese.) [[tick]]
+**Maths profile:** Fluency ____ / 10 (____ %), word questions ____ / 8 (____ %), applied ____ / 12 (____ %). If the word question percentage is much lower than fluency, was the barrier English? (Tick if a word question was solved after it was read aloud or given in Chinese.) [[tick]] If applied is much lower than both, the student needs teaching in problem solving and explaining. [[tick]]
 
 **Overall English band:** &nbsp; **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E** &nbsp; (the band most of the four skills sit in; name any skill that is two or more bands below the others)
 

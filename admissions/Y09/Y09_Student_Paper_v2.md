@@ -580,7 +580,7 @@ The graph shows the cost of hiring one bike.
 [[lines:1]]
 
 ### 14 [[marks:3]]
-![A water tank in the shape of a cylinder. The diameter of the circle at the top is 80 cm. The height of the tank is 120 cm.](diagrams/y09v2_m14_tank.svg){.w45 .right}
+![A water tank in the shape of a cylinder. The diameter of the circle at the top is 80 cm. The height of the tank is 120 cm.](diagrams/y09v2_m14_tank.svg){.w40 .right}
 
 A water tank is a cylinder.
 
@@ -605,7 +605,7 @@ TV screens are measured along the diagonal.
 This TV screen has a diagonal of 140 cm.
 The width and the height of the screen are in the ratio 16 : 9.
 
-![A TV screen with a dashed diagonal line from the bottom left corner to the top right corner, labelled 140 cm. The width is marked along the top and the height is marked down the right side.](diagrams/y09v2_m15_tv.svg){.w50}
+![A TV screen with a dashed diagonal line from the bottom left corner to the top right corner, labelled 140 cm. The width is marked along the top and the height is marked down the right side.](diagrams/y09v2_m15_tv.svg){.w45}
 
 **Show that** the width of the screen is about 122 cm.
 

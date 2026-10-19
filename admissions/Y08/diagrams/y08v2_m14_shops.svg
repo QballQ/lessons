@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 176" width="600" height="176" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 196" width="600" height="196" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
 <title>Two shop signs for the same jacket. Shop A: jacket 600 yuan. Sale: 20% off, then another 10% off the new price. Shop B: jacket 600 yuan. Sale: 30% off.</title>
 <!-- Shop A -->
-<rect x="6" y="6" width="282" height="164" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<rect x="6" y="6" width="282" height="184" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
 <path d="M6,16 A10,10 0 0 1 16,6 L278,6 A10,10 0 0 1 288,16 L288,44 L6,44 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
 <text x="147" y="33" font-size="20" font-weight="700" text-anchor="middle" fill="#111">Shop A</text>
 <text x="147" y="76" font-size="20" text-anchor="middle" fill="#111">Jacket <tspan font-weight="700">¥600</tspan></text>
 <line x1="26" y1="92" x2="268" y2="92" stroke="#7a7a7a" stroke-width="1.2"/>
 <text x="147" y="120" font-size="18" text-anchor="middle" fill="#111"><tspan font-weight="700">Sale:</tspan> 20% off,</text>
-<text x="147" y="148" font-size="18" text-anchor="middle" fill="#111">then another 10% off the new price</text>
+<text x="147" y="148" font-size="18" text-anchor="middle" fill="#111">then another 10% off</text>
+<text x="147" y="172" font-size="18" text-anchor="middle" fill="#111">the new price</text>
 <!-- Shop B -->
-<rect x="312" y="6" width="282" height="164" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<rect x="312" y="6" width="282" height="184" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
 <path d="M312,16 A10,10 0 0 1 322,6 L584,6 A10,10 0 0 1 594,16 L594,44 L312,44 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
 <text x="453" y="33" font-size="20" font-weight="700" text-anchor="middle" fill="#111">Shop B</text>
 <text x="453" y="76" font-size="20" text-anchor="middle" fill="#111">Jacket <tspan font-weight="700">¥600</tspan></text>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 226" width="600" height="226" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A 3D printer. A print head moves along a rail above a build plate. On the plate is a model tower, 6 centimetres tall, made of thin layers. A close-up circle shows the layers: one layer is 0.2 millimetres thick. A note says: the printer takes 30 seconds for each layer.</title>
+<rect x="22" y="200" width="250" height="16" rx="3" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<rect x="34" y="18" width="14" height="182" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+<rect x="246" y="18" width="14" height="182" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+<rect x="34" y="14" width="226" height="16" rx="3" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+<line x1="48" y1="56" x2="246" y2="56" stroke="#111" stroke-width="3"/>
+<rect x="122" y="44" width="36" height="30" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<polygon points="132,74 148,74 140,88" fill="#111"/>
+<rect x="70" y="188" width="150" height="12" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="110" y="92" width="60" height="96" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="111" y1="100" x2="169" y2="100" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="108" x2="169" y2="108" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="116" x2="169" y2="116" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="124" x2="169" y2="124" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="132" x2="169" y2="132" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="140" x2="169" y2="140" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="148" x2="169" y2="148" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="156" x2="169" y2="156" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="164" x2="169" y2="164" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="172" x2="169" y2="172" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="111" y1="180" x2="169" y2="180" stroke="#7a7a7a" stroke-width="1"/>
+<line x1="192" y1="94" x2="192" y2="186" stroke="#111" stroke-width="2"/>
+<polygon points="192,92 187,102 197,102" fill="#111"/>
+<polygon points="192,188 187,178 197,178" fill="#111"/>
+<line x1="172" y1="92" x2="198" y2="92" stroke="#111" stroke-width="1.5"/>
+<text x="200" y="146" font-size="17" font-weight="700" fill="#111">6 cm</text>
+<line x1="170" y1="104" x2="324.1" y2="71.0" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="170" y1="128" x2="324.1" y2="149.0" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="150" y="100" width="22" height="32" fill="none" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<clipPath id="lens"><circle cx="392" cy="110" r="78"/></clipPath>
+<g clip-path="url(#lens)">
+<rect x="314" y="19" width="156" height="26" fill="#fff" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="45" width="156" height="26" fill="#e6e6e6" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="71" width="156" height="26" fill="#fff" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="97" width="156" height="26" fill="#e6e6e6" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="123" width="156" height="26" fill="#fff" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="149" width="156" height="26" fill="#e6e6e6" stroke="#7a7a7a" stroke-width="1.5"/>
+<rect x="314" y="175" width="156" height="26" fill="#fff" stroke="#7a7a7a" stroke-width="1.5"/>
+</g>
+<circle cx="392" cy="110" r="78" fill="none" stroke="#111" stroke-width="2.5"/>
+<line x1="432" y1="98" x2="432" y2="122" stroke="#111" stroke-width="2"/>
+<polygon points="432,97 428,105 436,105" fill="#111"/>
+<polygon points="432,123 428,115 436,115" fill="#111"/>
+<text x="368" y="116" font-size="15" text-anchor="middle" font-weight="700" fill="#111">one layer</text>
+<line x1="436" y1="110" x2="484" y2="110" stroke="#111" stroke-width="1.5"/>
+<text x="488" y="106" font-size="17" font-weight="700" fill="#111">0.2 mm</text>
+<text x="488" y="126" font-size="15" fill="#111">thick</text>
+<text x="392" y="214" font-size="16" text-anchor="middle" font-weight="700" fill="#111">30 seconds for each layer</text>
+</svg>
