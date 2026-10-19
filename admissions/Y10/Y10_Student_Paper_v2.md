@@ -23,6 +23,7 @@ body.secondary h1 ~ h1, .newpage { break-before: page; }
 .dep th:first-child { width: 6.2em; }
 .rt { padding: 0 0 0 1px; }
 .calc { border: 1.6px solid #111; border-radius: 4px; padding: 3px 8px; margin: 2px 0 8px; display: inline-block; font-weight: 700; }
+.passage p { break-inside: avoid; }
 </style>
 
 # Year 10 Admission Assessment
@@ -139,7 +140,7 @@ In the largest cities, on the hottest nights, how much warmer can the city centr
 
 #### Notes: why are cities hotter?
 
-**10** &nbsp; Plants cool the air. Water travels up from the soil and [[answer]] from the leaves.
+**10** &nbsp; Plants cool the air. Water travels up from the soil, [[answer]] from the leaves and carries heat away.
 
 **11** &nbsp; Waste heat comes from traffic and from [[answer:wide]].
 

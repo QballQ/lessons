@@ -29,7 +29,7 @@ Complete within two working days, from the assessor booklet, reading records, in
 | Maths | ___ / ___ | **1 2 3 4** | ___ / ___ | ___ / ___ | ___ / 12 | | |
 | Science (Years 5 to 10) | ___ / ___ | **1 2 3 4** | | | | | |
 
-**1** Well below expected, **2** Working towards, **3** Expected, **4** Greater depth. A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. In the Years 7 to 10 v2 papers, a student strong in fluency and word questions but weak in applied problems needs teaching in problem solving, not more content. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
+**1** Well below expected (Years 7 to 10 v2: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The v2 papers are harder, so their band boundaries are lower (guide and booklets). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. In the Years 7 to 10 v2 papers, a student strong in fluency and word questions but weak in applied problems needs teaching in problem solving, not more content. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
 
 **Year 10 only: readiness for IGCSE** (Year 10 assessor booklet, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
 
