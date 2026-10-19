@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 168" width="330" height="168">
+  <title>A rectangular park 12 m long and 5 m wide, with a straight path from one corner to the opposite corner.</title>
+  <rect x="40" y="30" width="240" height="100" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="40" y1="130" x2="280" y2="30" stroke="#fff" stroke-width="12"/>
+  <line x1="40" y1="130" x2="280" y2="30" stroke="#111" stroke-width="2.5" stroke-dasharray="9 6"/>
+  <path d="M 268 130 L 268 118 L 280 118" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="160" y="156" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">12 m</text>
+  <text x="290" y="86" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">5 m</text>
+  <text x="126" y="78" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-style="italic" fill="#111">path</text>
+  <text x="40" y="20" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" font-style="italic" fill="#111">Not drawn accurately</text>
+  <circle cx="80" cy="56" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+  <circle cx="110" cy="50" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+  <circle cx="230" cy="108" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+  <circle cx="200" cy="114" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+</svg>

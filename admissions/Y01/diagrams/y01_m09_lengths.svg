@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" width="600" height="330">
+  <title>Two pencils, a short one above a long one, and two ribbons, a short one above a long one</title>
+  <defs>
+    <pattern id="stripe" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="16" height="16" fill="#fff"/><rect width="8" height="16" fill="#bdbdbd"/>
+    </pattern>
+  </defs>
+  <g stroke="#111" stroke-width="3" stroke-linejoin="round">
+    <!-- short pencil: x 30 to 270, centre y 50 -->
+    <rect x="30" y="33" width="34" height="34" rx="8" fill="#bdbdbd"/>
+    <rect x="58" y="33" width="20" height="34" fill="#7a7a7a"/>
+    <rect x="78" y="33" width="142" height="34" fill="#e6e6e6"/>
+    <polygon points="220,33 270,50 220,67" fill="#fff"/>
+    <polygon points="254,44.6 270,50 254,55.4" fill="#111"/>
+    <!-- long pencil: x 30 to 540, centre y 120 -->
+    <rect x="30" y="103" width="34" height="34" rx="8" fill="#bdbdbd"/>
+    <rect x="58" y="103" width="20" height="34" fill="#7a7a7a"/>
+    <rect x="78" y="103" width="412" height="34" fill="#e6e6e6"/>
+    <polygon points="490,103 540,120 490,137" fill="#fff"/>
+    <polygon points="524,114.6 540,120 524,125.4" fill="#111"/>
+  </g>
+  <g stroke="#111" stroke-width="1.5"><line x1="78" y1="50" x2="220" y2="50"/><line x1="78" y1="120" x2="490" y2="120"/></g>
+  <line x1="20" y1="172" x2="580" y2="172" stroke="#bdbdbd" stroke-width="2" stroke-dasharray="6 6"/>
+  <g stroke="#111" stroke-width="3" stroke-linejoin="round" fill="url(#stripe)">
+    <!-- short ribbon: x 30 to 300 -->
+    <path d="M30 208 L300 208 L284 226 L300 244 L30 244 L46 226 Z"/>
+    <!-- long ribbon: x 30 to 530 -->
+    <path d="M30 278 L530 278 L514 296 L530 314 L30 314 L46 296 Z"/>
+  </g>
+</svg>

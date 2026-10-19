@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 188" width="590" height="188">
+  <title>Key: a big square of 100 small cubes is 100, a stick of 10 cubes is 10, one small cube is 1</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <rect x="2" y="2" width="586" height="184" rx="8" fill="#fff" stroke="#111" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="22" y="40" font-size="24" text-anchor="start" font-weight="700">Key</text>
+    <rect x="90" y="12" width="160" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="106" y1="12" x2="106" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="28" x2="250" y2="28" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="12" x2="122" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="44" x2="250" y2="44" stroke="#111" stroke-width="1"/>
+    <line x1="138" y1="12" x2="138" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="60" x2="250" y2="60" stroke="#111" stroke-width="1"/>
+    <line x1="154" y1="12" x2="154" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="76" x2="250" y2="76" stroke="#111" stroke-width="1"/>
+    <line x1="170" y1="12" x2="170" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="92" x2="250" y2="92" stroke="#111" stroke-width="1"/>
+    <line x1="186" y1="12" x2="186" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="108" x2="250" y2="108" stroke="#111" stroke-width="1"/>
+    <line x1="202" y1="12" x2="202" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="124" x2="250" y2="124" stroke="#111" stroke-width="1"/>
+    <line x1="218" y1="12" x2="218" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="140" x2="250" y2="140" stroke="#111" stroke-width="1"/>
+    <line x1="234" y1="12" x2="234" y2="172" stroke="#111" stroke-width="1"/>
+    <line x1="90" y1="156" x2="250" y2="156" stroke="#111" stroke-width="1"/>
+    <text x="262" y="106" font-size="26" text-anchor="start">= 100</text>
+    <rect x="370" y="12" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="370" y1="28" x2="386" y2="28" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="44" x2="386" y2="44" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="60" x2="386" y2="60" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="76" x2="386" y2="76" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="92" x2="386" y2="92" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="108" x2="386" y2="108" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="124" x2="386" y2="124" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="140" x2="386" y2="140" stroke="#111" stroke-width="1"/>
+    <line x1="370" y1="156" x2="386" y2="156" stroke="#111" stroke-width="1"/>
+    <text x="396" y="106" font-size="26" text-anchor="start">= 10</text>
+    <rect x="488" y="84" width="16" height="16" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <text x="514" y="106" font-size="26" text-anchor="start">= 1</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 210" width="660" height="210">
+  <title>Three dot cards: 3 dots in a diagonal line, 5 dots like a dice five, and 4 dots in the corners</title>
+  <g fill="#fff" stroke="#111" stroke-width="3">
+    <rect x="10" y="10" width="190" height="190" rx="18"/>
+    <rect x="235" y="10" width="190" height="190" rx="18"/>
+    <rect x="460" y="10" width="190" height="190" rx="18"/>
+  </g>
+  <g fill="#111">
+    <circle cx="55" cy="55" r="21"/><circle cx="105" cy="105" r="21"/><circle cx="155" cy="155" r="21"/>
+    <circle cx="280" cy="55" r="21"/><circle cx="380" cy="55" r="21"/><circle cx="330" cy="105" r="21"/><circle cx="280" cy="155" r="21"/><circle cx="380" cy="155" r="21"/>
+    <circle cx="505" cy="55" r="21"/><circle cx="605" cy="55" r="21"/><circle cx="505" cy="155" r="21"/><circle cx="605" cy="155" r="21"/>
+  </g>
+</svg>

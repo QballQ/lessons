@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 210" width="528" height="210">
+  <title>A place value chart. Hundreds: 4 counters. Tens: no counters. Ones: 6 counters.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="4" y="4" width="520" height="202" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="4" y="4" width="520" height="40" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <line x1="177.33" y1="4" x2="177.33" y2="206" stroke="#111" stroke-width="2.5"/>
+    <line x1="350.67" y1="4" x2="350.67" y2="206" stroke="#111" stroke-width="2.5"/>
+    <text x="90.67" y="31" font-size="20" text-anchor="middle" font-weight="700">Hundreds</text>
+    <text x="264" y="31" font-size="20" text-anchor="middle" font-weight="700">Tens</text>
+    <text x="437.33" y="31" font-size="20" text-anchor="middle" font-weight="700">Ones</text>
+    <circle cx="48.67" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="90.67" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="132.67" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="48.67" cy="128" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="395.33" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="437.33" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="479.33" cy="82" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="395.33" cy="128" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="437.33" cy="128" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="479.33" cy="128" r="17" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594 250" width="594" height="250">
+  <title>Four shapes. A: a square in 3 equal parts, 1 shaded. B: a circle in 4 parts that are not equal, 1 shaded. C: a rectangle in 4 equal parts, 1 shaded. D: a square in 4 equal parts, 2 shaded. A tick box under each.</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <rect x="14.25" y="30" width="40" height="120" fill="#bdbdbd"/>
+    <rect x="14.25" y="30" width="120" height="120" fill="none" stroke="#111" stroke-width="3"/>
+    <line x1="54.25" y1="30" x2="54.25" y2="150" stroke="#111" stroke-width="3"/>
+    <line x1="94.25" y1="30" x2="94.25" y2="150" stroke="#111" stroke-width="3"/>
+    <path d="M 222.75 58 L 169.65 58 A 62 62 0 0 1 222.75 28 Z" fill="#bdbdbd"/>
+    <circle cx="222.75" cy="90" r="62" fill="none" stroke="#111" stroke-width="3"/>
+    <line x1="222.75" y1="28" x2="222.75" y2="152" stroke="#111" stroke-width="3"/>
+    <line x1="169.65" y1="58" x2="275.85" y2="58" stroke="#111" stroke-width="3"/>
+    <rect x="307.25" y="45" width="32" height="90" fill="#bdbdbd"/>
+    <rect x="307.25" y="45" width="128" height="90" fill="none" stroke="#111" stroke-width="3"/>
+    <line x1="339.25" y1="45" x2="339.25" y2="135" stroke="#111" stroke-width="3"/>
+    <line x1="371.25" y1="45" x2="371.25" y2="135" stroke="#111" stroke-width="3"/>
+    <line x1="403.25" y1="45" x2="403.25" y2="135" stroke="#111" stroke-width="3"/>
+    <rect x="459.75" y="30" width="60" height="60" fill="#bdbdbd"/>
+    <rect x="519.75" y="90" width="60" height="60" fill="#bdbdbd"/>
+    <rect x="459.75" y="30" width="120" height="120" fill="none" stroke="#111" stroke-width="3"/>
+    <line x1="519.75" y1="30" x2="519.75" y2="150" stroke="#111" stroke-width="3"/>
+    <line x1="459.75" y1="90" x2="579.75" y2="90" stroke="#111" stroke-width="3"/>
+    <text x="48.25" y="200" font-size="26" text-anchor="middle" font-weight="700">A</text>
+    <rect x="70.25" y="178" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="196.75" y="200" font-size="26" text-anchor="middle" font-weight="700">B</text>
+    <rect x="218.75" y="178" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="345.25" y="200" font-size="26" text-anchor="middle" font-weight="700">C</text>
+    <rect x="367.25" y="178" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="493.75" y="200" font-size="26" text-anchor="middle" font-weight="700">D</text>
+    <rect x="515.75" y="178" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 150" width="528" height="150">
+  <title>Two bars of the same length. Top: 4 equal parts, 1 shaded. Bottom: 8 equal parts, 2 shaded.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="4" y="6" width="130" height="56" fill="#bdbdbd"/>
+    <rect x="4" y="6" width="520" height="56" fill="none" stroke="#111" stroke-width="2.5"/>
+    <line x1="134" y1="6" x2="134" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="264" y1="6" x2="264" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="394" y1="6" x2="394" y2="62" stroke="#111" stroke-width="2.5"/>
+    <rect x="4" y="82" width="130" height="56" fill="#bdbdbd"/>
+    <rect x="4" y="82" width="520" height="56" fill="none" stroke="#111" stroke-width="2.5"/>
+    <line x1="69" y1="82" x2="69" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="134" y1="82" x2="134" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="199" y1="82" x2="199" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="264" y1="82" x2="264" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="329" y1="82" x2="329" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="394" y1="82" x2="394" y2="138" stroke="#111" stroke-width="2.5"/>
+    <line x1="459" y1="82" x2="459" y2="138" stroke="#111" stroke-width="2.5"/>
+  </g>
+</svg>

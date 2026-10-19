@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230">
+  <title>A crayon above a centimetre ruler. The crayon starts at 0 and its tip is at 7 centimetres.</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <rect x="30" y="36" width="334.8" height="44" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <rect x="78.6" y="36" width="226.8" height="44" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <path d="M 364.8 36 L 408 58 L 364.8 80 Z" fill="#7a7a7a" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="192" y="67" font-size="24" text-anchor="middle">crayon</text>
+    <line x1="30" y1="82" x2="30" y2="120" stroke="#111" stroke-width="2" stroke-dasharray="5 5"/>
+    <line x1="408" y1="82" x2="408" y2="120" stroke="#111" stroke-width="2" stroke-dasharray="5 5"/>
+    <rect x="12" y="120" width="576" height="90" rx="6" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <line x1="30" y1="120" x2="30" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="30" y="180" font-size="24" text-anchor="middle">0</text>
+    <line x1="84" y1="120" x2="84" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="84" y="180" font-size="24" text-anchor="middle">1</text>
+    <line x1="138" y1="120" x2="138" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="138" y="180" font-size="24" text-anchor="middle">2</text>
+    <line x1="192" y1="120" x2="192" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="192" y="180" font-size="24" text-anchor="middle">3</text>
+    <line x1="246" y1="120" x2="246" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="246" y="180" font-size="24" text-anchor="middle">4</text>
+    <line x1="300" y1="120" x2="300" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="300" y="180" font-size="24" text-anchor="middle">5</text>
+    <line x1="354" y1="120" x2="354" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="354" y="180" font-size="24" text-anchor="middle">6</text>
+    <line x1="408" y1="120" x2="408" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="408" y="180" font-size="24" text-anchor="middle">7</text>
+    <line x1="462" y1="120" x2="462" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="462" y="180" font-size="24" text-anchor="middle">8</text>
+    <line x1="516" y1="120" x2="516" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="516" y="180" font-size="24" text-anchor="middle">9</text>
+    <line x1="570" y1="120" x2="570" y2="150" stroke="#111" stroke-width="2.5"/>
+    <text x="570" y="180" font-size="24" text-anchor="middle">10</text>
+    <line x1="57" y1="120" x2="57" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="111" y1="120" x2="111" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="165" y1="120" x2="165" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="219" y1="120" x2="219" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="273" y1="120" x2="273" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="327" y1="120" x2="327" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="381" y1="120" x2="381" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="435" y1="120" x2="435" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="489" y1="120" x2="489" y2="135" stroke="#111" stroke-width="1.8"/>
+    <line x1="543" y1="120" x2="543" y2="135" stroke="#111" stroke-width="1.8"/>
+    <text x="566" y="204" font-size="20" text-anchor="end">cm</text>
+  </g>
+</svg>

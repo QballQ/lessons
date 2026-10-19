@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 100" width="660" height="100">
+  <title>A row of 8 black dots and one empty dashed circle at the end</title>
+  <g fill="#111">
+    <circle cx="40" cy="50" r="28"/><circle cx="112" cy="50" r="28"/><circle cx="184" cy="50" r="28"/><circle cx="256" cy="50" r="28"/>
+    <circle cx="328" cy="50" r="28"/><circle cx="400" cy="50" r="28"/><circle cx="472" cy="50" r="28"/><circle cx="544" cy="50" r="28"/>
+  </g>
+  <circle cx="616" cy="50" r="28" fill="#fff" stroke="#111" stroke-width="3" stroke-dasharray="9 7"/>
+</svg>

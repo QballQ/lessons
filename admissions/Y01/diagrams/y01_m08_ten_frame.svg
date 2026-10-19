@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="520" height="220">
+  <title>A ten frame: 2 rows of 5 squares. The top row has 5 dots, the bottom row has 2 dots, and 3 squares are empty</title>
+  <rect x="10" y="10" width="500" height="200" fill="#fff" stroke="#111" stroke-width="4"/>
+  <g stroke="#111" stroke-width="3">
+    <line x1="110" y1="10" x2="110" y2="210"/><line x1="210" y1="10" x2="210" y2="210"/><line x1="310" y1="10" x2="310" y2="210"/><line x1="410" y1="10" x2="410" y2="210"/>
+    <line x1="10" y1="110" x2="510" y2="110"/>
+  </g>
+  <g fill="#111">
+    <circle cx="60" cy="60" r="34"/><circle cx="160" cy="60" r="34"/><circle cx="260" cy="60" r="34"/><circle cx="360" cy="60" r="34"/><circle cx="460" cy="60" r="34"/>
+    <circle cx="60" cy="160" r="34"/><circle cx="160" cy="160" r="34"/>
+  </g>
+</svg>

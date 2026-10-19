@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 234" width="530" height="234">
+  <title>A series circuit with one cell, two lamps and two ammeters in one loop. Ammeter 1 reads 0.3 A. Ammeter 2 reads a question mark.</title>
+  <path d="M 130 40 L 254 40 M 274 40 L 400 40 L 400 99 M 400 131 L 400 190 L 351 190 M 319 190 L 211 190 M 179 190 L 130 190 L 130 131 M 130 99 L 130 40" fill="none" stroke="#111" stroke-width="2.5"/>
+  <line x1="254" y1="18" x2="254" y2="62" stroke="#111" stroke-width="2.5"/>
+  <line x1="274" y1="28" x2="274" y2="52" stroke="#111" stroke-width="6"/>
+  <circle cx="195" cy="190" r="16" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <line x1="183.7" y1="178.7" x2="206.3" y2="201.3" stroke="#111" stroke-width="2.2"/>
+  <line x1="183.7" y1="201.3" x2="206.3" y2="178.7" stroke="#111" stroke-width="2.2"/>
+  <circle cx="335" cy="190" r="16" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <line x1="323.7" y1="178.7" x2="346.3" y2="201.3" stroke="#111" stroke-width="2.2"/>
+  <line x1="323.7" y1="201.3" x2="346.3" y2="178.7" stroke="#111" stroke-width="2.2"/>
+  <circle cx="130" cy="115" r="16" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="130" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <circle cx="400" cy="115" r="16" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="400" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <text x="104" y="108" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111">Ammeter 1</text>
+  <rect x="30" y="118" width="74" height="30" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="67" y="140" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">0.3 A</text>
+  <text x="426" y="108" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Ammeter 2</text>
+  <rect x="426" y="118" width="74" height="30" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="463" y="140" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">? A</text>
+  <text x="264" y="12" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">cell</text>
+  <text x="195" y="226" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">lamp</text>
+  <text x="335" y="226" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">lamp</text>
+</svg>

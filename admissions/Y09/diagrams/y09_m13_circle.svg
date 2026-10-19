@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 208" width="230" height="208">
+  <title>A circle with a diameter of 10 cm drawn through the centre</title>
+  <circle cx="115" cy="104" r="86" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+  <line x1="29" y1="104" x2="201" y2="104" stroke="#111" stroke-width="2.5"/>
+  <circle cx="115" cy="104" r="4" fill="#111"/>
+  <text x="115" y="92" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">10 cm</text>
+</svg>

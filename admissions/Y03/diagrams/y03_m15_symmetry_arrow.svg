@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <title>An arrow shape pointing up. It has one line of symmetry, a vertical line through its tip.</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <polygon points="150,16 262,128 196,128 196,284 104,284 104,128 38,128" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+</svg>

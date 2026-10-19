@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 168" width="260" height="168">
+  <title>5 sticks of ten and 3 single cubes</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <rect x="10" y="4" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="10" y1="20" x2="26" y2="20" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="36" x2="26" y2="36" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="52" x2="26" y2="52" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="68" x2="26" y2="68" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="84" x2="26" y2="84" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="100" x2="26" y2="100" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="116" x2="26" y2="116" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="132" x2="26" y2="132" stroke="#111" stroke-width="1"/>
+    <line x1="10" y1="148" x2="26" y2="148" stroke="#111" stroke-width="1"/>
+    <rect x="38" y="4" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="38" y1="20" x2="54" y2="20" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="36" x2="54" y2="36" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="52" x2="54" y2="52" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="68" x2="54" y2="68" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="84" x2="54" y2="84" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="100" x2="54" y2="100" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="116" x2="54" y2="116" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="132" x2="54" y2="132" stroke="#111" stroke-width="1"/>
+    <line x1="38" y1="148" x2="54" y2="148" stroke="#111" stroke-width="1"/>
+    <rect x="66" y="4" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="66" y1="20" x2="82" y2="20" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="36" x2="82" y2="36" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="52" x2="82" y2="52" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="68" x2="82" y2="68" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="84" x2="82" y2="84" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="100" x2="82" y2="100" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="116" x2="82" y2="116" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="132" x2="82" y2="132" stroke="#111" stroke-width="1"/>
+    <line x1="66" y1="148" x2="82" y2="148" stroke="#111" stroke-width="1"/>
+    <rect x="94" y="4" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="94" y1="20" x2="110" y2="20" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="36" x2="110" y2="36" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="52" x2="110" y2="52" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="68" x2="110" y2="68" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="84" x2="110" y2="84" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="100" x2="110" y2="100" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="116" x2="110" y2="116" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="132" x2="110" y2="132" stroke="#111" stroke-width="1"/>
+    <line x1="94" y1="148" x2="110" y2="148" stroke="#111" stroke-width="1"/>
+    <rect x="122" y="4" width="16" height="160" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <line x1="122" y1="20" x2="138" y2="20" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="36" x2="138" y2="36" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="52" x2="138" y2="52" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="68" x2="138" y2="68" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="84" x2="138" y2="84" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="100" x2="138" y2="100" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="116" x2="138" y2="116" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="132" x2="138" y2="132" stroke="#111" stroke-width="1"/>
+    <line x1="122" y1="148" x2="138" y2="148" stroke="#111" stroke-width="1"/>
+    <rect x="180" y="148" width="16" height="16" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <rect x="204" y="148" width="16" height="16" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+    <rect x="228" y="148" width="16" height="16" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  </g>
+</svg>

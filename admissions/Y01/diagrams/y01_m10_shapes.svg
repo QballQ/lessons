@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 180" width="690" height="180">
+  <title>Four shapes in a row: a square, a triangle, a circle and a rectangle</title>
+  <g fill="#e6e6e6" stroke="#111" stroke-width="4" stroke-linejoin="round">
+    <rect x="15" y="25" width="130" height="130"/>
+    <polygon points="250,20 175,160 325,160"/>
+    <circle cx="430" cy="90" r="70"/>
+    <rect x="530" y="40" width="148" height="100"/>
+  </g>
+</svg>

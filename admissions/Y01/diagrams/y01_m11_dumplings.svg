@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 320" width="660" height="320">
+  <title>Mei, a girl, above a plate with 4 dumplings. Jun, a boy, above a plate with 7 dumplings</title>
+  <defs>
+    <g id="dumpling">
+      <path d="M-30 10 C-28 -24 28 -24 30 10 Q0 19 -30 10 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M-13 -11 L-10 -2 M0 -14 L0 -4 M13 -11 L10 -2" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <!-- Mei -->
+  <g stroke="#111" stroke-width="3">
+    <path d="M112 138 Q116 106 165 104 Q214 106 218 138 Z" fill="#e6e6e6"/>
+    <circle cx="121" cy="38" r="17" fill="#7a7a7a"/><circle cx="209" cy="38" r="17" fill="#7a7a7a"/>
+    <circle cx="165" cy="62" r="42" fill="#fff"/>
+    <path d="M123 58 C122 18 208 18 207 58 C190 40 140 40 123 58 Z" fill="#7a7a7a"/>
+  </g>
+  <g fill="#111"><circle cx="150" cy="66" r="4.5"/><circle cx="180" cy="66" r="4.5"/></g>
+  <path d="M150 82 Q165 94 180 82" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <!-- Jun -->
+  <g stroke="#111" stroke-width="3">
+    <path d="M442 138 Q446 106 495 104 Q544 106 548 138 Z" fill="#e6e6e6"/>
+    <circle cx="495" cy="62" r="42" fill="#fff"/>
+    <path d="M454 56 C450 16 540 16 536 56 L530 44 L518 50 L508 40 L496 48 L484 40 L472 50 L462 44 Z" fill="#7a7a7a" stroke-linejoin="round"/>
+  </g>
+  <g fill="#111"><circle cx="480" cy="66" r="4.5"/><circle cx="510" cy="66" r="4.5"/></g>
+  <path d="M480 82 Q495 94 510 82" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <!-- plates -->
+  <g fill="#fff" stroke="#111" stroke-width="3.5"><ellipse cx="165" cy="238" rx="150" ry="72"/><ellipse cx="495" cy="238" rx="150" ry="72"/></g>
+  <g fill="none" stroke="#7a7a7a" stroke-width="2"><ellipse cx="165" cy="238" rx="122" ry="54"/><ellipse cx="495" cy="238" rx="122" ry="54"/></g>
+  <!-- 4 dumplings on Mei's plate -->
+  <use href="#dumpling" x="125" y="226"/><use href="#dumpling" x="205" y="226"/>
+  <use href="#dumpling" x="125" y="264"/><use href="#dumpling" x="205" y="264"/>
+  <!-- 7 dumplings on Jun's plate -->
+  <use href="#dumpling" x="399" y="226"/><use href="#dumpling" x="463" y="226"/><use href="#dumpling" x="527" y="226"/><use href="#dumpling" x="591" y="226"/>
+  <use href="#dumpling" x="431" y="264"/><use href="#dumpling" x="495" y="264"/><use href="#dumpling" x="559" y="264"/>
+</svg>

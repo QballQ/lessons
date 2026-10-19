@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 522 156" width="522" height="156">
+  <title>Four boxes of particles. A: separate white atoms. B: molecules each made of one grey atom joined to one white atom. C: molecules of two grey atoms mixed with separate white atoms. D: molecules each made of two white atoms.</title>
+  <rect x="10" y="6" width="112" height="112" rx="6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="66" y="148" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <rect x="140" y="6" width="112" height="112" rx="6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="196" y="148" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">B</text>
+  <rect x="270" y="6" width="112" height="112" rx="6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="326" y="148" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">C</text>
+  <rect x="400" y="6" width="112" height="112" rx="6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="456" y="148" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" text-anchor="middle" font-weight="700" fill="#111">D</text>
+  <circle cx="40" cy="30" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="82" cy="26" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="110" cy="50" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="50" cy="70" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="90" cy="82" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="38" cy="100" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="108" cy="100" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="162.6" cy="28.6" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="181.4" cy="35.4" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="215.3" cy="35" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="232.7" cy="25" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="191" cy="57.3" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="201" cy="74.7" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="160" cy="96" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="180" cy="96" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="219.3" cy="87" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="236.7" cy="97" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="292.2" cy="28.3" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="311.8" cy="31.7" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <circle cx="352.6" cy="52.6" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="359.4" cy="71.4" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <circle cx="296.6" cy="95.4" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/><circle cx="315.4" cy="88.6" r="10" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <circle cx="354" cy="24" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="324" cy="60" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="362" cy="100" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="425.3" cy="25" r="10" fill="#fff" stroke="#111" stroke-width="2"/><circle cx="442.7" cy="35" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="476.2" cy="35.7" r="10" fill="#fff" stroke="#111" stroke-width="2"/><circle cx="495.8" cy="32.3" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="456.3" cy="56.2" r="10" fill="#fff" stroke="#111" stroke-width="2"/><circle cx="459.7" cy="75.8" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="420.3" cy="102.4" r="10" fill="#fff" stroke="#111" stroke-width="2"/><circle cx="435.7" cy="89.6" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="478.2" cy="92.3" r="10" fill="#fff" stroke="#111" stroke-width="2"/><circle cx="497.8" cy="95.7" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

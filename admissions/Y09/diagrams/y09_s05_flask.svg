@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 236" width="470" height="236">
+  <title>Before: a sealed flask with a stopper on a balance that reads 150.0 g. After: the same sealed flask on the balance, which reads a question mark.</title>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker>
+  </defs>
+  <g transform="translate(0 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 84 30 L 116 30 L 116 40 L 112 40 L 112 76 L 146 140 L 54 140 L 88 76 L 88 40 L 84 40 Z" fill="#fff"/>
+    <rect x="86" y="20" width="28" height="14" rx="3" fill="#7a7a7a"/>
+    <path d="M 68 114 L 132 114 L 146 140 L 54 140 Z" fill="#bdbdbd"/>
+    <rect x="20" y="140" width="160" height="16" rx="3" fill="#e6e6e6"/>
+    <rect x="10" y="156" width="180" height="44" rx="6" fill="#e6e6e6"/>
+    <rect x="50" y="164" width="100" height="28" rx="3" fill="#fff"/>
+  </g>
+  <text x="100" y="185" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">150.0 g</text>
+  <text x="100" y="228" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">Before</text>
+  <g transform="translate(270 0)" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 84 30 L 116 30 L 116 40 L 112 40 L 112 76 L 146 140 L 54 140 L 88 76 L 88 40 L 84 40 Z" fill="#fff"/>
+    <rect x="86" y="20" width="28" height="14" rx="3" fill="#7a7a7a"/>
+    <path d="M 68 114 L 132 114 L 146 140 L 54 140 Z" fill="#bdbdbd"/>
+    <rect x="20" y="140" width="160" height="16" rx="3" fill="#e6e6e6"/>
+    <rect x="10" y="156" width="180" height="44" rx="6" fill="#e6e6e6"/>
+    <rect x="50" y="164" width="100" height="28" rx="3" fill="#fff"/>
+  </g>
+  <text x="370" y="185" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">? g</text>
+  <text x="370" y="228" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">After</text>
+  <line x1="214" y1="100" x2="256" y2="100" stroke="#111" stroke-width="3" marker-end="url(#ah)"/>
+</svg>

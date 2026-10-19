@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160">
+  <title>A jacket with a price tag of 240 yuan and a sign that says Sale, 25% off</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 70 18 Q 70 8 80 8 Q 90 8 90 16" fill="none"/>
+    <path d="M 80 22 L 30 40 L 14 110 L 34 114 L 42 70 L 44 150 L 116 150 L 118 70 L 126 114 L 146 110 L 130 40 L 80 22 Z" fill="#e6e6e6"/>
+    <path d="M 64 28 L 80 52 L 96 28" fill="#fff"/>
+    <line x1="80" y1="52" x2="80" y2="150"/>
+    <circle cx="86" cy="72" r="2.5" fill="#111"/><circle cx="86" cy="96" r="2.5" fill="#111"/><circle cx="86" cy="120" r="2.5" fill="#111"/>
+    <path d="M 118 74 L 150 94" fill="none" stroke-width="1.5"/>
+    <path d="M 150 82 L 206 82 L 220 100 L 206 118 L 150 118 Z" fill="#fff"/>
+    <circle cx="158" cy="100" r="3.5" fill="#fff"/>
+  </g>
+  <text x="188" y="107" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">¥240</text>
+  <rect x="150" y="10" width="86" height="54" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  <text x="193" y="32" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">SALE</text>
+  <text x="193" y="55" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">25% off</text>
+</svg>

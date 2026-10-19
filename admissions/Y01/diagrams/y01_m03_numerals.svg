@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 270" width="540" height="270">
+  <title>Six number cards: 6, 15, 9 on the top row and 20, 13, 12 on the bottom row</title>
+  <g fill="#fff" stroke="#111" stroke-width="3">
+    <rect x="10" y="10" width="160" height="115" rx="12"/><rect x="190" y="10" width="160" height="115" rx="12"/><rect x="370" y="10" width="160" height="115" rx="12"/>
+    <rect x="10" y="145" width="160" height="115" rx="12"/><rect x="190" y="145" width="160" height="115" rx="12"/><rect x="370" y="145" width="160" height="115" rx="12"/>
+  </g>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" font-size="80" font-weight="700" text-anchor="middle" fill="#111">
+    <text x="90" y="96">6</text><text x="270" y="96">15</text><text x="450" y="96">9</text>
+    <text x="90" y="231">20</text><text x="270" y="231">13</text><text x="450" y="231">12</text>
+  </g>
+</svg>

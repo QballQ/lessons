@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 236" width="420" height="236">
+  <title>Two parallel lines crossed by a straight line. The angle 62 degrees is marked at the top line. Angles a and b are marked at the bottom line.</title>
+  <line x1="20" y1="64" x2="400" y2="64" stroke="#111" stroke-width="2.5"/>
+  <line x1="20" y1="184" x2="400" y2="184" stroke="#111" stroke-width="2.5"/>
+  <line x1="164.6" y1="224.6" x2="271.6" y2="23.4" stroke="#111" stroke-width="2.5"/>
+  <path d="M 348 56 L 360 64 L 348 72" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 348 176 L 360 184 L 348 192" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 220 64 A 30 30 0 0 0 235.9 90.5" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="203.7" y="97.8" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" fill="#111">62°</text>
+  <path d="M 216.2 184 A 30 30 0 0 0 200.3 157.5" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="229.1" y="165.2" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-style="italic" fill="#111">a</text>
+  <path d="M 197.5 162.8 A 24 24 0 0 0 162.2 184" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="163.5" y="153.3" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-style="italic" fill="#111">b</text>
+  <text x="412" y="226" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 220" width="230" height="220">
+  <title>A circle cut into 4 equal parts. 3 parts are shaded.</title>
+  <g font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">
+    <path d="M 115 110 L 115 15 A 95 95 0 1 1 20 110 Z" fill="#bdbdbd"/>
+    <circle cx="115" cy="110" r="95" fill="none" stroke="#111" stroke-width="3"/>
+    <line x1="115" y1="15" x2="115" y2="205" stroke="#111" stroke-width="3"/>
+    <line x1="20" y1="110" x2="210" y2="110" stroke="#111" stroke-width="3"/>
+  </g>
+</svg>

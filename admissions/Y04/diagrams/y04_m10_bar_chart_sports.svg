@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594 380" width="594" height="380">
+  <title>Bar chart, Our favourite sports. Football 10, swimming 6, table tennis 8, basketball 4. The scale goes up in 2s to 12.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <text x="330" y="24" font-size="20" text-anchor="middle" font-weight="700">Our favourite sports</text>
+    <line x1="86" y1="300" x2="574" y2="300" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="306" font-size="18" text-anchor="end">0</text>
+    <line x1="86" y1="256.67" x2="574" y2="256.67" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="262.67" font-size="18" text-anchor="end">2</text>
+    <line x1="86" y1="213.33" x2="574" y2="213.33" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="219.33" font-size="18" text-anchor="end">4</text>
+    <line x1="86" y1="170" x2="574" y2="170" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="176" font-size="18" text-anchor="end">6</text>
+    <line x1="86" y1="126.67" x2="574" y2="126.67" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="132.67" font-size="18" text-anchor="end">8</text>
+    <line x1="86" y1="83.33" x2="574" y2="83.33" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="89.33" font-size="18" text-anchor="end">10</text>
+    <line x1="86" y1="40" x2="574" y2="40" stroke="#7a7a7a" stroke-width="1.2"/>
+    <text x="76" y="46" font-size="18" text-anchor="end">12</text>
+    <rect x="110.4" y="83.33" width="73.2" height="216.67" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <text x="147" y="326" font-size="18" text-anchor="middle">football</text>
+    <rect x="232.4" y="170" width="73.2" height="130" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <text x="269" y="326" font-size="18" text-anchor="middle">swimming</text>
+    <rect x="354.4" y="126.67" width="73.2" height="173.33" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <text x="391" y="326" font-size="18" text-anchor="middle">table tennis</text>
+    <rect x="476.4" y="213.33" width="73.2" height="86.67" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <text x="513" y="326" font-size="18" text-anchor="middle">basketball</text>
+    <line x1="86" y1="32" x2="86" y2="300" stroke="#111" stroke-width="2.5"/>
+    <line x1="86" y1="300" x2="574" y2="300" stroke="#111" stroke-width="2.5"/>
+    <text x="22" y="170" font-size="18" text-anchor="middle" transform="rotate(-90 22 170)">Number of children</text>
+    <text x="330" y="362" font-size="18" text-anchor="middle" font-weight="700">Sport</text>
+  </g>
+</svg>

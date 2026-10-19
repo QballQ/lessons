@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 70" width="528" height="70">
+  <title>A bar cut into 10 equal parts. 7 parts are shaded.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="4" y="6" width="364" height="56" fill="#bdbdbd"/>
+    <rect x="4" y="6" width="520" height="56" fill="none" stroke="#111" stroke-width="2.5"/>
+    <line x1="56" y1="6" x2="56" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="108" y1="6" x2="108" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="160" y1="6" x2="160" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="212" y1="6" x2="212" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="264" y1="6" x2="264" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="316" y1="6" x2="316" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="368" y1="6" x2="368" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="420" y1="6" x2="420" y2="62" stroke="#111" stroke-width="2.5"/>
+    <line x1="472" y1="6" x2="472" y2="62" stroke="#111" stroke-width="2.5"/>
+  </g>
+</svg>
