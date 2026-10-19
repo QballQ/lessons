@@ -335,7 +335,7 @@ Part C is hard. Do as much as you can.
 
 ![An octopus with a rounded head, two eyes and eight curling arms](diagrams/y08v2_e_rc_octopus.svg){.w20 .right}
 
-One morning in 2016, staff at an aquarium in New Zealand arrived at work to find that one of their residents had vanished. Inky, an octopus about the size of a football, had squeezed through a narrow gap at the top of his tank, slid across the floor in the dark and slipped into a drainpipe that led to the sea. He was never seen again.
+One morning in 2016, staff at an aquarium in New Zealand arrived at work to find that one of their residents had vanished. Inky, an octopus with a body about the size of a rugby ball, had squeezed through a narrow gap at the top of his tank, slid across the floor in the dark and slipped into a drainpipe that led to the sea. He was never seen again.
 
 Stories like this delight newspapers, but they also raise a serious question. How can an animal with no bones, no shell and a body made mostly of soft muscle be so ingenious?
 
@@ -353,11 +353,11 @@ And what cleverness it is. In laboratories, octopuses have learnt to unscrew jar
 [[pagebreak]]
 
 [[passage]]
-Perhaps most remarkable of all, octopuses achieve this in a very short life. Most species live for only a year or two, and young octopuses never meet their parents. Nobody shows them how to hunt, hide or escape. Each one has to work out the world for itself, almost from nothing.
+Perhaps most remarkable of all, octopuses achieve this in a very short life. Most species live for only a year or two, and young octopuses grow up without their parents. Nobody shows them how to hunt, hide or escape. Each one has to work out the world for itself, almost from nothing.
 
 For centuries, we have judged animal intelligence by asking how closely an animal resembles us. Can it use tools? Can it recognise faces? Can it solve puzzles? The octopus passes many of these tests, but it also exposes how narrow the tests are. If octopuses set an intelligence test for us, it is not obvious that we would pass. A creature that thinks with its arms, matches colours it cannot see and lives almost entirely alone may be clever in ways we have barely begun to imagine.
 
-Several countries have recently extended their animal welfare laws to protect octopuses from unnecessary harm. It may seem a small step. Yet it could also be a sign that, after a long history of looking down on creatures that are not like us, we are slowly learning a little humility.
+Several countries now protect octopuses from unnecessary harm in their animal welfare laws. It may seem a small step. Yet it could also be a sign that, after a long history of looking down on creatures that are not like us, we are slowly learning a little humility.
 [[/passage]]
 
 ### 14 [[marks:1]]
@@ -652,7 +652,7 @@ b. There are 15 green counters in the bag. How many counters are in the bag alto
 [[box:2:Working]]
 
 ### 16 [[marks:3]]
-![A map of Chen Yu's route. From her home, the route goes 3.5 cm on the map to a bridge over a river, then 2.5 cm to the park gate, then 3 cm through the park to the lake. The scale is 1 : 50 000. Not drawn accurately.](diagrams/y08v2_m15_map.svg){.w100}
+![A map of Chen Yu's route. From her home, the route crosses a bridge over a river and goes 3.5 cm on the map to a shop, then 2.5 cm to the park gate, then 3 cm through the park to the lake. The scale is 1 : 50 000. Not drawn accurately.](diagrams/y08v2_m16_map.svg){.w100}
 
 The map shows Chen Yu's route from her home to the lake. The lengths are measured on the map.
 

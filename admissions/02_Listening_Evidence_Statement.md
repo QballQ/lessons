@@ -5,14 +5,15 @@ footer: Admissions Assessment | Listening: standard and evidence
 ---
 # Listening tasks: standard and evidence statement
 
-For the admissions team and the English team. October 2026, first version of the pack.
+For the admissions team and the English team. October 2026: version 1 of the pack for Years 1 to 6, and **version 2 for Years 7 to 10**, which adds a harder, academic listening part (Section 3, version 2).
 
 ## 1. Summary
 
 - **The listening standard was set by design, not by trial.** Every listening task was written to a fixed specification (Section 2), and each was checked by a second reviewer: is every answer actually said in the script, do the questions follow the script's order, are the marks right? **No task has yet been tried with students, and none has been calibrated against a standardised test or the CEFR.**
 - **The band cut-offs are professional judgement.** For example, in Years 4 to 10, 0 to 2 is band A and 8 out of 8 is band E. They were set before any student took the test, so they are provisional.
 - **What the scripts contain** is measured in Section 3. In Years 4 to 10 the scripts are short everyday texts of 150 to 270 words. About 80% of their words are among the 1000 most common words in English, and 85 to 94% are among the 2000 most common. The texts are read twice, and students see or hear the questions first.
-- **What a score can show.** The task is designed to separate students who are new to English (band A), early learners (B) and developing learners (C). It is weaker at telling competent students (D) from fluent ones (E), especially in Years 7 to 10. A full score shows secure everyday listening, not that the student can follow age-level lessons in English.
+- **What a score can show.** The task is designed to separate students who are new to English (band A), early learners (B) and developing learners (C). In version 1 it is weaker at telling competent students (D) from fluent ones (E), especially in Years 7 to 10: a full score shows secure everyday listening, not that the student can follow age-level lessons in English. Version 2 Part B addresses this for Years 7 to 10.
+- **Version 2, Years 7 to 10.** The version 1 task is kept as Part A, and a new **Part B** is an academic talk of about 360 to 470 words at the level of a lesson for a fluent student of that age: about 16 words per sentence, and 13 to 20% of words outside the 2000 most common. Bands D and E now need a good Part B score, so version 2 can tell competent students from fluent ones. Like version 1, it has not yet been trialled.
 - **Before the bands are used as evidence of a student's level**, carry out the checks in Section 5: record the scripts, try them with students whose level the English team already knows, and compare the results with an established listening test.
 
 ## 2. How the standard was set
@@ -46,14 +47,29 @@ The less common words in Years 1 to 3 are everyday words for young children (far
 
 **Question types in Years 4 to 10** (the same pattern every year): Questions 1 to 4, picture choice or tick boxes on key words and simple details, with a distractor said in the script. Questions 5 and 6, a number, time or price heard in connected speech, often next to a different number. Questions 7 and 8, a reason or an inference that joins two or more statements. The answer table in each assessor booklet names the skill and the distractor for every question.
 
+### Version 2, Part B: academic listening (Years 7 to 10)
+
+Each version 2 paper keeps the version 1 script above as Part A (questions 1 to 8) and adds Part B (questions 9 to 16), read twice after one minute to read the questions. Measured in the same way:
+
+| Year | Part B | Words | Average sentence (words) | Common words: top 1000 / top 2000 | Outside the top 2000 |
+|---|---|---|---|---|---|
+| 7 | A science lesson on how desert plants and animals survive | 364 | 16 | 73% / 80% | 20% |
+| 8 | A talk on noise in cities and health | 389 | 16 | 75% / 85% | 15% |
+| 9 | A talk on the history and science of tea | 427 | 16 | 74% / 87% | 13% |
+| 10 | A talk on urban heat islands and green roofs | 466 | 17 | 74% / 85% | 15% |
+
+Compared with the Part A scripts (about 7 to 11 words a sentence and 85 to 94% of words in the top 2000), Part B sentences are about twice as long and use far more subject vocabulary. Every Part B script explains a process or a cause, makes a comparison, gives numbers, explains subject words in context, implies the speaker's opinion and contains a correction ("Actually, ..."). Part B questions: two details (numbers, names), note completion (two gaps, with a worked example), a sequence, the speaker's attitude, one inference joining two parts of the talk, and the main idea or purpose.
+
+**Version 2 band guide (Years 7 to 10, / 16):** A: Part A 0 to 2. B: Part A 3 to 4. C: Part A 5 to 6, or Part A 7 to 8 with Part B 0 to 2. D: Part A 7 to 8 with Part B 3 to 5. E: Part A 7 to 8 with Part B 6 to 8. A student who scores 2 or fewer in Part A may be excused Part B (band A).
+
 ## 4. What the scores can and cannot show
 
 | | The task can show | The task cannot show |
 |---|---|---|
 | Bands A to C | Whether a student understands familiar words, simple details and short connected speech: the main question for admissions (how much English support to plan) | |
-| Bands D and E | Whether a student can follow an everyday message closely and infer from it (Questions 7 and 8) | Whether the student can follow age-level academic listening: a lesson, subject vocabulary, a longer argument, fast or unclear speech |
-| Years 7 to 10 | Secure everyday listening | Readiness for IGCSE courses taught in English. Do not rely on this score for that decision: use the reading paper Part C, the writing, and "listening in conversation" from the interview |
-| Estimated CEFR range | By design and from the features above, the scripts sit at about **A1 to B1**: Questions 1 to 4 about A1 to A2 (short, clear messages; key information), Questions 5 and 6 about A2 (numbers, times and details in simple connected speech), Questions 7 and 8 about B1 (following the main points of clear speech on familiar topics and linking ideas). **This is an estimate, not a calibration.** | A CEFR level for an individual student |
+| Bands D and E | Version 1: whether a student can follow an everyday message closely and infer from it (Questions 7 and 8). **Version 2 (Years 7 to 10): whether a student can follow a lesson-style talk with subject vocabulary, numbers, a correction and an implied opinion (Part B)** | Version 1: whether the student can follow age-level academic listening. Both versions: fast, unclear or noisy speech, or a long lesson |
+| Years 7 to 10 | Version 2: everyday listening (Part A) and the start of academic listening (Part B) | Readiness for IGCSE on its own. Use the listening band with the reading paper (version 2 Part C), the writing and "listening in conversation" from the interview |
+| Estimated CEFR range | By design and from the features above, the scripts sit at about **A1 to B1**: Questions 1 to 4 about A1 to A2 (short, clear messages; key information), Questions 5 and 6 about A2 (numbers, times and details in simple connected speech), Questions 7 and 8 about B1 (following the main points of clear speech on familiar topics and linking ideas). Version 2 Part B is aimed at about **B1 to B2** (following the main ideas and some detail of a talk on a less familiar topic, and the speaker's point of view). **These are estimates, not a calibration.** | A CEFR level for an individual student |
 
 **Two further limits.** The script is read live, so pace, accent and clarity vary from assessor to assessor, and that changes the difficulty. A single eight-mark task also gives a rough measure: one mark can move a student across a band boundary. So use the band alongside "listening in conversation" on the interview record, never on its own.
 
@@ -69,7 +85,7 @@ These steps turn the design into evidence the English team can stand behind. Kee
 | 4. Agree the marking | Two staff mark the first ten scripts on their own, then compare and agree. | Marker agreement |
 | 5. Adjust and record | Change the cut-offs if the trial shows they are too high or too low, and note the date and reason in the assessor booklets. | A dated record of the standard |
 | 6. Check after a term | After 20 to 30 admissions, compare each student's listening band with the English team's judgement after one term (guide, Section 10). | Evidence that the bands predict how students cope |
-| 7. If needed: a harder extension | If Years 7 to 10 decisions need a clear D or E, add a second, age-level listening text (for example a short lesson-style talk with subject vocabulary). | Discrimination at the top of the scale |
+| 7. Harder extension (done in version 2) | Years 7 to 10 version 2 adds Part B. Include Part B in the trial (steps 2 and 3): fluent students should score 6 to 8 on it, and the B1 Preliminary or B2 First for Schools sample listening tests are a suitable anchor for it. | Discrimination at the top of the scale |
 
 **Trial record** (copy for each year group)
 
