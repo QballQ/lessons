@@ -1,7 +1,7 @@
 ---
-title: Year 9 Admission Assessment: Student paper
+title: Year 9 Admission Assessment: Student paper (version 1, superseded by v2)
 style: secondary
-footer: Year 9 Admission Assessment | Student paper
+footer: Year 9 Admission Assessment | Student paper | v1, superseded by v2
 name_footer: yes
 ---
 <style>

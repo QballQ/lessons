@@ -122,7 +122,7 @@ Version 2 raises the challenge of the listening, reading and maths for Years 7 t
 
 **Files.** `Y07/Y07_Student_Paper_v2.md` and `Y07/Y07_Assessor_Booklet_v2.md` (and the same for Y08, Y09, Y10). Titles and footers say "v2", for example `title: Year 7 Admission Assessment v2: Student paper` and `footer: Year 7 Admission Assessment v2 | Student paper`. The cover says "Version 2, October 2026". New diagrams are named `y07v2_...svg` in the same `diagrams/` folder. Never edit the version 1 files.
 
-**Timings (student time, minutes):** listening 10, reading 15, writing 10, break 5, maths 25, science 8, interview with sentence reading 15: about 85 minutes in all.
+**Timings (student time, minutes):** listening about 12 (reading both scripts twice takes 9 to 11 minutes; allow 15 in Year 10), reading 15, writing 10, break 5, maths 25, science 8, interview with sentence reading 15: about 90 minutes in all with the welcome.
 
 ### 9.1 Listening v2 (16 marks, about 10 minutes)
 

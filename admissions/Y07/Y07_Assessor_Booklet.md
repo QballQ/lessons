@@ -1,8 +1,10 @@
 ---
-title: Year 7 Admission Assessment: Assessor booklet
+title: Year 7 Admission Assessment: Assessor booklet (version 1, superseded by v2)
 style: assessor
-footer: Year 7 Admission Assessment | Assessor booklet
+footer: Year 7 Admission Assessment | Assessor booklet | v1, superseded by v2
 ---
+
+> **Version 1: superseded.** Use `Y07_Assessor_Booklet_v2` and `Y07_Student_Paper_v2` (version 2, October 2026). This version is kept for reference only.
 # Year 7 Admission Assessment: assessor booklet
 
 For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7 entrant from a Chinese mainstream school has usually **completed Grade 5** and is the same age as a student starting Grade 6. The maths paper tests UK Year 6 content, so several topics (ratio, percentages, circles, negative numbers, pie charts, coordinates with negative numbers, multiplying and dividing fractions) **may not have been taught yet**. Section 4 lists them. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.

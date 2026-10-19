@@ -1,8 +1,10 @@
 ---
-title: Year 9 Admission Assessment: Assessor booklet
+title: Year 9 Admission Assessment: Assessor booklet (version 1, superseded by v2)
 style: assessor
-footer: Year 9 Admission Assessment | Assessor booklet
+footer: Year 9 Admission Assessment | Assessor booklet | v1, superseded by v2
 ---
+
+> **Version 1: superseded.** Use `Y09_Assessor_Booklet_v2` and `Y09_Student_Paper_v2` (version 2, October 2026). This version is kept for reference only.
 # Year 9 Admission Assessment: assessor booklet
 
 [[namebox:candidate]]

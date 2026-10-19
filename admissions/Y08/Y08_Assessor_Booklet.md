@@ -1,8 +1,10 @@
 ---
-title: Year 8 Admission Assessment: Assessor booklet
+title: Year 8 Admission Assessment: Assessor booklet (version 1, superseded by v2)
 style: assessor
-footer: Year 8 Admission Assessment | Assessor booklet
+footer: Year 8 Admission Assessment | Assessor booklet | v1, superseded by v2
 ---
+
+> **Version 1: superseded.** Use `Y08_Assessor_Booklet_v2` and `Y08_Student_Paper_v2` (version 2, October 2026). This version is kept for reference only.
 # Year 8 Admission Assessment: assessor booklet
 
 For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8 entrant from a Chinese mainstream school has usually **completed Grade 6** (the end of primary school) and is the same age as a student starting Grade 7 (初一). The maths paper tests UK Year 7 content, so algebraic manipulation, operations with negative numbers, angle rules with parallel lines, probability as a number, and the median, mode and range **may not have been taught yet**. A Year 8 entrant has usually done **no secondary science**: the science paper tests UK Year 7 content, so read the science score with the NT notes in Section 5. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.

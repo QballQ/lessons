@@ -1,8 +1,10 @@
 ---
-title: Year 10 Admission Assessment: Assessor booklet
+title: Year 10 Admission Assessment: Assessor booklet (version 1, superseded by v2)
 style: assessor
-footer: Year 10 Admission Assessment | Assessor booklet
+footer: Year 10 Admission Assessment | Assessor booklet | v1, superseded by v2
 ---
+
+> **Version 1: superseded.** Use `Y10_Assessor_Booklet_v2` and `Y10_Student_Paper_v2` (version 2, October 2026). This version is kept for reference only.
 # Year 10 Admission Assessment: assessor booklet
 
 [[namebox:candidate]]

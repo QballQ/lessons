@@ -1,6 +1,6 @@
 # International Programme Admissions Assessment, Years 1 to 10
 
-Admission assessments for students joining the English-medium international programme, most of them from Chinese mainstream schools or other bilingual schools. For every year group from Year 1 to Year 10 the pack measures the student's **level of English** (listening, speaking, reading and writing), their **maths** (number problems, word problems, and problems with diagrams and pictures), their **science** from Year 5, and, through an interview and a parent conversation, **who they are, their future plans and aspirations, and their suitability** for the programme. Each assessment takes about 45 minutes in Year 1, rising to about 85 minutes in Years 7 to 10.
+Admission assessments for students joining the English-medium international programme, most of them from Chinese mainstream schools or other bilingual schools. For every year group from Year 1 to Year 10 the pack measures the student's **level of English** (listening, speaking, reading and writing), their **maths** (number problems, word problems, and problems with diagrams and pictures), their **science** from Year 5, and, through an interview and a parent conversation, **who they are, their future plans and aspirations, and their suitability** for the programme. Each assessment takes about 45 minutes in Year 1, rising to about 90 minutes in Years 7 to 10.
 
 The student papers are in English only and are designed to be accessible: large clear type, pictures and diagrams, short sentences, worked examples, easy questions first.
 
