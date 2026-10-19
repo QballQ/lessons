@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 270" width="340" height="270" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A flower cut in half. Letter A points to the top of the middle part (the stigma). B points to a petal. C points to the top of a stalk with pollen (the anther). D points to the round part at the bottom (the ovary).</title>
+<line x1="170" y1="200" x2="170" y2="262" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<path d="M170,200 Q120,196 86,150 Q70,104 98,60 Q128,98 150,150 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M170,200 Q220,196 254,150 Q270,104 242,60 Q212,98 190,150 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="170" cy="182" rx="22" ry="18" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<line x1="170" y1="164" x2="170" y2="86" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="170" cy="80" rx="10" ry="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<path d="M158,184 Q140,140 132,108" fill="none" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="131" cy="100" rx="7" ry="11" fill="#111" stroke="#111" stroke-width="1.5"/>
+<path d="M182,184 Q200,140 208,108" fill="none" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="209" cy="100" rx="7" ry="11" fill="#111" stroke="#111" stroke-width="1.5"/>
+<text x="220" y="47" font-size="20" text-anchor="middle" font-weight="700" fill="#111">A</text>
+<line x1="208" y1="40" x2="176" y2="78" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="40" y="127" font-size="20" text-anchor="middle" font-weight="700" fill="#111">B</text>
+<line x1="52" y1="120" x2="88" y2="118" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="300" y="107" font-size="20" text-anchor="middle" font-weight="700" fill="#111">C</text>
+<line x1="288" y1="100" x2="217" y2="100" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="300" y="207" font-size="20" text-anchor="middle" font-weight="700" fill="#111">D</text>
+<line x1="288" y1="200" x2="192" y2="186" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

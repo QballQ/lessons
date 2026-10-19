@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A girl on a bike. An arrow pointing forwards is labelled forward force 50 N. An arrow pointing backwards is labelled air resistance and friction 50 N.</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<circle cx="250" cy="130" r="34" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="360" cy="130" r="34" fill="#fff" stroke="#111" stroke-width="3"/>
+<polygon points="250,130 296,130 342,88 284,88" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="296" y1="130" x2="278" y2="74" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="342" y1="88" x2="360" y2="130" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="342" y1="88" x2="338" y2="70" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="330" y1="68" x2="346" y2="68" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<circle cx="304" cy="26" r="12" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<line x1="300" y1="38" x2="284" y2="72" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<line x1="298" y1="46" x2="334" y2="68" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<path d="M284,72 L306,98 L296,130" fill="none" stroke="#111" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="270" y1="72" x2="290" y2="72" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<line x1="372" y1="104" x2="520" y2="104" stroke="#111" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<text x="446" y="92" font-size="16" text-anchor="middle" font-weight="700" fill="#111">forward force</text>
+<text x="446" y="130" font-size="18" text-anchor="middle" font-weight="700" fill="#111">50 N</text>
+<line x1="228" y1="104" x2="80" y2="104" stroke="#111" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<text x="154" y="74" font-size="16" text-anchor="middle" font-weight="700" fill="#111">air resistance</text>
+<text x="154" y="92" font-size="16" text-anchor="middle" font-weight="700" fill="#111">and friction</text>
+<text x="154" y="130" font-size="18" text-anchor="middle" font-weight="700" fill="#111">50 N</text>
+</svg>

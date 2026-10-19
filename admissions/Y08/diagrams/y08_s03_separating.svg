@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 236" width="660" height="236" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Three pictures of steps, in a mixed-up order, each with an empty box. A: pour the mixture through a filter. B: heat the salty water until the water evaporates. C: add water and stir.</title>
+<defs><pattern id="dd" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#fff"/><circle cx="3.5" cy="3.5" r="1.6" fill="#111"/></pattern></defs>
+<rect x="1.5" y="1.5" width="197" height="232" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="12" y="26" font-size="19" font-weight="700" fill="#111">A</text>
+<text x="100" y="186" font-size="16" text-anchor="middle" font-weight="700" fill="#111">filter</text>
+<rect x="76" y="196" width="48" height="32" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="231.5" y="1.5" width="197" height="232" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="242" y="26" font-size="19" font-weight="700" fill="#111">B</text>
+<text x="330" y="186" font-size="16" text-anchor="middle" font-weight="700" fill="#111">evaporate</text>
+<rect x="306" y="196" width="48" height="32" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="461.5" y="1.5" width="197" height="232" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="472" y="26" font-size="19" font-weight="700" fill="#111">C</text>
+<text x="560" y="186" font-size="16" text-anchor="middle" font-weight="700" fill="#111">add water and stir</text>
+<rect x="536" y="196" width="48" height="32" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M74,124 L74,170 L126,170 L126,124" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="76" y="150" width="48" height="18" fill="#e6e6e6" stroke="none"/>
+<polygon points="62,48 138,48 104,98 96,98" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="70,54 130,54 100,92" fill="#fff" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 3"/>
+<path d="M78,60 L122,60 L100,86 Z" fill="#7a7a7a" stroke="#111" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="96" y="98" width="8" height="30" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="100" cy="134" r="1.8" fill="#111" stroke="none"/>
+<circle cx="100" cy="140" r="1.8" fill="#111" stroke="none"/>
+<circle cx="100" cy="146" r="1.8" fill="#111" stroke="none"/>
+<path d="M290,82 Q330,116 370,82 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="284" y1="100" x2="376" y2="100" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="290" y1="100" x2="278" y2="166" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="370" y1="100" x2="382" y2="166" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<path d="M330,154 Q316,136 330,116 Q344,136 330,154 Z" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="318" y="154" width="24" height="12" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<path d="M314,70 q-5,-8 0,-16 q5,-8 0,-16" fill="none" stroke="#555" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M330,70 q-5,-8 0,-16 q5,-8 0,-16" fill="none" stroke="#555" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M346,70 q-5,-8 0,-16 q5,-8 0,-16" fill="none" stroke="#555" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M524,58 L524,168 L596,168 L596,58" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="526" y="92" width="68" height="74" fill="#e6e6e6" stroke="none"/>
+<line x1="526" y1="92" x2="594" y2="92" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="526" y="146" width="68" height="20" fill="url(#dd)" stroke="none"/>
+<line x1="584" y1="40" x2="554" y2="158" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<path d="M540,120 q10,-8 20,0 t20,0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 92" width="186" height="92">
+  <title>A high-speed train</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 10 30 L 120 30 Q 160 30 176 66 L 176 74 L 10 74 Z" fill="#e6e6e6"/>
+    <path d="M 128 36 Q 150 38 162 60 L 128 60 Z" fill="#fff"/>
+    <rect x="22" y="40" width="22" height="16" rx="3" fill="#fff"/>
+    <rect x="54" y="40" width="22" height="16" rx="3" fill="#fff"/>
+    <rect x="86" y="40" width="22" height="16" rx="3" fill="#fff"/>
+    <line x1="10" y1="64" x2="172" y2="64" stroke-width="2"/>
+    <circle cx="34" cy="80" r="7" fill="#fff"/><circle cx="62" cy="80" r="7" fill="#fff"/>
+    <circle cx="120" cy="80" r="7" fill="#fff"/><circle cx="148" cy="80" r="7" fill="#fff"/>
+    <line x1="0" y1="88" x2="186" y2="88" stroke-width="3"/>
+  </g>
+</svg>

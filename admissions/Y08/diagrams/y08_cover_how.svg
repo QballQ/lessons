@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 182" width="660" height="182" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>How to answer: three examples. A ticked box next to the word Shanghai. The answer 12 written in a box after 7 + 5 =. Working for 25 times 12 written in a working box, with the answer 300.</title>
+<text x="8" y="24" font-size="17" font-weight="700" fill="#111">Tick a box.</text>
+<text x="8" y="54" font-size="16" fill="#111">Which one is a city?</text>
+<rect x="8" y="70" width="24" height="24" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="44" y="89" font-size="16" fill="#111">apple</text>
+<rect x="8" y="104" width="24" height="24" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M12.3,116.5 L18.1,122.7 L28.6,108.8" fill="none" stroke="#111" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="44" y="123" font-size="16" fill="#111">Shanghai</text>
+<rect x="8" y="138" width="24" height="24" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="44" y="157" font-size="16" fill="#111">green</text>
+<line x1="212" y1="8" x2="212" y2="174" stroke="#7a7a7a" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 5"/>
+<text x="228" y="24" font-size="17" font-weight="700" fill="#111">Write in a box.</text>
+<text x="228" y="88" font-size="20" fill="#111">7 + 5 =</text>
+<rect x="306" y="62" width="76" height="38" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="344" y="90" font-size="24" text-anchor="middle" font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">12</text>
+<line x1="424" y1="8" x2="424" y2="174" stroke="#7a7a7a" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 5"/>
+<text x="440" y="24" font-size="17" font-weight="700" fill="#111">Show your working.</text>
+<text x="440" y="52" font-size="18" fill="#111">25 × 12</text>
+<rect x="440" y="62" width="214" height="72" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="446" y="78" font-size="14" fill="#444">Working</text>
+<text x="452" y="102" font-size="17" font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">25 × 10 = 250</text>
+<text x="452" y="125" font-size="17" font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">25 × 2 = 50</text>
+<text x="440" y="166" font-size="16" fill="#111">Answer</text>
+<rect x="500" y="142" width="80" height="34" rx="4" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="540" y="167" font-size="22" text-anchor="middle" font-family="Andika, Atkinson Hyperlegible, sans-serif" fill="#111">300</text>
+</svg>

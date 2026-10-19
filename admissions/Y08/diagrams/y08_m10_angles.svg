@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 236" width="420" height="236" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A triangle. The bottom side is part of a straight line. The angle at the bottom left is 60 degrees. At the bottom right, the angle outside the triangle, between the straight line and the side, is 125 degrees, and the angle inside is y. The angle at the top is x. Not drawn accurately.</title>
+<line x1="22" y1="200" x2="395" y2="200" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="40,200 260,200 139.4,27.8" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M68,200 A28,28 0 0 0 54,175.8" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="83.3" y="181" font-size="17" text-anchor="middle" fill="#111">60°</text>
+<path d="M245.1,178.7 A26,26 0 0 0 234,200" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="221" y="185.7" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">y</text>
+<path d="M282,200 A22,22 0 0 0 247.4,182" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="283.1" y="161.6" font-size="17" text-anchor="middle" fill="#111">125°</text>
+<path d="M126.4,50.3 A26,26 0 0 0 154.3,49.1" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="141.4" y="79.8" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">x</text>
+<text x="415" y="230" font-size="16" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

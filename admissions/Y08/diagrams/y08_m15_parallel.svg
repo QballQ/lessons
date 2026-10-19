@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 244" width="440" height="244" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Two parallel lines, marked with arrows, are crossed by a straight line. At the lower crossing, the angle above the line on the right is 70 degrees. At the upper crossing, angle a is above the line on the right and angle b is below the line on the right. Not drawn accurately.</title>
+<line x1="30" y1="70" x2="410" y2="70" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="30" y1="182" x2="410" y2="182" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M350,62 L360,70 L350,78" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M362,62 L372,70 L362,78" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M350,174 L360,182 L350,190" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M362,174 L372,182 L362,190" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="132.2" y1="230.9" x2="207.9" y2="23" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M176,182 A26,26 0 0 0 158.9,157.6" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="190.3" y="161.9" font-size="17" text-anchor="middle" fill="#111">70°</text>
+<path d="M216.8,70 A26,26 0 0 0 199.7,45.6" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="227.7" y="52" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">a</text>
+<path d="M183.2,90.7 A22,22 0 0 0 212.8,70" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="217.8" y="108.2" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">b</text>
+<text x="435" y="238" font-size="16" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

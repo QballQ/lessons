@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 226" width="330" height="226">
+  <title>A box resting on the floor. Its base is 2 m long and 1 m wide. An arrow shows its weight of 600 N acting downwards.</title>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker>
+  </defs>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 60 70 L 220 70 L 270 40 L 110 40 Z" fill="#fff"/>
+    <path d="M 220 70 L 270 40 L 270 120 L 220 150 Z" fill="#bdbdbd"/>
+    <rect x="60" y="70" width="160" height="80" fill="#e6e6e6"/>
+    <line x1="10" y1="150" x2="310" y2="150" stroke-width="2"/>
+  </g>
+  <line x1="140" y1="96" x2="140" y2="190" stroke="#111" stroke-width="3.5" marker-end="url(#ah)"/>
+  <text x="130" y="184" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" font-weight="700" fill="#111">weight = 600 N</text>
+  <text x="140" y="218" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">2 m</text>
+  <line x1="60" y1="200" x2="60" y2="212" stroke="#111" stroke-width="1.8"/>
+  <line x1="220" y1="200" x2="220" y2="212" stroke="#111" stroke-width="1.8"/>
+  <line x1="60" y1="206" x2="220" y2="206" stroke="#111" stroke-width="1.8"/>
+  <text x="262" y="146" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">1 m</text>
+</svg>

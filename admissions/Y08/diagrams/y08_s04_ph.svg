@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 130" width="660" height="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>The pH scale from 1 to 14. pH 1 to 6 are acids, with 1 the strongest acid. pH 7 is neutral. pH 8 to 14 are alkalis, with 14 the strongest alkali.</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect x="30" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="51.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">1</text>
+<rect x="73" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="94.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">2</text>
+<rect x="116" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="137.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">3</text>
+<rect x="159" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="180.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">4</text>
+<rect x="202" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="223.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">5</text>
+<rect x="245" y="44" width="43" height="40" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="266.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">6</text>
+<rect x="288" y="44" width="43" height="40" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="309.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#111">7</text>
+<rect x="331" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="352.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">8</text>
+<rect x="374" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="395.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">9</text>
+<rect x="417" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="438.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">10</text>
+<rect x="460" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="481.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">11</text>
+<rect x="503" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="524.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">12</text>
+<rect x="546" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="567.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">13</text>
+<rect x="589" y="44" width="43" height="40" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="610.5" y="71" font-size="17" text-anchor="middle" font-weight="700" fill="#fff">14</text>
+<text x="159" y="32" font-size="18" text-anchor="middle" font-weight="700" fill="#111">acid</text>
+<text x="309.5" y="32" font-size="18" text-anchor="middle" font-weight="700" fill="#111">neutral</text>
+<text x="481.5" y="32" font-size="18" text-anchor="middle" font-weight="700" fill="#111">alkali</text>
+<line x1="266.5" y1="106" x2="47.2" y2="106" stroke="#111" stroke-width="2.2" stroke-linecap="round" marker-end="url(#ah)"/>
+<text x="159" y="126" font-size="16" text-anchor="middle" fill="#111">stronger acid</text>
+<line x1="395.5" y1="106" x2="614.8" y2="106" stroke="#111" stroke-width="2.2" stroke-linecap="round" marker-end="url(#ah)"/>
+<text x="503" y="126" font-size="16" text-anchor="middle" fill="#111">stronger alkali</text>
+</svg>

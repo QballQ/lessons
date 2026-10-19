@@ -179,8 +179,6 @@ The interview is 1:1 and uses **`forms/Interview_Record_Y7_Y10`**. It opens with
 
 The interview record's opinion questions include homework and phones. These do not overlap with the writing tasks above.
 
-[[pagebreak]]
-
 ## 4. Maths (20 minutes, 30 marks)
 
 **Say:** "Turn to the Maths pages. Section A is number problems. Section B is word problems and problems with pictures. You cannot use a calculator. Show your working in the boxes: you can get marks for your working. I can read any question to you. Just ask. You have 20 minutes."
@@ -195,7 +193,7 @@ Read any question aloud on request, as often as asked, and point to the picture.
 |---|---|---|---|---|
 | 1 | 7244 | 1 | | Addition (floor item) |
 | 2 | 9342 | 1 | Common slips: 6920 + 2422 added wrongly; 346 × 2 instead of × 20 (3114). | Long multiplication (floor item) |
-| 3 | a 17 · b 6 | 1 + 1 | a: 32 means worked left to right. b: 4.4 or 2.4 means the order of operations was not used. | Order of operations |
+| 3 | a 17 · b 6 | 1 + 1 | a: 32 means the student worked from left to right. b: 2.4 (12 ÷ 5) means the student added before dividing; 18 means the brackets were ignored. | Order of operations |
 | 4 | 36 | 2 | **1 mark** for a correct method (long or short division, chunking such as 24 × 30 = 720, remainder 144 = 24 × 6) with one arithmetic error. | Long division |
 | 5 | 2/5 | 1 | 6/15, 0.4 | Multiplying fractions |
 | 6 | 1/4 | 1 | 3/12, 0.25. 9/4 means the student multiplied. | Dividing a fraction by a whole number |

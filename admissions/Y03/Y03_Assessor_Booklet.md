@@ -102,11 +102,13 @@ Ask the prompts in order. Wait about 5 seconds before you move on. You may point
 
 **Band guide:** 0 to 2 **A**; 3 to 4 **B**; 5 to 6 **C**; 7 to 8 **D**; 9 to 10 **E**. &nbsp; Listening band: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
 
+[[keep]]
 **What to look for**
 
 - Choosing the other ball, cat or bird in items 4 to 6 means the position word (under, next to, between) is not yet known, although the noun is.
 - Doing only the last part of items 7 and 8, or doing item 9 in the order heard (house first), is typical of a child whose English is still developing (band C): short instructions are understood, longer ones cannot yet be held in English.
 - Many R ticks with correct answers show understanding that is still slow. A child who watches your face for clues may understand less than the score suggests; note it.
+[[/keep]]
 
 ### 3.3 Reading: the shared reading screens (12 minutes)
 
@@ -128,6 +130,7 @@ The writing comes after the maths (see Section 1).
 - **Only if the child cannot connect with the pictures at all**, offer a short recount instead: "Write about something you did last weekend." The frame words still help. Write "recount" in the notes.
 - Stop after 8 minutes, or earlier when the child has finished.
 
+[[keep]]
 **The four criteria.** Score each from 0 to 4; 1 and 3 fall between the descriptions.
 
 | Criterion | 0 | 2 | 4 |
@@ -140,6 +143,7 @@ The writing comes after the maths (see Section 1).
 | Content and organisation | Vocabulary | Grammar and sentences | Spelling and punctuation | **Total** |
 |---|---|---|---|---|
 | / 4 | / 4 | / 4 | / 4 | **/ 16** |
+[[/keep]]
 
 **Checklist** (tick what you see): [[tick]] writes their name [[tick]] letters mostly well formed [[tick]] spaces between words [[tick]] writes on from the frame words [[tick]] at least one complete sentence [[tick]] capital letters and full stops [[tick]] past tense [[tick]] and, then, because or so [[tick]] spelling plausible from the sounds [[tick]] uses Chinese characters or pinyin (note which)
 
@@ -147,11 +151,13 @@ The writing comes after the maths (see Section 1).
 
 **What band E looks like at this age.** About five or more sentences that tell the whole story in order, mostly in the past tense, joined with words such as and, then, because and when; capital letters and full stops nearly every time; common words spelt correctly and harder words spelt so that they can be read; perhaps a feeling or a few words of speech. This is what a fluent English-speaking child at the end of UK Year 2 writes.
 
+[[keep]]
 **What to look for**
 
 - Missing past tense endings, plurals and "a" and "the" are normal for a learner of English: judge what the child can communicate.
 - Spelling that uses pinyin letter values (for example "xi" for "she") shows the child is using sounds they know. Note it: it helps the teacher.
 - Very slow, effortful handwriting, or letter formation that is also weak in Chinese (ask the parents), may point to a fine motor need. Note it on the interview record.
+[[/keep]]
 
 ### 3.5 Short interview and goodbye (8 minutes)
 
@@ -196,11 +202,13 @@ Use `forms/Interview_Record_Y3_Y4.md`. In Year 3 the sentence reading has alread
 
 **Number problems and word problems.** Compare Questions 1 to 3 (adding and subtracting with no words) with Questions 7 and 13 (the same skills in words). A child who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty: check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L).
 
+[[keep]]
 **What to look for**
 
 - **Strong:** quick, accurate calculation; uses the pictures sensibly (crossing out stickers, counting the plates in fives); checks answers.
 - **A maths difficulty:** errors on Questions 1 to 3 as well as on the word problems; counts in ones for everything; cannot read the ruler or the clock even when the question is read aloud.
 - **An English barrier:** right answers to the number problems, but wrong or blank word problems that become right when read aloud or said in Chinese; asks for many questions to be read.
+[[/keep]]
 
 **Likely not yet taught** for a child who has completed Chinese Grade 1: Questions 4 and 8 (multiplication and division), 5 and 6b (numbers above 100), 9 (centimetre ruler), 12b (time to five minutes), 14 (symmetry) and 15 (fractions). Children from bilingual schools, or who have started Grade 2, may have met some of these.
 

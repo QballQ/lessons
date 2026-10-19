@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404 184" width="404" height="184">
+  <title>Two similar triangles, A and B. Triangle A has sides of 6 cm and 8 cm. The matching sides of triangle B are 9 cm and x. Matching angles are marked.</title>
+  <path d="M 62 150 L 174 150 L 90.7 71.1 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 78 150 A 16 16 0 0 0 67.5 135" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 162.4 139 A 16 16 0 0 0 158 150" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 158.8 135.6 A 21 21 0 0 0 153 150" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="66.4" y="114.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" font-weight="700" fill="#111">6 cm</text>
+  <text x="118" y="174" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">8 cm</text>
+  <text x="108.9" y="129.7" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <path d="M 222 150 L 390 150 L 265.1 31.6 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 238 150 A 16 16 0 0 0 227.5 135" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 378.4 139 A 16 16 0 0 0 374 150" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 374.8 135.6 A 21 21 0 0 0 369 150" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="233.5" y="94.8" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" font-weight="700" fill="#111">9 cm</text>
+  <text x="306" y="174" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-style="italic" fill="#111">x</text>
+  <text x="292.4" y="116.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">B</text>
+  <text x="400" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

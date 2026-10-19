@@ -14,6 +14,9 @@ name_footer: yes
 .wb { display: inline-block; border: 1.4px solid #111; border-radius: 4px; padding: 0 12px; margin: 0 6px; font-weight: 700; }
 .calc { font-size: 1.3em; }
 .opt { margin: 0 0 6px; }
+.cols2 { column-count: auto; display: grid; grid-template-columns: 1fr 1fr; column-gap: 8mm; }
+.cols2 > section.q { margin: 5px 0; }
+.side { display: grid; grid-template-columns: 1fr 1fr; column-gap: 6mm; align-items: start; }
 </style>
 
 # Year 5 Admission Assessment
@@ -22,11 +25,7 @@ name_footer: yes
 
 <p class="big"><b>Welcome!</b></p>
 
-These activities help us get to know you.
-
-Do your best. It is fine if you cannot answer every question.
-
-You can ask your teacher to say the instructions again.
+These activities help us get to know you. Do your best. It is fine if you cannot answer every question. You can ask your teacher to say the instructions again.
 
 ## How to answer
 
@@ -39,7 +38,7 @@ You can ask your teacher to say the instructions again.
 
 **Join** the picture to its word.
 
-![Example: a picture of the sun joined by a line to the word sun](diagrams/y05_e_cover_join.svg){.w35}
+![Example: a picture of the sun joined by a line to the word sun](diagrams/y05_e_cover_join.svg){.w30}
 
 **Show** your working. &nbsp; 26 + 17 = <span class="ans short ansf">43</span>
 
@@ -70,7 +69,7 @@ Your teacher will read the questions to you. Then your teacher will read a text 
 
 How will the class travel to the museum? **Tick** one box.
 
-![Three pictures with tick boxes: A a bus, B a train, C a car](diagrams/y05_e01_listen_transport.svg){.w90}
+![Three pictures with tick boxes: A a bus, B a train, C a car](diagrams/y05_e01_listen_transport.svg){.w80}
 
 ### 2 [[marks:1]]
 
@@ -88,7 +87,7 @@ What must the children bring? **Tick** two boxes.
 
 What will the class visit first? **Tick** one box.
 
-![Three pictures with tick boxes: A space, B robots, C dinosaurs](diagrams/y05_e04_listen_museum.svg){.w90}
+![Three pictures with tick boxes: A space, B robots, C dinosaurs](diagrams/y05_e04_listen_museum.svg){.w80}
 
 ### 5 [[marks:1]]
 
@@ -132,7 +131,7 @@ Do as much as you can. It is fine if you do not finish.
 
 **Read** the notice. Then answer questions 1 to 6.
 
-![A park notice. Green Lake Park, Children's Garden. Open every day from 8:00 to 18:00. In the garden you can play on the swings, have a picnic and feed the ducks. Please do not ride a bike, pick the flowers or swim in the lake. Duck food costs 2 yuan a bag at the cafe. Lost something? Ask at the office by the main gate.](diagrams/y05_e_read_park_notice.svg){.w90}
+![A park notice. Green Lake Park, Children's Garden. Open every day from 8:00 to 18:00. In the garden you can play on the swings, have a picnic and feed the ducks. Please do not ride a bike, pick the flowers or swim in the lake. Duck food costs 2 yuan a bag at the cafe. Lost something? Ask at the office by the main gate.](diagrams/y05_e_read_park_notice.svg){.w80}
 
 ### 1 [[marks:1]]
 
@@ -174,6 +173,8 @@ Tom lost his hat in the garden. Where should he ask?
 
 **Write** your answer in the box. [[answer:wide]]
 
+[[pagebreak]]
+
 ## Part B
 
 **Read** the text. Then answer questions 7 to 14.
@@ -194,6 +195,8 @@ Inside the cocoon, the silkworm changes. After about two weeks, a white moth com
 People use the thread from cocoons to make silk for clothes.
 [[/passage]]
 
+[[cols:2]]
+
 ### 7 [[marks:1]]
 
 How big is a silkworm egg? **Tick** one box.
@@ -206,27 +209,33 @@ How big is a silkworm egg? **Tick** one box.
 
 How many days does it take for a baby silkworm to come out of the egg?
 
-**Write** your answer in the box. About [[answer:short]] days
+**Write** your answer in the box.
+
+About [[answer:short]] days
 
 ### 9 [[marks:1]]
 
 What colour is a baby silkworm?
 
-**Write** your answer in the box. [[answer]]
+**Write** your answer in the box.
+
+[[answer]]
 
 ### 10 [[marks:1]]
 
 What do silkworms eat?
 
-**Write** your answer in the box. [[answer:wide]]
+**Write** your answer in the box.
+
+[[answer:wide]]
+
+[[/cols]]
 
 ### 11 [[marks:1]]
 
 "They eat and eat, day and night." What does this tell you about silkworms? **Tick** one box.
 
-<p class="opt"><span class="tick"></span> They sleep a lot.</p>
-<p class="opt"><span class="tick"></span> They eat a lot.</p>
-<p class="opt"><span class="tick"></span> They eat only at night.</p>
+[[tick]] They sleep a lot. &nbsp; &nbsp; [[tick]] They eat a lot. &nbsp; &nbsp; [[tick]] They eat only at night.
 
 ### 12 [[marks:1]]
 
@@ -251,6 +260,8 @@ These pictures show the life of a silkworm. They are in the wrong order.
 What do people make from the thread of cocoons?
 
 **Write** your answer in the box. [[answer:wide]]
+
+[[pagebreak]]
 
 ## Part C
 
@@ -286,6 +297,8 @@ What shape was this year's kite?
 
 **Write** your answer in the box. [[answer:wide]]
 
+[[cols:2]]
+
 ### 16 [[marks:1]]
 
 Where did Li Na and Grandpa fly the kite?
@@ -296,13 +309,20 @@ Where did Li Na and Grandpa fly the kite?
 
 "The wind was wild." **Find and copy** one word from the next sentence that shows the wind was strong.
 
-[[answer:wide]]
+[[answer]]
+
+[[/cols]]
+
+[[cols:2]]
 
 ### 18 [[marks:1]]
 
 "... until her fingers ached." What does **ached** mean here? **Tick** one box.
 
-[[tick]] hurt &nbsp; &nbsp; [[tick]] felt cold &nbsp; &nbsp; [[tick]] were clean &nbsp; &nbsp; [[tick]] were wet
+<p class="opt"><span class="tick"></span> hurt</p>
+<p class="opt"><span class="tick"></span> felt cold</p>
+<p class="opt"><span class="tick"></span> were clean</p>
+<p class="opt"><span class="tick"></span> were wet</p>
 
 ### 19 [[marks:1]]
 
@@ -312,6 +332,10 @@ Where did Li Na and Grandpa fly the kite?
 <p class="opt"><span class="tick"></span> The kite was falling down.</p>
 <p class="opt"><span class="tick"></span> Li Na was singing a song.</p>
 <p class="opt"><span class="tick"></span> The string was broken.</p>
+
+[[/cols]]
+
+[[cols:2]]
 
 ### 20 [[marks:1]]
 
@@ -324,6 +348,8 @@ Why was the boy crying?
 Why did Li Na wind in the string and bring her kite down?
 
 [[lines:2]]
+
+[[/cols]]
 
 ### 22 [[marks:1]]
 
@@ -384,6 +410,7 @@ You can ask your teacher to read a question to you. **Write** your answers in th
 ## Section A: Number problems
 
 [[cols:2]]
+
 ### 1 [[marks:1]]
 
 <span class="calc">356 + 238 =</span> [[answer]]
@@ -396,7 +423,9 @@ You can ask your teacher to read a question to you. **Write** your answers in th
 
 ### 3 [[marks:1]]
 
-<span class="calc">5&nbsp;024 − 1&nbsp;760 =</span> [[answer]]
+<span class="calc">5&nbsp;024 − 1&nbsp;760 =</span>
+
+[[answer]]
 
 [[box:3:Working]]
 
@@ -409,34 +438,33 @@ You can ask your teacher to read a question to you. **Write** your answers in th
 <span class="calc">243 × 4 =</span> [[answer]]
 
 [[box:3:Working]]
-[[/cols]]
 
-### 6 [[marks:2]]
-
-[[example]]
-27 rounded to the nearest 10 is <span class="ans short ansf">30</span>
-[[/example]]
-
-**Round** 4&nbsp;362. **Write** your answers in the boxes.
-
-| | |
-|---|---|
-| 4&nbsp;362 rounded to the nearest 10 | [[answer]] |
-| 4&nbsp;362 rounded to the nearest 100 | [[answer]] |
-| 4&nbsp;362 rounded to the nearest 1&nbsp;000 | [[answer]] |
-
-[[cols:2]]
-### 7 [[marks:1]]
+### 6 [[marks:1]]
 
 **Write** this fraction as a decimal.
 
 <span class="calc"><span class="fr"><span>47</span><span>100</span></span> =</span> [[answer:short]]
 
-### 8 [[marks:1]]
+### 7 [[marks:1]]
 
 **Write** the missing number.
 
 <span class="calc"><span class="fr"><span>3</span><span>4</span></span> = <span class="fr"><span>[[answer:short]]</span><span>12</span></span></span>
+
+### 8 [[marks:2]]
+
+[[example]]
+27 rounded to the nearest 10 is <span class="ans short ansf">30</span>
+[[/example]]
+
+**Round** 4&nbsp;362 to the nearest:
+
+<table>
+<tr><td>10</td><td>[[answer]]</td></tr>
+<tr><td>100</td><td>[[answer]]</td></tr>
+<tr><td>1&nbsp;000</td><td>[[answer]]</td></tr>
+</table>
+
 [[/cols]]
 
 ### 9 [[marks:1]]
@@ -453,7 +481,7 @@ There are 96 children. 8 children sit at each table.
 
 How many tables do they need?
 
-![A round table seen from above with 8 children sitting around it](diagrams/y05_m10_table.svg){.w40}
+![A round table seen from above with 8 children sitting around it](diagrams/y05_m10_table.svg){.w30}
 
 [[answer]] tables
 
@@ -503,7 +531,7 @@ The shape is drawn on a grid. Each square is 1 cm by 1 cm.
 
 Use these words: <span class="wb">acute</span> <span class="wb">obtuse</span> <span class="wb">right</span>
 
-![Three angles, each with an empty answer box: A, B and C](diagrams/y05_m15_angles.svg){.w80}
+![Three angles, each with an empty answer box: A, B and C](diagrams/y05_m15_angles.svg){.w70}
 
 ### 16 [[marks:1]]
 
@@ -521,12 +549,11 @@ The dashed line is a line of symmetry.
 
 ### 18 [[marks:2]]
 
-![A coordinate grid from 0 to 8 on both axes. Point E is at (6, 1). Point A is marked.](diagrams/y05_m18_coordinates.svg){.w60 .right}
+<div class="side" markdown="1">
+<div markdown="1">
 
 [[example]]
-Point **E** is at (6, 1).
-
-Go 6 across, then 1 up.
+Point **E** is at (6, 1). Go 6 across, then 1 up.
 [[/example]]
 
 (a) **Write** the coordinates of point **A**.
@@ -539,7 +566,13 @@ Go 6 across, then 1 up.
 
 <span class="calc">( [[answer:short]] , [[answer:short]] )</span>
 
-[[clear]]
+</div>
+<div markdown="1">
+
+![A coordinate grid from 0 to 8 on both axes. Point E is at (6, 1). Point A is marked.](diagrams/y05_m18_coordinates.svg){.w100}
+
+</div>
+</div>
 
 ### 19 [[marks:2]]
 

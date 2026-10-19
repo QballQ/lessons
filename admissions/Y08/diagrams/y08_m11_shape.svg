@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 262" width="360" height="262" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A compound shape made of rectangles, like a letter L. The bottom side is 10 cm, the left side is 8 cm, the top side is 6 cm and the lower right side is 5 cm. All corners are right angles. Not drawn accurately.</title>
+<polygon points="60,214 280,214 280,104 192,104 192,38 60,38" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M60,203 L71,203 L71,214" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M269,214 L269,203 L280,203" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M280,115 L269,115 L269,104" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M181,104 L181,115 L192,115" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M192,49 L181,49 L181,38" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M71,38 L71,49 L60,49" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="170" y="240" font-size="17" text-anchor="middle" fill="#111">10 cm</text>
+<text x="50" y="132" font-size="17" text-anchor="end" fill="#111">8 cm</text>
+<text x="126" y="28" font-size="17" text-anchor="middle" fill="#111">6 cm</text>
+<text x="290" y="165" font-size="17" fill="#111">5 cm</text>
+<text x="355" y="256" font-size="16" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 206" width="380" height="206">
+  <title>A diagram of an atom. The nucleus has 3 protons and 4 neutrons. There are 3 electrons: 2 in the inner shell and 1 in the outer shell. A key shows the symbols.</title>
+  <circle cx="130" cy="104" r="56" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="130" cy="104" r="92" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="115" cy="86" r="12" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="115" y="91.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">+</text>
+  <circle cx="139" cy="86" r="12" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="109" cy="106" r="12" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="131" cy="102" r="12" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="131" y="107.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">+</text>
+  <circle cx="151" cy="104" r="12" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="121" cy="122" r="12" fill="#fff" stroke="#111" stroke-width="2"/>
+  <circle cx="143" cy="122" r="12" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="143" y="127.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">+</text>
+  <circle cx="81.5" cy="76" r="9" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/><text x="81.5" y="81" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#fff">&#8722;</text>
+  <circle cx="178.5" cy="132" r="9" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/><text x="178.5" y="137" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#fff">&#8722;</text>
+  <circle cx="176" cy="24.3" r="9" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/><text x="176" y="29.3" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#fff">&#8722;</text>
+  <text x="260" y="40" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">Key</text>
+  <circle cx="272" cy="66" r="12" fill="#bdbdbd" stroke="#111" stroke-width="2"/><text x="272" y="72" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">+</text><text x="294" y="72" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">proton</text>
+  <circle cx="272" cy="102" r="12" fill="#fff" stroke="#111" stroke-width="2"/><text x="294" y="108" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">neutron</text>
+  <circle cx="272" cy="138" r="9" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/><text x="272" y="143" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#fff">&#8722;</text><text x="294" y="144" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">electron</text>
+</svg>

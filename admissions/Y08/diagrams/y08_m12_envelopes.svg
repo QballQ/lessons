@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 150" width="270" height="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Two red envelopes, one for Mei and one for Jun</title>
+<rect x="20" y="10" width="100" height="104" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<path d="M20,16 Q70,58 120,16" fill="#7a7a7a" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70" cy="46" r="11" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="70" cy="46" r="5" fill="#bdbdbd" stroke="#111" stroke-width="1.4"/>
+<text x="70" y="140" font-size="19" text-anchor="middle" font-weight="700" fill="#111">Mei</text>
+<rect x="150" y="10" width="100" height="104" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<path d="M150,16 Q200,58 250,16" fill="#7a7a7a" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="200" cy="46" r="11" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="200" cy="46" r="5" fill="#bdbdbd" stroke="#111" stroke-width="1.4"/>
+<text x="200" y="140" font-size="19" text-anchor="middle" font-weight="700" fill="#111">Jun</text>
+</svg>

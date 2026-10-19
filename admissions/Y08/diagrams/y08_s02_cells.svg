@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 250" width="660" height="250" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Two cells seen with a microscope. An animal cell with labels: nucleus, cell membrane, cytoplasm. A plant cell with letters: A the cell wall, B a chloroplast, C the nucleus, D the vacuole.</title>
+<text x="170" y="22" font-size="18" text-anchor="middle" font-weight="700" fill="#111">Animal cell</text>
+<path d="M90,120 Q84,62 150,54 Q222,48 246,100 Q264,160 200,190 Q130,212 100,170 Q92,150 90,120 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="168" cy="118" r="24" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<text x="20" y="70" font-size="16" fill="#111">nucleus</text>
+<line x1="64" y1="76" x2="148" y2="108" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="20" y="216" font-size="16" fill="#111">cell membrane</text>
+<line x1="80" y1="206" x2="104" y2="178" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="232" y="222" font-size="16" fill="#111">cytoplasm</text>
+<line x1="250" y1="208" x2="214" y2="160" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="500" y="22" font-size="18" text-anchor="middle" font-weight="700" fill="#111">Plant cell</text>
+<rect x="400" y="38" width="200" height="190" rx="8" fill="#fff" stroke="#111" stroke-width="6"/>
+<rect x="408" y="46" width="184" height="174" rx="6" fill="#e6e6e6" stroke="#111" stroke-width="1.6"/>
+<rect x="440" y="70" width="120" height="120" rx="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="570" cy="70" r="15" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<ellipse cx="424" cy="110" rx="11" ry="6" fill="#bdbdbd" stroke="#111" stroke-width="1.6" transform="rotate(70 424 110)"/>
+<ellipse cx="424" cy="170" rx="11" ry="6" fill="#bdbdbd" stroke="#111" stroke-width="1.6" transform="rotate(100 424 170)"/>
+<ellipse cx="500" cy="208" rx="11" ry="6" fill="#bdbdbd" stroke="#111" stroke-width="1.6" transform="rotate(0 500 208)"/>
+<ellipse cx="574" cy="160" rx="11" ry="6" fill="#bdbdbd" stroke="#111" stroke-width="1.6" transform="rotate(80 574 160)"/>
+<ellipse cx="470" cy="56" rx="11" ry="6" fill="#bdbdbd" stroke="#111" stroke-width="1.6" transform="rotate(10 470 56)"/>
+<text x="626" y="127" font-size="20" text-anchor="middle" font-weight="700" fill="#111">A</text>
+<line x1="614" y1="120" x2="601" y2="120" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="380" y="203" font-size="20" text-anchor="middle" font-weight="700" fill="#111">B</text>
+<line x1="392" y1="196" x2="420" y2="176" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="626" y="61" font-size="20" text-anchor="middle" font-weight="700" fill="#111">C</text>
+<line x1="614" y1="54" x2="582" y2="64" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="500" y="143" font-size="20" text-anchor="middle" font-weight="700" fill="#111">D</text>
+</svg>

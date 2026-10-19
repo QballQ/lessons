@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 204" width="408" height="204">
+  <title>Two right-angled triangles. Triangle A: the angle 35 degrees, the hypotenuse 10 cm, and the side opposite the angle is x. Triangle B: the side opposite angle y is 6 cm and the side next to it is 8 cm.</title>
+  <path d="M 24 150 L 146.9 150 L 146.9 64 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 134.9 150 L 134.9 138 L 146.9 138" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 54 150 A 30 30 0 0 0 48.6 132.8" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="76" y="143" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">35°</text>
+  <text x="75.4" y="101" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" font-weight="700" fill="#111">10 cm</text>
+  <text x="156.9" y="114" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" font-style="italic" fill="#111">x</text>
+  <text x="85.4" y="182" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <path d="M 234 150 L 354 150 L 354 60 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 342 150 L 342 138 L 354 138" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M 264 150 A 30 30 0 0 0 258 132" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="282" y="143" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-style="italic" fill="#111">y</text>
+  <text x="294" y="172" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">8 cm</text>
+  <text x="364" y="112" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">6 cm</text>
+  <text x="294" y="196" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">B</text>
+  <text x="404" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

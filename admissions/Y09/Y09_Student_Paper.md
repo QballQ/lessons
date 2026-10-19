@@ -10,6 +10,7 @@ name_footer: yes
 .opt { margin: 0 0 6px; }
 .sp { display: inline-block; width: 2.2em; }
 body.secondary p { white-space: pre-line; }
+body.secondary h1 ~ h1, .newpage { break-before: page; }
 .vt td, .vt th { min-width: 2.2em; height: 1.8em; text-align: center; vertical-align: middle; }
 </style>
 
@@ -53,8 +54,6 @@ Which one is a fruit? <span class="sp"></span> a chair [[tick]] <span class="sp"
 
 You may use a pencil, a rubber and a ruler.
 You may **not** use a calculator.
-
-[[pagebreak]]
 
 # Listening
 
@@ -110,8 +109,6 @@ Why does Mei tell Tom about Jun?
 
 [[lines:2]]
 
-[[pagebreak]]
-
 # Reading
 
 There are three parts: **A**, **B** and **C**.
@@ -165,9 +162,7 @@ Why? [[answer:wide]]
 Li Na is free only on Saturday mornings.
 Which activity can she do? [[answer:wide]]
 
-[[pagebreak]]
-
-## Part B
+## Part B {.newpage}
 
 **Read** the text. Then **answer** questions 8 to 14.
 
@@ -226,9 +221,7 @@ Why are the numbers of pandas growing today?
 
 [[lines:2]]
 
-[[pagebreak]]
-
-## Part C
+## Part C {.newpage}
 
 **Read** the story. Then **answer** questions 15 to 21.
 
@@ -297,8 +290,6 @@ How do Mei's feelings change from the start of the story to the end?
 
 [[lines:2]]
 
-[[pagebreak]]
-
 # Writing
 
 **Choose one** task: A or B.
@@ -330,15 +321,11 @@ Ideas: health, friends, time for study, examples from your own life.
 
 [[box:8:Notes and ideas (this part is not marked)]]
 
-[[pagebreak]]
-
-#### Your writing
+#### Your writing {.newpage}
 
 Task A [[tick]] <span class="sp"></span> Task B [[tick]]
 
 [[lines:22]]
-
-[[pagebreak]]
 
 # Maths
 
@@ -543,8 +530,6 @@ A straight path goes from one corner to the opposite corner.
 [[box:2:Working]]
 
 [[answer]] m
-
-[[pagebreak]]
 
 # Science
 

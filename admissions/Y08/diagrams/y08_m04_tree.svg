@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 150" width="190" height="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A factor tree for 12: 12 splits into 2 and 6, and 6 splits into 2 and 3. The primes 2, 2 and 3 are circled.</title>
+<text x="95" y="24" font-size="19" text-anchor="middle" font-weight="700" fill="#111">12</text>
+<line x1="88" y1="30" x2="58" y2="58" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="102" y1="30" x2="132" y2="58" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="52" cy="74" r="15" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="52" y="80" font-size="18" text-anchor="middle" fill="#111">2</text>
+<text x="138" y="80" font-size="18" text-anchor="middle" fill="#111">6</text>
+<line x1="132" y1="86" x2="110" y2="108" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="144" y1="86" x2="166" y2="108" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="104" cy="122" r="15" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="104" y="128" font-size="18" text-anchor="middle" fill="#111">2</text>
+<circle cx="170" cy="122" r="15" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="170" y="128" font-size="18" text-anchor="middle" fill="#111">3</text>
+</svg>

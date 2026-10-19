@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="460" height="320">
+  <title>A distance-time graph. From 0 to 200 seconds the distance goes from 0 to 1200 m. From 200 to 300 seconds it stays at 1200 m. From 300 to 500 seconds it goes from 1200 m to 2000 m.</title>
+  <line x1="80" y1="24" x2="80" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="116" y1="24" x2="116" y2="264" stroke="#bdbdbd" stroke-width="0.8"/>
+  <line x1="152" y1="24" x2="152" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="188" y1="24" x2="188" y2="264" stroke="#bdbdbd" stroke-width="0.8"/>
+  <line x1="224" y1="24" x2="224" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="260" y1="24" x2="260" y2="264" stroke="#bdbdbd" stroke-width="0.8"/>
+  <line x1="296" y1="24" x2="296" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="332" y1="24" x2="332" y2="264" stroke="#bdbdbd" stroke-width="0.8"/>
+  <line x1="368" y1="24" x2="368" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="404" y1="24" x2="404" y2="264" stroke="#bdbdbd" stroke-width="0.8"/>
+  <line x1="440" y1="24" x2="440" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="264" x2="440" y2="264" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="240" x2="440" y2="240" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="216" x2="440" y2="216" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="192" x2="440" y2="192" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="168" x2="440" y2="168" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="144" x2="440" y2="144" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="120" x2="440" y2="120" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="96" x2="440" y2="96" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="72" x2="440" y2="72" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="48" x2="440" y2="48" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="24" x2="440" y2="24" stroke="#bdbdbd" stroke-width="1.3"/>
+  <line x1="80" y1="264" x2="440" y2="264" stroke="#111" stroke-width="2.2"/>
+  <line x1="80" y1="24" x2="80" y2="264" stroke="#111" stroke-width="2.2"/>
+  <text x="80" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">0</text>
+  <text x="152" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">100</text>
+  <text x="224" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">200</text>
+  <text x="296" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">300</text>
+  <text x="368" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">400</text>
+  <text x="440" y="286" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">500</text>
+  <text x="72" y="269" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">0</text>
+  <text x="72" y="221" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">400</text>
+  <text x="72" y="173" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">800</text>
+  <text x="72" y="125" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">1 200</text>
+  <text x="72" y="77" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">1 600</text>
+  <text x="72" y="29" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">2 000</text>
+  <text x="260" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Time (s)</text>
+  <text x="22" y="144.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#111" transform="rotate(-90 22 144.0)">Distance from home (m)</text>
+  <polyline points="80,264 224,120 296,120 440,24" fill="none" stroke="#111" stroke-width="3.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 140" width="244" height="140">
+  <title>Trainers with a price tag that says Sale price 360 yuan, and a sign that says 20% off</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 14 118 L 14 92 Q 14 80 26 78 L 52 74 Q 62 52 80 50 L 96 50 Q 102 70 122 78 L 160 92 Q 176 98 176 112 L 176 118 Z" fill="#e6e6e6"/>
+    <path d="M 10 118 L 180 118 L 180 128 Q 180 134 172 134 L 18 134 Q 10 134 10 128 Z" fill="#bdbdbd"/>
+    <path d="M 66 62 L 92 74 M 60 72 L 88 84 M 56 82 L 84 94" fill="none" stroke-width="2"/>
+    <path d="M 120 80 L 150 60" fill="none" stroke-width="1.5"/>
+    <path d="M 150 44 L 222 44 L 238 64 L 222 84 L 150 84 Z" fill="#fff"/>
+    <circle cx="158" cy="64" r="3.5" fill="#fff"/>
+  </g>
+  <text x="196" y="60" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="middle" fill="#111">Sale price</text>
+  <text x="198" y="79" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">¥360</text>
+  <rect x="150" y="2" width="90" height="34" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  <text x="195" y="26" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">20% off</text>
+</svg>

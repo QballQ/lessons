@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 266" width="250" height="266">
+  <title>A tin in the shape of a cylinder with a label around the middle. The radius of the top is 5 cm and the height is 10 cm.</title>
+  <path d="M 30 48 L 30 218 A 70 20 0 0 0 170 218 L 170 48" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <path d="M 30 104 A 70 20 0 0 0 170 104 L 170 158 A 70 20 0 0 1 30 158 Z" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <ellipse cx="100" cy="48" rx="70" ry="20" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <circle cx="100" cy="48" r="3.5" fill="#111"/>
+  <line x1="100" y1="48" x2="170" y2="48" stroke="#111" stroke-width="2.2"/>
+  <text x="135" y="22" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">5 cm</text>
+  <text x="100" y="140" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-style="italic" fill="#111">label</text>
+  <line x1="188" y1="48" x2="188" y2="218" stroke="#111" stroke-width="1.8"/>
+  <line x1="182" y1="48" x2="194" y2="48" stroke="#111" stroke-width="1.8"/>
+  <line x1="182" y1="218" x2="194" y2="218" stroke="#111" stroke-width="1.8"/>
+  <text x="198" y="139" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">10 cm</text>
+  <text x="4" y="262" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

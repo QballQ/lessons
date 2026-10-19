@@ -1,239 +1,239 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 210" width="600" height="210">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 222" width="540" height="222">
   <title>Three clocks with a tick box under each. A: 8 o'clock. B: 9 o'clock. C: 10 o'clock.</title>
   <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
-    <circle cx="100" cy="80" r="72" fill="#fff" stroke="#111" stroke-width="4"/>
-    <line x1="100" y1="16.64" x2="100" y2="11" stroke="#111" stroke-width="3"/>
-    <line x1="107.07" y1="12.69" x2="107.21" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="114.07" y1="13.8" x2="114.35" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="120.91" y1="15.63" x2="121.32" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="127.53" y1="18.17" x2="128.06" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="131.68" y1="25.13" x2="134.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="139.78" y1="25.25" x2="140.56" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="145.29" y1="29.7" x2="146.17" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="150.3" y1="34.71" x2="151.28" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="154.75" y1="40.22" x2="155.82" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="154.87" y1="48.32" x2="159.76" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="161.83" y1="52.47" x2="163.03" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="164.37" y1="59.09" x2="165.62" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="166.2" y1="65.93" x2="167.49" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="167.31" y1="72.93" x2="168.62" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="163.36" y1="80" x2="169" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="167.31" y1="87.07" x2="168.62" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="166.2" y1="94.07" x2="167.49" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="164.37" y1="100.91" x2="165.62" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="161.83" y1="107.53" x2="163.03" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="154.87" y1="111.68" x2="159.76" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="154.75" y1="119.78" x2="155.82" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="150.3" y1="125.29" x2="151.28" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="145.29" y1="130.3" x2="146.17" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="139.78" y1="134.75" x2="140.56" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="131.68" y1="134.87" x2="134.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="127.53" y1="141.83" x2="128.06" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="120.91" y1="144.37" x2="121.32" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="114.07" y1="146.2" x2="114.35" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="107.07" y1="147.31" x2="107.21" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="100" y1="143.36" x2="100" y2="149" stroke="#111" stroke-width="3"/>
-    <line x1="92.93" y1="147.31" x2="92.79" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="85.93" y1="146.2" x2="85.65" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="79.09" y1="144.37" x2="78.68" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="72.47" y1="141.83" x2="71.94" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="68.32" y1="134.87" x2="65.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="60.22" y1="134.75" x2="59.44" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="54.71" y1="130.3" x2="53.83" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="49.7" y1="125.29" x2="48.72" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="45.25" y1="119.78" x2="44.18" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="45.13" y1="111.68" x2="40.24" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="38.17" y1="107.53" x2="36.97" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="35.63" y1="100.91" x2="34.38" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="33.8" y1="94.07" x2="32.51" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="32.69" y1="87.07" x2="31.38" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="36.64" y1="80" x2="31" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="32.69" y1="72.93" x2="31.38" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="33.8" y1="65.93" x2="32.51" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="35.63" y1="59.09" x2="34.38" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="38.17" y1="52.47" x2="36.97" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="45.13" y1="48.32" x2="40.24" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="45.25" y1="40.22" x2="44.18" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="49.7" y1="34.71" x2="48.72" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="54.71" y1="29.7" x2="53.83" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="60.22" y1="25.25" x2="59.44" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="68.32" y1="25.13" x2="65.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="72.47" y1="18.17" x2="71.94" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="79.09" y1="15.63" x2="78.68" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="85.93" y1="13.8" x2="85.65" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="92.93" y1="12.69" x2="92.79" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <text x="127.36" y="38.37" font-size="16" text-anchor="middle">1</text>
-    <text x="147.39" y="58.4" font-size="16" text-anchor="middle">2</text>
-    <text x="154.72" y="85.76" font-size="16" text-anchor="middle">3</text>
-    <text x="147.39" y="113.12" font-size="16" text-anchor="middle">4</text>
-    <text x="127.36" y="133.15" font-size="16" text-anchor="middle">5</text>
-    <text x="100" y="140.48" font-size="16" text-anchor="middle">6</text>
-    <text x="72.64" y="133.15" font-size="16" text-anchor="middle">7</text>
-    <text x="52.61" y="113.12" font-size="16" text-anchor="middle">8</text>
-    <text x="45.28" y="85.76" font-size="16" text-anchor="middle">9</text>
-    <text x="52.61" y="58.4" font-size="16" text-anchor="middle">10</text>
-    <text x="72.64" y="38.37" font-size="16" text-anchor="middle">11</text>
-    <text x="100" y="31.04" font-size="16" text-anchor="middle">12</text>
-    <line x1="100" y1="80" x2="75.06" y2="94.4" stroke="#111" stroke-width="5.4" stroke-linecap="round"/>
-    <line x1="100" y1="80" x2="100" y2="36.8" stroke="#111" stroke-width="2.52" stroke-linecap="round"/>
-    <circle cx="100" cy="80" r="3.6" fill="#111"/>
-    <text x="76" y="194" font-size="20" text-anchor="middle" font-weight="700">A</text>
-    <rect x="96" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
-    <circle cx="300" cy="80" r="72" fill="#fff" stroke="#111" stroke-width="4"/>
-    <line x1="300" y1="16.64" x2="300" y2="11" stroke="#111" stroke-width="3"/>
-    <line x1="307.07" y1="12.69" x2="307.21" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="314.07" y1="13.8" x2="314.35" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="320.91" y1="15.63" x2="321.32" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="327.53" y1="18.17" x2="328.06" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="331.68" y1="25.13" x2="334.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="339.78" y1="25.25" x2="340.56" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="345.29" y1="29.7" x2="346.17" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="350.3" y1="34.71" x2="351.28" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="354.75" y1="40.22" x2="355.82" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="354.87" y1="48.32" x2="359.76" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="361.83" y1="52.47" x2="363.03" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="364.37" y1="59.09" x2="365.62" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="366.2" y1="65.93" x2="367.49" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="367.31" y1="72.93" x2="368.62" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="363.36" y1="80" x2="369" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="367.31" y1="87.07" x2="368.62" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="366.2" y1="94.07" x2="367.49" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="364.37" y1="100.91" x2="365.62" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="361.83" y1="107.53" x2="363.03" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="354.87" y1="111.68" x2="359.76" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="354.75" y1="119.78" x2="355.82" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="350.3" y1="125.29" x2="351.28" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="345.29" y1="130.3" x2="346.17" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="339.78" y1="134.75" x2="340.56" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="331.68" y1="134.87" x2="334.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="327.53" y1="141.83" x2="328.06" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="320.91" y1="144.37" x2="321.32" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="314.07" y1="146.2" x2="314.35" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="307.07" y1="147.31" x2="307.21" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="300" y1="143.36" x2="300" y2="149" stroke="#111" stroke-width="3"/>
-    <line x1="292.93" y1="147.31" x2="292.79" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="285.93" y1="146.2" x2="285.65" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="279.09" y1="144.37" x2="278.68" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="272.47" y1="141.83" x2="271.94" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="268.32" y1="134.87" x2="265.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="260.22" y1="134.75" x2="259.44" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="254.71" y1="130.3" x2="253.83" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="249.7" y1="125.29" x2="248.72" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="245.25" y1="119.78" x2="244.18" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="245.13" y1="111.68" x2="240.24" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="238.17" y1="107.53" x2="236.97" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="235.63" y1="100.91" x2="234.38" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="233.8" y1="94.07" x2="232.51" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="232.69" y1="87.07" x2="231.38" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="236.64" y1="80" x2="231" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="232.69" y1="72.93" x2="231.38" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="233.8" y1="65.93" x2="232.51" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="235.63" y1="59.09" x2="234.38" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="238.17" y1="52.47" x2="236.97" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="245.13" y1="48.32" x2="240.24" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="245.25" y1="40.22" x2="244.18" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="249.7" y1="34.71" x2="248.72" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="254.71" y1="29.7" x2="253.83" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="260.22" y1="25.25" x2="259.44" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="268.32" y1="25.13" x2="265.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="272.47" y1="18.17" x2="271.94" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="279.09" y1="15.63" x2="278.68" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="285.93" y1="13.8" x2="285.65" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="292.93" y1="12.69" x2="292.79" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <text x="327.36" y="38.37" font-size="16" text-anchor="middle">1</text>
-    <text x="347.39" y="58.4" font-size="16" text-anchor="middle">2</text>
-    <text x="354.72" y="85.76" font-size="16" text-anchor="middle">3</text>
-    <text x="347.39" y="113.12" font-size="16" text-anchor="middle">4</text>
-    <text x="327.36" y="133.15" font-size="16" text-anchor="middle">5</text>
-    <text x="300" y="140.48" font-size="16" text-anchor="middle">6</text>
-    <text x="272.64" y="133.15" font-size="16" text-anchor="middle">7</text>
-    <text x="252.61" y="113.12" font-size="16" text-anchor="middle">8</text>
-    <text x="245.28" y="85.76" font-size="16" text-anchor="middle">9</text>
-    <text x="252.61" y="58.4" font-size="16" text-anchor="middle">10</text>
-    <text x="272.64" y="38.37" font-size="16" text-anchor="middle">11</text>
-    <text x="300" y="31.04" font-size="16" text-anchor="middle">12</text>
-    <line x1="300" y1="80" x2="271.2" y2="80" stroke="#111" stroke-width="5.4" stroke-linecap="round"/>
-    <line x1="300" y1="80" x2="300" y2="36.8" stroke="#111" stroke-width="2.52" stroke-linecap="round"/>
-    <circle cx="300" cy="80" r="3.6" fill="#111"/>
-    <text x="276" y="194" font-size="20" text-anchor="middle" font-weight="700">B</text>
-    <rect x="296" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
-    <circle cx="500" cy="80" r="72" fill="#fff" stroke="#111" stroke-width="4"/>
-    <line x1="500" y1="16.64" x2="500" y2="11" stroke="#111" stroke-width="3"/>
-    <line x1="507.07" y1="12.69" x2="507.21" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="514.07" y1="13.8" x2="514.35" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="520.91" y1="15.63" x2="521.32" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="527.53" y1="18.17" x2="528.06" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="531.68" y1="25.13" x2="534.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="539.78" y1="25.25" x2="540.56" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="545.29" y1="29.7" x2="546.17" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="550.3" y1="34.71" x2="551.28" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="554.75" y1="40.22" x2="555.82" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="554.87" y1="48.32" x2="559.76" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="561.83" y1="52.47" x2="563.03" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="564.37" y1="59.09" x2="565.62" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="566.2" y1="65.93" x2="567.49" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="567.31" y1="72.93" x2="568.62" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="563.36" y1="80" x2="569" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="567.31" y1="87.07" x2="568.62" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="566.2" y1="94.07" x2="567.49" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="564.37" y1="100.91" x2="565.62" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="561.83" y1="107.53" x2="563.03" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="554.87" y1="111.68" x2="559.76" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="554.75" y1="119.78" x2="555.82" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="550.3" y1="125.29" x2="551.28" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="545.29" y1="130.3" x2="546.17" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="539.78" y1="134.75" x2="540.56" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="531.68" y1="134.87" x2="534.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="527.53" y1="141.83" x2="528.06" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="520.91" y1="144.37" x2="521.32" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="514.07" y1="146.2" x2="514.35" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="507.07" y1="147.31" x2="507.21" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="500" y1="143.36" x2="500" y2="149" stroke="#111" stroke-width="3"/>
-    <line x1="492.93" y1="147.31" x2="492.79" y2="148.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="485.93" y1="146.2" x2="485.65" y2="147.49" stroke="#111" stroke-width="1.5"/>
-    <line x1="479.09" y1="144.37" x2="478.68" y2="145.62" stroke="#111" stroke-width="1.5"/>
-    <line x1="472.47" y1="141.83" x2="471.94" y2="143.03" stroke="#111" stroke-width="1.5"/>
-    <line x1="468.32" y1="134.87" x2="465.5" y2="139.76" stroke="#111" stroke-width="3"/>
-    <line x1="460.22" y1="134.75" x2="459.44" y2="135.82" stroke="#111" stroke-width="1.5"/>
-    <line x1="454.71" y1="130.3" x2="453.83" y2="131.28" stroke="#111" stroke-width="1.5"/>
-    <line x1="449.7" y1="125.29" x2="448.72" y2="126.17" stroke="#111" stroke-width="1.5"/>
-    <line x1="445.25" y1="119.78" x2="444.18" y2="120.56" stroke="#111" stroke-width="1.5"/>
-    <line x1="445.13" y1="111.68" x2="440.24" y2="114.5" stroke="#111" stroke-width="3"/>
-    <line x1="438.17" y1="107.53" x2="436.97" y2="108.06" stroke="#111" stroke-width="1.5"/>
-    <line x1="435.63" y1="100.91" x2="434.38" y2="101.32" stroke="#111" stroke-width="1.5"/>
-    <line x1="433.8" y1="94.07" x2="432.51" y2="94.35" stroke="#111" stroke-width="1.5"/>
-    <line x1="432.69" y1="87.07" x2="431.38" y2="87.21" stroke="#111" stroke-width="1.5"/>
-    <line x1="436.64" y1="80" x2="431" y2="80" stroke="#111" stroke-width="3"/>
-    <line x1="432.69" y1="72.93" x2="431.38" y2="72.79" stroke="#111" stroke-width="1.5"/>
-    <line x1="433.8" y1="65.93" x2="432.51" y2="65.65" stroke="#111" stroke-width="1.5"/>
-    <line x1="435.63" y1="59.09" x2="434.38" y2="58.68" stroke="#111" stroke-width="1.5"/>
-    <line x1="438.17" y1="52.47" x2="436.97" y2="51.94" stroke="#111" stroke-width="1.5"/>
-    <line x1="445.13" y1="48.32" x2="440.24" y2="45.5" stroke="#111" stroke-width="3"/>
-    <line x1="445.25" y1="40.22" x2="444.18" y2="39.44" stroke="#111" stroke-width="1.5"/>
-    <line x1="449.7" y1="34.71" x2="448.72" y2="33.83" stroke="#111" stroke-width="1.5"/>
-    <line x1="454.71" y1="29.7" x2="453.83" y2="28.72" stroke="#111" stroke-width="1.5"/>
-    <line x1="460.22" y1="25.25" x2="459.44" y2="24.18" stroke="#111" stroke-width="1.5"/>
-    <line x1="468.32" y1="25.13" x2="465.5" y2="20.24" stroke="#111" stroke-width="3"/>
-    <line x1="472.47" y1="18.17" x2="471.94" y2="16.97" stroke="#111" stroke-width="1.5"/>
-    <line x1="479.09" y1="15.63" x2="478.68" y2="14.38" stroke="#111" stroke-width="1.5"/>
-    <line x1="485.93" y1="13.8" x2="485.65" y2="12.51" stroke="#111" stroke-width="1.5"/>
-    <line x1="492.93" y1="12.69" x2="492.79" y2="11.38" stroke="#111" stroke-width="1.5"/>
-    <text x="527.36" y="38.37" font-size="16" text-anchor="middle">1</text>
-    <text x="547.39" y="58.4" font-size="16" text-anchor="middle">2</text>
-    <text x="554.72" y="85.76" font-size="16" text-anchor="middle">3</text>
-    <text x="547.39" y="113.12" font-size="16" text-anchor="middle">4</text>
-    <text x="527.36" y="133.15" font-size="16" text-anchor="middle">5</text>
-    <text x="500" y="140.48" font-size="16" text-anchor="middle">6</text>
-    <text x="472.64" y="133.15" font-size="16" text-anchor="middle">7</text>
-    <text x="452.61" y="113.12" font-size="16" text-anchor="middle">8</text>
-    <text x="445.28" y="85.76" font-size="16" text-anchor="middle">9</text>
-    <text x="452.61" y="58.4" font-size="16" text-anchor="middle">10</text>
-    <text x="472.64" y="38.37" font-size="16" text-anchor="middle">11</text>
-    <text x="500" y="31.04" font-size="16" text-anchor="middle">12</text>
-    <line x1="500" y1="80" x2="475.06" y2="65.6" stroke="#111" stroke-width="5.4" stroke-linecap="round"/>
-    <line x1="500" y1="80" x2="500" y2="36.8" stroke="#111" stroke-width="2.52" stroke-linecap="round"/>
-    <circle cx="500" cy="80" r="3.6" fill="#111"/>
-    <text x="476" y="194" font-size="20" text-anchor="middle" font-weight="700">C</text>
-    <rect x="496" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <circle cx="90" cy="82" r="78" fill="#fff" stroke="#111" stroke-width="4"/>
+    <line x1="90" y1="13.36" x2="90" y2="7" stroke="#111" stroke-width="3"/>
+    <line x1="97.66" y1="9.08" x2="97.84" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="105.24" y1="10.28" x2="105.59" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="112.66" y1="12.27" x2="113.18" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="119.82" y1="15.02" x2="120.51" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="124.32" y1="22.56" x2="127.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="133.1" y1="22.68" x2="134.08" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="139.06" y1="27.51" x2="140.18" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="144.49" y1="32.94" x2="145.74" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="149.32" y1="38.9" x2="150.68" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="149.44" y1="47.68" x2="154.95" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="156.98" y1="52.18" x2="158.52" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="159.73" y1="59.34" x2="161.33" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="161.72" y1="66.76" x2="163.36" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="162.92" y1="74.34" x2="164.59" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="158.64" y1="82" x2="165" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="162.92" y1="89.66" x2="164.59" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="161.72" y1="97.24" x2="163.36" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="159.73" y1="104.66" x2="161.33" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="156.98" y1="111.82" x2="158.52" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="149.44" y1="116.32" x2="154.95" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="149.32" y1="125.1" x2="150.68" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="144.49" y1="131.06" x2="145.74" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="139.06" y1="136.49" x2="140.18" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="133.1" y1="141.32" x2="134.08" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="124.32" y1="141.44" x2="127.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="119.82" y1="148.98" x2="120.51" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="112.66" y1="151.73" x2="113.18" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="105.24" y1="153.72" x2="105.59" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="97.66" y1="154.92" x2="97.84" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="90" y1="150.64" x2="90" y2="157" stroke="#111" stroke-width="3"/>
+    <line x1="82.34" y1="154.92" x2="82.16" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="74.76" y1="153.72" x2="74.41" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="67.34" y1="151.73" x2="66.82" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="60.18" y1="148.98" x2="59.49" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="55.68" y1="141.44" x2="52.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="46.9" y1="141.32" x2="45.92" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="40.94" y1="136.49" x2="39.82" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="35.51" y1="131.06" x2="34.26" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="30.68" y1="125.1" x2="29.32" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="30.56" y1="116.32" x2="25.05" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="23.02" y1="111.82" x2="21.48" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="20.27" y1="104.66" x2="18.67" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="18.28" y1="97.24" x2="16.64" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="17.08" y1="89.66" x2="15.41" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="21.36" y1="82" x2="15" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="17.08" y1="74.34" x2="15.41" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="18.28" y1="66.76" x2="16.64" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="20.27" y1="59.34" x2="18.67" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="23.02" y1="52.18" x2="21.48" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="30.56" y1="47.68" x2="25.05" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="30.68" y1="38.9" x2="29.32" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="35.51" y1="32.94" x2="34.26" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="40.94" y1="27.51" x2="39.82" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="46.9" y1="22.68" x2="45.92" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="55.68" y1="22.56" x2="52.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="60.18" y1="15.02" x2="59.49" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="67.34" y1="12.27" x2="66.82" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="74.76" y1="10.28" x2="74.41" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="82.34" y1="9.08" x2="82.16" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <text x="119.64" y="37.5" font-size="19" text-anchor="middle">1</text>
+    <text x="141.34" y="59.2" font-size="19" text-anchor="middle">2</text>
+    <text x="149.28" y="88.84" font-size="19" text-anchor="middle">3</text>
+    <text x="141.34" y="118.48" font-size="19" text-anchor="middle">4</text>
+    <text x="119.64" y="140.18" font-size="19" text-anchor="middle">5</text>
+    <text x="90" y="148.12" font-size="19" text-anchor="middle">6</text>
+    <text x="60.36" y="140.18" font-size="19" text-anchor="middle">7</text>
+    <text x="38.66" y="118.48" font-size="19" text-anchor="middle">8</text>
+    <text x="30.72" y="88.84" font-size="19" text-anchor="middle">9</text>
+    <text x="38.66" y="59.2" font-size="19" text-anchor="middle">10</text>
+    <text x="60.36" y="37.5" font-size="19" text-anchor="middle">11</text>
+    <text x="90" y="29.56" font-size="19" text-anchor="middle">12</text>
+    <line x1="90" y1="82" x2="62.98" y2="97.6" stroke="#111" stroke-width="5.85" stroke-linecap="round"/>
+    <line x1="90" y1="82" x2="90" y2="35.2" stroke="#111" stroke-width="2.73" stroke-linecap="round"/>
+    <circle cx="90" cy="82" r="3.9" fill="#111"/>
+    <text x="66" y="206" font-size="22" text-anchor="middle" font-weight="700">A</text>
+    <rect x="86" y="184" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <circle cx="270" cy="82" r="78" fill="#fff" stroke="#111" stroke-width="4"/>
+    <line x1="270" y1="13.36" x2="270" y2="7" stroke="#111" stroke-width="3"/>
+    <line x1="277.66" y1="9.08" x2="277.84" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="285.24" y1="10.28" x2="285.59" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="292.66" y1="12.27" x2="293.18" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="299.82" y1="15.02" x2="300.51" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="304.32" y1="22.56" x2="307.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="313.1" y1="22.68" x2="314.08" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="319.06" y1="27.51" x2="320.18" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="324.49" y1="32.94" x2="325.74" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="329.32" y1="38.9" x2="330.68" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="329.44" y1="47.68" x2="334.95" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="336.98" y1="52.18" x2="338.52" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="339.73" y1="59.34" x2="341.33" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="341.72" y1="66.76" x2="343.36" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="342.92" y1="74.34" x2="344.59" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="338.64" y1="82" x2="345" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="342.92" y1="89.66" x2="344.59" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="341.72" y1="97.24" x2="343.36" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="339.73" y1="104.66" x2="341.33" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="336.98" y1="111.82" x2="338.52" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="329.44" y1="116.32" x2="334.95" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="329.32" y1="125.1" x2="330.68" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="324.49" y1="131.06" x2="325.74" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="319.06" y1="136.49" x2="320.18" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="313.1" y1="141.32" x2="314.08" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="304.32" y1="141.44" x2="307.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="299.82" y1="148.98" x2="300.51" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="292.66" y1="151.73" x2="293.18" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="285.24" y1="153.72" x2="285.59" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="277.66" y1="154.92" x2="277.84" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="270" y1="150.64" x2="270" y2="157" stroke="#111" stroke-width="3"/>
+    <line x1="262.34" y1="154.92" x2="262.16" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="254.76" y1="153.72" x2="254.41" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="247.34" y1="151.73" x2="246.82" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="240.18" y1="148.98" x2="239.49" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="235.68" y1="141.44" x2="232.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="226.9" y1="141.32" x2="225.92" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="220.94" y1="136.49" x2="219.82" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="215.51" y1="131.06" x2="214.26" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="210.68" y1="125.1" x2="209.32" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="210.56" y1="116.32" x2="205.05" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="203.02" y1="111.82" x2="201.48" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="200.27" y1="104.66" x2="198.67" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="198.28" y1="97.24" x2="196.64" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="197.08" y1="89.66" x2="195.41" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="201.36" y1="82" x2="195" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="197.08" y1="74.34" x2="195.41" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="198.28" y1="66.76" x2="196.64" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="200.27" y1="59.34" x2="198.67" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="203.02" y1="52.18" x2="201.48" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="210.56" y1="47.68" x2="205.05" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="210.68" y1="38.9" x2="209.32" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="215.51" y1="32.94" x2="214.26" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="220.94" y1="27.51" x2="219.82" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="226.9" y1="22.68" x2="225.92" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="235.68" y1="22.56" x2="232.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="240.18" y1="15.02" x2="239.49" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="247.34" y1="12.27" x2="246.82" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="254.76" y1="10.28" x2="254.41" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="262.34" y1="9.08" x2="262.16" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <text x="299.64" y="37.5" font-size="19" text-anchor="middle">1</text>
+    <text x="321.34" y="59.2" font-size="19" text-anchor="middle">2</text>
+    <text x="329.28" y="88.84" font-size="19" text-anchor="middle">3</text>
+    <text x="321.34" y="118.48" font-size="19" text-anchor="middle">4</text>
+    <text x="299.64" y="140.18" font-size="19" text-anchor="middle">5</text>
+    <text x="270" y="148.12" font-size="19" text-anchor="middle">6</text>
+    <text x="240.36" y="140.18" font-size="19" text-anchor="middle">7</text>
+    <text x="218.66" y="118.48" font-size="19" text-anchor="middle">8</text>
+    <text x="210.72" y="88.84" font-size="19" text-anchor="middle">9</text>
+    <text x="218.66" y="59.2" font-size="19" text-anchor="middle">10</text>
+    <text x="240.36" y="37.5" font-size="19" text-anchor="middle">11</text>
+    <text x="270" y="29.56" font-size="19" text-anchor="middle">12</text>
+    <line x1="270" y1="82" x2="238.8" y2="82" stroke="#111" stroke-width="5.85" stroke-linecap="round"/>
+    <line x1="270" y1="82" x2="270" y2="35.2" stroke="#111" stroke-width="2.73" stroke-linecap="round"/>
+    <circle cx="270" cy="82" r="3.9" fill="#111"/>
+    <text x="246" y="206" font-size="22" text-anchor="middle" font-weight="700">B</text>
+    <rect x="266" y="184" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <circle cx="450" cy="82" r="78" fill="#fff" stroke="#111" stroke-width="4"/>
+    <line x1="450" y1="13.36" x2="450" y2="7" stroke="#111" stroke-width="3"/>
+    <line x1="457.66" y1="9.08" x2="457.84" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="465.24" y1="10.28" x2="465.59" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="472.66" y1="12.27" x2="473.18" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="479.82" y1="15.02" x2="480.51" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="484.32" y1="22.56" x2="487.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="493.1" y1="22.68" x2="494.08" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="499.06" y1="27.51" x2="500.18" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="504.49" y1="32.94" x2="505.74" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="509.32" y1="38.9" x2="510.68" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="509.44" y1="47.68" x2="514.95" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="516.98" y1="52.18" x2="518.52" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="519.73" y1="59.34" x2="521.33" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="521.72" y1="66.76" x2="523.36" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="522.92" y1="74.34" x2="524.59" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="518.64" y1="82" x2="525" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="522.92" y1="89.66" x2="524.59" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="521.72" y1="97.24" x2="523.36" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="519.73" y1="104.66" x2="521.33" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="516.98" y1="111.82" x2="518.52" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="509.44" y1="116.32" x2="514.95" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="509.32" y1="125.1" x2="510.68" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="504.49" y1="131.06" x2="505.74" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="499.06" y1="136.49" x2="500.18" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="493.1" y1="141.32" x2="494.08" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="484.32" y1="141.44" x2="487.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="479.82" y1="148.98" x2="480.51" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="472.66" y1="151.73" x2="473.18" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="465.24" y1="153.72" x2="465.59" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="457.66" y1="154.92" x2="457.84" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="450" y1="150.64" x2="450" y2="157" stroke="#111" stroke-width="3"/>
+    <line x1="442.34" y1="154.92" x2="442.16" y2="156.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="434.76" y1="153.72" x2="434.41" y2="155.36" stroke="#111" stroke-width="1.5"/>
+    <line x1="427.34" y1="151.73" x2="426.82" y2="153.33" stroke="#111" stroke-width="1.5"/>
+    <line x1="420.18" y1="148.98" x2="419.49" y2="150.52" stroke="#111" stroke-width="1.5"/>
+    <line x1="415.68" y1="141.44" x2="412.5" y2="146.95" stroke="#111" stroke-width="3"/>
+    <line x1="406.9" y1="141.32" x2="405.92" y2="142.68" stroke="#111" stroke-width="1.5"/>
+    <line x1="400.94" y1="136.49" x2="399.82" y2="137.74" stroke="#111" stroke-width="1.5"/>
+    <line x1="395.51" y1="131.06" x2="394.26" y2="132.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="390.68" y1="125.1" x2="389.32" y2="126.08" stroke="#111" stroke-width="1.5"/>
+    <line x1="390.56" y1="116.32" x2="385.05" y2="119.5" stroke="#111" stroke-width="3"/>
+    <line x1="383.02" y1="111.82" x2="381.48" y2="112.51" stroke="#111" stroke-width="1.5"/>
+    <line x1="380.27" y1="104.66" x2="378.67" y2="105.18" stroke="#111" stroke-width="1.5"/>
+    <line x1="378.28" y1="97.24" x2="376.64" y2="97.59" stroke="#111" stroke-width="1.5"/>
+    <line x1="377.08" y1="89.66" x2="375.41" y2="89.84" stroke="#111" stroke-width="1.5"/>
+    <line x1="381.36" y1="82" x2="375" y2="82" stroke="#111" stroke-width="3"/>
+    <line x1="377.08" y1="74.34" x2="375.41" y2="74.16" stroke="#111" stroke-width="1.5"/>
+    <line x1="378.28" y1="66.76" x2="376.64" y2="66.41" stroke="#111" stroke-width="1.5"/>
+    <line x1="380.27" y1="59.34" x2="378.67" y2="58.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="383.02" y1="52.18" x2="381.48" y2="51.49" stroke="#111" stroke-width="1.5"/>
+    <line x1="390.56" y1="47.68" x2="385.05" y2="44.5" stroke="#111" stroke-width="3"/>
+    <line x1="390.68" y1="38.9" x2="389.32" y2="37.92" stroke="#111" stroke-width="1.5"/>
+    <line x1="395.51" y1="32.94" x2="394.26" y2="31.82" stroke="#111" stroke-width="1.5"/>
+    <line x1="400.94" y1="27.51" x2="399.82" y2="26.26" stroke="#111" stroke-width="1.5"/>
+    <line x1="406.9" y1="22.68" x2="405.92" y2="21.32" stroke="#111" stroke-width="1.5"/>
+    <line x1="415.68" y1="22.56" x2="412.5" y2="17.05" stroke="#111" stroke-width="3"/>
+    <line x1="420.18" y1="15.02" x2="419.49" y2="13.48" stroke="#111" stroke-width="1.5"/>
+    <line x1="427.34" y1="12.27" x2="426.82" y2="10.67" stroke="#111" stroke-width="1.5"/>
+    <line x1="434.76" y1="10.28" x2="434.41" y2="8.64" stroke="#111" stroke-width="1.5"/>
+    <line x1="442.34" y1="9.08" x2="442.16" y2="7.41" stroke="#111" stroke-width="1.5"/>
+    <text x="479.64" y="37.5" font-size="19" text-anchor="middle">1</text>
+    <text x="501.34" y="59.2" font-size="19" text-anchor="middle">2</text>
+    <text x="509.28" y="88.84" font-size="19" text-anchor="middle">3</text>
+    <text x="501.34" y="118.48" font-size="19" text-anchor="middle">4</text>
+    <text x="479.64" y="140.18" font-size="19" text-anchor="middle">5</text>
+    <text x="450" y="148.12" font-size="19" text-anchor="middle">6</text>
+    <text x="420.36" y="140.18" font-size="19" text-anchor="middle">7</text>
+    <text x="398.66" y="118.48" font-size="19" text-anchor="middle">8</text>
+    <text x="390.72" y="88.84" font-size="19" text-anchor="middle">9</text>
+    <text x="398.66" y="59.2" font-size="19" text-anchor="middle">10</text>
+    <text x="420.36" y="37.5" font-size="19" text-anchor="middle">11</text>
+    <text x="450" y="29.56" font-size="19" text-anchor="middle">12</text>
+    <line x1="450" y1="82" x2="422.98" y2="66.4" stroke="#111" stroke-width="5.85" stroke-linecap="round"/>
+    <line x1="450" y1="82" x2="450" y2="35.2" stroke="#111" stroke-width="2.73" stroke-linecap="round"/>
+    <circle cx="450" cy="82" r="3.9" fill="#111"/>
+    <text x="426" y="206" font-size="22" text-anchor="middle" font-weight="700">C</text>
+    <rect x="446" y="184" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
   </g>
 </svg>

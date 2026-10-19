@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 560" width="660" height="560" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A sports centre notice. Greenway Sports Centre. Opening times: Monday to Friday 7:00 to 21:00; Saturday and Sunday 8:00 to 18:00. Prices: swimming pool, adults 30 yuan, students 15 yuan; badminton court, 40 yuan for one hour; gym, 25 yuan, age 16 and over only. Students: please show your student card. Lockers: you need a 2 yuan coin. No food or drink in the pool area.</title>
+<rect x="2" y="2" width="656" height="556" rx="12" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="330" y="46" font-size="30" text-anchor="middle" font-weight="700" fill="#111">Greenway Sports Centre</text>
+<text x="40" y="92" font-size="20" font-weight="700" fill="#111">Opening times</text>
+<rect x="40" y="104" width="580" height="40" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="56" y="131" font-size="18" fill="#111">Monday to Friday</text>
+<text x="360" y="131" font-size="18" font-weight="700" fill="#111">7:00 to 21:00</text>
+<rect x="40" y="144" width="580" height="40" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="56" y="171" font-size="18" fill="#111">Saturday and Sunday</text>
+<text x="360" y="171" font-size="18" font-weight="700" fill="#111">8:00 to 18:00</text>
+<line x1="344" y1="104" x2="344" y2="184" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="40" y="222" font-size="20" font-weight="700" fill="#111">Prices</text>
+<rect x="40" y="234" width="580" height="64" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="92" cy="252" r="6" fill="#111" stroke="none"/>
+<path d="M64,264.0 L84,256.0 L96,264.0" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M58,272.0 q6,-6 12,0 t12,0 t12,0 t12,0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M58,282.0 q6,-6 12,0 t12,0 t12,0 t12,0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="130" y="273" font-size="18" font-weight="700" fill="#111">Swimming pool</text>
+<text x="360" y="261" font-size="18" fill="#111">Adults: 30 yuan</text>
+<text x="360" y="285" font-size="18" fill="#111">Students: 15 yuan</text>
+<rect x="40" y="298" width="580" height="64" fill="#fff" stroke="#111" stroke-width="2"/>
+<ellipse cx="76" cy="322" rx="11" ry="14" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="76" y1="308" x2="76" y2="336" stroke="#111" stroke-width="1" stroke-linecap="round"/>
+<line x1="65" y1="322" x2="87" y2="322" stroke="#111" stroke-width="1" stroke-linecap="round"/>
+<line x1="80" y1="335" x2="94" y2="350" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<path d="M96,316.0 l8,-8 l4,4 Z" fill="#7a7a7a" stroke="#111" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="95" cy="317" r="3" fill="#111" stroke="none"/>
+<text x="130" y="337" font-size="18" font-weight="700" fill="#111">Badminton court</text>
+<text x="360" y="337" font-size="18" fill="#111">40 yuan for one hour</text>
+<rect x="40" y="362" width="580" height="64" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="64" y1="394" x2="100" y2="394" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<rect x="62" y="382" width="6" height="24" rx="1" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+<rect x="96" y="382" width="6" height="24" rx="1" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+<rect x="56" y="386" width="6" height="16" rx="1" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+<rect x="102" y="386" width="6" height="16" rx="1" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+<text x="130" y="401" font-size="18" font-weight="700" fill="#111">Gym</text>
+<text x="360" y="389" font-size="18" fill="#111">25 yuan</text>
+<text x="360" y="413" font-size="18" fill="#111">Age 16 and over only</text>
+<line x1="120" y1="234" x2="120" y2="426" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="344" y1="234" x2="344" y2="426" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="44" y="466" font-size="17" fill="#111">Students: please show your student card.</text>
+<text x="44" y="494" font-size="17" fill="#111">Lockers: you need a 2 yuan coin.</text>
+<text x="44" y="522" font-size="17" font-weight="700" fill="#111">No food or drink in the pool area.</text>
+</svg>

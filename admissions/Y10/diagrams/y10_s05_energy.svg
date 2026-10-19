@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 212" width="620" height="212">
+  <title>An energy transfer diagram for an electric fan. 200 J of electrical energy goes in. 150 J comes out as kinetic energy, which is useful. 50 J comes out as thermal energy and sound, which is wasted. The widths of the arrows match the energy.</title>
+  <path d="M 20 40 L 220 40 L 450 40 L 470 70.0 L 450 100.0 L 240.0 100.0 Q 240.0 100.0 240.0 110.0 L 240.0 180 L 250.0 180 L 230.0 202 L 210 180 L 220 180 L 220 120.0 L 20 120.0 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="26" y="86" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">200 J electrical</text>
+  <text x="476" y="66" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">150 J kinetic</text>
+  <text x="476" y="88" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">(useful)</text>
+  <text x="258" y="172" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">50 J thermal and sound (wasted)</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 160" width="250" height="160" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A bike with a price tag that says 800 yuan</title>
+<circle cx="52" cy="112" r="36" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="178" cy="112" r="36" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="52" cy="112" r="4" fill="#111" stroke="none"/>
+<circle cx="178" cy="112" r="4" fill="#111" stroke="none"/>
+<polygon points="52,112 100,112 150,64 88,64" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="100" y1="112" x2="82" y2="50" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="150" y1="64" x2="178" y2="112" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="150" y1="64" x2="144" y2="44" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<line x1="136" y1="42" x2="156" y2="42" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<path d="M70,46 L96,46 Q100,52 90,54 L72,54 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="146" y1="46" x2="176" y2="30" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="158" y="8" width="88" height="32" rx="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="202" y="30" font-size="17" text-anchor="middle" font-weight="700" fill="#111">800 yuan</text>
+</svg>

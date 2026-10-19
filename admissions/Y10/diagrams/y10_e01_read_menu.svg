@@ -37,23 +37,23 @@
   <text x="392" y="564" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="end" fill="#111">¥16</text>
   <text x="30" y="592" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" fill="#111">Water</text>
   <text x="392" y="592" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="end" fill="#111">¥5</text>
-  <rect x="420" y="104" width="218" height="100" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="420" y="104" width="218" height="114" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
   <text x="434" y="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">Key</text>
   <g transform="translate(436 154)" stroke="#111" stroke-width="1.8" stroke-linejoin="round"><path d="M 0 8 C 0 -2 8 -8 18 -8 C 18 2 10 8 0 8 Z" fill="#bdbdbd"/><path d="M 0 8 L 11 -2" fill="none"/></g>
   <text x="464" y="160" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">vegetarian</text>
   <text x="464" y="181" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">(no meat or fish)</text>
-  <g transform="translate(438 192)" stroke="#111" stroke-width="1.8" stroke-linejoin="round"><path d="M 2 -4 C 8 -6 16 -2 20 8 C 12 6 4 2 2 -4 Z" fill="#7a7a7a"/><path d="M 2 -4 L -2 -9" fill="none"/></g>
-  <text x="464" y="199" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">spicy</text>
-  <rect x="420" y="222" width="218" height="196" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
-  <text x="434" y="252" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" font-weight="700" fill="#111">Student deal</text>
-  <text x="434" y="277" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Any noodle dish</text>
-  <text x="434" y="302" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">+ any drink = ¥35</text>
-  <text x="434" y="327" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Monday to Friday,</text>
-  <text x="434" y="352" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">14:00 to 17:00</text>
-  <text x="434" y="377" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Show your student</text>
-  <text x="434" y="402" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">card.</text>
-  <rect x="420" y="436" width="218" height="104" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="434" y="466" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">Allergies?</text>
-  <text x="434" y="491" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Please tell our staff</text>
-  <text x="434" y="516" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">before you order.</text>
+  <g transform="translate(438 198)" stroke="#111" stroke-width="1.8" stroke-linejoin="round"><path d="M 2 -4 C 8 -6 16 -2 20 8 C 12 6 4 2 2 -4 Z" fill="#7a7a7a"/><path d="M 2 -4 L -2 -9" fill="none"/></g>
+  <text x="464" y="205" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">spicy</text>
+  <rect x="420" y="234" width="218" height="196" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <text x="434" y="264" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" font-weight="700" fill="#111">Student deal</text>
+  <text x="434" y="289" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Any noodle dish</text>
+  <text x="434" y="314" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">+ any drink = ¥35</text>
+  <text x="434" y="339" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Monday to Friday,</text>
+  <text x="434" y="364" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">14:00 to 17:00</text>
+  <text x="434" y="389" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Show your student</text>
+  <text x="434" y="414" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">card.</text>
+  <rect x="420" y="446" width="218" height="104" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="434" y="476" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">Allergies?</text>
+  <text x="434" y="501" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">Please tell our staff</text>
+  <text x="434" y="526" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111">before you order.</text>
 </svg>

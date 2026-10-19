@@ -18,7 +18,7 @@
     <line x1="4" y1="148" x2="328" y2="148" stroke="#bdbdbd" stroke-width="1.5"/>
     <line x1="4" y1="184" x2="328" y2="184" stroke="#bdbdbd" stroke-width="1.5"/>
     <line x1="4" y1="220" x2="328" y2="220" stroke="#bdbdbd" stroke-width="1.5"/>
-    <polygon points="76,40 184,40 184,112 256,112 256,184 76,184" fill="#e6e6e6" fill-opacity="0.85" stroke="#111" stroke-width="3.5" stroke-linejoin="miter"/>
+    <polygon points="76,40 184,40 184,112 256,112 256,184 76,184" fill="#e6e6e6" stroke="#111" stroke-width="3.5" stroke-linejoin="miter"/>
     <rect x="76" y="40" width="36" height="36" fill="none" stroke="#7a7a7a" stroke-width="1.5"/>
     <rect x="76" y="76" width="36" height="36" fill="none" stroke="#7a7a7a" stroke-width="1.5"/>
     <rect x="76" y="112" width="36" height="36" fill="none" stroke="#7a7a7a" stroke-width="1.5"/>

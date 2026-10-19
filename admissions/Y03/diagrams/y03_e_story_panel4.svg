@@ -364,5 +364,7 @@
     </g>
     <circle cx="374" cy="294" r="17" fill="#fff" stroke="#111" stroke-width="2.5"/>
     <text x="374" y="302" font-size="24" text-anchor="middle" font-weight="700">4</text>
+    <circle cx="380" cy="300" r="25" fill="#fff" stroke="#111" stroke-width="3"/>
+    <text x="380" y="313" font-size="36" text-anchor="middle" font-weight="700">4</text>
   </g>
 </svg>

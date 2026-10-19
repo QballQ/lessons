@@ -59,25 +59,25 @@ Your teacher will read a phone call **two times**. Li Na is talking to her frien
 
 Where are they going on Saturday? **Tick** one picture.
 
-![Four pictures with a tick box under each. A: a panda at the zoo. B: a park with a tree and a swing. C: a library with shelves of books. D: a beach with the sea and an umbrella.](diagrams/y04_e01_listening_places.svg){.w100}
+![Four pictures with a tick box under each. A: a panda at the zoo. B: a park with a tree and a swing. C: a library with shelves of books. D: a beach with the sea and an umbrella.](diagrams/y04_e01_listening_places.svg){.w80}
 
 ### 2 [[marks:1]]
 
 What time will they meet? **Tick** one clock.
 
-![Three clocks with a tick box under each. A: 8 o'clock. B: 9 o'clock. C: 10 o'clock.](diagrams/y04_e02_listening_clocks.svg){.w90}
+![Three clocks with a tick box under each. A: 8 o'clock. B: 9 o'clock. C: 10 o'clock.](diagrams/y04_e02_listening_clocks.svg){.w75}
 
 ### 3 [[marks:1]]
 
 Where is the bus stop? **Tick** one picture.
 
-![Three bus stops with a tick box under each. A: next to a school. B: next to a supermarket. C: next to a park.](diagrams/y04_e03_listening_bus_stops.svg){.w100}
+![Three bus stops with a tick box under each. A: next to a school. B: next to a supermarket. C: next to a park.](diagrams/y04_e03_listening_bus_stops.svg){.w80}
 
 ### 4 [[marks:1]]
 
 What must Amir bring? **Tick two** pictures.
 
-![Four pictures with a tick box under each. A: a sun hat. B: an umbrella. C: a water bottle. D: a lunch box.](diagrams/y04_e04_listening_things.svg){.w100}
+![Four pictures with a tick box under each. A: a sun hat. B: an umbrella. C: a water bottle. D: a lunch box.](diagrams/y04_e04_listening_things.svg){.w80}
 
 ### 5 [[marks:1]]
 
@@ -288,6 +288,8 @@ What are the dragons, butterflies, fish and birds? **Write** your answer.
 
 [[lines:1]]
 
+[[pagebreak]]
+
 ### 20 [[marks:1]]
 
 Why do some kites need several people to hold them? **Write** your answer.
@@ -334,7 +336,7 @@ What happens next?
 
 When is it? What do you do? Who is with you? Why do you like it?
 
-[[clear]]
+---
 
 **Plan** your writing here. You can use words or pictures.
 
@@ -466,7 +468,7 @@ Mei cuts off 35 cm.
 
 ![A ribbon 92 cm long. Scissors cut it 35 cm from the left end. Not drawn accurately.](diagrams/y04_m12_ribbon.svg){.w90}
 
-[[box:3:Working]]
+[[box:2:Working]]
 
 [[answer]] cm
 
@@ -486,7 +488,7 @@ The horizontal line is [[answer:short]] &nbsp;&nbsp; The vertical line is [[answ
 
 **a** &nbsp; **Write** the time in numbers, like a digital clock.
 
-![A clock with a minute hand and an hour hand.](diagrams/y04_m14a_clock_10_35.svg){.w40 .left}
+![A clock with a minute hand and an hour hand.](diagrams/y04_m14a_clock_10_35.svg){.w35 .left}
 
 <br><br><br>[[answer]]
 
@@ -496,7 +498,7 @@ The horizontal line is [[answer:short]] &nbsp;&nbsp; The vertical line is [[answ
 
 **How many** minutes long is the cartoon?
 
-![Two clocks. Starts: 2:45. Ends: 3:20.](diagrams/y04_m14b_clocks_start_end.svg){.w80}
+![Two clocks. Starts: 2:45. Ends: 3:20.](diagrams/y04_m14b_clocks_start_end.svg){.w70}
 
 [[answer:short]] minutes
 

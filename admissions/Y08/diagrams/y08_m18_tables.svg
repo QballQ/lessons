@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 176" width="660" height="176" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Hexagon-shaped tables in a row, joined side to side, with a chair at every free side. 1 table has 6 chairs. 2 tables have 10 chairs. 3 tables have 14 chairs.</title>
+<polygon points="56,36 24.8,54 24.8,90 56,108 87.2,90 87.2,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="97.2" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="76.6" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="35.4" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="14.8" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="35.4" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="76.6" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="56" y="152" font-size="17" text-anchor="middle" font-weight="700" fill="#111">1 table</text>
+<text x="56" y="172" font-size="17" text-anchor="middle" fill="#111">6 chairs</text>
+<polygon points="196,36 164.8,54 164.8,90 196,108 227.2,90 227.2,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="258.4,36 227.2,54 227.2,90 258.4,108 289.5,90 289.5,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="216.6" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="175.4" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="154.8" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="175.4" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="216.6" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="299.5" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="278.9" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="237.8" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="237.8" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="278.9" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="227.2" y="152" font-size="17" text-anchor="middle" font-weight="700" fill="#111">2 tables</text>
+<text x="227.2" y="172" font-size="17" text-anchor="middle" fill="#111">10 chairs</text>
+<polygon points="400,36 368.8,54 368.8,90 400,108 431.2,90 431.2,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="462.4,36 431.2,54 431.2,90 462.4,108 493.5,90 493.5,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="524.7,36 493.5,54 493.5,90 524.7,108 555.9,90 555.9,54" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="420.6" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="379.4" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="358.8" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="379.4" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="420.6" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="482.9" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="441.8" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="441.8" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="482.9" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="565.9" cy="72" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="545.3" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="504.1" cy="36.3" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="504.1" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="545.3" cy="107.7" r="7" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="462.4" y="152" font-size="17" text-anchor="middle" font-weight="700" fill="#111">3 tables</text>
+<text x="462.4" y="172" font-size="17" text-anchor="middle" fill="#111">14 chairs</text>
+</svg>
