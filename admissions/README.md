@@ -10,13 +10,17 @@ The student papers are in English only and are designed to be accessible: large 
 
 Ready-to-print PDFs are in `pdf/`, in the same folders as the sources.
 
+**Quickest way to print:** `pdf/Candidate_Packs/` has one PDF per year group (`Year_05_Candidate_Pack.pdf` and so on) with everything for one candidate, in order: student paper or booklet, assessor booklet, reading screen records, interview record, parent conversation record, and candidate summary. Print it double-sided: every part starts on a new sheet, so the parts can be separated. For Years 1 to 3, the Early Reading Screen record has a sheet for every passage; print only the passages you expect to use. Print `Reading_Cards_to_Laminate.pdf` once per room (the cards students read from), and the guide and the reading screen instructions once for the assessor's folder. The homeroom teacher reference (`pdf/forms/`) is sent before the visit.
+
 | Folder | Contents |
 |---|---|
 | `00_Admissions_Guide` | Guide for staff: process, timings, the English proficiency bands, access rules, students from Chinese schools, how to decide, printing checklist |
 | `01_Reading_Books_and_Materials` | Levelled reading books to buy for the assessment table (Oxford Reading Tree and others), by book band, and the materials list |
 | `Y01` to `Y10` | For each year group: the student booklet (Years 1 to 3) or student paper (Years 4 to 10), and the assessor booklet (scripts, answers, mark schemes, band guides, score summary) |
 | `shared/` | **Early Reading Screen** (Years 1 to 3, and older students new to English): reading cards, instructions and record sheets for letter sounds, phonics words, tricky words, and eight graded passages (Pink to White band) with running records. **Graded Sentence Reading Screen** (all years): sentences that get harder until the student cannot read them, with a grading rubric and an indicative reading age |
-| `forms/` | Interview and suitability records (Years 1 and 2, 3 and 4, 5 and 6, 7 to 10), parent conversation record, previous homeroom teacher reference (English and Chinese), candidate summary and decision |
+| `forms/` | Interview and suitability records (Years 1 and 2, 3 and 4, 5 and 6, 7 to 10), parent conversation record, previous homeroom teacher reference (English and Chinese, because it goes to the student's current teacher), candidate summary and decision |
+
+All student papers are in English only, and every answer must be in English: an answer in Chinese scores 0. In maths and science the assessor may read any question aloud in English; if a Chinese-speaking colleague is present, they may say a question once in Chinese (marked L), so that a maths or science result is not hidden by English.
 
 ## Editing and rebuilding
 
@@ -26,7 +30,7 @@ The Markdown files are the sources. After editing one, rebuild its PDF:
 python3 admissions/tools/build.py admissions/Y05/Y05_Student_Paper.md
 ```
 
-`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown`, Node with Playwright and Chromium, and `pdftoppm` for page previews. The sentence reading screen is generated from `tools/make_sentence_screen.py`, and the early reading screen from `tools/early_reading_screen/` (`ers_data.py` holds the words and passages), so edit them there and regenerate. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
+`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown` and `pikepdf`, Node with Playwright and Chromium, and `pdftoppm` for page previews. After rebuilding, `python3 admissions/tools/make_packs.py` remakes the candidate packs. The sentence reading screen is generated from `tools/make_sentence_screen.py`, and the early reading screen from `tools/early_reading_screen/` (`ers_data.py` holds the words and passages), so edit them there and regenerate. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
 
 ## Status
 
