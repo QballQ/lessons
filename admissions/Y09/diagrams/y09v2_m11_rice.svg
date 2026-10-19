@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 214" width="520" height="214">
+  <title>Three bags of rice with price tags: a 1 kg bag for 13.80 yuan, a 2.5 kg bag for 32.50 yuan and a 5 kg bag for 66.00 yuan.</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 74 96 L 81 80 L 99 80 L 106 96 Z" fill="#e6e6e6"/>
+    <rect x="50" y="95" width="80" height="75" rx="12" fill="#e6e6e6"/>
+    <line x1="76" y1="88" x2="104" y2="88" stroke-width="3.5"/>
+    <path d="M 240 71 L 248 54 L 272 54 L 280 71 Z" fill="#e6e6e6"/>
+    <rect x="205" y="70" width="110" height="100" rx="14" fill="#e6e6e6"/>
+    <line x1="242" y1="63" x2="278" y2="63" stroke-width="3.5"/>
+    <path d="M 408 41 L 417 22 L 443 22 L 452 41 Z" fill="#e6e6e6"/>
+    <rect x="360" y="40" width="140" height="130" rx="16" fill="#e6e6e6"/>
+    <line x1="410" y1="32" x2="450" y2="32" stroke-width="3.5"/>
+    <rect x="45" y="180" width="90" height="30" rx="5" fill="#fff" stroke-width="2"/>
+    <rect x="215" y="180" width="90" height="30" rx="5" fill="#fff" stroke-width="2"/>
+    <rect x="385" y="180" width="90" height="30" rx="5" fill="#fff" stroke-width="2"/>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111" text-anchor="middle">
+    <text x="90" y="122" font-size="15">RICE</text>
+    <text x="90" y="152" font-size="21" font-weight="700">1 kg</text>
+    <text x="260" y="106" font-size="15">RICE</text>
+    <text x="260" y="140" font-size="21" font-weight="700">2.5 kg</text>
+    <text x="430" y="88" font-size="15">RICE</text>
+    <text x="430" y="126" font-size="21" font-weight="700">5 kg</text>
+    <text x="90" y="202" font-size="19" font-weight="700">¥13.80</text>
+    <text x="260" y="202" font-size="19" font-weight="700">¥32.50</text>
+    <text x="430" y="202" font-size="19" font-weight="700">¥66.00</text>
+  </g>
+</svg>

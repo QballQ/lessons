@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 252" width="372" height="252">
+  <title>A TV screen with a dashed diagonal line from the bottom left corner to the top right corner, labelled 140 cm. The width is marked along the top and the height is marked down the right side.</title>
+  <rect x="18" y="40" width="272" height="160" rx="6" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+  <rect x="26" y="48" width="256" height="144" fill="#e6e6e6" stroke="#111" stroke-width="1.5"/>
+  <rect x="146" y="200" width="16" height="12" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <rect x="109" y="212" width="90" height="8" rx="3" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <line x1="26" y1="192" x2="282" y2="48" stroke="#111" stroke-width="2.5" stroke-dasharray="9 6"/>
+  <rect x="117" y="107" width="74" height="26" rx="4" fill="#fff" stroke="#111" stroke-width="1.2"/>
+  <text x="154" y="126" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">140 cm</text>
+  <line x1="26" y1="20" x2="26" y2="37" stroke="#111" stroke-width="1.2"/>
+  <line x1="282" y1="20" x2="282" y2="37" stroke="#111" stroke-width="1.2"/>
+  <line x1="28" y1="29" x2="280" y2="29" stroke="#111" stroke-width="2"/>
+  <path d="M 28 29 l 11 -5 l 0 10 Z" fill="#111"/>
+  <path d="M 280 29 l -11 -5 l 0 10 Z" fill="#111"/>
+  <text x="154" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">width</text>
+  <line x1="286" y1="48" x2="312" y2="48" stroke="#111" stroke-width="1.2"/>
+  <line x1="286" y1="192" x2="312" y2="192" stroke="#111" stroke-width="1.2"/>
+  <line x1="303" y1="50" x2="303" y2="190" stroke="#111" stroke-width="2"/>
+  <path d="M 303 50 l -5 11 l 10 0 Z" fill="#111"/>
+  <path d="M 303 190 l -5 -11 l 10 0 Z" fill="#111"/>
+  <text x="311" y="126" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">height</text>
+  <text x="18" y="244" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

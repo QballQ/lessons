@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 300" width="470" height="300">
+  <title>Two mathematically similar bottles of juice. The small bottle is 10 cm tall, holds 200 ml and costs 12 yuan. The large bottle is 15 cm tall and costs 36 yuan. Not drawn accurately.</title>
+  <path d="M 89.0 228.0 L 141.0 228.0 L 141.0 150.0 L 125.0 130.0 L 125.0 116.0 L 126.0 116.0 L 126.0 108.0 L 104.0 108.0 L 104.0 116.0 L 105.0 116.0 L 105.0 130.0 L 89.0 150.0 Z" fill="#ffffff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="90.2" y="169.0" width="49.6" height="30.0" fill="#e6e6e6" stroke="none"/>
+  <line x1="89.0" y1="169.0" x2="141.0" y2="169.0" stroke="#111" stroke-width="1.5"/>
+  <line x1="89.0" y1="199.0" x2="141.0" y2="199.0" stroke="#111" stroke-width="1.5"/>
+  <text x="115.0" y="190.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">juice</text>
+  <line x1="67.0" y1="108.0" x2="67.0" y2="228.0" stroke="#111" stroke-width="1.8"/>
+  <path d="M 62.0 117.0 L 67.0 108.0 L 72.0 117.0" fill="none" stroke="#111" stroke-width="1.8"/>
+  <line x1="60.0" y1="108.0" x2="104.0" y2="108.0" stroke="#111" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M 62.0 219.0 L 67.0 228.0 L 72.0 219.0" fill="none" stroke="#111" stroke-width="1.8"/>
+  <text x="59.0" y="174.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" font-weight="700" fill="#111">10 cm</text>
+  <text x="115.0" y="258.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Small: 200 ml, ¥12</text>
+  <path d="M 286.0 228.0 L 364.0 228.0 L 364.0 111.0 L 340.0 81.0 L 340.0 60.0 L 341.5 60.0 L 341.5 48.0 L 308.5 48.0 L 308.5 60.0 L 310.0 60.0 L 310.0 81.0 L 286.0 111.0 Z" fill="#ffffff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="287.2" y="139.5" width="75.6" height="45.0" fill="#e6e6e6" stroke="none"/>
+  <line x1="286.0" y1="139.5" x2="364.0" y2="139.5" stroke="#111" stroke-width="1.5"/>
+  <line x1="286.0" y1="184.5" x2="364.0" y2="184.5" stroke="#111" stroke-width="1.5"/>
+  <text x="325.0" y="168.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">juice</text>
+  <line x1="264.0" y1="48.0" x2="264.0" y2="228.0" stroke="#111" stroke-width="1.8"/>
+  <path d="M 259.0 57.0 L 264.0 48.0 L 269.0 57.0" fill="none" stroke="#111" stroke-width="1.8"/>
+  <line x1="257.0" y1="48.0" x2="308.5" y2="48.0" stroke="#111" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M 259.0 219.0 L 264.0 228.0 L 269.0 219.0" fill="none" stroke="#111" stroke-width="1.8"/>
+  <text x="256.0" y="144.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" font-weight="700" fill="#111">15 cm</text>
+  <text x="325.0" y="258.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Large: ¥36</text>
+  <line x1="20" y1="228" x2="450" y2="228" stroke="#111" stroke-width="1.5"/>
+  <text x="464.0" y="18.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

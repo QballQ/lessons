@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 210" width="470" height="210">
+  <title>A lift with a sign that says Maximum load 630 kg, and eight boxes, each labelled 75 kg.</title>
+  <rect x="24" y="26" width="150" height="170" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="99.0" y1="84" x2="99.0" y2="196" stroke="#111" stroke-width="2"/>
+  <rect x="36" y="34" width="126" height="44" rx="4" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <text x="99.0" y="52.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">Maximum load</text>
+  <text x="99.0" y="71.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">630 kg</text>
+  <line x1="14" y1="196" x2="460" y2="196" stroke="#111" stroke-width="2"/>
+  <rect x="200" y="146" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="200" y1="158" x2="262" y2="158" stroke="#111" stroke-width="1.2"/>
+  <text x="231.0" y="182.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="268" y="146" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="268" y1="158" x2="330" y2="158" stroke="#111" stroke-width="1.2"/>
+  <text x="299.0" y="182.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="336" y="146" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="336" y1="158" x2="398" y2="158" stroke="#111" stroke-width="1.2"/>
+  <text x="367.0" y="182.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="404" y="146" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="404" y1="158" x2="466" y2="158" stroke="#111" stroke-width="1.2"/>
+  <text x="435.0" y="182.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="200" y="96" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="200" y1="108" x2="262" y2="108" stroke="#111" stroke-width="1.2"/>
+  <text x="231.0" y="132.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="268" y="96" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="268" y1="108" x2="330" y2="108" stroke="#111" stroke-width="1.2"/>
+  <text x="299.0" y="132.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="336" y="96" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="336" y1="108" x2="398" y2="108" stroke="#111" stroke-width="1.2"/>
+  <text x="367.0" y="132.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+  <rect x="404" y="96" width="62" height="50" fill="#ffffff" stroke="#111" stroke-width="2"/>
+  <line x1="404" y1="108" x2="466" y2="108" stroke="#111" stroke-width="1.2"/>
+  <text x="435.0" y="132.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">75 kg</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 348" width="400" height="348">
+  <title>A graph of the cost of hiring one bike against time. Time in hours goes from 0 to 6 across. Cost in yuan goes from 0 to 100 up, with a gridline every 10 yuan. A straight line starts at 10 yuan at 0 hours and goes up to 100 yuan at 6 hours. It passes through 40 yuan at 2 hours and 70 yuan at 4 hours.</title>
+  <line x1="72" y1="290" x2="72" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="122" y1="290" x2="122" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="172" y1="290" x2="172" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="222" y1="290" x2="222" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="272" y1="290" x2="272" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="322" y1="290" x2="322" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="372" y1="290" x2="372" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="290.0" x2="372" y2="290.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="265.0" x2="372" y2="265.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="240.0" x2="372" y2="240.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="215.0" x2="372" y2="215.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="190.0" x2="372" y2="190.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="165.0" x2="372" y2="165.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="140.0" x2="372" y2="140.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="115.0" x2="372" y2="115.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="90.0" x2="372" y2="90.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="65.0" x2="372" y2="65.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="40.0" x2="372" y2="40.0" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="72" y1="290" x2="390" y2="290" stroke="#111" stroke-width="2.2"/>
+  <path d="M 390 290 l -10 -6 l 0 12 Z" fill="#111"/>
+  <line x1="72" y1="290" x2="72" y2="22.0" stroke="#111" stroke-width="2.2"/>
+  <path d="M 72 22.0 l -6 10 l 12 0 Z" fill="#111"/>
+  <text x="72" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">0</text>
+  <text x="122" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">1</text>
+  <text x="172" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">2</text>
+  <text x="222" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">3</text>
+  <text x="272" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">4</text>
+  <text x="322" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">5</text>
+  <text x="372" y="312" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">6</text>
+  <text x="64" y="295.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">0</text>
+  <text x="64" y="270.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">10</text>
+  <text x="64" y="245.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">20</text>
+  <text x="64" y="220.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">30</text>
+  <text x="64" y="195.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">40</text>
+  <text x="64" y="170.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">50</text>
+  <text x="64" y="145.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">60</text>
+  <text x="64" y="120.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">70</text>
+  <text x="64" y="95.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">80</text>
+  <text x="64" y="70.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">90</text>
+  <text x="64" y="45.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">100</text>
+  <line x1="72" y1="265.0" x2="372" y2="40.0" stroke="#111" stroke-width="3"/>
+  <text x="222" y="338" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Time (hours)</text>
+  <text x="0" y="0" transform="translate(20 165.0) rotate(-90)" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Cost (¥)</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 232" width="200" height="232">
+<title>An octopus with a rounded head, two eyes and eight curling arms</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<g stroke="#111" stroke-width="14">
+<path d="M68,94 C50,96 30,96 14,108 C6,114 12,124 22,118"/>
+<path d="M74,104 C56,124 34,138 18,152 C10,158 16,170 26,164"/>
+<path d="M84,110 C74,140 56,166 42,188 C36,198 46,206 52,198"/>
+<path d="M94,112 C92,150 84,182 70,208 C64,218 74,226 80,216"/>
+<path d="M106,112 C108,150 118,180 134,204 C140,214 130,224 124,214"/>
+<path d="M116,110 C126,140 146,164 160,186 C166,196 156,204 150,196"/>
+<path d="M126,104 C144,124 166,138 182,150 C190,156 184,168 174,162"/>
+<path d="M132,94 C150,94 170,92 186,104 C194,110 188,120 178,114"/>
+</g>
+<g stroke="#bdbdbd" stroke-width="9">
+<path d="M68,94 C50,96 30,96 14,108 C6,114 12,124 22,118"/>
+<path d="M74,104 C56,124 34,138 18,152 C10,158 16,170 26,164"/>
+<path d="M84,110 C74,140 56,166 42,188 C36,198 46,206 52,198"/>
+<path d="M94,112 C92,150 84,182 70,208 C64,218 74,226 80,216"/>
+<path d="M106,112 C108,150 118,180 134,204 C140,214 130,224 124,214"/>
+<path d="M116,110 C126,140 146,164 160,186 C166,196 156,204 150,196"/>
+<path d="M126,104 C144,124 166,138 182,150 C190,156 184,168 174,162"/>
+<path d="M132,94 C150,94 170,92 186,104 C194,110 188,120 178,114"/>
+</g>
+</g>
+<ellipse cx="100" cy="64" rx="44" ry="56" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<path d="M76,34 C82,24 92,20 100,20" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<circle cx="82" cy="88" r="9" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="118" cy="88" r="9" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="78" y="86" width="9" height="4" rx="2" fill="#111"/>
+<rect x="114" y="86" width="9" height="4" rx="2" fill="#111"/>
+</svg>

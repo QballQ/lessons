@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 322" width="300" height="322" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A square lawn with sides of 6 metres. A sprinkler stands at the centre and waters a circle of radius 3 metres. The circle touches the middle of each side of the square. The four corners of the lawn get no water.</title>
+<defs>
+<pattern id="lawn" width="10" height="10" patternUnits="userSpaceOnUse">
+<rect width="10" height="10" fill="#fff"/>
+<path d="M3,8 L4,4 M7,9 L8,5" stroke="#7a7a7a" stroke-width="1.1" stroke-linecap="round"/>
+</pattern>
+</defs>
+<!-- square lawn, side 240 units = 6 m -->
+<rect x="30" y="14" width="240" height="240" fill="url(#lawn)" stroke="#111" stroke-width="2.5"/>
+<!-- watered circle, radius 120 units = 3 m -->
+<circle cx="150" cy="134" r="120" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<!-- radius -->
+<line x1="150" y1="134" x2="270" y2="134" stroke="#111" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="190" y="104" width="44" height="24" rx="3" fill="#e6e6e6"/>
+<text x="212" y="123" font-size="18" font-weight="700" text-anchor="middle" fill="#111">3 m</text>
+<!-- sprinkler -->
+<circle cx="150" cy="134" r="8" fill="#111"/>
+<text x="150" y="166" font-size="16" text-anchor="middle" fill="#111">sprinkler</text>
+<!-- side length -->
+<line x1="30" y1="272" x2="270" y2="272" stroke="#111" stroke-width="1.6"/>
+<line x1="30" y1="264" x2="30" y2="280" stroke="#111" stroke-width="1.6"/>
+<line x1="270" y1="264" x2="270" y2="280" stroke="#111" stroke-width="1.6"/>
+<rect x="128" y="262" width="44" height="20" fill="#fff"/>
+<text x="150" y="278" font-size="18" font-weight="700" text-anchor="middle" fill="#111">6 m</text>
+<!-- key -->
+<rect x="30" y="294" width="22" height="18" fill="#e6e6e6" stroke="#111" stroke-width="1.6"/>
+<text x="60" y="309" font-size="16" fill="#111">gets water</text>
+<rect x="160" y="294" width="22" height="18" fill="url(#lawn)" stroke="#111" stroke-width="1.6"/>
+<text x="190" y="309" font-size="16" fill="#111">no water</text>
+</svg>

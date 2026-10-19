@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 270" width="660" height="270" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A map of Chen Yu's route. From her home, the route goes 3.5 cm on the map to a bridge over a river, then 2.5 cm to the park gate, then 3 cm through the park to the lake. The scale is 1 : 50 000. Not drawn accurately.</title>
+<defs>
+<pattern id="water" width="12" height="12" patternUnits="userSpaceOnUse">
+<rect width="12" height="12" fill="#e6e6e6"/>
+<path d="M0,6 Q3,3 6,6 T12,6" fill="none" stroke="#7a7a7a" stroke-width="1.2"/>
+</pattern>
+</defs>
+<rect x="2" y="2" width="656" height="266" rx="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<!-- north arrow -->
+<path d="M40,64 L40,22" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M32,34 L40,18 L48,34 Z" fill="#111"/>
+<text x="40" y="84" font-size="17" font-weight="700" text-anchor="middle" fill="#111">N</text>
+<!-- river -->
+<path d="M206,2 C196,50 220,90 208,140 C198,185 214,225 204,268 L240,268 C250,225 234,185 244,140 C256,90 232,50 242,2 Z" fill="url(#water)" stroke="#111" stroke-width="1.6"/>
+<text x="262" y="252" font-size="16" font-style="italic" fill="#111">river</text>
+<!-- park -->
+<rect x="330" y="30" width="312" height="206" rx="10" fill="#fff" stroke="#111" stroke-width="2" stroke-dasharray="9 6"/>
+<text x="632" y="56" font-size="17" text-anchor="end" fill="#111">Park</text>
+<!-- trees -->
+<g fill="#bdbdbd" stroke="#111" stroke-width="1.6">
+<circle cx="368" cy="66" r="11"/><circle cx="394" cy="58" r="9"/>
+<circle cx="372" cy="208" r="10"/><circle cx="400" cy="214" r="9"/>
+<circle cx="612" cy="208" r="10"/><circle cx="588" cy="214" r="8"/>
+</g>
+<!-- lake -->
+<ellipse cx="545" cy="138" rx="85" ry="58" fill="url(#water)" stroke="#111" stroke-width="2.2"/>
+<rect x="516" y="124" width="58" height="26" rx="4" fill="#fff"/>
+<text x="545" y="143" font-size="18" font-weight="700" text-anchor="middle" fill="#111">Lake</text>
+<!-- route: home (82,190) to bridge (222,190): 140 = 3.5 cm; bridge to gate (302,130): 100 = 2.5 cm; gate to lake edge (462,130)... drawn at 40 units per cm -->
+<polyline points="82,190 222,190 302,130 340,130 460,130" fill="none" stroke="#111" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- bridge -->
+<rect x="198" y="180" width="52" height="20" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="198" y1="190" x2="250" y2="190" stroke="#111" stroke-width="5"/>
+<text x="224" y="170" font-size="17" text-anchor="middle" fill="#111">Bridge</text>
+<!-- home -->
+<path d="M50,186 L72,166 L94,186 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+<rect x="55" y="186" width="34" height="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="66" y="196" width="11" height="16" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+<text x="72" y="234" font-size="17" font-weight="700" text-anchor="middle" fill="#111">Home</text>
+<!-- park gate: two posts on the park edge -->
+<rect x="324" y="114" width="12" height="12" fill="#111"/>
+<rect x="324" y="134" width="12" height="12" fill="#111"/>
+<text x="318" y="100" font-size="17" text-anchor="middle" fill="#111">Park gate</text>
+<!-- end of route -->
+<circle cx="460" cy="130" r="6" fill="#111"/>
+<!-- lengths on the map -->
+<text x="140" y="214" font-size="17" text-anchor="middle" fill="#111">3.5 cm</text>
+<text x="292" y="172" font-size="17" text-anchor="start" fill="#111">2.5 cm</text>
+<text x="400" y="118" font-size="17" text-anchor="middle" fill="#111">3 cm</text>
+<!-- scale box -->
+<rect x="16" y="98" width="150" height="34" rx="4" fill="#fff" stroke="#111" stroke-width="1.8"/>
+<text x="91" y="121" font-size="17" text-anchor="middle" fill="#111">Scale 1 : 50 000</text>
+<text x="646" y="258" font-size="15" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

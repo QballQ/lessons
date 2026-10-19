@@ -1,7 +1,7 @@
 ---
-title: Year 9 Admission Assessment: Student paper
+title: Year 9 Admission Assessment v2: Student paper
 style: secondary
-footer: Year 9 Admission Assessment | Student paper
+footer: Year 9 Admission Assessment v2 | Student paper
 name_footer: yes
 ---
 <style>
@@ -12,9 +12,18 @@ name_footer: yes
 body.secondary p { white-space: pre-line; }
 body.secondary h1 ~ h1, .newpage { break-before: page; }
 .vt td, .vt th { min-width: 2.2em; height: 1.8em; text-align: center; vertical-align: middle; }
+.ans.step { min-width: 10mm; margin-right: 10px; }
+.frac { display: inline-block; vertical-align: middle; text-align: center; margin: 0 3px; white-space: nowrap; }
+.frac > span { display: block; padding: 0 4px; line-height: 1.3; }
+.frac > span:first-child { border-bottom: 1.4px solid #111; }
+.eqn { margin: 4px 0 8px 1.5em; line-height: 1.7; }
+table.parts { width: 100%; } table.parts td:last-child { white-space: nowrap; }
+.cont { text-align: right; font-size: 0.9em; font-style: italic; margin: -4px 0 0; }
 </style>
 
 # Year 9 Admission Assessment
+
+**Version 2, October 2026**
 
 [[namebox]]
 
@@ -43,24 +52,30 @@ Which one is a fruit? <span class="sp"></span> a chair [[tick]] <span class="sp"
 
 ## The parts of this paper
 
-| Part | What you do | Time |
-|---|---|---|
-| **Listening** | Listen to a conversation. Answer 8 questions. | 5 minutes |
-| **Reading** | Read three texts. Answer the questions. | 12 minutes |
-| **Writing** | Write a story or an article. | 10 minutes |
-| Break | | 3 to 5 minutes |
-| **Maths** | Number problems, word problems and pictures. | 20 minutes |
-| **Science** | Questions with pictures, tables and graphs. | 8 minutes |
+<table class="parts">
+<colgroup><col style="width:16%"><col style="width:66%"><col style="width:18%"></colgroup>
+<tr><th>Part</th><th>What you do</th><th>Time</th></tr>
+<tr><td><b>Listening</b></td><td>A conversation and a short talk. Answer 16 questions.</td><td>10 minutes</td></tr>
+<tr><td><b>Reading</b></td><td>Read three texts. Answer the questions.</td><td>15 minutes</td></tr>
+<tr><td><b>Writing</b></td><td>Write a story or an article.</td><td>10 minutes</td></tr>
+<tr><td>Break</td><td></td><td>5 minutes</td></tr>
+<tr><td><b>Maths</b></td><td>Fluency, word questions and applied problems.</td><td>25 minutes</td></tr>
+<tr><td><b>Science</b></td><td>Questions with pictures, tables and graphs.</td><td>8 minutes</td></tr>
+</table>
 
 You may use a pencil, a rubber and a ruler.
-You may **not** use a calculator.
+You may use a calculator **only** in Maths Section C.
 
 # Listening
 
-Your teacher will read a conversation **two times**.
-**Listen** carefully.
-You have one minute to read the questions first.
-You can answer while you listen, or after.
+There are two parts: **A** and **B**.
+Your teacher will read each part **two times**.
+Before each part, you have one minute to read the questions.
+**Listen** carefully. You can answer while you listen, or after.
+
+## Part A
+
+You will hear two friends talking.
 
 ### 1 [[marks:1]]
 What is the new exhibition about?
@@ -109,12 +124,76 @@ Why does Mei tell Tom about Jun?
 
 [[lines:2]]
 
+## Part B {.newpage}
+
+You will hear a short talk about tea. A scientist, Dr Lin, is talking to a class.
+You have one minute to read questions 9 to 16 first.
+**Part B is harder. Do as much as you can.**
+
+### 9 [[marks:1]]
+What is the main purpose of Dr Lin's talk?
+**Tick** one.
+
+<p class="opt">[[tick]] To tell the story of the emperor Shennong.</p>
+<p class="opt">[[tick]] To explain where tea came from and why there are different kinds.</p>
+<p class="opt">[[tick]] To show that green tea is better than black tea.</p>
+
+### 10 [[marks:1]]
+Dr Lin tells the story of the emperor Shennong.
+What does she think about this story?
+**Tick** one.
+
+<p class="opt">[[tick]] It is the best evidence we have about where tea began.</p>
+<p class="opt">[[tick]] It is a nice story, but it may not be true.</p>
+<p class="opt">[[tick]] Historians have proved that it is wrong.</p>
+
+### 11 [[marks:1]]
+Lu Yu wrote the first book about tea. When did he write it?
+
+more than [[answer:short]] years ago
+
+### 12 [[marks:1]]
+When did Dutch traders bring the first tea to Europe?
+
+in the early [[answer]]
+
+### 13 and 14 [[marks:2]]
+**Complete** the notes.
+**Write** one to three words in each gap.
+
+[[example]]
+**Example**
+Green tea, black tea and oolong all come from the same <span class="ans filled">plant</span> .
+[[/example]]
+
+#### Notes: the science of tea
+
+**13** &nbsp; Pickers take only the top two leaves and the [[answer]] .
+
+**14** &nbsp; Oxidation: chemicals in a crushed leaf react with [[answer]] in the air.
+
+### 15 [[marks:1]]
+How is black tea made?
+**Write** 2, 3 and 4 in the boxes to show the order of the steps.
+Step 1 is done for you.
+
+<p class="opt"><span class="ans step filled">1</span> The leaves are withered: they are spread out until they go soft.</p>
+<p class="opt">[[answer:step]] The leaves are dried.</p>
+<p class="opt">[[answer:step]] The leaves are left in warm air.</p>
+<p class="opt">[[answer:step]] The leaves are rolled to break them.</p>
+
+### 16 [[marks:1]]
+In English, people say "tea", not "cha".
+**Use** the talk to **explain** why.
+
+[[lines:2]]
+
 # Reading
 
 There are three parts: **A**, **B** and **C**.
 Each part is harder than the one before.
 **Do as much as you can. It is fine if you do not finish.**
-You have 12 minutes. When you finish, wait for your teacher.
+You have 15 minutes. When you finish, wait for your teacher.
 
 ## Part A
 
@@ -164,66 +243,7 @@ Which activity can she do? [[answer:wide]]
 
 ## Part B {.newpage}
 
-**Read** the text. Then **answer** questions 8 to 14.
-
-[[passage]]
-#### Why Do Pandas Eat All Day?
-
-Giant pandas live in the mountain forests of central China. They are famous for their black and white fur, but they are also famous for something else: they eat almost nothing except bamboo.
-
-This is surprising, because a panda's body is really made for eating meat. Its stomach and intestines are short and simple, like a bear's. Animals that eat only plants, such as cows, have much longer and more complicated digestive systems. As a result, pandas get very little energy from their food. To survive, an adult panda must eat for up to 14 hours a day. It can eat more than 12 kilograms of bamboo in a single day.
-
-Pandas have a special way of holding bamboo. A bone in their wrist has grown longer and works like a thumb. With this "thumb", a panda can grip a stem tightly while it bites.
-
-Because bamboo gives them so little energy, pandas try not to waste it. They move slowly and rest a lot.
-
-Baby pandas are tiny. A newborn cub weighs only about 100 to 200 grams, which is about the weight of an apple. Its mother is about 900 times heavier.
-
-For many years, giant pandas were in danger. Today, thanks to protected forests and careful work by scientists, their numbers are slowly growing.
-[[/passage]]
-
-### 8 [[marks:1]]
-Where do giant pandas live?
-
-[[answer:full]]
-
-### 9 [[marks:1]]
-For how many hours a day can an adult panda eat?
-
-[[answer:short]] hours
-
-### 10 [[marks:1]]
-Why must pandas eat for so many hours?
-
-[[lines:2]]
-
-### 11 [[marks:1]]
-What does a panda use to hold bamboo?
-
-[[answer:full]]
-
-### 12 [[marks:1]]
-**Find** and **copy** one word from the text that means "very small".
-
-[[answer]]
-
-### 13 [[marks:2]]
-**Tick** the **two** sentences that are true.
-
-<p class="opt">[[tick]] Pandas eat a lot of meat.</p>
-<p class="opt">[[tick]] A panda's stomach is like a cow's stomach.</p>
-<p class="opt">[[tick]] Pandas move slowly to save energy.</p>
-<p class="opt">[[tick]] A newborn panda weighs about the same as an apple.</p>
-<p class="opt">[[tick]] There are fewer pandas every year.</p>
-
-### 14 [[marks:1]]
-Why are the numbers of pandas growing today?
-
-[[lines:2]]
-
-## Part C {.newpage}
-
-**Read** the story. Then **answer** questions 15 to 21.
+**Read** the story. Then **answer** questions 8 to 14.
 
 [[passage]]
 #### Halfway Up
@@ -251,10 +271,10 @@ Her fingers closed around the blue hold.
 Five moves later, she slapped the top of the wall, and the quiet hall exploded into noise.
 [[/passage]]
 
-### 15 [[marks:1]]
+### 8 [[marks:1]]
 How high up the wall is Mei at the start of the story? [[answer]]
 
-### 16 [[marks:1]]
+### 9 [[marks:1]]
 "Her body did not believe her." What does this sentence mean?
 **Tick** one.
 
@@ -262,33 +282,108 @@ How high up the wall is Mei at the start of the story? [[answer]]
 <p class="opt">[[tick]] Mei knew the move was easy, but she still felt afraid.</p>
 <p class="opt">[[tick]] Mei did not know how to do the move.</p>
 
-### 17 [[marks:2]]
+### 10 [[marks:2]]
 **Write** two things from the text that show Mei was frightened.
 
 1. [[answer:full]]
 2. [[answer:full]]
 
-### 18 [[marks:1]]
+### 11 [[marks:1]]
 The writer tells us that the other girls "had all reached the top".
 Why do you think the writer tells us this?
 
 [[lines:2]]
 
-### 19 [[marks:1]]
+### 12 [[marks:1]]
 Why did Mei almost laugh when she saw Bo's sign?
 
 [[lines:2]]
 
-### 20 [[marks:1]]
+### 13 [[marks:1]]
 "the quiet hall exploded into noise"
 What does "exploded" mean in this sentence?
 
 [[answer:full]]
 
-### 21 [[marks:1]]
+### 14 [[marks:1]]
 How do Mei's feelings change from the start of the story to the end?
 
 [[lines:2]]
+
+## Part C {.newpage}
+
+**Read** the text. Then **answer** questions 15 to 21.
+In this text, a woman remembers a summer from her childhood.
+**Part C is hard. Do as much as you can.**
+
+[[passage]]
+#### Before the Cranes Came
+
+Every summer until I was twelve, I was sent to stay with my grandmother in Willow Lane, a narrow seam of grey brick that ran between two of the busiest roads in the city. From the main road you would never have guessed it was there. You turned past a shop selling phone cases, ducked under a tangle of electric cables, and suddenly the roar of the traffic fell away, as if someone had closed a heavy door behind you.
+
+Grandmother's house was the fourth on the left. It had one room downstairs, one room upstairs, and a courtyard no bigger than a dining table, where she grew chives and spring onions in chipped enamel basins. Everything in the lane happened in public. Neighbours washed vegetables on their doorsteps, argued over games of chess, and hung their washing on lines strung from wall to wall, so that a trip to the shop meant ducking under other people's shirts. At the time, I found it all slightly embarrassing. My school friends lived in towers with lifts and security guards; I spent my holidays in a place where everyone knew what you had eaten for breakfast.
+
+The notice went up in the spring of my twelfth year. It was pasted, a little crooked, on the wall beside the public tap, and it explained in polite official language that Willow Lane would be "redeveloped". Grandmother read it twice, folded her arms, and announced that it was about time. "Proper pipes," she told the neighbours. "Hot water that comes out of the wall. Imagine." She said it so often, and so loudly, that I believed her.
+
+That last summer, she was busier than I had ever seen her. She scrubbed the courtyard as though important visitors were expected. She gave away her bicycle, her wooden stools and most of her basins, and she refused every offer of help. Yet every evening, when the heat finally lifted, she carried a folding chair to the end of the lane and sat there until it was dark, watching the swifts slice through the air above the rooftops. She never said what she was looking at, and I never thought to ask.
+
+On moving day, forty years of her life fitted into the back of a small van, with room to spare. The new flat was on the twenty-third floor. It had white walls, a balcony and a view so wide that the old district looked like a child's model, already half swallowed by building sites. Grandmother praised everything: the lift, the shower, the gas cooker that lit with a single click. She praised it all in the same bright voice that she used for my first attempts at cooking, which should have told me something.
+[[/passage]]
+
+<p class="cont">The text continues on the next page.</p>
+
+[[pagebreak]]
+
+[[passage]]
+#### Before the Cranes Came (continued)
+
+It was months before I noticed the balcony. She had lined it with the three enamel basins she had kept, and in them, against everyone's advice, she was growing chives, which leaned bravely into the wind. Beside the basins sat a single grey brick. When I asked her about it, she shrugged and said it was useful for holding the door open. The balcony door, as far as I could see, had never needed holding.
+
+I am older now than my mother was then, and I have lived in several flats with lifts. I understand things about that summer that I could not understand at twelve: that cheerfulness can be a kind of hard work, and that a person can be pleased and heartbroken at the same time. The cranes came and went. Where Willow Lane used to be, there is now a shopping centre with a fountain that plays music on the hour. I have been inside only once. I stood beside the fountain for a long time, trying to work out where the fourth house on the left had been, and found that I could not.
+[[/passage]]
+
+### 15 [[marks:1]]
+"Everything in the lane happened in public."
+**Explain** in your own words what this means.
+
+[[lines:2]]
+
+### 16 [[marks:1]]
+"She said it so often, and so loudly, that I believed her."
+What does this suggest about Grandmother's real feelings?
+**Explain** how the words show this.
+
+[[lines:3]]
+
+### 17 [[marks:1]]
+"when the heat finally lifted"
+What does "lifted" mean in this phrase?
+
+[[answer:full]]
+
+### 18 [[marks:1]]
+"the old district looked like a child's model, already half swallowed by building sites"
+What does the word "swallowed" suggest about what is happening to the old district?
+
+[[lines:2]]
+
+### 19 [[marks:1]]
+Why do you think Grandmother kept the grey brick?
+**Give** one piece of evidence from the text.
+
+[[lines:3]]
+
+### 20 [[marks:1]]
+How does the writer feel about Willow Lane now, as an adult?
+**Explain** your answer with evidence from the text.
+
+[[lines:3]]
+
+### 21 [[marks:2]]
+**Summarise** how Grandmother dealt with leaving Willow Lane.
+**Write** two or three points in your own words.
+
+[[lines:4]]
 
 # Writing
 
@@ -329,207 +424,192 @@ Task A [[tick]] <span class="sp"></span> Task B [[tick]]
 
 # Maths
 
-You have 20 minutes. Do as much as you can.
+You have 25 minutes. Do as much as you can.
+There are three sections: **A**, **B** and **C**.
 **Write** your answer in the box. **Show** your working in the working box.
 Your teacher can read any question to you.
-You may **not** use a calculator.
+**Sections A and B:** you may **not** use a calculator.
+**Section C:** you **may** use a calculator.
 
-## Section A: Number problems
+## Section A: Fluency (no calculator)
 
 [[example]]
 **What the maths words mean**
+**Simplify:** 3*a* + 5*a* = 8*a*
 **Expand:** 3(*x* + 2) = 3*x* + 6
-**Factorise:** 10*a* + 15 = 5(2*a* + 3)
-**Solve:** *x* + 3 = 10, so *x* = 7
+**Factorise:** *x*² + 5*x* = *x*(*x* + 5)
+**Standard form:** 4500 = 4.5 × 10<sup>3</sup>
+**Make *x* the subject:** *y* = *x* + 4, so *x* = *y* − 4
 [[/example]]
 
 ### 1 [[marks:2]]
-**Work out**
+(a) **Write** 2<sup>−3</sup> as a fraction. <span class="sp"></span> [[answer:short]]
 
-(a) &nbsp; −7 + 12 = [[answer:short]] <span class="sp"></span><span class="sp"></span> (b) &nbsp; −3 × 6 = [[answer:short]]
+(b) **Simplify** &nbsp; (2*x*<sup>3</sup>)<sup>2</sup> <span class="sp"></span> [[answer]]
 
-### 2 [[marks:1]]
-**Work out** &nbsp; 2<sup>4</sup> − 3<sup>2</sup>
+### 2 [[marks:2]]
+**Work out** &nbsp; (3 × 10<sup>4</sup>) × (5 × 10<sup>−7</sup>)
+**Give** your answer in standard form.
 
-[[answer:short]]
-
-### 3 [[marks:2]]
-(a) **Expand** &nbsp; 4(2*x* − 3) <span class="sp"></span> [[answer:wide]]
-
-(b) **Factorise** &nbsp; 6*y* + 15 <span class="sp"></span> [[answer:wide]]
-
-### 4 [[marks:2]]
-**Solve** &nbsp; 3(*x* + 4) = *x* + 20
-
-[[box:3:Working]]
-
-*x* = [[answer]]
-
-### 5 [[marks:1]]
-**Solve** &nbsp; 2*x* − 1 ≤ 9
-
-[[answer]]
-
-### 6 [[marks:1]]
-**Expand and simplify** &nbsp; (*x* + 3)(*x* + 5)
+[[box:2:Working]]
 
 [[answer:wide]]
 
-## Section B: Word problems and pictures
+### 3 [[marks:2]]
+**Expand and simplify** &nbsp; (2*x* − 3)(*x* + 4)
 
-### 7 [[marks:1]]
-There are 40 students in a class.
-35% of the students walk to school.
-How many students walk to school?
+[[box:2:Working]]
 
-[[answer]]
+[[answer:wide]]
+
+### 4 [[marks:1]]
+**Factorise** &nbsp; *x*² − 2*x* − 15
+
+[[answer:wide]]
+
+### 5 [[marks:2]]
+**Solve** the simultaneous equations.
+
+<p class="eqn">2<i>x</i> + 3<i>y</i> = 7<br>5<i>x</i> − 2<i>y</i> = 8</p>
+
+[[box:4:Working]]
+
+*x* = [[answer:short]] <span class="sp"></span><span class="sp"></span> *y* = [[answer:short]]
+
+### 6 [[marks:1]]
+**Make** *x* the subject of the formula &nbsp; <i>y</i> = <span class="frac"><span>3<i>x</i> − 2</span><span>5</span></span>
+
+[[box:2:Working]]
+
+*x* = [[answer:wide]]
+
+## Section B: Word questions (no calculator)
+
+These questions are in words only. **Read** each one carefully.
+You can **write** an equation, then **solve** it.
+
+[[example]]
+**Example: write an equation, then solve it**
+Mei is 3 years older than Jun. Their ages add up to 29. How old is Jun?
+Let Jun's age be *j*. Then Mei's age is *j* + 3.
+**Equation:** *j* + (*j* + 3) = 29
+**Solve:** 2*j* + 3 = 29, so 2*j* = 26, so *j* = 13
+**Answer:** Jun is 13 years old.
+[[/example]]
+
+### 7 [[marks:2]]
+A printer prints 84 pages in 6 minutes.
+It always prints at the same speed.
+How long does it take to print 210 pages?
+
+[[box:2:Working]]
+
+[[answer]] minutes
 
 ### 8 [[marks:2]]
-5 notebooks cost ¥35.
-How much do 8 notebooks cost?
+In a sale, every price is reduced by 20%.
+Amir pays ¥96 for a pair of trainers in the sale.
+What was the price of the trainers before the sale?
 
 [[box:2:Working]]
 
 ¥ [[answer]]
 
 ### 9 [[marks:2]]
-![A jacket with a price tag of 240 yuan and a sign that says Sale, 25% off](diagrams/y09_m09_jacket.svg){.w35 .right}
+3 pens and 2 notebooks cost ¥26 altogether.
+1 pen and 4 notebooks cost ¥32 altogether.
+All the pens are the same price. All the notebooks are the same price.
+**Work out** the cost of one pen and the cost of one notebook.
 
-A jacket costs ¥240.
+[[box:4:Working]]
 
-In a sale, the price goes down by 25%.
-
-What is the sale price?
-
-[[clear]]
-
-[[box:2:Working]]
-
-¥ [[answer]]
+One pen: ¥ [[answer:short]] <span class="sp"></span><span class="sp"></span> One notebook: ¥ [[answer:short]]
 
 ### 10 [[marks:2]]
-![A high-speed train](diagrams/y09_m10_train.svg){.w30 .right}
+A rectangle is 3 cm longer than it is wide.
+Its area is 40 cm².
+The width of the rectangle is *w* cm.
+**Write** an equation in *w*. Then **solve** it to find the width.
 
-A train travels at 300 km per hour.
+[[box:4:Working]]
 
-How far does it travel in 2 hours 30 minutes?
+Equation: [[answer:wide]]
 
-[[clear]]
+Width = [[answer:short]] cm
 
-[[box:2:Working]]
+## Section C: Applied problems (you may use a calculator)
 
-[[answer]] km
+Each problem has more than one step. **Show** your working.
 
-### 11 [[marks:1]]
-![A spinner divided into 8 equal parts: 3 parts are grey and 5 parts are white](diagrams/y09_m11_spinner.svg){.w35 .right}
+### 11 [[marks:2]]
+A shop sells rice in three sizes.
 
-This spinner has 8 equal parts.
+![Three bags of rice with price tags: a 1 kg bag for 13.80 yuan, a 2.5 kg bag for 32.50 yuan and a 5 kg bag for 66.00 yuan.](diagrams/y09v2_m11_rice.svg){.w75}
 
-**Write** the probability that the spinner lands on **grey**.
+Which bag is the best value for money? **Show** how you decide.
 
-Give your answer as a fraction.
+[[box:3:Working]]
 
-[[answer:short]]
-
-[[clear]]
+**Tick** one. <span class="sp"></span> [[tick]] 1 kg <span class="sp"></span> [[tick]] 2.5 kg <span class="sp"></span> [[tick]] 5 kg
 
 ### 12 [[marks:2]]
-The two lines with arrows are parallel.
+Li Na has ¥5000. She wants to save it for 4 years.
+She can choose one of two bank accounts.
 
-![Two parallel lines crossed by a straight line. The angle 62 degrees is marked at the top line. Angles a and b are marked at the bottom line.](diagrams/y09_m12_parallel.svg){.w65}
+| | Account A | Account B |
+|---|---|---|
+| Interest | 3% **simple** interest per year | 2.6% **compound** interest per year |
+| How it works | Each year, the bank adds 3% of the ¥5000 that she put in. | Each year, the bank adds 2.6% of the money in the account at that time. |
 
-**Work out** the size of angle *a* and angle *b*.
+Which account gives Li Na more money after 4 years? **Show** your working.
 
-*a* = [[answer:short]] ° <span class="sp"></span><span class="sp"></span> *b* = [[answer:short]] °
+[[box:3:Working]]
+
+**Tick** one. <span class="sp"></span> [[tick]] Account A <span class="sp"></span> [[tick]] Account B
 
 ### 13 [[marks:2]]
-![A circle with a diameter of 10 cm](diagrams/y09_m13_circle.svg){.w35 .right}
+A bike hire company charges a fixed fee, plus an amount for each hour.
+The graph shows the cost of hiring one bike.
 
-The diameter of this circle is 10 cm.
+![A graph of the cost of hiring one bike against time. Time in hours goes from 0 to 6 across. Cost in yuan goes from 0 to 100 up, with a gridline every 10 yuan. A straight line starts at 10 yuan at 0 hours and goes up to 100 yuan at 6 hours. It passes through 40 yuan at 2 hours and 70 yuan at 4 hours.](diagrams/y09v2_m13_hire.svg){.w60}
 
-Use π = 3.14.
+(a) **Work out** the gradient of the line. <span class="sp"></span> [[answer:short]]
 
-(a) **Work out** the circumference.
+(b) **Explain** what the gradient tells you about the cost of hiring a bike.
 
-[[answer]] cm
+[[lines:1]]
 
-(b) **Work out** the area.
+### 14 [[marks:3]]
+![A water tank in the shape of a cylinder. The diameter of the circle at the top is 80 cm. The height of the tank is 120 cm.](diagrams/y09v2_m14_tank.svg){.w45 .right}
 
-[[answer]] cm²
+A water tank is a cylinder.
 
-[[clear]]
+The diameter is 80 cm and the height is 120 cm.
 
-### 14 [[marks:1]]
-![A regular hexagon with all six sides marked equal. One inside angle is marked x.](diagrams/y09_m14_hexagon.svg){.w35 .right}
+The tank is empty. Water flows in at 15 litres per minute.
 
-This is a regular hexagon.
+How long does it take to fill the tank?
 
-**Work out** the size of angle *x*.
+Give your answer to the nearest minute.
 
-*x* = [[answer:short]] °
-
-[[clear]]
-
-### 15 [[marks:2]]
-**Work out** the volume of this triangular prism.
-
-![A triangular prism. The triangle has a base of 6 cm and a height of 4 cm. The prism is 10 cm long.](diagrams/y09_m15_prism.svg){.w65}
-
-[[box:2:Working]]
-
-[[answer]] cm³
-
-### 16 [[marks:2]]
-20 students say how many books they read in the holiday.
-
-<div style="float: left; margin-right: 24px;" markdown="1">
-
-| Number of books | Number of students |
-|---|---|
-| 0 | 2 |
-| 1 | 3 |
-| 2 | 8 |
-| 3 | 5 |
-| 4 | 2 |
-
-</div>
-
-**Work out** the mean number of books.
-
-<div class="box" style="--n:4; overflow: hidden;"><span>Working</span></div>
-
-[[answer]]
+1 litre = 1000 cm³
 
 [[clear]]
 
-### 17 [[marks:2]]
-![A coordinate grid. The x axis goes from 0 to 4. The y axis goes from minus 2 to 8.](diagrams/y09_m17_grid.svg){.w35 .right}
+[[box:3:Working]]
 
-(a) **Complete** the table for *y* = 2*x* − 1.
+[[answer]] minutes
 
-<table class="vt">
-<tr><th><i>x</i></th><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-<tr><th><i>y</i></th><td>−1</td><td></td><td></td><td></td><td>7</td></tr>
-</table>
+### 15 [[marks:3]]
+TV screens are measured along the diagonal.
+This TV screen has a diagonal of 140 cm.
+The width and the height of the screen are in the ratio 16 : 9.
 
-(b) **Draw** the graph of *y* = 2*x* − 1 on the grid.
+![A TV screen with a dashed diagonal line from the bottom left corner to the top right corner, labelled 140 cm. The width is marked along the top and the height is marked down the right side.](diagrams/y09v2_m15_tv.svg){.w50}
 
-Use a ruler.
+**Show that** the width of the screen is about 122 cm.
 
-[[clear]]
-
-### 18 [[marks:2]]
-A park is a rectangle. It is 12 m long and 5 m wide.
-
-A straight path goes from one corner to the opposite corner.
-
-![A rectangular park 12 m long and 5 m wide, with a straight path from one corner to the opposite corner.](diagrams/y09_m18_park.svg){.w50}
-
-**Work out** the length of the path.
-
-[[box:2:Working]]
-
-[[answer]] m
+[[box:4:Working]]
 
 # Science
 

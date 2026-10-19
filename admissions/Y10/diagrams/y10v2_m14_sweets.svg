@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 270" width="330" height="270">
+  <title>A jar with 10 sweets: 7 sweets marked L for lemon and 3 sweets marked M for mint.</title>
+  <rect x="78" y="34" width="174" height="22" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  <path d="M 82 56 L 82 66 Q 60 74 60 100 L 60 218 Q 60 232 74 232 L 256 232 Q 270 232 270 218 L 270 100 Q 270 74 248 66 L 248 56" fill="#ffffff" stroke="#111" stroke-width="2.5"/>
+  <circle cx="90.0" cy="205" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="90.0" y="212.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="140.0" cy="205" r="21" fill="#ffffff" stroke="#111" stroke-width="2.2" stroke-dasharray="5 3"/>
+  <text x="140.0" y="212.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">M</text>
+  <circle cx="190.0" cy="205" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="190.0" y="212.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="240.0" cy="205" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="240.0" y="212.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="115.0" cy="160" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="115.0" y="167.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="165.0" cy="160" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="165.0" y="167.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="215.0" cy="160" r="21" fill="#ffffff" stroke="#111" stroke-width="2.2" stroke-dasharray="5 3"/>
+  <text x="215.0" y="167.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">M</text>
+  <circle cx="115.0" cy="115" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="115.0" y="122.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <circle cx="165.0" cy="115" r="21" fill="#ffffff" stroke="#111" stroke-width="2.2" stroke-dasharray="5 3"/>
+  <text x="165.0" y="122.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">M</text>
+  <circle cx="215.0" cy="115" r="21" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <text x="215.0" y="122.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="700" fill="#111">L</text>
+  <text x="165.0" y="262.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111" xml:space="preserve">L = lemon      M = mint</text>
+</svg>
