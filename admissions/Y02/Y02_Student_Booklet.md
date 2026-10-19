@@ -25,7 +25,7 @@ name_footer: yes
 
 [[namebox]]
 
-<div class="y-pics emoji" style="font-size: 60pt; margin-top: 30mm;"><span>🌈</span><span>🪁</span><span>🌻</span></div>
+<div class="y-pics emoji" style="font-size: 60pt; margin-top: 30mm;"><span>🌈</span><span>🚲</span><span>🌻</span></div>
 
 <p class="centre huge" style="margin-top: 14mm;"><b>Hello!</b></p>
 

@@ -37,7 +37,7 @@ It is fine if you cannot do everything.
 
 **Look** at the pictures. **Tell** me the story.
 
-![A picture story in 4 parts. 1: Mei and her grandpa fly a kite in the park. 2: The wind blows the kite into a tree and Mei is sad. 3: A park worker climbs a ladder to get the kite. 4: The kite flies again and everyone is happy.](diagrams/y03_e_picture_story.svg){.w100}
+![A picture story in 4 parts. 1: Mei and her grandpa plant a seed in a pot. 2: Mei waters the pot and a small plant comes up. 3: It is very hot, the plant droops and Mei is sad; Grandpa brings water. 4: The plant is now a tall sunflower and everyone is happy.](diagrams/y03_e_picture_story.svg){.w100}
 
 [[pagebreak]]
 
@@ -254,7 +254,7 @@ Each picture is 1 child.
 
 **Look** at the pictures. **Write** the story.
 
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel1.svg" alt="Picture 1: Mei and her grandpa fly a kite in the park." class="w100"></div><div class="write" markdown="1">
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel1.svg" alt="Picture 1: Mei and her grandpa plant a seed in a pot." class="w100"></div><div class="write" markdown="1">
 
 <b>First,</b>
 
@@ -262,7 +262,7 @@ Each picture is 1 child.
 
 </div></div>
 
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel2.svg" alt="Picture 2: The wind blows the kite into a tree. Mei is sad." class="w100"></div><div class="write" markdown="1">
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel2.svg" alt="Picture 2: Mei waters the pot. A small plant comes up." class="w100"></div><div class="write" markdown="1">
 
 <b>Then,</b>
 
@@ -270,7 +270,7 @@ Each picture is 1 child.
 
 </div></div>
 
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel3.svg" alt="Picture 3: A park worker climbs a ladder to get the kite." class="w100"></div><div class="write" markdown="1">
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel3.svg" alt="Picture 3: It is very hot. The plant droops and Mei is sad. Grandpa brings water." class="w100"></div><div class="write" markdown="1">
 
 <b>Next,</b>
 
@@ -278,7 +278,7 @@ Each picture is 1 child.
 
 </div></div>
 
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel4.svg" alt="Picture 4: The kite flies again. Everyone is happy." class="w100"></div><div class="write" markdown="1">
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel4.svg" alt="Picture 4: The plant is a tall sunflower. Mei and Grandpa are happy." class="w100"></div><div class="write" markdown="1">
 
 <b>At the end,</b>
 

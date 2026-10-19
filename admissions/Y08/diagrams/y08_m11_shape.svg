@@ -4,7 +4,7 @@
 <path d="M60,203 L71,203 L71,214" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M269,214 L269,203 L280,203" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M280,115 L269,115 L269,104" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M181,104 L181,115 L192,115" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M203,104 L203,93 L192,93" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M192,49 L181,49 L181,38" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M71,38 L71,49 L60,49" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 <text x="170" y="240" font-size="17" text-anchor="middle" fill="#111">10 cm</text>

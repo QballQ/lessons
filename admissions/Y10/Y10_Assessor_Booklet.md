@@ -239,7 +239,7 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 | 17 | Tree diagram | (a) 0.8 (Monday not late), 0.8 (Tuesday not late after late), 0.2 and 0.8 (Tuesday after not late) (b) 0.04 | (a) B1 for all four. (b) B1. Accept 4/100, 1/25, 4%. An answer of 0.4 (adding) scores 0. | Grade 9 (概率, 树状图): may not have been taught. |
 | 18 | Trigonometry with given values | (a) 5.7 cm (b) 37° | (a) B1 for 5.7 (accept 5.74 or 10 × 0.57). (b) B1 for 37° (ceiling: finding an angle). An answer of 53° in (b) means opposite and adjacent were swapped. | Grade 9 (锐角三角函数): may not have been taught. |
 
-**Totals:** Section A / 9, Section B / 21 (of which word problems, questions 8 to 11: / 7). **Band guide** (provisional): 0 to 11: **1** Well below expected; 12 to 17: **2** Working towards; 18 to 25: **3** Expected; 26 to 30: **4** Greater depth.
+**Totals:** Section A / 9, Section B / 21 (of which word problems, questions 8 to 11: / 7). **Band guide** (provisional): 0 to 11: **1** Well below expected; 12 to 17: **2** Working towards; 18 to 25: **3** Expected; 26 to 30: **4** Greater depth. Every Year 10 topic in the blueprint is tested at least once.
 
 #### What to look for
 
@@ -264,6 +264,8 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 | 7 | Balancing an equation | 2 | B1 | Chemistry is Grade 9: may not have been taught, but the particle picture lets a student count atoms. |
 
 **Band guide** (provisional): 0 to 3: **1**; 4 to 5: **2**; 6 to 8: **3**; 9 to 10: **4**. Look at the NT questions before deciding.
+
+**Not tested this year** (not enough time): diffusion, groups in the periodic table, rates of reaction, energy resources, waves, DNA and inheritance. Ask about them in the interview if they matter for subject choices.
 
 #### What to look for
 

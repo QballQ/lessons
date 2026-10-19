@@ -7,12 +7,12 @@
 <path d="M170,150 L213.3,283.1 A140,140 0 0 0 310,150 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M187,150 L187,133 L170,133" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M170,120 A30,30 0 0 0 148.8,171.2" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="98" y="118.1" width="48" height="22" rx="3" fill="#fff" stroke="none"/>
-<text x="122" y="136.1" font-size="16" text-anchor="middle" font-weight="700" fill="#111">135°</text>
+<rect x="88.3" y="144.1" width="48" height="22" rx="3" fill="#fff" stroke="none"/>
+<text x="112.3" y="162.1" font-size="16" text-anchor="middle" font-weight="700" fill="#111">135°</text>
 <rect x="208.4" y="77.6" width="42" height="24" rx="4" fill="#fff" stroke="none"/>
 <text x="229.4" y="96.6" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Bus</text>
-<rect x="48.5" y="99.5" width="62" height="24" rx="4" fill="#fff" stroke="none"/>
-<text x="79.5" y="118.5" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Metro</text>
+<rect x="65.5" y="75.3" width="62" height="24" rx="4" fill="#fff" stroke="none"/>
+<text x="96.5" y="94.3" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Metro</text>
 <rect x="127.5" y="226.5" width="42" height="24" rx="4" fill="#fff" stroke="none"/>
 <text x="148.5" y="245.5" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Car</text>
 <rect x="216.8" y="189.9" width="52" height="24" rx="4" fill="#fff" stroke="none"/>

@@ -164,40 +164,38 @@ On which day is the café closed? &nbsp; [[answer]]
 **Read** the story. Then answer questions 8 to 14.
 
 [[passage]]
-#### A Lucky Dumpling
+#### The Paper Boats
 
-![A plate of dumplings and a coin with a square hole in the middle.](diagrams/y04_e08_reading_dumplings.svg){.w35 .right}
+![Two paper boats on a pond: one dark and one white.](diagrams/y04_e08_reading_paper_boats.svg){.w35 .right}
 
-It was Spring Festival. Chen Yu and Grandpa made dumplings in the kitchen.
+On Saturday, Wang Hao and Tom made paper boats. Wang Hao's boat was red. Tom's boat was blue.
 
-Grandpa put meat and cabbage in the middle. Chen Yu folded the dumplings. Her first dumpling was very fat! Grandpa laughed.
+They took the boats to the pond in the park. They put the boats on the water. The wind pushed them slowly across the pond.
 
-"Let's put a coin in one dumpling," said Grandpa. "The person who finds it will be lucky this year."
+Then the red boat got wet. It went down, down, down to the bottom. Wang Hao was sad.
 
-Chen Yu washed a coin and put it in a dumpling. Then they cooked all the dumplings in a big pot.
+"Don't worry," said Tom. "We can make a new one."
 
-At dinner, everyone ate and ate. Mum did not find the coin. Dad did not find the coin. Chen Yu ate ten dumplings, but she did not find it.
+At home, they made a new red boat. This time, Wang Hao used thick paper and coloured it with wax crayons.
 
-Then Grandpa bit his last dumpling. "Ouch!" he said. He smiled and held up the coin.
+The next day, the new boat sailed all the way across the pond.
 
-"You are lucky, Grandpa!" said Chen Yu.
+"It is the best boat in the world!" said Wang Hao.
 [[/passage]]
 
 ### 8 [[marks:1]]
 
-Who made the dumplings? **Tick** one.
+What did Wang Hao and Tom make? **Tick** one.
 
-<div class="opts">Chen Yu and Mum [[tick]] &nbsp;&nbsp; Chen Yu and Grandpa [[tick]] &nbsp;&nbsp; Mum and Dad [[tick]]</div>
+<div class="opts">paper hats [[tick]] &nbsp;&nbsp; paper boats [[tick]] &nbsp;&nbsp; paper kites [[tick]]</div>
 
 ### 9 [[marks:1]]
 
-What did Grandpa put in the middle of the dumplings? **Write** two things.
-
-[[answer:wide]]
+What colour was Tom's boat? &nbsp; [[answer]]
 
 ### 10 [[marks:1]]
 
-Why did Grandpa laugh? **Write** your answer.
+Where did they put the boats on the water? **Write** your answer.
 
 [[lines:1]]
 
@@ -206,25 +204,27 @@ Why did Grandpa laugh? **Write** your answer.
 **Number** the sentences 1 to 4 to show the order in the story. The first one is done for you.
 
 <table class="tf">
-<tr><td>They cooked the dumplings in a big pot.</td><td>[[answer:short]]</td></tr>
-<tr><td>Chen Yu folded the dumplings.</td><td><span class="ans short ansf">1</span></td></tr>
-<tr><td>Grandpa found the coin.</td><td>[[answer:short]]</td></tr>
-<tr><td>Chen Yu put a coin in a dumpling.</td><td>[[answer:short]]</td></tr>
+<tr><td>The red boat went down to the bottom.</td><td>[[answer:short]]</td></tr>
+<tr><td>Wang Hao and Tom made paper boats.</td><td><span class="ans short ansf">1</span></td></tr>
+<tr><td>Wang Hao used thick paper.</td><td>[[answer:short]]</td></tr>
+<tr><td>They put the boats on the water.</td><td>[[answer:short]]</td></tr>
 </table>
 
 ### 12 [[marks:1]]
 
-How many dumplings did Chen Yu eat? &nbsp; [[answer:short]]
-
-### 13 [[marks:1]]
-
-Look at the end of the story. Find and **copy** one word that shows Grandpa was happy.
+Find and **copy** one word that tells you how Wang Hao felt when his boat went down.
 
 [[answer]]
 
+### 13 [[marks:1]]
+
+Why did the first red boat go down to the bottom? **Write** your answer.
+
+[[lines:1]]
+
 ### 14 [[marks:1]]
 
-Who will be lucky this year? Why? **Write** your answer.
+Why did the new boat not go down? **Write** your answer.
 
 [[lines:2]]
 
@@ -235,56 +235,56 @@ Who will be lucky this year? Why? **Write** your answer.
 This text gives information. **Read** it. Then answer questions 15 to 22.
 
 [[passage]]
-#### Kites: Up in the Sky
+#### Honeybees: Busy Workers
 
-![A labelled diagram of a kite: the sail, the frame (two crossed sticks), the tail at the bottom with bows, and the string.](diagrams/y04_e15_reading_kite_diagram.svg){.w40 .right}
+![A labelled diagram of a honeybee seen from above: two antennae, four wings, six legs, a hairy body and a sting.](diagrams/y04_e15_reading_bee_diagram.svg){.w50 .right}
 
-People have flown kites for more than two thousand years. Many people think that the very first kites were made in China, from wood. Later, kites were made from silk and thin pieces of bamboo. When paper was invented, paper kites became popular, because paper is light and cheap.
+Honeybees live together in a home called a hive. A big hive can hold more than fifty thousand bees! Each hive has one queen. She is the largest bee, and her job is to lay eggs. Most of the other bees are workers.
 
-**How does a kite fly?**
+**Busy workers**
 
-A kite needs wind. When the wind blows against the kite, it pushes the kite up into the air. The string is important too. The person holding the string keeps the kite facing into the wind. Without a string, the kite would simply blow away. A long tail helps the kite to stay steady, so that it does not spin round and round.
+Worker bees have many jobs. Young workers clean the hive and feed the baby bees. Older workers fly out to find flowers. They drink a sweet juice called nectar and carry it back to the hive. There, they turn the nectar into honey and store it in tiny wax rooms called cells.
 
-**Kites for work and kites for fun**
+**The waggle dance**
 
-Long ago, kites were not only toys. Some kites were used to send messages. Others were used to test the wind. Today, most people fly kites for fun. Some kites are tiny and fit in your hand. Others are enormous, as long as a bus, and several people must hold them.
+When a worker finds good flowers, she flies home and does a special dance. She waggles her body from side to side and walks in a figure of eight. The dance tells the other bees which way to fly and how far to go.
 
-**A city of kites**
+**Why we need bees**
 
-Weifang, a city in Shandong, is famous for its kites. Every April, people from all over the world travel there for a kite festival. The sky fills with dragons, butterflies, fish and birds. Some dragon kites are made of more than one hundred pieces joined together.
+As bees move from flower to flower, yellow dust called pollen sticks to their hairy bodies. They carry it to other flowers. This helps plants to make seeds and fruit. Without bees, there would be fewer apples, strawberries and pumpkins.
 
-If you want to fly a kite, choose an open space, away from trees and electric wires. A light, steady wind is best.
+Bees can sting, but they usually sting only when they are frightened. If a bee comes near you, keep still, and it will usually fly away.
 [[/passage]]
 
 ### 15 [[marks:1]]
 
-How long have people flown kites? **Tick** one.
+What is the home of honeybees called? **Tick** one.
 
-<div class="opts">for 20 years [[tick]] &nbsp;&nbsp; for more than 200 years [[tick]] &nbsp;&nbsp; for more than 2000 years [[tick]]</div>
+<div class="opts">a nest [[tick]] &nbsp;&nbsp; a hive [[tick]] &nbsp;&nbsp; a cell [[tick]]</div>
 
 ### 16 [[marks:1]]
 
-Why did paper kites become popular? **Write** your answer.
+What is the queen's job? **Write** your answer.
 
 [[lines:1]]
 
 ### 17 [[marks:1]]
 
-Which part of a kite stops it from spinning round and round? **Write** one word.
+Which bees clean the hive and feed the baby bees? **Write** your answer.
 
-[[answer]]
+[[lines:1]]
 
 ### 18 [[marks:1]]
 
-Look at the part **Kites for work and kites for fun**. Find and **copy** one word that means "very big".
+"She waggles her body from side to side."
 
-[[answer]]
+What does **waggles** mean? **Tick** one.
+
+<div class="opts">shakes [[tick]] &nbsp;&nbsp; sleeps [[tick]] &nbsp;&nbsp; sings [[tick]] &nbsp;&nbsp; eats [[tick]]</div>
 
 ### 19 [[marks:1]]
 
-"The sky fills with dragons, butterflies, fish and birds."
-
-What are the dragons, butterflies, fish and birds? **Write** your answer.
+Why does a worker bee do the waggle dance? **Write** your answer.
 
 [[lines:1]]
 
@@ -292,13 +292,13 @@ What are the dragons, butterflies, fish and birds? **Write** your answer.
 
 ### 20 [[marks:1]]
 
-Why do some kites need several people to hold them? **Write** your answer.
+Why would there be fewer apples and strawberries without bees? **Write** your answer.
 
 [[lines:2]]
 
 ### 21 [[marks:1]]
 
-Why should you fly a kite away from trees? **Write** your answer.
+Why should you keep still if a bee comes near you? **Write** your answer.
 
 [[lines:2]]
 

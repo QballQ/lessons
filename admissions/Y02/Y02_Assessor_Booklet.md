@@ -181,7 +181,7 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at Section 1 of the phonics words: skip the letter sounds if the child reads the first ten words easily; if not, go back to the letter sounds. Then use the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (6 minutes, 1:1 or pair, pages 11 and 12; given after maths)
 
@@ -189,20 +189,20 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 
 **Part 1: a dictated sentence (page 11).** Point to the lines next to "1". Say: "I will say a sentence. Listen to all of it first." Say the sentence at a natural pace:
 
-> "Dad and I saw a big panda at the zoo."
+> "Mum and I saw a panda at the zoo."
 
-Say: "Now write it here." Say the sentence again. Then say it in three parts, waiting while the child writes each part: "Dad and I ... saw a big panda ... at the zoo." You may repeat a part once if the child asks. Then say: "Now check it."
+Say: "Now write it here." Say the sentence again. Then say it in three parts, waiting while the child writes each part: "Mum and I ... saw a panda ... at the zoo." You may repeat a part once if the child asks. Then say: "Now check it."
 
 **Part 2: the picture story (page 12).** Point to the story. Say: "This is the story about Jun and Mei. Write what happened. Write 2, 3 or 4 sentences." If the child is stuck, say once: "What happened first?" Do not give words or sentences. If the child asks how to write the names, write "Jun" and "Mei" on a slip of paper: the names are not part of the spelling score. When the child finishes, say "Can you read it to me?" and write down what they say.
 
 #### Dictated sentence: word check
 
-| Word | Dad | and | I | saw | a | big | panda | at | the | zoo |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Correct | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
-| All sounds shown ("sor", "pander", "zu") | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| Word | Mum | and | I | saw | a | panda | at | the | zoo |
+|---|---|---|---|---|---|---|---|---|---|
+| Correct | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| All sounds shown ("sor", "pander", "zu") | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 
-Words correct: ___ / 10. &nbsp; [[tick]] capital D at the start &nbsp; [[tick]] capital I &nbsp; [[tick]] spaces between words &nbsp; [[tick]] full stop &nbsp; [[tick]] all ten words in the right order
+Words correct: ___ / 9. &nbsp; [[tick]] capital M at the start &nbsp; [[tick]] capital I &nbsp; [[tick]] spaces between words &nbsp; [[tick]] full stop &nbsp; [[tick]] all nine words in the right order
 
 #### Writing checklist (the story)
 
@@ -224,7 +224,7 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | Content and organisation | Nothing written, or not about the story | One or two ideas from the story, not yet in order ("rain. umbrella.") | Three or four pictures told in order, with a feeling or reason ("Jun was sad because he got wet.") | / 4 |
 | Vocabulary | No English words | Simple nouns and verbs (rain, school, go) | Words chosen for the story: umbrella, shared, wet, rainbow, friend | / 4 |
 | Grammar and sentences | No phrase or sentence | Short sentences or phrases, mostly present tense, with words missing ("He go school.") | Simple sentences that are mostly correct, some in the past tense, joined with and, then or because | / 4 |
-| Spelling and punctuation (both parts) | Random letters, or letters not linked to sounds | About half of the dictated words correct; other words show most sounds; little punctuation | 8 or more dictated words correct; other words plausible; capital letters and full stops used most of the time | / 4 |
+| Spelling and punctuation (both parts) | Random letters, or letters not linked to sounds | About half of the dictated words correct; other words show most sounds; little punctuation | 7 or more of the 9 dictated words correct; other words plausible; capital letters and full stops used most of the time | / 4 |
 | | | | **Total** | **/ 16** |
 
 [[/keep]]
@@ -239,11 +239,11 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | **D** | Most of the dictated sentence correct; two or three sentences that another adult can read, mostly in order | 11 to 13 |
 | **E** | Comparable to a fluent English-speaking 6 year old (below) | 14 to 16 |
 
-**What band E looks like at age 6.** The child writes the dictated sentence with nearly all the words correct ("panda" or "saw" may be a small slip), with a capital D and a capital I and a full stop. They write three or four sentences that tell the story in order, using the past tense most of the time (walked, rained, shared), joining ideas with "and", "then" or "because", with spaces between words, and capital letters and full stops in most places. Longer words are spelt plausibly ("umbrela", "rainbo"). This matches the end of Year 1 expectations for a fluent English speaker.
+**What band E looks like at age 6.** The child writes the dictated sentence with nearly all the words correct ("panda" or "saw" may be a small slip), with a capital M and a capital I and a full stop. They write three or four sentences that tell the story in order, using the past tense most of the time (walked, rained, shared), joining ideas with "and", "then" or "because", with spaces between words, and capital letters and full stops in most places. Longer words are spelt plausibly ("umbrela", "rainbo"). This matches the end of Year 1 expectations for a fluent English speaker.
 
 #### Spelling from children who speak Chinese
 
-- Pinyin letter values may appear ("zu" for zoo, "sao" or "so" for saw, "da" for Dad). Count them as "all sounds shown" and copy them into the notes.
+- Pinyin letter values may appear ("zu" for zoo, "sao" or "so" for saw, "pan da" written as two syllables). Count them as "all sounds shown" and copy them into the notes.
 - Missing -ed ("Jun walk"), missing "a" and "the", and "he" for "she" are features of a learner's English: judge them under grammar, not as spelling.
 - Writing in English may not have been taught in a Chinese kindergarten. A child who writes only pinyin or characters may still be a capable writer in Chinese: note it.
 
@@ -349,13 +349,13 @@ Use the questions and record in `forms/Interview_Record_Y1_Y2.md`. Sit at the lo
 |---|---|---|---|
 | Speaking: picture talk and interview | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
 | Listening: follow instructions | / 10 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | R: |
-| Early Reading Screen: letter sounds (or skipped) | | | |
+| Early Reading Screen: letter sounds (or skipped) | single letters / 26, letter groups / 18 | | |
 | Early Reading Screen: phonics words | / 40 | | |
 | Early Reading Screen: tricky words | / 20 | | |
 | Early Reading Screen: book band, accuracy, questions | book band ____ accuracy ____ % questions ____ | | |
-| Reading (band from the Early Reading Screen) | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
+| Reading (band from the Early Reading Screen, guide section 6.7) | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
 | Sentence reading (shared record) | points / 72, reading age ______ | indicative | |
-| Writing | / 16 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | dictated words correct: / 10 |
+| Writing | / 16 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | dictated words correct: / 9 |
 | Maths | / 20 (A / 10, B / 10), of which word problems / 5 | 1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4 | NT: L: |
 
 Access arrangements (extra time, reader, breaks):

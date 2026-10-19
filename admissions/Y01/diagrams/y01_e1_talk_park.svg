@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 600" width="690" height="600">
-  <title>A windy day in the park. A girl's kite is stuck in a big tree and she is sad because she cannot reach the string. A boy throws a ball and a dog runs after it. Two ducks swim on a pond. The sun is shining.</title>
+  <title>A windy day in the park. The wind is blowing a girl's balloon away and she is sad because she cannot reach the string. A boy throws a ball and a dog runs after it. Two ducks swim on a pond. The sun is shining.</title>
   <defs>
     <g id="duck">
       <polygon points="32,-4 48,-16 38,8" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
@@ -37,16 +37,12 @@
   <g fill="#e6e6e6">
     <circle cx="120" cy="190" r="90"/><circle cx="55" cy="232" r="52"/><circle cx="188" cy="230" r="56"/><circle cx="62" cy="140" r="55"/><circle cx="172" cy="134" r="58"/><circle cx="118" cy="96" r="58"/>
   </g>
-  <!-- kite stuck in the tree -->
-  <polygon points="218,64 254,110 218,162 182,110" fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
-  <polygon points="218,64 218,110 182,110" fill="#bdbdbd"/><polygon points="218,110 254,110 218,162" fill="#bdbdbd"/>
-  <polygon points="218,64 254,110 218,162 182,110" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M218 64 L218 162 M182 110 L254 110" stroke="#111" stroke-width="2"/>
-  <g stroke="#111" stroke-width="6" fill="#e6e6e6"><circle cx="190" cy="152" r="20"/><circle cx="166" cy="142" r="16"/></g>
-  <g fill="#e6e6e6"><circle cx="190" cy="152" r="20"/><circle cx="166" cy="142" r="16"/></g>
-  <path d="M218 162 q22 14 12 34 q-10 20 12 34" fill="none" stroke="#111" stroke-width="2.5"/>
-  <g fill="#7a7a7a" stroke="#111" stroke-width="1.5"><path d="M220 184 l12 -6 l0 12 Z M244 178 l-12 6 l12 6 Z"/><path d="M222 218 l12 -6 l0 12 Z M246 212 l-12 6 l12 6 Z"/></g>
-  <path d="M226 140 C250 190 266 240 276 290" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- the girl's balloon blowing away in the wind, out of reach -->
+  <path d="M318 214 C300 240 318 262 300 290 C292 304 300 316 294 330" fill="none" stroke="#111" stroke-width="2"/>
+  <polygon points="318,214 311,224 325,224" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="320" cy="176" rx="30" ry="37" transform="rotate(14 320 176)" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <path d="M306 158 Q310 148 320 146" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#7a7a7a" stroke-width="3" stroke-linecap="round"><path d="M270 150 l-18 -6"/><path d="M268 176 l-20 0"/><path d="M272 202 l-18 6"/></g>
   <!-- girl reaching up, sad -->
   <g fill="none" stroke-linecap="round">
     <path d="M245 500 L243 562 M265 500 L267 562" stroke="#111" stroke-width="13"/>

@@ -5,9 +5,9 @@ footer: Year 1 Admission Assessment | Student booklet
 name_footer: yes
 ---
 <style>
-.y-row { display: flex; align-items: flex-end; gap: 5mm; margin: 0 0 4mm; }
-.y-row > b { width: 10mm; font-size: 24pt; line-height: 1; padding-bottom: 2mm; }
-.y-row > .lines { flex: 1; margin: 0; }
+.y-row { display: flex; align-items: flex-end; gap: 5mm; margin: 0 0 9mm; }
+.y-row > b { width: 10mm; font-size: 24pt; line-height: 1; padding-bottom: 1mm; }
+.y-line { flex: 1; height: 16mm; border-bottom: 2px solid #555; background: linear-gradient(to bottom, transparent calc(50% - 1px), #bbb calc(50% - 1px), #bbb 50%, transparent 50%); }
 .y-label { font-size: 13pt; color: #444; margin: 0 0 2mm; }
 .y-pics { display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 3mm; margin: 4mm auto; font-size: 40pt; line-height: 1.2; }
 .y-ask { display: inline-flex; align-items: center; justify-content: center; width: 17mm; height: 17mm; border: 3px dashed #111; border-radius: 8px; font-family: 'Andika', sans-serif; font-size: 30pt; font-weight: 700; }
@@ -28,7 +28,7 @@ name_footer: yes
 
 ## Talk
 
-![A windy day in the park. A girl's kite is stuck in a big tree and she is sad because she cannot reach the string. A boy throws a ball and a dog runs after it. Two ducks swim on a pond.](diagrams/y01_e1_talk_park.svg){.w100}
+![A windy day in the park. The wind is blowing a girl's balloon away and she is sad because she cannot reach the string. A boy throws a ball and a dog runs after it. Two ducks swim on a pond.](diagrams/y01_e1_talk_park.svg){.w100}
 
 [[pagebreak]]
 
@@ -125,17 +125,15 @@ name_footer: yes
 
 ## Write
 
-**Name**
-
-[[lines:1]]
+<div class="y-row" style="margin-bottom: 12mm;"><b style="width: auto; font-size: 18pt;">Name</b><div class="y-line"></div></div>
 
 **Words**
 
-<div class="y-row"><b>1</b><div class="lines" style="--n:1"></div></div>
-<div class="y-row"><b>2</b><div class="lines" style="--n:1"></div></div>
-<div class="y-row"><b>3</b><div class="lines" style="--n:1"></div></div>
-<div class="y-row"><b>4</b><div class="lines" style="--n:1"></div></div>
-<div class="y-row"><b>5</b><div class="lines" style="--n:1"></div></div>
+<div class="y-row"><b>1</b><div class="y-line"></div></div>
+<div class="y-row"><b>2</b><div class="y-line"></div></div>
+<div class="y-row"><b>3</b><div class="y-line"></div></div>
+<div class="y-row"><b>4</b><div class="y-line"></div></div>
+<div class="y-row"><b>5</b><div class="y-line"></div></div>
 
 [[pagebreak]]
 

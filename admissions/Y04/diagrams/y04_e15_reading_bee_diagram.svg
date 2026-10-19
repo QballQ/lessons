@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 270" width="360" height="270">
+  <title>A labelled diagram of a honeybee seen from above: two antennae, four wings, six legs, a hairy body and a sting.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <g transform="translate(35 0)">
+    <path d="M 136 120 L 110 128 L 98 146" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 134 127 L 108 146 L 100 170" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 136 133 L 114 166 L 108 198" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 164 120 L 190 128 L 202 146" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 166 127 L 192 146 L 200 170" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 164 133 L 186 166 L 192 198" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <defs><clipPath id="abd"><ellipse cx="150" cy="172" rx="26" ry="44"/></clipPath></defs>
+    <ellipse cx="150" cy="172" rx="26" ry="44" fill="#e6e6e6"/>
+    <g clip-path="url(#abd)">
+      <rect x="110" y="142" width="80" height="11" fill="#7a7a7a"/>
+      <rect x="110" y="166" width="80" height="11" fill="#7a7a7a"/>
+      <rect x="110" y="190" width="80" height="11" fill="#7a7a7a"/>
+    </g>
+    <ellipse cx="150" cy="172" rx="26" ry="44" fill="none" stroke="#111" stroke-width="2.5"/>
+    <polygon points="145,213 155,213 150,230" fill="#111" stroke="#111" stroke-width="1.5" stroke-linejoin="round"/>
+    <ellipse cx="150" cy="114" rx="22" ry="22" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <line x1="132" y1="102" x2="129" y2="97" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="138" y1="100" x2="136" y2="95" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="144" y1="98" x2="143" y2="93" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="150" y1="96" x2="150" y2="91" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="156" y1="98" x2="157" y2="93" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="162" y1="100" x2="164" y2="95" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="168" y1="102" x2="171" y2="97" stroke="#111" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="150" cy="78" r="15" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="142" cy="74" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <circle cx="158" cy="74" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <path d="M 144 64 Q 136 40 124 34" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="123" cy="33" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <path d="M 156 64 Q 164 40 176 34" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="177" cy="33" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <ellipse cx="100" cy="84" rx="40" ry="14" fill="#fff" stroke="#111" stroke-width="2.2" transform="rotate(30 100 84)"/>
+    <ellipse cx="108" cy="106" rx="27" ry="10" fill="#fff" stroke="#111" stroke-width="2.2" transform="rotate(8 108 106)"/>
+    <ellipse cx="200" cy="84" rx="40" ry="14" fill="#fff" stroke="#111" stroke-width="2.2" transform="rotate(-30 200 84)"/>
+    <ellipse cx="192" cy="106" rx="27" ry="10" fill="#fff" stroke="#111" stroke-width="2.2" transform="rotate(-8 192 106)"/>
+    <line x1="124" y1="34" x2="70" y2="30" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="124" cy="34" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <text x="64" y="36" font-size="18" text-anchor="end" font-weight="700">antennae</text>
+    <line x1="228" y1="66" x2="244" y2="48" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="228" cy="66" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <text x="250" y="54" font-size="18" text-anchor="start" font-weight="700">wings</text>
+    <line x1="196" y1="176" x2="240" y2="186" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="196" cy="176" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <text x="246" y="192" font-size="18" text-anchor="start" font-weight="700">legs</text>
+    <line x1="150" y1="226" x2="236" y2="240" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="150" cy="226" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <text x="242" y="246" font-size="18" text-anchor="start" font-weight="700">sting</text>
+    <line x1="138" y1="108" x2="80" y2="150" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="138" cy="108" r="3" fill="#111" stroke="#111" stroke-width="1"/>
+    <text x="74" y="156" font-size="18" text-anchor="end" font-weight="700">hairy body</text>
+    </g>
+  </g>
+</svg>

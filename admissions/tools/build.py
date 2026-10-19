@@ -72,8 +72,9 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 .marks { float: right; font-size: 0.72em; font-weight: 400; border: 1.4px solid #111; border-radius: 4px; padding: 2px 7px 2px 30px; margin-left: 10px; white-space: nowrap; }
 .ans { display: inline-block; min-width: 32mm; height: 1.5em; border: 1.4px solid #111; border-radius: 3px; vertical-align: middle; margin: 2px 4px; }
 .ans.short { min-width: 16mm; } .ans.wide { min-width: 70mm; } .ans.full { display: block; width: auto; margin: 4px 0; }
+.ans.big { min-width: 40mm; height: 2.3em; border-width: 1.8px; }
 .tick { display: inline-block; width: 0.95em; height: 0.95em; border: 1.5px solid #111; border-radius: 2px; vertical-align: -0.12em; margin: 0 0.3em; background: #fff; }
-.lines { margin: 4px 0 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--lh) - 1px), #777 calc(var(--lh) - 1px), #777 var(--lh)); height: calc(var(--n) * var(--lh)); }
+.lines { margin: 4px 0 8px; height: calc(var(--n) * var(--lh)); background-image: linear-gradient(to bottom, transparent calc(var(--lh) - 1.2px), #777 calc(var(--lh) - 1.2px)); background-size: 100% var(--lh); background-repeat: repeat-y; }
 .box { border: 1.4px solid #111; border-radius: 4px; margin: 4px 0 8px; height: calc(var(--n) * var(--lh)); position: relative; }
 .box > span { position: absolute; top: 3px; left: 6px; font-size: 0.7em; color: #444; }
 .grid { margin: 6px auto; border: 1.2px solid #444; background-size: 5mm 5mm; background-image: linear-gradient(#bbb 1px, transparent 1px), linear-gradient(90deg, #bbb 1px, transparent 1px); }
@@ -90,7 +91,7 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; margin: 6mm 0; }
 .cards > div { border: 1.6px solid #111; border-radius: 8px; padding: 10mm 4mm; text-align: center; font-family: 'Andika', sans-serif; font-size: 34pt; }
 .pics { display: flex; flex-wrap: wrap; gap: 4mm; justify-content: center; margin: 6px 0; }
-.pics > * { flex: 0 0 auto; }
+.pics > * { flex: 0 0 auto; } .pics.nowrap { flex-wrap: nowrap; }
 .emoji { font-family: 'Noto Color Emoji', sans-serif; }
 .srs-level { border-top: 1px solid #bbb; padding-top: 3mm; margin-top: 3mm; break-inside: avoid; }
 .srs { display: flex; gap: 5mm; align-items: baseline; margin: 0 0 3.5mm; }
@@ -99,7 +100,7 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 /* early: Years 1 to 3 student pages */
 body.early { font-family: 'Andika', 'Atkinson Hyperlegible', 'Noto Sans', 'DejaVu Sans', 'Noto Color Emoji', sans-serif; font-size: 18pt; line-height: 1.45; --lh: 15mm; }
 body.early h1 { font-size: 26pt; } body.early h2 { font-size: 22pt; } body.early h3 { font-size: 19pt; }
-body.early .lines { background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--lh) * 0.5 - 1px), #bbb calc(var(--lh) * 0.5 - 1px), #bbb calc(var(--lh) * 0.5), transparent calc(var(--lh) * 0.5), transparent calc(var(--lh) - 1.5px), #555 calc(var(--lh) - 1.5px), #555 var(--lh)); }
+body.early .lines { background-image: linear-gradient(to bottom, transparent calc(var(--lh) * 0.5 - 0.6px), #bbb calc(var(--lh) * 0.5 - 0.6px), #bbb calc(var(--lh) * 0.5 + 0.6px), transparent calc(var(--lh) * 0.5 + 0.6px), transparent calc(var(--lh) - 1.6px), #555 calc(var(--lh) - 1.6px)); }
 body.early table { font-size: 18pt; }
 /* primary: Years 4 to 6 student pages */
 body.primary { font-size: 14pt; line-height: 1.45; --lh: 10mm; }

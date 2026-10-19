@@ -96,7 +96,7 @@ See `STYLE_GUIDE.md`, Sections 6 and 7, for the order and the access rules. In a
 |---|---|---|---|
 | Listening | / 8 | A B C D E | |
 | Reading paper | / 24 (A / 8, B / 8, C / 8) | A B C D E | |
-| Sentence reading (shared record) | sentences / 36, reading age | | |
+| Sentence reading (shared record) | points / 72, reading age | | |
 | Writing | / 16 | A B C D E | |
 | Speaking (from the interview) | | A B C D E | |
 | Maths | / 30 (A / , B / , of which word problems / ) | 1 2 3 4 | NT: L: |

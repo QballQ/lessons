@@ -523,11 +523,11 @@ How many buses do they need?
 
 ### 12 [[marks:2]]
 
-Jun buys 3 notebooks. One notebook costs ¥12.50.
+Jun buys 3 notebooks. One notebook costs ¥13.50.
 
 He pays with a ¥50 note. How much change does he get?
 
-![A notebook with a price tag of 12.50 yuan, and a 50 yuan note](diagrams/y06_m12_notebook.svg){.w60}
+![A notebook with a price tag of 13.50 yuan, and a 50 yuan note](diagrams/y06_m12_notebook.svg){.w60}
 
 [[box:3:Working]]
 

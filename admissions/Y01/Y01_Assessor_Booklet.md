@@ -79,22 +79,22 @@ Codes in this booklet: **R** instruction repeated once; **C** child spoke Chines
 
 ### 3.1 Speaking: picture talk (4 minutes, student booklet page 2)
 
-The picture shows a windy day in a park: a girl's kite is stuck in a tree and she is sad because she cannot reach the string; a boy has thrown a ball and a dog is running after it; two ducks swim on a pond; the sun is out and leaves blow in the wind.
+The picture shows a windy day in a park: the wind is blowing a girl's balloon away and she is sad because she cannot reach the string; a boy has thrown a ball and a dog is running after it; two ducks swim on a pond; the sun is out and leaves blow in the wind.
 
-**How.** Open the booklet at page 2. Give the prompts in order. Wait about 5 seconds after each one; if there is no answer, go on to the next prompt. You may repeat a prompt once. Do not name things for the child or finish their sentences. Write down what the child says, as close to their words as you can ("dog run", "she sad kite tree").
+**How.** Open the booklet at page 2. Give the prompts in order. Wait about 5 seconds after each one; if there is no answer, go on to the next prompt. You may repeat a prompt once. Do not name things for the child or finish their sentences. Write down what the child says, as close to their words as you can ("dog run", "she sad balloon fly").
 
 [[keep]]
 
 | Step | Say | Listen for | What the child said |
 |---|---|---|---|
-| 1 Open | "Look at this picture. What can you see?" | Any naming: tree, kite, girl, boy, dog, ball, duck, pond, sun, cloud, bird, flower | |
-| 2 Naming | Point to each and ask "What's this?": the dog, the ball, the kite, a duck | dog, ball, kite, duck. Named in English: ___ / 4 | |
+| 1 Open | "Look at this picture. What can you see?" | Any naming: tree, balloon, girl, boy, dog, ball, duck, pond, sun, cloud, bird, flower | |
+| 2 Naming | Point to each and ask "What's this?": the dog, the ball, the balloon, a duck | dog, ball, balloon, duck. Named in English: ___ / 4 | |
 | 3 Action | Point to the dog. "What is the dog doing?" | running, chasing the ball, playing | |
 | 4 Action | Point to the boy. "What is the boy doing?" | throwing the ball, playing with the dog | |
 | 5 Feeling | Point to the girl. "How does she feel?" | sad, unhappy, crying, upset, cross | |
-| 6 Explaining | "Why?" | her kite is stuck in the tree; she can't reach it; the wind blew it | |
-| 7 Telling | "Tell me what is happening in the picture." | joined ideas: "The girl's kite is in the tree and the dog is running after the ball." | |
-| 8 Predicting | "What do you think will happen next?" | someone will help her get the kite; a grown-up will get a ladder; the wind will blow it down; the dog will catch the ball | |
+| 6 Explaining | "Why?" | her balloon is flying away; the wind blew it; she can't reach the string | |
+| 7 Telling | "Tell me what is happening in the picture." | joined ideas: "The girl's balloon is flying away and the dog is running after the ball." | |
+| 8 Predicting | "What do you think will happen next?" | the balloon will fly up to the clouds or get caught in the tree; the boy will try to catch it; her mum will buy a new one; the dog will catch the ball | |
 | 9 Personal | "Do you like the park? What do you do at the park?" | talks about their own life | |
 
 [[/keep]]
@@ -106,10 +106,10 @@ The picture shows a windy day in a park: a girl's kite is stuck in a tree and sh
 | Band | What it sounds like at age 5 | Example |
 |---|---|---|
 | **A** New to English | Silent, nods or points; perhaps one or two English words; may speak in Chinese | points to the dog; "狗"; "dog" |
-| **B** Early acquisition | Names several things in English; single words and two-word phrases; little description | "dog", "ball", "a duck", "kite tree" |
+| **B** Early acquisition | Names several things in English; single words and two-word phrases; little description | "dog", "ball", "a duck", "balloon fly" |
 | **C** Developing competence | Short sentences with a verb, often with errors; can say what someone is doing | "The dog is run." "She sad." "Boy throw the ball." |
-| **D** Competent | Connected sentences; explains with "because"; tells the picture as a little story; errors do not get in the way | "She is sad because her kite is stuck in the tree." "Maybe the boy help her." |
-| **E** Fluent | Talks as a fluent English-speaking 5 year old does: full sentences, words such as stuck, chasing, windy, reach, and ideas of their own | "The wind blew her kite into the tree and she can't reach the string. I think her daddy will get a ladder." |
+| **D** Competent | Connected sentences; explains with "because"; tells the picture as a little story; errors do not get in the way | "She is sad because her balloon fly away." "Maybe the boy help her." |
+| **E** Fluent | Talks as a fluent English-speaking 5 year old does: full sentences, words such as blowing, chasing, windy, reach, and ideas of their own | "The wind blew her balloon away and she can't reach the string. I think it will go up to the clouds, and her mummy will buy her a new one." |
 
 [[/keep]]
 
@@ -169,7 +169,7 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at the letter sounds and the Section 1 words; and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (5 minutes, pages 12 and 13; given after maths)
 
@@ -182,7 +182,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | No. | Say | Word | Spelling pattern |
 |---|---|---|---|
 | 1 | "sun. The sun is hot. sun." | sun | CVC |
-| 2 | "map. We look at the map. map." | map | CVC |
+| 2 | "bag. My book is in my bag. bag." | bag | CVC |
 | 3 | "pen. I can write with a pen. pen." | pen | CVC |
 | 4 | "fish. A fish can swim. fish." | fish | digraph sh |
 | 5 | "chop. Mum can chop the carrots. chop." | chop | digraph ch |
@@ -200,7 +200,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | Word | What the child wrote | Correct | All sounds shown ("fsh", "chp") | Some sounds ("f", "c") | Nothing |
 |---|---|---|---|---|---|
 | sun | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
-| map | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| bag | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 | pen | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 | fish | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 | chop | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
@@ -214,7 +214,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | Content and organisation | Nothing written, or marks not linked to the picture | One or two words or a phrase about the picture ("dog box") | A complete idea about the picture, perhaps with a second idea ("The dog is in the box. He is happy.") | / 4 |
 | Vocabulary | No English words | Simple nouns (dog, box) | Words chosen for meaning: puppy, sitting, happy, big, peeping | / 4 |
 | Grammar and sentences | No phrase or sentence | A phrase, or a sentence with words missing ("dog in box") | A simple sentence with a verb ("The dog is in the box."); may join two ideas with "and" | / 4 |
-| Spelling and punctuation (the five words and the sentence) | Random letters, or letters not linked to sounds | Most dictated words show some sounds, usually the first and last ("sn", "mp"); one or two words correct | All or nearly all dictated words correct or with all sounds shown, including sh and ch; a capital letter or a full stop in the sentence | / 4 |
+| Spelling and punctuation (the five words and the sentence) | Random letters, or letters not linked to sounds | Most dictated words show some sounds, usually the first and last ("sn", "bg"); one or two words correct | All or nearly all dictated words correct or with all sounds shown, including sh and ch; a capital letter or a full stop in the sentence | / 4 |
 | | | | **Total** | **/ 16** |
 
 [[/keep]]
@@ -332,11 +332,11 @@ Use the questions and record in `forms/Interview_Record_Y1_Y2.md`. Sit on the fl
 |---|---|---|---|
 | Speaking: picture talk and interview | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
 | Listening: follow instructions | / 10 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | R: |
-| Early Reading Screen: letter sounds | | | |
+| Early Reading Screen: letter sounds | single letters / 26, letter groups / 18 | | |
 | Early Reading Screen: phonics words | / 40 | | |
 | Early Reading Screen: tricky words | / 20 | | |
 | Early Reading Screen: book band, accuracy, questions | book band ____ accuracy ____ % questions ____ | | |
-| Reading (band from the Early Reading Screen) | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
+| Reading (band from the Early Reading Screen, guide section 6.7) | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
 | Sentence reading (shared record) | points / 72, reading age ______ | indicative | |
 | Writing | / 16 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | name: words correct: / 5 |
 | Maths | / 15 (A / 8, B / 7), of which word problems / 3 | 1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4 | NT: L: |

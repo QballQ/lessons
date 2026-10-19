@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" width="300" height="150">
+  <title>Two paper boats on a pond: one dark and one white.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <ellipse cx="150" cy="100" rx="142" ry="42" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <path d="M 40 120 q 8 -5 16 0 t 16 0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 200 128 q 8 -5 16 0 t 16 0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 120 132 q 8 -5 16 0 t 16 0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <polygon points="62,86 130,86 118,104 74,104" fill="#7a7a7a" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="80,86 96,52 112,86" fill="#7a7a7a" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <line x1="96" y1="52" x2="96" y2="86" stroke="#111" stroke-width="1.5" stroke-linecap="round"/>
+    <polygon points="172,82 240,82 228,100 184,100" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="190,82 206,48 222,82" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <line x1="206" y1="48" x2="206" y2="82" stroke="#111" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>

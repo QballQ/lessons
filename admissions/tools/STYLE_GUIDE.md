@@ -58,7 +58,7 @@ Write normal Markdown. These shortcodes add the printed parts of a paper:
 | Shortcode | Where | What it prints |
 |---|---|---|
 | `[[marks:2]]` | at the end of a `###` question heading | the mark box "/ 2" on the right |
-| `[[answer]]` | inline | an answer box (also `[[answer:short]]`, `[[answer:wide]]`, `[[answer:full]]`) |
+| `[[answer]]` | inline | an answer box (also `[[answer:short]]`, `[[answer:wide]]`, `[[answer:full]]`, and `[[answer:big]]`, a taller box for young children's handwriting) |
 | `[[tick]]` | inline | a tick box |
 | `[[scale:1,2,3,4]]` | inline | a row of tick boxes with labels |
 | `[[lines:4]]` | own line | 4 ruled writing lines (Years 1 to 3 get handwriting lines with a midline) |
@@ -80,7 +80,9 @@ Images: `![Alt text that describes the picture](diagrams/y05_m04_angles.svg){.w5
 
 Emoji: in Years 1 to 3 you may use emoji for everyday objects to count or name (🍎 🐟 ⭐ 🚗 🐱), wrapped to control size, for example `<span class="emoji big">🍎 🍎 🍎</span>`. The emoji font prints in colour and is clear in greyscale. From Year 4 up, draw diagrams as SVG.
 
-Useful classes for raw HTML: `big`, `huge`, `small`, `centre`, `emoji`, `pics` (a centred row of pictures), `cards` (big word cards, two per row).
+Useful classes for raw HTML: `big`, `huge`, `small`, `centre`, `emoji`, `pics` (a centred row of pictures; add `nowrap` to keep a counting row on one line), `cards` (big word cards, two per row).
+
+Markdown inside raw HTML is ignored unless the tag carries `markdown="1"` (the `[[passage]]`, `[[keep]]`, `[[example]]` and `[[cols]]` shortcodes add it for you). For a label above a table or list, use a `####` heading rather than a bold paragraph: headings are never left stranded at the foot of a page.
 
 ## 5. Diagrams (SVG)
 

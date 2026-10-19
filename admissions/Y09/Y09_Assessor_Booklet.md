@@ -279,6 +279,8 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 **Band guide** (provisional): 0 to 3: **1**; 4 to 5: **2**; 6 to 8: **3**; 9 to 10: **4**. Look at the NT questions before deciding.
 
+**Not tested this year** (not enough time): metals and non-metals in the periodic table, combustion and word equations, aerobic respiration, heating and cooling (conduction, convection, radiation).
+
 #### What to look for
 - **Working scientifically** (questions 5 and 7): a student who explains a fair test and spots the pattern in a table is likely to do well once taught, even with several NT questions.
 - **An English barrier** looks like: blank or wrong answers that become right when you read the question aloud, or explanations written in Chinese (mark L). Science vocabulary in English (producer, compound, mixture, ammeter) is often the gap: note the words the student did not know.

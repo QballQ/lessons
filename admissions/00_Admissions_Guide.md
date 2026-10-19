@@ -74,14 +74,14 @@ Student time, in minutes. The order on the day is in each assessor booklet.
 
 | Year | Picture talk | Listening | Reading screens | Reading paper | Writing | Maths | Science | Interview (with sentence reading from Year 4) | Total |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | 4 | 4 | 12 | | 5 | 12 | | 6 | about 45 |
-| 2 | 4 | 4 | 12 | | 6 | 15 | | 6 | about 47 |
-| 3 | 4 | 5 | 12 | | 8 | 18 | | 8 | about 55 |
+| 1 | 4 | 4 | 12 to 15 | | 5 | 12 | | 6 | about 45 to 50 |
+| 2 | 4 | 4 | 12 to 15 | | 6 | 15 | | 6 | about 47 to 50 |
+| 3 | 4 | 5 | 12 to 15 | | 8 | 18 | | 8 | about 55 to 58 |
 | 4 | | 5 | | 12 | 10 | 18 | | 12 | about 57 |
 | 5 and 6 | | 5 | | 12 | 10 | 18 | 8 | 12 | about 65 |
 | 7 to 10 | | 5 | | 12 | 10 | 20 | 8 | 15 | about 70 |
 
-Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
+Reading screens in Years 1 to 3: the Early Reading Screen takes up to 10 to 12 minutes and the sentence reading screen 2 to 4 minutes for most young children; the start points and stopping rules keep most children inside this. Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
 
 ## 6. The English proficiency bands
 
@@ -112,6 +112,7 @@ Every candidate gets a band for each of the four skills on this five-point scale
 | **NT** | Not yet taught: the student says they have not learnt this. Scores 0; listed in the summary. |
 | **L** | Language support given in a maths or science question. The number of L questions is evidence about English. |
 | **C** | An answer given in Chinese: in the interview it does not count towards the speaking band; in the reading screens' questions it counts as understood. |
+| **R** | In a listening task: the instruction was repeated once (as the script allows). |
 | **SC**, **S**, **O**, **I**, **T** | Reading record codes: self-correction, substitution, omission, insertion, told. |
 
 Extra time, a reader or other access arrangements for a known need are allowed and recorded in the score summary.

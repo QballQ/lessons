@@ -490,7 +490,7 @@ a. **Draw** an arrow on the probability scale to show the probability that the s
 b. **Write** the probability that the spinner lands on **grey**. [[answer:short]]
 
 ### 15 [[marks:2]]
-![Two parallel lines crossed by a straight line. At the lower crossing, the angle above the line on the right is 70 degrees. At the upper crossing, angle a is above the line on the right and angle b is below it. Not drawn accurately.](diagrams/y08_m15_parallel.svg){.w65}
+![Two parallel lines crossed by a straight line. At the lower crossing, the angle above the line on the right is 70 degrees. At the upper crossing, angle a is above the line on the right and angle b is below it. Not drawn accurately.](diagrams/y08_m15_parallel.svg){.w60}
 
 The two lines with arrows are parallel. **Work out** angle *a* and angle *b*.
 
@@ -509,27 +509,26 @@ The angle for metro is 135°.
 
 How many students travel by metro?
 
-[[answer:short]]
+[[box:2:Working]]
 
-[[box:3:Working]]
+[[answer:short]]
 
 </div>
 
 ### 17 [[marks:2]]
-![A bar chart of minutes of homework each day: Monday 35, Tuesday 60, Wednesday 30, Thursday 60, Friday 40.](diagrams/y08_m17_bar.svg){.w55 .right}
+![A bar chart of minutes of homework each day: Monday 35, Tuesday 60, Wednesday 30, Thursday 60, Friday 40.](diagrams/y08_m17_bar.svg){.w50 .right}
 
 <div class="side" markdown="1">
 
 The bar chart shows how many minutes Zhang Wei spent on homework each day.
 
-**Complete** the table.
+**Work out** each answer in minutes.
 
-| | Minutes |
-|---|---|
-| Mode | [[answer:short]] |
-| Median | [[answer:short]] |
-| Range | [[answer:short]] |
-| Mean | [[answer:short]] |
+Mode [[answer:short]] &nbsp;&nbsp; Median [[answer:short]]
+
+Range [[answer:short]] &nbsp;&nbsp; Mean [[answer:short]]
+
+[[box:2:Working]]
 
 </div>
 
@@ -555,7 +554,7 @@ Next month, the price will go up by 15%.
 
 What will the new price be?
 
-[[box:2:Working]]
+[[box:3:Working]]
 
 [[answer]] yuan
 

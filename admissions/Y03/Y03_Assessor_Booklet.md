@@ -52,23 +52,25 @@ Write the child's name on page 1 if they cannot.
 
 **Say:** "Look at these pictures. They tell a story. The girl is Mei. This is her grandpa. Let's talk about the pictures."
 
+**The story** (for you, not to read aloud): 1. Mei and Grandpa plant a seed in a flower pot. 2. Mei waters the pot and a small plant comes up. 3. It is a very hot day; the plant droops and Mei is sad; Grandpa brings the watering can. 4. The plant has grown into a sunflower taller than Mei; they are happy.
+
 Ask the prompts in order. Wait about 5 seconds before you move on. You may point to a picture, but do not name things for the child and do not correct their English. Write down what the child says, as exactly as you can.
 
 | Step | Say (and point) | Listen for | What the child said |
 |---|---|---|---|
-| 1 Name | "What can you see?" Point to things: "What is this?" | Single words: kite, tree, sun, girl, grandpa, ladder, wind | |
-| 2 Describe | Picture 1: "What are they doing?" | "Flying a kite"; "They are flying a kite." | |
-| 3 Feelings and why | Picture 2: "How does Mei feel? Why?" | "Sad"; "because the kite is in the tree" | |
-| 4 Tell the story | "Now tell me the whole story. Start here." Point to picture 1. | The events in order; then, and, because; past tense (flew, got stuck, climbed) | |
-| 5 Predict and connect | "What do you think they will do next?" Then: "Do you like flying kites? Tell me about it." | An idea of their own; talk about their own life | |
+| 1 Name | "What can you see?" Point to things: "What is this?" | Single words: sun, flower, pot, seed, plant, water, girl, grandpa; watering can, sunflower | |
+| 2 Describe | Picture 2: "What is Mei doing?" | "Water"; "She is watering the plant." | |
+| 3 Feelings and why | Picture 3: "How does Mei feel? Why?" | "Sad"; "because the plant is ill / dying / too hot / needs water" | |
+| 4 Tell the story | "Now tell me the whole story. Start here." Point to picture 1. | The events in order; then, and, because; past tense (planted, watered, grew); time words (every day, one day, at the end) | |
+| 5 Predict and connect | "What do you think Mei will do next?" Then: "Do you have plants or flowers at home? Tell me about them." | An idea of their own; talk about their own life | |
 
 **Speaking guide for this task.** Use it together with the interview. The speaking band goes on the interview record and in the score summary.
 
 | Band | At this age, in this task |
 |---|---|
 | **A** New to English | Silent, points, or names one or two things; may talk in Chinese. |
-| **B** Early acquisition | Names many things; short phrases ("girl sad", "kite tree"); needs the prompts. |
-| **C** Developing competence | Simple sentences with errors ("She fly the kite. The kite go in the tree."); tells the story with help. |
+| **B** Early acquisition | Names many things; short phrases ("girl sad", "flower big"); needs the prompts. |
+| **C** Developing competence | Simple sentences with errors ("She put seed in pot. The flower is grow big."); tells the story with help. |
 | **D** Competent | Tells the whole story in connected sentences, with some past tense; says why; occasional errors. |
 | **E** Fluent | Tells the story easily, as a fluent English-speaking 7 year old would: past tense, linking words, feelings, an idea about what happens next. |
 
@@ -123,7 +125,7 @@ Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared
 
 The writing comes after the maths (see Section 1).
 
-**Say:** "Do you remember the story about Mei and the kite? Now write the story. Look at each picture and write about it. Start with 'First'." Point to each frame word and read it once: "First ... Then ... Next ... At the end."
+**Say:** "Do you remember the story about Mei and the sunflower? Now write the story. Look at each picture and write about it. Start with 'First'." Point to each frame word and read it once: "First ... Then ... Next ... At the end."
 
 - Do not spell words, give vocabulary or correct anything. If the child asks for a spelling, say: "Have a go. Write the sounds you can hear."
 - If the child has not started after about a minute, say: "Write a word for each picture." Write "labels" in the notes.
@@ -136,9 +138,9 @@ The writing comes after the maths (see Section 1).
 | Criterion | 0 | 2 | 4 |
 |---|---|---|---|
 | Content and organisation | No English writing about the pictures, or only the frame words copied. | Writes about two or three of the pictures, in order, in phrases or short sentences. | Tells the whole story in order (all four pictures) with a clear ending, and adds a detail, a feeling or something a character says. |
-| Vocabulary | No English words of the child's own. | Everyday words for the pictures (girl, kite, tree, sad, fly). | Some precise or interesting words (windy, stuck, ladder, climbed, high, grabbed, happy again). |
-| Grammar and sentences | No sentence. | Simple sentences, often without past tense or "a" and "the" ("She fly kite. Kite in tree."). | Correct simple sentences, past tense mostly right, some joined with and, but, because, so or when. |
-| Spelling and punctuation | Letters or strings that cannot be read as words. | Common words mostly right; other words spelt as they sound (ladr, cliymd); some capital letters and full stops. | Most common words right, including common exception words (the, was, said, they); capital letters and full stops nearly always right; perhaps an exclamation mark or a question mark. |
+| Vocabulary | No English words of the child's own. | Everyday words for the pictures (girl, flower, sun, water, sad, big). | Some precise or interesting words (seed, planted, watering can, hot, thirsty, droopy, grew, tall, taller than). |
+| Grammar and sentences | No sentence. | Simple sentences, often without past tense or "a" and "the" ("She put seed. Flower is big."). | Correct simple sentences, past tense mostly right, some joined with and, but, because, so or when. |
+| Spelling and punctuation | Letters or strings that cannot be read as words. | Common words mostly right; other words spelt as they sound (sunflowr, woterd, gru); some capital letters and full stops. | Most common words right, including common exception words (the, was, said, they); capital letters and full stops nearly always right; perhaps an exclamation mark or a question mark. |
 
 | Content and organisation | Vocabulary | Grammar and sentences | Spelling and punctuation | **Total** |
 |---|---|---|---|---|
@@ -211,6 +213,8 @@ Use `forms/Interview_Record_Y3_Y4.md`. In Year 3 the sentence reading has alread
 [[/keep]]
 
 **Likely not yet taught** for a child who has completed Chinese Grade 1: Questions 4 and 8 (multiplication and division), 5 and 6b (numbers above 100), 9 (centimetre ruler), 12b (time to five minutes), 14 (symmetry) and 15 (fractions). Children from bilingual schools, or who have started Grade 2, may have met some of these.
+
+[[pagebreak]]
 
 ## 5. Score summary
 

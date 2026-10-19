@@ -114,9 +114,9 @@ Read the eight questions aloud, once, without the answer choices: "Question 1. W
 
 ### 3.2 Reading paper (12 minutes, student paper pages 4 to 10)
 
-**Say:** "Turn to page 4, Part 2: Reading. There are three texts: a menu, a story and a text about kites. Read each text and answer the questions. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Do not read any text or question aloud. Tell the students when there are 2 minutes left.
+**Say:** "Turn to page 4, Part 2: Reading. There are three texts: a menu, a story and a text about honeybees. Read each text and answer the questions. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Do not read any text or question aloud. Tell the students when there are 2 minutes left.
 
-The three parts get harder. **Part A** is a menu with pictures. **Part B** is a short story written about two years below age level. **Part C** is **non-fiction** (an information text about kites, with a labelled diagram) at the level of a fluent 8 year old reader, and it is meant to stretch.
+The three parts get harder. **Part A** is a menu with pictures. **Part B** is a short story written about two years below age level. **Part C** is **non-fiction** (an information text about honeybees, with a labelled diagram) at the level of a fluent 8 year old reader, and it is meant to stretch.
 
 **Answers** (1 mark each unless stated). Spelling does not matter if the answer is clear, except where the question asks the student to copy a word.
 
@@ -130,23 +130,23 @@ The three parts get harder. **Part A** is a menu with pictures. **Part B** is a 
 | 5 | Retrieval | 11 am | 11, 11 o'clock, eleven, 11:00 | 8 pm |
 | 6 | Retrieval | Monday | Mon | Tuesday; Sunday |
 | 7 | Retrieval and simple inference (2 marks) | Ice cream: **True**. Water costs ¥2: **False** | 1 mark for each correct row | |
-| | | **Part B: A Lucky Dumpling** | | |
-| 8 | Retrieval | Chen Yu and Grandpa | | |
-| 9 | Retrieval | meat and cabbage | Both needed; any order | only one of them |
-| 10 | Retrieval | Chen Yu's first dumpling was (very) fat. | "The dumpling was fat." "It was too big." | "He was happy." with no reason |
-| 11 | Sequencing (2 marks) | They cooked: **3**. Folded: 1 (given). Found: **4**. Coin: **2** | 2 marks for all three correct; 1 mark if two neighbouring events are swapped | |
-| 12 | Retrieval | 10 | ten | |
-| 13 | Vocabulary (find and copy) | smiled | | laughed (that is earlier in the story, not the end); lucky |
-| 14 | Simple inference | Grandpa, because he found the coin. | "Grandpa. He has the coin." "Grandpa, the coin was in his dumpling." | "Grandpa" with no reason; "Chen Yu" |
-| | | **Part C: Kites: Up in the Sky (non-fiction)** | | |
-| 15 | Retrieval | for more than 2000 years | | |
-| 16 | Retrieval | Paper is light and cheap. | Either "light" or "cheap" | "Paper is nice." |
-| 17 | Retrieval (text and diagram) | the tail | tail | string; frame |
-| 18 | Vocabulary in context (find and copy) | enormous | Small spelling slips if the word is clearly copied (enormus) | tiny; big; long |
-| 19 | Vocabulary in context and inference | They are kites (shaped like dragons, butterflies, fish and birds). | "Kites." "Kites that look like animals." | Real animals; "birds flying" |
-| 20 | Inference | Because they are enormous / very big / as long as a bus / heavy. | "The wind pulls them very hard." | "Because they are kites." "It is fun." |
-| 21 | Inference | The kite (or string) could get stuck or caught in a tree. | "It will go in the tree." "The tree can break it." | "Trees are big." "Because of the wind." |
-| 22 | Author's purpose (why do you think) | To show the parts of a kite / what a kite looks like / to help the reader understand the words. | "So we know what the sail, frame, tail and string are." "To help you understand." | "Because it is nice." "To colour it." |
+| | | **Part B: The Paper Boats** | | |
+| 8 | Retrieval | paper boats | | |
+| 9 | Retrieval | blue | | red (Wang Hao's boat) |
+| 10 | Retrieval | on the pond (in the park) | "the pond"; "in the park" | "at home"; "the sea" |
+| 11 | Sequencing (2 marks) | Went down: **3**. Made boats: 1 (given). Thick paper: **4**. Put on the water: **2** | 2 marks for all three correct; 1 mark if two neighbouring events are swapped | |
+| 12 | Vocabulary (find and copy) | sad | | worry (Tom's word); happy |
+| 13 | Simple inference | It got wet (the paper got wet). | "The paper was wet." "Paper and water." "The paper was thin." | "It was old." "The wind." |
+| 14 | Simple inference | Wang Hao used thick paper and coloured it with wax crayons. | Either idea: "thick paper" or "wax crayons"; "the paper was strong" | "It was red." "Tom helped." |
+| | | **Part C: Honeybees: Busy Workers (non-fiction)** | | |
+| 15 | Retrieval | a hive | | a cell (the tiny wax rooms); a nest |
+| 16 | Retrieval | to lay eggs | "lay eggs"; "make eggs" | "she is the biggest"; "make honey" |
+| 17 | Retrieval | young workers | young bees; the young (worker) bees | the queen; older workers |
+| 18 | Vocabulary in context | shakes | | |
+| 19 | Retrieval and inference | To tell the other bees which way to fly and how far to go (where the flowers are). | "To show where the flowers are." "To tell them the way." | "Because she is happy." "To have fun." |
+| 20 | Inference | Bees carry pollen from flower to flower, and this helps plants make fruit. | "Bees help the plants make fruit." "No bees to carry pollen." | "Bees eat the apples." "Apples need honey." |
+| 21 | Inference | So the bee is not frightened and does not sting you; it will fly away. | "So it does not sting you." "Bees sting when they are scared." "It will fly away." | "Because bees are bad." "To catch it." |
+| 22 | Author's purpose (why do you think) | To show the parts of a bee / what a bee looks like / to help the reader understand the words. | "So we can see the wings, legs and sting." "To help you understand." | "Because it is nice." "To colour it." |
 
 | Part A (Questions 1 to 7) | Part B (Questions 8 to 14) | Part C (Questions 15 to 22) | **Total** |
 |---|---|---|---|
@@ -169,7 +169,7 @@ Use judgement when a result is uneven (for example a high Part C score with a lo
 
 - **Strong readers** finish Part C, answer in their own words and give reasons ("because ...").
 - **Decoding ahead of understanding:** a good sentence reading score but weak Part B and Part C answers, or answers copied from the wrong place in the text. Common for students who learnt phonics or the phonetic alphabet outside school.
-- **An English barrier, not a reading difficulty:** correct answers that are hard to read ("becos it is enormus") still score. Note answers the student could explain in Chinese to a colleague afterwards; they do not score, but they show understanding.
+- **An English barrier, not a reading difficulty:** correct answers that are hard to read ("so it not scard and sting") still score. Note answers the student could explain in Chinese to a colleague afterwards; they do not score, but they show understanding.
 [[/keep]]
 
 ### 3.3 Writing (10 minutes, student paper pages 11 to 12)

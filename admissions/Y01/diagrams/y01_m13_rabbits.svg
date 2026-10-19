@@ -19,12 +19,14 @@
     <path d="M470 360 l-6 -12 M476 360 l0 -14 M482 360 l6 -12"/><path d="M560 360 l-6 -12 M566 360 l0 -14 M572 360 l6 -12"/>
   </g>
   <!-- rabbit behind the tree: only the head, ears and a paw show at the right edge of the trunk -->
+  <g transform="translate(-12 0)">
   <g stroke="#111" stroke-width="2.5" fill="#fff">
     <ellipse cx="364" cy="232" rx="8" ry="25" transform="rotate(8 364 232)"/>
     <ellipse cx="382" cy="236" rx="8" ry="25" transform="rotate(26 382 236)"/>
     <circle cx="360" cy="276" r="21"/>
   </g>
   <circle cx="366" cy="272" r="3" fill="#111"/><circle cx="379" cy="279" r="3" fill="#7a7a7a"/>
+  </g>
   <!-- trunk -->
   <path d="M250 362 L265 180 L335 180 L350 362 Z" fill="#bdbdbd" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
   <path d="M290 250 q8 10 0 24 M314 300 q-8 10 0 22" fill="none" stroke="#111" stroke-width="2"/>
