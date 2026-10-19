@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594 200" width="594" height="200">
+  <title>A ribbon 92 cm long. Scissors cut it 35 cm from the left end. Not drawn accurately.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="24" y="76" width="546" height="32" rx="2" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <line x1="231.72" y1="58" x2="231.72" y2="126" stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 6"/>
+    <circle cx="219.72" cy="30" r="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <circle cx="243.72" cy="30" r="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <line x1="224.72" y1="36" x2="237.72" y2="54" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="238.72" y1="36" x2="225.72" y2="54" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 24 72 L 24 62 L 229.72 62 L 229.72 72" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <text x="126.86" y="52" font-size="20" text-anchor="middle" font-weight="700">35 cm</text>
+    <path d="M 24 116 L 24 126 L 570 126 L 570 116" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <text x="297" y="152" font-size="20" text-anchor="middle" font-weight="700">92 cm</text>
+    <text x="586" y="190" font-size="16" text-anchor="end">Not drawn accurately</text>
+  </g>
+</svg>

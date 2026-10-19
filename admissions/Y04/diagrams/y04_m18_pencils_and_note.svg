@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 200" width="528" height="200">
+  <title>4 pencils with a price label: 3 yuan each. A 20 yuan note.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="30" y="60" width="26" height="100" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <rect x="30" y="48" width="26" height="12" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <polygon points="30,160 56,160 43,188" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="39,179 47,179 43,188" fill="#111" stroke="#111" stroke-width="1" stroke-linejoin="round"/>
+    <rect x="76" y="60" width="26" height="100" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <rect x="76" y="48" width="26" height="12" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <polygon points="76,160 102,160 89,188" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="85,179 93,179 89,188" fill="#111" stroke="#111" stroke-width="1" stroke-linejoin="round"/>
+    <rect x="122" y="60" width="26" height="100" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <rect x="122" y="48" width="26" height="12" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <polygon points="122,160 148,160 135,188" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="131,179 139,179 135,188" fill="#111" stroke="#111" stroke-width="1" stroke-linejoin="round"/>
+    <rect x="168" y="60" width="26" height="100" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <rect x="168" y="48" width="26" height="12" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <polygon points="168,160 194,160 181,188" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+    <polygon points="177,179 185,179 181,188" fill="#111" stroke="#111" stroke-width="1" stroke-linejoin="round"/>
+    <rect x="212" y="56" width="96" height="46" rx="6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="260" y="86" font-size="20" text-anchor="middle" font-weight="700">¥3 each</text>
+    <line x1="212" y1="79" x2="196" y2="79" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    <rect x="330" y="62" width="186" height="92" rx="6" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+    <rect x="340" y="72" width="166" height="72" rx="4" fill="none" stroke="#111" stroke-width="1.5"/>
+    <text x="376" y="120" font-size="28" text-anchor="middle" font-weight="700">¥20</text>
+    <circle cx="466" cy="108" r="24" fill="#fff" stroke="#111" stroke-width="2"/>
+    <text x="466" y="116" font-size="22" text-anchor="middle" font-weight="700">20</text>
+  </g>
+</svg>

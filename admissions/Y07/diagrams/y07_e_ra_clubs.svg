@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 576" width="660" height="576" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A school notice: After-school clubs, Autumn term. All clubs 4:15 pm to 5:30 pm. Basketball: Monday and Thursday, sports hall. Chess: Tuesday, library. Robotics: Wednesday, Room 14. Drama: Thursday, hall. Art: Friday, Room 9. Basketball: bring a water bottle. Robotics: 50 yuan for the term. To join: write your name on the list outside the school office by 12 September.</title>
+<rect x="2" y="2" width="656" height="572" rx="12" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="330" y="46" font-size="30" text-anchor="middle" font-weight="700" fill="#111">After-school clubs</text>
+<text x="330" y="76" font-size="18" text-anchor="middle" fill="#111">Autumn term</text>
+<rect x="40" y="92" width="580" height="38" rx="6" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+<text x="330" y="117" font-size="19" text-anchor="middle" font-weight="700" fill="#111">All clubs: 4:15 pm to 5:30 pm</text>
+<rect x="40" y="146" width="580" height="34" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="124" y="169" font-size="17" font-weight="700" fill="#111">Club</text>
+<text x="276" y="169" font-size="17" font-weight="700" fill="#111">Day</text>
+<text x="486" y="169" font-size="17" font-weight="700" fill="#111">Where</text>
+<rect x="40" y="180" width="580" height="52" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="124" y="213" font-size="18" font-weight="700" fill="#111">Basketball</text>
+<text x="276" y="213" font-size="18" fill="#111">Monday and Thursday</text>
+<text x="486" y="213" font-size="18" fill="#111">Sports hall</text>
+<circle cx="78" cy="206" r="18" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<line x1="78" y1="188" x2="78" y2="224" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="60" y1="206" x2="96" y2="206" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M66,193.0 Q74,206.0 66,219.0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M90,193.0 Q82,206.0 90,219.0" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="40" y="232" width="580" height="52" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="124" y="265" font-size="18" font-weight="700" fill="#111">Chess</text>
+<text x="276" y="265" font-size="18" fill="#111">Tuesday</text>
+<text x="486" y="265" font-size="18" fill="#111">Library</text>
+<circle cx="78" cy="247" r="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<path d="M72,254.0 L84,254.0 L88,270.0 L68,270.0 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="64" y="270" width="28" height="7" rx="2" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<rect x="40" y="284" width="580" height="52" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="124" y="317" font-size="18" font-weight="700" fill="#111">Robotics</text>
+<text x="276" y="317" font-size="18" fill="#111">Wednesday</text>
+<text x="486" y="317" font-size="18" fill="#111">Room 14</text>
+<line x1="78" y1="297" x2="78" y2="289" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="78" cy="288" r="3" fill="#111" stroke="none"/>
+<rect x="61" y="297" width="34" height="28" rx="5" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+<circle cx="71" cy="308" r="3.5" fill="#111" stroke="none"/>
+<circle cx="85" cy="308" r="3.5" fill="#111" stroke="none"/>
+<line x1="71" y1="318" x2="85" y2="318" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="40" y="336" width="580" height="52" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="124" y="369" font-size="18" font-weight="700" fill="#111">Drama</text>
+<text x="276" y="369" font-size="18" fill="#111">Thursday</text>
+<text x="486" y="369" font-size="18" fill="#111">Hall</text>
+<path d="M62,346.0 Q78,340.0 94,346.0 Q96,370.0 78,382.0 Q60,370.0 62,346.0 Z" fill="#e6e6e6" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="72" cy="356" rx="4" ry="2.6" fill="#111" stroke="none"/>
+<ellipse cx="84" cy="356" rx="4" ry="2.6" fill="#111" stroke="none"/>
+<path d="M70,367.0 Q78,375.0 86,367.0" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="40" y="388" width="580" height="52" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="124" y="421" font-size="18" font-weight="700" fill="#111">Art</text>
+<text x="276" y="421" font-size="18" fill="#111">Friday</text>
+<text x="486" y="421" font-size="18" fill="#111">Room 9</text>
+<path d="M58,414.0 Q58,398.0 78,398.0 Q99,398.0 99,413.0 Q99,422.0 90,421.0 Q82,420.0 83,426.0 Q84,431.0 74,430.0 Q58,428.0 58,414.0 Z" fill="#e6e6e6" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="68" cy="411" r="3.5" fill="#111" stroke="none"/>
+<circle cx="77" cy="405" r="3.5" fill="#7a7a7a" stroke="none"/>
+<circle cx="88" cy="407" r="3.5" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<circle cx="70" cy="422" r="3.5" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+<line x1="116" y1="146" x2="116" y2="440" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="268" y1="146" x2="268" y2="440" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="478" y1="146" x2="478" y2="440" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<text x="44" y="472" font-size="17" fill="#111">Basketball: bring a water bottle.</text>
+<text x="44" y="498" font-size="17" fill="#111">Robotics: 50 yuan for the term.</text>
+<text x="44" y="528" font-size="17" font-weight="700" fill="#111">To join: write your name on the list outside the</text>
+<text x="44" y="552" font-size="17" font-weight="700" fill="#111">school office by 12 September.</text>
+</svg>

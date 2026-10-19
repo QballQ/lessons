@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <title>A paper rabbit lantern hanging from a stick, glowing at night under a full moon. One of its ears flops down.</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- moon and stars -->
+    <circle cx="242" cy="52" r="38" fill="#e6e6e6"/>
+    <path d="M40 30 V44 M33 37 H47 M200 128 V140 M194 134 H206 M268 140 V150 M263 145 H273" fill="none" stroke-width="2"/>
+    <!-- stick and string -->
+    <path d="M8 194 L114 22" fill="none" stroke-width="4"/>
+    <path d="M114 22 V88" fill="none" stroke-width="1.6"/>
+    <!-- glow lines -->
+    <path d="M58 92 L46 86 M54 120 L40 120 M60 148 L48 156 M120 168 V182 M168 150 L180 160 M196 104 L210 98" fill="none" stroke-width="2"/>
+    <!-- tail -->
+    <circle cx="70" cy="114" r="9" fill="#fff"/>
+    <!-- body -->
+    <ellipse cx="116" cy="120" rx="48" ry="34" fill="#fff"/>
+    <path d="M86 98 Q80 120 86 142 M146 98 Q152 120 146 142" fill="none" stroke-width="1.5"/>
+    <!-- upright ear -->
+    <ellipse cx="146" cy="52" rx="8" ry="20" transform="rotate(-8 146 52)" fill="#fff"/>
+    <!-- floppy ear -->
+    <ellipse cx="177" cy="94" rx="8" ry="21" transform="rotate(-19 177 94)" fill="#fff"/>
+    <!-- head -->
+    <circle cx="154" cy="88" r="22" fill="#fff"/>
+    <!-- light inside -->
+    <circle cx="116" cy="122" r="9" fill="#e6e6e6" stroke-width="1.8"/>
+    <path d="M154 98 Q158 102 162 98" fill="none" stroke-width="1.8"/>
+  </g>
+  <circle cx="160" cy="84" r="2.6" fill="#111"/>
+  <circle cx="168" cy="94" r="2.2" fill="#7a7a7a"/>
+</svg>

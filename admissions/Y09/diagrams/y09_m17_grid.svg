@@ -1,42 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 334" width="234" height="334">
-  <title>A coordinate grid. The x axis goes from minus 1 to 4. The y axis goes from minus 2 to 8.</title>
-  <line x1="50" y1="322" x2="50" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="80" y1="322" x2="80" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="110" y1="322" x2="110" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="140" y1="322" x2="140" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="170" y1="322" x2="170" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="200" y1="322" x2="200" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="322" x2="200" y2="322" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="292" x2="200" y2="292" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="262" x2="200" y2="262" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="232" x2="200" y2="232" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="202" x2="200" y2="202" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="172" x2="200" y2="172" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="142" x2="200" y2="142" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="112" x2="200" y2="112" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="82" x2="200" y2="82" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="52" x2="200" y2="52" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="22" x2="200" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
-  <line x1="50" y1="262" x2="216" y2="262" stroke="#111" stroke-width="2.2"/>
-  <line x1="80" y1="322" x2="80" y2="8" stroke="#111" stroke-width="2.2"/>
-  <path d="M 216 262 l -10 -6 l 0 12 Z" fill="#111"/>
-  <path d="M 80 8 l -6 10 l 12 0 Z" fill="#111"/>
-  <text x="220" y="284" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-style="italic" fill="#111">x</text>
-  <text x="96" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-style="italic" fill="#111">y</text>
-  <text x="50" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">&#8722;1</text>
-  <text x="110" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">1</text>
-  <text x="140" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">2</text>
-  <text x="170" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">3</text>
-  <text x="200" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">4</text>
-  <text x="73" y="327" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">&#8722;2</text>
-  <text x="73" y="297" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">&#8722;1</text>
-  <text x="73" y="237" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">1</text>
-  <text x="73" y="207" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">2</text>
-  <text x="73" y="177" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">3</text>
-  <text x="73" y="147" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">4</text>
-  <text x="73" y="117" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">5</text>
-  <text x="73" y="87" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">6</text>
-  <text x="73" y="57" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">7</text>
-  <text x="73" y="27" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">8</text>
-  <text x="73" y="282" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">0</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 334" width="196" height="334">
+  <title>A coordinate grid. The x axis goes from 0 to 4. The y axis goes from minus 2 to 8.</title>
+  <line x1="40" y1="322" x2="40" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="70" y1="322" x2="70" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="100" y1="322" x2="100" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="130" y1="322" x2="130" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="160" y1="322" x2="160" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="322" x2="160" y2="322" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="292" x2="160" y2="292" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="262" x2="160" y2="262" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="232" x2="160" y2="232" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="202" x2="160" y2="202" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="172" x2="160" y2="172" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="142" x2="160" y2="142" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="112" x2="160" y2="112" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="82" x2="160" y2="82" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="52" x2="160" y2="52" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="22" x2="160" y2="22" stroke="#bdbdbd" stroke-width="1.2"/>
+  <line x1="40" y1="262" x2="178" y2="262" stroke="#111" stroke-width="2.2"/>
+  <line x1="40" y1="322" x2="40" y2="6" stroke="#111" stroke-width="2.2"/>
+  <path d="M 178 262 l -10 -6 l 0 12 Z" fill="#111"/>
+  <path d="M 40 6 l -6 10 l 12 0 Z" fill="#111"/>
+  <text x="182" y="268" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-style="italic" fill="#111">x</text>
+  <text x="50" y="16" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-style="italic" fill="#111">y</text>
+  <rect x="63" y="266" width="14" height="17" fill="#fff"/>
+  <text x="70" y="280" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">1</text>
+  <rect x="93" y="266" width="14" height="17" fill="#fff"/>
+  <text x="100" y="280" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">2</text>
+  <rect x="123" y="266" width="14" height="17" fill="#fff"/>
+  <text x="130" y="280" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">3</text>
+  <rect x="153" y="266" width="14" height="17" fill="#fff"/>
+  <text x="160" y="280" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">4</text>
+  <text x="32" y="327" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">&#8722;2</text>
+  <text x="32" y="297" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">&#8722;1</text>
+  <text x="32" y="267" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">0</text>
+  <text x="32" y="237" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">1</text>
+  <text x="32" y="207" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">2</text>
+  <text x="32" y="177" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">3</text>
+  <text x="32" y="147" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">4</text>
+  <text x="32" y="117" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">5</text>
+  <text x="32" y="87" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">6</text>
+  <text x="32" y="57" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">7</text>
+  <text x="32" y="27" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="end" fill="#111">8</text>
 </svg>

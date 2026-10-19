@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 200" width="660" height="200" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Three cards with tick boxes: A a bus, B a metro train, C a car</title>
+<rect x="1.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="12" y="26" font-size="19" font-weight="700" fill="#111">A</text>
+<text x="100" y="152" font-size="17" text-anchor="middle" fill="#111">bus</text>
+<rect x="87" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="34" y="40" width="132" height="66" rx="10" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<rect x="44" y="50" width="22" height="24" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="72" y="50" width="22" height="24" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="100" y="50" width="22" height="24" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="128" y="50" width="22" height="24" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="134" y="80" width="0.1" height="0.1" fill="#fff" stroke="none"/>
+<line x1="34" y1="86" x2="166" y2="86" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="64" cy="108" r="12" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+<circle cx="136" cy="108" r="12" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+<rect x="231.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="242" y="26" font-size="19" font-weight="700" fill="#111">B</text>
+<text x="330" y="152" font-size="17" text-anchor="middle" fill="#111">metro</text>
+<rect x="317" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M256.0,42 L366.0,42 Q404.0,44 406.0,80 L406.0,104 L256.0,104 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="264" y="52" width="22" height="22" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="294" y="52" width="22" height="22" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="324" y="52" width="22" height="22" rx="2" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M360.0,52 L374.0,52 Q392.0,56 394.0,74 L360.0,74 Z" fill="#fff" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="256" y1="88" x2="406" y2="88" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="276" cy="108" r="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<circle cx="300" cy="108" r="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<circle cx="354" cy="108" r="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<circle cx="378" cy="108" r="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<line x1="246" y1="118" x2="414" y2="118" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<rect x="461.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="472" y="26" font-size="19" font-weight="700" fill="#111">C</text>
+<text x="560" y="152" font-size="17" text-anchor="middle" fill="#111">car</text>
+<rect x="547" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M522.0,76 L538.0,50 L582.0,50 L602.0,76 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="560" y1="50" x2="560" y2="76" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="494" y="74" width="132" height="30" rx="9" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<circle cx="524" cy="106" r="13" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+<circle cx="596" cy="106" r="13" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+</svg>

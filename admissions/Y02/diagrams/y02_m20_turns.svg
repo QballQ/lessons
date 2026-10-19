@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 446" width="460" height="446">
+  <title>An arrow in the middle points up to a tree. A house is on the right, a car is at the bottom and a flower is on the left.</title>
+  <circle cx="230" cy="230" r="70" fill="#fff" stroke="#111" stroke-width="3"/>
+  <path d="M230 270 L230 186" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="230,160 210,192 250,192" fill="#111"/>
+  <circle cx="230" cy="230" r="8" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+  <path d="M222 120 L226 78 L234 78 L238 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <g stroke="#111" stroke-width="6" fill="#e6e6e6"><circle cx="230" cy="54" r="30"/><circle cx="208" cy="72" r="20"/><circle cx="252" cy="72" r="20"/></g>
+  <g fill="#e6e6e6"><circle cx="230" cy="54" r="30"/><circle cx="208" cy="72" r="20"/><circle cx="252" cy="72" r="20"/></g>
+  <rect x="370" y="214" width="76" height="60" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+  <polygon points="360,216 408,174 456,216" fill="#7a7a7a" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="398" y="240" width="20" height="34" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <rect x="378" y="224" width="14" height="14" fill="#fff" stroke="#111" stroke-width="2"/><rect x="424" y="224" width="14" height="14" fill="#fff" stroke="#111" stroke-width="2"/>
+  <path d="M180 420 L180 398 Q180 390 188 390 L200 390 L214 370 L246 370 L260 390 L272 390 Q280 390 280 398 L280 420 Z" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M218 374 L218 390 M242 374 L252 390" stroke="#111" stroke-width="2"/>
+  <g fill="#7a7a7a" stroke="#111" stroke-width="3"><circle cx="202" cy="420" r="12"/><circle cx="258" cy="420" r="12"/></g>
+  <path d="M52 222 L52 276" stroke="#111" stroke-width="3"/>
+  <path d="M52 256 Q34 240 26 250 Q38 262 52 256 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <g fill="#fff" stroke="#111" stroke-width="2.5"><circle cx="68.0" cy="210.0" r="11"/><circle cx="60.0" cy="223.9" r="11"/><circle cx="44.0" cy="223.9" r="11"/><circle cx="36.0" cy="210.0" r="11"/><circle cx="44.0" cy="196.1" r="11"/><circle cx="60.0" cy="196.1" r="11"/></g>
+  <circle cx="52" cy="210" r="9" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+</svg>

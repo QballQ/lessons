@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 270" width="300" height="270" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A circle with its centre marked. B labels a line from the centre to the edge. C labels a line across the circle through the centre. A labels the curved edge of the circle.</title>
+<circle cx="150" cy="132" r="105" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<line x1="45" y1="132" x2="255" y2="132" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="150" y1="132" x2="199.3" y2="39.3" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="150" cy="132" r="4.5" fill="#111" stroke="none"/>
+<text x="184" y="82" font-size="21" font-weight="700" fill="#111">B</text>
+<text x="98" y="158" font-size="21" font-weight="700" fill="#111">C</text>
+<text x="18" y="262" font-size="21" font-weight="700" fill="#111">A</text>
+<line x1="32" y1="248" x2="63.3" y2="200.6" stroke="#111" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

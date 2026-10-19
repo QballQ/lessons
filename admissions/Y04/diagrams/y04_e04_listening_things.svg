@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 210" width="640" height="210">
+  <title>Four pictures with a tick box under each. A: a sun hat. B: an umbrella. C: a water bottle. D: a lunch box.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="6" y="4" width="148" height="150" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="54" y="194" font-size="20" text-anchor="middle" font-weight="700">A</text>
+    <rect x="74" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="166" y="4" width="148" height="150" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="214" y="194" font-size="20" text-anchor="middle" font-weight="700">B</text>
+    <rect x="234" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="326" y="4" width="148" height="150" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="374" y="194" font-size="20" text-anchor="middle" font-weight="700">C</text>
+    <rect x="394" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="486" y="4" width="148" height="150" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="534" y="194" font-size="20" text-anchor="middle" font-weight="700">D</text>
+    <rect x="554" y="172" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <ellipse cx="80" cy="104" rx="62" ry="16" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <path d="M 46 102 Q 46 48 80 48 Q 114 48 114 102 Q 80 110 46 102 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 46 92 Q 80 100 114 92 L 114 82 Q 80 90 46 82 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 182 74 Q 240 2 298 74 Q 279 64 259 74 Q 240 64 221 74 Q 201 64 182 74 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="240" y1="30" x2="240" y2="132" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 240 132 Q 240 144 230 144 Q 222 144 222 134" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="388" y="22" width="24" height="16" rx="3" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+    <path d="M 384 38 L 416 38 L 422 54 L 422 140 Q 422 146 416 146 L 384 146 Q 378 146 378 140 L 378 54 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 378 80 L 422 80 L 422 140 Q 422 146 416 146 L 384 146 Q 378 146 378 140 Z" fill="#e6e6e6" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 388 98 q 6 -5 12 0 t 12 0" fill="none" stroke="#111" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 538 62 L 538 46 Q 538 38 546 38 L 574 38 Q 582 38 582 46 L 582 62" fill="none" stroke="#111" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="504" y="62" width="112" height="76" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <line x1="504" y1="82" x2="616" y2="82" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="542" cy="110" r="12" fill="#fff" stroke="#111" stroke-width="2"/>
+    <path d="M 542 98 q 2 -6 7 -7" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="566" y="100" width="30" height="22" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  </g>
+</svg>

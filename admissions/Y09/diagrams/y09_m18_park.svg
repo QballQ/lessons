@@ -8,8 +8,4 @@
   <text x="290" y="86" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">5 m</text>
   <text x="126" y="78" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-style="italic" fill="#111">path</text>
   <text x="40" y="20" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" font-style="italic" fill="#111">Not drawn accurately</text>
-  <circle cx="80" cy="56" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
-  <circle cx="110" cy="50" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
-  <circle cx="230" cy="108" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
-  <circle cx="200" cy="114" r="9" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
 </svg>

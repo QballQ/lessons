@@ -2,13 +2,10 @@
   <title>A triangular prism. The triangle has a base of 6 cm and a height of 4 cm. The prism is 10 cm long.</title>
   <path d="M 40 196 L 190 196 L 115 96 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
   <path d="M 190 196 L 360 132 L 285 32 L 115 96 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
-  <line x1="40" y1="196" x2="210" y2="132" stroke="#111" stroke-width="2" stroke-dasharray="7 6"/>
-  <line x1="210" y1="132" x2="360" y2="132" stroke="#111" stroke-width="2" stroke-dasharray="7 6"/>
-  <line x1="210" y1="132" x2="285" y2="32" stroke="#111" stroke-width="2" stroke-dasharray="7 6"/>
   <line x1="115" y1="96" x2="115" y2="196" stroke="#111" stroke-width="2" stroke-dasharray="5 5"/>
   <path d="M 115 185 L 126 185 L 126 196" fill="none" stroke="#111" stroke-width="2"/>
   <text x="115" y="220" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">6 cm</text>
-  <text x="109" y="160" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="end" font-weight="700" fill="#111">4 cm</text>
+  <text x="109" y="180" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="end" font-weight="700" fill="#111">4 cm</text>
   <text x="297" y="188" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">10 cm</text>
   <text x="10" y="22" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" font-style="italic" fill="#111">Not drawn accurately</text>
 </svg>

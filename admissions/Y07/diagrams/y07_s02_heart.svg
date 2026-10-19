@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A diagram of blood flow. Arrows show blood going from the heart to the lungs, back to the heart, then to the body and back to the heart.</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<line x1="150" y1="14" x2="150" y2="40" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+<path d="M150,40 L130,52" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M150,40 L170,52" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M130,46 Q92,38 84,70 Q78,100 92,108 Q116,114 132,100 Q136,74 130,46 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M170,46 Q208,38 216,70 Q222,100 208,108 Q184,114 168,100 Q164,74 170,46 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="236" y="64" font-size="18" font-weight="700" fill="#111">lungs</text>
+<path d="M150,172 C122,152 108,136 112,122 C116,108 138,106 150,120 C162,106 184,108 188,122 C192,136 178,152 150,172 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="214" y="146" font-size="18" font-weight="700" fill="#111">heart</text>
+<rect x="84" y="200" width="132" height="42" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<text x="150" y="228" font-size="18" text-anchor="middle" font-weight="700" fill="#111">body</text>
+<path d="M116,130 Q50,118 76,88" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M224,88 Q250,118 184,130" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M184,156 Q264,174 224,214" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M76,214 Q36,174 116,156" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

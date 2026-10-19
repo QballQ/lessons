@@ -63,20 +63,20 @@
     <line x1="102.95" y1="46.6" x2="102.03" y2="43.75" stroke="#111" stroke-width="1.5"/>
     <line x1="112.46" y1="44.05" x2="111.83" y2="41.12" stroke="#111" stroke-width="1.5"/>
     <line x1="122.17" y1="42.51" x2="121.86" y2="39.53" stroke="#111" stroke-width="1.5"/>
-    <text x="168" y="80.13" font-size="18" text-anchor="middle">1</text>
-    <text x="194.35" y="106.48" font-size="18" text-anchor="middle">2</text>
-    <text x="204" y="142.48" font-size="18" text-anchor="middle">3</text>
-    <text x="194.35" y="178.48" font-size="18" text-anchor="middle">4</text>
-    <text x="168" y="204.83" font-size="18" text-anchor="middle">5</text>
-    <text x="132" y="214.48" font-size="18" text-anchor="middle">6</text>
-    <text x="96" y="204.83" font-size="18" text-anchor="middle">7</text>
-    <text x="69.65" y="178.48" font-size="18" text-anchor="middle">8</text>
-    <text x="60" y="142.48" font-size="18" text-anchor="middle">9</text>
-    <text x="69.65" y="106.48" font-size="18" text-anchor="middle">10</text>
-    <text x="96" y="80.13" font-size="18" text-anchor="middle">11</text>
-    <text x="132" y="70.48" font-size="18" text-anchor="middle">12</text>
-    <line x1="132" y1="136" x2="179.59" y2="129.73" stroke="#111" stroke-width="7.5" stroke-linecap="round"/>
-    <line x1="132" y1="136" x2="52" y2="136" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="170" y="76.66" font-size="18" text-anchor="middle">1</text>
+    <text x="197.82" y="104.48" font-size="18" text-anchor="middle">2</text>
+    <text x="208" y="142.48" font-size="18" text-anchor="middle">3</text>
+    <text x="197.82" y="180.48" font-size="18" text-anchor="middle">4</text>
+    <text x="170" y="208.3" font-size="18" text-anchor="middle">5</text>
+    <text x="132" y="218.48" font-size="18" text-anchor="middle">6</text>
+    <text x="94" y="208.3" font-size="18" text-anchor="middle">7</text>
+    <text x="66.18" y="180.48" font-size="18" text-anchor="middle">8</text>
+    <text x="56" y="142.48" font-size="18" text-anchor="middle">9</text>
+    <text x="66.18" y="104.48" font-size="18" text-anchor="middle">10</text>
+    <text x="94" y="76.66" font-size="18" text-anchor="middle">11</text>
+    <text x="132" y="66.48" font-size="18" text-anchor="middle">12</text>
+    <line x1="132" y1="136" x2="171.66" y2="130.78" stroke="#111" stroke-width="7.5" stroke-linecap="round"/>
+    <line x1="132" y1="136" x2="72" y2="136" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
     <circle cx="132" cy="136" r="5" fill="#111"/>
     <rect x="86" y="248" width="92" height="36" rx="5" fill="#fff" stroke="#111" stroke-width="2.5"/>
     <text x="132" y="274" font-size="22" text-anchor="middle" font-weight="700">2:45</text>
@@ -142,20 +142,20 @@
     <line x1="366.95" y1="46.6" x2="366.03" y2="43.75" stroke="#111" stroke-width="1.5"/>
     <line x1="376.46" y1="44.05" x2="375.83" y2="41.12" stroke="#111" stroke-width="1.5"/>
     <line x1="386.17" y1="42.51" x2="385.86" y2="39.53" stroke="#111" stroke-width="1.5"/>
-    <text x="432" y="80.13" font-size="18" text-anchor="middle">1</text>
-    <text x="458.35" y="106.48" font-size="18" text-anchor="middle">2</text>
-    <text x="468" y="142.48" font-size="18" text-anchor="middle">3</text>
-    <text x="458.35" y="178.48" font-size="18" text-anchor="middle">4</text>
-    <text x="432" y="204.83" font-size="18" text-anchor="middle">5</text>
-    <text x="396" y="214.48" font-size="18" text-anchor="middle">6</text>
-    <text x="360" y="204.83" font-size="18" text-anchor="middle">7</text>
-    <text x="333.65" y="178.48" font-size="18" text-anchor="middle">8</text>
-    <text x="324" y="142.48" font-size="18" text-anchor="middle">9</text>
-    <text x="333.65" y="106.48" font-size="18" text-anchor="middle">10</text>
-    <text x="360" y="80.13" font-size="18" text-anchor="middle">11</text>
-    <text x="396" y="70.48" font-size="18" text-anchor="middle">12</text>
-    <line x1="396" y1="136" x2="443.27" y2="144.34" stroke="#111" stroke-width="7.5" stroke-linecap="round"/>
-    <line x1="396" y1="136" x2="465.28" y2="176" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="434" y="76.66" font-size="18" text-anchor="middle">1</text>
+    <text x="461.82" y="104.48" font-size="18" text-anchor="middle">2</text>
+    <text x="472" y="142.48" font-size="18" text-anchor="middle">3</text>
+    <text x="461.82" y="180.48" font-size="18" text-anchor="middle">4</text>
+    <text x="434" y="208.3" font-size="18" text-anchor="middle">5</text>
+    <text x="396" y="218.48" font-size="18" text-anchor="middle">6</text>
+    <text x="358" y="208.3" font-size="18" text-anchor="middle">7</text>
+    <text x="330.18" y="180.48" font-size="18" text-anchor="middle">8</text>
+    <text x="320" y="142.48" font-size="18" text-anchor="middle">9</text>
+    <text x="330.18" y="104.48" font-size="18" text-anchor="middle">10</text>
+    <text x="358" y="76.66" font-size="18" text-anchor="middle">11</text>
+    <text x="396" y="66.48" font-size="18" text-anchor="middle">12</text>
+    <line x1="396" y1="136" x2="435.39" y2="142.95" stroke="#111" stroke-width="7.5" stroke-linecap="round"/>
+    <line x1="396" y1="136" x2="447.96" y2="166" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
     <circle cx="396" cy="136" r="5" fill="#111"/>
     <rect x="350" y="248" width="92" height="36" rx="5" fill="#fff" stroke="#111" stroke-width="2.5"/>
     <text x="396" y="274" font-size="22" text-anchor="middle" font-weight="700">3:20</text>

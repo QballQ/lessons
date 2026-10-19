@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 190" width="660" height="190" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Four leaves. A is fan-shaped with a notch at the top. B has five sharp points, like a maple leaf. C is round, with veins from the centre. D is long and thin.</title>
+<rect x="1.5" y="1.5" width="147" height="186" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="12" y="27" font-size="19" font-weight="700" fill="#111">A</text>
+<rect x="171.5" y="1.5" width="147" height="186" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="182" y="27" font-size="19" font-weight="700" fill="#111">B</text>
+<rect x="341.5" y="1.5" width="147" height="186" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="352" y="27" font-size="19" font-weight="700" fill="#111">C</text>
+<rect x="511.5" y="1.5" width="147" height="186" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="522" y="27" font-size="19" font-weight="700" fill="#111">D</text>
+<path d="M75,128 L16.7,97 A66,66 0 0 1 68.1,62.4 L75,80.5 L81.9,62.4 A66,66 0 0 1 133.3,97 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="121" y2="89.4" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="109.4" y2="78.9" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="95.5" y2="71.6" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="54.5" y2="71.6" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="40.6" y2="78.9" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="29" y2="89.4" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="75" y1="128" x2="81" y2="170" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<polygon points="274.3,81.8 277.2,76.3 287.6,64.8 273.9,72 267.8,73.5 252.9,81.8 250.8,61.3 248,54.9 245,38 242,54.9 239.2,61.3 237.1,81.8 222.2,73.5 216.1,72 202.4,64.8 212.8,76.3 215.7,81.8 227.5,94 220.2,99.3 216.5,102 205.9,106.3 217.3,105.9 221.8,106.9 245,120 268.2,106.9 272.7,105.9 284.1,106.3 273.5,102 269.8,99.3 262.5,94" fill="#bdbdbd" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="245" y2="47" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="281.2" y2="69.7" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="278.3" y2="105.1" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="211.7" y2="105.1" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="208.8" y2="69.7" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="245" y1="98" x2="249" y2="172" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<circle cx="415" cy="102" r="58" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<line x1="415" y1="102" x2="465.2" y2="88.5" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="451.8" y2="65.2" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="428.5" y2="51.8" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="401.5" y2="51.8" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="378.2" y2="65.2" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="364.8" y2="88.5" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="364.8" y2="115.5" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="378.2" y2="138.8" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="401.5" y2="152.2" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="428.5" y2="152.2" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="451.8" y2="138.8" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="415" y1="102" x2="465.2" y2="115.5" stroke="#111" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="415" cy="102" r="5" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+<path d="M528,150 Q568,106 644,46 Q598,142 528,150 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M528,150 Q578,120 644,46" fill="none" stroke="#111" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="528" y1="150" x2="520" y2="172" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+</svg>

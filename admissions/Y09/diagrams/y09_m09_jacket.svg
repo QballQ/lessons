@@ -7,10 +7,10 @@
     <line x1="80" y1="52" x2="80" y2="150"/>
     <circle cx="86" cy="72" r="2.5" fill="#111"/><circle cx="86" cy="96" r="2.5" fill="#111"/><circle cx="86" cy="120" r="2.5" fill="#111"/>
     <path d="M 118 74 L 150 94" fill="none" stroke-width="1.5"/>
-    <path d="M 150 82 L 206 82 L 220 100 L 206 118 L 150 118 Z" fill="#fff"/>
-    <circle cx="158" cy="100" r="3.5" fill="#fff"/>
+    <path d="M 146 82 L 214 82 L 230 100 L 214 118 L 146 118 Z" fill="#fff"/>
+    <circle cx="154" cy="100" r="3.5" fill="#fff"/>
   </g>
-  <text x="188" y="107" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">¥240</text>
+  <text x="192" y="107" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="middle" font-weight="700" fill="#111">¥240</text>
   <rect x="150" y="10" width="86" height="54" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
   <text x="193" y="32" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">SALE</text>
   <text x="193" y="55" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">25% off</text>

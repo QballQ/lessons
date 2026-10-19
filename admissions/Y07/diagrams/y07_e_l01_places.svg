@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 200" width="660" height="200" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Three cards with tick boxes: A a cinema (a screen with curtains and rows of seats), B a science museum (a building with columns and a planet), C a shopping centre (two shopping bags)</title>
+<rect x="1.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="12" y="26" font-size="19" font-weight="700" fill="#111">A</text>
+<text x="100" y="152" font-size="17" text-anchor="middle" fill="#111">cinema</text>
+<rect x="87" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="50" y="40" width="100" height="44" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<path d="M50.0,40 Q58.0,62 50.0,84 L40.0,84 L40.0,40 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M150.0,40 Q142.0,62 150.0,84 L160.0,84 L160.0,40 Z" fill="#7a7a7a" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="38" y="34" width="124" height="7" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+<rect x="50" y="94" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="71" y="94" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="92" y="94" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="113" y="94" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="134" y="94" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="39.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="60.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="81.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="102.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="123.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="144.5" y="112" width="16" height="12" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="231.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="242" y="26" font-size="19" font-weight="700" fill="#111">B</text>
+<text x="330" y="152" font-size="17" text-anchor="middle" fill="#111">science museum</text>
+<rect x="317" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<polygon points="264,62 330,28 396,62" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="330" cy="49" r="7" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+<ellipse cx="330" cy="49" rx="15" ry="4" fill="none" stroke="#111" stroke-width="1.8"/>
+<rect x="268" y="62" width="124" height="8" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="284" y="70" width="14" height="42" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="310" y="70" width="14" height="42" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="336" y="70" width="14" height="42" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="362" y="70" width="14" height="42" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="264" y="112" width="132" height="8" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="256" y="120" width="148" height="8" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<rect x="461.5" y="1.5" width="197" height="197" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="472" y="26" font-size="19" font-weight="700" fill="#111">C</text>
+<text x="560" y="152" font-size="17" text-anchor="middle" fill="#111">shopping centre</text>
+<rect x="547" y="164" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<path d="M514.0,64 Q514.0,40 530.0,40 Q546.0,40 546.0,64" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="502" y="60" width="56" height="66" rx="3" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<path d="M572.0,52 Q572.0,28 589.0,28 Q606.0,28 606.0,52" fill="none" stroke="#111" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="562" y="48" width="54" height="78" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+<circle cx="589" cy="86" r="10" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 240" width="660" height="240" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A triangle with base 10 cm and perpendicular height 6 cm. A parallelogram with base 8 cm, perpendicular height 5 cm and sloping side 6 cm. Not drawn accurately.</title>
+<polygon points="40,180 220,180 101.2,72" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="101.2" y1="72" x2="101.2" y2="180" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 5"/>
+<path d="M112.2,180 L112.2,169 L101.2,169" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="130" y="206" font-size="17" text-anchor="middle" fill="#111">10 cm</text>
+<text x="109.2" y="132" font-size="17" fill="#111">6 cm</text>
+<text x="130" y="234" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Triangle</text>
+<polygon points="340,180 484,180 543.7,90 399.7,90" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="399.7" y1="90" x2="399.7" y2="180" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 5"/>
+<path d="M410.7,180 L410.7,169 L399.7,169" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="422" y="206" font-size="17" text-anchor="middle" fill="#111">8 cm</text>
+<text x="407.7" y="141" font-size="17" fill="#111">5 cm</text>
+<text x="525.8" y="141" font-size="17" fill="#111">6 cm</text>
+<text x="441.8" y="234" font-size="17" text-anchor="middle" font-weight="700" fill="#111">Parallelogram</text>
+<text x="655" y="18" font-size="16" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

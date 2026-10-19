@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 170" width="230" height="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A jacket with a price tag that says 240 yuan</title>
+<path d="M60,30 L90,22 Q105,36 120,22 L150,30 L188,70 L170,90 L152,74 L152,156 L58,156 L58,74 L40,90 L22,70 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="105" y1="34" x2="105" y2="156" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<path d="M90,22 L105,48 L120,22" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="152" y1="74" x2="160" y2="104" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="132" y="104" width="94" height="40" rx="6" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="142" cy="114" r="3" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="184" y="131" font-size="17" text-anchor="middle" font-weight="700" fill="#111">240 yuan</text>
+</svg>

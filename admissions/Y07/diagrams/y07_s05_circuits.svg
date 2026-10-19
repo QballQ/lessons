@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 210" width="660" height="210" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Three circuits with tick boxes. A: one cell and one bulb. B: two cells and one bulb. C: one cell and two bulbs.</title>
+<text x="20" y="24" font-size="19" font-weight="700" fill="#111">A</text>
+<rect x="30" y="40" width="160" height="104" fill="none" stroke="#111" stroke-width="2.5"/>
+<rect x="106" y="36" width="8" height="8" fill="#fff" stroke="none"/>
+<line x1="105" y1="20" x2="105" y2="60" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="115" y1="29" x2="115" y2="51" stroke="#111" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="110" cy="144" r="15" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<line x1="99.4" y1="133.4" x2="120.6" y2="154.6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="99.4" y1="154.6" x2="120.6" y2="133.4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="97" y="172" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="240" y="24" font-size="19" font-weight="700" fill="#111">B</text>
+<rect x="250" y="40" width="160" height="104" fill="none" stroke="#111" stroke-width="2.5"/>
+<rect x="309" y="36" width="8" height="8" fill="#fff" stroke="none"/>
+<line x1="308" y1="20" x2="308" y2="60" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="318" y1="29" x2="318" y2="51" stroke="#111" stroke-width="6" stroke-linecap="butt"/>
+<rect x="343" y="36" width="8" height="8" fill="#fff" stroke="none"/>
+<line x1="342" y1="20" x2="342" y2="60" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="352" y1="29" x2="352" y2="51" stroke="#111" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="330" cy="144" r="15" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<line x1="319.4" y1="133.4" x2="340.6" y2="154.6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="319.4" y1="154.6" x2="340.6" y2="133.4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="317" y="172" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="460" y="24" font-size="19" font-weight="700" fill="#111">C</text>
+<rect x="470" y="40" width="160" height="104" fill="none" stroke="#111" stroke-width="2.5"/>
+<rect x="546" y="36" width="8" height="8" fill="#fff" stroke="none"/>
+<line x1="545" y1="20" x2="545" y2="60" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="555" y1="29" x2="555" y2="51" stroke="#111" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="522" cy="144" r="15" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<line x1="511.4" y1="133.4" x2="532.6" y2="154.6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="511.4" y1="154.6" x2="532.6" y2="133.4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<circle cx="578" cy="144" r="15" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<line x1="567.4" y1="133.4" x2="588.6" y2="154.6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="567.4" y1="154.6" x2="588.6" y2="133.4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="537" y="172" width="26" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

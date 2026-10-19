@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
+  <title>Four pictures with a tick box under each. A: a panda at the zoo. B: a park with a tree and a swing. C: a library with shelves of books. D: a beach with the sea and an umbrella.</title>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" fill="#111">
+    <rect x="6" y="4" width="148" height="158" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="54" y="202" font-size="20" text-anchor="middle" font-weight="700">A</text>
+    <rect x="74" y="180" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="166" y="4" width="148" height="158" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="214" y="202" font-size="20" text-anchor="middle" font-weight="700">B</text>
+    <rect x="234" y="180" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="326" y="4" width="148" height="158" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="374" y="202" font-size="20" text-anchor="middle" font-weight="700">C</text>
+    <rect x="394" y="180" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <rect x="486" y="4" width="148" height="158" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="534" y="202" font-size="20" text-anchor="middle" font-weight="700">D</text>
+    <rect x="554" y="180" width="30" height="30" rx="3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <ellipse cx="80" cy="108.5" rx="32.2" ry="27.6" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <ellipse cx="80" cy="99.3" rx="33.35" ry="10.35" fill="#111"/>
+    <circle cx="60.45" cy="52.15" r="9.2" fill="#111" stroke="#111" stroke-width="1"/>
+    <circle cx="99.55" cy="52.15" r="9.2" fill="#111" stroke="#111" stroke-width="1"/>
+    <circle cx="80" cy="74" r="25.3" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <ellipse cx="69.65" cy="71.7" rx="6.9" ry="9.2" fill="#111" transform="rotate(30 69.65 71.7)"/>
+    <ellipse cx="90.35" cy="71.7" rx="6.9" ry="9.2" fill="#111" transform="rotate(-30 90.35 71.7)"/>
+    <circle cx="70.8" cy="70.55" r="2.3" fill="#fff" stroke="#111" stroke-width="0.5"/>
+    <circle cx="89.2" cy="70.55" r="2.3" fill="#fff" stroke="#111" stroke-width="0.5"/>
+    <ellipse cx="80" cy="83.2" rx="4.6" ry="3.45" fill="#111"/>
+    <rect x="23" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="41" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="59" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="77" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="95" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="113" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="131" y="96" width="6" height="62" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="14" y="112" width="132" height="7" fill="#bdbdbd" stroke="#111" stroke-width="1.5"/>
+    <rect x="192.96" y="100" width="10.08" height="50" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+    <circle cx="198" cy="74.8" r="17.36" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="184" cy="86" r="15.4" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="212" cy="86" r="15.4" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="191" cy="94.4" r="14" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="205.84" cy="94.4" r="14" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="198" cy="84.6" r="16.8" fill="#e6e6e6" stroke="#111" stroke-width="5"/>
+    <circle cx="198" cy="74.8" r="14.86" fill="#e6e6e6"/>
+    <circle cx="184" cy="86" r="12.9" fill="#e6e6e6"/>
+    <circle cx="212" cy="86" r="12.9" fill="#e6e6e6"/>
+    <circle cx="191" cy="94.4" r="11.5" fill="#e6e6e6"/>
+    <circle cx="205.84" cy="94.4" r="11.5" fill="#e6e6e6"/>
+    <circle cx="198" cy="84.6" r="14.3" fill="#e6e6e6"/>
+    <line x1="220" y1="150" x2="232" y2="58" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="244" y1="150" x2="232" y2="58" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="286" y1="150" x2="298" y2="58" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="310" y1="150" x2="298" y2="58" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="232" y1="58" x2="298" y2="58" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+    <line x1="254" y1="58" x2="254" y2="120" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    <line x1="276" y1="58" x2="276" y2="120" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    <rect x="249" y="120" width="32" height="7" rx="2" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+    <line x1="176" y1="150" x2="312" y2="150" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="342" y="20" width="116" height="130" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <line x1="342" y1="63" x2="458" y2="63" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <rect x="348" y="29" width="11" height="34" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="361" y="35" width="11" height="28" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="374" y="27" width="11" height="36" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="387" y="33" width="11" height="30" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="400" y="29" width="11" height="34" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="413" y="37" width="11" height="26" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="426" y="31" width="11" height="32" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="439" y="27" width="11" height="36" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <line x1="342" y1="106" x2="458" y2="106" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <rect x="348" y="76" width="11" height="30" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="361" y="72" width="11" height="34" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="374" y="80" width="11" height="26" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="387" y="74" width="11" height="32" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="400" y="70" width="11" height="36" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="413" y="78" width="11" height="28" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="426" y="72" width="11" height="34" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="439" y="72" width="11" height="34" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <line x1="342" y1="149" x2="458" y2="149" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <rect x="348" y="117" width="11" height="32" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="361" y="113" width="11" height="36" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="374" y="121" width="11" height="28" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="387" y="115" width="11" height="34" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="400" y="115" width="11" height="34" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <rect x="413" y="121" width="11" height="28" fill="#fff" stroke="#111" stroke-width="1.6"/>
+    <rect x="426" y="113" width="11" height="36" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+    <rect x="439" y="119" width="11" height="30" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+    <line x1="615" y1="34" x2="625" y2="34" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="609.44" y1="47.44" x2="616.51" y2="54.51" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="596" y1="53" x2="596" y2="63" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="582.56" y1="47.44" x2="575.49" y2="54.51" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="577" y1="34" x2="567" y2="34" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="582.56" y1="20.56" x2="575.49" y2="13.49" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="596" y1="15" x2="596" y2="5" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <line x1="609.44" y1="20.56" x2="616.51" y2="13.49" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="596" cy="34" r="13" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+    <path d="M 494 104 q 11 -8 22 0 t 22 0 t 22 0 t 22 0 t 22 0 t 22 0" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 494 122 q 11 -8 22 0 t 22 0 t 22 0 t 22 0 t 22 0 t 22 0" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <line x1="540" y1="64" x2="550" y2="150" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 498 70 Q 532 18 578 58 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 498 70 Q 520 60 538 64 Q 560 56 578 58" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

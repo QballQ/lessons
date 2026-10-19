@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" width="300" height="190">
+  <title>A cat sitting on a striped mat</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- mat with fringe -->
+    <rect x="45" y="150" width="210" height="28" rx="4" fill="#e6e6e6"/>
+    <path d="M80 150 V178 M115 150 V178 M150 150 V178 M185 150 V178 M220 150 V178" fill="none" stroke-width="1.6"/>
+    <path d="M45 155 H35 M45 161 H35 M45 167 H35 M45 173 H35 M255 155 H265 M255 161 H265 M255 167 H265 M255 173 H265" fill="none" stroke-width="1.8"/>
+    <!-- tail: a dark outline with a light middle -->
+    <path d="M184 146 C232 146 240 108 214 96" fill="none" stroke-width="13"/>
+    <path d="M184 146 C232 146 240 108 214 96" fill="none" stroke="#e6e6e6" stroke-width="7.5"/>
+    <!-- body -->
+    <path d="M108 152 C98 112 114 86 150 86 C186 86 202 112 192 152 Z" fill="#e6e6e6"/>
+    <path d="M150 104 V150" fill="none" stroke-width="1.6"/>
+    <!-- front paws -->
+    <ellipse cx="135" cy="150" rx="13" ry="7" fill="#fff"/>
+    <ellipse cx="165" cy="150" rx="13" ry="7" fill="#fff"/>
+    <!-- ears, then head -->
+    <path d="M123 52 L117 17 L146 37 Z" fill="#e6e6e6"/>
+    <path d="M177 52 L183 17 L154 37 Z" fill="#e6e6e6"/>
+    <path d="M124 44 L121 27 L135 37" fill="none" stroke-width="1.6"/>
+    <path d="M176 44 L179 27 L165 37" fill="none" stroke-width="1.6"/>
+    <circle cx="150" cy="62" r="34" fill="#e6e6e6"/>
+    <!-- stripes on the head -->
+    <path d="M143 30 V39 M150 28.5 V40 M157 30 V39" fill="none" stroke-width="2"/>
+    <!-- face -->
+    <ellipse cx="137" cy="58" rx="5" ry="7" fill="#111"/>
+    <ellipse cx="163" cy="58" rx="5" ry="7" fill="#111"/>
+    <path d="M145 69 H155 L150 75 Z" fill="#111"/>
+    <path d="M150 75 Q145 82 139 78 M150 75 Q155 82 161 78" fill="none" stroke-width="2"/>
+    <path d="M128 70 H101 M128 77 L103 84 M172 70 H199 M172 77 L197 84" fill="none" stroke-width="1.8"/>
+  </g>
+</svg>

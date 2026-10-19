@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" width="360" height="150">
+  <title>A long, fast train with a pointed nose moving along the track past some hills</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hills -->
+    <path d="M60 50 Q100 22 140 46 Q180 18 230 44 Q262 28 300 40" fill="none" stroke-width="1.8" stroke="#7a7a7a"/>
+    <!-- speed lines -->
+    <path d="M2 64 H14 M0 80 H14 M2 96 H14" fill="none" stroke-width="2.2"/>
+    <!-- track -->
+    <path d="M24 132 V140 M54 132 V140 M84 132 V140 M114 132 V140 M144 132 V140 M174 132 V140 M204 132 V140 M234 132 V140 M264 132 V140 M294 132 V140 M324 132 V140" fill="none" stroke-width="4" stroke="#7a7a7a"/>
+    <path d="M4 128 H356 M4 133 H356" fill="none" stroke-width="2"/>
+    <!-- wheels -->
+    <circle cx="50" cy="122" r="5.5" fill="#7a7a7a"/>
+    <circle cx="74" cy="122" r="5.5" fill="#7a7a7a"/>
+    <circle cx="250" cy="122" r="5.5" fill="#7a7a7a"/>
+    <circle cx="274" cy="122" r="5.5" fill="#7a7a7a"/>
+    <!-- body with a long pointed nose -->
+    <path d="M20 118 V58 Q20 48 30 48 H220 C280 48 326 82 348 116 L348 118 Z" fill="#fff"/>
+    <!-- stripe -->
+    <path d="M20 94 H302 L316 104 H20 Z" fill="#bdbdbd" stroke-width="1.8"/>
+    <!-- windows -->
+    <rect x="34" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <rect x="66" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <rect x="98" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <rect x="130" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <rect x="162" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <rect x="194" y="60" width="22" height="18" rx="4" fill="#e6e6e6" stroke-width="2"/>
+    <!-- door -->
+    <rect x="224" y="58" width="16" height="34" rx="3" fill="#fff" stroke-width="2"/>
+    <!-- front window -->
+    <path d="M252 54 C276 58 294 70 306 84 H256 Z" fill="#7a7a7a" stroke-width="2"/>
+  </g>
+</svg>

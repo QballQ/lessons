@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 170" width="380" height="170">
+  <title>A long dragon boat on the water, with a dragon head at the front, a row of paddlers and a drummer beating a drum</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- water -->
+    <path d="M4 148 Q19 140 34 148 T64 148 T94 148 T124 148 T154 148 T184 148 T214 148 T244 148 T274 148 T304 148 T334 148 T364 148 T376 146" fill="none" stroke-width="2"/>
+    <path d="M30 162 Q45 154 60 162 T90 162 T120 162 T150 162 T180 162 T210 162 T240 162 T270 162 T300 162 T330 162 T350 160" fill="none" stroke-width="2" stroke="#7a7a7a"/>
+    <!-- paddles (behind the boat) -->
+    <path d="M86 104 L74 146 M120 104 L108 146 M154 104 L142 146 M188 104 L176 146 M222 104 L210 146 M256 104 L244 146" fill="none" stroke-width="2.5"/>
+    <ellipse cx="73" cy="146" rx="4" ry="8" transform="rotate(16 73 146)" fill="#7a7a7a"/>
+    <ellipse cx="107" cy="146" rx="4" ry="8" transform="rotate(16 107 146)" fill="#7a7a7a"/>
+    <ellipse cx="141" cy="146" rx="4" ry="8" transform="rotate(16 141 146)" fill="#7a7a7a"/>
+    <ellipse cx="175" cy="146" rx="4" ry="8" transform="rotate(16 175 146)" fill="#7a7a7a"/>
+    <ellipse cx="209" cy="146" rx="4" ry="8" transform="rotate(16 209 146)" fill="#7a7a7a"/>
+    <ellipse cx="243" cy="146" rx="4" ry="8" transform="rotate(16 243 146)" fill="#7a7a7a"/>
+    <!-- paddlers -->
+    <path d="M80 110 Q80 96 90 96 Q100 96 100 110 Z M114 110 Q114 96 124 96 Q134 96 134 110 Z M148 110 Q148 96 158 96 Q168 96 168 110 Z M182 110 Q182 96 192 96 Q202 96 202 110 Z M216 110 Q216 96 226 96 Q236 96 236 110 Z M250 110 Q250 96 260 96 Q270 96 270 110 Z" fill="#bdbdbd"/>
+    <circle cx="90" cy="88" r="8" fill="#fff"/>
+    <circle cx="124" cy="88" r="8" fill="#fff"/>
+    <circle cx="158" cy="88" r="8" fill="#fff"/>
+    <circle cx="192" cy="88" r="8" fill="#fff"/>
+    <circle cx="226" cy="88" r="8" fill="#fff"/>
+    <circle cx="260" cy="88" r="8" fill="#fff"/>
+    <!-- drummer and drum near the front -->
+    <path d="M301 94 L316 76" fill="none" stroke-width="2.5"/>
+    <circle cx="294" cy="86" r="8" fill="#fff"/>
+    <path d="M284 110 Q284 95 294 95 Q304 95 304 110 Z" fill="#bdbdbd"/>
+    <path d="M308 96 V110 H336 V96" fill="#e6e6e6"/>
+    <ellipse cx="322" cy="96" rx="14" ry="5" fill="#fff"/>
+    <!-- dragon tail at the back -->
+    <path d="M48 112 C30 108 14 94 22 74 C26 88 36 98 54 100 Z" fill="#e6e6e6"/>
+    <!-- hull with scales -->
+    <path d="M36 110 H344 Q336 138 306 138 H70 Q44 138 36 110 Z" fill="#bdbdbd"/>
+    <path d="M80 122 Q90 130 100 122 Q110 130 120 122 Q130 130 140 122 Q150 130 160 122 Q170 130 180 122 Q190 130 200 122 Q210 130 220 122 Q230 130 240 122 Q250 130 260 122 Q270 130 280 122 Q290 130 300 122" fill="none" stroke-width="1.6"/>
+    <!-- dragon neck and head at the front -->
+    <path d="M330 112 C344 100 344 78 352 64 L366 70 C360 84 356 100 350 112 Z" fill="#e6e6e6"/>
+    <path d="M344 66 Q348 48 364 50 L377 60 L364 62 L373 70 L356 72 Z" fill="#e6e6e6"/>
+    <path d="M352 52 L346 38 M358 50 L356 36" fill="none" stroke-width="2"/>
+  </g>
+  <circle cx="360" cy="57" r="2.6" fill="#111"/>
+</svg>

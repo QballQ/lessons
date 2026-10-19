@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 210" width="340" height="210">
+  <title>A boy on the grass in a park holding the string of a kite that is flying high in the sky</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- sun -->
+    <circle cx="44" cy="40" r="17" fill="#e6e6e6"/>
+    <path d="M44 13 V5 M44 67 V75 M17 40 H9 M71 40 H79 M25 21 L19 15 M63 21 L69 15 M25 59 L19 65 M63 59 L69 65" fill="none" stroke-width="2.2"/>
+    <!-- cloud -->
+    <path d="M128 52 Q122 36 138 34 Q144 20 160 27 Q174 20 180 35 Q195 37 190 52 Z" fill="#fff"/>
+    <!-- string from the hand to the kite -->
+    <path d="M128 121 Q190 112 256 74" fill="none" stroke-width="1.6"/>
+    <!-- kite tail with bows -->
+    <path d="M262 108 Q248 124 262 140 Q276 156 262 172" fill="none" stroke-width="2"/>
+    <path d="M255 124 L262 128 L255 133 Z M269 124 L262 128 L269 133 Z" fill="#7a7a7a" stroke-width="1.8"/>
+    <path d="M261 152 L268 156 L261 161 Z M275 152 L268 156 L275 161 Z" fill="#7a7a7a" stroke-width="1.8"/>
+    <!-- kite -->
+    <path d="M262 14 L296 56 L262 108 L228 56 Z" fill="#bdbdbd"/>
+    <path d="M262 14 V108 M228 56 H296" fill="none" stroke-width="1.8"/>
+    <!-- grass -->
+    <path d="M6 196 H334" fill="none"/>
+    <path d="M30 196 L34 188 L38 196 M160 196 L164 188 L168 196 M220 196 L224 188 L228 196 M300 196 L304 188 L308 196" fill="none" stroke-width="2"/>
+    <!-- boy -->
+    <path d="M94 170 L93 191 M106 170 L107 191" fill="none" stroke-width="3"/>
+    <ellipse cx="90" cy="193" rx="6" ry="3.5" fill="#111"/>
+    <ellipse cx="110" cy="193" rx="6" ry="3.5" fill="#111"/>
+    <path d="M90 140 L78 160" fill="none" stroke-width="3"/>
+    <path d="M110 140 L127 121" fill="none" stroke-width="3"/>
+    <path d="M88 158 H112 V172 H102 L100 166 L98 172 H88 Z" fill="#7a7a7a"/>
+    <path d="M89 134 H111 L113 160 H87 Z" fill="#bdbdbd"/>
+    <circle cx="100" cy="117" r="15" fill="#fff"/>
+    <path d="M85 115 Q86 100 100 101 Q114 100 115 115 Q109 107 100 107 Q91 107 85 115 Z" fill="#111"/>
+    <path d="M94 124 Q100 129 106 124" fill="none" stroke-width="2"/>
+  </g>
+  <circle cx="95" cy="117" r="1.8" fill="#111"/>
+  <circle cx="105" cy="117" r="1.8" fill="#111"/>
+</svg>

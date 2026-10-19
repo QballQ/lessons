@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 180" width="340" height="180">
+  <title>A football flying fast into a goal net</title>
+  <defs>
+    <pattern id="net" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0 0 H14 M0 0 V14" fill="none" stroke="#7a7a7a" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <g stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ground -->
+    <path d="M6 168 H334" fill="none"/>
+    <!-- net and goal frame -->
+    <rect x="40" y="34" width="190" height="134" fill="url(#net)" stroke="none"/>
+    <path d="M40 168 V34 H230 V168" fill="none" stroke-width="6"/>
+    <!-- speed lines behind the ball -->
+    <path d="M232 92 H300 M240 104 H318 M232 116 H296" fill="none" stroke-width="2.2"/>
+    <!-- ball -->
+    <circle cx="206" cy="104" r="22" fill="#fff"/>
+    <path d="M206 95 L214.6 101.2 L211.3 111.3 H200.7 L197.4 101.2 Z" fill="#111" stroke-width="1.5"/>
+    <path d="M206 95 V82 M214.6 101.2 L226.5 97.5 M211.3 111.3 L218.5 121.5 M200.7 111.3 L193.5 121.5 M197.4 101.2 L185.5 97.5" fill="none" stroke-width="1.8"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A diamond-shaped kite with a cross frame. Letter A is on the kite, letter B points to the tail with bows, letter C points to the string.</title>
+<polygon points="100,20 160,95 100,210 40,95" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="100" y1="20" x2="100" y2="210" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<line x1="40" y1="95" x2="160" y2="95" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<path d="M100,210 C70,236 135,252 100,288" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="82,225 82,239 92,232" fill="#7a7a7a" stroke="#111" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="102,225 102,239 92,232" fill="#7a7a7a" stroke="#111" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="101,251 101,265 111,258" fill="#7a7a7a" stroke="#111" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="121,251 121,265 111,258" fill="#7a7a7a" stroke="#111" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M70,152 Q35,220 14,296" fill="none" stroke="#111" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="122" y="82" font-size="21" font-weight="700" fill="#111">A</text>
+<text x="148" y="268" font-size="21" font-weight="700" fill="#111">B</text>
+<line x1="144" y1="262" x2="122" y2="258" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+<text x="4" y="196" font-size="21" font-weight="700" fill="#111">C</text>
+<line x1="16" y1="202" x2="34" y2="216" stroke="#111" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

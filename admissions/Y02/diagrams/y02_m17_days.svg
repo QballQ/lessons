@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 226" width="500" height="226">
+  <title>Two calendar pages. The first, labelled Today, says Friday. The second, labelled Tomorrow, is empty.</title>
+  <text x="110" y="30" font-family="Andika, Atkinson Hyperlegible, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#111">Today</text>
+  <rect x="10" y="46" width="200" height="170" rx="10" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="10" y="46" width="200" height="36" rx="10" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <rect x="11.5" y="70" width="197" height="12" fill="#bdbdbd"/>
+  <circle cx="60" cy="58" r="7" fill="#fff" stroke="#111" stroke-width="2.5"/><circle cx="160" cy="58" r="7" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="110" y="160" font-family="Andika, Atkinson Hyperlegible, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#111">Friday</text>
+  <text x="390" y="30" font-family="Andika, Atkinson Hyperlegible, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#111">Tomorrow</text>
+  <rect x="290" y="46" width="200" height="170" rx="10" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="290" y="46" width="200" height="36" rx="10" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <rect x="291.5" y="70" width="197" height="12" fill="#bdbdbd"/>
+  <circle cx="340" cy="58" r="7" fill="#fff" stroke="#111" stroke-width="2.5"/><circle cx="440" cy="58" r="7" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  
+  <path d="M222 140 L268 140 M254 126 L268 140 L254 154" fill="none" stroke="#111" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

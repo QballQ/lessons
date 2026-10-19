@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 182" width="300" height="182" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A recipe card. Dumplings, for 4 people: 200 g flour, 100 ml water, 300 g pork, 150 g cabbage. A picture of two dumplings on a plate.</title>
+<rect x="2" y="2" width="296" height="178" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+<text x="18" y="36" font-size="22" font-weight="700" fill="#111">Dumplings</text>
+<text x="18" y="60" font-size="17" fill="#111">For 4 people</text>
+<circle cx="24" cy="86" r="3.2" fill="#111" stroke="none"/>
+<text x="34" y="92" font-size="17" fill="#111">200 g flour</text>
+<circle cx="24" cy="110" r="3.2" fill="#111" stroke="none"/>
+<text x="34" y="116" font-size="17" fill="#111">100 ml water</text>
+<circle cx="24" cy="134" r="3.2" fill="#111" stroke="none"/>
+<text x="34" y="140" font-size="17" fill="#111">300 g pork</text>
+<circle cx="24" cy="158" r="3.2" fill="#111" stroke="none"/>
+<text x="34" y="164" font-size="17" fill="#111">150 g cabbage</text>
+<ellipse cx="236" cy="150" rx="54" ry="14" fill="#bdbdbd" stroke="#111" stroke-width="2.2"/>
+<path d="M186,142 Q219.0,158 252,142 Q219.0,98 186,142 Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M199.2,127.9 Q201.7,133.9 199.2,138.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M212.4,120.9 Q214.9,126.9 212.4,131.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M225.6,120.9 Q228.1,126.9 225.6,131.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M238.8,127.9 Q241.3,133.9 238.8,138.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M222,130 Q255.0,146 288,130 Q255.0,86 222,130 Z" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M235.2,115.9 Q237.7,121.9 235.2,126.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M248.4,108.9 Q250.9,114.9 248.4,119.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M261.6,108.9 Q264.1,114.9 261.6,119.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M274.8,115.9 Q277.3,121.9 274.8,126.9" fill="none" stroke="#111" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

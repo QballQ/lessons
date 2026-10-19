@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 322" width="500" height="322" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A line graph of heart rate against time. Jun sits from 0 to 2 minutes, runs from 2 to 5 minutes, then sits from 5 to 10 minutes. Heart rate in beats per minute at each minute from 0 to 10: 70, 70, 70, 110, 130, 140, 120, 100, 80, 70, 70.</title>
+<rect x="154" y="38" width="123" height="224" fill="#e6e6e6" stroke="none"/>
+<line x1="72" y1="262" x2="482" y2="262" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="248" x2="482" y2="248" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="234" x2="482" y2="234" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="220" x2="482" y2="220" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="206" x2="482" y2="206" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="192" x2="482" y2="192" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="178" x2="482" y2="178" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="164" x2="482" y2="164" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="150" x2="482" y2="150" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="136" x2="482" y2="136" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="122" x2="482" y2="122" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="108" x2="482" y2="108" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="94" x2="482" y2="94" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="80" x2="482" y2="80" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="66" x2="482" y2="66" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="52" x2="482" y2="52" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="38" x2="482" y2="38" stroke="#9a9a9a" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="72" y1="262" x2="72" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="113" y1="262" x2="113" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="154" y1="262" x2="154" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="195" y1="262" x2="195" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="236" y1="262" x2="236" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="277" y1="262" x2="277" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="318" y1="262" x2="318" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="359" y1="262" x2="359" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="400" y1="262" x2="400" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="441" y1="262" x2="441" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="482" y1="262" x2="482" y2="38" stroke="#bdbdbd" stroke-width="1" stroke-linecap="round"/>
+<line x1="72" y1="262" x2="486" y2="262" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="72" y1="262" x2="72" y2="34" stroke="#111" stroke-width="2.2" stroke-linecap="round"/>
+<text x="65" y="267" font-size="15" text-anchor="end" fill="#111">0</text>
+<text x="65" y="239" font-size="15" text-anchor="end" fill="#111">20</text>
+<text x="65" y="211" font-size="15" text-anchor="end" fill="#111">40</text>
+<text x="65" y="183" font-size="15" text-anchor="end" fill="#111">60</text>
+<text x="65" y="155" font-size="15" text-anchor="end" fill="#111">80</text>
+<text x="65" y="127" font-size="15" text-anchor="end" fill="#111">100</text>
+<text x="65" y="99" font-size="15" text-anchor="end" fill="#111">120</text>
+<text x="65" y="71" font-size="15" text-anchor="end" fill="#111">140</text>
+<text x="65" y="43" font-size="15" text-anchor="end" fill="#111">160</text>
+<text x="72" y="283" font-size="15" text-anchor="middle" fill="#111">0</text>
+<text x="113" y="283" font-size="15" text-anchor="middle" fill="#111">1</text>
+<text x="154" y="283" font-size="15" text-anchor="middle" fill="#111">2</text>
+<text x="195" y="283" font-size="15" text-anchor="middle" fill="#111">3</text>
+<text x="236" y="283" font-size="15" text-anchor="middle" fill="#111">4</text>
+<text x="277" y="283" font-size="15" text-anchor="middle" fill="#111">5</text>
+<text x="318" y="283" font-size="15" text-anchor="middle" fill="#111">6</text>
+<text x="359" y="283" font-size="15" text-anchor="middle" fill="#111">7</text>
+<text x="400" y="283" font-size="15" text-anchor="middle" fill="#111">8</text>
+<text x="441" y="283" font-size="15" text-anchor="middle" fill="#111">9</text>
+<text x="482" y="283" font-size="15" text-anchor="middle" fill="#111">10</text>
+<text x="277" y="314" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Time (minutes)</text>
+<text x="20" y="150" font-size="16" text-anchor="middle" font-weight="700" fill="#111" transform="rotate(-90 20 150)">Heart rate (beats per minute)</text>
+<rect x="181.8" y="42" width="67.5" height="20" fill="#e6e6e6" stroke="none"/>
+<text x="215.5" y="57" font-size="15" text-anchor="middle" font-weight="700" fill="#111">running</text>
+<rect x="79.2" y="42" width="67.5" height="20" fill="#fff" stroke="none"/>
+<text x="113" y="57" font-size="15" text-anchor="middle" fill="#111">sitting</text>
+<rect x="345.8" y="42" width="67.5" height="20" fill="#fff" stroke="none"/>
+<text x="379.5" y="57" font-size="15" text-anchor="middle" fill="#111">sitting</text>
+<polyline points="72,164 113,164 154,164 195,108 236,80 277,66 318,94 359,122 400,150 441,164 482,164" fill="none" stroke="#111" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="72" cy="164" r="4.5" fill="#111" stroke="none"/>
+<circle cx="113" cy="164" r="4.5" fill="#111" stroke="none"/>
+<circle cx="154" cy="164" r="4.5" fill="#111" stroke="none"/>
+<circle cx="195" cy="108" r="4.5" fill="#111" stroke="none"/>
+<circle cx="236" cy="80" r="4.5" fill="#111" stroke="none"/>
+<circle cx="277" cy="66" r="4.5" fill="#111" stroke="none"/>
+<circle cx="318" cy="94" r="4.5" fill="#111" stroke="none"/>
+<circle cx="359" cy="122" r="4.5" fill="#111" stroke="none"/>
+<circle cx="400" cy="150" r="4.5" fill="#111" stroke="none"/>
+<circle cx="441" cy="164" r="4.5" fill="#111" stroke="none"/>
+<circle cx="482" cy="164" r="4.5" fill="#111" stroke="none"/>
+</svg>

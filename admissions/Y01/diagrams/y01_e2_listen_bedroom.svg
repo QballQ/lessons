@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 790" width="690" height="790">
+  <title>A bedroom. A window with the sun in it, a clock on the wall, a shelf with a toy car, a toy duck and a toy boat, and books on the shelf below. A desk with a lamp and a book next to the lamp. A chair with a ball on it. A bed with a teddy on it and a ball under it. A pair of shoes on the floor. A cat sitting on the rug.</title>
+  <defs>
+    <g id="ball">
+      <circle cx="0" cy="0" r="23" fill="#fff" stroke="#111" stroke-width="3"/>
+      <path d="M0 -23 C-14 -8 -14 8 0 23 C14 8 14 -8 0 -23 Z" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+      <path d="M-23 0 L23 0" stroke="#111" stroke-width="2"/>
+    </g>
+    <g id="shoe">
+      <path d="M0 0 L46 0 Q52 0 52 -7 L48 -13 L30 -17 L18 -26 L4 -26 Q0 -26 0 -20 Z" fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M0 -5 L52 -5" stroke="#111" stroke-width="2"/>
+      <path d="M14 -20 l6 4 M20 -24 l6 4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <!-- floor -->
+  <line x1="0" y1="560" x2="690" y2="560" stroke="#111" stroke-width="3"/>
+  <g stroke="#e6e6e6" stroke-width="2"><line x1="0" y1="630" x2="690" y2="630"/><line x1="0" y1="710" x2="690" y2="710"/></g>
+  <!-- window with curtains: the sun is in the window -->
+  <line x1="214" y1="40" x2="476" y2="40" stroke="#111" stroke-width="5" stroke-linecap="round"/>
+  <rect x="250" y="52" width="190" height="198" fill="#fff" stroke="#111" stroke-width="5"/>
+  <g stroke="#111" stroke-width="3" stroke-linecap="round">
+    <line x1="295" y1="70" x2="295" y2="62"/><line x1="295" y1="130" x2="295" y2="138"/><line x1="265" y1="100" x2="258" y2="100"/><line x1="325" y1="100" x2="332" y2="100"/>
+    <line x1="274" y1="79" x2="268" y2="73"/><line x1="316" y1="79" x2="322" y2="73"/><line x1="274" y1="121" x2="268" y2="127"/><line x1="316" y1="121" x2="322" y2="127"/>
+  </g>
+  <circle cx="295" cy="100" r="22" fill="#fff" stroke="#111" stroke-width="3"/>
+  <g stroke="#111" stroke-width="5" fill="#fff"><circle cx="378" cy="98" r="14"/><circle cx="396" cy="90" r="17"/><circle cx="414" cy="99" r="13"/></g>
+  <g fill="#fff"><circle cx="378" cy="98" r="14"/><circle cx="396" cy="90" r="17"/><circle cx="414" cy="99" r="13"/><rect x="372" y="96" width="46" height="12"/></g>
+  <line x1="372" y1="110" x2="420" y2="110" stroke="#111" stroke-width="2.5"/>
+  <line x1="345" y1="52" x2="345" y2="250" stroke="#111" stroke-width="4"/><line x1="250" y1="151" x2="440" y2="151" stroke="#111" stroke-width="4"/>
+  <path d="M222 44 L254 44 Q244 150 258 272 L222 272 Q232 150 222 44 Z" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M436 44 L468 44 Q458 150 468 272 L432 272 Q446 150 436 44 Z" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <!-- clock -->
+  <circle cx="600" cy="112" r="50" fill="#fff" stroke="#111" stroke-width="5"/>
+  <g stroke="#111" stroke-width="3" stroke-linecap="round">
+    <line x1="600" y1="68" x2="600" y2="78"/><line x1="600" y1="146" x2="600" y2="156"/><line x1="556" y1="112" x2="566" y2="112"/><line x1="634" y1="112" x2="644" y2="112"/>
+    <line x1="622" y1="74" x2="618" y2="81"/><line x1="638" y1="90" x2="631" y2="94"/><line x1="638" y1="134" x2="631" y2="130"/><line x1="622" y1="150" x2="618" y2="143"/>
+    <line x1="578" y1="150" x2="582" y2="143"/><line x1="562" y1="134" x2="569" y2="130"/><line x1="562" y1="90" x2="569" y2="94"/><line x1="578" y1="74" x2="582" y2="81"/>
+  </g>
+  <line x1="600" y1="112" x2="600" y2="80" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+  <line x1="600" y1="112" x2="624" y2="112" stroke="#111" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="600" cy="112" r="5" fill="#111"/>
+  <!-- shelves -->
+  <g fill="#bdbdbd" stroke="#111" stroke-width="3">
+    <rect x="18" y="165" width="200" height="12"/><rect x="18" y="290" width="200" height="12"/>
+  </g>
+  <g fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <polygon points="36,177 56,177 36,197"/><polygon points="200,177 180,177 200,197"/><polygon points="36,302 56,302 36,322"/><polygon points="200,302 180,302 200,322"/>
+  </g>
+  <g transform="translate(-6 0)">
+  <!-- toy car -->
+  <path d="M28 156 L28 140 Q28 134 34 134 L46 134 L56 120 L80 120 L90 134 L94 134 Q100 134 100 140 L100 156 Z" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 124 L60 134 M76 124 L84 134" stroke="#111" stroke-width="2"/>
+  <g fill="#7a7a7a" stroke="#111" stroke-width="2.5"><circle cx="46" cy="156" r="9"/><circle cx="84" cy="156" r="9"/></g>
+  </g>
+  <g transform="translate(5 0)">
+  <!-- toy duck -->
+  <path d="M110 150 Q110 165 132 165 Q152 165 156 146 L148 148 Q144 140 132 140 L122 140 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="122" cy="130" r="12" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <polygon points="110,128 98,133 110,138" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="119" cy="127" r="2.5" fill="#111"/>
+  <path d="M128 152 Q138 158 146 150" fill="none" stroke="#111" stroke-width="2"/>
+  </g>
+  <g transform="translate(4 0)">
+  <!-- toy boat -->
+  <polygon points="164,146 214,146 204,165 172,165" fill="#bdbdbd" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="188" y1="146" x2="188" y2="96" stroke="#111" stroke-width="3"/>
+  <polygon points="190,100 190,142 212,142" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="186,104 186,142 168,142" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+  <!-- books on the lower shelf -->
+  <g stroke="#111" stroke-width="2.5">
+    <rect x="34" y="220" width="24" height="70" fill="#7a7a7a"/><rect x="58" y="230" width="20" height="60" fill="#e6e6e6"/>
+    <rect x="78" y="214" width="28" height="76" fill="#bdbdbd"/><rect x="106" y="226" width="20" height="64" fill="#fff"/>
+    <polygon points="128,290 150,290 178,236 158,228" fill="#e6e6e6" stroke-linejoin="round"/>
+  </g>
+  <g stroke="#111" stroke-width="2"><line x1="34" y1="232" x2="58" y2="232"/><line x1="34" y1="278" x2="58" y2="278"/><line x1="78" y1="228" x2="106" y2="228"/><line x1="78" y1="276" x2="106" y2="276"/></g>
+  <!-- desk with a lamp and a book next to the lamp -->
+  <rect x="236" y="378" width="222" height="14" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <g fill="#bdbdbd" stroke="#111" stroke-width="3"><rect x="244" y="392" width="14" height="168"/><rect x="436" y="392" width="14" height="168"/></g>
+  <rect x="372" y="392" width="64" height="44" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+  <circle cx="404" cy="414" r="4" fill="#111"/>
+  <ellipse cx="276" cy="375" rx="24" ry="6" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+  <line x1="276" y1="372" x2="276" y2="324" stroke="#111" stroke-width="4"/>
+  <polygon points="250,326 302,326 290,282 262,282" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="316" y="308" width="26" height="70" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+  <g stroke="#111" stroke-width="2"><line x1="316" y1="320" x2="342" y2="320"/><line x1="316" y1="366" x2="342" y2="366"/></g>
+  <!-- chair with a ball on it -->
+  <rect x="78" y="318" width="14" height="242" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <rect x="78" y="438" width="120" height="14" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <rect x="184" y="452" width="14" height="108" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <use href="#ball" x="140" y="415"/>
+  <!-- bed with a teddy on it and a ball under it -->
+  <rect x="652" y="372" width="30" height="188" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <g fill="#bdbdbd" stroke="#111" stroke-width="3"><rect x="474" y="508" width="14" height="52"/><rect x="636" y="508" width="14" height="52"/></g>
+  <rect x="466" y="478" width="186" height="30" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
+  <rect x="466" y="452" width="186" height="26" fill="#fff" stroke="#111" stroke-width="3"/>
+  <ellipse cx="616" cy="444" rx="32" ry="15" fill="#fff" stroke="#111" stroke-width="3"/>
+  <path d="M460 452 Q520 440 596 448 Q602 476 598 502 Q584 510 570 502 Q556 494 542 502 Q528 510 514 502 Q500 494 486 502 Q472 510 460 502 Z" fill="#e6e6e6" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M572 446 Q578 476 574 504" fill="none" stroke="#111" stroke-width="2.5"/>
+  <path d="M480 470 Q500 462 520 470 M520 486 Q540 478 560 486" fill="none" stroke="#7a7a7a" stroke-width="2"/>
+  <use href="#ball" x="560" y="535"/>
+  <!-- teddy sitting on the bed -->
+  <g stroke="#111" stroke-width="2.5" fill="#bdbdbd">
+    <circle cx="512" cy="372" r="9"/><circle cx="544" cy="372" r="9"/>
+    <ellipse cx="514" cy="444" rx="10" ry="8"/><ellipse cx="542" cy="444" rx="10" ry="8"/>
+    <ellipse cx="528" cy="424" rx="22" ry="24"/>
+    <ellipse cx="506" cy="418" rx="7" ry="13" transform="rotate(20 506 418)"/><ellipse cx="550" cy="418" rx="7" ry="13" transform="rotate(-20 550 418)"/>
+    <circle cx="528" cy="388" r="20"/>
+  </g>
+  <ellipse cx="528" cy="396" rx="9" ry="7" fill="#fff" stroke="#111" stroke-width="2"/>
+  <g fill="#111"><circle cx="521" cy="383" r="2.8"/><circle cx="535" cy="383" r="2.8"/><circle cx="528" cy="394" r="3"/></g>
+  <ellipse cx="528" cy="428" rx="11" ry="12" fill="#e6e6e6"/>
+  <!-- shoes on the floor -->
+  <use href="#shoe" transform="translate(548 622) scale(1.3)"/><use href="#shoe" transform="translate(608 630) scale(1.3)"/>
+  <!-- rug with a cat sitting on it -->
+  <ellipse cx="320" cy="700" rx="200" ry="64" fill="#e6e6e6" stroke="#111" stroke-width="3"/>
+  <ellipse cx="320" cy="700" rx="172" ry="46" fill="none" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="10 7"/>
+  <path d="M344 712 Q392 712 384 672 Q380 652 366 656" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M344 712 Q392 712 384 672 Q380 652 366 656" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M320 640 C282 640 278 716 296 716 L344 716 C362 716 358 640 320 640 Z" fill="#fff" stroke="#111" stroke-width="3"/>
+  <g fill="#fff" stroke="#111" stroke-width="3" stroke-linejoin="round"><polygon points="296,606 300,574 316,596"/><polygon points="344,606 340,574 324,596"/></g>
+  <circle cx="320" cy="618" r="28" fill="#fff" stroke="#111" stroke-width="3"/>
+  <g fill="#111"><circle cx="309" cy="614" r="3.5"/><circle cx="331" cy="614" r="3.5"/></g>
+  <path d="M316 624 L324 624 L320 629 Z" fill="#7a7a7a"/>
+  <g stroke="#111" stroke-width="1.5" stroke-linecap="round"><path d="M304 628 l-20 -3 M304 632 l-20 4 M336 628 l20 -3 M336 632 l20 4"/></g>
+  <path d="M314 634 Q320 638 326 634" fill="none" stroke="#111" stroke-width="2"/>
+  <g stroke="#7a7a7a" stroke-width="3" stroke-linecap="round"><path d="M312 594 l2 8 M320 592 l0 8 M328 594 l-2 8"/><path d="M292 668 l12 2 M290 684 l12 2 M348 668 l-12 2 M350 684 l-12 2"/></g>
+  <g fill="#fff" stroke="#111" stroke-width="2.5"><ellipse cx="308" cy="714" rx="10" ry="6"/><ellipse cx="332" cy="714" rx="10" ry="6"/></g>
+</svg>

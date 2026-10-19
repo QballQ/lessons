@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" width="440" height="250" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>Two straight lines cross. The angle on the left of the crossing is 50 degrees. Angle a is on the right, opposite it. A line joins the two lines on the right to make a triangle with angles a, 75 degrees and b. Not drawn accurately.</title>
+<line x1="40.5" y1="191.7" x2="367.3" y2="39.3" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="40.5" y1="52.3" x2="391.2" y2="215.8" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="343.7" y1="50.3" x2="371.3" y2="206.5" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M162.8,109.3 A30,30 0 0 0 162.8,134.7" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="128" y="128" font-size="17" text-anchor="middle" fill="#111">50°</text>
+<path d="M217.2,134.7 A30,30 0 0 0 217.2,109.3" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="242" y="129" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">a</text>
+<path d="M322,60.5 A24,24 0 0 0 347.9,74" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="321.6" y="98.9" font-size="17" text-anchor="middle" fill="#111">75°</text>
+<path d="M366.7,180.9 A26,26 0 0 0 347.7,195.5" fill="none" stroke="#111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="343.3" y="176" font-size="19" text-anchor="middle" font-weight="700" font-style="italic" fill="#111">b</text>
+<text x="434" y="244" font-size="16" text-anchor="end" font-style="italic" fill="#111">Not drawn accurately</text>
+<!-- check: angle at P 75.00, angle at Q 55.00 -->
+</svg>

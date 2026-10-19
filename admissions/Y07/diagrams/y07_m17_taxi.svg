@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 130" width="250" height="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
+<title>A taxi</title>
+<rect x="94" y="14" width="62" height="22" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="125" y="31" font-size="16" text-anchor="middle" font-weight="700" fill="#111">TAXI</text>
+<path d="M70,64 L92,36 L160,36 L186,64 Z" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="126" y1="36" x2="126" y2="64" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+<rect x="20" y="62" width="210" height="40" rx="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+<line x1="20" y1="82" x2="230" y2="82" stroke="#111" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="6 4"/>
+<circle cx="70" cy="104" r="16" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+<circle cx="180" cy="104" r="16" fill="#7a7a7a" stroke="#111" stroke-width="2.5"/>
+<circle cx="70" cy="104" r="6" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<circle cx="180" cy="104" r="6" fill="#fff" stroke="#111" stroke-width="1.5"/>
+</svg>
