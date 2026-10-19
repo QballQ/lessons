@@ -34,7 +34,7 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not explain words, translate or read the reading texts aloud. You may repeat instructions in English. | Read any question aloud in English, as often as asked, and point to the picture. |
-| Chinese | Not used by staff. In English sections only English answers score, but note anything the student says or writes in Chinese, because it shows understanding. One exception: in the sentence reading meaning checks, a spoken answer in Chinese that shows understanding counts as understood (record **✓C**). | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. Answers in Chinese are accepted in explanations (mark **L**). |
+| Chinese | Not used by staff. All answers must be in English; an answer in Chinese scores 0. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. Answers must be in English; an answer or explanation in Chinese scores 0. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 - **Extra time or a reader** for a known need is allowed; record it in the score summary.
@@ -109,7 +109,7 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 
 **Say:** "Turn to the Reading pages. Read the texts and answer the questions. There are three parts. They get harder. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Start the timer. Do not read the texts or questions aloud, and do not explain words. You may repeat this instruction. Give a two-minute warning.
 
-**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question. Answers in Chinese do not score, but note them.
+**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question. Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: Greenway Sports Centre** (a notice; very accessible, with pictures)
 
@@ -279,7 +279,7 @@ Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and pe
 [[keep]]
 **What to look for**
 - Questions 2, 3 and 4 can be answered from the picture or the table with careful reading and reasoning, even if the topic is new: a student who gets them is thinking scientifically.
-- One-word answers are fine. If the student explains in Chinese (L), note how good the science is: this separates a science gap from an English barrier.
+- One-word answers are fine. Answers must be in English; an explanation in Chinese scores 0.
 [[/keep]]
 
 [[keep]]

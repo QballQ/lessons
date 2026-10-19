@@ -15,7 +15,7 @@ Complete within two working days, from the assessor booklet, reading records, in
 |---|---|---|
 | Listening | Listening task ___ / ___ ; listening in conversation | **A B C D E** |
 | Speaking | Interview (and picture talk, Years 1 to 3) | **A B C D E** |
-| Reading | Years 1 to 3: Early Reading Screen book band ______ accuracy ____% questions ___ ; phonics words ___ / 40 ; letter sounds ___ ; tricky words ___ / 20. Years 4 to 10: reading paper ___ / 24 (A ___ B ___ C ___) | **A B C D E** |
+| Reading | Years 1 to 3: Early Reading Screen book band ______ accuracy ____% questions ___ ; phonics words ___ / 40 ; letter sounds ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 10: reading paper ___ / 24 (A ___ B ___ C ___) | **A B C D E** |
 | Reading aloud | Sentence reading: points ___ / 72 ; reading age ______ ; actual age ______ ; meaning checks ___ ; fluency ___ | indicative **A B C D E** |
 | Writing | Writing task ___ / 16 | **A B C D E** |
 | **Overall English** | The band most of the four skills sit in. If one skill is two or more bands below the others, say which. | **A B C D E** |

@@ -112,7 +112,7 @@ Words skipped by a start rule are not scored: write "start rule" across them, an
 
 - Say only what the script says. Do not explain words, translate, sound out, or read the cards or passages aloud.
 - The child may ask for an instruction to be repeated in English. Repeat it as written.
-- Letters, words and passages must be read in English. For the **questions** about a passage, an answer in Chinese that shows the child understood counts as right: write down what they said and mark it C. The questions test reading, not speaking; C answers are evidence for the speaking band. The Graded Sentence Reading Screen uses the same rule.
+- Everything is in English: letters, words and passages are read in English, and the answers to the questions about a passage must be in English. An answer in Chinese scores 0.
 - Praise effort, never answers: "Thank you." "You are working hard." Do not say "good", "right" or "no" after a word.
 - The child may stop a part when they have done what they can. Never push a distressed child: take a break or stop, and record it.
 - Extra time or other arrangements for a known need: record them on the summary sheet.
@@ -208,7 +208,6 @@ A child who learnt pinyin may give an English letter its pinyin value. This is n
 | N | letter name instead of the sound (letter sounds only) | yes |
 | SO | sounds only: the child said the sounds but did not blend them (phonics words) | yes |
 | RW | a creature word read as a real word ("blom" read as "bloom") | yes |
-| C | answered a question in Chinese | no: it counts as right if it shows understanding; write down what was said |
 
 ## 5. Scripts and scoring
 
@@ -317,7 +316,7 @@ Each passage is matched to a book band and an Oxford Level (the levels used for 
 
 [[/keep]]
 
-**Questions:** 1 mark each. The child may look back at the story. Accept answers in the child's own words, one word, or a short phrase; grammar mistakes do not matter. Pointing counts only where the question asks the child to show. An answer in Chinese that shows understanding counts as right: write it down and mark C.
+**Questions:** 1 mark each. The child may look back at the story. Accept answers in the child's own words, one word, or a short phrase; grammar mistakes do not matter. Pointing counts only where the question asks the child to show. Answers must be in English; an answer in Chinese scores 0.
 
 **Book band level** = the highest passage read at **90% or more** with **at least half the questions** right.
 
@@ -358,7 +357,6 @@ Each passage is matched to a book band and an Oxford Level (the levels used for 
 |---|---|---|
 | Accuracy 95% or more, but fewer than half the questions right | **Decoding ahead of understanding.** The child can say the words but does not yet understand enough English. Common in children taught phonics in after-school classes. | The book band level is the level with understanding. Also record "decodes at" the highest passage read at 90% or more. The need is vocabulary and spoken English. |
 | Accuracy below 90%, but most questions right | **Understanding ahead of decoding.** Spoken English and meaning are strong; decoding is behind. Often a child from a bilingual school taught whole words, or a confident speaker who uses the pictures and the meaning. | The book band level is lower than the child's understanding. The need is systematic phonics; progress is often quick. |
-| Questions answered correctly in Chinese (C) | The child understood the English text but cannot yet say it in English. | The answers score 0, but note them: reading understanding is better than the score shows, and spoken English is the barrier. |
 | Low accuracy and few questions right | The passage is too hard. | The level below is the book band level. |
 
 ### 6.4 Vocabulary gaps

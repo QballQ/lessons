@@ -69,13 +69,13 @@ Write the child's name on the cover of the student booklet. Note how the child f
 | | English tasks: picture talk, listening, reading, writing | Maths |
 |---|---|---|
 | What you may say | Only the words in the script. Do not explain words, translate, point or show what to do. You may repeat an instruction once if the child asks or clearly did not hear: write **R**. | **Read every question aloud.** Repeat it in English as often as needed and point to the picture. You may show with counters, but do not do the question for the child. |
-| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score (except in the reading screens' questions: see 3.3). | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
-| Answers | English words, marks on the picture and pointing count. Answers in Chinese do not score (except as above). | Written numbers, ticks, drawings and spoken answers in English or Chinese all count. Mark a spoken Chinese answer **L**. |
+| Chinese | Not used by you. | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
+| Answers | English words, marks on the picture and pointing count. An answer in Chinese scores 0. | Written numbers, ticks, drawings and spoken answers in English all count. An answer in Chinese scores 0. |
 | Not yet taught | | If the child or parent tells you the child has not learnt a topic ("我们还没学"), mark **NT**. It scores 0; list it in the summary. |
 
 [[/keep]]
 
-Codes in this booklet: **R** instruction repeated once; **C** child spoke Chinese; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
+Codes in this booklet: **R** instruction repeated once; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
 
 #### Keeping the child at ease
 
@@ -143,7 +143,7 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 - A strong response tells the four pictures as one story, uses sequence words and the past tense, and gives reasons. A weak one names objects picture by picture.
 - Do not count against the child: missing -s and -ed, "a" and "the", "he" and "she" mixed up, accent features (l and r, light final consonants). They are normal for learners.
-- A child who tells the story well in Chinese (C) but cannot in English has an English barrier only. A child who says very little in either language may need a speech and language check: see the interview record.
+- A child who cannot tell the story in English but, as the parent describes, talks well in Chinese has an English barrier only. A child who says very little in either language may need a speech and language check: see the interview record.
 
 ### 3.2 Listening: follow instructions (4 minutes, 1:1 or pair, page 3)
 
@@ -193,7 +193,7 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at Section 1 of the phonics words, words 1 to 10 (Year 2 start point in the guide, Section 2). If words 1 to 10 are easy (9 or 10 right, most read without sounding out), skip the letter sounds; if not, finish Section 1 and then do the letter sounds. Then use the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. One rule differs from the other English tasks: in the questions about what the child has just read (passage questions and sentence meaning checks), a spoken answer in Chinese that shows understanding counts as understood; write it down and mark **C**. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. All answers are in English, including the answers to the questions about what the child has just read. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (6 minutes, 1:1 or pair, pages 11 and 12; given after maths)
 
@@ -305,7 +305,7 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | 13 | "Number 13. Put a tick under the cube." (wait) "Put a tick under the cylinder." | Ticks under the **cube** and the **cylinder**, and no other shape. 1 mark. | A tick under the square instead of the cube is the common slip. English names of 3D shapes may not have been taught. |
 | 14 WP | "Number 14. There are 3 rows of cakes. There are 5 cakes in each row. How many cakes are there? Write the answer in the box." | **15** | Counting in ones scores. Counting in fives is a sign of a stronger start. Arrays may not have been taught. |
 | 15 WP | "Number 15. Grandma has 12 mooncakes. She puts them on 3 plates. Each plate has the same number. How many mooncakes are on each plate? You can draw on the plates. Write the answer in the box." | **4** | Sharing (平均分) may not have been taught. |
-| 16 WP | "Number 16. Today is Friday. What day is tomorrow? Write it on the empty page, or tell me." | **Saturday**, written or said. Any plausible spelling ("Saterday", "Satday"). 星期六 said in Chinese scores (L). | English day names may not have been taught. |
+| 16 WP | "Number 16. Today is Friday. What day is tomorrow? Write it on the empty page, or tell me." | **Saturday**, written or said. Any plausible spelling ("Saterday", "Satday"). An answer in Chinese scores 0. | English day names may not have been taught. |
 | 17 | Point to the big clock. "Number 17. What time does this clock show? Write the time in the box." Then point to the three small clocks: "Put a tick under the clock that shows half past 9." | **4 o'clock** (also "4", "4:00", "four o'clock"; 4点 said in Chinese, L), and a tick under the **third clock**. 1 mark for both. | Clocks may not have been taught. The first clock (9 o'clock) is chosen by a child who looks only for the 9; the second (half past 3) by a child who looks only at the long hand. |
 | 18 WP | "Number 18. Tom has 10 balloons. He gives half of them to his sister. How many balloons does he give to his sister? You can draw circles round the balloons. Write the answer in the box." | **5** | Half of an amount may not have been taught. |
 | 19 | "Number 19. Look at the three shapes. Which shape is one quarter grey? Put a tick under it." | A tick under the **square** (the third shape). | The middle shape has four parts that are not equal (its grey part is more than a quarter), so it does not show quarters: a tick under it shows the child counts the parts but does not check they are equal. Quarters may not have been taught. |

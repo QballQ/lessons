@@ -46,8 +46,8 @@ Show the cover page. Point to the "How to answer" examples and say: "Look. You t
 | | English parts (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not explain words, translate, or read the reading texts or reading questions aloud. The student may ask for instructions to be repeated in English. | Read any question aloud in English, as often as the student asks, and point to the picture. |
-| Chinese | Not used. Note anything the student could say in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers in Chinese | Do not score. Note them. | Accepted in explanations; write **L**. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
+| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0, and the summary lists the NT topics. |
 
 Extra time or a reader for a known need is allowed: record it in the score summary. The number of **L** questions is evidence about English and goes in the summary.
@@ -57,7 +57,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 - In every part, a student may stop when they have done what they can. Encourage once ("Have a look at the next one; some are easier"), then accept their decision.
 - **Listening:** always read the whole script twice, even if the student writes nothing.
 - **Reading:** let the student work for the full 12 minutes. Stop early only if the student has answered nothing in Part A after 4 minutes, or is upset; record "stopped after 4 minutes".
-- **Writing:** if the student cannot start, say once: "You can write words, or draw and label your plan." Never write for them. A student who can write nothing in English may write two or three sentences in Chinese at the end so that a Chinese-speaking colleague can comment on their first-language literacy; note it, but it does not score.
+- **Writing:** if the student cannot start, say once: "You can write words, or draw and label your plan." Never write for them.
 - **Maths and science:** stop at the time. A student who is stuck may be told: "You can go on to the next question."
 - A distressed child is never pressed: stop, take a break or end the session, and record it.
 
@@ -132,7 +132,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 
 - Questions 1 to 4 need key words and pictures. A student who gets these but none of 5 to 8 usually knows familiar words but cannot yet follow connected speech (band B).
 - Questions 1 and 2 have distractors: the first meeting place and the other times in the conversation. Choosing them shows the student caught words but missed the change ("instead", "but").
-- Question 8 needs three facts combined (six o'clock, ten minutes, a quarter past six): it separates D from E. If the student clearly understood but could not write it in English (for example, tells a colleague in Chinese), score 0 and note "understood, could not express in English".
+- Question 8 needs three facts combined (six o'clock, ten minutes, a quarter past six): it separates D from E.
 - Compare with "listening in conversation" on the interview record.
 
 ### 3.2 Reading paper (12 minutes, / 24)
@@ -141,7 +141,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 
 Start the timer. Say "Two minutes left" at 10 minutes and "Please stop" at 12 minutes. Do not read any text or question aloud and do not explain words.
 
-**Marking.** Spelling is not marked unless the word cannot be recognised. For "find and copy" the word must be the right word from the text; a small copying slip is fine. Answers in Chinese score 0 (note them).
+**Marking.** Spelling is not marked unless the word cannot be recognised. For "find and copy" the word must be the right word from the text; a small copying slip is fine. Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: the café menu** (questions 1 to 7, / 8)
 
@@ -287,7 +287,7 @@ List the NT questions and judge whether the student would reach band 3 once taug
 
 - **Number problems against word problems.** A student who scores well on number problems (Section A) but poorly on the word problems (11, 12, 15, 18) may have an English barrier rather than a maths difficulty. Check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the answer then comes quickly, record it as an English barrier.
 - **Method.** Students from Chinese schools often calculate quickly and accurately. A correct answer without working is fine. When an answer is wrong, look at the working: one slip in a sound method is a different need from a wrong method.
-- **Conventions.** "Remainder" in words, timetables, "Not drawn accurately", cm³ and the percentage sign may be new. A student who answers correctly in Chinese words, or explains with a picture, knows the maths.
+- **Conventions.** "Remainder" in words, timetables, "Not drawn accurately", cm³ and the percentage sign may be new. A student who shows the maths correctly with a picture or working knows the maths, even if the English words are new.
 
 ## 5. Science (8 minutes, / 10)
 
@@ -302,7 +302,7 @@ List the NT questions and judge whether the student would reach band 3 once taug
 | 3 | Separating mixtures (Y5) | 2 | sand and water: filtering; salt dissolved in water: evaporating; small stones and sand: sieving | 2 marks: all three; 1 mark: one or two correct | salt water joined to filtering: thinks filtering removes dissolved salt | Dissolving (溶解) is usually Grade 4; separating by filtering and evaporating may be new. |
 | 4 | Day and night (Y5) | 1 | The Earth spins around once every day. | | "The Sun moves around the Earth": an everyday idea, not an English problem | The Earth's movement is often Grade 5 or 6. |
 | 5 | Gears (Y5) | 1 | anticlockwise | an anticlockwise arrow drawn on gear B | clockwise | Simple machines (levers, pulleys and gears) are often Grade 6. The arrows on the page show the meaning of the two words. |
-| 6 | Forces: gravity and air resistance (Y5) | 1 | 1 air resistance, 2 gravity | both for the mark; spelling not marked; 空气阻力 and 重力 in Chinese: give the mark and write L | the two swapped; magnetism | Forces are taught in different grades; the English names may be new. |
+| 6 | Forces: gravity and air resistance (Y5) | 1 | 1 air resistance, 2 gravity | both for the mark, in English; spelling not marked; an answer in Chinese scores 0 | the two swapped; magnetism | Forces are taught in different grades; the English names may be new. |
 | 7 | Reading a table; conclusion; fair test (Y5, working scientifically) | 2 | (a) The bigger the parachute, the longer it takes to fall. (b) any one: the same height; the same weight or load; the same paper or material; the same strings; drop it the same way or in the same place | 1 mark each; (b) "same toy", "same high" | (b) "same size" (that is what she changes), "same time" (that is what she measures) | Fair testing in this form is less familiar; judge the student's thinking. |
 
 **Band guide (provisional)**

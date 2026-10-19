@@ -43,10 +43,10 @@ Write the child's name on page 1 if they cannot.
 | | English tasks: picture talk, listening, reading screens, writing | Maths |
 |---|---|---|
 | Reading aloud | Say only what the script says. Do not explain words, translate, or read the reading texts for the child. You may repeat an instruction in English. | Read any question aloud in English, as often as the child asks, and point to the picture. |
-| Chinese | Not used. Note what the child says in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the child cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
-| Answers in Chinese | Do not score, with one exception: in the two reading screens, a spoken answer in Chinese to a question about what the child has just read counts if it shows understanding (write **C**). | Accepted in explanations; write **L**. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the child cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
+| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
 
-**Codes.** **NT** not yet taught: the child says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **R** a listening instruction repeated. **C** an answer in Chinese: in the reading screens' questions it counts as understood; in the picture talk and the interview it does not count towards the speaking band. Record extra time, a reader or any other access arrangement for a known need in the score summary.
+**Codes.** **NT** not yet taught: the child says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **R** a listening instruction repeated. Record extra time, a reader or any other access arrangement for a known need in the score summary.
 
 **Keeping the child at ease.** Chat for a minute first. Praise effort ("Thank you", "You are working hard"), never right or wrong answers. Do not mark in front of the child. Any child may stop a task when they have done what they can. If the child is upset, tired or very quiet, take a break or stop, and record it. Never press a distressed child.
 

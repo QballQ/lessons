@@ -51,11 +51,11 @@ Write the child's name on the cover of the student booklet yourself (the child w
 | | English tasks: picture talk, listening, reading, writing | Maths |
 |---|---|---|
 | What you may say | Only the words in the script. Do not explain words, translate, point or show what to do. You may repeat an instruction once if the child asks or clearly did not hear: write **R**. | Any question, in English, as often as needed. You may point to the picture and show with counters. |
-| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score (except in the reading screens' questions: see 3.3). | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
-| Answers | English words, pointing and doing count. Answers in Chinese do not score (except as above). | Pointing, fingers, counters, and number words in English or Chinese all count. Mark an answer in Chinese **L**. |
+| Chinese | Not used by you. | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
+| Answers | English words, pointing and doing count. An answer in Chinese scores 0. | Pointing, fingers, counters and number words in English all count. An answer in Chinese scores 0. |
 | Not yet taught | | If the child or parent tells you the child has not met an idea, mark **NT**. It scores 0; list it in the summary. Five year olds rarely say this themselves, so otherwise score 0 and write a note. |
 
-Codes in this booklet: **R** instruction repeated once; **C** child spoke Chinese; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
+Codes in this booklet: **R** instruction repeated once; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
 
 #### Keeping the child at ease
 
@@ -119,7 +119,7 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 - A strong response needs few prompts, joins ideas (and, because, then) and predicts ("maybe", "I think"). A weak one needs every prompt and gives one word or repeats your question.
 - Do not count against the child: missing -s, -ed, "a" and "the"; "he" and "she" mixed up; accent features (l and r, light final consonants). These are normal for learners.
-- A child who tells the picture well in Chinese (C) but names little in English has an English barrier only. A child who says very little in either language may need a speech and language check: see the interview record.
+- A child who names little in English but, as the parent describes, talks well in Chinese has an English barrier only. A child who says very little in either language may need a speech and language check: see the interview record.
 
 ### 3.2 Listening: follow instructions (4 minutes, page 3)
 
@@ -169,13 +169,13 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at the letter sounds (Card 1, then Card 2 if 15 or more of Card 1 are right) and then the Section 1 words (Year 1 start point in the guide, Section 2); and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. One rule differs from the other English tasks: in the questions about what the child has just read (passage questions and sentence meaning checks), a spoken answer in Chinese that shows understanding counts as understood; write it down and mark **C**. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. All answers are in English, including the answers to the questions about what the child has just read. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (5 minutes, pages 12 and 13; given after maths)
 
 Give the child a pencil. Do not spell any word, sound out, or write for the child.
 
-**Part 1: name (page 12).** Point to the line next to "Name". Say: "Can you write your name here?" Any script is fine (English letters, pinyin or Chinese characters): note which.
+**Part 1: name (page 12).** Point to the line next to "Name". Say: "Can you write your name here?" Note which script the child uses (English letters, pinyin or Chinese characters).
 
 **Part 2: five words (page 12).** Say: "Now I will say some words. Write each word here. Listen to the sounds in the word. Have a go. It is fine if it is not right." For each word, point to the number, then say the word, the sentence and the word again, clearly and at a normal pace (do not stretch the sounds). Allow about 30 seconds; if nothing is written, say "That's fine. Next one."
 
@@ -257,7 +257,7 @@ None of the five words is on the reading cards, so the child has not just seen t
 
 - Put the pot of 20 counters on the table. Say: "Now let's play some number games. You can use these counters to help you."
 - Read each question as written. Then you may repeat it in English as often as needed, point to the picture and show with counters. A Chinese-speaking colleague may say it once in Chinese (mark **L**).
-- The child answers by pointing, saying, showing fingers or moving counters. Number words in Chinese count (mark **L**).
+- The child answers by pointing, saying, showing fingers or moving counters. Number words must be in English; a child who cannot yet say the number may show it with fingers or counters, or point to it.
 - Write 1 or 0 in the mark box on the child's page as you go, and NT or L beside the box. Do not say whether an answer is right.
 - Stop as in Section 2: three 0s in a row in Section A, go to Section B; three in a row in Section B, stop.
 
@@ -265,10 +265,10 @@ None of the five words is on the reading cards, so the child has not just seen t
 
 | No. | Say and do | Answer, and what else is acceptable | Notes |
 |---|---|---|---|
-| 1 | Point to the fish. "How many fish? Count them." | **7**. Counting in Chinese is fine (L). | Watch: touches each fish once; says the last number as the answer. |
+| 1 | Point to the fish. "How many fish? Count them." | **7** (said in English, or shown with fingers or counters). A number said in Chinese scores 0. | Watch: touches each fish once; says the last number as the answer. |
 | 2 | Before you say anything, cover all three dot cards with the plain card. "I will show you some dots very quickly. Tell me how many. Don't count, just look." Slide the card to show only the first dot card for about 2 seconds, then cover it again. Do the same with the second and then the third (cover the cards you are not showing with the card or your hand). | **3, 5, 4**. 1 mark for all three. | Two seconds is too short to count one by one, so quick correct answers show the child sees the amount. |
 | 3 | Point to the number cards. "Point to 9." "Point to 15." Point to 12: "What number is this?" Point to 20: "What number is this?" | **9, 15**, "twelve", "twenty". 1 mark for all four. 十二 and 二十 count (L). | Common slips: 6 for 9, 13 for 15, "twenty" for 12. Note them. |
-| 4 | Point to the stars. "How many stars? You can put a counter on each star." | **16**. Counting in Chinese is fine (L). | Counting past 10 accurately; watch for missed or double-counted stars. |
+| 4 | Point to the stars. "How many stars? You can put a counter on each star." | **16** (said in English, or shown with counters). A number said in Chinese scores 0. | Counting past 10 accurately; watch for missed or double-counted stars. |
 | 5 | Point to the 8 dots. "Here are 8 dots." Point to the dashed circle. "One more dot comes here. How many dots now?" You may put a counter in the circle. | **9**. Counting all from 1 or knowing straight away both score; note which. | "9!" straight away shows stronger number sense than counting from 1. |
 | 6 | Point to the five frame. "This box has space for 5 dots. Here are 3 dots. How many more dots make 5?" | **2**. Pointing to the 2 empty squares and saying 2, or putting 2 counters in, scores. | Five frames may not have been taught. |
 | 7 | Point to the ladybird. "This ladybird has 4 spots on this side (point) and 4 spots on this side (point). Double 4. How many spots altogether?" | **8**. Counting all scores. | The words "double" and "altogether" may not have been taught; the picture carries the meaning. |

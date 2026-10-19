@@ -752,7 +752,7 @@ Self-corrections ______ &nbsp; SC rate 1 : ______ &nbsp; Fluency [[scale:1,2,3,4
 | At that level | Accuracy ______ % &nbsp; SC rate 1 : ______ &nbsp; Fluency ______ / 4 &nbsp; Questions ______ / ______ |
 | Decodes at (if higher) | Highest passage read at 90% or more: ______ (questions ______ / ______) |
 | Reading band | **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E** &nbsp; (circle; guide, 6.7) |
-| Pattern | [[tick]] decoding secure [[tick]] decoding ahead of understanding [[tick]] understanding ahead of decoding [[tick]] pinyin values [[tick]] letter names only [[tick]] vocabulary gaps [[tick]] answers in Chinese |
+| Pattern | [[tick]] decoding secure [[tick]] decoding ahead of understanding [[tick]] understanding ahead of decoding [[tick]] pinyin values [[tick]] letter names only [[tick]] vocabulary gaps |
 | Access and behaviour | Breaks, extra time, stopped early, how the child seemed: ____________________________ |
 | Next steps for teaching | ______________________________________________________________________ |
 

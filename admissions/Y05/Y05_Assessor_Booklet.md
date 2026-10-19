@@ -46,8 +46,8 @@ Show the cover page. Point to the "How to answer" examples and say: "Look. You t
 | | English parts (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not explain words, translate, or read the reading texts or reading questions aloud. The student may ask for instructions to be repeated in English. | Read any question aloud in English, as often as the student asks, and point to the picture. |
-| Chinese | Not used. Note anything the student could say in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers in Chinese | Do not score. Note them. | Accepted in explanations; write **L**. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
+| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0, and the summary lists the NT topics. |
 
 Extra time or a reader for a known need is allowed: record it in the score summary. The number of **L** questions is evidence about English and goes in the summary.
@@ -57,7 +57,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 - In every part, a student may stop when they have done what they can. Encourage once ("Have a look at the next one; some are easier"), then accept their decision.
 - **Listening:** always read the whole script twice, even if the student writes nothing.
 - **Reading:** let the student work for the full 12 minutes. Stop early only if the student has answered nothing in Part A after 4 minutes, or is upset; record "stopped after 4 minutes".
-- **Writing:** if the student cannot start, say once: "You can write words, or draw and label your plan." Never write for them. A student who can write nothing in English may write two or three sentences in Chinese at the end so that a Chinese-speaking colleague can comment on their first-language literacy; note it, but it does not score.
+- **Writing:** if the student cannot start, say once: "You can write words, or draw and label your plan." Never write for them.
 - **Maths and science:** stop at the time. A student who is stuck may be told: "You can go on to the next question."
 - A distressed child is never pressed: stop, take a break or end the session, and record it.
 
@@ -118,7 +118,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 
 - Questions 1 to 4 need key words and pictures only. A student who gets these but none of 5 to 8 usually knows familiar words but cannot yet follow connected speech (band B).
 - The distractors in 2 (8:15) and 3 (money) show whether the student hears the words around a key word ("be at school by", "do not need").
-- Questions 7 and 8 need two ideas linked: they separate D from E. If the student clearly understood but could not write it in English (for example, tells a colleague in Chinese), score 0 and note "understood, could not express in English": this is evidence about writing and speaking as well as listening.
+- Questions 7 and 8 need two ideas linked: they separate D from E.
 - Compare with "listening in conversation" on the interview record.
 
 ### 3.2 Reading paper (12 minutes, / 24)
@@ -127,7 +127,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 
 Start the timer. Say "Two minutes left" at 10 minutes and "Please stop" at 12 minutes. Do not read any text or question aloud and do not explain words.
 
-**Marking.** Spelling is not marked unless the word cannot be recognised. For "find and copy" the word must be the right word from the text; a small copying slip is fine. Answers in Chinese score 0 (note them).
+**Marking.** Spelling is not marked unless the word cannot be recognised. For "find and copy" the word must be the right word from the text; a small copying slip is fine. Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: the park notice** (questions 1 to 6, / 8)
 
@@ -271,7 +271,7 @@ List the NT questions and judge whether the student would reach band 3 once taug
 
 - **Number problems against word problems.** A student who scores well on number problems (Section A) but poorly on the word problems (10, 12, 13, 19b) may have an English barrier rather than a maths difficulty. Check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the answer then comes quickly, record it as an English barrier.
 - **Method.** Students from Chinese schools often calculate quickly and accurately in their heads or in neat columns. A correct answer without working is fine. Look at the working when an answer is wrong: one slip in a sound method is a different need from a wrong method.
-- **Conventions.** Reading a scale in 5s, "Not drawn accurately", coordinates in brackets and the UK names of shapes may be new. A student who answers the maths correctly in Chinese words, or with a picture, knows the maths.
+- **Conventions.** Reading a scale in 5s, "Not drawn accurately", coordinates in brackets and the UK names of shapes may be new. A student who shows the maths correctly with a picture or working knows the maths, even if the English words are new.
 
 ## 5. Science (8 minutes, / 10)
 
@@ -281,7 +281,7 @@ List the NT questions and judge whether the student would reach band 3 once taug
 
 | Q | Content (UK year) | Marks | Answer | Also accept, partial credit | Common wrong answers | May not have been taught |
 |---|---|---|---|---|---|---|
-| 1 | Solids, liquids and gases (Y4) | 1 | A solid, B liquid, C gas | all three for the mark; 固体, 液体, 气体 in Chinese: give the mark and write L | "ice" or "water" written in the box: describes, does not classify | The states of water (水的三态) are often taught by Grade 3, but the English words may be new. |
+| 1 | Solids, liquids and gases (Y4) | 1 | A solid, B liquid, C gas | all three for the mark, in English; an answer in Chinese scores 0 | "ice" or "water" written in the box: describes, does not classify | The states of water (水的三态) are often taught by Grade 3, but the English words may be new. |
 | 2 | Teeth (Y4) | 1 | incisor: cuts food; canine: tears food; molar: chews and crushes food | all three joins correct | incisor and canine swapped | Teeth and digestion are often Grade 4. |
 | 3 | Classification key (Y4) | 1 | A beetle, B earthworm | both; spelling not marked ("bettle", "earth worm") | A spider: did not count the legs (6) | Branching keys are less common in Chinese textbooks. |
 | 4 | Food chains (Y4) | 2 | (a) rice plant → grasshopper → frog → snake (b) more grasshoppers | 1 mark each; (a) accept "rice"; all four in order | (a) reversed (snake first): knows who eats whom but not the arrow convention, note it; (b) fewer | Food chains are often Grade 5. |

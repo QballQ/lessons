@@ -9,7 +9,7 @@ footer: Child Interview and Suitability Record | Years 1 and 2
 
 **About 6 minutes, 1:1, play-based.** Most of what you need about a 5 or 6 year old comes from watching them during the whole visit, not from questions. This short chat, at the end of the visit, is **in English**. It has three jobs: to hear the child's spoken English, to get to know the child (likes, family, friends, **what they want to be**), and to judge their readiness for the international programme. Use the observation boxes in Section 4 for the whole visit.
 
-**How to do it.** Sit on the floor or at a low table beside the child. Offer paper and crayons: "Can you draw you, doing something you love?" Talk about the drawing. Ask the main question first; if the child does not answer, use the **easier** prompt (a choice, a yes or no, or "show me"). Wait. Praise effort. Never press a child who is upset; stop and let them go back to their parent. If a Chinese-speaking colleague is present, they may ask one or two questions in Chinese at the end so that you learn about the child: mark them "C"; they do not count towards the speaking band.
+**How to do it.** Sit on the floor or at a low table beside the child. Offer paper and crayons: "Can you draw you, doing something you love?" Talk about the drawing. Ask the main question first; if the child does not answer, use the **easier** prompt (a choice, a yes or no, or "show me"). Wait. Praise effort. Never press a child who is upset; stop and let them go back to their parent.
 
 **Safeguarding.** A young child is never alone with one adult behind a closed door. If a child says something that worries you, write down their words and pass it to the Designated Safeguarding Lead the same day.
 
@@ -87,7 +87,7 @@ Rate each strand. **1** Concern, **2** Some concern, **3** Good, **4** Strong. W
 | Safeguarding (passed to the Designated Safeguarding Lead the same day) | [[tick]] | |
 | Medical or dietary | [[tick]] | |
 
-**Speech in Chinese.** If a Chinese-speaking colleague is present, ask them to note how the child speaks in Chinese. A child with little English but age-appropriate Chinese is a typical English learner. A child who also has very little speech in Chinese for their age may need a speech and language check: raise it with the parent gently, as a question rather than a conclusion.
+**Speech in Chinese.** Ask the parent how the child speaks in Chinese (Parent Conversation Record, Section 4). A child with little English but age-appropriate Chinese is a typical English learner. A child who also has very little speech in Chinese for their age may need a speech and language check: raise it with the parent gently, as a question rather than a conclusion.
 
 ## 6. Receiving homeroom teacher (optional)
 

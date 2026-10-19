@@ -42,8 +42,8 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not read the reading texts or questions aloud, explain words or translate. Instructions may be repeated in English. | Any question may be read aloud in English, as often as the student asks. You may point to the picture. |
-| Chinese | Not used. Note anything the student says in Chinese that shows understanding. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers in Chinese | Do not score. Note them. One exception: in the sentence reading meaning checks, a spoken answer in Chinese that shows understanding counts as understood (record **✓C**). | Accepted in explanations; write **L**. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
+| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 Extra time, a reader or other arrangements for a known need are allowed: record them in the score summary.
@@ -133,7 +133,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 **Say:** "Turn to the Reading page. There are three parts, A, B and C. Each part is harder. Read the texts yourself. I cannot read them to you or explain words. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Give a two-minute warning.
 
-**General rules.** Answers can be in the student's own words or copied from the text, unless the question says "copy". Ignore spelling and grammar unless the answer cannot be understood (except question 12). Answers in Chinese do not score; note them.
+**General rules.** Answers can be in the student's own words or copied from the text, unless the question says "copy". Ignore spelling and grammar unless the answer cannot be understood (except question 12). Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: sports centre poster** (very accessible; picture support)
 
@@ -232,7 +232,7 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 **Sections.** Section A, **Number problems** (questions 1 to 6, 9 marks): calculation and algebra with no context. Section B, **Word problems and pictures** (questions 7 to 18, 21 marks): **word problems** (questions 7 to 10, 7 marks) and problems with diagrams, pictures and tables (questions 11 to 18, 14 marks). Questions 6 and 18 are ceiling items from the Year 9 curriculum; questions 1, 2 and 7 are floor items.
 
-**Marking.** M = method mark, A = accuracy mark (depends on the method), B = independent mark. A correct answer with no working gets full marks unless the scheme says otherwise. Units are not needed unless stated. Answers in Chinese in working are fine (mark L only if language support was given).
+**Marking.** M = method mark, A = accuracy mark (depends on the method), B = independent mark. A correct answer with no working gets full marks unless the scheme says otherwise. Units are not needed unless stated. Working in numbers and symbols is fine; any words must be in English.
 
 **What a Year 9 entrant may not have been taught.** A student from a Chinese mainstream school has usually completed **Grade 7 (初一)**: operations with negative numbers, algebraic expressions and "removing brackets", linear equations and inequalities, angles and parallel lines, square roots, coordinates and simultaneous equations. Grade 8 topics (factorising, multiplying out double brackets, Pythagoras, polygon angle sums, linear functions and graphs, weighted mean) **may not have been taught yet**. Probability as a number is often met in Grade 9. Use NT and judge whether the student would reach the expected band once taught.
 
@@ -291,7 +291,7 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 #### What to look for
 - **Working scientifically** (questions 5 and 7): a student who explains a fair test and spots the pattern in a table is likely to do well once taught, even with several NT questions.
-- **An English barrier** looks like: blank or wrong answers that become right when you read the question aloud, or explanations written in Chinese (mark L). Science vocabulary in English (producer, compound, mixture, ammeter) is often the gap: note the words the student did not know.
+- **An English barrier** looks like: blank or wrong answers that become right when you read the question aloud. Science vocabulary in English (producer, compound, mixture, ammeter) is often the gap: note the words the student did not know.
 - **Strong responses** give the reason as well as the answer in question 1(b) and name a sensible control variable in question 7(a).
 
 [[keep]]

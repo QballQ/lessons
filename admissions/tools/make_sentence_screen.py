@@ -152,7 +152,7 @@ When you are not sure, give the student the benefit of the doubt and write what 
 
 ## 3. Understanding (the meaning check)
 
-After each level the student reads with **3 or more points**, ask the meaning question for that level (printed in the record). Read the question aloud once and let the student answer in their own words. Record **✓** (understood), **½** (partly) or **✗** (not understood). If the student cannot answer in English but clearly understands (they answer in Chinese to a Chinese-speaking colleague, or point, or act it out), record **✓C**: it counts as understood for reading and is evidence about speaking.
+After each level the student reads with **3 or more points**, ask the meaning question for that level (printed in the record). Read the question aloud once and let the student answer in their own words. Record **✓** (understood), **½** (partly) or **✗** (not understood). The answer must be in English: one word or a short phrase is enough, and pointing to the right words in the sentence also counts. An answer in Chinese is recorded **✗**.
 
 ## 4. Fluency
 
@@ -208,7 +208,7 @@ Rate the student's reading on the **last level they read with 4 or more points**
 | Reading age | |
 | Actual age (years:months) | |
 | Difference (reading age minus actual age) | |
-| Meaning checks (levels asked, how many ✓ or ✓C) | |
+| Meaning checks (levels asked, how many ✓) | |
 | Fluency rating (1 to 4) | |
 | Patterns noticed | |
 

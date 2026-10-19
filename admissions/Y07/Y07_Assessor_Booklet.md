@@ -34,7 +34,7 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not explain words, translate or read the reading texts aloud. You may repeat instructions in English. | Read any question aloud in English, as often as asked, and point to the picture. |
-| Chinese | Not used by staff. In English sections only English answers score, but note anything the student says or writes in Chinese, because it shows understanding. One exception: in the sentence reading meaning checks, a spoken answer in Chinese that shows understanding counts as understood (record **✓C**). | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. Answers in Chinese are accepted in explanations (mark **L**). |
+| Chinese | Not used by staff. All answers must be in English; an answer in Chinese scores 0. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Mark the question **L** in the margin. The mark still counts. Answers must be in English; an answer or explanation in Chinese scores 0. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 - **Extra time or a reader** for a known need is allowed; record it in the score summary.
@@ -95,7 +95,7 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 
 **Say:** "Turn to the Reading pages. Read the texts and answer the questions. There are three parts. They get harder. Do as much as you can. It is fine if you do not finish. You have 12 minutes." Start the timer. Do not read the texts or questions aloud, and do not explain words. You may repeat this instruction. Give a two-minute warning.
 
-**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question. Answers in Chinese do not score, but note them.
+**Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question. Answers must be in English; an answer in Chinese scores 0.
 
 **Part A: After-school clubs** (a notice; very accessible, with pictures)
 
@@ -264,7 +264,7 @@ Usually **familiar**: addition, long multiplication and division, order of opera
 [[keep]]
 **What to look for**
 - Questions 1, 3 and 5 test working scientifically (using a key, reading a graph and a table, fair tests). A student who does these well thinks scientifically even if the topic knowledge is NT.
-- Short or one-word answers are fine. If the student explains in Chinese (L), note how good the science is: this separates a science difficulty from an English barrier.
+- Short or one-word answers are fine. Answers must be in English; an explanation in Chinese scores 0.
 [[/keep]]
 
 [[keep]]

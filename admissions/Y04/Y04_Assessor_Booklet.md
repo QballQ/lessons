@@ -39,10 +39,10 @@ Help each student write their name and the date on page 1. Point to the "How to 
 | | English sections: listening, reading, writing, sentence reading | Maths |
 |---|---|---|
 | Reading aloud | Say only what the script says. Do not explain words, translate, or read the reading texts or questions for the student. You may repeat an instruction in English. | Read any question aloud in English, as often as the student asks, and point to the picture. |
-| Chinese | Not used. Note what the student could say in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
-| Answers in Chinese | Do not score. Exception: a sentence reading meaning check answered in Chinese counts as understood (**✓C**). | Accepted in explanations; write **L**. |
+| Chinese | Not used by staff. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
+| Answers | In English only. An answer in Chinese scores 0. | In English only: numbers, words, ticks, drawings and working all count. An answer or explanation in Chinese scores 0. |
 
-**Codes.** **NT** not yet taught: the student says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **C** an answer in Chinese (it does not count for the speaking band; see above for sentence reading). Record extra time, a reader or any other access arrangement for a known need in the score summary.
+**Codes.** **NT** not yet taught: the student says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. Record extra time, a reader or any other access arrangement for a known need in the score summary.
 
 **Stopping and keeping students at ease.** Any student may stop a section when they have done what they can: they turn over and wait quietly. Praise effort, not answers. If a student is upset, give them a break or stop, and record it. Never press a distressed child. At the end of each timed part, let students finish the question they are on, then move on together.
 
@@ -169,7 +169,7 @@ Use judgement when a result is uneven (for example a high Part C score with a lo
 
 - **Strong readers** finish Part C, answer in their own words and give reasons ("because ...").
 - **Decoding ahead of understanding:** a good sentence reading score but weak Part B and Part C answers, or answers copied from the wrong place in the text. Common for students who learnt phonics or the phonetic alphabet outside school.
-- **An English barrier, not a reading difficulty:** correct answers that are hard to read ("so it not scard and sting") still score. Note answers the student could explain in Chinese to a colleague afterwards; they do not score, but they show understanding.
+- **An English barrier, not a reading difficulty:** correct answers that are hard to read ("so it not scard and sting") still score.
 [[/keep]]
 
 ### 3.3 Writing (10 minutes, student paper pages 11 to 12)

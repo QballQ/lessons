@@ -340,7 +340,7 @@ def record_md():
          '**Access rules for this screen** (the same in every year group)', '',
          '- Say only what the script says. Do not explain words, translate, sound out, or read the cards or passages aloud.',
          '- The child may ask for an instruction to be repeated in English. Repeat it as written.',
-         '- Letters, words and passages must be read in English. For the **questions** about a passage, an answer in Chinese that shows the child understood counts as right: write down what they said and mark it C. The questions test reading, not speaking; C answers are evidence for the speaking band. The Graded Sentence Reading Screen uses the same rule.',
+         '- Everything is in English: letters, words and passages are read in English, and the answers to the questions about a passage must be in English. An answer in Chinese scores 0.',
          '- Praise effort, never answers: "Thank you." "You are working hard." Do not say "good", "right" or "no" after a word.',
          '- The child may stop a part when they have done what they can. Never push a distressed child: take a break or stop, and record it.',
          '- Extra time or other arrangements for a known need: record them on the summary sheet.', '',
@@ -407,8 +407,7 @@ def record_md():
              ['P', 'pinyin letter value', 'letters, phonics words, tricky words: yes. Passages: only if the word is not clear'],
              ['N', 'letter name instead of the sound (letter sounds only)', 'yes'],
              ['SO', 'sounds only: the child said the sounds but did not blend them (phonics words)', 'yes'],
-             ['RW', 'a creature word read as a real word ("blom" read as "bloom")', 'yes'],
-             ['C', 'answered a question in Chinese', 'no: it counts as right if it shows understanding; write down what was said']]), '',
+             ['RW', 'a creature word read as a real word ("blom" read as "bloom")', 'yes']]), '',
          '## 5. Scripts and scoring', '',
          '### 5.1 Letter sounds (Cards 1 and 2)', '',
          '**Card 1. Say:** "Look at these letters. Tell me the sound each letter makes." Point to the first letter. "What sound does this one make?"', '',
@@ -458,7 +457,7 @@ def record_md():
              ['2', 'Some phrasing', 'Mostly two- or three-word groups, with some word by word. Little attention to punctuation. Little expression.'],
              ['3', 'Mostly phrased', 'Reads in sensible phrases and mostly follows full stops and commas. Some pauses to work out harder words.'],
              ['4', 'Fluent and expressive', 'Smooth and close to natural speech. Follows punctuation. The voice changes for questions and for what characters say.']]), '', '[[/keep]]', '',
-         '**Questions:** 1 mark each. The child may look back at the story. Accept answers in the child\'s own words, one word, or a short phrase; grammar mistakes do not matter. Pointing counts only where the question asks the child to show. An answer in Chinese that shows understanding counts as right: write it down and mark C.', '',
+         '**Questions:** 1 mark each. The child may look back at the story. Accept answers in the child\'s own words, one word, or a short phrase; grammar mistakes do not matter. Pointing counts only where the question asks the child to show. Answers must be in English; an answer in Chinese scores 0.', '',
          '**Book band level** = the highest passage read at **90% or more** with **at least half the questions** right.', '',
          '### 5.5 Using a real levelled book instead', '',
          '- You may use a real levelled book at the same band instead of a passage, for example an Oxford Reading Tree book from the school\'s assessment set. The book list is in `01_Reading_Books_and_Materials.md`.',
@@ -487,7 +486,6 @@ def record_md():
          table(['Pattern', 'What it suggests', 'What to record'], [
              ['Accuracy 95% or more, but fewer than half the questions right', '**Decoding ahead of understanding.** The child can say the words but does not yet understand enough English. Common in children taught phonics in after-school classes.', 'The book band level is the level with understanding. Also record "decodes at" the highest passage read at 90% or more. The need is vocabulary and spoken English.'],
              ['Accuracy below 90%, but most questions right', '**Understanding ahead of decoding.** Spoken English and meaning are strong; decoding is behind. Often a child from a bilingual school taught whole words, or a confident speaker who uses the pictures and the meaning.', 'The book band level is lower than the child\'s understanding. The need is systematic phonics; progress is often quick.'],
-             ['Questions answered correctly in Chinese (C)', 'The child understood the English text but cannot yet say it in English.', 'The answers score 0, but note them: reading understanding is better than the score shows, and spoken English is the barrier.'],
              ['Low accuracy and few questions right', 'The passage is too hard.', 'The level below is the book band level.']]), '',
          '### 6.4 Vocabulary gaps', '',
          '- The child reads a word correctly but cannot say what it means (a vocabulary question wrong).',
@@ -579,7 +577,7 @@ def record_md():
               ['At that level', 'Accuracy ______ % &nbsp; SC rate 1 : ______ &nbsp; Fluency ______ / 4 &nbsp; Questions ______ / ______'],
               ['Decodes at (if higher)', 'Highest passage read at 90% or more: ______ (questions ______ / ______)'],
               ['Reading band', '**A &nbsp; B &nbsp; C &nbsp; D &nbsp; E** &nbsp; (circle; guide, 6.7)'],
-              ['Pattern', '[[tick]] decoding secure [[tick]] decoding ahead of understanding [[tick]] understanding ahead of decoding [[tick]] pinyin values [[tick]] letter names only [[tick]] vocabulary gaps [[tick]] answers in Chinese'],
+              ['Pattern', '[[tick]] decoding secure [[tick]] decoding ahead of understanding [[tick]] understanding ahead of decoding [[tick]] pinyin values [[tick]] letter names only [[tick]] vocabulary gaps'],
               ['Access and behaviour', 'Breaks, extra time, stopped early, how the child seemed: ____________________________'],
               ['Next steps for teaching', '______________________________________________________________________']]), '',
           '</div>', '',
@@ -619,7 +617,7 @@ for p in D.PASSAGES:
     print('   ', ' '.join(vocab))
 for d in ['Early_Reading_Screen_Cards.md', 'Early_Reading_Screen_Guide.md', 'Early_Reading_Screen_Record.md']:
     t = open(os.path.join(OUT, d), encoding='utf-8').read()
-    print(d, len(t.splitlines()), 'lines; dashes:', len(re.findall('[–—]', t)))
+    print(d, len(t.splitlines()), 'lines; dashes:', len(re.findall('[\u2013\u2014]', t)))
 
 # ---------------------------------------------------------------- page height estimate for each passage card
 VB = {'ers_p1_cat.svg': (300, 190), 'ers_p2_market.svg': (340, 200), 'ers_p3_kite.svg': (340, 210), 'ers_p4_goal.svg': (340, 180),

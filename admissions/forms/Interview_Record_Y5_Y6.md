@@ -9,7 +9,7 @@ footer: Student Interview and Suitability Record | Years 5 and 6
 
 **About 12 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme. It opens with the Graded Sentence Reading Screen (start Level 4 for Year 5, Level 5 for Year 6; record on `shared/Sentence_Reading_Record.md`).
 
-**How to ask.** Smile, sit beside rather than opposite the child if you can, and start with something easy. Ask the main question first. If the child struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. Wait at least five seconds before rephrasing. If a Chinese-speaking colleague is present and the child cannot answer in English, one or two answers may be given in Chinese so that you learn about the child: mark them "C" and do not count them towards the speaking band.
+**How to ask.** Smile, sit beside rather than opposite the child if you can, and start with something easy. Ask the main question first. If the child struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. Wait at least five seconds before rephrasing. Answers must be in English.
 
 **Safeguarding.** Keep the door open or another adult present. If a child tells you something that worries you about their safety or wellbeing, do not promise to keep it secret; listen, write down their words, and pass it to the Designated Safeguarding Lead the same day.
 
