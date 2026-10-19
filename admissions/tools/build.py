@@ -74,7 +74,9 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 .ans.short { min-width: 16mm; } .ans.wide { min-width: 70mm; } .ans.full { display: block; width: auto; margin: 4px 0; }
 .ans.big { min-width: 40mm; height: 2.3em; border-width: 1.8px; }
 .tick { display: inline-block; width: 0.95em; height: 0.95em; border: 1.5px solid #111; border-radius: 2px; vertical-align: -0.12em; margin: 0 0.3em; background: #fff; }
-.lines { margin: 4px 0 8px; height: calc(var(--n) * var(--lh)); background-image: linear-gradient(to bottom, transparent calc(var(--lh) - 1.2px), #777 calc(var(--lh) - 1.2px)); background-size: 100% var(--lh); background-repeat: repeat-y; }
+/* one element per writing line: a repeating background left a faint seam at the top of each block */
+.lines { margin: 4px 0 8px; }
+.lines > div { height: var(--lh); box-sizing: border-box; border-bottom: 1.2px solid #777; }
 .box { border: 1.4px solid #111; border-radius: 4px; margin: 4px 0 8px; height: calc(var(--n) * var(--lh)); position: relative; }
 .box > span { position: absolute; top: 3px; left: 6px; font-size: 0.7em; color: #444; }
 .grid { margin: 6px auto; border: 1.2px solid #444; background-size: 5mm 5mm; background-image: linear-gradient(#bbb 1px, transparent 1px), linear-gradient(90deg, #bbb 1px, transparent 1px); }
@@ -100,7 +102,7 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 /* early: Years 1 to 3 student pages */
 body.early { font-family: 'Andika', 'Atkinson Hyperlegible', 'Noto Sans', 'DejaVu Sans', 'Noto Color Emoji', sans-serif; font-size: 18pt; line-height: 1.45; --lh: 15mm; }
 body.early h1 { font-size: 26pt; } body.early h2 { font-size: 22pt; } body.early h3 { font-size: 19pt; }
-body.early .lines { background-image: linear-gradient(to bottom, transparent calc(var(--lh) * 0.5 - 0.6px), #bbb calc(var(--lh) * 0.5 - 0.6px), #bbb calc(var(--lh) * 0.5 + 0.6px), transparent calc(var(--lh) * 0.5 + 0.6px), transparent calc(var(--lh) - 1.6px), #555 calc(var(--lh) - 1.6px)); }
+body.early .lines > div { border-bottom: 1.6px solid #555; background: linear-gradient(to bottom, transparent calc(50% - 0.6px), #bbb calc(50% - 0.6px), #bbb calc(50% + 0.6px), transparent calc(50% + 0.6px)); }
 body.early table { font-size: 18pt; }
 /* primary: Years 4 to 6 student pages */
 body.primary { font-size: 14pt; line-height: 1.45; --lh: 10mm; }
@@ -132,7 +134,8 @@ NAMEBOX_ROWS = {
 def block(name, arg):
     a = (arg or '').strip()
     if name == 'lines':
-        return f'<div class="lines" style="--n:{int(a or 3)}"></div>'
+        n = int(a or 3)
+        return f'<div class="lines" style="--n:{n}">' + '<div></div>' * n + '</div>'
     if name == 'box':
         n, _, label = a.partition(':')
         lab = f'<span>{html.escape(label)}</span>' if label else ''

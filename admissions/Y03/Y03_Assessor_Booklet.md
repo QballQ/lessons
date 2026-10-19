@@ -17,7 +17,7 @@ footer: Year 3 Admission Assessment | Assessor booklet
 |---|---|---|---|---|---|
 | 1 | Welcome and picture talk (speaking) | 2 + 4 | Assessor, 1:1 | page 1 | Section 3.1 of this booklet |
 | 2 | Listening: follow instructions | 5 | Assessor, 1:1 | page 2 | Pencil; coloured pencils: red, yellow, blue, green |
-| 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards and records; a plain card; the levelled reading books |
+| 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards and records (instructions in `shared/Early_Reading_Screen_Guide.md`); a plain card; the levelled reading books |
 | | Break | 3 to 5 | | | Water; a chance to move |
 | 4 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 3 to 10 | Pencil, rubber, ruler marked in cm |
 | 5 | Writing: the picture story | 8 | Child writes | page 11 | Pencil |
@@ -116,7 +116,7 @@ Ask the prompts in order. Wait about 5 seconds before you move on. You may point
 
 Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`): if the child reads the first ten Section 1 words easily, go straight to Section 2 and then the graded passages; and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 2.
 
-- Follow the instructions, scoring and stopping rules on the two records. This booklet has no reading task of its own.
+- The instructions for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`; those for the sentence reading are on `shared/Sentence_Reading_Record.md`. Follow their scoring and stopping rules. This booklet has no reading task of its own.
 - In Years 1 to 3 the **reading band** comes from the Early Reading Screen; the sentence reading screen confirms it (see the Sentence Reading Record, Section 7).
 - Pronunciation features common for speakers of Chinese (for example l and r, a light final consonant, an extra vowel at the end of a word) are not reading errors when the word is clearly right.
 - Copy the results to the score summary (Section 5).
@@ -149,7 +149,7 @@ The writing comes after the maths (see Section 1).
 
 **Checklist** (tick what you see): [[tick]] writes their name [[tick]] letters mostly well formed [[tick]] spaces between words [[tick]] writes on from the frame words [[tick]] at least one complete sentence [[tick]] capital letters and full stops [[tick]] past tense [[tick]] and, then, because or so [[tick]] spelling plausible from the sounds [[tick]] uses Chinese characters or pinyin (note which)
 
-**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide.md`, Section 6, and choose the band that fits best. The total is only a guide: about 0 to 3 **A**, 4 to 6 **B**, 7 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**. &nbsp; Writing band: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
+**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide.md`, Section 6, and choose the band that fits best. The total is only a guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**. &nbsp; Writing band: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
 
 **What band E looks like at this age.** About five or more sentences that tell the whole story in order, mostly in the past tense, joined with words such as and, then, because and when; capital letters and full stops nearly every time; common words spelt correctly and harder words spelt so that they can be read; perhaps a feeling or a few words of speech. This is what a fluent English-speaking child at the end of UK Year 2 writes.
 

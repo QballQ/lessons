@@ -196,7 +196,7 @@ Use judgement when a result is uneven (for example a high Part C score with a lo
 | 1 &nbsp; 2 | / 4 | / 4 | / 4 | / 4 | **/ 16** |
 [[/keep]]
 
-**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide.md`, Section 6, and choose the band that fits best, not the total alone. As a rough guide: about 0 to 3 **A**, 4 to 6 **B**, 7 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**. &nbsp; Writing band: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
+**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide.md`, Section 6, and choose the band that fits best, not the total alone. As a rough guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**. &nbsp; Writing band: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
 
 **What band E looks like at this age.** In 10 minutes, about 10 to 14 lines or more: a story with a clear beginning, middle and end, or an organised description with reasons; sentences joined with because, when, so and if; the tense kept the same; some well-chosen words and longer phrases; common words spelt correctly; capital letters, full stops and question marks used correctly, perhaps with speech marks. This is what a fluent English-speaking child at the end of UK Year 3 writes.
 

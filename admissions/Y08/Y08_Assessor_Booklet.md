@@ -288,7 +288,7 @@ Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and pe
 |---|---|---|---|
 | Listening | / 8 | A B C D E | |
 | Reading paper | / 24 (A / 8, B / 8, C / 8) | A B C D E | Where did the student stop at 12 minutes? |
-| Sentence reading (shared record) | points / 72 (36 sentences), reading age | indicative A B C D E | Meaning checks, fluency |
+| Sentence reading (shared record) | points / 72, reading age | indicative A B C D E | Meaning checks, fluency |
 | Writing | / 16 (content / 4, vocabulary / 4, grammar / 4, spelling and punctuation / 4) | A B C D E | Task chosen: 1 2 |
 | Speaking (from the interview) | | A B C D E | |
 | Maths | / 30 (A / 10, B / 20, of which word problems / 6) | 1 2 3 4 | NT: L: |
@@ -296,11 +296,11 @@ Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and pe
 
 **Number problems against word problems:** Section A ____ / 10 (____ %) and word problems ____ / 6 (____ %). If the word problem percentage is much lower, was the barrier English? (Tick if a word problem was solved after it was read aloud or given in Chinese.) [[tick]]
 
-**Overall English band** (the band most of the four skills sit in; name any skill two or more bands below the others): **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**
+**Overall English band:** &nbsp; **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E** &nbsp; (the band most of the four skills sit in; name any skill that is two or more bands below the others)
 
 **Comments** (strengths, gaps, NT topics, what support the student would need):
 
-[[lines:5]]
+[[lines:4]]
 
 [[field:Assessor signature and date]]
 

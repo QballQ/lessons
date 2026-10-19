@@ -301,6 +301,8 @@ List the NT questions and judge whether the student would reach band 3 once taug
 - **An English barrier** looks like wrong answers that depend on a single English word (solid, liquid, gas in 1; beetle in 3; vibrates in 5) while the picture questions (4, 6) are right. Reading the question aloud, or once in Chinese (L), usually settles it.
 - **Everyday ideas** (for example "the stick hits the rice") are a science misconception, not an English problem.
 
+[[pagebreak]]
+
 ## 6. Score summary
 
 Complete on the day and copy onto `forms/Candidate_Summary_and_Decision`.

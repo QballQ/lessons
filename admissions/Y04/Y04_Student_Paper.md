@@ -288,13 +288,13 @@ Why does a worker bee do the waggle dance? **Write** your answer.
 
 [[lines:1]]
 
-[[pagebreak]]
-
 ### 20 [[marks:1]]
 
 Why would there be fewer apples and strawberries without bees? **Write** your answer.
 
 [[lines:2]]
+
+[[pagebreak]]
 
 ### 21 [[marks:1]]
 

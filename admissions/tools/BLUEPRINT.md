@@ -99,7 +99,7 @@ See `STYLE_GUIDE.md`, Sections 6 and 7, for the order and the access rules. In a
 | Sentence reading (shared record) | points / 72, reading age | | |
 | Writing | / 16 | A B C D E | |
 | Speaking (from the interview) | | A B C D E | |
-| Maths | / 30 (A / , B / , of which word problems / ) | 1 2 3 4 | NT: L: |
+| Maths | / 30 in Years 7 to 10, / 25 in Years 4 to 6 (A / , B / , of which word problems / ) | 1 2 3 4 | NT: L: |
 | Science | / 10 | 1 2 3 4 | NT: L: |
 
 (Years 1 to 3 replace the reading lines with the Early Reading Screen results: letter sounds, phonics words, tricky words, book band and accuracy.)

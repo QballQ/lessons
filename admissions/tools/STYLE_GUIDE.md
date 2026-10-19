@@ -5,7 +5,7 @@ This is for anyone (person or AI agent) writing or editing the source files. Sta
 ## 1. House rules
 
 - **British English.** Spellings such as colour, centre, metre, organise, practise (verb).
-- **No em dashes or en dashes anywhere**, including inside diagrams. Use a comma, a colon, brackets or the word "to" (for ranges: "5 to 10 minutes"). A hyphen is fine inside a compound word ("two-digit", "self-correct"). Check before you finish: `grep -nP "[\x{2013}\x{2014}]" yourfile.md diagrams/*.svg` must print nothing.
+- **No em dashes or en dashes anywhere**, including inside diagrams. Use a comma, a colon, brackets or the word "to" (for ranges: "5 to 10 minutes"). A hyphen is fine inside a compound word ("two-digit", "self-correct"). Check before you finish: `LC_ALL=C.UTF-8 grep -nP "[\x{2013}\x{2014}]" yourfile.md diagrams/*.svg` must print nothing.
 - **English only on student papers.** The papers are not bilingual. Measuring each student's English is one of the main purposes of the assessment. Staff documents are in English too.
 - **Accessible first.** Every student page must be easy to follow for a child who is still learning English:
   - short sentences, present tense, one instruction per line;
@@ -88,7 +88,7 @@ Markdown inside raw HTML is ignored unless the tag carries `markdown="1"` (the `
 
 - Hand-write clean SVG. One file per diagram, named `y05_m04_short_name.svg` (year, section letter m/s/e for maths/science/English, question number).
 - Always set a `viewBox`, plus `width` and `height` equal to the viewBox size. Include a `<title>` describing the picture.
-- **Size the viewBox to the printed size**, so text prints at the right size. The page content area is about 690 px wide. If the diagram will sit at `.w50`, make the viewBox about 345 units wide; then 1 unit prints as about 1 px, and `font-size="16"` prints at about 12 pt. Minimum printed label sizes: 16 pt Years 1 to 3, 12 pt Years 4 to 6, 10.5 pt Years 7 to 10.
+- **Size the viewBox to the printed size**, so text prints at the right size. The page content area is about 690 px wide, and about 660 px inside a question box. If the diagram will sit at `.w50` inside a question, make the viewBox about 330 units wide; then 1 unit prints as about 1 px, and `font-size="16"` prints at about 12 pt. Minimum printed label sizes: 16 pt Years 1 to 3, 12 pt Years 4 to 6, 10.5 pt Years 7 to 10.
 - Black line art that works in greyscale: strokes `#111`, width 2 to 3 units; fills only white, `#e6e6e6`, `#bdbdbd`, `#7a7a7a`, or hatching patterns. Never rely on colour to tell things apart.
 - Labels: `font-family="Atkinson Hyperlegible, Noto Sans, sans-serif"` (Years 1 to 3: `Andika, Atkinson Hyperlegible, sans-serif`), fill `#111`.
 - **The diagram must be exactly right.** Count the objects, check every angle, length, scale reading, axis value and label against the question and the mark scheme. When a measurement must not be taken from the drawing, print "Not drawn accurately" in the diagram.

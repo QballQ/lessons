@@ -317,6 +317,8 @@ List the NT questions and judge whether the student would reach band 3 once taug
 - **An English barrier** looks like wrong answers that depend on English words (reversible, evaporating, air resistance) while the picture questions (1, 5) are right. Reading the question aloud, or once in Chinese (L), usually settles it.
 - **Everyday ideas** (the Sun moves around the Earth; heavier things always fall faster) are science misconceptions, not English problems.
 
+[[pagebreak]]
+
 ## 6. Score summary
 
 Complete on the day and copy onto `forms/Candidate_Summary_and_Decision`.
