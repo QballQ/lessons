@@ -268,32 +268,30 @@ What do people make from the thread of cocoons?
 **Read** the story. Then answer questions 15 to 22.
 
 [[passage]]
-#### The Red Kite
+#### The Snowman at the Window
 
-Every spring, Li Na and her grandpa made a kite together. This year they made a red fish with a long, curling tail. Li Na painted gold scales on its body, one by one, until her fingers ached.
+When Chen Yu woke up, his bedroom was strangely bright. He pulled back the curtain. Snow! It covered the courtyard like a thick white blanket, and more was still falling, soft and silent.
 
-On Saturday, they carried the kite up the hill behind the village. The wind was wild. It tugged at Li Na's hair and snatched at the kite before she was ready.
+He pulled on his coat, his hat and two pairs of gloves, and raced down the stairs. His plan was simple: he would build the biggest snowman in the whole building.
 
-"Hold the string tightly," said Grandpa. "Let it out slowly, little by little."
+He rolled a ball of snow across the courtyard. It grew and grew until it was almost too heavy to push. Panting, he stopped to rest beside the ground-floor window of Mrs Zhao's flat.
 
-Li Na ran. The fish lifted, dipped, and then shot up into the sky. It swam higher and higher until it was only a small red shape above the trees. Li Na laughed. The string hummed in her hands like something alive.
+Mrs Zhao was eighty-two. Her legs were not strong any more, so when the ground was icy she stayed indoors. Chen Yu could see her sitting by the window, wrapped in a grey shawl, watching the snow. She looked small and still.
 
-Then she heard someone crying. A small boy was sitting on a rock. In his arms was a broken kite. Its paper was torn and its sticks were snapped.
+Chen Yu looked at his huge snowball in the middle of the courtyard. Then he looked at Mrs Zhao's window again.
 
-Li Na looked up at her fish. It was the best kite she had ever flown. Then she looked at the boy again.
+He left the giant snowball where it was. Right in front of her window, he started again. This snowman was much smaller, but he worked on it carefully. He gave it two black stones for eyes, a carrot for a nose and his own red scarf.
 
-Slowly, she wound in the string. When the fish was safe in her arms, she walked over to the rock.
+When it was finished, he tapped on the glass. Mrs Zhao looked up, and her whole face changed. She laughed and pressed her hand against the window, and Chen Yu waved back.
 
-"Would you like to fly it with me?" she asked.
+Later, his mother asked him why he had not finished the biggest snowman in the building.
 
-The boy wiped his eyes and nodded. Together they held the string, and the red fish climbed back into the sky.
-
-On the way home, Grandpa put his hand on Li Na's shoulder. "Today," he said, "you made something even better than a kite."
+Chen Yu smiled. "I made a better one," he said.
 [[/passage]]
 
 ### 15 [[marks:1]]
 
-What shape was this year's kite?
+What did Chen Yu plan to build?
 
 **Write** your answer in the box. [[answer:wide]]
 
@@ -301,13 +299,13 @@ What shape was this year's kite?
 
 ### 16 [[marks:1]]
 
-Where did Li Na and Grandpa fly the kite?
+Why did Mrs Zhao stay indoors when the ground was icy?
 
-**Write** your answer in the box. [[answer:full]]
+[[lines:2]]
 
 ### 17 [[marks:1]]
 
-"The wind was wild." **Find and copy** one word from the next sentence that shows the wind was strong.
+**Find and copy** one word from the first paragraph that tells you the snow made no sound.
 
 [[answer]]
 
@@ -317,21 +315,21 @@ Where did Li Na and Grandpa fly the kite?
 
 ### 18 [[marks:1]]
 
-"... until her fingers ached." What does **ached** mean here? **Tick** one box.
+"**Panting**, he stopped to rest." What does **panting** mean here? **Tick** one box.
 
-<p class="opt"><span class="tick"></span> hurt</p>
-<p class="opt"><span class="tick"></span> felt cold</p>
-<p class="opt"><span class="tick"></span> were clean</p>
-<p class="opt"><span class="tick"></span> were wet</p>
+<p class="opt"><span class="tick"></span> breathing fast and hard</p>
+<p class="opt"><span class="tick"></span> laughing loudly</p>
+<p class="opt"><span class="tick"></span> feeling cold</p>
+<p class="opt"><span class="tick"></span> singing quietly</p>
 
 ### 19 [[marks:1]]
 
-"The string hummed in her hands like something alive." What does this sentence tell you? **Tick** one box.
+"She looked small and still." What does this tell you about Mrs Zhao? **Tick** one box.
 
-<p class="opt"><span class="tick"></span> The kite was pulling hard in the wind.</p>
-<p class="opt"><span class="tick"></span> The kite was falling down.</p>
-<p class="opt"><span class="tick"></span> Li Na was singing a song.</p>
-<p class="opt"><span class="tick"></span> The string was broken.</p>
+<p class="opt"><span class="tick"></span> She was lonely and a little sad.</p>
+<p class="opt"><span class="tick"></span> She was excited about the snow.</p>
+<p class="opt"><span class="tick"></span> She was angry with Chen Yu.</p>
+<p class="opt"><span class="tick"></span> She was busy cooking.</p>
 
 [[/cols]]
 
@@ -339,13 +337,13 @@ Where did Li Na and Grandpa fly the kite?
 
 ### 20 [[marks:1]]
 
-Why was the boy crying?
+How did Mrs Zhao feel when she saw the snowman? How do you know?
 
 [[lines:2]]
 
 ### 21 [[marks:1]]
 
-Why did Li Na wind in the string and bring her kite down?
+Why did Chen Yu build the small snowman in front of Mrs Zhao's window?
 
 [[lines:2]]
 
@@ -353,9 +351,9 @@ Why did Li Na wind in the string and bring her kite down?
 
 ### 22 [[marks:1]]
 
-Grandpa says, "Today you made something even better than a kite." What do you think he means?
+Chen Yu says, "I made a better one." Why do you think he says the small snowman is better?
 
-[[lines:3]]
+[[lines:2]]
 
 [[stop]]
 

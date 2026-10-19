@@ -82,11 +82,11 @@ What time will they meet? **Tick** one box.
 
 What must Jun bring? **Tick** two boxes.
 
-![Five pictures with tick boxes: A a jacket, B an umbrella, C money, D a lantern, E a camera](diagrams/y06_e03_listen_bring.svg){.w100}
+![Five pictures with tick boxes: A a jacket, B an umbrella, C money, D a torch, E a camera](diagrams/y06_e03_listen_bring.svg){.w100}
 
 ### 4 [[marks:1]]
 
-Who is going to the show with Aisha? **Tick** one box.
+Who is going to the film night with Aisha? **Tick** one box.
 
 <p class="opt"><span class="tick"></span> her mum</p>
 <p class="opt"><span class="tick"></span> her dad and her little brother</p>
@@ -96,7 +96,7 @@ Who is going to the show with Aisha? **Tick** one box.
 
 ### 5 [[marks:1]]
 
-How long is the dragon lantern?
+How wide is the screen?
 
 **Write** your answer in the box.
 
@@ -104,7 +104,7 @@ How long is the dragon lantern?
 
 ### 6 [[marks:1]]
 
-What can they buy at the show?
+What can they buy in the park?
 
 **Write** your answer in the box.
 
@@ -215,28 +215,30 @@ What does he get for free? **Write** your answer in the box. [[answer:wide]]
 **Read** the story. Then answer questions 8 to 15.
 
 [[passage]]
-#### The Lucky Coin
+#### The Rainy Day Picnic
 
-It was Spring Festival. Amir was having dinner at his friend Wang Hao's flat. The table was full of food: fish, noodles, green vegetables and a big plate of dumplings.
+On Sunday morning, Sofia and her little brother Tom were ready for a picnic in the park. Mum had made sandwiches, and Dad had packed some fruit and a big red blanket.
 
-"Grandma has hidden a coin in one of the dumplings," said Wang Hao. "If you find it, you will have good luck all year."
+Then Sofia looked out of the window. Dark clouds were rolling across the sky. A moment later, rain began to beat against the glass.
 
-Amir picked up a dumpling with his chopsticks. He was still learning to use chopsticks, and the dumpling fell back onto the plate. Everyone smiled. He tried again, more slowly this time. The dumpling stayed between the chopsticks.
+"Oh no," said Tom. His face crumpled, and he looked as if he was going to cry.
 
-He bit into it carefully. There was something hard inside. He took it out. It was a shiny coin!
+Sofia had an idea. She pushed the sofa back against the wall and spread the red blanket on the living-room floor. Then she put Tom's toy animals all around the edge of the blanket.
 
-"Amir found it!" shouted Wang Hao's little sister.
+"Welcome to the indoor park!" she said.
 
-Grandma clapped her hands. "Our guest will have a lucky year," she said.
+Dad played birdsong on his phone. Mum put a big plant in the middle of the blanket and called it a tree. They ate their sandwiches on the floor, and Tom gave pretend grapes to his toy lion.
 
-Amir smiled so much that his face hurt. It was his first Spring Festival in China, and he already felt like part of the family.
+After lunch, the rain stopped and the sun came out. But nobody wanted to go to the park.
+
+"Can we have an indoor picnic every Sunday?" asked Tom.
 [[/passage]]
 
 [[cols:2]]
 
 ### 8 [[marks:1]]
 
-Which festival was it?
+On which day was the picnic?
 
 **Write** your answer in the box.
 
@@ -244,15 +246,15 @@ Which festival was it?
 
 ### 9 [[marks:1]]
 
-**Tick** the **two** foods that were on the table.
+**Tick** the **two** things that Dad packed.
 
-[[tick]] fish &nbsp; [[tick]] pizza
+[[tick]] fruit &nbsp; [[tick]] sandwiches
 
-[[tick]] dumplings &nbsp; [[tick]] cake
+[[tick]] a blanket &nbsp; [[tick]] a ball
 
 ### 10 [[marks:1]]
 
-What did Grandma hide in one of the dumplings?
+What colour was the blanket?
 
 **Write** your answer in the box.
 
@@ -260,7 +262,7 @@ What did Grandma hide in one of the dumplings?
 
 ### 11 [[marks:1]]
 
-Who shouted, "Amir found it!"?
+What did Mum use as a tree?
 
 **Write** your answer in the box.
 
@@ -270,25 +272,25 @@ Who shouted, "Amir found it!"?
 
 ### 12 [[marks:1]]
 
-Why did the first dumpling fall back onto the plate?
+Why could the family not go to the park in the morning?
 
 [[lines:2]]
 
 ### 13 [[marks:1]]
 
-How did Amir know there was something inside his dumpling?
+What did Sofia put around the edge of the blanket?
 
 [[lines:1]]
 
 ### 14 [[marks:1]]
 
-"Amir smiled so much that his face hurt." How did Amir feel? **Tick** one box.
+"His face crumpled, and he looked as if he was going to cry." How did Tom feel? **Tick** one box.
 
-[[tick]] very happy &nbsp; &nbsp; [[tick]] hurt &nbsp; &nbsp; [[tick]] angry &nbsp; &nbsp; [[tick]] tired
+[[tick]] sad &nbsp; &nbsp; [[tick]] happy &nbsp; &nbsp; [[tick]] hungry &nbsp; &nbsp; [[tick]] angry
 
 ### 15 [[marks:1]]
 
-Why do you think Amir "already felt like part of the family"?
+When the sun came out, nobody wanted to go to the park. Why do you think this was?
 
 [[lines:2]]
 

@@ -153,18 +153,18 @@ Start the timer. Say "Two minutes left" at 10 minutes and "Please stop" at 12 mi
 | 13 | 1 | Boxes read **2, 4, 1, 3** (silkworm 2, moth 4, eggs 1, cocoon 3) | all four correct for the mark | |
 | 14 | 1 | silk | silk clothes | "clothes" on its own |
 
-**Part C: The Red Kite** (questions 15 to 22, / 8). Age-appropriate fiction for a fluent reader of 9.
+**Part C: The Snowman at the Window** (questions 15 to 22, / 8). Age-appropriate fiction for a fluent reader of 9.
 
 | Q | Marks | Skill | Answer | Also accept | Do not accept |
 |---|---|---|---|---|---|
-| 15 | 1 | retrieval | a fish | a red fish; a fish kite | "red" on its own |
-| 16 | 1 | retrieval | on the hill behind the village | on a hill; the hill; behind the village | in the sky; in the village |
-| 17 | 1 | vocabulary | tugged **or** snatched | both words written | wild (it is in the given sentence) |
-| 18 | 1 | vocabulary in context | hurt | | |
-| 19 | 1 | figurative language | The kite was pulling hard in the wind. | | |
-| 20 | 1 | inference | His kite was broken. | it was torn; the sticks were snapped; he could not fly his kite | "he was sad" (restates the question) |
-| 21 | 1 | inference | So that she could share her kite with the boy | to let him fly it; to help him; to make him happy | "the wind stopped"; "it was time to go home" |
-| 22 | 1 | why do you think | Li Na was kind: she shared, made a new friend or made the boy happy, and that is better than a kite | any answer about kindness, sharing, friendship or making someone happy | retelling ("she made a fish kite") |
+| 15 | 1 | retrieval | the biggest snowman in the building | the biggest snowman; a big snowman; a snowman | "a snowball" |
+| 16 | 1 | retrieval | Her legs were not strong any more. | her legs are weak; she could not walk on the ice; she might fall | "it was cold"; "she was watching the snow" |
+| 17 | 1 | vocabulary | silent | | soft; quiet (not in the paragraph) |
+| 18 | 1 | vocabulary in context | breathing fast and hard | | |
+| 19 | 1 | inference | She was lonely and a little sad. | | |
+| 20 | 1 | inference with evidence | happy (or surprised, delighted), because she laughed, or pressed her hand against the window, or her face changed | any suitable feeling with a reason from the story | a feeling with no reason; "sad" |
+| 21 | 1 | inference | So that Mrs Zhao could see it from her window | to make her happy; because she could not go outside to see the snow; it was a present for her | "because the snowball was too heavy" |
+| 22 | 1 | why do you think | It made Mrs Zhao happy: it was for someone else, and being kind matters more than being the biggest | any answer about kindness, making someone happy or thinking of others | "it had a scarf"; "it was smaller" with no reason |
 
 **Band guide**
 

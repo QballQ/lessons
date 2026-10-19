@@ -71,17 +71,17 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 
 ### 3.1 Listening (5 minutes, / 8)
 
-**Say:** "Turn to page 2. I am going to read a phone conversation between two friends, Aisha and Jun. They are talking about the Mid-Autumn lantern show. First I will read the questions to you. Then I will read the conversation two times. You can answer while I read. Answer on pages 2 and 3."
+**Say:** "Turn to page 2. I am going to read a phone conversation between two friends, Aisha and Jun. They are talking about a film night in the park at Mid-Autumn. First I will read the questions to you. Then I will read the conversation two times. You can answer while I read. Answer on pages 2 and 3."
 
 **Read the questions aloud once**, slowly, pointing to each number. Do not name or explain the pictures.
 
-> "Question 1. Where will Aisha and Jun meet? Tick one box. Question 2. What time will they meet? Tick one box. Question 3. What must Jun bring? Tick two boxes. Question 4. Who is going to the show with Aisha? Tick one box. Question 5. How long is the dragon lantern? Question 6. What can they buy at the show? Question 7. Why does Aisha change the place where they meet? Question 8. Jun's piano lesson finishes at six o'clock. Will he be late? Tick yes or no, and explain your answer."
+> "Question 1. Where will Aisha and Jun meet? Tick one box. Question 2. What time will they meet? Tick one box. Question 3. What must Jun bring? Tick two boxes. Question 4. Who is going to the film night with Aisha? Tick one box. Question 5. How wide is the screen? Question 6. What can they buy in the park? Question 7. Why does Aisha change the place where they meet? Question 8. Jun's piano lesson finishes at six o'clock. Will he be late? Tick yes or no, and explain your answer."
 
 **Say:** "Now listen. I will read the conversation two times."
 
 **Read it twice at a natural, steady pace.** Read both parts yourself: say each speaker's name before their words, and change your voice a little. Pause for about 3 seconds at each [pause]. After the first reading, wait 20 seconds, then say "Now listen again" and read it again. After the second reading, give one minute to finish.
 
-> **Aisha:** Hello, Jun. It's Aisha. Are you still coming to the lantern show on Saturday?
+> **Aisha:** Hello, Jun. It's Aisha. Are you still coming to the film night in the park on Saturday?
 >
 > **Jun:** Yes! My mum says I can go. Where shall we meet?
 >
@@ -89,7 +89,7 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 >
 > **Jun:** OK, outside the library. What time?
 >
-> **Aisha:** The show starts at seven o'clock, but we want to find a good place to stand. Can you be there at a quarter past six?
+> **Aisha:** The film starts at seven o'clock, but we want to find a good place to sit. Can you be there at a quarter past six?
 >
 > **Jun:** A quarter past six. My piano lesson finishes at six, and it's only ten minutes from the library. So that's fine. [pause]
 >
@@ -99,13 +99,13 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 >
 > **Aisha:** Bring a jacket, because it gets cold by the river at night. And bring a little money, about twenty yuan. Dad says we can buy mooncakes there. [pause]
 >
-> **Jun:** Will we see the dragon lantern? My cousin says it's fifteen metres long!
+> **Jun:** Is the screen really big? My cousin says it's fifteen metres wide!
 >
-> **Aisha:** Yes, it's the biggest lantern in the show. At eight o'clock, the dragon starts to move along the river. We mustn't miss that. [pause]
+> **Aisha:** Yes, it's the biggest outdoor screen in the city. The film is about a panda who travels to the Moon, so it's perfect for Mid-Autumn. [pause]
 >
 > **Jun:** What if it rains?
 >
-> **Aisha:** Then the show will be on Sunday instead. Dad will send your mum a message.
+> **Aisha:** Then the film night will be on Sunday instead. Dad will send your mum a message.
 >
 > **Jun:** Perfect. See you on Saturday!
 
@@ -114,11 +114,11 @@ Extra time or a reader for a known need is allowed: record it in the score summa
 | Q | Answer | Also accept | Do not accept | What it tests |
 |---|---|---|---|---|
 | 1 | **B** library | | A park gate (the first plan, changed) | a change of plan |
-| 2 | **B** 6:15 | | A 6:00 (the piano lesson ends), C 7:00 (the show starts) | "a quarter past"; distractor times |
-| 3 | **A** jacket and **C** money | both ticked and nothing else | umbrella (rain is mentioned), lantern | two details |
+| 2 | **B** 6:15 | | A 6:00 (the piano lesson ends), C 7:00 (the film starts) | "a quarter past"; distractor times |
+| 3 | **A** jacket and **C** money | both ticked and nothing else | umbrella (rain is mentioned), torch (it will be dark, but she does not ask for one) | two details |
 | 4 | her dad and her little brother | | her cousin (only mentioned) | detail |
 | 5 | **15** | fifteen | 50 (fifteen and fifty sound alike) | number |
-| 6 | mooncakes | moon cakes, mooncake, any recognisable spelling | lanterns | key word |
+| 6 | mooncakes | moon cakes, mooncake, any recognisable spelling | a film; tickets | key word |
 | 7 | The main gate gets very crowded. | crowded; too many people there; "many people" | "the library is near the park" (true, but not the reason) | reason stated in the text |
 | 8 | **No**, because the lesson is only ten minutes from the library, so he gets there at about ten past six, before a quarter past six | No with any reason about the ten minutes or arriving before 6:15 | Yes; No with no reason | inference: combines three facts |
 
@@ -155,18 +155,18 @@ Start the timer. Say "Two minutes left" at 10 minutes and "Please stop" at 12 mi
 | 6 | 2 | open on Mondays: **False**; fried rice costs more than an egg sandwich: **True** | 1 mark each | the second needs a comparison (¥15 and ¥12) |
 | 7 | 1 | a drink | a free drink; any drink on the menu | "rice", "food" |
 
-**Part B: The Lucky Coin** (questions 8 to 15, / 8). A story about two years below age level.
+**Part B: The Rainy Day Picnic** (questions 8 to 15, / 8). A story about two years below age level.
 
 | Q | Marks | Answer | Also accept | Do not accept |
 |---|---|---|---|---|
-| 8 | 1 | Spring Festival | Chinese New Year, Lunar New Year | Mid-Autumn Festival |
-| 9 | 1 | fish and dumplings | both ticked and nothing else | |
-| 10 | 1 | a coin | a shiny coin; money | a dumpling |
-| 11 | 1 | Wang Hao's little sister | his sister; the sister | Wang Hao; Grandma |
-| 12 | 1 | Amir was still learning to use chopsticks. | he could not use chopsticks well; chopsticks were hard for him | "it was slippery" (not in the story) |
-| 13 | 1 | There was something hard inside. | it felt hard when he bit it | "he saw it" |
-| 14 | 1 | very happy | | hurt |
-| 15 | 1 | The family made him welcome: everyone smiled and clapped, and Grandma called him their guest and said he would be lucky. | any reason from the story about the family's kindness, sharing their tradition, or finding the lucky coin | "because he was in China"; a retelling with no reason |
+| 8 | 1 | Sunday | on Sunday; Sunday morning | Saturday |
+| 9 | 1 | fruit and a blanket | both ticked and nothing else | sandwiches (Mum made them) |
+| 10 | 1 | red | | |
+| 11 | 1 | a (big) plant | plant; a flower pot | "a tree" (that is what she called it) |
+| 12 | 1 | It started to rain. | it was raining; there was rain; dark clouds and rain | "it was cold"; "Tom was crying" |
+| 13 | 1 | Tom's toy animals | toy animals; toys; animals | "a lion" on its own; "sandwiches" |
+| 14 | 1 | sad | | angry, hungry |
+| 15 | 1 | They were enjoying the indoor picnic so much: it was fun, and they did not need the park any more. | any reason about enjoying the indoor picnic or having fun at home; "they were happy at home" | "because it was raining" (it had stopped); a retelling with no reason |
 
 **Part C: How Seeds Travel** (questions 16 to 23, / 8). Age-appropriate non-fiction for a fluent reader of 10.
 
