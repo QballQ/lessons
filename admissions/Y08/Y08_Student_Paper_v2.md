@@ -49,7 +49,7 @@ Do your best. It is fine if you cannot answer every question.
 
 | Part | What you do | Time |
 |---|---|---|
-| Listening | Listen to a conversation and a short talk. Answer 16 questions. | 10 minutes |
+| Listening | Listen to a conversation and a short talk. Answer 16 questions. | about 12 minutes |
 | Reading | Read three texts. Answer the questions. | 15 minutes |
 | Writing | Choose one task. Write about 20 lines. | 10 minutes |
 | Break | Have a short rest. | 5 minutes |

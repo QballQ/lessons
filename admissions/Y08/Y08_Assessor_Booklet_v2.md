@@ -14,14 +14,14 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5) | 10 | Assessor reads each script twice | This booklet, Section 3.1 | Part A: a conversation, you read both voices. Part B: a short talk. Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5) | about 12 | Assessor reads each script twice | This booklet, Section 3.1 | Part A: a conversation, you read both voices. Part B: a short talk. Can be done with a small group |
 | 3 | Reading paper (pages 6 to 12) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 13 to 14) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
 | 6 | Maths (pages 15 to 20) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A Fluency, Section B Word questions, Section C Applied problems |
 | 7 | Science (pages 21 to 23) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | `forms/Interview_Record_Y7_Y10`, `shared/Sentence_Reading_Record`, `shared/Sentence_Reading_Card`, a plain card | Sentence reading starts at **Level 7** (sentence 19) |
-| | **Total** | **about 85** | | | Student time. With the welcome and the break, allow about 90 minutes. Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 90** | | | Including the welcome and the break. Plus the parent conversation (about 15 minutes, separate) |
 
 **Print for each candidate:** the Year 8 student paper, version 2 (23 pages, A4; print it double-sided, so that the listening Part B pages, 4 and 5, and the reading Part C article, pages 10 and 11, face each other), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
 
@@ -29,7 +29,7 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 
 | Part | Version 1 | Version 2 |
 |---|---|---|
-| Listening | One conversation, 8 marks, 5 minutes | **Part A** is the version 1 conversation, unchanged (questions 1 to 8). **Part B** is new: a short academic talk (questions 9 to 16). 16 marks, about 10 minutes |
+| Listening | One conversation, 8 marks, 5 minutes | **Part A** is the version 1 conversation, unchanged (questions 1 to 8). **Part B** is new: a short academic talk (questions 9 to 16). 16 marks, about 12 minutes |
 | Reading | Three texts, 24 marks, 12 minutes | **Part A** is version 1 Part A (the notice). **Part B** is version 1 Part C (the sleep article), renumbered 7 to 13. **Part C** is new: a feature article above age level (questions 14 to 20). 24 marks, 15 minutes |
 | Maths | Number problems and word problems, 30 marks, 20 minutes | Aimed at the higher end, in three sections: **Fluency** (10 marks), **Word questions** (8) and **Applied problems** (12). 30 marks, 25 minutes, with three sub-scores |
 | Writing, science, interview | | Unchanged |
@@ -55,11 +55,11 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 
 ## 3. English
 
-### 3.1 Listening (about 10 minutes, 16 marks)
+### 3.1 Listening (about 12 minutes, 16 marks)
 
 There are two parts. **Part A** is the everyday conversation from version 1, unchanged. **Part B** is a short talk at the level of a lesson for a fluent student of 12 to 13.
 
-#### Part A: Mei and Amir talk about the charity fair (questions 1 to 8, about 4 minutes)
+#### Part A: Mei and Amir talk about the charity fair (questions 1 to 8, about 5 minutes)
 
 **Say:** "Turn to the Listening pages. There are two parts. In Part A, I am going to read a conversation between two students, Mei and Amir. I will read it two times. First, read questions 1 to 8." Give the student **one minute** to look at questions 1 to 8 (pages 2 and 3). Then say: "Now listen. You can answer while I read."
 
@@ -103,6 +103,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 > **Amir:** Me too. Everybody will walk past us when they come in!
 [[/keep]]
 
+[[keep]]
 **Answers.** One mark each. Spelling does not matter if the meaning is clear. Answers must be in English.
 
 | Q | Answer | Also accept | Do not accept, and what it tells you |
@@ -115,12 +116,15 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 | 6 | **200** | 200 yuan, ¥200 | 400: heard the takings but not "after we pay my aunt". |
 | 7 | He has a piano lesson at one o'clock (and the fair goes on until two). | He has a piano lesson; he has to go to piano. | "He is drawing the signs"; "He is busy" with no reason. |
 | 8 | Everybody walks past the main gate when they come in, so more people will see the stall. | It is not next to the music stage, so it is quieter and people can hear them; more customers. | "Because it is near the gate" with no reason; "because it is big". |
+[[/keep]]
 
-#### Part B: Dr Lin's talk about noise in cities (questions 9 to 16, about 6 minutes)
+#### Part B: Dr Lin's talk about noise in cities (questions 9 to 16, about 7 minutes)
 
 **Say:** "Now turn to Part B on page 4. I am going to read a short talk by a scientist, Dr Lin. She is talking to a class about noise in cities. I will read it two times. First, read questions 9 to 16. You have one minute." After one minute, say: "Now listen. You can answer while I read."
 
 **Read it twice at a natural, steady classroom pace**, as a teacher would give a short talk: about 150 words a minute, so each reading takes about two and a half minutes. Pause for about 2 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part, do not explain any word, and do not answer questions about the talk. Practise the talk aloud once before the day. Say these words clearly: **decibels** (DESS-ih-bels), **adrenaline** (a-DREN-a-lin), **chronic** (KRON-ik), **Munich** (MYOO-nik).
+
+**About the talk** (for the English team). 389 words in 25 sentences (average 15.6 words); 19% of the words are outside the 2000 most common English word forms (15% after simple ending rules, names left out; method as in `02_Listening_Evidence_Statement`, Section 6). Features: a process and a chain of cause and effect (questions 11 and 15), comparisons and contrasts (a fountain and a street; the old and new airports), numbers and a statistic, subject words explained in passing (decibels, hormones, chronic), a correction ("Actually, that's not quite right", question 10), an opinion that is implied, not stated (question 14), and discourse markers (as a result, however, whereas, on the other hand, interestingly). The facts are simplified but sound: decibels and loudness, the stress response, European traffic noise figures and the Munich airport study (children's reading and memory near the old and new airports, 1992 onwards).
 
 [[keep]]
 > **Script: Dr Lin's talk about noise in cities**
@@ -155,8 +159,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 | 15 | Inference joining two parts of the talk | The park has fountains, and (as Dr Lin said earlier) most people find the sound of running water relaxing, while traffic makes them tense. So the park feels calmer even though it is almost as loud. | They hear water, which is relaxing; the sound of the fountains is nicer or calmer than traffic; the fountains are relaxing; the water sound covers the traffic | "Because it is quieter" (she says the level is only slightly lower); "because there are fountains" with no idea of the sound being relaxing or pleasant; "because of the trees" (not said). |
 | 16 | Main purpose | **to show that noise harms health, and that cities do not have to be so noisy** | | "how scientists measure sound" and "noise in different cities in Europe" are single details; "electric cars will solve the problem of noise" is the opposite of her view. |
 
-**What the talk contains** (for the English team). 389 words in 25 sentences (average 15.6 words); 19% of the words are outside the 2000 most common English word forms (15% after simple ending rules, names left out; method as in `02_Listening_Evidence_Statement`, Section 6). Features: a process and a chain of cause and effect (questions 11 and 15), comparisons and contrasts (a fountain and a street; the old and new airports), numbers and a statistic, subject words explained in passing (decibels, hormones, chronic), a correction ("Actually, that's not quite right", question 10), an opinion that is implied, not stated (question 14), and discourse markers (as a result, however, whereas, on the other hand, interestingly). The facts are simplified but sound: decibels and loudness, the stress response, European traffic noise figures and the Munich airport study (children's reading and memory near the old and new airports, 1992 onwards).
-
+[[keep]]
 **Band guide v2 (listening, / 16).** Use the part scores, in this order:
 
 | Result | Band |
@@ -166,6 +169,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 | Part A 5 to 6, or Part A 7 to 8 with Part B 0 to 2 | **C** |
 | Part A 7 to 8 with Part B 3 to 5 | **D** |
 | Part A 7 to 8 with Part B 6 to 8 | **E** |
+[[/keep]]
 
 Part A places a student in bands A to C; Part B separates C, D and E. If Part B is well above what Part A suggests (for example Part A 5, Part B 6), look for a slip in Part A, use judgement, and compare with "listening in conversation" on the interview record.
 
@@ -180,6 +184,7 @@ Part A places a student in bands A to C; Part B separates C, D and E. If Part B 
 
 **Mark scheme.** Spelling and grammar are not marked in reading answers if the meaning is clear. Answers copied from the text are fine when they answer the question, except where the question asks for the student's own words (questions 15 and 20). Answers must be in English; an answer in Chinese scores 0.
 
+[[keep]]
 **Part A: Greenway Sports Centre** (a notice; very accessible, with pictures; version 1 Part A, unchanged)
 
 | Q | Answer | Also accept | Do not accept |
@@ -190,7 +195,9 @@ Part A places a student in bands A to C; Part B separates C, D and E. If Part B 
 | 4 | A 2 yuan coin | 2 yuan; a coin | "A student card" |
 | 5 | a False · b True · c False | | 1 mark for each correct row (3 marks) |
 | 6 | 30 yuan | 30, ¥30, 15 + 15 | 15 (one ticket); 60 (adult price) |
+[[/keep]]
 
+[[keep]]
 **Part B: Sleep: why teenagers need more of it** (non-fiction, age-appropriate for a fluent reader of 12; version 1 Part C, renumbered: version 1 questions 14 to 20 are now 7 to 13)
 
 | Q | Skill | Answer | Also accept | Do not accept |
@@ -202,7 +209,9 @@ Part A places a student in bands A to C; Part B separates C, D and E. If Part B 
 | 11 | Inference | During deep sleep, the brain sorts and stores what we have learnt. | Sleep helps the brain save or keep information; the brain organises learning while you sleep | "Because they are not tired" with no link to memory |
 | 12 | Author's purpose | To make teenage readers feel understood (it is not their fault), so they want to read on. | To get the reader's attention; to speak directly to the reader; to surprise the reader; to show it is about biology, not being lazy | "Because teenagers are lazy" |
 | 13 | Author's purpose | to explain a problem and give advice | | |
+[[/keep]]
 
+[[keep]]
 **Part C: The Alien in the Rock Pool** (a non-fiction feature article above age level: 595 words, rich vocabulary, a point of view to infer)
 
 | Q | Skill | Answer | Also accept | Do not accept |
@@ -214,7 +223,9 @@ Part A places a student in bands A to C; Part B separates C, D and E. If Part B 
 | 18 | Inference with evidence | An octopus has very little time to learn (only a year or two), and nobody teaches it, because it never meets its parents: it has to work everything out for itself, and quickly. | Any answer that links the short life, or learning without parents or teachers, to how much it achieves, with evidence ("only a year or two", "never meet their parents", "Nobody shows them", "almost from nothing") | "Because octopuses are clever" with no reason; "because they live a short time" with no link to learning |
 | 19 | Writer's viewpoint | The writer thinks the usual way is too narrow and too centred on humans: we judge animals by how much they are like us, so we may miss other kinds of intelligence. Evidence: "how closely an animal resembles us", "exposes how narrow the tests are", "looking down on creatures that are not like us", "a little humility". | We think we are the cleverest, or we look down on animals that are different; the tests only measure being like humans; the writer criticises it, with one piece of evidence | "The writer thinks the tests are good"; "octopuses are cleverer than humans" (the writer does not say this); a view with no evidence |
 | 20 | Summary (2 marks) | Any three of: **a** most of its nerve cells are in its arms, so it partly thinks with its arms; **b** its intelligence developed separately from ours, on a different branch of the tree of life; **c** it learns everything by itself, without parents or teachers, in a very short life; **d** it can match colours it probably cannot see; **e** it lives almost entirely alone. | **2 marks:** three different points, mostly in the student's own words. **1 mark:** two different points, or three points copied word for word. | One point only: 0. Things octopuses do that humans also do (using tools, solving puzzles, escaping) are not differences. |
+[[/keep]]
 
+[[keep]]
 **Band guide v2 (reading paper).** Use the part scores, in this order:
 
 | Result | Band |
@@ -224,6 +235,7 @@ Part A places a student in bands A to C; Part B separates C, D and E. If Part B 
 | Part B 3 to 5 | **C** |
 | Part B 6 to 8 with Part C 0 to 4 | **D** |
 | Part B 6 to 8 with Part C 5 to 8 | **E** |
+[[/keep]]
 
 Use judgement when a result is uneven (for example a high Part C with a low Part B, which can happen when a student ran out of time or misread one instruction), and check against the sentence reading screen in the interview.
 
@@ -274,6 +286,7 @@ Read any question aloud on request, as often as asked, and point to the picture.
 
 **Marking.** Accept any clear, correct method. A correct answer with no working scores full marks, except in questions 14 and 18, where the working is the answer. Accept equivalent answers (for example 1/4 for 0.25) unless the question asks for a form (index form in question 1, standard form in question 9). Where a method mark is shown, give it for a correct method with one arithmetic slip. **ft** (follow through): where a later step uses an earlier wrong answer correctly, give the later mark. Where units are printed on the paper, a missing unit does not lose a mark. Explanations must be in English; short phrases with numbers are enough.
 
+[[keep]]
 **Section A: Fluency (10 marks).** Calculation and algebra, no context. Questions 1 to 4 are at the level expected on entry to Year 8; questions 5 to 9 are Year 8 content.
 
 | Q | Answer | Marks | Accept, partial credit and common errors | Content |
@@ -287,7 +300,9 @@ Read any question aloud on request, as often as asked, and point to the picture.
 | 7 | *x* < 3 | 1 | 3 > *x*. *x* > 3 means the inequality was not reversed after dividing by −3 (very common). *x* = 3, or 3 alone, scores 0. | Solving a linear inequality (Year 8) |
 | 8 | *y*<sup>7</sup> | 1 | *y*<sup>2</sup> means the powers in (*y*<sup>4</sup>)<sup>3</sup> were added, not multiplied. | Index laws (Year 8) |
 | 9 | 1.2 × 10<sup>9</sup> | 1 | 12 × 10<sup>8</sup> and 1 200 000 000 have the right value but are not in standard form: 0, note it. 12 × 10<sup>15</sup> means the powers were multiplied. | Standard form (Year 8 to 9: ceiling item) |
+[[/keep]]
 
+[[keep]]
 **Section B: Word questions (8 marks).** Words only, no diagrams: the student must read the sentences and set up the maths. Any correct method earns full marks (an equation, a bar model, a reasoned trial); a correct equation earns the method mark.
 
 | Q | Answer | Marks | Accept, partial credit and common errors | Content |
@@ -296,7 +311,9 @@ Read any question aloud on request, as often as asked, and point to the picture.
 | 11 | 40 | 2 | **1 mark** for a correct equation (*n* + (*n* + 2) + (*n* + 4) = 114, or 3*n* + 6 = 114), or 36 or 38 seen, or 114 ÷ 3 = 38. 39 (from 37, 38 and 39: consecutive numbers, not consecutive even numbers) scores 1. | Consecutive integers; forming an equation |
 | 12 | ¥96 | 2 | **1 mark** for 12 seen (one part: 24 ÷ 2), or Amir ¥36, or Sofia ¥60. 64 (¥24 taken as Amir's 3 parts) or 38.4 (¥24 taken as Sofia's share) score 0. | Ratio: using the difference between the parts |
 | 13 | 48 (cm²) | 2 | **1 mark** for 3*w* − 4 = *w* + 4, or width 4, or length 12, or the square's side 8 seen. 64 (the square's area) or 32 (the rectangle's perimeter) with width 4 and length 12 seen score 1. | Forming and solving an equation with the unknown on both sides; area |
+[[/keep]]
 
+[[keep]]
 **Section C: Applied problems (12 marks).** Multi-step problems in real contexts, with a diagram, table or map in every question. Question 18 (a garden sprinkler) is the unfamiliar context; questions 14, 17b and 18 ask the student to explain or show.
 
 | Q | Answer | Marks | Accept, partial credit and common errors | Content |
@@ -306,6 +323,7 @@ Read any question aloud on request, as often as asked, and point to the picture.
 | 16 | 9:58 | 3 | **1 mark** for the real distance: 4.5 km (or 4500 m, or 450 000 cm) from 9 cm × 50 000. **1 mark** for the time: 18 minutes (or 0.3 hours), ft their distance ÷ 15. **1 mark** for the arrival time, ft 9:40 + their minutes. Accept 09:58, 9.58, 9:58 am. 45 km (450 000 cm taken as 45 km) gives 3 hours and 12:40: scores 2 (ft). One length only (for example 3 cm) loses the first mark; ft the rest. 0.3 hours taken as 30 minutes loses the second mark; 10:10 then earns the third. | Map scales; converting units; speed, distance and time |
 | 17 | a 2.2 · b Jun did not use how many students read each number of books: he must multiply by the numbers of students and divide by 20, not 5. | 2 + 1 | a: **1 mark** for 44 seen (the total number of books), or for at least three correct products (1 × 5, 2 × 6, 3 × 5, 4 × 3); **2 marks** for 2.2. 44 as the final answer, or 8.8 (44 ÷ 5): 1. b: any clear statement that Jun ignored the numbers of students, or that there are 20 students, not 5, or that more students read 2 or 3 books than 0. "He added it wrong" or "the answer is 2.2" alone: 0. | Mean from a frequency table; explaining a mistake |
 | 18 | Circle: 3.14 × 3 × 3 = 28.26 m². Lawn: 6 × 6 = 36 m². Three quarters of 36 = 27 m². 28.26 > 27, so more than three quarters of the lawn gets water. | 2 | **1 mark** for both areas: 28.26 (or 9π, or 28.3) and 36. **2 marks** for a correct comparison with a conclusion: 28.26 > 27; or 28.26 ÷ 36 = 0.785 (78.5%) > 75%; or the dry part is 7.74 m², less than a quarter (9 m²). Also accept 9π > 9 × 3 = 27, because π > 3. The circumference (18.84) or the diameter used as the radius (113.04): 0, note it. | Area of a circle in context; showing a result (unfamiliar context) |
+[[/keep]]
 
 **Totals and sub-scores:** **Fluency** (Section A, questions 1 to 9) / 10 · **Word questions** (Section B, questions 10 to 13) / 8 · **Applied** (Section C, questions 14 to 18) / 12 · **Total** / 30.
 

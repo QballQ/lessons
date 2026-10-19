@@ -24,7 +24,7 @@
 <polygon points="192,92 187,102 197,102" fill="#111"/>
 <polygon points="192,188 187,178 197,178" fill="#111"/>
 <line x1="172" y1="92" x2="198" y2="92" stroke="#111" stroke-width="1.5"/>
-<text x="200" y="146" font-size="17" font-weight="700" fill="#111">6 cm</text>
+<text x="200" y="174" font-size="17" font-weight="700" fill="#111">6 cm</text>
 <line x1="170" y1="104" x2="324.1" y2="71.0" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="5 4"/>
 <line x1="170" y1="128" x2="324.1" y2="149.0" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="5 4"/>
 <rect x="150" y="100" width="22" height="32" fill="none" stroke="#7a7a7a" stroke-width="1.5" stroke-dasharray="4 3"/>

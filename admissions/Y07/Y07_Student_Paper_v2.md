@@ -46,7 +46,7 @@ Do your best. It is fine if you cannot answer every question.
 
 | Part | What you do | Time |
 |---|---|---|
-| Listening | Listen to a message and a talk. Answer 16 questions. | 10 minutes |
+| Listening | Listen to a message and a talk. Answer 16 questions. | about 12 minutes |
 | Reading | Read three texts. Answer the questions. | 15 minutes |
 | Writing | Choose one task. Write about 20 lines. | 10 minutes |
 | Break | Have a short rest. | 5 minutes |
@@ -136,7 +136,7 @@ The roots of a cactus spread out just below the surface of the ground. Why is th
 **Complete** the notes. **Write** one, two or three words in each box.
 
 [[example]]
-Many desert animals are nocturnal. They look for food at <span class="ans wide exn">night</span>
+Many desert animals are nocturnal. They look for food at <span class="ans exn">night</span>
 [[/example]]
 
 #### Notes: desert animals

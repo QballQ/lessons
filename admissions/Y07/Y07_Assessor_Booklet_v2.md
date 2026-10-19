@@ -14,14 +14,14 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | 10 | Assessor reads each script twice | This booklet, Section 3.1 | Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | about 12 | Assessor reads each script twice | This booklet, Section 3.1 | Can be done with a small group |
 | 3 | Reading paper (pages 6 to 12) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 13 to 14) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
 | 6 | Maths (pages 15 to 20) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A fluency, Section B word questions, Section C applied problems |
 | 7 | Science (pages 21 to 23) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | `forms/Interview_Record_Y7_Y10`, `shared/Sentence_Reading_Record`, `shared/Sentence_Reading_Card`, a plain card | Sentence reading starts at **Level 6** (sentence 16) |
-| | **Total** | **about 85 to 90** | | | Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 90** | | | Plus the parent conversation (about 15 minutes, separate) |
 
 **Print for each candidate:** the Year 7 v2 student paper (23 pages, A4), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
 
@@ -46,15 +46,15 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 
 ## 3. English
 
-### 3.1 Listening (about 10 minutes, 16 marks)
+### 3.1 Listening (about 12 minutes, 16 marks)
 
-Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B.
+Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. Reading both scripts twice, with the time to read the questions and to finish, takes about 12 minutes.
 
 #### Part A: a phone message (questions 1 to 8, 8 marks)
 
 **Say:** "Turn to the Listening page. This is Part A. I am going to read a phone message. Li Na is calling her friend Sofia. I will read it two times. First, read the questions." Give the student **one minute** to look at questions 1 to 8 (pages 2 and 3). Then say: "Now listen. You can answer while I read."
 
-**Read it twice at a natural, steady pace.** Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give 30 seconds to finish. Do not repeat any part of the message, and do not explain any word.
+**Read it twice at a natural, steady pace.** Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part of the message, and do not explain any word.
 
 > **Script: a phone message**
 >
