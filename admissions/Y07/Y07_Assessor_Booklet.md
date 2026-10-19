@@ -259,11 +259,13 @@ Usually **familiar**: addition, long multiplication and division, order of opera
 
 **May not have been taught.** Primary science (科学) in China covers these areas but the textbooks differ, so a Year 7 entrant **may not have been taught**: dichotomous keys (Q1; sorting living things is usually familiar), the heart and circulation in detail (Q2, Q3b; this comes fully in Grade 7 biology), circuit symbols (Q4a; circuits are Grade 4, often with drawings rather than symbols), and fossils and evolution (Q6). Light and shadows (Q5) are usually taught in Grade 5.
 
+[[keep]]
 **What to look for**
 - Questions 1, 3 and 5 test working scientifically (using a key, reading a graph and a table, fair tests). A student who does these well thinks scientifically even if the topic knowledge is NT.
 - Short or one-word answers are fine. If the student explains in Chinese (L), note how good the science is: this separates a science difficulty from an English barrier.
+[[/keep]]
 
-[[pagebreak]]
+[[keep]]
 
 ## 6. Score summary
 
@@ -290,3 +292,5 @@ Usually **familiar**: addition, long multiplication and division, order of opera
 [[field:Assessor signature and date]]
 
 Copy these results onto `forms/Candidate_Summary_and_Decision`.
+
+[[/keep]]

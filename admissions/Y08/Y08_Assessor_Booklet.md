@@ -272,11 +272,13 @@ Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and pe
 
 **Not covered in this paper:** energy stores and transfers are tested only through heating and changes of state (Q1b), and light waves are not tested, because 10 marks cannot cover every Year 7 topic.
 
+[[keep]]
 **What to look for**
 - Questions 2, 3 and 4 can be answered from the picture or the table with careful reading and reasoning, even if the topic is new: a student who gets them is thinking scientifically.
 - One-word answers are fine. If the student explains in Chinese (L), note how good the science is: this separates a science gap from an English barrier.
+[[/keep]]
 
-[[pagebreak]]
+[[keep]]
 
 ## 6. Score summary
 
@@ -303,3 +305,5 @@ Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and pe
 [[field:Assessor signature and date]]
 
 Copy these results onto `forms/Candidate_Summary_and_Decision`.
+
+[[/keep]]
