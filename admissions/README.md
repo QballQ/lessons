@@ -16,6 +16,7 @@ Ready-to-print PDFs are in `pdf/`, in the same folders as the sources.
 |---|---|
 | `00_Admissions_Guide` | Guide for staff: process, timings, the English proficiency bands, access rules, students from Chinese schools, how to decide, printing checklist |
 | `01_Reading_Books_and_Materials` | Levelled reading books to buy for the assessment table (Oxford Reading Tree and others), by book band, and the materials list |
+| `02_Listening_Evidence_Statement` | For the admissions and English teams: how the listening standard was set, what the scripts contain (measured), what a score can and cannot show, and the trial needed to evidence it |
 | `Y01` to `Y10` | For each year group: the student booklet (Years 1 to 3) or student paper (Years 4 to 10), and the assessor booklet (scripts, answers, mark schemes, band guides, score summary) |
 | `shared/` | **Early Reading Screen** (Years 1 to 3, and older students new to English): reading cards, instructions and record sheets for letter sounds, phonics words, tricky words, and eight graded passages (Pink to White band) with running records. **Graded Sentence Reading Screen** (all years): sentences that get harder until the student cannot read them, with a grading rubric and an indicative reading age |
 | `forms/` | Interview and suitability records (Years 1 and 2, 3 and 4, 5 and 6, 7 to 10), parent conversation record, previous homeroom teacher reference (English and Chinese, because it goes to the student's current teacher), candidate summary and decision |
