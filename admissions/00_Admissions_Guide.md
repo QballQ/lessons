@@ -29,7 +29,7 @@ Each candidate's assessment takes **about 45 minutes in Year 1 to about 70 minut
 | This guide | `00_Admissions_Guide` | All staff |
 | Reading books list | `01_Reading_Books_and_Materials` | Admissions, Years 1 to 3 assessors |
 | Year group papers | `Y01` to `Y10`: a student booklet (Years 1 to 3) or student paper (Years 4 to 10), and an assessor booklet | Assessor |
-| Early Reading Screen (Years 1 to 3, and older students new to English) | `shared/Early_Reading_Screen_Cards` (child reads from them; laminate) and `shared/Early_Reading_Screen_Record` (one per child) | Assessor |
+| Early Reading Screen (Years 1 to 3, and older students new to English) | `shared/Early_Reading_Screen_Cards` (child reads from them; laminate), `shared/Early_Reading_Screen_Guide` (instructions; print once) and `shared/Early_Reading_Screen_Record` (record sheets; one set per child) | Assessor |
 | Graded Sentence Reading Screen (all years) | `shared/Sentence_Reading_Card` (laminate) and `shared/Sentence_Reading_Record` (one per student) | Assessor or interviewer |
 | Interview and suitability records | `forms/Interview_Record_Y1_Y2`, `_Y3_Y4`, `_Y5_Y6`, `_Y7_Y10` | Interviewer |
 | Parent conversation | `forms/Parent_Conversation_Record` | Admissions or a senior teacher |
@@ -105,13 +105,13 @@ Every candidate gets a band for each of the four skills on this five-point scale
 |---|---|---|
 | Reading aloud | Only what the script says. Do not read reading texts aloud, explain words or translate. Instructions may be repeated in English. | Any question may be read aloud in English, as often as asked; point to the picture. |
 | Chinese | Not used. Note what the student could say in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Mark it **L**. The mark still counts. |
-| Answers in Chinese | Do not score in English sections. | Accepted in explanations; mark **L**. |
+| Answers in Chinese | Do not score, with one exception: in the two reading screens, a spoken answer to a question about what the student has just read counts if it shows understanding (mark **C**), because those questions test reading, not speaking. | Accepted in explanations; mark **L**. |
 
 | Code | Meaning |
 |---|---|
 | **NT** | Not yet taught: the student says they have not learnt this. Scores 0; listed in the summary. |
 | **L** | Language support given in a maths or science question. The number of L questions is evidence about English. |
-| **C** | An interview answer given in Chinese. Not counted towards the speaking band. |
+| **C** | An answer given in Chinese: in the interview it does not count towards the speaking band; in the reading screens' questions it counts as understood. |
 | **SC**, **S**, **O**, **I**, **T** | Reading record codes: self-correction, substitution, omission, insertion, told. |
 
 Extra time, a reader or other access arrangements for a known need are allowed and recorded in the score summary.
@@ -187,7 +187,7 @@ Start with the **overall English band** and the **year group**, then adjust for 
 |---|---|
 | Student booklet for the year (print in colour if possible) | Student paper for the year |
 | Assessor booklet for the year | Assessor booklet for the year |
-| Early Reading Screen record (cards: one laminated set per room) | Sentence reading record (card: one laminated set per room) |
+| Early Reading Screen record sheets (cards and instructions: one set per room) | Sentence reading record (card: one laminated set per room) |
 | Sentence reading record (card: one laminated set per room) | Interview record for the phase |
 | Interview record for the phase | Parent conversation record |
 | Parent conversation record | Candidate summary and decision |

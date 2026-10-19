@@ -15,7 +15,7 @@ Ready-to-print PDFs are in `pdf/`, in the same folders as the sources.
 | `00_Admissions_Guide` | Guide for staff: process, timings, the English proficiency bands, access rules, students from Chinese schools, how to decide, printing checklist |
 | `01_Reading_Books_and_Materials` | Levelled reading books to buy for the assessment table (Oxford Reading Tree and others), by book band, and the materials list |
 | `Y01` to `Y10` | For each year group: the student booklet (Years 1 to 3) or student paper (Years 4 to 10), and the assessor booklet (scripts, answers, mark schemes, band guides, score summary) |
-| `shared/` | **Early Reading Screen** (Years 1 to 3, and older students new to English): letter sounds, phonics words, tricky words, graded passages with running records. **Graded Sentence Reading Screen** (all years): sentences that get harder until the student cannot read them, with a grading rubric and an indicative reading age |
+| `shared/` | **Early Reading Screen** (Years 1 to 3, and older students new to English): reading cards, instructions and record sheets for letter sounds, phonics words, tricky words, and eight graded passages (Pink to White band) with running records. **Graded Sentence Reading Screen** (all years): sentences that get harder until the student cannot read them, with a grading rubric and an indicative reading age |
 | `forms/` | Interview and suitability records (Years 1 and 2, 3 and 4, 5 and 6, 7 to 10), parent conversation record, previous homeroom teacher reference (English and Chinese), candidate summary and decision |
 
 ## Editing and rebuilding
@@ -26,7 +26,7 @@ The Markdown files are the sources. After editing one, rebuild its PDF:
 python3 admissions/tools/build.py admissions/Y05/Y05_Student_Paper.md
 ```
 
-`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown`, Node with Playwright and Chromium, and `pdftoppm` for page previews. The sentence reading screen's card and record are generated from `tools/make_sentence_screen.py`, so edit the sentences there. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
+`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown`, Node with Playwright and Chromium, and `pdftoppm` for page previews. The sentence reading screen is generated from `tools/make_sentence_screen.py`, and the early reading screen from `tools/early_reading_screen/` (`ers_data.py` holds the words and passages), so edit them there and regenerate. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
 
 ## Status
 

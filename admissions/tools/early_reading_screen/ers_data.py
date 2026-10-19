@@ -1,0 +1,135 @@
+# Data for the Early Reading Screen. Both Markdown files are generated from this, so the
+# child's cards and the assessor's record always show the same words in the same order.
+
+LETTER_ROWS = [
+    ['s', 'm', 't', 'a', 'o', 'p'],
+    ['i', 'd', 'n', 'e', 'g', 'c'],
+    ['u', 'h', 'b', 'r', 'f', 'k'],
+    ['l', 'w', 'j', 'y', 'v', 'z'],
+    ['x', 'q'],
+]
+
+GRAPHEME_ROWS = [
+    ['sh', 'ee', 'ch', 'ai', 'th', 'oo'],
+    ['ar', 'ck', 'oa', 'ng', 'or', 'igh'],
+    ['qu', 'ow', 'ur', 'oi', 'ear', 'air'],
+]
+
+# Phonics words: (word, R real or N nonsense, focus).  Each card row is one real word then one nonsense word.
+SECTION1 = [
+    ('map', 'R', 'CVC'), ('dop', 'N', 'CVC'),
+    ('leg', 'R', 'CVC'), ('mub', 'N', 'CVC'),
+    ('sit', 'R', 'CVC'), ('pem', 'N', 'CVC'),
+    ('shop', 'R', 'sh'), ('chig', 'N', 'ch'),
+    ('duck', 'R', 'ck'), ('thep', 'N', 'th'),
+    ('frog', 'R', 'CCVC'), ('blom', 'N', 'CCVC'),
+    ('jump', 'R', 'CVCC'), ('nesk', 'N', 'CVCC'),
+    ('bring', 'R', 'CCVC, ng'), ('trab', 'N', 'CCVC'),
+    ('think', 'R', 'th, nk'), ('chulp', 'N', 'ch, CVCC'),
+    ('stamp', 'R', 'CCVCC'), ('glust', 'N', 'CCVCC'),
+]
+SECTION2 = [
+    ('rain', 'R', 'ai'), ('jeek', 'N', 'ee'),
+    ('night', 'R', 'igh'), ('toap', 'N', 'oa'),
+    ('moon', 'R', 'oo'), ('darp', 'N', 'ar'),
+    ('turn', 'R', 'ur'), ('sorp', 'N', 'or'),
+    ('down', 'R', 'ow'), ('choil', 'N', 'oi'),
+    ('cake', 'R', 'a-e'), ('jeme', 'N', 'e-e'),
+    ('smile', 'R', 'i-e'), ('plome', 'N', 'o-e'),
+    ('tube', 'R', 'u-e'), ('flape', 'N', 'a-e'),
+    ('garden', 'R', '2 syllables, ar'), ('lompid', 'N', '2 syllables'),
+    ('picnic', 'R', '2 syllables'), ('shoomit', 'N', '2 syllables, sh, oo'),
+]
+PRACTICE = [('hat', 'R'), ('jop', 'N')]
+
+NONSENSE_ACCEPT = [
+    ('thep', 'th as in "thin" or as in "this"'),
+    ('chulp', '"ch" as in "chin"'),
+    ('jeek', 'rhymes with "seek"'),
+    ('toap', 'rhymes with "soap"'),
+    ('darp, sorp', 'with or without an r sound at the end of the vowel'),
+    ('choil', 'rhymes with "boil"'),
+    ('jeme', '"jeem"'),
+    ('plome', 'rhymes with "home"'),
+    ('flape', 'rhymes with "tape"'),
+    ('lompid', '"lom-pid", stress on either part'),
+    ('shoomit', '"shoo-mit"; oo as in "moon" or as in "book"'),
+]
+
+# Tricky words: 10 from the Year 1 list, then 10 from the Year 2 list (English National Curriculum,
+# spelling appendix, common exception words). Card rows of 4.
+TRICKY_Y1 = ['the', 'was', 'you', 'said', 'they', 'are', 'come', 'one', 'where', 'friend']
+TRICKY_Y2 = ['door', 'find', 'could', 'water', 'many', 'again', 'half', 'people', 'busy', 'because']
+
+# Passages. 'lines' is exactly what is printed on each line of the card; '' starts a new paragraph.
+PASSAGES = [
+    dict(n=1, band='Pink', ort='1+', title='Where Is the Cat?', pt=36, lh=1.7, img='ers_p1_cat.svg', w='w55',
+         alt='A cat sitting on a striped mat',
+         about='a cat at home',
+         lines=['The cat is on the mat.', 'The cat is on the bed.', 'The cat is in the box.', 'The cat is on Dad!'],
+         qs=[('Literal', 'Where is the cat at the end of the story?', 'On Dad.', 'Accept "Dad", "on his dad", or pointing to the word "Dad".'),
+             ('Vocabulary', 'Show me the mat in the picture.', 'Points to the mat under the cat.', 'Pointing is the answer here.'),
+             ('Prediction', 'Where do you think the cat will go next?', 'Any sensible place, in English.', 'One word is enough: "chair", "table", "on Mum", "garden".')]),
+    dict(n=2, band='Red', ort='2', title='At the Market', pt=30, lh=1.7, img='ers_p2_market.svg', w='w50',
+         alt='A market stall with a striped roof, boxes of round fruit and a shopping bag',
+         about='a girl called Mei',
+         lines=['Mei and Gran go to the market.', 'Gran gets a fish.', 'Gran gets six eggs.', 'Gran gets a big melon.',
+                'The bag is full.', '“I can help,” said Mei.', 'Mei and Gran get on the bus.'],
+         qs=[('Literal', 'Who went to the market with Mei?', 'Gran.', 'Accept "her gran", "Grandma", "Granny", "her grandmother".'),
+             ('Inference', 'How did Mei help Gran?', 'She carried the bag (because it was full).', 'Accept "carry the bag", "hold the bag", "she takes the bag", "she carries the shopping".'),
+             ('Vocabulary', '“The bag is full.” What does “full” mean?', 'There is no more room in it; it has a lot in it.', 'Accept "lots of things", "a lot in it", "no space", or a clear gesture with "lots".')]),
+    dict(n=3, band='Yellow', ort='3', title='The Kite', pt=28, lh=1.6, img='ers_p3_kite.svg', w='w45',
+         alt='A boy in a park holding the string of a kite that is flying high in the sky',
+         about='a boy called Tom',
+         lines=['Tom and Dad went to the park.', 'They had a big green kite.', 'The wind was strong.', 'Up, up, up went the kite!',
+                'Then it got stuck in a tree.', '“Oh no!” said Tom.', 'Dad got a long stick.', 'He got the kite down.',
+                '“Thank you, Dad!” said Tom.', 'Soon the kite was up in the sky.'],
+         qs=[('Literal', 'Where did the kite get stuck?', 'In a tree.', 'Accept "tree", "up a tree", "on the tree".'),
+             ('Vocabulary', '“The wind was strong.” What does “strong” mean here?', 'The wind was blowing hard; a lot of wind.', 'Accept "very windy", "big wind", "fast wind", "powerful". Not a "strong muscles" answer.'),
+             ('Inference', 'How did Tom feel when the kite got stuck?', 'Sad, worried or upset.', 'Accept any fitting feeling: "not happy", "unhappy", "scared", "cross".'),
+             ('Prediction', 'What do you think Tom and Dad will do next?', 'Any sensible idea.', 'For example: fly the kite again, play, go home.')]),
+    dict(n=4, band='Light Blue', ort='4', title='A New Friend', pt=24, lh=1.5, img='ers_p4_goal.svg', w='w40',
+         alt='A football flying fast into a goal net',
+         about='a boy called Hao at school',
+         lines=['It was Monday morning.', 'A new girl came to Hao’s class.', 'Her name was Sofia.', 'She sat next to Hao.',
+                'She did not say a word.', '“Do you want to play?” asked Hao.', 'Sofia looked at the floor.',
+                'At playtime, they went outside.', 'Hao kicked a ball to Sofia.', 'Sofia kicked it back, hard!',
+                'The ball shot past Hao into the net.', '“Goal!” shouted Hao. Sofia smiled.',
+                '“Can we play again?” she said.', 'They played until the bell rang.'],
+         qs=[('Literal', 'What day did the new girl come to Hao’s class?', 'Monday.', 'Accept "Monday morning".'),
+             ('Inference', 'Why do you think Sofia did not say a word at first?', 'She was new, shy or nervous.', 'Accept any sensible reason linked to being new: "she does not know anyone", "she is scared", "she does not speak English".'),
+             ('Vocabulary', '“The ball shot past Hao into the net.” What does “shot” mean here?', 'It went past very fast.', 'Accept "fast", "quick", "flew", or a fast gesture with "fast".'),
+             ('Personal response', 'Do you think Hao and Sofia will be friends? Why?', 'Yes or no, with a reason from the story.', 'For example: "yes, they played together", "yes, she smiled". "Yes" alone scores 0; ask once: "Tell me more."')]),
+    dict(n=5, band='Green', ort='5', title='The Lucky Dumpling', pt=22, lh=1.5, img='ers_p5_dumplings.svg', w='w40',
+         alt='A plate of steaming dumplings with a pair of chopsticks',
+         about='a girl called Lin at Spring Festival',
+         paras=['It was the day before Spring Festival. Lin and Grandma were making dumplings in the kitchen. Grandma hid a coin inside one of the dumplings. “The person who finds the coin will be lucky all year,” she said.', 'That evening, the whole family sat down to eat. Lin ate one dumpling, then two, then three. There was no coin. Lin was too full to eat any more.', 'Dad found nothing. Mum found nothing. Then Grandpa bit into a dumpling and stopped. He smiled and held up the shiny coin.', '“Grandpa is the lucky one!” shouted Lin, and everyone laughed.'],
+         qs=[('Literal', 'What did Grandma hide in a dumpling?', 'A coin.', 'Accept "money".'),
+             ('Vocabulary', '“He smiled and held up the shiny coin.” What does “shiny” mean?', 'Bright; it shines.', 'Accept "bright", "it shines", "sparkly", "glittery".'),
+             ('Inference', 'Why did Grandpa stop eating?', 'He bit the coin; the coin was in his dumpling.', 'Accept "he found the coin", "the coin was in it", "it was hard".'),
+             ('Personal response', 'What does your family do at Spring Festival, or at another festival?', 'Any fitting answer in English.', 'One or two words are enough: "eat dumplings", "fireworks", "red packets", "visit Grandma".')]),
+    dict(n=6, band='Orange', ort='6', title='The Fast Train', pt=20, lh=1.5, img='ers_p6_train.svg', w='w45',
+         alt='A long, fast train with a pointed nose moving along the track',
+         about='a boy called Amir',
+         paras=['Amir and his mum were going to visit his cousins in Shanghai. At the station, the fast train was waiting. It was long and white, with a pointed nose like a bird.', 'Amir found his seat next to a big window. At first, the train moved slowly. Then it went faster and faster. Green fields, rivers and tall buildings rushed past.', '“This train is even faster than our car!” said Amir.', 'After a while, a lady pushed a trolley along the carriage. Mum bought two bowls of noodles and a bottle of water. Amir ate his noodles and looked out of the window. Soon his eyes began to close.', 'When he woke up, the train had stopped. “Wake up, sleepy head,” said Mum. “We are here!”'],
+         qs=[('Literal', 'Where were Amir and his mum going?', 'To Shanghai, to visit his cousins.', 'Accept either part: "Shanghai" or "to see his cousins".'),
+             ('Vocabulary', '“Green fields, rivers and tall buildings rushed past.” What does “rushed past” mean?', 'They went past very quickly.', 'Accept "went fast", "moved fast", "zoomed", or a fast gesture with "fast".'),
+             ('Inference', 'Why did Mum call Amir “sleepy head”?', 'He fell asleep on the train.', 'Accept "he was sleeping", "he was tired", "his eyes closed".'),
+             ('Prediction', 'What do you think Amir will do in Shanghai?', 'Any sensible idea.', 'For example: play with his cousins, eat, visit places.')]),
+    dict(n=7, band='Turquoise and Purple', ort='7 to 8', title='The Rabbit Lantern', pt=18, lh=1.5, img='ers_p7_lantern.svg', w='w35',
+         alt='A paper rabbit lantern with one floppy ear, hanging from a stick under a full moon',
+         about='a boy called Chen Yu at the Mid-Autumn Festival',
+         paras=['Every year, Chen Yu’s class made paper lanterns for the Mid-Autumn Festival. This year, Miss Wang showed them how to make a rabbit.', 'Chen Yu cut out two long ears and glued them on carefully. But when he held up his lantern, one ear flopped down. The rabbit’s face was crooked, too. Next to him, Aisha had made a perfect rabbit with neat pink eyes.', '“Mine looks silly,” Chen Yu said quietly.', 'That evening, his family walked to the park by the lake. The full moon was round and bright, and hundreds of lanterns glowed in the dark. Grandpa put a small light inside the rabbit, and it began to shine.', 'A little girl pulled her mother’s sleeve. “Look at that rabbit!” she said. “It is waving its ear at me!”', 'Chen Yu looked at his lantern again. Then he smiled, lifted it high and made the floppy ear wave hello.'],
+         qs=[('Literal', 'Where did Chen Yu’s family go that evening?', 'To the park by the lake.', 'Accept "the park" or "the lake".'),
+             ('Vocabulary', '“The rabbit’s face was crooked.” What does “crooked” mean?', 'Not straight; to one side.', 'Accept "not straight", "wonky", "on one side", or a tilting gesture with "not right".'),
+             ('Inference', 'How did Chen Yu feel about his lantern at school? Why?', 'Sad, disappointed or embarrassed, because it was not perfect (the ear flopped, the face was crooked, Aisha’s was better).', 'Score 1 for a fitting feeling. Note whether the child gives a reason.'),
+             ('Inference', 'Why did Chen Yu smile at the end?', 'The little girl liked his rabbit; the floppy ear looked as if it was waving.', 'Accept any answer linked to the girl or the waving ear, or "he was happy (proud) now", "his lantern looked good".')]),
+    dict(n=8, band='Gold and White', ort='9 to 10', title='The Drummer', pt=17, lh=1.5, img='ers_p8_boat.svg', w='w40',
+         alt='A long dragon boat on the water with a dragon head, a row of paddlers and a drummer',
+         about='a boy called Zhang Wei and a dragon boat race',
+         paras=['Zhang Wei had never felt so nervous. It was the Dragon Boat Festival, and his school was racing three other boats on the lake. Twelve children sat in two long rows, holding their paddles. At the front sat the drummer, and this year the drummer was Zhang Wei.', '“Remember,” said Coach Liu, “the paddlers listen to your drum. Keep a steady beat, and they will paddle together.”', 'The whistle blew, and the boats shot forward. Zhang Wei was so excited that he beat the drum far too fast. Behind him, the paddles splashed in a muddle, and the boat began to wobble. Another boat slid past them.', 'Zhang Wei took a deep breath. He thought of the clock in his classroom, ticking slowly and evenly. Boom, boom, boom. One by one, the paddlers found the beat, and the boat flew across the water like an arrow.', 'They did not win, but they came a close second. Afterwards, Coach Liu shook Zhang Wei’s hand. “A good drummer does not just make a noise,” she said. “A good drummer listens.”'],
+         qs=[('Literal', 'What happened at the end of the race?', 'They came second (a close second).', 'Accept "second", "they nearly won", "another boat won". "They lost" alone: ask once "Tell me more."'),
+             ('Vocabulary', '“The paddles splashed in a muddle.” What does “in a muddle” mean?', 'Mixed up; not together.', 'Accept "messy", "mixed up", "not at the same time", "everyone different", "all wrong".'),
+             ('Inference', 'Why did Zhang Wei think of the clock in his classroom?', 'To help him slow down and keep a slow, even beat.', 'Accept "to go slower", "to keep the beat", "so they paddle together", "tick, tick, slowly".'),
+             ('Inference', 'Coach Liu said, “A good drummer listens.” What did she mean?', 'A drummer must pay attention to the team and the beat, not just bang the drum.', 'Accept any answer about listening to or watching the paddlers or the beat, or not just making a loud noise.')]),
+]

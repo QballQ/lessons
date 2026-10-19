@@ -21,6 +21,7 @@ footer: Early Reading Screen | Reading cards
 .ers-num { position: absolute; top: 2mm; right: 3mm; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 9pt; line-height: 1; color: #777; }
 .ers-tricky { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10mm 4mm; margin: 14mm 0 0; }
 .ers-tricky > div { position: relative; border: 1.6px solid #111; border-radius: 8px; text-align: center; font-family: 'Andika', sans-serif; font-size: 28pt; line-height: 1.3; padding: 8mm 1mm; }
+.ers-grid, .ers-words, .ers-tricky, .ers-pass { font-variant-ligatures: none; font-feature-settings: 'liga' 0, 'clig' 0; }
 .ers-pass { margin-top: 3mm; }
 .ers-pass h4 { font-size: 1.1em; margin: 1mm 0 3mm; }
 .ers-pass p { margin: 0 0 0.5em; }
@@ -33,11 +34,11 @@ footer: Early Reading Screen | Reading cards
 
 **For the assessor. Do not show this page to the child.**
 
-The child reads from these cards, one to one. The scripts, scoring rules and record sheets are in **Early Reading Screen: Record and instructions** (`Early_Reading_Screen_Record`).
+The child reads from these cards, one to one. The scripts and scoring rules are in the **instructions** (`Early_Reading_Screen_Guide`); the **record sheets** (`Early_Reading_Screen_Record`) are printed once for each child.
 
 - Print once, single-sided, and keep each card in a plastic sleeve. Colour and greyscale both work.
 - Put only the card you are using in front of the child. Keep the record sheets out of sight.
-- Do not read the cards aloud. The only words you say from a card are the practice words on Card 3, as the script says.
+- Do not read the cards aloud. The only words you say from a card are the practice words on Card 3 and the title of each passage, as the script says.
 - On Cards 3 to 7 the creature marks a **creature name** (a nonsense word). The small grey numbers on the word cards match the record sheet.
 - The passages get harder from Card 9 to Card 16. The child reads only the two or three passages the start rules choose.
 
@@ -258,7 +259,7 @@ Gran gets a fish.<br>
 Gran gets six eggs.<br>
 Gran gets a big melon.<br>
 The bag is full.<br>
-“I can help,” said Mei.<br>
+"I can help," said Mei.<br>
 Mei and Gran get on the bus.
 
 </div>
@@ -278,10 +279,10 @@ They had a big green kite.<br>
 The wind was strong.<br>
 Up, up, up went the kite!<br>
 Then it got stuck in a tree.<br>
-“Oh no!” said Tom.<br>
+"Oh no!" said Tom.<br>
 Dad got a long stick.<br>
 He got the kite down.<br>
-“Thank you, Dad!” said Tom.<br>
+"Thank you, Dad!" said Tom.<br>
 Soon the kite was up in the sky.
 
 </div>
@@ -297,18 +298,18 @@ Soon the kite was up in the sky.
 ![A football flying fast into a goal net](diagrams/ers_p4_goal.svg){.w40}
 
 It was Monday morning.<br>
-A new girl came to Hao’s class.<br>
+A new girl came to Hao's class.<br>
 Her name was Sofia.<br>
 She sat next to Hao.<br>
 She did not say a word.<br>
-“Do you want to play?” asked Hao.<br>
+"Do you want to play?" asked Hao.<br>
 Sofia looked at the floor.<br>
 At playtime, they went outside.<br>
 Hao kicked a ball to Sofia.<br>
 Sofia kicked it back, hard!<br>
 The ball shot past Hao into the net.<br>
-“Goal!” shouted Hao. Sofia smiled.<br>
-“Can we play again?” she said.<br>
+"Goal!" shouted Hao. Sofia smiled.<br>
+"Can we play again?" she said.<br>
 They played until the bell rang.
 
 </div>
@@ -326,8 +327,8 @@ They played until the bell rang.
 It was the day before Spring Festival. Lin<br>
 and Grandma were making dumplings in the<br>
 kitchen. Grandma hid a coin inside one of the<br>
-dumplings. “The person who finds the coin<br>
-will be lucky all year,” she said.
+dumplings. "The person who finds the coin<br>
+will be lucky all year," she said.
 
 That evening, the whole family sat down to<br>
 eat. Lin ate one dumpling, then two, then<br>
@@ -339,7 +340,7 @@ Then Grandpa bit into a dumpling and<br>
 stopped. He smiled and held up the<br>
 shiny coin.
 
-“Grandpa is the lucky one!” shouted Lin, and<br>
+"Grandpa is the lucky one!" shouted Lin, and<br>
 everyone laughed.
 
 </div>
@@ -364,7 +365,7 @@ the train moved slowly. Then it went faster and<br>
 faster. Green fields, rivers and tall buildings<br>
 rushed past.
 
-“This train is even faster than our car!”<br>
+"This train is even faster than our car!"<br>
 said Amir.
 
 After a while, a lady pushed a trolley along the<br>
@@ -372,8 +373,8 @@ carriage. Mum bought two bowls of noodles and a<br>
 bottle of water. Amir ate his noodles and looked<br>
 out of the window. Soon his eyes began to close.
 
-When he woke up, the train had stopped. “Wake<br>
-up, sleepy head,” said Mum. “We are here!”
+When he woke up, the train had stopped. "Wake<br>
+up, sleepy head," said Mum. "We are here!"
 
 </div>
 
@@ -387,25 +388,25 @@ up, sleepy head,” said Mum. “We are here!”
 
 ![A paper rabbit lantern with one floppy ear, hanging from a stick under a full moon](diagrams/ers_p7_lantern.svg){.w35}
 
-Every year, Chen Yu’s class made paper lanterns for<br>
+Every year, Chen Yu's class made paper lanterns for<br>
 the Mid-Autumn Festival. This year, Miss Wang<br>
 showed them how to make a rabbit.
 
 Chen Yu cut out two long ears and glued them on<br>
 carefully. But when he held up his lantern, one ear<br>
-flopped down. The rabbit’s face was crooked, too. Next<br>
+flopped down. The rabbit's face was crooked, too. Next<br>
 to him, Aisha had made a perfect rabbit with neat<br>
 pink eyes.
 
-“Mine looks silly,” Chen Yu said quietly.
+"Mine looks silly," Chen Yu said quietly.
 
 That evening, his family walked to the park by the lake.<br>
 The full moon was round and bright, and hundreds of<br>
 lanterns glowed in the dark. Grandpa put a small light<br>
 inside the rabbit, and it began to shine.
 
-A little girl pulled her mother’s sleeve. “Look at that<br>
-rabbit!” she said. “It is waving its ear at me!”
+A little girl pulled her mother's sleeve. "Look at that<br>
+rabbit!" she said. "It is waving its ear at me!"
 
 Chen Yu looked at his lantern again. Then he smiled,<br>
 lifted it high and made the floppy ear wave hello.
@@ -428,8 +429,8 @@ on the lake. Twelve children sat in two long rows, holding<br>
 their paddles. At the front sat the drummer, and this year<br>
 the drummer was Zhang Wei.
 
-“Remember,” said Coach Liu, “the paddlers listen to your<br>
-drum. Keep a steady beat, and they will paddle together.”
+"Remember," said Coach Liu, "the paddlers listen to your<br>
+drum. Keep a steady beat, and they will paddle together."
 
 The whistle blew, and the boats shot forward. Zhang Wei<br>
 was so excited that he beat the drum far too fast. Behind<br>
@@ -442,8 +443,8 @@ boom. One by one, the paddlers found the beat, and the<br>
 boat flew across the water like an arrow.
 
 They did not win, but they came a close second.<br>
-Afterwards, Coach Liu shook Zhang Wei’s hand. “A good<br>
-drummer does not just make a noise,” she said. “A good<br>
-drummer listens.”
+Afterwards, Coach Liu shook Zhang Wei's hand. "A good<br>
+drummer does not just make a noise," she said. "A good<br>
+drummer listens."
 
 </div>
