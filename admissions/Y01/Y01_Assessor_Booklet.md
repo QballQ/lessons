@@ -3,9 +3,6 @@ title: Year 1 Admission Assessment: Assessor booklet
 style: assessor
 footer: Year 1 Admission Assessment | Assessor booklet
 ---
-<style>
-.y-talk th:nth-child(1), .y-talk td:nth-child(1) { width: 11%; }
-</style>
 # Year 1 Admission Assessment: Assessor booklet
 
 [[namebox:candidate]]
@@ -88,8 +85,6 @@ The picture shows a windy day in a park: the wind is blowing a girl's balloon aw
 
 [[keep]]
 
-<div class="y-talk" markdown="1">
-
 | Step | Say | Listen for | What the child said |
 |---|---|---|---|
 | 1 Open | "Look at this picture. What can you see?" | Any naming: tree, balloon, girl, boy, dog, ball, duck, pond, sun, cloud, bird, flower | |
@@ -101,8 +96,6 @@ The picture shows a windy day in a park: the wind is blowing a girl's balloon aw
 | 7 Telling | "Tell me what is happening in the picture." | joined ideas: "The girl's balloon is flying away and the dog is running after the ball." | |
 | 8 Predicting | "What do you think will happen next?" | the balloon will fly up to the clouds or get caught in the tree; the boy will try to catch it; her mum will buy a new one; the dog will catch the ball | |
 | 9 Personal | "Do you like the park? What do you do at the park?" | talks about their own life | |
-
-</div>
 
 [[/keep]]
 
@@ -182,7 +175,7 @@ The full scripts and rules for the Early Reading Screen are in `shared/Early_Rea
 
 Give the child a pencil. Do not spell any word, sound out, or write for the child.
 
-**Part 1: name (page 12).** Point to the line under "Name". Say: "Can you write your name here?" Any script is fine (English letters, pinyin or Chinese characters): note which.
+**Part 1: name (page 12).** Point to the line next to "Name". Say: "Can you write your name here?" Any script is fine (English letters, pinyin or Chinese characters): note which.
 
 **Part 2: five words (page 12).** Say: "Now I will say some words. Write each word here. Listen to the sounds in the word. Have a go. It is fine if it is not right." For each word, point to the number, then say the word, the sentence and the word again, clearly and at a normal pace (do not stretch the sounds). Allow about 30 seconds; if nothing is written, say "That's fine. Next one."
 

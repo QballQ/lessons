@@ -40,11 +40,11 @@ Help each student write their name and the date on page 1. Point to the "How to 
 |---|---|---|
 | Reading aloud | Say only what the script says. Do not explain words, translate, or read the reading texts or questions for the student. You may repeat an instruction in English. | Read any question aloud in English, as often as the student asks, and point to the picture. |
 | Chinese | Not used. Note what the student could say in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the student cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
-| Answers in Chinese | Do not score, with one exception: in the sentence reading meaning checks, an answer in Chinese that shows understanding counts as understood (record **✓C**). | Accepted in explanations; write **L**. |
+| Answers in Chinese | Do not score. Exception: a sentence reading meaning check answered in Chinese counts as understood (**✓C**). | Accepted in explanations; write **L**. |
 
-**Codes.** **NT** not yet taught: the student says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **C** an answer given in Chinese: in the interview it does not count towards the speaking band; in the sentence reading meaning checks it counts as understood. Record extra time, a reader or any other access arrangement for a known need in the score summary.
+**Codes.** **NT** not yet taught: the student says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **C** an answer in Chinese (it does not count for the speaking band; see above for sentence reading). Record extra time, a reader or any other access arrangement for a known need in the score summary.
 
-**Stopping and keeping students at ease.** Any student may stop a section when they have done what they can: they turn over and wait quietly. Praise effort, not answers. If a student is upset, give them a break or stop, and record it. Never press a distressed child. At the end of each timed part, let a student finish the question they are on, then move everyone on to the next part together.
+**Stopping and keeping students at ease.** Any student may stop a section when they have done what they can: they turn over and wait quietly. Praise effort, not answers. If a student is upset, give them a break or stop, and record it. Never press a distressed child. At the end of each timed part, let students finish the question they are on, then move on together.
 
 ## 3. English
 
@@ -96,7 +96,7 @@ Read the eight questions aloud, once, without the answer choices: "Question 1. W
 | 2 | B (9 o'clock) | | A (8 o'clock: Grandma's first idea) |
 | 3 | B (next to the supermarket) | | A (near school) |
 | 4 | A and C (hat and water) | | Any other picture ticked, or only one ticked |
-| 5 | dumplings | Any spelling that is clearly "dumplings": dumpling, damplins, dumplins | noodles; an answer in Chinese, in characters or pinyin (饺子, jiaozi): note it, because it shows understanding |
+| 5 | dumplings | Any spelling that is clearly "dumplings": dumpling, damplins, dumplins | noodles; Chinese characters or pinyin (饺子, jiaozi): note it, as it shows understanding |
 | 6 | 5 | five, fiv | 6 |
 | 7 | He is five / under six, and children under six do not need a ticket. | "He is under six." "He is five." "Because he is small and children under six are free." | "He is small" or "he is a child" with no age; "Grandma pays" |
 | 8 | A positive feeling **and** a reason from the call: "He is excited because he says 'Brilliant' / 'I can't wait' / 'I love the zoo' / 'Yes, please'." | happy, glad, pleased, can't wait, excited; the reason may be in the student's own words ("he wants to go a lot") | A feeling with no reason; a negative feeling |

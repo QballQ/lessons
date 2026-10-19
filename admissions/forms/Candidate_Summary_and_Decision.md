@@ -7,7 +7,7 @@ footer: Candidate Summary and Decision
 
 [[namebox:candidate]]
 
-Complete within two working days of the assessment, from the assessor booklet, the reading records, the interview record, the parent conversation and the homeroom teacher reference. The bands are guidance for a professional decision, not a pass mark. Guidance on reading the results is in `00_Admissions_Guide.md`, Sections 6 to 9.
+Complete within two working days, from the assessor booklet, reading records, interview record, parent conversation and homeroom teacher reference. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
 
 ## 1. English profile
 
@@ -35,7 +35,7 @@ Complete within two working days of the assessment, from the assessor booklet, t
 
 Assessor's comment on maths and science (strengths, gaps, NT topics, English barrier or not):
 
-[[lines:3]]
+[[lines:2]]
 
 ## 3. Suitability
 
@@ -79,5 +79,4 @@ Year group confirmed: ______ (by age: yes / no; if no, give the reason and who a
 | Assessor | | | |
 | Head of section | | | |
 | Admissions | | | |
-
-Outcome communicated to the family on __________ by __________. Feedback to the family should start with the child's strengths and explain any support in plain terms.
+| Outcome told to the family (start with the child's strengths) | | | |
