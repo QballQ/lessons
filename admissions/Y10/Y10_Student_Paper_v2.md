@@ -23,7 +23,6 @@ body.secondary h1 ~ h1, .newpage { break-before: page; }
 .dep th:first-child { width: 6.2em; }
 .rt { padding: 0 0 0 1px; }
 .calc { border: 1.6px solid #111; border-radius: 4px; padding: 3px 8px; margin: 2px 0 8px; display: inline-block; font-weight: 700; }
-.passage p { break-inside: avoid; }
 </style>
 
 # Year 10 Admission Assessment
@@ -610,9 +609,9 @@ Does this ramp follow the rule? **Explain** your answer.
 **Tick** one. <span class="sp"></span> Yes, it follows the rule. [[tick]] <span class="sp"></span> No, it is too steep. [[tick]]
 
 ### 16 [[marks:2]]
-![A lift with a sign that says Maximum load 630 kg, and eight boxes in two stacks of four, each box labelled 75 kg.](diagrams/y10v2_m16_lift.svg){.w50 .right}
+![A lift with a sign that says Maximum load 615 kg, and eight boxes in two stacks of four, each box labelled 75 kg.](diagrams/y10v2_m16_lift.svg){.w50 .right}
 
-A lift can carry a maximum load of 630 kg.
+A lift can carry a maximum load of 615 kg.
 There are eight boxes.
 Each box has a mass of 75&nbsp;kg, correct to the nearest 5&nbsp;kg.
 

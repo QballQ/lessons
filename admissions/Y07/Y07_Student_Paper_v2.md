@@ -650,6 +650,8 @@ a. How many white tiles are in Pattern 10? [[answer:short]]
 
 b. Tom has 51 white tiles and lots of grey tiles. He makes one path that follows the pattern. What is the largest number of grey tiles his path can have? [[answer:short]]
 
+[[box:4:Working]]
+
 c. **Explain** why every pattern has an even number of white tiles.
 
 [[lines:2]]

@@ -124,7 +124,7 @@ Version 2 raises the challenge of the listening, reading and maths for Years 7 t
 
 **Timings (student time, minutes):** listening about 12 (reading both scripts twice takes 9 to 11 minutes; allow 15 in Year 10), reading 15, writing 10, break 5, maths 25, science 8, interview with sentence reading 15: about 90 minutes in all with the welcome.
 
-### 9.1 Listening v2 (16 marks, about 10 minutes)
+### 9.1 Listening v2 (16 marks, about 12 minutes)
 
 - **Part A: everyday listening** = the version 1 listening, unchanged: the same script, the same eight questions (numbered 1 to 8), the same answers.
 - **Part B: academic listening (new)**: a talk, short lesson or discussion at the level of a lesson for a fluent student of that age. Year 7 about 350 words, Year 8 about 380, Year 9 about 420, Year 10 about 450. It must include: explaining a process or a cause and effect; a comparison or contrast; numbers or statistics; subject vocabulary explained in context (Tier 2 and Tier 3 words); a speaker's opinion or attitude that is implied, not stated; a correction or change of mind ("Actually, ..."); discourse markers (however, whereas, as a result, on the other hand). Average sentence length about 14 to 20 words; at least 10% of words outside the 2000 most common. Read twice at a natural classroom pace; the student has one minute to read the Part B questions first.
