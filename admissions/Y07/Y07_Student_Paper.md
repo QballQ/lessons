@@ -605,22 +605,22 @@ b. Why does Jun's heart beat faster when he runs? **Explain** your answer.
 ### 4 [[marks:2]]
 a. **Write** the name of each circuit symbol in the box. Use these words: **bulb**, **cell**, **switch**.
 
-![Three circuit symbols with an empty box under each: a bulb, an open switch and a cell.](diagrams/y07_s05_symbols.svg){.w100}
+![Three circuit symbols with an empty box under each: a bulb, an open switch and a cell.](diagrams/y07_s04_symbols.svg){.w100}
 
 b. In which circuit is the bulb the brightest? **Tick** one box.
 
-![Three circuits with tick boxes. A: one cell and one bulb. B: two cells and one bulb. C: one cell and two bulbs.](diagrams/y07_s05_circuits.svg){.w100}
+![Three circuits with tick boxes. A: one cell and one bulb. B: two cells and one bulb. C: one cell and two bulbs.](diagrams/y07_s04_circuits.svg){.w100}
 
 ### 5 [[marks:2]]
-Chen Yu makes a shadow with a torch and a card puppet. She moves the torch. She measures the height of the shadow.
+Mei makes a shadow with a torch and a card puppet. She moves the torch. She measures the height of the shadow.
 
-![A torch shines at a card puppet on a stand. A screen shows a large shadow of the puppet. An arrow shows the distance between the torch and the puppet.](diagrams/y07_s04_shadow.svg){.w80}
+![A torch shines at a card puppet on a stand. A screen shows a large shadow of the puppet. An arrow shows the distance between the torch and the puppet.](diagrams/y07_s05_shadow.svg){.w80}
 
 | Distance from the torch to the puppet (cm) | 10 | 20 | 30 | 40 |
 |---|---|---|---|---|
-| **Height of the shadow (cm)** | 36 | 18 | 12 | 9 |
+| **Height of the shadow (cm)** | 36 | 24 | 20 | 18 |
 
-a. Chen Yu wants a fair test. What must she keep the same? **Tick** one box.
+a. Mei wants a fair test. What must she keep the same? **Tick** one box.
 
 [[tick]] the distance from the torch to the puppet <br>
 [[tick]] the puppet she uses <br>

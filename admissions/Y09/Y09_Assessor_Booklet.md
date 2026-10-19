@@ -43,7 +43,7 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not read the reading texts or questions aloud, explain words or translate. Instructions may be repeated in English. | Any question may be read aloud in English, as often as the student asks. You may point to the picture. |
 | Chinese | Not used. Note anything the student says in Chinese that shows understanding. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers in Chinese | Do not score. Note them. | Accepted in explanations; write **L**. |
+| Answers in Chinese | Do not score. Note them. One exception: in the sentence reading meaning checks, a spoken answer in Chinese that shows understanding counts as understood (record **✓C**). | Accepted in explanations; write **L**. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 Extra time, a reader or other arrangements for a known need are allowed: record them in the score summary.
@@ -78,19 +78,27 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 **Mei:** At half past eight, at the school gate. The coach leaves at a quarter to nine, so don't be late. [pause]
 
+**Tom:** What's the weather going to be like?
+
+**Mei:** Cloudy in the morning, and rain in the afternoon. Bring an umbrella. [pause]
+
 **Tom:** Do I need to bring any money?
 
 **Mei:** The museum ticket is free for students. Lunch in the museum café costs forty yuan, or you can bring a packed lunch. [pause]
 
-**Tom:** I'll bring my own lunch. My grandma makes amazing dumplings. What's the weather going to be like?
+**Tom:** I'll bring my own lunch. My grandma makes amazing dumplings.
 
-**Mei:** Cloudy in the morning, and rain in the afternoon. Bring an umbrella. But most of the day is inside, anyway. [pause]
+**Mei:** Oh, and Mr Zhang says everyone must bring their student card. You can't get a free ticket without it. [pause]
 
 **Tom:** OK. When do we get back?
 
-**Mei:** At about five o'clock. Oh, and Mr Zhang says everyone must bring their student card. You can't get a free ticket without it. [pause]
+**Mei:** At about five o'clock. [pause]
 
-**Tom:** My student card! I think it's still in my PE bag. I'd better check tonight.
+**Tom:** Five o'clock? That's a long day. I hope it doesn't rain too much.
+
+**Mei:** Most of the day is inside, anyway. [pause]
+
+**Tom:** Oh no, my student card! I think it's still in my PE bag. I'd better check tonight.
 
 **Mei:** Good idea. Last time, Jun forgot his card, and he had to wait at the ticket office for twenty minutes while Mr Zhang phoned the school.
 
@@ -117,7 +125,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | Listening band | A | B | C | D | E |
 
 #### What to look for
-- Questions 1 to 3 check the main points; 4 to 6 need exact detail and include distractors (8:45, cloudy, robots); 7 and 8 need implied meaning. A student who gets 1 to 6 but not 7 and 8 follows everyday talk but not yet what is meant: usually C.
+- Questions 1 to 3 check the main points, each with a distractor (robots, 8:45, cloudy); 4 to 6 need exact detail; 7 and 8 need implied meaning. The questions follow the order of the script. A student who gets 1 to 6 but not 7 and 8 follows everyday talk but not yet what is meant: usually C.
 - A wrong answer that is a distractor (8:45, B in question 3) shows the student heard words but not how they connect ("leaves at", "in the morning").
 - Compare with listening in the interview (how much of your English the student understood). If the two differ by more than one band, use the interview as a check: some students freeze in a test, and some hide gaps in conversation with good routines.
 

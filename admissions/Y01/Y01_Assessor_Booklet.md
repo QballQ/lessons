@@ -3,6 +3,9 @@ title: Year 1 Admission Assessment: Assessor booklet
 style: assessor
 footer: Year 1 Admission Assessment | Assessor booklet
 ---
+<style>
+.y-talk th:nth-child(1), .y-talk td:nth-child(1) { width: 11%; }
+</style>
 # Year 1 Admission Assessment: Assessor booklet
 
 [[namebox:candidate]]
@@ -51,15 +54,15 @@ Write the child's name on the cover of the student booklet yourself (the child w
 | | English tasks: picture talk, listening, reading, writing | Maths |
 |---|---|---|
 | What you may say | Only the words in the script. Do not explain words, translate, point or show what to do. You may repeat an instruction once if the child asks or clearly did not hear: write **R**. | Any question, in English, as often as needed. You may point to the picture and show with counters. |
-| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score. | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
-| Answers | English words, pointing and doing count. Answers in Chinese do not score. | Pointing, fingers, counters, and number words in English or Chinese all count. Mark an answer in Chinese **L**. |
+| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score (except in the reading screens' questions: see 3.3). | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
+| Answers | English words, pointing and doing count. Answers in Chinese do not score (except as above). | Pointing, fingers, counters, and number words in English or Chinese all count. Mark an answer in Chinese **L**. |
 | Not yet taught | | If the child or parent tells you the child has not met an idea, mark **NT**. It scores 0; list it in the summary. Five year olds rarely say this themselves, so otherwise score 0 and write a note. |
 
 Codes in this booklet: **R** instruction repeated once; **C** child spoke Chinese; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
 
 #### Keeping the child at ease
 
-- Praise effort, never correctness: "Good trying!", "Thank you!", "Good listening!" Use the same warm tone after right and wrong answers. Never say "No" or "Wrong", and do not correct.
+- Praise effort, never correctness: "You are working hard!", "Thank you!", "Good listening!" Use the same warm tone after right and wrong answers. Never say "No" or "Wrong", and do not correct.
 - A silent child is common: many young children new to English go through a silent period. Smile, wait, move on. Pointing tasks still work. Never pressure the child.
 - If the child is tired, take a short extra break. If the child becomes upset, stop, comfort them and let them go to the parent. Try again later if they recover; otherwise end the visit and record what was done.
 
@@ -85,6 +88,8 @@ The picture shows a windy day in a park: the wind is blowing a girl's balloon aw
 
 [[keep]]
 
+<div class="y-talk" markdown="1">
+
 | Step | Say | Listen for | What the child said |
 |---|---|---|---|
 | 1 Open | "Look at this picture. What can you see?" | Any naming: tree, balloon, girl, boy, dog, ball, duck, pond, sun, cloud, bird, flower | |
@@ -96,6 +101,8 @@ The picture shows a windy day in a park: the wind is blowing a girl's balloon aw
 | 7 Telling | "Tell me what is happening in the picture." | joined ideas: "The girl's balloon is flying away and the dog is running after the ball." | |
 | 8 Predicting | "What do you think will happen next?" | the balloon will fly up to the clouds or get caught in the tree; the boy will try to catch it; her mum will buy a new one; the dog will catch the ball | |
 | 9 Personal | "Do you like the park? What do you do at the park?" | talks about their own life | |
+
+</div>
 
 [[/keep]]
 
@@ -167,9 +174,9 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 ### 3.3 Reading: Early Reading Screen and Graded Sentence Reading Screen (12 minutes)
 
-Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at the letter sounds and the Section 1 words; and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
+Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at the letter sounds (Card 1, then Card 2 if 15 or more of Card 1 are right) and then the Section 1 words (Year 1 start point in the guide, Section 2); and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. One rule differs from the other English tasks: in the questions about what the child has just read (passage questions and sentence meaning checks), a spoken answer in Chinese that shows understanding counts as understood; write it down and mark **C**. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (5 minutes, pages 12 and 13; given after maths)
 
@@ -182,12 +189,16 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | No. | Say | Word | Spelling pattern |
 |---|---|---|---|
 | 1 | "sun. The sun is hot. sun." | sun | CVC |
-| 2 | "bag. My book is in my bag. bag." | bag | CVC |
+| 2 | "fan. The fan goes round and round. fan." | fan | CVC |
 | 3 | "pen. I can write with a pen. pen." | pen | CVC |
-| 4 | "fish. A fish can swim. fish." | fish | digraph sh |
+| 4 | "ship. The ship is on the sea. ship." | ship | digraph sh |
 | 5 | "chop. Mum can chop the carrots. chop." | chop | digraph ch |
 
+None of the five words is on the reading cards, so the child has not just seen them written.
+
 **Part 3: a sentence about a picture (page 13).** Point to the picture (a puppy in a box). Say: "Look at the picture. What can you see?" Let the child say it, and do not correct or improve their words. Then say: "Can you write about it? Write it here." If the child says they can't: "Have a go. Write the sounds you can hear." If the child writes one word, say once: "Can you write some more?" When they finish, say "Can you read it to me?" and write down what they say: it helps you read their spelling.
+
+[[keep]]
 
 #### Writing checklist
 
@@ -197,13 +208,15 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | Handwriting | [[tick]] holds the pencil with control &nbsp; [[tick]] most letters correctly formed &nbsp; [[tick]] letters sit on the line | |
 | Sentence | [[tick]] about the picture &nbsp; [[tick]] left to right &nbsp; [[tick]] spaces between words &nbsp; [[tick]] capital letter &nbsp; [[tick]] full stop &nbsp; [[tick]] can read it back | |
 
-| Word | What the child wrote | Correct | All sounds shown ("fsh", "chp") | Some sounds ("f", "c") | Nothing |
+| Word | What the child wrote | Correct | All sounds shown ("fen", "shep", "chup") | Some sounds ("sp", "c") | Nothing |
 |---|---|---|---|---|---|
 | sun | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
-| bag | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| fan | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 | pen | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
-| fish | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| ship | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 | chop | | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+
+[[/keep]]
 
 [[keep]]
 
@@ -214,7 +227,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | Content and organisation | Nothing written, or marks not linked to the picture | One or two words or a phrase about the picture ("dog box") | A complete idea about the picture, perhaps with a second idea ("The dog is in the box. He is happy.") | / 4 |
 | Vocabulary | No English words | Simple nouns (dog, box) | Words chosen for meaning: puppy, sitting, happy, big, peeping | / 4 |
 | Grammar and sentences | No phrase or sentence | A phrase, or a sentence with words missing ("dog in box") | A simple sentence with a verb ("The dog is in the box."); may join two ideas with "and" | / 4 |
-| Spelling and punctuation (the five words and the sentence) | Random letters, or letters not linked to sounds | Most dictated words show some sounds, usually the first and last ("sn", "bg"); one or two words correct | All or nearly all dictated words correct or with all sounds shown, including sh and ch; a capital letter or a full stop in the sentence | / 4 |
+| Spelling and punctuation (the five words and the sentence) | Random letters, or letters not linked to sounds | Most dictated words show some sounds, usually the first and last ("sn", "fn"); one or two words correct | All or nearly all dictated words correct or with all sounds shown, including sh and ch; a capital letter or a full stop in the sentence | / 4 |
 | | | | **Total** | **/ 16** |
 
 [[/keep]]
@@ -233,8 +246,8 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 
 #### Spelling from children who speak Chinese
 
-- Pinyin letter values often appear: "x" for sh ("fix" for fish), "q" or "c" for ch ("qop" for chop). Count these as "all sounds shown" and copy them into the notes: the child hears every sound but needs the English letters taught.
-- Vowel swaps (e and a: "pan" for pen; u and a: "san" for sun) and missing final sounds ("pe", "fi") are features of a learner's English.
+- Pinyin letter values often appear: "x" for sh ("xip" for ship), "q" or "c" for ch ("qop" for chop). Count these as "all sounds shown" and copy them into the notes: the child hears every sound but needs the English letters taught.
+- Vowel swaps (e and a: "pan" for pen; u and a: "san" for sun) and missing final sounds ("pe", "cho") are features of a learner's English.
 - Many Chinese kindergartens are asked not to teach formal writing, pinyin or characters before primary school, so letter writing **may not have been taught**. A blank page is not, on its own, a sign of a learning difficulty.
 
 #### What to look for
@@ -260,7 +273,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 | No. | Say and do | Answer, and what else is acceptable | Notes |
 |---|---|---|---|
 | 1 | Point to the fish. "How many fish? Count them." | **7**. Counting in Chinese is fine (L). | Watch: touches each fish once; says the last number as the answer. |
-| 2 | Cover the second and third dot cards with the plain card. "I will show you some dots very quickly. Tell me how many. Don't count, just look." Show the first card for about 2 seconds, then cover it. Do the same with the second and the third. | **3, 5, 4**. 1 mark for all three. | Two seconds is too short to count one by one, so quick correct answers show the child sees the amount. |
+| 2 | Before you say anything, cover all three dot cards with the plain card. "I will show you some dots very quickly. Tell me how many. Don't count, just look." Slide the card to show only the first dot card for about 2 seconds, then cover it again. Do the same with the second and then the third (cover the cards you are not showing with the card or your hand). | **3, 5, 4**. 1 mark for all three. | Two seconds is too short to count one by one, so quick correct answers show the child sees the amount. |
 | 3 | Point to the number cards. "Point to 9." "Point to 15." Point to 12: "What number is this?" Point to 20: "What number is this?" | **9, 15**, "twelve", "twenty". 1 mark for all four. 十二 and 二十 count (L). | Common slips: 6 for 9, 13 for 15, "twenty" for 12. Note them. |
 | 4 | Point to the stars. "How many stars? You can put a counter on each star." | **16**. Counting in Chinese is fine (L). | Counting past 10 accurately; watch for missed or double-counted stars. |
 | 5 | Point to the 8 dots. "Here are 8 dots." Point to the dashed circle. "One more dot comes here. How many dots now?" You may put a counter in the circle. | **9**. Counting all from 1 or knowing straight away both score; note which. | "9!" straight away shows stronger number sense than counting from 1. |

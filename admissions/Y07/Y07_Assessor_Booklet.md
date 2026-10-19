@@ -55,15 +55,17 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 >
 > The cinema in Riverside Mall is closed this weekend, so we can't see the film. Let's go to the science museum instead. **[pause]**
 >
-> We can meet outside the main entrance at half past nine. Please don't be late, because the first show in the space theatre starts at ten o'clock. **[pause]**
+> We can meet outside the main entrance at half past nine. **[pause]**
 >
-> The easiest way to get there is by metro. Take Line 2 and get off at Lakeside Station. Then use Exit 4. The museum is right in front of you. **[pause]**
+> The easiest way to get there is by metro. My dad is picking us up at four o'clock, so you don't need to take the metro home. **[pause]**
 >
-> Tickets are usually 40 yuan, but students only pay 25 yuan, so remember to bring your student card. **[pause]**
+> Please bring your student card, because students get cheaper tickets. And bring a packed lunch. The café in the museum is really expensive, and we can eat in the garden. **[pause]**
 >
-> Oh, and bring a packed lunch. The café in the museum is really expensive, and we can eat in the garden. **[pause]**
+> On the metro, take Line 2 and get off at Lakeside Station. Then use Exit 4. The museum is right in front of you. **[pause]**
 >
-> My dad is picking us up at four o'clock, so you don't need to take the metro home. **[pause]**
+> Tickets are usually 40 yuan, but students only pay 25 yuan. **[pause]**
+>
+> Please don't be late, because the first show in the space theatre starts at ten o'clock. **[pause]**
 >
 > My brother Jun went to the museum last week. He's fourteen, and he thinks everything is boring. But even he said the robot exhibition was amazing! It closes on Sunday, so this is our last chance to see it. **[pause]**
 >

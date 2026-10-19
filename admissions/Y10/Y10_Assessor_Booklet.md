@@ -43,7 +43,7 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 |---|---|---|
 | Reading aloud | Read only what the script says. Do not read the reading texts or questions aloud, explain words or translate. Instructions may be repeated in English. | Any question may be read aloud in English, as often as the student asks. You may point to the picture. |
 | Chinese | Not used. Note anything the student says in Chinese that shows understanding. | If a Chinese-speaking colleague is present and the student clearly cannot follow the English after it has been read aloud, the colleague may say the question **once** in Chinese. Write **L** in the margin. The mark still counts. |
-| Answers in Chinese | Do not score. Note them. | Accepted in explanations; write **L**. |
+| Answers in Chinese | Do not score. Note them. One exception: in the sentence reading meaning checks, a spoken answer in Chinese that shows understanding counts as understood (record **✓C**). | Accepted in explanations; write **L**. |
 | Not yet taught | | If the student says they have not learnt a topic, write **NT** beside the question. It scores 0. List NT topics in the score summary. |
 
 Extra time, a reader or other arrangements for a known need are allowed: record them in the score summary.
@@ -71,13 +71,13 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 Good morning, everyone. My name is Dr Liu Yan, and I'm an engineer. I work for a company in Shenzhen that designs electric buses. Some of you probably came to school on one of our buses this morning. [pause]
 
-When I was your age, I wasn't sure what I wanted to do. I was quite good at art, and I loved drawing. But my favourite subject was physics, because I always wanted to know how things worked. At the weekends, I took old radios apart and tried to put them back together. My parents weren't always happy about that! [pause]
+When I was your age, I wasn't sure what I wanted to do. I was quite good at art, and I loved drawing. But my favourite subject was physics, because I always wanted to know how things worked. At the weekends, I took old radios apart and tried to put them back together. [pause]
 
 After school, I studied engineering at university for four years. Then I worked in a battery factory for two years. Now I lead a team of twelve people. [pause] Our newest bus can travel three hundred kilometres before it needs charging, and it charges in about ninety minutes. [pause]
 
 People often think engineers sit alone at a computer all day. In fact, I spend most of my time talking: to my team, to bus drivers, and to the people who use our buses. Last year, an older passenger told us the steps were too high. So we changed the design. Now the floor of the bus goes down when it stops. [pause]
 
-My advice to you is simple. Don't be afraid of getting things wrong. My first battery design failed every test. But each time it failed, I learnt something new. And remember: being good at maths is useful, but being good at listening is just as important. Thank you. [pause]
+My advice to you is simple. Don't be afraid of getting things wrong. I got a lot of things wrong with those old radios. My parents weren't always happy about that! [pause] My first battery design failed every test, too. But each time it failed, I learnt something new. And remember: being good at maths is useful, but being good at listening is just as important. Thank you. [pause]
 [[/passage]]
 
 **Answers** (1 mark each). Spelling does not matter in listening if the meaning is clear.
@@ -90,7 +90,7 @@ My advice to you is simple. Don't be afraid of getting things wrong. My first ba
 | 4 | **4** | four (years) | 2 (the years in the battery factory) |
 | 5 | **12** | twelve | |
 | 6 | **300** (km) | three hundred | 90 (the charging time in minutes) |
-| 7 | **The radios might be broken, or not work again** | She made a mess; it could be dangerous; she did not always put them back together; they were worried about the radios | "She did not study"; "She liked art"; an answer about the bus |
+| 7 | **The radios might be broken, or not work again** | She broke them; she could not always put them back together; she got things wrong with the radios; she made a mess; it could be dangerous; they were worried about the radios | "She did not study"; "She liked art"; an answer about the bus |
 | 8 | **To show that mistakes help you learn** | Do not be afraid of getting things wrong; failing is part of learning; each failure taught her something; even experts fail at first | "Because the battery was bad" with no idea of learning from it |
 
 #### Band guide
@@ -101,7 +101,7 @@ My advice to you is simple. Don't be afraid of getting things wrong. My first ba
 
 #### What to look for
 
-- Questions 1 to 3 check the main points; 4 to 6 need exact detail and include distractors (two years, ninety minutes, art); 7 and 8 need implied meaning and the speaker's purpose. A student who gets 1 to 6 but not 7 and 8 follows the facts of a talk but not yet its point: usually C.
+- Questions 1 to 3 check the main points (art is a distractor in question 2); 4 to 6 need exact detail and include distractors (two years, ninety minutes); 7 and 8 need implied meaning and the speaker's purpose. The questions follow the order of the script. A student who gets 1 to 6 but not 7 and 8 follows the facts of a talk but not yet its point: usually C.
 - The talk is close to the kind of listening IGCSE lessons need: a teacher or visitor speaking for two minutes without pictures. A score of 5 or less suggests the student will need visual support and key words written down in most lessons at first.
 - Compare with listening in the interview. If the two differ by more than one band, use the interview as a check.
 
@@ -239,12 +239,16 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 | 17 | Tree diagram | (a) 0.8 (Monday not late), 0.8 (Tuesday not late after late), 0.2 and 0.8 (Tuesday after not late) (b) 0.04 | (a) B1 for all four. (b) B1. Accept 4/100, 1/25, 4%. An answer of 0.4 (adding) scores 0. | Grade 9 (概率, 树状图): may not have been taught. |
 | 18 | Trigonometry with given values | (a) 5.7 cm (b) 37° | (a) B1 for 5.7 (accept 5.74 or 10 × 0.57). (b) B1 for 37° (ceiling: finding an angle). An answer of 53° in (b) means opposite and adjacent were swapped. | Grade 9 (锐角三角函数): may not have been taught. |
 
+[[keep]]
+
 **Totals:** Section A / 9, Section B / 21 (of which word problems, questions 8 to 11: / 7). **Band guide** (provisional): 0 to 11: **1** Well below expected; 12 to 17: **2** Working towards; 18 to 25: **3** Expected; 26 to 30: **4** Greater depth. Every Year 10 topic in the blueprint is tested at least once.
+
+[[/keep]]
 
 #### What to look for
 
 - **Number problems against word problems.** A student who scores well on Section A but poorly on the word problems (questions 8 to 11) may have an **English barrier rather than a maths difficulty**. Check by reading the word problem aloud in English, and, if a Chinese-speaking colleague is present, once in Chinese (mark it L). If the student then solves it quickly, record the barrier. IGCSE maths papers are full of words, so this student needs maths vocabulary support, not a lower tier.
-- **Strong responses** show secure algebra (Section A almost complete), clear working and correct units, and attempts at the Grade 9 topics. A student with 8 or 9 out of 9 in Section A is usually ready for the Extended (Higher) tier once the Grade 9 topics are taught.
+- **Strong responses** show secure algebra (Section A almost complete), clear working and correct units, and attempts at the Grade 9 topics. A student with 7 or more out of 9 in Section A is usually ready for the Extended (Higher) tier once the Grade 9 topics are taught (Section 6).
 - **Weak responses** show errors on taught topics (negative numbers, percentages, equations, Pythagoras), not just on NT topics. If most of the lost marks are NT questions (7, 10, 16, 17, 18), write the likely band once taught in the summary.
 
 ## 5. Science (8 minutes, 10 marks)
@@ -291,7 +295,7 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 
 **English as a Second Language or First Language English?** First Language English assumes the reading and writing of a fluent speaker: analysing how writers use language, and writing at length for different purposes. It is usually the better fit only when reading (Part C 6 or more) and writing (band E, or a strong D) are both near fluent. For most students at band C or D, an English as a Second Language course is the better fit: it teaches the reading, writing, listening and speaking needed for study, and a good grade is more achievable. Check what the school's sixth form, diploma programme and likely universities ask for, because some ask for a particular course or grade; tell the family early.
 
-**Maths.** Band 3 or 4 with a secure Section A (7 or more out of 9) suggests the **Extended (Higher) tier**. NT marks on the Grade 9 topics (quadratics, similar triangles, trigonometry, tree diagrams, compound interest) are expected for a Grade 8 student and are usually caught up quickly. A band 1 or 2 with errors on taught topics suggests the Core (Foundation) tier at first, with a review after one term. A large gap between number problems and word problems points to English support in maths, not a lower tier.
+**Maths.** Band 3 or 4 with a secure Section A (7 or more out of 9) suggests the **Extended (Higher) tier**. NT marks on the Grade 9 topics (quadratics, similar triangles, trigonometry, tree diagrams, compound interest) are expected for a Grade 8 student and are usually caught up quickly. A band 2 with errors on taught topics suggests the Core (Foundation) tier at first, with a learning plan and a review after one term. A band 1 that NT and English do not explain (low on taught topics too) needs further assessment before a decision (`00_Admissions_Guide.md`, Section 9). A large gap between number problems and word problems points to English support in maths, not a lower tier.
 
 **Science.** No chemistry is normal for this age group (questions 6 and 7 NT). Look at question 4 and the biology and physics questions. Strong science (band 3 or 4) with English D or E may suit separate sciences; with English B or C, a combined or co-ordinated science course, or fewer science subjects in the first year, may be more manageable while English grows.
 
@@ -301,10 +305,10 @@ Use `forms/Interview_Record_Y7_Y10` for the interview and `shared/Sentence_Readi
 |---|---|---|
 | English D or E; maths 3 or 4; science 3 or 4 (allowing for NT) | Ready for a full IGCSE programme. | Full subject load; English course by the table above; Extended maths. |
 | English C; maths 3 or 4, with word problems well below number problems | Strong maths; English is the barrier. | English as a Second Language with subject-language support; Extended maths with vocabulary support; not too many essay-based subjects in Year 10. |
-| English C; maths 2 with NT on Grade 9 topics; chemistry NT | Likely to manage with support. | English as a Second Language; maths tier decided after a six-week review; a short catch-up plan for chemistry. |
-| English B, any maths and science | The English gap is too wide for most IGCSE content in two years without intensive support. | Discuss a preparatory route, a reduced load or a later start (`00_Admissions_Guide.md`, Section 9). |
-| English D or E; maths band 1 on taught topics | Not an English issue. | Maths support and the Core tier at first; look for gaps in earlier learning or a possible learning need. |
-| Strong results, but the interview shows the IGCSE plan is the family's, not the student's | Readiness is not only academic. | Talk with the family and student about subject choices and workload before an offer (interview record, suitability strands). |
+| English C; maths 2 with NT on Grade 9 topics; chemistry NT | Likely to manage with support. | English as a Second Language; a learning plan for the NT maths topics and for chemistry; maths tier decided after a six-week review. |
+| English B, any maths and science | The English gap is too wide for most IGCSE content in two years without intensive support. | Offer only with an English as a Second Language course, a reduced subject load and close review, if the school's policy allows; otherwise discuss a preparatory route or a later start (`00_Admissions_Guide.md`, Section 9). |
+| English D or E; maths band 1 on taught topics | Not an English issue. | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9): look for gaps in earlier learning or a possible learning need. If an offer follows, maths support and the Core tier at first. |
+| Strong results, but the interview shows the IGCSE plan is the family's, not the student's | Readiness is not only academic. | Talk with the family and student about subject choices and workload before an offer (interview record, suitability strands). A serious mismatch, or any strand rated 1, goes to the head of section before any offer. |
 
 Use the Year 10 interview questions (IGCSE subject choices, managing a two-year course in English) to judge whether the student's plans are realistic and their own. Record the readiness judgement in the assessor's comment below and on the Candidate Summary and Decision.
 

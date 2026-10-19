@@ -55,7 +55,23 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 >
 > **Mei:** Yes! We wanted to sell cakes, but the Year 9 classes are already doing that. So we're going to sell plants instead: small ones, in pots. **[pause]**
 >
-> **Amir:** Plants? Where will we get them?
+> **Amir:** Plants? OK. When is the fair? Is it this Friday?
+>
+> **Mei:** No, it's next Saturday, from ten in the morning until two in the afternoon. **[pause]**
+>
+> **Amir:** And where is our stall? Next to the music stage again?
+>
+> **Mei:** No. Last year it was so loud there that nobody could hear us. This year we're by the main gate. **[pause]**
+>
+> **Amir:** What can I do to help?
+>
+> **Mei:** Can you make the price signs? You're much better at drawing than me. And Ms Chen says every class needs its own table. Can you bring one?
+>
+> **Amir:** Sure. I'll do the signs this weekend, and I'll ask my dad about a table. He's got a folding one at home. **[pause]**
+>
+> **Mei:** Thank you!
+>
+> **Amir:** Where will we get the plants?
 >
 > **Mei:** My aunt has a flower shop. She'll give us forty plants for 200 yuan. **[pause]**
 >
@@ -63,23 +79,11 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 >
 > **Mei:** Ten yuan each. If we sell all of them, we'll get 400 yuan. After we pay my aunt, there will be 200 yuan for the charity. **[pause]**
 >
-> **Amir:** Great. When is the fair? Is it this Friday?
+> **Amir:** Great. Oh, but I can only come in the morning. I have a piano lesson at one o'clock. **[pause]**
 >
-> **Mei:** No, it's next Saturday, from ten in the morning until two in the afternoon. **[pause]**
+> **Mei:** That's fine. And I'm really happy about the main gate.
 >
-> **Amir:** Oh. I can come in the morning, but I have a piano lesson at one o'clock.
->
-> **Mei:** That's fine. Can you make the price signs? You're much better at drawing than me. **[pause]**
->
-> **Amir:** Sure. I'll do them this weekend. Anything else?
->
-> **Mei:** Can you bring a table? Ms Chen says every class needs its own table.
->
-> **Amir:** I'll ask my dad. He's got a folding one at home. **[pause]**
->
-> **Mei:** Oh, and one more thing. Last year our stall was next to the music stage, and it was so loud that nobody could hear us. This year we're by the main gate.
->
-> **Amir:** Good. Everybody will walk past us when they come in!
+> **Amir:** Me too. Everybody will walk past us when they come in!
 
 **Answers.** One mark each. Spelling does not matter if the meaning is clear. Answers must be in English.
 
@@ -118,17 +122,17 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | 5 | a False · b True · c False | | 1 mark for each correct row (3 marks) |
 | 6 | 30 yuan | 30, ¥30, 15 + 15 | 15 (one ticket); 60 (adult price) |
 
-**Part B: The Lucky Coin** (fiction, about two years below age level)
+**Part B: Lulu Learns a Word** (fiction, about two years below age level)
 
 | Q | Answer | Also accept | Do not accept |
 |---|---|---|---|
-| 7 | Grandma | | |
-| 8 | Half-moons | half moon; like a half moon; moon shape | round |
-| 9 | They will have good luck all year. | good luck; lucky; luck for a year | "They get the coin" |
-| 10 | Mei found the coin **4** · Grandma put a coin in a dumpling **1** · Wang Hao bit into the dumpling with the twist **3** · The dumplings were cooked **2** | | **2 marks** for all four correct. **1 mark** if only two events next to each other in the story are swapped. |
-| 11 | angry | | |
-| 12 | He saw Grandma give a twist to the dumpling with the coin, so he thought the coin was in it. | He thought the coin was inside; he wanted the coin and good luck | "He was hungry"; "it looked nice" |
-| 13 | To trick Wang Hao, so he could not be sure which dumpling had the coin. | To make it fair; so that someone else (Mei) could find it; as a joke; because she wanted Mei to win | "Because she made a mistake" (the wink shows it was on purpose) |
+| 7 | green | | red (the patch on her head) |
+| 8 | Hello | "Hello" in any spelling that is clear | "Oh no" (the word she learns later) |
+| 9 | Fresh water and seeds | water; seeds; food; water and food | "He cleaned her cage" (that was every evening) |
+| 10 | Lulu said "Oh no!" for the first time **3** · Zhang Wei did his homework next to the cage **2** · Auntie came home **4** · Auntie went away **1** | | **2 marks** for all four correct. **1 mark** if only two events next to each other in the story are swapped. |
+| 11 | turned round quickly | | |
+| 12 | She heard Zhang Wei say "Oh no!" again and again, and she copied him. | She copied Zhang Wei; she learnt it from Zhang Wei; Zhang Wei kept saying it when he made a mistake | "Because she was sad"; "because she made a mistake" |
+| 13 | Lulu only talks when she is happy, and now she talks to Zhang Wei (she learnt a word from him), so she must be happy with him. | She learnt his words because he spent time with her; she talks to him now; she was happy with him; she said a word to him | "Because Lulu said hello" with no link to Zhang Wei; "because she is funny" |
 
 **Part C: Sleep: why teenagers need more of it** (non-fiction, age-appropriate for a fluent reader of 12)
 
@@ -232,12 +236,12 @@ Read any question aloud on request, as often as asked, and point to the picture.
 
 **Band guide (maths, / 30; provisional):** 0 to 11 **1** Well below expected · 12 to 17 **2** Working towards · 18 to 25 **3** Expected · 26 to 30 **4** Greater depth. List NT questions, and judge whether the student would reach band 3 once taught.
 
-**May not have been taught.** A Year 8 entrant from a Chinese mainstream school has usually completed Grade 6 (PEP sequence; other textbooks differ a little, so ask the student). These topics are usually taught in Grade 7 (初一) or later, so the student **may not have been taught** them:
+**May not have been taught.** A Year 8 entrant from a Chinese mainstream school has usually completed Grade 6 (PEP sequence; other textbooks differ a little, so ask the student). These topics are usually taught in Grade 7 (初一) or later, or are not in every textbook, so the student **may not have been taught** them:
 
 | Questions | Topic | Usually taught in China |
 |---|---|---|
 | 2, 6b, 9 | Calculating with negative numbers (negative numbers are introduced in Grade 6) | Grade 7 |
-| 4 | Prime factorisation as a product (primes and factors are Grade 5; the factor tree may be new) | Grade 5 in some textbooks |
+| 4 | Prime factorisation as a product (primes and factors are Grade 5; the factor tree may be new) | Grade 5 in some textbooks; optional in others |
 | 6 | Simplifying expressions (letters for numbers is Grade 5) | Grade 7 |
 | 8 | Equations with the unknown on both sides (simple equations are Grade 5) | Grade 7 |
 | 14 | Probability as a number (likelihood in words is Grade 5) | Grade 9 |
@@ -248,7 +252,7 @@ Read any question aloud on request, as often as asked, and point to the picture.
 Usually **familiar**: decimals and fractions, HCF and LCM (Grade 5), area and perimeter including compound shapes (Grades 3 to 5), angles on a straight line and in a triangle (Grade 4), ratio, percentages and pie charts (Grade 6).
 
 **What to look for**
-- **Number problems against word problems.** Compare Section A with the word problems (W). A student who does well on number problems but poorly on word problems may have an **English barrier** rather than a maths difficulty. Check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the student then solves it, record that the barrier is English. Questions 9 and 2a are a direct pair (negative numbers with and without words), and so are 19 and the percentage work in 12 and 16.
+- **Number problems against word problems.** Compare Section A with the word problems (W). A student who does well on number problems but poorly on word problems may have an **English barrier** rather than a maths difficulty. Check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L). If the student then solves it, record that the barrier is English. Questions 9 and 2a are a direct pair (negative numbers with and without words).
 - Strong students show clear methods, use the angle facts confidently and get the ceiling items (8, 18b, 19). Students from Chinese schools often calculate quickly and accurately but write little working: that is fine when the answer is right.
 - A low score that is mostly Grade 7 algebra and geometry (2, 6, 8, 15) or statistics (14, 17) is very different from a low score on taught topics (1, 3, 5, 11, 12, 16). Say which in the summary.
 

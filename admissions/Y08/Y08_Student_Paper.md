@@ -177,39 +177,45 @@ Li Na and Jun are 13. They both want to swim. They show their student cards. How
 **Read** the story. Then **answer** questions 7 to 13.
 
 [[passage]]
-#### The Lucky Coin
+#### Lulu Learns a Word
 
-![A plate of dumplings and a shiny coin](diagrams/y08_e_rb_dumplings.svg){.w30 .right}
+![A parrot sitting on a perch inside a big birdcage](diagrams/y08_e_rb_parrot.svg){.w25 .right}
 
-Every Spring Festival, Wang Hao's family made dumplings together. Grandma rolled out the dough. Dad chopped the pork and cabbage. Wang Hao and his little sister, Mei, folded the dumplings into small half-moons.
+Zhang Wei's aunt was going away for a week, so Zhang Wei looked after her parrot, Lulu. Lulu was green, with a red patch on her head. She lived in a big cage by the window.
 
-This year, Grandma took a shiny coin out of her pocket. "I will hide this inside one dumpling," she said. "The person who finds it will have good luck all year."
+"Lulu can say one word," said Auntie. "Hello. But she only talks when she is happy."
 
-Wang Hao watched her carefully. He saw Grandma put the coin into a dumpling and give the top a little twist. "I will find that one," he thought.
+Every morning, Zhang Wei gave Lulu fresh water and seeds. Every evening, he cleaned her cage. But Lulu did not say a word. She just sat on her perch and watched him with her bright, round eyes.
 
-When the dumplings were cooked, Wang Hao looked at every dumpling on the big plate. At last he found the one with the twist. He put it in his bowl and took a big bite. Cabbage. Pork. No coin.
+"Maybe she misses Auntie," said Mum.
 
-Then Mei gave a shout. She held up the shiny coin, and everybody laughed and clapped.
+Zhang Wei had an idea. After school, he did his homework next to the cage. He read his English book out loud, and he told Lulu about his day.
 
-Wang Hao looked at Grandma. She smiled and winked at him. "I made two dumplings with a twist," she said quietly.
+On the sixth day, Zhang Wei was practising the flute. He played the same tune again and again, and every time he made the same mistake. "Oh no!" he said each time. "Oh no!"
 
-Wang Hao was not cross. Mei looked so happy that he started to laugh too.
+Behind him, a small voice said, "Oh no!"
+
+Zhang Wei spun round. Lulu was moving her head up and down. "Oh no! Oh no!" she said.
+
+The next day, Auntie came home. Lulu looked at her and said, "Hello!" Then she looked at Zhang Wei and said, "Oh no!"
+
+Auntie laughed so much that she had to sit down. "Well," she said, "I think she likes you."
 
 [[clear]]
 [[/passage]]
 
 ### 7 [[marks:1]]
-Who rolled out the dough? **Tick** one box.
+What colour was Lulu? **Tick** one box.
 
-[[tick]] Grandma &nbsp;&nbsp; [[tick]] Dad &nbsp;&nbsp; [[tick]] Mei
+[[tick]] green &nbsp;&nbsp; [[tick]] red &nbsp;&nbsp; [[tick]] yellow
 
 ### 8 [[marks:1]]
-What shape were the dumplings? **Write** your answer in the box.
+At the start of the story, what word could Lulu say? **Write** your answer in the box.
 
 [[answer:wide]]
 
 ### 9 [[marks:1]]
-What will happen to the person who finds the coin? **Write** your answer.
+What did Zhang Wei give Lulu every morning? **Write** your answer.
 
 [[lines:1]]
 
@@ -218,23 +224,23 @@ What will happen to the person who finds the coin? **Write** your answer.
 
 | Event | Order |
 |---|---|
-| Mei found the coin. | [[answer:short]] |
-| Grandma put a coin in a dumpling. | [[answer:short]] |
-| Wang Hao bit into the dumpling with the twist. | [[answer:short]] |
-| The dumplings were cooked. | [[answer:short]] |
+| Lulu said "Oh no!" for the first time. | [[answer:short]] |
+| Zhang Wei did his homework next to the cage. | [[answer:short]] |
+| Auntie came home. | [[answer:short]] |
+| Auntie went away. | [[answer:short]] |
 
 ### 11 [[marks:1]]
-"Wang Hao was not **cross**." What does **cross** mean here? **Tick** one box.
+"Zhang Wei **spun round**." What does **spun round** mean here? **Tick** one box.
 
-[[tick]] angry &nbsp;&nbsp; [[tick]] hungry &nbsp;&nbsp; [[tick]] tired
+[[tick]] turned round quickly &nbsp;&nbsp; [[tick]] fell over &nbsp;&nbsp; [[tick]] ran away
 
 ### 12 [[marks:1]]
-Why did Wang Hao choose the dumpling with the twist? **Write** your answer.
+Why did Lulu start to say "Oh no!"? **Write** your answer.
 
 [[lines:2]]
 
 ### 13 [[marks:1]]
-Why do you think Grandma made two dumplings with a twist? **Write** your answer.
+Auntie says, "I think she likes you." Why do you think she says this? **Write** your answer.
 
 [[lines:2]]
 
@@ -434,6 +440,8 @@ The bottom side of the triangle is part of a straight line. **Work out** angle *
 
 All the corners are right angles.
 
+**Tick** the correct unit for each answer.
+
 a. **Work out** the area of the shape.
 
 [[answer:short]] &nbsp; [[scale:cm,cm²,cm³]]
@@ -441,8 +449,6 @@ a. **Work out** the area of the shape.
 b. **Work out** the perimeter of the shape.
 
 [[answer:short]] &nbsp; [[scale:cm,cm²,cm³]]
-
-**Tick** the correct unit for each answer.
 
 </div>
 

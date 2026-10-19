@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 226" width="660" height="226">
-  <title>Three shapes, each with a tick box. A circle cut into 2 equal parts with 1 part grey. A rectangle cut into 4 parts that are not the same size with 1 part grey. A square cut into 4 equal parts with 1 part grey.</title>
+  <title>Three shapes, each with a tick box. A circle cut into 2 equal parts with 1 part grey. A rectangle cut into 4 parts that are not the same size with the biggest part grey (more than a quarter). A square cut into 4 equal parts with 1 part grey.</title>
   <circle cx="110" cy="95" r="75" fill="#fff" stroke="#111" stroke-width="3"/>
   <path d="M110 20 A75 75 0 0 0 110 170 Z" fill="#bdbdbd" stroke="#111" stroke-width="3"/>
-  <rect x="250" y="35" width="40" height="120" fill="#bdbdbd" stroke="#111" stroke-width="3"/><rect x="290" y="35" width="70" height="120" fill="#fff" stroke="#111" stroke-width="3"/><rect x="360" y="35" width="20" height="120" fill="#fff" stroke="#111" stroke-width="3"/><rect x="380" y="35" width="30" height="120" fill="#fff" stroke="#111" stroke-width="3"/>
+  <rect x="250" y="35" width="70" height="120" fill="#bdbdbd" stroke="#111" stroke-width="3"/><rect x="320" y="35" width="40" height="120" fill="#fff" stroke="#111" stroke-width="3"/><rect x="360" y="35" width="30" height="120" fill="#fff" stroke="#111" stroke-width="3"/><rect x="390" y="35" width="20" height="120" fill="#fff" stroke="#111" stroke-width="3"/>
   <rect x="475" y="20" width="150" height="150" fill="#fff" stroke="#111" stroke-width="3"/><rect x="475" y="20" width="75" height="75" fill="#bdbdbd" stroke="#111" stroke-width="3"/><path d="M550 20 L550 170 M475 95 L625 95" stroke="#111" stroke-width="3"/>
   <rect x="93" y="186" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="3"/>
   <rect x="313" y="186" width="34" height="34" rx="3" fill="#fff" stroke="#111" stroke-width="3"/>

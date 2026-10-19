@@ -3,6 +3,10 @@ title: Year 2 Admission Assessment: Assessor booklet
 style: assessor
 footer: Year 2 Admission Assessment | Assessor booklet
 ---
+<style>
+.y-talk th:nth-child(1), .y-talk td:nth-child(1) { width: 11%; }
+.y-talk th:nth-child(4), .y-talk td:nth-child(4) { width: 31%; }
+</style>
 # Year 2 Admission Assessment: Assessor booklet
 
 [[namebox:candidate]]
@@ -32,7 +36,7 @@ The order follows the blueprint for Years 1 to 3. This booklet puts all the Engl
 Use a pair only when you need to (for example, twins or a busy admissions day). Each child has their own student booklet and sits where they cannot see the other child's page.
 
 - **Together:** listening, maths and writing. Give each instruction once to both children. In listening item 9, watch both children to see which part each does first.
-- **Always 1:1:** picture talk, the reading screens and the interview. While one child does these, the other child draws on page 13 with a second adult (or with their parent) in the room.
+- **Always 1:1:** picture talk, the reading screens and the interview. While one child does these, the other child draws on page 13 with a second adult (or with their parent) in the room; in the interview, talk about that drawing or let the child add to it.
 - **Order for a pair:** welcome; picture talk (one child, then the other); listening; reading screens (one child, then the other); break; maths; writing; interviews. The picture talk still comes before the writing, so both children have talked about the story before they write about it.
 
 [[/keep]]
@@ -58,20 +62,24 @@ Use a pair only when you need to (for example, twins or a busy admissions day). 
 
 Write the child's name on the cover of the student booklet. Note how the child first responds (English, Chinese, gesture, silence).
 
+[[keep]]
+
 #### Access rules for Year 2
 
 | | English tasks: picture talk, listening, reading, writing | Maths |
 |---|---|---|
 | What you may say | Only the words in the script. Do not explain words, translate, point or show what to do. You may repeat an instruction once if the child asks or clearly did not hear: write **R**. | **Read every question aloud.** Repeat it in English as often as needed and point to the picture. You may show with counters, but do not do the question for the child. |
-| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score. | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
-| Answers | English words, marks on the picture and pointing count. Answers in Chinese do not score. | Written numbers, ticks, drawings and spoken answers in English or Chinese all count. Mark a spoken Chinese answer **L**. |
+| Chinese | Not used by you. Write down anything the child says in Chinese (**C**): it shows understanding, but it does not score (except in the reading screens' questions: see 3.3). | If a Chinese-speaking colleague is present and the child cannot follow the English after you have read it aloud, the colleague may say the question once in Chinese. Mark the item **L**. The mark still counts. |
+| Answers | English words, marks on the picture and pointing count. Answers in Chinese do not score (except as above). | Written numbers, ticks, drawings and spoken answers in English or Chinese all count. Mark a spoken Chinese answer **L**. |
 | Not yet taught | | If the child or parent tells you the child has not learnt a topic ("我们还没学"), mark **NT**. It scores 0; list it in the summary. |
+
+[[/keep]]
 
 Codes in this booklet: **R** instruction repeated once; **C** child spoke Chinese; **L** language support in maths; **NT** not yet taught. Extra time, a reader or extra breaks for a known need are allowed: record them in the score summary.
 
 #### Keeping the child at ease
 
-- Praise effort, never correctness: "Good trying!", "Thank you!", "Good listening!" Use the same warm tone after right and wrong answers. Never say "No" or "Wrong", and do not correct.
+- Praise effort, never correctness: "You are working hard!", "Thank you!", "Good listening!" Use the same warm tone after right and wrong answers. Never say "No" or "Wrong", and do not correct.
 - Some children new to English say very little at first. Smile, wait and move on; never pressure the child.
 - If the child is tired, take a short extra break. If the child becomes upset, stop, comfort them and let them go to the parent. Try again later if they recover; otherwise end the visit and record what was done.
 
@@ -97,6 +105,8 @@ The story has four pictures. 1: Jun walks to school in the sunshine with his sch
 
 [[keep]]
 
+<div class="y-talk" markdown="1">
+
 | Step | Say | Listen for | What the child said |
 |---|---|---|---|
 | 1 Open | "Look at the pictures. What can you see?" | Any naming: boy, girl, rain, umbrella, school, sun, rainbow, cloud, bag, tree | |
@@ -108,6 +118,8 @@ The story has four pictures. 1: Jun walks to school in the sunshine with his sch
 | 7 Telling | Point to picture 1. "Tell me the story. Start here." | the four pictures in order, joined with first, then, next, after that; some past tense (walked, rained) | |
 | 8 Predicting | "What do you think Jun will do tomorrow?" | take his umbrella; say thank you to Mei; share with Mei; check the weather | |
 | 9 Personal | "What do you do when it rains?" | talks about their own life | |
+
+</div>
 
 [[/keep]]
 
@@ -179,30 +191,32 @@ Speaking band from the picture talk: **A &nbsp; B &nbsp; C &nbsp; D &nbsp; E**. 
 
 ### 3.3 Reading: Early Reading Screen and Graded Sentence Reading Screen (12 minutes, 1:1)
 
-Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at Section 1 of the phonics words: skip the letter sounds if the child reads the first ten words easily; if not, go back to the letter sounds. Then use the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
+Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) starting at Section 1 of the phonics words, words 1 to 10 (Year 2 start point in the guide, Section 2). If words 1 to 10 are easy (9 or 10 right, most read without sounding out), skip the letter sounds; if not, finish Section 1 and then do the letter sounds. Then use the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 1.
 
-The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`. Follow the scripts, scoring and stopping rules in each shared record; this booklet has no reading tasks of its own. One rule differs from the other English tasks: in the questions about what the child has just read (passage questions and sentence meaning checks), a spoken answer in Chinese that shows understanding counts as understood; write it down and mark **C**. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Copy the results into the score summary (Section 6). Then take the movement break.
 
 ### 3.4 Writing (6 minutes, 1:1 or pair, pages 11 and 12; given after maths)
 
 Give the child a pencil. Do not spell any word, sound out, or write for the child.
 
-**Part 1: a dictated sentence (page 11).** Point to the lines next to "1". Say: "I will say a sentence. Listen to all of it first." Say the sentence at a natural pace:
+**Part 1: a dictated sentence (page 11).** Point to the lines under "1". Say: "I will say a sentence. Listen to all of it first." Say the sentence at a natural pace:
 
-> "Mum and I saw a panda at the zoo."
+> "At the zoo I saw a baby panda."
 
-Say: "Now write it here." Say the sentence again. Then say it in three parts, waiting while the child writes each part: "Mum and I ... saw a panda ... at the zoo." You may repeat a part once if the child asks. Then say: "Now check it."
+Say: "Now write it here." Say the sentence again. Then say it in three parts, waiting while the child writes each part: "At the zoo ... I saw ... a baby panda." You may repeat a part once if the child asks. Then say: "Now check it."
 
 **Part 2: the picture story (page 12).** Point to the story. Say: "This is the story about Jun and Mei. Write what happened. Write 2, 3 or 4 sentences." If the child is stuck, say once: "What happened first?" Do not give words or sentences. If the child asks how to write the names, write "Jun" and "Mei" on a slip of paper: the names are not part of the spelling score. When the child finishes, say "Can you read it to me?" and write down what they say.
 
 #### Dictated sentence: word check
 
-| Word | Mum | and | I | saw | a | panda | at | the | zoo |
-|---|---|---|---|---|---|---|---|---|---|
-| Correct | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
-| All sounds shown ("sor", "pander", "zu") | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| Word | At | the | zoo | I | saw | a | baby | panda |
+|---|---|---|---|---|---|---|---|---|
+| Correct | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
+| All sounds shown ("zu", "sor", "babee", "pander") | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] | [[tick]] |
 
-Words correct: ___ / 9. &nbsp; [[tick]] capital M at the start &nbsp; [[tick]] capital I &nbsp; [[tick]] spaces between words &nbsp; [[tick]] full stop &nbsp; [[tick]] all nine words in the right order
+Words correct: ___ / 8. &nbsp; [[tick]] capital A at the start &nbsp; [[tick]] capital I &nbsp; [[tick]] spaces between words &nbsp; [[tick]] full stop &nbsp; [[tick]] all eight words in the right order
+
+The content words (zoo, saw, baby, panda) are not on the reading cards, so the child has not just seen them written.
 
 #### Writing checklist (the story)
 
@@ -224,7 +238,7 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | Content and organisation | Nothing written, or not about the story | One or two ideas from the story, not yet in order ("rain. umbrella.") | Three or four pictures told in order, with a feeling or reason ("Jun was sad because he got wet.") | / 4 |
 | Vocabulary | No English words | Simple nouns and verbs (rain, school, go) | Words chosen for the story: umbrella, shared, wet, rainbow, friend | / 4 |
 | Grammar and sentences | No phrase or sentence | Short sentences or phrases, mostly present tense, with words missing ("He go school.") | Simple sentences that are mostly correct, some in the past tense, joined with and, then or because | / 4 |
-| Spelling and punctuation (both parts) | Random letters, or letters not linked to sounds | About half of the dictated words correct; other words show most sounds; little punctuation | 7 or more of the 9 dictated words correct; other words plausible; capital letters and full stops used most of the time | / 4 |
+| Spelling and punctuation (both parts) | Random letters, or letters not linked to sounds | About half of the dictated words correct; other words show most sounds; little punctuation | 6 or more of the 8 dictated words correct; other words plausible; capital letters and full stops used most of the time | / 4 |
 | | | | **Total** | **/ 16** |
 
 [[/keep]]
@@ -239,7 +253,7 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | **D** | Most of the dictated sentence correct; two or three sentences that another adult can read, mostly in order | 11 to 13 |
 | **E** | Comparable to a fluent English-speaking 6 year old (below) | 14 to 16 |
 
-**What band E looks like at age 6.** The child writes the dictated sentence with nearly all the words correct ("panda" or "saw" may be a small slip), with a capital M and a capital I and a full stop. They write three or four sentences that tell the story in order, using the past tense most of the time (walked, rained, shared), joining ideas with "and", "then" or "because", with spaces between words, and capital letters and full stops in most places. Longer words are spelt plausibly ("umbrela", "rainbo"). This matches the end of Year 1 expectations for a fluent English speaker.
+**What band E looks like at age 6.** The child writes the dictated sentence with nearly all the words correct ("panda" or "baby" may be a small slip), with a capital A at the start, a capital I and a full stop. They write three or four sentences that tell the story in order, using the past tense most of the time (walked, rained, shared), joining ideas with "and", "then" or "because", with spaces between words, and capital letters and full stops in most places. Longer words are spelt plausibly ("umbrela", "rainbo"). This matches the end of Year 1 expectations for a fluent English speaker.
 
 #### Spelling from children who speak Chinese
 
@@ -292,9 +306,9 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 | 14 WP | "Number 14. There are 3 rows of cakes. There are 5 cakes in each row. How many cakes are there? Write the answer in the box." | **15** | Counting in ones scores. Counting in fives is a sign of a stronger start. Arrays may not have been taught. |
 | 15 WP | "Number 15. Grandma has 12 mooncakes. She puts them on 3 plates. Each plate has the same number. How many mooncakes are on each plate? You can draw on the plates. Write the answer in the box." | **4** | Sharing (平均分) may not have been taught. |
 | 16 WP | "Number 16. Today is Friday. What day is tomorrow? Write it on the empty page, or tell me." | **Saturday**, written or said. Any plausible spelling ("Saterday", "Satday"). 星期六 said in Chinese scores (L). | English day names may not have been taught. |
-| 17 | Point to the big clock. "Number 17. What time does this clock show? Write the time in the box." Then point to the three small clocks: "Put a tick under the clock that shows half past 9." | **4 o'clock** (also "4", "4:00", "four o'clock"; 4点 said in Chinese, L), and a tick under the **third clock**. 1 mark for both. | Clocks may not have been taught. The second clock (half past 3) is chosen by a child who looks only at the long hand. |
+| 17 | Point to the big clock. "Number 17. What time does this clock show? Write the time in the box." Then point to the three small clocks: "Put a tick under the clock that shows half past 9." | **4 o'clock** (also "4", "4:00", "four o'clock"; 4点 said in Chinese, L), and a tick under the **third clock**. 1 mark for both. | Clocks may not have been taught. The first clock (9 o'clock) is chosen by a child who looks only for the 9; the second (half past 3) by a child who looks only at the long hand. |
 | 18 WP | "Number 18. Tom has 10 balloons. He gives half of them to his sister. How many balloons does he give to his sister? You can draw circles round the balloons. Write the answer in the box." | **5** | Half of an amount may not have been taught. |
-| 19 | "Number 19. Look at the three shapes. Which shape is one quarter grey? Put a tick under it." | A tick under the **square** (the third shape). | The middle shape has four parts that are not equal, so it does not show quarters. Quarters may not have been taught. |
+| 19 | "Number 19. Look at the three shapes. Which shape is one quarter grey? Put a tick under it." | A tick under the **square** (the third shape). | The middle shape has four parts that are not equal (its grey part is more than a quarter), so it does not show quarters: a tick under it shows the child counts the parts but does not check they are equal. Quarters may not have been taught. |
 | 20 | "Number 20. Look at the arrow. It points to the tree. The arrow makes a half turn. Put a tick on the picture it points to now." (wait) "Now start at the tree again. The arrow makes a quarter turn to the right. Put a cross on the picture it points to now." Do not turn your hand or the booklet. | A tick on the **car**, and a cross on the **house**. 1 mark for both. | Half and quarter turns may not have been taught. A cross on the flower shows left and right mixed up. |
 | | | **Section B total** (of which word problems 12, 14, 15, 16, 18: **/ 5**) | **/ 10** |
 | | | **Maths total** | **/ 20** |
@@ -355,7 +369,7 @@ Use the questions and record in `forms/Interview_Record_Y1_Y2.md`. Sit at the lo
 | Early Reading Screen: book band, accuracy, questions | book band ____ accuracy ____ % questions ____ | | |
 | Reading (band from the Early Reading Screen, guide section 6.7) | | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | |
 | Sentence reading (shared record) | points / 72, reading age ______ | indicative | |
-| Writing | / 16 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | dictated words correct: / 9 |
+| Writing | / 16 | A&nbsp;&nbsp;B&nbsp;&nbsp;C&nbsp;&nbsp;D&nbsp;&nbsp;E | dictated words correct: / 8 |
 | Maths | / 20 (A / 10, B / 10), of which word problems / 5 | 1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4 | NT: L: |
 
 Access arrangements (extra time, reader, breaks):

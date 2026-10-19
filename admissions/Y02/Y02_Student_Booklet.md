@@ -172,7 +172,7 @@ name_footer: yes
 
 ### 19 [[marks:1]]
 
-![A circle in 2 equal parts with 1 grey, a rectangle in 4 parts that are not equal with 1 grey, and a square in 4 equal parts with 1 grey, each with a tick box](diagrams/y02_m19_quarters.svg){.w90}
+![A circle in 2 equal parts with 1 grey, a rectangle in 4 parts that are not equal with the biggest part grey, and a square in 4 equal parts with 1 grey, each with a tick box](diagrams/y02_m19_quarters.svg){.w90}
 
 ### 20 [[marks:1]]
 

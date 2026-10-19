@@ -131,7 +131,7 @@ How much are the dumplings? &nbsp; ¥ [[answer:short]]
 
 ### 3 [[marks:1]]
 
-How many dumplings do you get on one plate? &nbsp; [[answer:short]]
+Mei buys the dumplings. How many dumplings does she get? &nbsp; [[answer:short]]
 
 ### 4 [[marks:1]]
 
@@ -166,7 +166,7 @@ On which day is the café closed? &nbsp; [[answer]]
 [[passage]]
 #### The Paper Boats
 
-![Two paper boats on a pond: one dark and one white.](diagrams/y04_e08_reading_paper_boats.svg){.w35 .right}
+![Two paper boats on a pond: one dark grey and one light grey.](diagrams/y04_e08_reading_paper_boats.svg){.w35 .right}
 
 On Saturday, Wang Hao and Tom made paper boats. Wang Hao's boat was red. Tom's boat was blue.
 
@@ -195,7 +195,7 @@ What colour was Tom's boat? &nbsp; [[answer]]
 
 ### 10 [[marks:1]]
 
-Where did they put the boats on the water? **Write** your answer.
+Where did they take the boats? **Write** your answer.
 
 [[lines:1]]
 
@@ -212,7 +212,7 @@ Where did they put the boats on the water? **Write** your answer.
 
 ### 12 [[marks:1]]
 
-Find and **copy** one word that tells you how Wang Hao felt when his boat went down.
+**Find** and **copy** one word that tells you how Wang Hao felt when his boat went down.
 
 [[answer]]
 

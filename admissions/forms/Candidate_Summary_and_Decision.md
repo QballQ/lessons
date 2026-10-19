@@ -31,6 +31,8 @@ Complete within two working days of the assessment, from the assessor booklet, t
 
 **1** Well below expected, **2** Working towards, **3** Expected, **4** Greater depth. A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
 
+**Year 10 only: readiness for IGCSE** (Year 10 assessor booklet, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
+
 Assessor's comment on maths and science (strengths, gaps, NT topics, English barrier or not):
 
 [[lines:3]]

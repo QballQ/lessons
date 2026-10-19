@@ -3,13 +3,17 @@ title: Year 3 Admission Assessment: Assessor booklet
 style: assessor
 footer: Year 3 Admission Assessment | Assessor booklet
 ---
+<style>
+.y-talk th:nth-child(1), .y-talk td:nth-child(1) { width: 11%; }
+.y-talk th:nth-child(4), .y-talk td:nth-child(4) { width: 26%; }
+</style>
 # Year 3 Admission Assessment: assessor booklet
 
 [[namebox:candidate]]
 
 **Who this is for.** Children applying for Year 3 are usually 7 years old on 1 September. A child from a Chinese mainstream school has usually **completed Grade 1** (一年级): numbers to 100, adding and subtracting within 100, o'clock and half past, yuan and jiao, and simple 2D and 3D shapes. Times tables, division, fractions, cm rulers and time to five minutes usually come later. English as a school subject often starts in Grade 3, so many children have only had English classes outside school; children from bilingual schools may be close to fluent.
 
-**How it works.** About 55 minutes, 1:1, plus a short break. The child works in the **Student booklet** (11 pages); you lead every task and record in this booklet. Reading uses the shared reading screens. Mark everything the same day and copy the score summary (Section 5) onto the Candidate Summary and Decision (`forms/Candidate_Summary_and_Decision.md`).
+**How it works.** About 55 minutes of tasks, 1:1, plus a welcome and a short break. The child works in the **Student booklet** (11 pages); you lead every task and record in this booklet. Reading uses the shared reading screens. Mark everything the same day and copy the score summary (Section 5) onto the Candidate Summary and Decision (`forms/Candidate_Summary_and_Decision.md`).
 
 ## 1. At a glance
 
@@ -22,7 +26,7 @@ footer: Year 3 Admission Assessment | Assessor booklet
 | 4 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 3 to 10 | Pencil, rubber, ruler marked in cm |
 | 5 | Writing: the picture story | 8 | Child writes | page 11 | Pencil |
 | 6 | Short interview and goodbye | 8 | Assessor, 1:1 | | `forms/Interview_Record_Y3_Y4.md`; paper and crayons |
-| | **Total** | **about 55** | | | |
+| | **Total** | **about 55**, plus welcome and break | | | |
 
 **Print for each child:** the Student booklet (A4, single-sided, at actual size; colour if possible, but the emoji pictures are clear in greyscale), this assessor booklet, `shared/Early_Reading_Screen_Record.md`, `shared/Sentence_Reading_Record.md`, `forms/Interview_Record_Y3_Y4.md` and `forms/Candidate_Summary_and_Decision.md`. **Reuse:** the laminated `shared/Early_Reading_Screen_Cards.md` and `shared/Sentence_Reading_Card.md`, and the levelled reading books.
 
@@ -40,11 +44,11 @@ Write the child's name on page 1 if they cannot.
 |---|---|---|
 | Reading aloud | Say only what the script says. Do not explain words, translate, or read the reading texts for the child. You may repeat an instruction in English. | Read any question aloud in English, as often as the child asks, and point to the picture. |
 | Chinese | Not used. Note what the child says in Chinese, because it shows understanding. | If a Chinese-speaking colleague is present and the child cannot follow the English after it has been read aloud, the colleague may say the question once in Chinese. Write **L** by the question. The mark still counts. |
-| Answers in Chinese | Do not score. | Accepted in explanations; write **L**. |
+| Answers in Chinese | Do not score, with one exception: in the two reading screens, a spoken answer in Chinese to a question about what the child has just read counts if it shows understanding (write **C**). | Accepted in explanations; write **L**. |
 
-**Codes.** **NT** not yet taught: the child says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **R** a listening instruction repeated. **C** an answer in Chinese. Record extra time, a reader or any other access arrangement for a known need in the score summary.
+**Codes.** **NT** not yet taught: the child says they have not learnt it; it scores 0 and is listed in the summary. **L** language support in maths. **R** a listening instruction repeated. **C** an answer in Chinese: in the reading screens' questions it counts as understood; in the picture talk and the interview it does not count towards the speaking band. Record extra time, a reader or any other access arrangement for a known need in the score summary.
 
-**Keeping the child at ease.** Chat for a minute first. Praise effort ("Good trying", "Thank you"), never right or wrong answers. Do not mark in front of the child. Any child may stop a task when they have done what they can. If the child is upset, tired or very quiet, take a break or stop, and record it. Never press a distressed child.
+**Keeping the child at ease.** Chat for a minute first. Praise effort ("Thank you", "You are working hard"), never right or wrong answers. Do not mark in front of the child. Any child may stop a task when they have done what they can. If the child is upset, tired or very quiet, take a break or stop, and record it. Never press a distressed child.
 
 ## 3. English
 
@@ -56,6 +60,8 @@ Write the child's name on page 1 if they cannot.
 
 Ask the prompts in order. Wait about 5 seconds before you move on. You may point to a picture, but do not name things for the child and do not correct their English. Write down what the child says, as exactly as you can.
 
+<div class="y-talk" markdown="1">
+
 | Step | Say (and point) | Listen for | What the child said |
 |---|---|---|---|
 | 1 Name | "What can you see?" Point to things: "What is this?" | Single words: sun, flower, pot, seed, plant, water, girl, grandpa; watering can, sunflower | |
@@ -63,6 +69,8 @@ Ask the prompts in order. Wait about 5 seconds before you move on. You may point
 | 3 Feelings and why | Picture 3: "How does Mei feel? Why?" | "Sad"; "because the plant is ill / dying / too hot / needs water" | |
 | 4 Tell the story | "Now tell me the whole story. Start here." Point to picture 1. | The events in order; then, and, because; past tense (planted, watered, grew); time words (every day, one day, at the end) | |
 | 5 Predict and connect | "What do you think Mei will do next?" Then: "Do you have plants or flowers at home? Tell me about them." | An idea of their own; talk about their own life | |
+
+</div>
 
 **Speaking guide for this task.** Use it together with the interview. The speaking band goes on the interview record and in the score summary.
 
@@ -114,7 +122,13 @@ Ask the prompts in order. Wait about 5 seconds before you move on. You may point
 
 ### 3.3 Reading: the shared reading screens (12 minutes)
 
-Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`): if the child reads the first ten Section 1 words easily, go straight to Section 2 and then the graded passages; and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at Level 2.
+Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards.md` and `shared/Early_Reading_Screen_Record.md`) with the **Year 3 start point** (Guide, Section 2): start at **Section 1, words 1 to 10** (practice Card 3, then Card 4).
+
+- **If words 1 to 10 are easy** (9 or 10 right, most read without sounding out): skip words 11 to 20 and the letter sounds, and go straight to Section 2. Section 2 is 15 or more: go on to the passages. Section 2 is 12 to 14: the tricky words, then the passages. Section 2 is under 12: go back to words 11 to 20, then the tricky words and the passages.
+- **If not:** as Year 2. Finish Section 1 (and Section 2 if Section 1 is 15 or more), then the letter sounds, the tricky words and the passages.
+
+Then give the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card.md` and `shared/Sentence_Reading_Record.md`) starting at **Level 2** (sentence 4).
+
 
 - The instructions for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide.md`; those for the sentence reading are on `shared/Sentence_Reading_Record.md`. Follow their scoring and stopping rules. This booklet has no reading task of its own.
 - In Years 1 to 3 the **reading band** comes from the Early Reading Screen; the sentence reading screen confirms it (see the Sentence Reading Record, Section 7).
@@ -191,7 +205,7 @@ Use `forms/Interview_Record_Y3_Y4.md`. In Year 3 the sentence reading has alread
 | 9 | P | 7 cm | 7 | Centimetres and rulers may not have been taught (Grade 2). | / 1 |
 | 10 | P | 6 sides and 6 vertices | | Both needed for the mark. If the word "vertices" is the problem, say "corners": this is maths vocabulary, not a trick. | / 1 |
 | 11 | P | a 7; b 2 | | b: 8 (added 5 and 3) means "how many more" was not understood: a common English barrier. Read it again. | / 2 |
-| 12 | P | a half past 7; b twenty-five past 9 | a 7:30, 7.30, seven thirty; b 9:25, 9.25, 25 past 9 | a: 6:35 or 6:30 (hands swapped). b: 5:45 (hands swapped). Time to five minutes may not have been taught (Grade 2). | / 2 |
+| 12 | P | a half past 7; b twenty-five past 9 | a 7:30, 7.30, seven thirty; b 9:25, 9.25, 25 past 9 | a: 6:35 (hands swapped) or 8:30 (took the next number for the hour). b: 5:45 (hands swapped). Time to five minutes may not have been taught (Grade 2). | / 2 |
 | 13 | W | a ¥20; b ¥5 | 20, 20 yuan, 20元; 5, 5 yuan | b: 35 (added). | / 2 |
 | 14 | P | A straight vertical line through the tip of the arrow and the middle of the bottom edge | A freehand line, if it is clearly meant to be straight and goes through both points (within about 3 mm) | A horizontal line, or any other line, scores 0. Lines of symmetry may not have been taught (Grade 2). | / 1 |
 | 15 | P | a C only; b <sup>3</sup>/<sub>4</sub> | b: three quarters; 3 out of 4; 四分之三 (write L) | a: B (did not check that the parts are equal) or D (2 parts shaded). b: <sup>1</sup>/<sub>4</sub> or <sup>4</sup>/<sub>3</sub>. Fractions may not have been taught (Grade 3). | / 2 |
@@ -222,7 +236,7 @@ Use `forms/Interview_Record_Y3_Y4.md`. In Year 3 the sentence reading has alread
 |---|---|---|---|
 | Listening: follow instructions | / 10 | A B C D E | R: |
 | Speaking (picture talk and interview) | | A B C D E | |
-| Early Reading Screen (shared record) | letter sounds ___ ; phonics words ___ / 40 ; tricky words ___ / 20 ; book band ______ ; accuracy ___ % ; questions ___ | A B C D E | |
+| Early Reading Screen (shared record) | letter sounds ___ / 26 and ___ / 18 (or skipped: start rule) ; phonics words ___ / 40 ; tricky words ___ / 20 ; book band ______ ; accuracy ___ % ; questions ___ | A B C D E | |
 | Sentence reading (shared record) | points ___ / 72 ; reading age ______ | indicative A B C D E | |
 | Writing | / 16 | A B C D E | labels / story / recount |
 | Maths | / 24 (A / 9, B / 15, of which word problems / 4) | 1 2 3 4 | NT: &nbsp; L: |

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 130" width="660" height="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif">
-<title>Three circuit symbols, each with an empty box under it: a cell, a bulb and an open switch.</title>
+<title>Three circuit symbols, each with an empty box under it: from left to right, a bulb, an open switch and a cell.</title>
 <line x1="50" y1="42" x2="170" y2="42" stroke="#111" stroke-width="2.5" stroke-linecap="round"/>
 <circle cx="110" cy="42" r="15" fill="#fff" stroke="#111" stroke-width="2.5"/>
 <line x1="99.4" y1="31.4" x2="120.6" y2="52.6" stroke="#111" stroke-width="2" stroke-linecap="round"/>
