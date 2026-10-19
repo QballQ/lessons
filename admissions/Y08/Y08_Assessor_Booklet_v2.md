@@ -9,15 +9,6 @@ footer: Year 8 Admission Assessment v2 | Assessor booklet
 
 For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8 entrant from a Chinese mainstream school has usually **completed Grade 6** (the end of primary school) and is the same age as a student starting Grade 7 (初一). The version 2 maths paper starts at the level expected on entry to Year 8 (the end of UK Year 7) and goes well beyond it, into Year 8 content, so expanding and factorising, equations with the unknown on both sides, inequalities, index laws, standard form, probability as a number and the mean from a frequency table **may not have been taught yet** (Section 4). A Year 8 entrant has usually done **no secondary science**: the science paper tests UK Year 7 content, so read the science score with the NT notes in Section 5. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.
 
-**What is new in version 2**
-
-| Part | Version 1 | Version 2 |
-|---|---|---|
-| Listening | One conversation, 8 marks, 5 minutes | **Part A** is the version 1 conversation, unchanged (questions 1 to 8). **Part B** is new: a short academic talk (questions 9 to 16). 16 marks, about 10 minutes |
-| Reading | Three texts, 24 marks, 12 minutes | **Part A** is version 1 Part A (the notice). **Part B** is version 1 Part C (the sleep article), renumbered 7 to 13. **Part C** is new: a feature article above age level (questions 14 to 20). 24 marks, 15 minutes |
-| Maths | Number problems and word problems, 30 marks, 20 minutes | Aimed at the higher end, in three sections: **Fluency** (10 marks), **Word questions** (8) and **Applied problems** (12). 30 marks, 25 minutes, with three sub-scores |
-| Writing, science, interview | | Unchanged |
-
 ## 1. At a glance
 
 | Order | Task | Minutes | Who leads | Materials | Notes |
@@ -32,7 +23,16 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | `forms/Interview_Record_Y7_Y10`, `shared/Sentence_Reading_Record`, `shared/Sentence_Reading_Card`, a plain card | Sentence reading starts at **Level 7** (sentence 19) |
 | | **Total** | **about 85** | | | Student time. With the welcome and the break, allow about 90 minutes. Plus the parent conversation (about 15 minutes, separate) |
 
-**Print for each candidate:** the Year 8 student paper, version 2 (23 pages, A4; print double-sided so that the reading Part C article, pages 10 and 11, faces itself), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
+**Print for each candidate:** the Year 8 student paper, version 2 (23 pages, A4; print it double-sided, so that the listening Part B pages, 4 and 5, and the reading Part C article, pages 10 and 11, face each other), the interview record (Years 7 to 10), the sentence reading record, the parent conversation record and the candidate summary. **Print once per room:** this booklet and the sentence reading card (laminate it). The score summary (Section 6) can be copied, one per candidate.
+
+#### What is new in version 2
+
+| Part | Version 1 | Version 2 |
+|---|---|---|
+| Listening | One conversation, 8 marks, 5 minutes | **Part A** is the version 1 conversation, unchanged (questions 1 to 8). **Part B** is new: a short academic talk (questions 9 to 16). 16 marks, about 10 minutes |
+| Reading | Three texts, 24 marks, 12 minutes | **Part A** is version 1 Part A (the notice). **Part B** is version 1 Part C (the sleep article), renumbered 7 to 13. **Part C** is new: a feature article above age level (questions 14 to 20). 24 marks, 15 minutes |
+| Maths | Number problems and word problems, 30 marks, 20 minutes | Aimed at the higher end, in three sections: **Fluency** (10 marks), **Word questions** (8) and **Applied problems** (12). 30 marks, 25 minutes, with three sub-scores |
+| Writing, science, interview | | Unchanged |
 
 ## 2. Before you start
 
@@ -65,6 +65,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 
 **Read it twice at a natural, steady pace.** You read both parts. Say the speaker's name before each turn, a little more quietly, and make the two voices slightly different. Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give 30 seconds to finish. Do not repeat any part, and do not explain any word.
 
+[[keep]]
 > **Script: Mei and Amir talk about the charity fair**
 >
 > **Amir:** Mei, have you decided what our class is going to sell at the charity fair?
@@ -100,6 +101,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 > **Mei:** That's fine. And I'm really happy about the main gate.
 >
 > **Amir:** Me too. Everybody will walk past us when they come in!
+[[/keep]]
 
 **Answers.** One mark each. Spelling does not matter if the meaning is clear. Answers must be in English.
 
@@ -120,6 +122,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 
 **Read it twice at a natural, steady classroom pace**, as a teacher would give a short talk: about 150 words a minute, so each reading takes about two and a half minutes. Pause for about 2 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part, do not explain any word, and do not answer questions about the talk. Practise the talk aloud once before the day. Say these words clearly: **decibels** (DESS-ih-bels), **adrenaline** (a-DREN-a-lin), **chronic** (KRON-ik), **Munich** (MYOO-nik).
 
+[[keep]]
 > **Script: Dr Lin's talk about noise in cities**
 >
 > Good morning, everyone. I'm Dr Lin, and I study how cities affect people's health. Today I want to talk about something most of us hardly notice: noise. **[pause]**
@@ -137,6 +140,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 > In one new park beside a motorway, the noise level is only slightly lower than before, but the designers added several fountains, and visitors say they feel calmer there. **[pause]**
 >
 > So next time someone tells you that cities are simply noisy places, ask them: does it have to be that way?
+[[/keep]]
 
 **Answers.** One mark for each question; questions 12 and 13 are one mark each. Spelling does not matter if the meaning is clear. Answers must be in English.
 
