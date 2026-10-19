@@ -82,10 +82,9 @@ Where is the class stall this year? **Tick** one box.
 ### 4 [[marks:1]]
 What will Amir do? **Tick** two boxes.
 
-<div class="opts" markdown="1">
-[[tick]] make the price signs &nbsp;&nbsp; [[tick]] buy the plants <br>
-[[tick]] bring a table &nbsp;&nbsp; [[tick]] play the piano at the fair
-</div>
+[[tick]] make the price signs &nbsp;&nbsp; [[tick]] buy the plants &nbsp;&nbsp; [[tick]] bring a table &nbsp;&nbsp; [[tick]] play the piano
+
+[[cols:2]]
 
 ### 5 [[marks:1]]
 How many plants will Mei's aunt give the class? **Write** the number in the box.
@@ -96,6 +95,8 @@ How many plants will Mei's aunt give the class? **Write** the number in the box.
 The class sells all the plants. How much money will they give to the charity? **Write** the number in the box.
 
 [[answer:short]] yuan
+
+[[/cols]]
 
 ### 7 [[marks:1]]
 Amir will leave the fair before it finishes. Why? **Write** your answer.
@@ -535,7 +536,7 @@ The bar chart shows how many minutes Zhang Wei spent on homework each day.
 ### 18 [[marks:2]]
 Hexagon tables are put in a row. A chair goes at every free side.
 
-![Hexagon tables in a row with chairs: 1 table has 6 chairs, 2 tables have 10 chairs, 3 tables have 14 chairs.](diagrams/y08_m18_tables.svg){.w100}
+![Hexagon tables in a row with chairs: 1 table has 6 chairs, 2 tables have 10 chairs, 3 tables have 14 chairs.](diagrams/y08_m18_tables.svg){.w90}
 
 a. How many chairs are needed for 10 tables in a row? [[answer:short]]
 
@@ -554,7 +555,7 @@ Next month, the price will go up by 15%.
 
 What will the new price be?
 
-[[box:3:Working]]
+[[box:2:Working]]
 
 [[answer]] yuan
 

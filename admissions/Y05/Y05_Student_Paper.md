@@ -537,7 +537,7 @@ Use these words: <span class="wb">acute</span> <span class="wb">obtuse</span> <s
 
 **Join** each shape to its name. Draw a line from dot to dot.
 
-![Three shapes with dots: A, B, C. Below are three names with dots: trapezium, isosceles triangle, parallelogram.](diagrams/y05_m16_shapes.svg){.w90}
+![Three shapes with dots: A, B, C. Below are three names with dots: trapezium, isosceles triangle, parallelogram.](diagrams/y05_m16_shapes.svg){.w75}
 
 ### 17 [[marks:1]]
 
@@ -545,7 +545,7 @@ The dashed line is a line of symmetry.
 
 **Draw** the other half of the shape. You can use a ruler.
 
-![Half of a shape on a square grid, next to a dashed vertical line of symmetry](diagrams/y05_m17_symmetry.svg){.w60}
+![Half of a shape on a square grid, next to a dashed vertical line of symmetry](diagrams/y05_m17_symmetry.svg){.w50}
 
 ### 18 [[marks:2]]
 
