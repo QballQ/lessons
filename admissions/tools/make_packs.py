@@ -4,7 +4,8 @@ Run after build.py:
     python3 admissions/tools/make_packs.py
 
 Writes pdf/Candidate_Packs/Year_NN_Candidate_Pack.pdf for Years 1 to 6, Year_NN_Candidate_Pack_v2.pdf for
-Years 7 to 10 (version 2; the version 1 packs go to Candidate_Packs/v1_superseded/), and
+Years 7 to 10 (version 2; the version 1 packs go to Candidate_Packs/v1_superseded/),
+Year_10_Candidate_Pack_v1_trial.pdf (trial, October 2026: version 1 with the version 2 listening), and
 pdf/Candidate_Packs/Reading_Cards_to_Laminate.pdf (the cards students read from, reused for every candidate).
 A blank page is added after any part with an odd number of pages, so that every part starts on a new
 sheet when the pack is printed double-sided and the parts can be separated.
@@ -20,6 +21,7 @@ INTERVIEW = {1: 'Y1_Y2', 2: 'Y1_Y2', 3: 'Y3_Y4', 4: 'Y3_Y4', 5: 'Y5_Y6', 6: 'Y5_
 
 
 V2_YEARS = range(7, 11)   # Years 7 to 10 use version 2 of the papers (October 2026)
+TRIAL_YEARS = [10]        # Year 10 trial: version 1 papers with the version 2 listening (_v1_trial files)
 
 
 def parts(year, v=''):
@@ -60,5 +62,7 @@ if __name__ == '__main__':
                 os.remove(stale)
         else:
             join(parts(year), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack.pdf'))
+        if year in TRIAL_YEARS:
+            join(parts(year, '_v1_trial'), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack_v1_trial.pdf'))
     join(['shared/Early_Reading_Screen_Cards.pdf', 'shared/Sentence_Reading_Card.pdf'],
          os.path.join(OUT, 'Reading_Cards_to_Laminate.pdf'))
