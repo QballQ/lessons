@@ -3,10 +3,10 @@
 Run after build.py:
     python3 admissions/tools/make_packs.py
 
-Writes pdf/Candidate_Packs/Year_NN_Candidate_Pack.pdf for Years 1 to 6, Year_NN_Candidate_Pack_v2.pdf for
-Years 7 to 10 (version 2; the version 1 packs go to Candidate_Packs/v1_superseded/),
-Year_10_Candidate_Pack_v3.pdf (version 3, October 2026: version 1 with the version 2 listening), and
-pdf/Candidate_Packs/Reading_Cards_to_Laminate.pdf (the cards students read from, reused for every candidate).
+Writes pdf/Candidate_Packs/Year_NN_Candidate_Pack_v3.1.pdf for Years 1 to 10 (version 3.1, the current
+version for every year group) and pdf/Candidate_Packs/Reading_Cards_to_Laminate.pdf (the cards students read
+from, reused for every candidate). Packs of earlier versions are kept in Candidate_Packs/superseded/, one folder
+per version, and are not rebuilt (03_Version_Register).
 A blank page is added after any part with an odd number of pages, so that every part starts on a new
 sheet when the pack is printed double-sided and the parts can be separated.
 """
@@ -19,15 +19,14 @@ OUT = os.path.join(PDF, 'Candidate_Packs')
 
 INTERVIEW = {1: 'Y1_Y2', 2: 'Y1_Y2', 3: 'Y3_Y4', 4: 'Y3_Y4', 5: 'Y5_Y6', 6: 'Y5_Y6'}
 
-
-V2_YEARS = range(7, 11)   # Years 7 to 10 use version 2 of the papers (October 2026)
-V3_YEARS = [10]           # Year 10 version 3: version 1 papers with the version 2 listening (_v3 files)
+CURRENT = 'v3.1'   # the current version of the papers for every year group (October 2026)
 
 
-def parts(year, v=''):
+def parts(year, v=CURRENT):
     y = f'Y{year:02d}'
-    student = f'{y}/{y}_Student_Booklet.pdf' if year <= 3 else f'{y}/{y}_Student_Paper{v}.pdf'
-    p = [student, f'{y}/{y}_Assessor_Booklet{v}.pdf']
+    s = f'_{v}' if v else ''
+    student = f'{y}/{y}_Student_Booklet{s}.pdf' if year <= 3 else f'{y}/{y}_Student_Paper{s}.pdf'
+    p = [student, f'{y}/{y}_Assessor_Booklet{s}.pdf']
     if year <= 3:
         p.append('shared/Early_Reading_Screen_Record.pdf')
     p += ['shared/Sentence_Reading_Record.pdf',
@@ -51,18 +50,7 @@ def join(names, out):
 
 if __name__ == '__main__':
     os.makedirs(OUT, exist_ok=True)
-    old = os.path.join(OUT, 'v1_superseded')
     for year in range(1, 11):
-        if year in V2_YEARS:
-            join(parts(year, '_v2'), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack_v2.pdf'))
-            os.makedirs(old, exist_ok=True)
-            join(parts(year), os.path.join(old, f'Year_{year:02d}_Candidate_Pack_v1.pdf'))
-            stale = os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack.pdf')
-            if os.path.exists(stale):
-                os.remove(stale)
-        else:
-            join(parts(year), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack.pdf'))
-        if year in V3_YEARS:
-            join(parts(year, '_v3'), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack_v3.pdf'))
+        join(parts(year), os.path.join(OUT, f'Year_{year:02d}_Candidate_Pack_{CURRENT}.pdf'))
     join(['shared/Early_Reading_Screen_Cards.pdf', 'shared/Sentence_Reading_Card.pdf'],
          os.path.join(OUT, 'Reading_Cards_to_Laminate.pdf'))

@@ -12,7 +12,7 @@ This pack assesses students applying to the international programme from **Year 
 3. **Who they are**: interests, learning habits, wellbeing, and their **future plans and aspirations**.
 4. **Suitability**: whether the programme is right for the student and the family, and what support the student will need from the first day.
 
-Each candidate's assessment takes **about 45 minutes in Year 1, about 65 minutes in Years 5 and 6, and about 90 minutes in Years 7 to 10** (version 2), plus a 15-minute conversation with the parents.
+Each candidate's assessment takes **about 45 minutes in Year 1, about 65 minutes in Years 5 and 6, and about 90 minutes in Years 7 to 10** (version 3.1), plus a 15-minute conversation with the parents.
 
 ## 1. Principles
 
@@ -28,7 +28,8 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 65 minutes
 |---|---|---|
 | This guide | `00_Admissions_Guide` | All staff |
 | Reading books list | `01_Reading_Books_and_Materials` | Admissions, Years 1 to 3 assessors |
-| Year group papers | `Y01` to `Y10`: a student booklet (Years 1 to 3) or student paper (Years 4 to 10), and an assessor booklet. Years 7 to 10 use **version 2** (`_v2` files, October 2026): harder listening and reading, and maths aimed at the higher end. The version 1 files are kept for reference only. | Assessor |
+| Year group papers | `Y01` to `Y10`: a student booklet (Years 1 to 3) or student paper (Years 4 to 10), and an assessor booklet. Every year group uses **version 3.1** (`_v3.1` files, October 2026); in Years 7 to 10 it has harder listening and maths aimed at the higher end. Earlier versions are kept for reference only. | Assessor |
+| Version register | `03_Version_Register`: which version each year group uses, what each version contains, and a candidate log of the version each student sat | Admissions, assessors |
 | Early Reading Screen (Years 1 to 3, and older students new to English) | `shared/Early_Reading_Screen_Cards` (child reads from them; laminate), `shared/Early_Reading_Screen_Guide` (instructions; print once) and `shared/Early_Reading_Screen_Record` (record sheets; one set per child) | Assessor |
 | Graded Sentence Reading Screen (all years) | `shared/Sentence_Reading_Card` (laminate) and `shared/Sentence_Reading_Record` (one per student) | Assessor or interviewer |
 | Interview and suitability records | `forms/Interview_Record_Y1_Y2`, `_Y3_Y4`, `_Y5_Y6`, `_Y7_Y10` | Interviewer |
@@ -79,9 +80,9 @@ Student time, in minutes. The order on the day is in each assessor booklet.
 | 3 | 4 | 5 | 12 | | 8 | 18 | | 8 | about 55 |
 | 4 | | 5 | | 12 | 10 | 18 | | 12 | about 57 |
 | 5 and 6 | | 5 | | 12 | 10 | 18 | 8 | 12 | about 65 |
-| 7 to 10 (v2) | | 12 | | 15 | 10 | 25 | 8 | 15 | about 90 |
+| 7 to 10 | | 12 | | 15 | 10 | 25 | 8 | 15 | about 90 |
 
-Years 7 to 10 use version 2 (October 2026): the listening adds an academic Part B, the reading adds a demanding Part C, and the maths takes 25 minutes in three sections (fluency, word questions, applied problems), with a scientific calculator allowed in the applied section in Years 9 and 10. Reading both listening scripts twice takes 9 to 11 minutes, so allow about 12 minutes for listening (15 in Year 10). In word questions, Years 7 and 8 give full marks for any correct method; in Years 9 and 10, where a question asks for an equation, a correct answer without one earns only part of the marks. Version 1 took about 70 minutes and is kept for reference. Reading screens in Years 1 to 3: the start points and stopping rules keep most children within 12 minutes for the Early Reading Screen and the sentence reading screen together; allow up to 15 minutes for a strong reader who goes through all eight passages. Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
+Years 7 to 10 use version 3.1 (October 2026): the listening adds an academic Part B, the reading paper has two texts (Parts A and B, 16 marks) in 15 minutes, and the maths takes 25 minutes in three sections (fluency, word questions, applied problems), with a scientific calculator allowed in the applied section in Years 9 and 10. Reading both listening scripts twice takes 9 to 11 minutes, so allow about 12 minutes for listening (15 in Year 10). In word questions, Years 7 and 8 give full marks for any correct method; in Years 9 and 10, where a question asks for an equation, a correct answer without one earns only part of the marks. Version 1 took about 70 minutes and is kept for reference. Reading screens in Years 1 to 3: the start points and stopping rules keep most children within 12 minutes for the Early Reading Screen and the sentence reading screen together; allow up to 15 minutes for a strong reader who goes through all eight passages. Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
 
 ## 6. The English proficiency bands
 

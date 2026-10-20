@@ -7,6 +7,8 @@ footer: Candidate Summary and Decision
 
 [[namebox:candidate]]
 
+**Paper version sat:** ________ (for example v3.1; it is on the front page and in the footer of every paper)
+
 Complete within two working days, from the assessor booklet, reading records, interview record, parent conversation and homeroom teacher reference. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
 
 ## 1. English profile
@@ -15,7 +17,7 @@ Complete within two working days, from the assessor booklet, reading records, in
 |---|---|---|
 | Listening | Listening task ___ / ___ ; listening in conversation | **A B C D E** |
 | Speaking | Interview (and picture talk, Years 1 to 3) | **A B C D E** |
-| Reading | Years 1 to 3: Early Reading Screen book band ______ accuracy ____% questions ___ ; phonics words ___ / 40 ; letter sounds ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 10: reading paper ___ / 24 (A ___ B ___ C ___) | **A B C D E** |
+| Reading | Years 1 to 3: Early Reading Screen book band ______ accuracy ____% questions ___ ; phonics words ___ / 40 ; letter sounds ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 6: reading paper ___ / 24 (A ___ B ___ C ___). Years 7 to 10: reading paper ___ / 16 (A ___ B ___) | **A B C D E** |
 | Reading aloud | Sentence reading: points ___ / 72 ; reading age ______ ; actual age ______ ; meaning checks ___ ; fluency ___ | indicative **A B C D E** |
 | Writing | Writing task ___ / 16 | **A B C D E** |
 | **Overall English** | The band most of the four skills sit in. If one skill is two or more bands below the others, say which. | **A B C D E** |
@@ -24,12 +26,12 @@ Complete within two working days, from the assessor booklet, reading records, in
 
 ## 2. Maths and science
 
-| | Score | Band | Number problems (Years 7 to 10 v2: fluency) | Word problems (v2: word questions) | Applied (v2 only) | Not yet taught (NT) | Language support (L) |
+| | Score | Band | Number problems (Years 7 to 10: fluency) | Word problems (Years 7 to 10: word questions) | Applied (Years 7 to 10) | Not yet taught (NT) | Language support (L) |
 |---|---|---|---|---|---|---|
 | Maths | ___ / ___ | **1 2 3 4** | ___ / ___ | ___ / ___ | ___ / 12 | | |
 | Science (Years 5 to 10) | ___ / ___ | **1 2 3 4** | | | | | |
 
-**1** Well below expected (Years 7 to 10 v2: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The v2 papers are harder, so their band boundaries are lower (guide and booklets). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. In the Years 7 to 10 v2 papers, a student strong in fluency and word questions but weak in applied problems needs teaching in problem solving, not more content. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
+**1** Well below expected (Years 7 to 10: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The Years 7 to 10 papers are harder, so their band boundaries are lower (guide and booklets). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. In Years 7 to 10, a student strong in fluency and word questions but weak in applied problems needs teaching in problem solving, not more content. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
 
 **Year 10 only: readiness for IGCSE** (Year 10 assessor booklet, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
 

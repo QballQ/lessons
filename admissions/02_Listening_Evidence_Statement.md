@@ -5,7 +5,7 @@ footer: Admissions Assessment | Listening: standard and evidence
 ---
 # Listening tasks: standard and evidence statement
 
-For the admissions team and the English team. October 2026: version 1 of the pack for Years 1 to 6, and **version 2 for Years 7 to 10**, which adds a harder, academic listening part (Section 3, version 2).
+For the admissions team and the English team. October 2026: version 1 of the pack for Years 1 to 6, and **version 2 for Years 7 to 10**, which adds a harder, academic listening part (Section 3, version 2). **Version 3.1** (October 2026, the current version for every year group) uses exactly these listening tasks: the version 1 listening in Years 1 to 6 and the version 2 listening in Years 7 to 10, so everything in this statement applies to it.
 
 ## 1. Summary
 
@@ -68,7 +68,7 @@ Compared with the Part A scripts (about 7 to 11 words a sentence and 85 to 94% o
 |---|---|---|
 | Bands A to C | Whether a student understands familiar words, simple details and short connected speech: the main question for admissions (how much English support to plan) | |
 | Bands D and E | Version 1: whether a student can follow an everyday message closely and infer from it (Questions 7 and 8). **Version 2 (Years 7 to 10): whether a student can follow a lesson-style talk with subject vocabulary, numbers, a correction and an implied opinion (Part B)** | Version 1: whether the student can follow age-level academic listening. Both versions: fast, unclear or noisy speech, or a long lesson |
-| Years 7 to 10 | Version 2: everyday listening (Part A) and the start of academic listening (Part B) | Readiness for IGCSE on its own. Use the listening band with the reading paper (version 2 Part C), the writing and "listening in conversation" from the interview |
+| Years 7 to 10 | Version 2: everyday listening (Part A) and the start of academic listening (Part B) | Readiness for IGCSE on its own. Use the listening band with the reading paper (version 2 Part C; version 3.1 Part B), the writing and "listening in conversation" from the interview |
 | Estimated CEFR range | By design and from the features above, the scripts sit at about **A1 to B1**: Questions 1 to 4 about A1 to A2 (short, clear messages; key information), Questions 5 and 6 about A2 (numbers, times and details in simple connected speech), Questions 7 and 8 about B1 (following the main points of clear speech on familiar topics and linking ideas). Version 2 Part B is aimed at about **B1 to B2** (following the main ideas and some detail of a talk on a less familiar topic, and the speaker's point of view). **These are estimates, not a calibration.** | A CEFR level for an individual student |
 
 **Two further limits.** The script is read live, so pace, accent and clarity vary from assessor to assessor, and that changes the difficulty. A single eight-mark task also gives a rough measure: one mark can move a student across a band boundary. So use the band alongside "listening in conversation" on the interview record, never on its own.
