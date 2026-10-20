@@ -1,11 +1,11 @@
 ---
-title: Year 10 Admission Assessment: Assessor booklet (trial, version 1 with version 2 listening)
+title: Year 10 Admission Assessment: Assessor booklet (version 3: version 1 with version 2 listening)
 style: assessor
-footer: Year 10 Admission Assessment | Assessor booklet | Trial: v1 with v2 listening
+footer: Year 10 Admission Assessment v3 | Assessor booklet | v1 with v2 listening
 ---
 
-> **Trial, October 2026: version 1 with the version 2 listening** (Parts A and B, 16 marks, version 2 band guide). Reading, writing, maths and science are version 1, unchanged. Use only with `Y10_Student_Paper_v1_trial`.
-# Year 10 Admission Assessment: assessor booklet
+> **Version 3, October 2026: version 1 with the version 2 listening** (Parts A and B, 16 marks, version 2 band guide). Reading, writing, maths and science are version 1, unchanged. Use only with `Y10_Student_Paper_v3`.
+# Year 10 Admission Assessment v3: assessor booklet
 
 [[namebox:candidate]]
 

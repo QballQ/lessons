@@ -1,7 +1,7 @@
 ---
-title: Year 10 Admission Assessment: Student paper (trial, version 1 with version 2 listening)
+title: Year 10 Admission Assessment: Student paper (version 3: version 1 with version 2 listening)
 style: secondary
-footer: Year 10 Admission Assessment | Student paper | Trial: v1 with v2 listening
+footer: Year 10 Admission Assessment v3 | Student paper | v1 with v2 listening
 name_footer: yes
 ---
 <style>
@@ -17,7 +17,7 @@ body.secondary h1 ~ h1, .newpage { break-before: page; }
 
 # Year 10 Admission Assessment
 
-<p class="version">Trial, October 2026</p>
+<p class="version">Version 3, October 2026</p>
 
 [[namebox]]
 
