@@ -28,7 +28,7 @@ For the admissions team and the English team. October 2026: version 1 of the pac
 
 ## 3. What the listening tasks contain
 
-Measured from the scripts in the assessor booklets. "Common words" means the share of the script's words that are among the 1000 or 2000 most frequent word forms of English (method in Section 6).
+Measured from the scripts in the assessor instructions. "Common words" means the share of the script's words that are among the 1000 or 2000 most frequent word forms of English (method in Section 6).
 
 | Year | Task | Delivery | Words | Average sentence (words) | Common words: top 1000 / top 2000 | Items | Less common words in the script |
 |---|---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ Measured from the scripts in the assessor booklets. "Common words" means the sha
 
 The less common words in Years 1 to 3 are everyday words for young children (farm animals, toys) that general frequency lists rank low; all of them are drawn in the picture.
 
-**Question types in Years 4 to 10** (the same pattern every year): Questions 1 to 4, picture choice or tick boxes on key words and simple details, with a distractor said in the script. Questions 5 and 6, a number, time or price heard in connected speech, often next to a different number. Questions 7 and 8, a reason or an inference that joins two or more statements. The answer table in each assessor booklet names the skill and the distractor for every question.
+**Question types in Years 4 to 10** (the same pattern every year): Questions 1 to 4, picture choice or tick boxes on key words and simple details, with a distractor said in the script. Questions 5 and 6, a number, time or price heard in connected speech, often next to a different number. Questions 7 and 8, a reason or an inference that joins two or more statements. The answer table in each set of assessor instructions names the skill and the distractor for every question.
 
 ### Version 2, Part B: academic listening (Years 7 to 10)
 
@@ -71,7 +71,7 @@ Compared with the Part A scripts (about 7 to 11 words a sentence and 85 to 94% o
 | Years 7 to 10 | Version 2: everyday listening (Part A) and the start of academic listening (Part B) | Readiness for IGCSE on its own. Use the listening band with the reading paper (version 2 Part C; version 3.1 Part B), the writing and "listening in conversation" from the interview |
 | Estimated CEFR range | By design and from the features above, the scripts sit at about **A1 to B1**: Questions 1 to 4 about A1 to A2 (short, clear messages; key information), Questions 5 and 6 about A2 (numbers, times and details in simple connected speech), Questions 7 and 8 about B1 (following the main points of clear speech on familiar topics and linking ideas). Version 2 Part B is aimed at about **B1 to B2** (following the main ideas and some detail of a talk on a less familiar topic, and the speaker's point of view). **These are estimates, not a calibration.** | A CEFR level for an individual student |
 
-**Two further limits.** The script is read live, so pace, accent and clarity vary from assessor to assessor, and that changes the difficulty. A single eight-mark task also gives a rough measure: one mark can move a student across a band boundary. So use the band alongside "listening in conversation" on the interview record, never on its own.
+**Two further limits.** A script read live varies in pace, accent and clarity from assessor to assessor, and that changes the difficulty; the recordings remove that variation (Section 5, step 1). The slower pace for younger students makes their tasks a little easier than a task at natural speed would be, so the bands mean "understands slow, clear English" in the lower years. A single eight-mark task also gives a rough measure: one mark can move a student across a band boundary. So use the band alongside "listening in conversation" on the interview record, never on its own.
 
 ## 5. What is needed to evidence the standard
 
@@ -79,11 +79,11 @@ These steps turn the design into evidence the English team can stand behind. Kee
 
 | Step | What to do | Evidence it produces |
 |---|---|---|
-| 1. Fix the delivery | Record each year's script once, read by one clear speaker at a steady classroom pace, with the pauses in the script, and play the recording to every candidate. Note the speed in words per minute. | Every candidate hears the same test |
+| 1. Fix the delivery | **Done in October 2026:** a recording of each year's script (`audio/v3.1/`), with the pauses in the script, played to every candidate. The pace is set for each year group and is slower for younger students (the voice speaks at about 120 words a minute in Years 1 to 3, rising to about 185 in Year 10, with longer pauses between sentences for younger students); the gaps between sentences are longer for the youngest. The voices are offline text-to-speech, which is consistent but not human: check with the English team that every word is clear before relying on it. | Every candidate hears the same test |
 | 2. Trial | Give each year's task to current students in the international programme whose English level the English team already knows: about 6 to 10 per year group, from new to English to fluent, including some fluent English speakers. | Whether fluent speakers score 7 or 8, whether new-to-English students score 0 to 2, and where the cut-offs should sit |
 | 3. External anchor | In the same trial, give the students an established listening test with a published CEFR level: for example the free Cambridge English sample tests (Pre A1 Starters, A1 Movers and A2 Flyers for primary; A2 Key for Schools and B1 Preliminary for Schools for secondary), or the placement test the English team already uses. | A defensible link between our bands and a known scale |
 | 4. Agree the marking | Two staff mark the first ten scripts on their own, then compare and agree. | Marker agreement |
-| 5. Adjust and record | Change the cut-offs if the trial shows they are too high or too low, and note the date and reason in the assessor booklets. | A dated record of the standard |
+| 5. Adjust and record | Change the cut-offs if the trial shows they are too high or too low, and note the date and reason in the assessor instructions. | A dated record of the standard |
 | 6. Check after a term | After 20 to 30 admissions, compare each student's listening band with the English team's judgement after one term (guide, Section 10). | Evidence that the bands predict how students cope |
 | 7. Harder extension (done in version 2) | Years 7 to 10 version 2 adds Part B. Include Part B in the trial (steps 2 and 3): fluent students should score 6 to 8 on it, and the B1 Preliminary or B2 First for Schools sample listening tests are a suitable anchor for it. | Discrimination at the top of the scale |
 
@@ -100,7 +100,7 @@ These steps turn the design into evidence the English team can stand behind. Kee
 
 ## 6. Method notes
 
-- Word counts and sentence lengths were measured from each year's script as printed in the assessor booklet, without speaker names and pause marks. In Years 1 to 3 the script is the ten instructions.
+- Word counts and sentence lengths were measured from each year's script as printed in the assessor instructions, without speaker names and pause marks. In Years 1 to 3 the script is the ten instructions.
 - "Common words" uses the English word frequency lists in the open-source `wordfreq` library (Speer, version 3.1), which combine several large written and spoken sources. Word forms were matched with simple ending rules (for example "rains" to "rain"); names of people and places were left out. The figures describe the language of the scripts. They are not a test of difficulty for any student.
 - As a guide to what the figures mean: research on listening suggests that learners need to know about 95% of the words in a spoken text to follow it adequately (van Zeeland and Schmitt, 2013, *Applied Linguistics*). A student who knows the most common 2000 words of English would know about 85 to 94% of the words in these scripts, and pictures and repeated hearing make up part of the gap.
 - The CEFR estimates in Section 4 compare the question types with the CEFR's general descriptions of listening at each level (Council of Europe, *CEFR Companion Volume*, 2020). They have not been checked by trial.

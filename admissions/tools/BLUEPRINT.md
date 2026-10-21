@@ -14,7 +14,7 @@ The design for the whole pack. Writers of each year group follow this exactly so
 
 ## 2. The four English skills and the proficiency scale
 
-Every candidate gets a band for each of **Listening, Speaking, Reading and Writing** on the five-point proficiency scale used for students learning English as an additional language: **A New to English, B Early acquisition, C Developing competence, D Competent, E Fluent**. Band E means "comparable to a fluent English speaker of the same age". The descriptors are in `00_Admissions_Guide.md`, Section 6. Each year group's assessor booklet gives a band guide for its own listening and reading scores (Section 3 below) and a short version of the writing descriptors.
+Every candidate gets a band for each of **Listening, Speaking, Reading and Writing** on the five-point proficiency scale used for students learning English as an additional language: **A New to English, B Early acquisition, C Developing competence, D Competent, E Fluent**. Band E means "comparable to a fluent English speaker of the same age". The descriptors are in `00_Admissions_Guide.md`, Section 6. Each year group's assessor instructions give a band guide for its own listening and reading scores (Section 3 below) and a short version of the writing descriptors.
 
 ## 3. Standard structure of the English tasks
 
@@ -55,7 +55,7 @@ The parent conversation (about 15 minutes) and the previous homeroom teacher ref
 
 - **What it tests.** The UK National Curriculum content for the year **before** the year applied for (what a student should know on entry), with a few easier items to find the floor and two or three items from the year applied for to find the ceiling. Years 1 and 2: the end of Reception (Early Years goals) and Year 1. Year 10: the end of Key Stage 3 and readiness for IGCSE.
 - **Number problems and word problems.** Section A: **Number problems** (calculation and number facts, quick, no context, no calculator). Section B: **Word problems and pictures**: at least 3 short word problems in Years 1 to 3 (read aloud by the assessor; one-step; everyday contexts; a supporting picture is welcome) and at least 4 in Years 4 to 10 (one-step and two-step or multi-step; at least one with money in yuan and at least one with measures, time, speed or percentages), plus problems with diagrams, pictures, charts and tables. Word problems use plain, short sentences. Questions easy to hard within each section.
-- **Word problems and English.** The assessor booklet reports the word-problem marks separately ("of which word problems / n"). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty: check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L).
+- **Word problems and English.** The grading sheet reports the word-problem marks separately ("of which word problems / n"). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty: check by reading the word problem aloud (and, if a Chinese-speaking colleague is present, once in Chinese, marked L).
 - **Marks and time.** Year 1: 15 marks, 12 minutes, 1:1 with picture pages and 20 counters. Year 2: 20 marks, 15 minutes, the assessor reads every question aloud and the student answers in the booklet. Year 3: 24 marks, 18 minutes. Years 4 to 6: 25 marks, 18 minutes. Years 7 to 10: 30 marks, 20 minutes.
 - **Band guide** (provisional, review after the first 20 to 30 candidates): under 40% of the total: 1 Well below expected; 40 to 59%: 2 Working towards; 60 to 84%: 3 Expected; 85% or more: 4 Greater depth. NT questions are listed, and the assessor judges whether the student would reach the expected band once taught.
 - **Equipment**: pencil, rubber; Years 1 and 2 counters; ruler from Year 3. No calculators. No protractor: angle questions use reasoning or a printed protractor in the diagram.
@@ -82,15 +82,15 @@ The parent conversation (about 15 minutes) and the previous homeroom teacher ref
   - **Year 9** (Year 8): elements, compounds and mixtures, the periodic table (metals and non-metals); chemical reactions, word equations, combustion, conservation of mass; digestion and nutrition; aerobic respiration and photosynthesis (word equations); current and voltage in series and parallel circuits; magnets and electromagnets; heating and cooling (conduction, convection, radiation); food webs.
   - **Year 10** (Year 9, IGCSE readiness): specialised cells and diffusion; atomic structure (protons, neutrons, electrons); groups in the periodic table; simple balanced symbol equations; rates of reaction; distance-time graphs and speed calculations; pressure; energy resources and efficiency; waves; DNA and inheritance basics; factors affecting photosynthesis; analysing data and evaluating a method.
 
-## 7. What every assessor booklet must contain
+## 7. What every set of assessor instructions must contain (from version 3.1: instructions and grading sheet)
 
 See `STYLE_GUIDE.md`, Sections 6 and 7, for the order and the access rules. In addition:
-- **The listening script** in full, with "[pause]" marks and the instruction "Read it twice at a natural, steady pace", and the answers.
+- **The listening script** in full, with "[pause]" marks and the instruction to read it twice at the pace for the year group (Section 11), and the answers.
 - **Answers and mark schemes** for every question, with acceptable alternatives and partial-credit rules.
 - **"Likely not yet taught" notes** for maths and science questions, based on Section 1, worded as "may not have been taught" (never as certain).
 - **What to look for**: two or three bullets per section on what separates a strong response from a weak one, and what an English barrier (as opposed to a maths or science difficulty) looks like.
 - **Writing**: the task, the four criteria with what 0, 2 and 4 look like at this age, and a short note on what band E writing looks like at this age.
-- **Score summary table** at the end:
+- **Score summary** (the table below is what the year's grading sheet records; from version 3.1 it is on the grading sheet, not in the instructions):
 
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
@@ -107,7 +107,7 @@ See `STYLE_GUIDE.md`, Sections 6 and 7, for the order and the access rules. In a
 ## 8. Student paper layout (Years 4 to 10)
 
 1. **Cover**: title ("Year 5 Admission Assessment"), `[[namebox]]`, a short friendly welcome in simple English ("These activities help us get to know you. Do your best. It is fine if you cannot answer every question."), a "How to answer" example panel (tick a box, write in a box, show your working), and a list of the parts.
-2. **Listening** (new page): the answer page for the listening questions. The script is in the assessor booklet only.
+2. **Listening** (new page): the answer page for the listening questions. The script is in the assessor instructions only.
 3. **Reading** (new page): Parts A, B and C with their texts and questions.
 4. **Writing** (new page): the two prompts, a planning box, ruled lines (Years 4 to 6 about 14 lines; Years 7 to 10 about 20 lines).
 5. **Maths** (new page): Section A, then Section B.
@@ -153,7 +153,7 @@ Students from Chinese schools usually have strong **functional maths** (fast, ac
   - **Year 8** (higher-end Year 7 and early Year 8): prime factors, HCF and LCM; fraction, decimal and percentage conversion; percentage change; sharing in a ratio; expanding and factorising; equations with brackets and unknowns on both sides; inequalities; index laws; standard form. Word questions: consecutive integers, angles with algebraic expressions, rectangles, ratio. Applied: circles in context, speed, distance and time, discounts and simple interest, probability, averages from a table, map scales.
   - **Year 9** (higher-end Year 8 and early Year 9): zero and negative indices; standard form calculation; expanding double brackets; factorising quadratics; simultaneous equations; rearranging formulae; reverse percentages. Word questions: simultaneous equations from a context, direct proportion, a quadratic from an area. Applied: Pythagoras in context, prisms and cylinders, compound interest and depreciation, real-life straight-line graphs (what the gradient means), scatter graphs, two-way tables or tree diagrams, bearings, similar shapes.
   - **Year 10** (all of Year 9 and early IGCSE, Extended tier): fractional and negative indices; surds; factorising quadratics including a not 1; the quadratic formula; simultaneous equations including one linear and one quadratic; rearranging with the subject twice; algebraic fractions; function notation, inverse and composite functions; inequalities. Algebra should be genuinely demanding, because these students find routine algebra simple. Word questions (their likely weakness): forming quadratics from areas or consecutive numbers, simultaneous equations from tickets or costs, reverse percentages and rates from sentences. Applied: trigonometry in context (elevation, bearings), similarity with area and volume factors, density and pressure, compound interest and depreciation, probability without replacement, grouped data (estimate of the mean), upper and lower bounds, inverse proportion.
-- **Reporting:** the score summary gives three sub-scores (Fluency / 10, Word questions / 8, Applied / 12) and the total / 30. The booklet explains the profiles: high fluency with low word questions usually means the English of the questions, not the maths, is the barrier (read them aloud to check); high fluency and word questions with low applied means the student needs teaching in problem solving and explaining, not more content.
+- **Reporting:** the grading sheet gives three sub-scores (Fluency / 10, Word questions / 8, Applied / 12) and the total / 30. The booklet explains the profiles: high fluency with low word questions usually means the English of the questions, not the maths, is the barrier (read them aloud to check); high fluency and word questions with low applied means the student needs teaching in problem solving and explaining, not more content.
 - **Band guide v2 (provisional, for a harder paper):** under 35%: 1 Below expected; 35 to 54%: 2 Working towards; 55 to 74%: 3 Expected; 75% or more: 4 Greater depth, likely top set.
 
 ## 10. Version 3.1 for every year group (October 2026)
@@ -162,3 +162,13 @@ Version 3.1 is the current version for Years 1 to 10, so that every year group u
 
 - **Years 1 to 6:** version 1, with clearer printed maths instructions after a review by the mathematics department, written for a pen-and-paper test: Year 2 questions 11, 13, 17, 19 and 20 (in question 20 the child draws a circle for the half turn), and Year 4 question 11 (write the length in cm and mm). Years 1, 3, 5 and 6 are unchanged apart from the version label.
 - **Years 7 to 10:** version 2, with the third reading text (Part C) removed. The reading paper is Parts A and B (16 marks) in the same 15 minutes. Band guide: A Part A 0 to 3; B Part A 4 or more with Part B 0 to 2; C Part B 3 to 5; D or E Part B 6 to 8, with E only when Part B is 7 or 8 and the sentence reading screen and the writing also point to E. Listening, writing, maths, science and the interview are as version 2.
+
+## 11. Version 3.1 document set (21 October 2026): print less, reuse more
+
+The assessor booklet is split in two, and the records are shortened, so that the admissions team prints only a few sheets for each candidate.
+
+- **Reusable (printed once, no student name, nothing written on it):** `YNN_Assessor_Instructions_v3.1` (scripts, answers, mark schemes, band guides, access rules); `shared/Sentence_Reading_Guide` (rules, the interviewer's copy of the sentences and meaning questions, reading ages); `forms/Interviewer_Guide_*` (questions, descriptors, strand definitions); the Early Reading Screen guide and cards; the reading cards.
+- **For each candidate:** the student paper or booklet; `YNN_Grading_Sheet_v3.1` (marks, bands, NT and L, comments; reading and speaking are not on it); `forms/Reading_Front_Sheet` (the assessor's handover of the reading levels, then the sentence reading grid and result); `forms/Interview_Sheet_*` (speaking band, suitability ratings, comments); the parent conversation record; and `forms/Candidate_Summary_and_Decision`, now the **final mark sheet**: the one overview of the student, with comments and feedback.
+- **The interviewer** is usually the principal. The admissions team gives the interviewer the Reading front sheet (Part 1 filled in by the assessor) and the Interview sheet before the interview.
+- **Pace of speech by year group** (listening recordings and live reading or speaking). The younger the student, the slower: Years 1 and 2 about 120 words a minute, Year 3 about 120, Year 4 about 130, Year 5 about 140, Year 6 about 155, Year 7 about 160, Year 8 about 160, Year 9 about 175, Year 10 about 185 (the figures count the pauses). The recordings are made by `tools/make_listening_audio.py`, which sets the voice speed and the gaps for each year group.
+- **Admissions team pack:** `04_Admissions_Team_Pack` is the simple printable pack (day sheets, handover, filing). `00_Admissions_Guide` and `02_Listening_Evidence_Statement` stay as the full overview and the evidence.

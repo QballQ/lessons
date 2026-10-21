@@ -735,7 +735,7 @@ Self-corrections ______ &nbsp; SC rate 1 : ______ &nbsp; Fluency [[scale:1,2,3,4
 
 [[pagebreak]]
 
-### Sheet 13: Summary (copy onto the Candidate Summary form)
+### Sheet 13: Summary (copy onto the Reading front sheet, Part 1, and the final mark sheet)
 
 [[field:Candidate name]]
 
@@ -758,7 +758,7 @@ Self-corrections ______ &nbsp; SC rate 1 : ______ &nbsp; Fluency [[scale:1,2,3,4
 
 </div>
 
-**One line for the Candidate Summary:** for example, for a Year 3 entrant: "ERS: letters 24/26, phonics 31/40 (S1 18, S2 13), tricky 14/20; book band Light Blue (P4, 93%, 3/4 questions, fluency 2); pinyin vowels; reading band C."
+**One line for the final mark sheet:** for example, for a Year 3 entrant: "ERS: letters 24/26, phonics 31/40 (S1 18, S2 13), tricky 14/20; book band Light Blue (P4, 93%, 3/4 questions, fluency 2); pinyin vowels; reading band C."
 
 
 </div>

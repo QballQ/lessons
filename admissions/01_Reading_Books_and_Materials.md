@@ -116,5 +116,5 @@ For a teenager who is completely new to English, the Graded Sentence Reading Scr
 | Years 1 to 3 | The laminated Early Reading Screen cards and Sentence Reading card; the levelled books above |
 | Years 3 to 10 | A ruler (30 cm, cm and mm) |
 | Years 4 to 10 | The laminated Sentence Reading card |
-| Listening tasks | The script in the assessor booklet (read aloud live; no recording is needed) |
+| Listening tasks | The listening recording for the year group (`audio/v3.1/YNN/`), played on a laptop or phone through a speaker; or the script in the assessor instructions, read aloud live |
 | Parent conversation | A quiet second room; a Chinese-speaking colleague if needed |

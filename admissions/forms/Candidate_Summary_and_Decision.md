@@ -1,49 +1,43 @@
 ---
-title: Candidate Summary and Decision
+title: Final Mark Sheet: Candidate Summary and Decision
 style: form
-footer: Candidate Summary and Decision
+footer: Final Mark Sheet | Candidate summary and decision
 ---
-# Candidate summary and decision
+# Final mark sheet: candidate summary and decision
 
-[[namebox:candidate]]
+[[namegrid:Candidate name,Candidate number,Year group applied for,Date of birth,Current school,Date of assessment]]
 
-**Paper version sat:** ________ (for example v3.1; it is on the front page and in the footer of every paper)
-
-Complete within two working days, from the assessor booklet, reading records, interview record, parent conversation and homeroom teacher reference. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
+**Paper version sat:** ______ (v3.1; on the front page of the student paper). Complete within two working days from the **grading sheet**, **Reading front sheet**, **Interview sheet**, parent conversation record and homeroom teacher reference. This is the one overview that the head of section reads and that goes into the admissions system. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
 
 ## 1. English profile
 
-| Skill | Evidence (scores) | Band |
+| Skill | Evidence (copy the scores) | Band |
 |---|---|---|
-| Listening | Listening task ___ / ___ ; listening in conversation | **A B C D E** |
-| Speaking | Interview (and picture talk, Years 1 to 3) | **A B C D E** |
-| Reading | Years 1 to 3: Early Reading Screen book band ______ accuracy ____% questions ___ ; phonics words ___ / 40 ; letter sounds ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 6: reading paper ___ / 24 (A ___ B ___ C ___). Years 7 to 10: reading paper ___ / 16 (A ___ B ___) | **A B C D E** |
-| Reading aloud | Sentence reading: points ___ / 72 ; reading age ______ ; actual age ______ ; meaning checks ___ ; fluency ___ | indicative **A B C D E** |
-| Writing | Writing task ___ / 16 | **A B C D E** |
-| **Overall English** | The band most of the four skills sit in. If one skill is two or more bands below the others, say which. | **A B C D E** |
+| Listening | Grading sheet: ___ / ___ ; listening in conversation (Interview sheet) | [[scale:A,B,C,D,E]] |
+| Speaking | Interview sheet (and picture talk on the grading sheet, Years 1 to 3) | [[scale:A,B,C,D,E]] |
+| Reading | Reading front sheet. Years 1 to 3: book band ______ accuracy ___% questions ___ ; phonics ___ / 40 ; letters ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 6: paper ___ / 24. Years 7 to 10: paper ___ / 16 | [[scale:A,B,C,D,E]] |
+| Reading aloud | Sentence reading (Reading front sheet): points ___ / 72 ; reading age ______ ; actual age ______ ; meaning checks ___ ; fluency ___ | indicative [[scale:A,B,C,D,E]] |
+| Writing | Grading sheet: ___ / 16 | [[scale:A,B,C,D,E]] |
+| **Overall English** | The band most of the four skills sit in. If one skill is two or more bands below the others, say which. | [[scale:A,B,C,D,E]] |
 
 **A** New to English, **B** Early acquisition, **C** Developing competence, **D** Competent, **E** Fluent (comparable to a fluent English speaker of the same age).
 
 ## 2. Maths and science
 
-| | Score | Band | Number problems (Years 7 to 10: fluency) | Word problems (Years 7 to 10: word questions) | Applied (Years 7 to 10) | Not yet taught (NT) | Language support (L) |
-|---|---|---|---|---|---|---|
-| Maths | ___ / ___ | **1 2 3 4** | ___ / ___ | ___ / ___ | ___ / 12 | | |
-| Science (Years 5 to 10) | ___ / ___ | **1 2 3 4** | | | | | |
+| | Score | Band | Number problems (Years 7 to 10: fluency) / word problems (word questions) / applied (Years 7 to 10) | Not yet taught (NT) and language support (L) |
+|---|---|---|---|---|
+| Maths | ___ / ___ | [[scale:1,2,3,4]] | ___ / ___ &nbsp; ___ / ___ &nbsp; ___ / 12 | |
+| Science (Years 5 to 10) | ___ / ___ | [[scale:1,2,3,4]] | | |
 
-**1** Well below expected (Years 7 to 10: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The Years 7 to 10 papers are harder, so their band boundaries are lower (guide and booklets). A student who does well on number problems but poorly on word problems may have an English barrier rather than a maths difficulty. In Years 7 to 10, a student strong in fluency and word questions but weak in applied problems needs teaching in problem solving, not more content. Questions marked NT score 0; say whether the student is likely to reach the expected band once taught.
+**1** Well below expected (Years 7 to 10: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The Years 7 to 10 papers are harder, so their boundaries are lower. Strong number problems with weak word problems may be an English barrier, not a maths difficulty. Years 7 to 10: strong fluency and word questions with weak applied problems means teaching in problem solving, not more content. NT questions score 0: say whether the student is likely to reach the expected band once taught.
 
-**Year 10 only: readiness for IGCSE** (Year 10 assessor booklet, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
-
-Assessor's comment on maths and science (strengths, gaps, NT topics, English barrier or not):
-
-[[lines:2]]
+**Year 10 only: readiness for IGCSE** (grading sheet; Year 10 instructions, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
 
 ## 3. Suitability
 
 | Source | Summary | Concerns (any strand rated 1) |
 |---|---|---|
-| Student interview (strands rated 1 to 4) | | |
+| Interview sheet (strands rated 1 to 4) | | |
 | Parent conversation (match of expectations, partnership) | | |
 | Previous homeroom teacher reference | | |
 | School reports and documents | | |
@@ -74,11 +68,27 @@ Year group confirmed: ______ (by age: yes / no; if no, give the reason and who a
 | Information for the homeroom teacher | |
 | Review date (for example after six weeks) | |
 
-## 6. Sign-off
+## 6. Comments and feedback {style="break-before: page"}
+
+**Assessor** (from the grading sheet): strengths, gaps, NT topics, English barrier or not.
+
+[[lines:3]]
+
+**Interviewer** (from the Interview sheet): what the student is like, hopes and plans, anything of concern.
+
+[[lines:3]]
+
+**Feedback for the family.** Start with the child's strengths; use plain words; say what support we will give and, if no offer is made, what would change the decision.
+
+[[lines:4]]
+
+## 7. Sign-off and records
 
 | Role | Name | Signature | Date |
 |---|---|---|---|
 | Assessor | | | |
+| Interviewer | | | |
 | Head of section | | | |
-| Admissions | | | |
-| Outcome told to the family (start with the child's strengths) | | | |
+| Admissions: outcome told to the family (start with the child's strengths) | | | |
+
+Papers filed together: [[tick]] grading sheet [[tick]] Reading front sheet [[tick]] Interview sheet [[tick]] parent conversation record [[tick]] marked student paper. &nbsp; Entered in the admissions system: date ____________ initials ________

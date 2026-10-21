@@ -83,6 +83,8 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 0.9em; }
 .stop { margin: 14px 0; padding: 8px 12px; border: 3px solid #111; border-radius: 8px; text-align: center; font-weight: 700; break-inside: avoid; }
 .namebox { width: 100%; margin: 4px 0 12px; } .namebox td { height: 1.9em; }
 .namebox td.l { width: 30%; font-weight: 700; background: #f2f2f2; }
+.namegrid { width: 100%; margin: 4px 0 10px; table-layout: fixed; } .namegrid td { height: 1.9em; vertical-align: middle; }
+.namegrid td.l { width: 17%; font-weight: 700; background: #f2f2f2; font-size: 0.92em; } .namegrid td.v { width: 33%; }
 .field { display: flex; gap: 6px; align-items: flex-end; margin: 6px 0; break-inside: avoid; }
 .field b { white-space: nowrap; } .field span { flex: 1; border-bottom: 1.3px solid #444; height: 1.3em; }
 .scale { white-space: nowrap; } .scale .tick { margin-left: 0.6em; margin-right: 0.15em; }
@@ -122,7 +124,7 @@ body.assessor th, body.assessor td, body.form th, body.form td { padding: 3px 6p
 body.assessor .q, body.form .q { padding: 6px 10px; }
 """
 
-BLOCK_SC = re.compile(r'^\s*\[\[(lines|box|grid|pagebreak|stop|namebox|field|passage|/passage|keep|/keep|cols|/cols|example|/example|clear)(?::([^\]]*))?\]\]\s*$')
+BLOCK_SC = re.compile(r'^\s*\[\[(lines|box|grid|pagebreak|stop|namebox|namegrid|field|passage|/passage|keep|/keep|cols|/cols|example|/example|clear)(?::([^\]]*))?\]\]\s*$')
 INLINE_SC = re.compile(r'\[\[(marks|answer|tick|scale)(?::([^\]]*))?\]\]')
 
 NAMEBOX_ROWS = {
@@ -150,6 +152,11 @@ def block(name, arg):
     if name == 'namebox':
         rows = NAMEBOX_ROWS.get(a or 'student') or [x.strip() for x in a.split(',')]
         return '<table class="namebox">' + ''.join(f'<tr><td class="l">{html.escape(r)}</td><td></td></tr>' for r in rows) + '</table>'
+    if name == 'namegrid':
+        labels = [x.strip() for x in a.split(',')]
+        rows = [labels[i:i + 2] for i in range(0, len(labels), 2)]
+        cells = lambda r: ''.join(f'<td class="l">{html.escape(x)}</td><td class="v"></td>' for x in r) + ('<td class="l"></td><td class="v"></td>' if len(r) == 1 else '')
+        return '<table class="namegrid">' + ''.join(f'<tr>{cells(r)}</tr>' for r in rows) + '</table>'
     if name == 'field':
         return f'<div class="field"><b>{html.escape(a)}</b><span></span></div>'
     if name in ('passage', 'keep', 'example'):

@@ -32,7 +32,7 @@ footer: Early Reading Screen | Instructions
 
 # Early Reading Screen: instructions
 
-**What it is.** A one-to-one reading screen for children joining **Years 1 to 3**, and for an **older student who is new to English**. It shows where the child's **decoding** is (letter sounds, phonics, tricky words) and the **book band** they can read with understanding. It takes **about 10 to 12 minutes** at most; the start points keep it shorter for most children. All of it is in English: finding the child's level of English reading is one of its main purposes. The year group assessor booklets say where to start; the results go into their score summary.
+**What it is.** A one-to-one reading screen for children joining **Years 1 to 3**, and for an **older student who is new to English**. It shows where the child's **decoding** is (letter sounds, phonics, tricky words) and the **book band** they can read with understanding. It takes **about 10 to 12 minutes** at most; the start points keep it shorter for most children. All of it is in English: finding the child's level of English reading is one of its main purposes. The year group assessor instructions say where to start; the results go on the Reading front sheet (`forms/Reading_Front_Sheet`) and the final mark sheet.
 
 **What to print**
 

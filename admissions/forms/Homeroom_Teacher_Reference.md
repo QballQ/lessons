@@ -5,7 +5,7 @@ footer: Previous Homeroom Teacher Reference | 班主任推荐信息表
 ---
 # Previous homeroom teacher reference | 班主任推荐信息表
 
-**For admissions staff.** Send this form only after the parent or carer has given consent (Parent Conversation Record, Section 10). Most students joining from Chinese mainstream schools know their homeroom teacher (班主任) best, so this form goes to the 班主任, by email or WeChat, or is used as a script for a phone call. It is the one bilingual document in the pack, because the teacher may not read English. Chinese text: draft, to be checked by a native speaker before use. Record the answers, then summarise them on the Candidate Summary and Decision form.
+**For admissions staff.** Send this form only after the parent or carer has given consent (Parent Conversation Record, Section 10). Most students joining from Chinese mainstream schools know their homeroom teacher (班主任) best, so this form goes to the 班主任, by email or WeChat, or is used as a script for a phone call. It is the one bilingual document in the pack, because the teacher may not read English. Chinese text: draft, to be checked by a native speaker before use. Record the answers, then summarise them on the final mark sheet (Candidate Summary and Decision).
 
 **致班主任老师：** 您好！以下学生正在申请我校国际部。经家长同意，我们希望了解该生在校的学习与生活情况，以便更好地帮助他/她适应新学校。所有信息将严格保密，仅用于招生评估和入学后的支持安排。感谢您的帮助！
 

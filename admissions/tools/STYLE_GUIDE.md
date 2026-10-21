@@ -27,7 +27,8 @@ This is for anyone (person or AI agent) writing or editing the source files. Sta
 Each year group has its own folder, for example `Y05/`:
 
 - `Y05/Y05_Student_Paper.md` (what the student sees and writes on)
-- `Y05/Y05_Assessor_Booklet.md` (scripts, answers, mark schemes, band guides, score summary)
+- `Y05/Y05_Assessor_Instructions_v3.1.md` (reusable: scripts, answers, mark schemes, band guides; no student name and nothing to fill in)
+- `Y05/Y05_Grading_Sheet_v3.1.md` (one per student: marks, bands, NT and L, comments; version 3.1 onwards)
 - `Y05/diagrams/*.svg` (every diagram and picture for that year)
 
 Every source file starts with a front matter block. Student paper:
@@ -41,15 +42,15 @@ name_footer: yes
 ---
 ```
 
-`style` sets the type size and layout: `early` (Years 1 to 3 student pages, 18 pt, Andika, a font made for early readers), `primary` (Years 4 to 6, 14 pt), `secondary` (Years 7 to 10, 12 pt), `card` (pages a student reads aloud), `assessor` and `form` (staff pages, 10 pt). Assessor booklets use `style: assessor` and no `name_footer`.
+`style` sets the type size and layout: `early` (Years 1 to 3 student pages, 18 pt, Andika, a font made for early readers), `primary` (Years 4 to 6, 14 pt), `secondary` (Years 7 to 10, 12 pt), `card` (pages a student reads aloud), `assessor` and `form` (staff pages, 10 pt). Assessor instructions use `style: assessor` and no `name_footer`; grading sheets and other per-student forms use `style: form`.
 
 ## 3. Build and check
 
 ```
-python3 tools/build.py Y05/Y05_Student_Paper.md Y05/Y05_Assessor_Booklet.md --png /path/to/scratch/Y05
+python3 tools/build.py Y05/Y05_Student_Paper_v3.1.md Y05/Y05_Assessor_Instructions_v3.1.md --png /path/to/scratch/Y05
 ```
 
-This writes `pdf/Y05/Y05_Student_Paper.pdf` and `pdf/Y05/Y05_Assessor_Booklet.pdf`, and a 60 dpi PNG of every page into the folder after `--png`. **Look at every page** (open the PNGs) before you finish: check that nothing is cut off, every diagram matches its question, boxes do not split badly across pages, and there are no near-empty pages. For a closer look at one page: `pdftoppm -r 110 -png -f 3 -l 3 pdf/Y05/Y05_Student_Paper.pdf /path/to/scratch/p3`.
+This writes `pdf/Y05/Y05_Student_Paper_v3.1.pdf` and `pdf/Y05/Y05_Assessor_Instructions_v3.1.pdf`, and a 60 dpi PNG of every page into the folder after `--png`. **Look at every page** (open the PNGs) before you finish: check that nothing is cut off, every diagram matches its question, boxes do not split badly across pages, and there are no near-empty pages. For a closer look at one page: `pdftoppm -r 110 -png -f 3 -l 3 pdf/Y05/Y05_Student_Paper.pdf /path/to/scratch/p3`.
 
 ## 4. Shortcodes
 
@@ -65,6 +66,7 @@ Write normal Markdown. These shortcodes add the printed parts of a paper:
 | `[[box:6:Working]]` | own line | a bordered working-out box 6 lines tall, labelled "Working" (label optional) |
 | `[[grid:24x10]]` | own line | squared grid, 24 by 10 squares of 5 mm |
 | `[[namebox]]` | own line | Name and Date boxes; `[[namebox:candidate]]` for the full staff version; `[[namebox:Label one,Label two]]` for your own |
+| `[[namegrid:Label one,Label two,Label three]]` | own line | a compact staff header: label and write-in cell, two pairs to a row |
 | `[[field:Signed]]` | own line | a label with a line to write on |
 | `[[stop]]` | own line | a "Stop here. Wait for your teacher." banner; `[[stop:Your own words]]` |
 | `[[pagebreak]]` | own line | start a new page |
@@ -95,14 +97,14 @@ Markdown inside raw HTML is ignored unless the tag carries `markdown="1"` (the `
 - Do not ask students to measure printed lengths with a ruler: printers often rescale. Draw the ruler or scale in the picture instead.
 - Charts: label both axes, use whole-number gridlines, put the scale where it is easy to read, and make bar tops land exactly on gridlines unless reading between them is the skill.
 
-## 6. Assessor booklet layout (every year group, in this order)
+## 6. Assessor instructions layout (every year group, in this order)
 
 1. **At a glance**: a table of the tasks in the order they are given, with minutes, who leads, materials, and what to print.
 2. **Before you start**: welcome script, the access rules (Section 7 below), stopping rules, how to keep the student at ease.
 3. **English**: each part (listening, reading, writing, speaking, and the reading screens that apply to this year), with the script to read aloud, answers, mark scheme and band guide.
 4. **Maths**: answers, mark scheme, notes on likely "not yet taught" questions for students from Chinese schools, what to look for.
 5. **Science** (Years 5 to 10 only): the same.
-6. **Score summary**: one table to fill in, ready to copy onto the Candidate Summary and Decision form.
+6. **Recording the results**: numbered steps for marking, the grading sheet, the Reading front sheet, the interview sheet and the final mark sheet. The instructions are printed once and reused, so they hold no blank to fill in: everything a student's results need goes on the year's grading sheet.
 
 Staff text can be denser than student text, but keep it scannable: tables, short bullets, bold labels.
 
@@ -112,5 +114,5 @@ Staff text can be denser than student text, but keep it scannable: tables, short
 - **Maths and science**: the assessor may read any question aloud in English, as often as asked, and may point to the picture. If a Chinese-speaking member of staff is present and the student clearly cannot follow the English after it has been read aloud, that colleague may say the question once in Chinese. Mark the question "L" in the margin. The mark still counts for maths or science; the number of "L" questions is recorded as evidence about English.
 - **Answers in English only.** Every answer in every section must be in English (numbers, ticks, drawings and working count). An answer in Chinese scores 0. Mark schemes never accept a Chinese word or explanation.
 - **Not yet taught (NT)**: if a student says they have not learnt a topic, mark "NT" beside the question. It scores 0, but the assessor's summary must say which topics were NT, because Chinese school sequences differ from the UK curriculum.
-- **Extra time or a reader** for a known need: record it in the score summary.
+- **Extra time or a reader** for a known need: record it on the grading sheet.
 - The student may stop any section when they have done what they can. Never push a distressed child; take a break or stop, and record it.

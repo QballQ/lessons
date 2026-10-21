@@ -1,9 +1,13 @@
-"""Write the Graded Sentence Reading Screen: the student card and the assessor record.
+"""Write the Graded Sentence Reading Screen student card, and check the interviewer guide against it.
 
-The sentences, meaning questions and start levels live here only, so the card and the record
-always match. Edit this file, then run:
+The sentences, meaning questions and start levels live here. The card is generated from them. From version 3.1
+the rules and the interviewer's copy of the sentences are in shared/Sentence_Reading_Guide.md (written by
+hand, reusable, with no student name); this script checks that every sentence and meaning question in the
+guide matches the ones here, and stops with a message if it does not. The marks for one student are written on
+forms/Reading_Front_Sheet.md. record() still builds the old per-student record (version 3.1 before 21 October
+2026) for reference but main() no longer writes it. Edit this file, then run:
     python3 admissions/tools/make_sentence_screen.py
-    python3 admissions/tools/build.py admissions/shared/Sentence_Reading_*.md
+    python3 admissions/tools/build.py admissions/shared/Sentence_Reading_Card.md
 """
 import os
 
@@ -237,8 +241,28 @@ Rate the student's reading on the **last level they read with 4 or more points**
     return "\n".join(o)
 
 
+def check_guide():
+    """Every sentence and meaning question (with its accepted answer) must appear in the interviewer guide."""
+    path = os.path.join(ROOT, 'shared', 'Sentence_Reading_Guide.md')
+    text = open(path, encoding='utf-8').read().replace('\u2019', "'")
+    flat = ' '.join(text.split())
+    missing = []
+    for sents in LEVELS:
+        for sentence in sents:
+            if sentence.replace("\u2019", "'") not in flat:
+                missing.append(sentence)
+    for _, question, accept in MEANING:
+        if question not in flat:
+            missing.append(question)
+        if accept not in flat:
+            missing.append(accept)
+    if missing:
+        raise SystemExit('Sentence_Reading_Guide.md does not match this file:\n  ' + '\n  '.join(missing))
+    print('Sentence_Reading_Guide.md matches')
+
+
 if __name__ == '__main__':
     os.makedirs(os.path.join(ROOT, 'shared'), exist_ok=True)
     open(os.path.join(ROOT, 'shared', 'Sentence_Reading_Card.md'), 'w', encoding='utf-8').write(card() + "\n")
-    open(os.path.join(ROOT, 'shared', 'Sentence_Reading_Record.md'), 'w', encoding='utf-8').write(record() + "\n")
-    print('written')
+    print('written Sentence_Reading_Card.md')
+    check_guide()
