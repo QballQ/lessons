@@ -8,7 +8,7 @@ TRACKS
   Y10_Listening_Part_B_v3.1.mp3   9:18 minutes: one part only
 
 PACE
-  The younger the student, the slower the voice and the longer the pauses. In Year 10 the voice speaks at about 185 words a minute (not counting the pauses), with a pause after every sentence. Counting the pauses, one reading of the script goes at about 145 words a minute: a live reader can use this to check their own pace.
+  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 10 the voice speaks at about 185 words a minute (not counting the pauses), with a pause after every sentence. Counting the pauses, one reading of the script goes at about 145 words a minute: a live reader can use this to check their own pace.
 
 HOW TO USE
   1. Have the student paper open at the Listening pages and a pencil ready. Check the volume before the student

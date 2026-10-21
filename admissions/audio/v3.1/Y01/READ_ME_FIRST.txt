@@ -3,10 +3,10 @@ Year 1 Admission Assessment, version 3.1: listening recording
 Use with Y01_Student_Booklet_v3.1, Y01_Assessor_Instructions_v3.1 (Section 3, Listening) and Y01_Grading_Sheet_v3.1.
 
 TRACKS
-  Y01_Listening_Full_v3.1.mp3   5:07 minutes: the whole listening game, 10 items
+  Y01_Listening_Full_v3.1.mp3   4:35 minutes: the whole listening game, 10 items
 
 PACE
-  The younger the student, the slower the voice and the longer the pauses. In Year 1 the voice speaks at about 120 words a minute while it gives an instruction, with a short pause between its parts.
+  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 1 the voice speaks at about 185 words a minute while it gives an instruction, with a short pause between its parts.
 
 HOW TO USE
   1. Have the student booklet open at the picture page (see the Year 1 instructions, Section 3.2), the crayons or
@@ -22,16 +22,16 @@ HOW TO USE
   6. Do not pause or repeat for any other reason. Use the same recording for every child.
 
 WHERE EACH ITEM STARTS (to repeat an item, go back to this time)
-  Item 1   0:35
-  Item 2   0:52
-  Item 3   1:10
-  Item 4   1:33
-  Item 5   1:56
-  Item 6   2:24
-  Item 7   2:51
-  Item 8   3:17
-  Item 9   3:52
-  Item 10  4:21
+  Item 1   0:30
+  Item 2   0:46
+  Item 3   1:02
+  Item 4   1:22
+  Item 5   1:44
+  Item 6   2:09
+  Item 7   2:34
+  Item 8   2:57
+  Item 9   3:29
+  Item 10  3:56
 
 VOICES AND VOLUME
   The voices are offline text-to-speech, British English. Play the recording on a speaker at a clear, comfortable

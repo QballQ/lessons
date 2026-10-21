@@ -4,21 +4,22 @@ One recording for every year group, made from the scripts in the assessor instru
 candidate hears the same voices, pace and pauses. Each year folder has its own READ_ME_FIRST.txt with the
 tracks, how to use them and (Years 1 to 3) the start time of every item.
 
-The younger the student, the slower the voice and the longer the gaps between sentences.
+The voice speed is the same for the whole year group (0.85 in Years 1 to 3 and 10, 0.9 in Years 4 to 9); the younger the
+student, the longer the pauses between sentences.
 
 Words a minute: "voice" is the speed while the voice is speaking; "with pauses" counts the pauses too (Years 4 to 10).
 
 Year   Play this track                          Length   Voice  With pauses  Other tracks
 -----  ---------------------------------------  -------  -----  -----------  --------------------------
-1      Y01_Listening_Full_v3.1.mp3              5:07     120                 none
-2      Y02_Listening_Full_v3.1.mp3              5:14     125                 none
-3      Y03_Listening_Full_v3.1.mp3              4:44     125                 none
-4      Y04_Listening_Full_v3.1.mp3              7:31     130    75           none
-5      Y05_Listening_Full_v3.1.mp3              6:36     140    95           none
-6      Y06_Listening_Full_v3.1.mp3              7:22     155    110          none
-7      Y07_Listening_Full_v3.1.mp3              15:02    160    125          Part_A, Part_B
-8      Y08_Listening_Full_v3.1.mp3              15:46    160    120          Part_A, Part_B
-9      Y09_Listening_Full_v3.1.mp3              14:55    175    130          Part_A, Part_B
+1      Y01_Listening_Full_v3.1.mp3              4:35     185                 none
+2      Y02_Listening_Full_v3.1.mp3              4:40     185                 none
+3      Y03_Listening_Full_v3.1.mp3              4:10     190                 none
+4      Y04_Listening_Full_v3.1.mp3              6:41     165    90           none
+5      Y05_Listening_Full_v3.1.mp3              5:50     175    115          none
+6      Y06_Listening_Full_v3.1.mp3              7:02     170    115          none
+7      Y07_Listening_Full_v3.1.mp3              13:50    200    140          Part_A, Part_B
+8      Y08_Listening_Full_v3.1.mp3              14:53    180    130          Part_A, Part_B
+9      Y09_Listening_Full_v3.1.mp3              14:33    180    135          Part_A, Part_B
 10     Y10_Listening_Full_v3.1.mp3              15:59    185    145          Part_A, Part_B
 
 Years 7 to 10 also have Part A and Part B as separate tracks: use them if you may need to stop after Part A.
