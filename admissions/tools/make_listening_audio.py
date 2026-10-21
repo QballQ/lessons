@@ -33,7 +33,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 PAUSE = 3.0            # [pause] in a script: about 3 seconds (assessor instructions)
 SPEED_MIN, SPEED_MAX = 0.6, 1.15
-ITEM_SPEED_MIN = 0.6     # the slowest the voice stays clear: at 0.5 a speech recogniser misses words
+ITEM_SPEED = 0.8         # voice speed for the instructions of Years 1 to 3 (0.6 and 0.5 were too slow, and a recogniser missed words at 0.5)
 
 F1, F2, M1, M2 = 'bf_emma', 'bf_isabella', 'bm_george', 'bm_fable'
 
@@ -357,7 +357,7 @@ def build_items(v, n, cfg, section, out_dir, check):
     its = items(section)
     assert len(its) == 10, (n, its)
     r = v.base_rate(voice, ' '.join(its + [cfg['intro']]))
-    v.speed[voice] = round(min(SPEED_MAX, max(ITEM_SPEED_MIN, pace / r)), 3)
+    v.speed[voice] = ITEM_SPEED
     gap = GAP[n]
     tr = Track()
     tr.add(silence(1.5))
