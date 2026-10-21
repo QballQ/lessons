@@ -3,12 +3,12 @@ Year 8 Admission Assessment, version 3.1: listening recording
 Use with Y08_Student_Paper_v3.1, Y08_Assessor_Instructions_v3.1 (Section 3, Listening) and Y08_Grading_Sheet_v3.1.
 
 TRACKS
-  Y08_Listening_Full_v3.1.mp3   15:46 minutes: Part A then Part B
-  Y08_Listening_Part_A_v3.1.mp3   7:00 minutes: one part only
-  Y08_Listening_Part_B_v3.1.mp3   8:44 minutes: one part only
+  Y08_Listening_Full_v3.1.mp3   14:53 minutes: Part A then Part B
+  Y08_Listening_Part_A_v3.1.mp3   6:34 minutes: one part only
+  Y08_Listening_Part_B_v3.1.mp3   8:17 minutes: one part only
 
 PACE
-  The younger the student, the slower the voice and the longer the pauses. In Year 8 the voice speaks at about 160 words a minute (not counting the pauses), with a pause after every sentence. Counting the pauses, one reading of the script goes at about 120 words a minute: a live reader can use this to check their own pace.
+  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 8 the voice speaks at about 180 words a minute (not counting the pauses), with a pause after every sentence. Counting the pauses, one reading of the script goes at about 130 words a minute: a live reader can use this to check their own pace.
 
 HOW TO USE
   1. Have the student paper open at the Listening pages and a pencil ready. Check the volume before the student
