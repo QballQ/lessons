@@ -33,7 +33,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 PAUSE = 3.0            # [pause] in a script: about 3 seconds (assessor instructions)
 SPEED_MIN, SPEED_MAX = 0.6, 1.15
-ITEM_SPEED = 0.8         # voice speed for the instructions of Years 1 to 3 (0.6 and 0.5 were too slow, and a recogniser missed words at 0.5)
+ITEM_SPEED = 0.85        # voice speed for the instructions of Years 1 to 3 (0.6 and 0.8 were too slow, 0.9 too fast, and a recogniser missed words at 0.5)
 
 F1, F2, M1, M2 = 'bf_emma', 'bf_isabella', 'bm_george', 'bm_fable'
 
