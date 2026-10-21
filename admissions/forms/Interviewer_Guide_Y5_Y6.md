@@ -11,7 +11,7 @@ footer: Interviewer guide | Years 5 and 6
 
 **How to ask.** Smile, sit beside rather than opposite the child if you can, and start with something easy. Ask the main question first. If the child struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. Wait at least five seconds before rephrasing. Answers must be in English.
 
-**Pace of speech.** Speak slowly and clearly: about 140 words a minute in Year 5 and about 155 in Year 6. Use the same pace for every candidate in the year group, and use it for the instructions and meaning questions of the sentence reading too. Do not rush: wait at least five seconds before rephrasing.
+**Pace of speech.** Speak clearly and steadily, a little slower than usual, with a short pause after each sentence. Use the same pace for every candidate in the year group, and use it for the instructions and meaning questions of the sentence reading too. Do not rush: wait at least five seconds before rephrasing.
 
 **Safeguarding.** Keep the door open or another adult present. If a child tells you something that worries you about their safety or wellbeing, do not promise to keep it secret; listen, write down their words, and pass it to the Designated Safeguarding Lead the same day.
 

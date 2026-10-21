@@ -11,7 +11,7 @@ footer: Interviewer guide | Years 1 and 2
 
 **How to do it.** Sit on the floor or at a low table beside the child. Offer paper and crayons: "Can you draw you, doing something you love?" Talk about the drawing. Ask the main question first; if the child does not answer, use the **easier** prompt (a choice, a yes or no, or "show me"). Wait. Praise effort. Never press a child who is upset; stop and let them go back to their parent.
 
-**Pace of speech.** Speak slowly and clearly, about 120 words a minute: short phrases, with a pause after each. Use the same pace for every candidate in the year group. Do not rush: wait at least five seconds before rephrasing.
+**Pace of speech.** Speak slowly and clearly: short phrases, with a pause after each. Use the same pace for every candidate in the year group. Do not rush: wait at least five seconds before rephrasing.
 
 **Safeguarding.** A young child is never alone with one adult behind a closed door. If a child says something that worries you, write down their words and pass it to the Designated Safeguarding Lead the same day.
 

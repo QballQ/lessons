@@ -70,7 +70,7 @@ Use a pair only when you need to (for example, twins or a busy admissions day). 
 
 **The room.** Use a low table. Sit beside the child at a corner of the table, not opposite. Keep the counters and crayons out of sight until each task needs them. A young child is never alone with one adult behind a closed door: keep the door open or have a second adult in the room. Show the child where the parent will wait.
 
-**Pace of speech.** Year 2 students are still learning English: speak slowly and clearly, about 120 words a minute, in short phrases with a pause after each phrase. Use the same pace for every candidate, so that the results can be compared (do not slow down further for a child who finds it hard, and repeat an instruction only where these instructions allow it). The listening recording is paced the same way.
+**Pace of speech.** Year 2 students are still learning English: speak slowly and clearly, in short phrases, with a pause of about a second after each phrase. Use the same pace for every candidate, so that the results can be compared (do not slow down further for a child who finds it hard, and repeat an instruction only where these instructions allow it). The listening recording is paced the same way: a clear, steady voice with a pause of about a second after each phrase.
 
 **Welcome (1 minute).** Say:
 
@@ -171,7 +171,7 @@ Give the speaking band from the picture talk on the grading sheet. The final spe
 
 #### Rules
 
-- Say each instruction **once**, slowly and clearly, about 120 words a minute with a pause after each phrase (see **Pace of speech** in Section 2). Look at the child, not at the picture. Do not point, nod or gesture.
+- Say each instruction **once**, slowly and clearly, with a pause after each phrase (see **Pace of speech** in Section 2). Look at the child, not at the picture. Do not point, nod or gesture.
 - If the child asks, or clearly did not hear, you may say it once more: tick **R** on the grading sheet. A correct response after one repeat still scores.
 - With the recording, if the child asks, or clearly did not hear, pause, go back to the start of the item (the start times are in the read-me) and play it once more: tick **R** on the grading sheet. Pause the recording while a child is still working on an item.
 - A small mark of the right colour on the right thing is enough. Say "Just a little bit of colour is fine" if the child starts colouring carefully. Drawings only need to be recognisable and in the right place.

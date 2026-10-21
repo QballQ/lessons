@@ -11,7 +11,7 @@ footer: Interviewer guide | Years 7 to 10
 
 **How to ask.** Start with the main question. If the student struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. This lets every student show their best English. Wait at least five seconds before rephrasing. Answers must be in English.
 
-**Pace of speech.** Speak at a steady, clear pace: about 160 to 185 words a minute (Year 7 about 160, Year 8 about 160, Year 9 about 175, Year 10 about 185). Use the same pace for every candidate in the year group, and use it for the instructions and meaning questions of the sentence reading too. Do not rush: wait at least five seconds before rephrasing.
+**Pace of speech.** Speak at a steady, clear pace, with a short pause after each sentence. Use the same pace for every candidate in the year group, and use it for the instructions and meaning questions of the sentence reading too. Do not rush: wait at least five seconds before rephrasing.
 
 **Safeguarding.** Keep the door open or another adult present. If a student tells you something that worries you about their safety or wellbeing, do not promise to keep it secret; listen, write down their words, and pass it to the Designated Safeguarding Lead the same day.
 

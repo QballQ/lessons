@@ -33,14 +33,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 PAUSE = 3.0            # [pause] in a script: about 3 seconds (assessor instructions)
 SPEED_MIN, SPEED_MAX = 0.6, 1.15
+FIXED_SPEED = 0.9        # voice speed for Years 4 to 9 (Year 10 was built first at 0.85)
 ITEM_SPEED = 0.85        # voice speed for the instructions of Years 1 to 3 (0.6 and 0.8 were too slow, 0.9 too fast, and a recogniser missed words at 0.5)
 
 F1, F2, M1, M2 = 'bf_emma', 'bf_isabella', 'bm_george', 'bm_fable'
 
-# Pace of the voice in words a minute while it is speaking (the pauses are not counted). The younger the student,
-# the slower. Years 1 and 2 are the slowest the voice stays clear (speed 0.6). Year 10 was built first at a fixed voice speed.
-# GAP is the pause after each sentence in seconds (a turn in a conversation gets twice as much): longer for younger students.
-PACE = {1: 120, 2: 120, 3: 130, 4: 135, 5: 140, 6: 156, 7: 155, 8: 160, 9: 165, 10: None}
+# The voice speed is fixed: ITEM_SPEED for Years 1 to 3, FIXED_SPEED for Years 4 to 9, 0.85 for Year 10. What changes with
+# the year group is the pause: GAP is the pause after each sentence in seconds (a turn in a conversation gets twice as
+# much), longer for younger students. (Slower voice speeds were tried and judged too slow.)
+PACE = {1: 120, 2: 120, 3: 120, 4: None, 5: None, 6: None, 7: None, 8: None, 9: None, 10: None}   # only Years 1 to 3 use it, for the pause inside an instruction
 GAP = {1: 1.0, 2: 1.0, 3: 0.9, 4: 0.8, 5: 0.7, 6: 0.65, 7: 0.55, 8: 0.5, 9: 0.45, 10: 0.45}
 ITEM_TIME = {1: 1.25, 2: 1.15, 3: 1.0}   # multiplier on the time given to respond to each instruction
 
@@ -62,25 +63,25 @@ YEARS = {
                   'Sometimes you point with your finger. Sometimes you use your pencil.',
             practice='Point to the cloud.', practice_ok='Good!',
             end='Well done. That is the end of the listening.'),
-    4: dict(kind='read', announcer=M1, voices={'Li Na': F1, 'Amir': M2}, default=F1,
+    4: dict(fixed_speed=FIXED_SPEED, kind='read', announcer=M1, voices={'Li Na': F1, 'Amir': M2}, default=F1,
             intro='Turn to page 2. Part 1: Listening. You are going to hear a phone call. Li Na is talking to her '
                   'friend Amir. You will hear it two times. First, listen to the questions.'),
-    5: dict(kind='read', announcer=M1, voices={'Mr Chen': M2}, default=M2,
+    5: dict(fixed_speed=FIXED_SPEED, kind='read', announcer=M1, voices={'Mr Chen': M2}, default=M2,
             intro='Turn to page 2. You will hear a message from a teacher, Mr Chen, to his class. First, listen to '
                   'the questions. Then you will hear the message two times. You can answer while you listen. '
                   'Answer on pages 2 and 3.'),
-    6: dict(kind='read', announcer=M1, voices={'Aisha': F2, 'Jun': M2}, default=F2,
+    6: dict(fixed_speed=FIXED_SPEED, kind='read', announcer=M1, voices={'Aisha': F2, 'Jun': M2}, default=F2,
             intro='Turn to page 2. You will hear a phone conversation between two friends, Aisha and Jun. They are '
                   'talking about a film night in the park at Mid-Autumn. First, listen to the questions. Then you '
                   'will hear the conversation two times. You can answer while you listen. Answer on pages 2 and 3.'),
-    7: dict(kind='parts', announcer=M1, parts=[
+    7: dict(fixed_speed=FIXED_SPEED, kind='parts', announcer=M1, parts=[
         dict(name='A', voices={}, default=F1, finish=60,
              intro='Turn to the Listening page. This is Part A. You will hear a phone message. Li Na is calling her '
                    'friend Sofia. You will hear it two times. First, you have one minute to read questions 1 to 8.'),
         dict(name='B', voices={}, default=F2, finish=60,
              intro='Now turn to Part B, on page 4. You will hear a short talk. A science teacher is giving a lesson '
                    'about deserts. You will hear it two times. You have one minute to read questions 9 to 16.')]),
-    8: dict(kind='parts', announcer=M1, parts=[
+    8: dict(fixed_speed=FIXED_SPEED, kind='parts', announcer=M1, parts=[
         dict(name='A', voices={'Mei': F1, 'Amir': M2}, default=F1, finish=30,
              intro='Turn to the Listening pages. There are two parts. In Part A, you will hear a conversation between '
                    'two students, Mei and Amir. You will hear it two times. First, you have one minute to read '
@@ -89,7 +90,7 @@ YEARS = {
              intro='Now turn to Part B, on page 4. You will hear a short talk by a scientist, Dr Lin. She is talking '
                    'to a class about noise in cities. You will hear it two times. First, you have one minute to read '
                    'questions 9 to 16.')]),
-    9: dict(kind='parts', announcer=M1, parts=[
+    9: dict(fixed_speed=FIXED_SPEED, kind='parts', announcer=M1, parts=[
         dict(name='A', voices={'Mei': F1, 'Tom': M2}, default=F1, finish=60, merge_finish=True,
              intro='Turn to the Listening page. There are two parts. First, Part A. You will hear two friends, Mei and '
                    'Tom, talking about a science club trip. You will hear it two times. First, you have one minute '
@@ -397,8 +398,11 @@ def build_read(v, n, cfg, section, out_dir, check):
     assert len(qs) == 8, (n, qs)
     sg = GAP[n]
     pg = 2 * sg
-    talk, eff, sp = render_calibrated(v, turn_list, cfg['voices'], cfg['default'], pace, sg, pg)
-    v.speed[ann] = round(min(SPEED_MAX, max(SPEED_MIN, sum(sp.values()) / len(sp))), 3)   # the announcer matches the speakers
+    for voice in set(list(cfg['voices'].values()) + [cfg['default'], ann]):
+        v.speed[voice] = cfg['fixed_speed']
+    sp = {cfg['default']: cfg['fixed_speed']}
+    talk = v.passage(turn_list, cfg['voices'], cfg['default'], sg, pg)
+    eff = speech_rate(turn_list, talk, sg, pg)
     tr = Track()
     tr.add(silence(1.0)); tr.add(v.sentence(TITLE.format(n=n), ann)); tr.add(silence(1.2))
     tr.add(tone()); tr.add(silence(0.8))
@@ -454,7 +458,7 @@ def build_parts(v, n, cfg, section, out_dir, check):
     pg = 2 * sg
     talks, effs, wcount = [], [], 0
     for part, turn_list in zip(cfg['parts'], tl):
-        if pace:
+        if not cfg.get('fixed_speed'):
             talk, eff, sp = render_calibrated(v, turn_list, part['voices'], part['default'], pace, sg, pg)
             v.speed[ann] = round(min(SPEED_MAX, max(SPEED_MIN, sum(sp.values()) / len(sp))), 3)   # the announcer matches the speakers
         else:
@@ -512,7 +516,7 @@ def readme(n, info, out_dir):
         pace = (f'In Year {n} the voice speaks at about {wpm} words a minute (not counting the pauses), with a pause after every '
                 f'sentence. Counting the pauses, one reading of the script goes at about {overall} words a minute: a live reader '
                 'can use this to check their own pace.')
-    L += ['PACE', '  The younger the student, the slower the voice and the longer the pauses. ' + pace, '']
+    L += ['PACE', '  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. ' + pace, '']
     if kind == 'items':
         L += ['HOW TO USE',
               f'  1. Have the student booklet open at the picture page (see the Year {n} instructions, Section 3.2), the crayons or',

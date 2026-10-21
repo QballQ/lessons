@@ -15,7 +15,7 @@ Which version of the papers each year group uses, and what each version contains
 
 Earlier packs are in `pdf/Candidate_Packs/superseded/`, one folder per version, for reference only.
 
-**Document set, 21 October 2026.** The v3.1 assessor booklet has been split so that less is printed for each candidate: the **assessor instructions** (reusable, no student name) and a **grading sheet** for each student; the sentence reading record and the interview record are replaced by the **Reading front sheet**, the **Interview sheet** and reusable guides; the candidate summary is now the **final mark sheet**. The questions, mark schemes, marks and band guides are unchanged, so these documents keep the version number v3.1 and are used with the v3.1 student papers. The combined v3.1 assessor booklet and candidate packs printed on 20 October are withdrawn. Listening recordings for every year group are in `audio/v3.1/`, paced by year group (slower for younger students).
+**Document set, 21 October 2026.** The v3.1 assessor booklet has been split so that less is printed for each candidate: the **assessor instructions** (reusable, no student name) and a **grading sheet** for each student; the sentence reading record and the interview record are replaced by the **Reading front sheet**, the **Interview sheet** and reusable guides; the candidate summary is now the **final mark sheet**. The questions, mark schemes, marks and band guides are unchanged, so these documents keep the version number v3.1 and are used with the v3.1 student papers. The combined v3.1 assessor booklet and candidate packs printed on 20 October are withdrawn. Listening recordings for every year group are in `audio/v3.1/`, with longer pauses for younger students.
 
 ## The versions
 

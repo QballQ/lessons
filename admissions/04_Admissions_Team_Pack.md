@@ -58,39 +58,39 @@ This is the simple pack for the admissions team and the assessors. It says what 
 
 ## 3. Day sheets
 
-Each sheet is the timetable for one phase. Each step has a section in the **assessor instructions** for the year group: the exact words to say, the answers and the marks are there. **Pace of speech:** the younger the student, the slower you speak (and the slower the recordings are): Years 1 and 2 about 120 words a minute, Year 3 about 120, Year 4 about 130, Year 5 about 140, Year 6 about 155, Year 7 about 160, Year 8 about 160, Year 9 about 175, Year 10 about 185. Use the same pace for every candidate in a year group.
+Each sheet is the timetable for one phase. Each step has a section in the **assessor instructions** for the year group: the exact words to say, the answers and the marks are there. **Pace of speech:** speak slowly and clearly, in short phrases, with the youngest (Years 1 to 3) and steadily and clearly with the older students, with a pause after each sentence that is longer the younger the student (the recordings are paced this way). Use the same pace for every candidate in a year group.
 
-### Years 1 to 3 (about 46 to 55 minutes, 1:1, play-based)
+### Years 1 to 3 (about 46 to 54 minutes, 1:1, play-based)
 
 | Step | Minutes Y1 / Y2 / Y3 | Section | The child | You | Record on |
 |---|---|---|---|---|---|
 | 1 | 1 / 1 / 2 | Welcome | Says their name and age | Smile; sit beside the child; write the name on the booklet cover; show where the parent waits | |
 | 2 | 4 / 4 / 4 | Picture talk | Looks at the picture, answers the prompts | Give the prompts in order, wait about 5 seconds, write down the child's own words. Stop after three prompts with no answer | Grading sheet, Section 1 |
-| 3 | 5 / 5 / 5 | Listening game | Points, draws, colours | **Play the recording.** Watch the child, not the picture. Mark each item 1 or 0 as you go. If asked, go back and play the item once more (tick R). Stop after three 0s in a row | Grading sheet, Section 2 |
+| 3 | 5 / 5 / 4 | Listening game | Points, draws, colours | **Play the recording.** Watch the child, not the picture. Mark each item 1 or 0 as you go. If asked, go back and play the item once more (tick R). Stop after three 0s in a row | Grading sheet, Section 2 |
 | 4 | 12 / 12 / 12 | Reading: Early Reading Screen, then sentence reading | Reads letter sounds, words and short stories aloud, then sentences | Start at the point for the year (Early Reading Screen guide). Then sentence reading from Level 1 (Years 1 and 2) or Level 2 (Year 3) with `Sentence_Reading_Guide` | Early Reading Screen record (Sheet 13); Reading front sheet, Part 2 |
 | 5 | 2 / 2 / 3 to 5 | Movement break | Stretches, has water | Do the actions with the child | |
 | 6 | 12 / 15 / 18 | Maths | Counts, points, shows with counters, writes | Read every question as written; repeat or show with counters if asked. Write 1 or 0 in the mark box on the child's page; write NT or L beside it | Mark boxes in the booklet; grading sheet |
 | 7 | 5 / 6 / 8 | Writing | Writes their name, dictated words, a sentence or a picture story (by year) | Dictate clearly at the year's pace. Do not spell or write for the child | Grading sheet |
 | 8 | 6 / 6 / 8 | Play-based interview and goodbye | Draws and talks | Interviewer (often you): `Interviewer_Guide_Y1_Y2` or `_Y3_Y4`. Do not give results. Say something specific that went well | Interview sheet |
-| | **About 46 / 51 / 55** | | | | Then: grading sheet, Reading front sheet Part 1 and 3, final mark sheet |
+| | **About 46 / 51 / 54** | | | | Then: grading sheet, Reading front sheet Part 1 and 3, final mark sheet |
 
 Years 1 to 3: the assessor runs the sentence reading as well as the Early Reading Screen, so the Reading front sheet stays with the assessor and Parts 1 to 3 are completed together; the interviewer only needs the Interview sheet. Year 2: listening, maths and writing may be done with two children together (assessor instructions, Section 1).
 
 [[pagebreak]]
 
-### Years 4 to 6 (about 60 minutes in Year 4, about 67 in Years 5 and 6)
+### Years 4 to 6 (about 59 minutes in Year 4, 66 in Year 5 and 67 in Year 6)
 
 | Step | Minutes | Section | The student | You | Record on |
 |---|---|---|---|---|---|
 | 1 | 2 | Welcome | Listens | Say the welcome script (instructions, Section 2) | |
-| 2 | 8 / 7 / 7 (recording) | Listening | Answers on pages 2 and 3 | **Play the recording** (do not pause it). It reads the questions, plays the script twice and gives one minute to finish. Years 4 to 6 can be done in a small group | Student paper mark boxes |
+| 2 | 7 / 6 / 7 (recording) | Listening | Answers on pages 2 and 3 | **Play the recording** (do not pause it). It reads the questions, plays the script twice and gives one minute to finish. Years 4 to 6 can be done in a small group | Student paper mark boxes |
 | 3 | 12 | Reading paper (Parts A, B, C) | Works alone | Time it; two-minute warning; do not read the texts or explain words | Student paper; Reading front sheet, Part 1 |
 | 4 | 10 | Writing | Works alone | Time it; do not explain the prompts | Grading sheet |
 | 5 | 3 to 5 | Break | | Water, a chance to move | |
 | 6 | 18 | Maths | Works alone | May read any question aloud, as often as asked. A Chinese-speaking colleague may say it once (mark L). NT if not taught. No calculator | Student paper; grading sheet |
 | 7 | 8 | Science (Years 5 and 6 only) | Works alone | As for maths | Student paper; grading sheet |
 | 8 | 12 | Interview, opening with sentence reading (Level 3 in Year 4, Level 4 in Year 5, Level 5 in Year 6) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y3_Y4` or `_Y5_Y6` | Reading front sheet, Parts 2 and 3; Interview sheet |
-| | **About 60 (Year 4), 67 (Years 5 and 6)** | | | | |
+| | **About 59 (Year 4), 66 (Year 5), 67 (Year 6)** | | | | |
 
 [[pagebreak]]
 
@@ -99,7 +99,7 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 | Step | Minutes | Section | The student | You | Record on |
 |---|---|---|---|---|---|
 | 1 | 2 | Welcome | Listens | Say the welcome script (instructions, Section 2) | |
-| 2 | 15 / 16 / 15 / 16 (recording, Years 7 to 10) | Listening, Parts A and B | Reads the questions for a minute, then answers while listening | **Play the Full recording** (do not pause it). Use Part A and Part B as two tracks if you may stop after Part A (a student with 2 or fewer in Part A may leave out Part B: see the instructions, Section 2) | Student paper mark boxes |
+| 2 | 14 / 15 / 15 / 16 (recording, Years 7 to 10) | Listening, Parts A and B | Reads the questions for a minute, then answers while listening | **Play the Full recording** (do not pause it). Use Part A and Part B as two tracks if you may stop after Part A (a student with 2 or fewer in Part A may leave out Part B: see the instructions, Section 2) | Student paper mark boxes |
 | 3 | 15 | Reading paper (Parts A and B) | Works alone | Time it; two-minute warning; do not read the texts or explain words | Student paper; Reading front sheet, Part 1 |
 | 4 | 10 | Writing (one task of two) | Works alone | Time it | Grading sheet |
 | 5 | 5 | Break | | | |
@@ -116,15 +116,15 @@ Every year group has a recording made from the scripts, so that every candidate 
 
 | Year | Play this | Length | Voice speed (words a minute) | Also |
 |---|---|---|---|---|
-| 1 | `Y01_Listening_Full_v3.1.mp3` | 5:07 | 120 | start time of every item in the read-me |
-| 2 | `Y02_Listening_Full_v3.1.mp3` | 5:14 | 125 | start time of every item in the read-me |
-| 3 | `Y03_Listening_Full_v3.1.mp3` | 4:44 | 125 | start time of every item in the read-me |
-| 4 | `Y04_Listening_Full_v3.1.mp3` | 7:31 | 130 |  |
-| 5 | `Y05_Listening_Full_v3.1.mp3` | 6:36 | 140 |  |
-| 6 | `Y06_Listening_Full_v3.1.mp3` | 7:22 | 155 |  |
-| 7 | `Y07_Listening_Full_v3.1.mp3` | 15:02 | 160 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 8 | `Y08_Listening_Full_v3.1.mp3` | 15:46 | 160 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 9 | `Y09_Listening_Full_v3.1.mp3` | 14:56 | 175 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 1 | `Y01_Listening_Full_v3.1.mp3` | 4:35 | 185 | start time of every item in the read-me |
+| 2 | `Y02_Listening_Full_v3.1.mp3` | 4:40 | 185 | start time of every item in the read-me |
+| 3 | `Y03_Listening_Full_v3.1.mp3` | 4:10 | 190 | start time of every item in the read-me |
+| 4 | `Y04_Listening_Full_v3.1.mp3` | 6:41 | 165 |  |
+| 5 | `Y05_Listening_Full_v3.1.mp3` | 5:50 | 175 |  |
+| 6 | `Y06_Listening_Full_v3.1.mp3` | 7:02 | 170 |  |
+| 7 | `Y07_Listening_Full_v3.1.mp3` | 13:50 | 200 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 8 | `Y08_Listening_Full_v3.1.mp3` | 14:53 | 180 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 9 | `Y09_Listening_Full_v3.1.mp3` | 14:33 | 180 | Part A and Part B as separate tracks (if you may stop after Part A) |
 | 10 | `Y10_Listening_Full_v3.1.mp3` | 15:59 | 185 | Part A and Part B as separate tracks (if you may stop after Part A) |
 
 **How to play it**
@@ -133,7 +133,7 @@ Every year group has a recording made from the scripts, so that every candidate 
 3. Mark the paper after the recording. Years 1 to 3: mark each item 1 or 0 as you go.
 4. If the recording cannot be played, read the script live from the assessor instructions, at the pace for the year group in Section 3. Never mix the two in one test.
 
-**The pace is slower for younger students.** Years 1 and 2 about 120 words a minute, Year 3 about 120, Year 4 about 130, Year 5 about 140, Year 6 about 155, Year 7 about 160, Year 8 about 160, Year 9 about 175, Year 10 about 185, with longer gaps between sentences for the youngest. The voices are offline text-to-speech in British English. In two-person scripts the speakers have different voices, so the recording does not say their names.
+**The pauses are longer for younger students.** The voice speed is the same within each phase (0.85 of the voice's normal speed in Years 1 to 3 and Year 10, 0.9 in Years 4 to 9). The pause after each sentence is about a second in Years 1 to 3, about three quarters of a second in Years 4 to 6 and about half a second in Years 7 to 10. The voices are offline text-to-speech in British English. In two-person scripts the speakers have different voices, so the recording does not say their names.
 
 ## 5. Handing over to the interviewer
 

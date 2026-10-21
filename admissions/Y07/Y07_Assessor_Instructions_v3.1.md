@@ -16,14 +16,14 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | about 15 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | about 14 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Can be done with a small group |
 | 3 | Reading paper (pages 6 to 9) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 10 to 11) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
 | 6 | Maths (pages 12 to 17) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A fluency, Section B word questions, Section C applied problems |
 | 7 | Science (pages 18 to 20) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | Interviewer guide, Interview sheet, Reading front sheet, Sentence reading guide and card, a plain card | Sentence reading starts at **Level 6** (sentence 16) |
-| | **Total** | **about 95** | | | Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 94** | | | Plus the parent conversation (about 15 minutes, separate) |
 
 [[keep]]
 Marks go on the **grading sheet** (listening, writing, maths and science), the **Reading front sheet** (reading) and the **Interview sheet** (speaking).
@@ -54,7 +54,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 > "Hello, I'm ... . Welcome to our school. Today you will do some activities in English: listening, reading, writing, maths and science. Then we will have a chat. The activities help us get to know you and find the right support for you. Some questions are easy and some are hard. That is fine. Do your best, and it is OK if you cannot answer everything. In maths and science I can read a question to you. In the English parts I cannot explain words, because we want to see your English. You can always ask me to say an instruction again. Do you have any questions?"
 
-**Pace of speech.** Many Year 7 students are still learning English: speak steadily, slightly slower than normal speech, about 160 words a minute, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
+**Pace of speech.** Many Year 7 students are still learning English: speak steadily and clearly, with a short pause after each sentence, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 **Access rules** (the same in every year group; details in `00_Admissions_Guide.md`, Section 7)
 
@@ -71,17 +71,17 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 ## 3. English
 
-### 3.1 Listening (about 15 minutes with the recording, 16 marks)
+### 3.1 Listening (about 14 minutes with the recording, 16 marks)
 
-Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. The recording takes about 15 minutes: both scripts twice, one minute to read each set of questions and the time to finish.
+Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. The recording takes about 14 minutes: both scripts twice, one minute to read each set of questions and the time to finish.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y07/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 58 seconds and of Part B about 2 minutes 39 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y07/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 36 seconds and of Part B about 2 minutes 28 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: a phone message (questions 1 to 8, 8 marks)
 
 **Say:** "Turn to the Listening page. This is Part A. I am going to read a phone message. Li Na is calling her friend Sofia. I will read it two times. First, read the questions." Give the student **one minute** to look at questions 1 to 8 (pages 2 and 3). Then say: "Now listen. You can answer while I read."
 
-**Read it twice at the steady pace in Section 2** (about 160 words a minute). Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part of the message, and do not explain any word.
+**Read it twice at the steady pace in Section 2**. Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part of the message, and do not explain any word.
 
 > **Script: a phone message**
 >
@@ -124,7 +124,7 @@ Two parts, each read twice. **Part A** is everyday listening: the version 1 task
 
 **Say:** "Now turn to Part B, on page 4. You will hear a short talk. A science teacher is giving a lesson about deserts. I will read it two times. You have one minute to read questions 9 to 16." After **one minute**, say: "Now listen. You can answer while I read."
 
-**Read it twice at the steady pace in Section 2** (about 160 words a minute), as you would explain something to a class of fluent 11 year olds. Pause for 2 to 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give **one minute** to finish. Do not slow down to dictation speed, speed up, repeat any part, or explain any word: Part B measures whether the student can follow a lesson in English at this pace.
+**Read it twice at the steady pace in Section 2**, as you would explain something to a class of fluent 11 year olds. Pause for 2 to 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give **one minute** to finish. Do not slow down to dictation speed, speed up, repeat any part, or explain any word: Part B measures whether the student can follow a lesson in English at this pace.
 
 [[keep]]
 > **Script: a short lesson about deserts**
@@ -257,7 +257,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in `shared/Sentence_Reading_Guide`; the student reads from `shared/Sentence_Reading_Card`; the results go on the **Reading front sheet**. For Year 7, **start at Level 6 (sentence 16)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
 
-**Pace.** Ask the questions at the pace in Section 2 (about 160 words a minute), the same for every candidate.
+**Pace.** Ask the questions at the pace in Section 2, the same for every candidate.
 
 The Interviewer guide's opinion questions include homework and phones. These do not overlap with the writing tasks above.
 

@@ -14,20 +14,20 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 
 **Who this is for.** Children applying for Year 3 are usually 7 years old on 1 September. A child from a Chinese mainstream school has usually **completed Grade 1** (一年级): numbers to 100, adding and subtracting within 100, o'clock and half past, yuan and jiao, and simple 2D and 3D shapes. Times tables, division, fractions, cm rulers and time to five minutes usually come later. English as a school subject often starts in Grade 3, so many children have only had English classes outside school; children from bilingual schools may be close to fluent.
 
-**How it works.** About 55 minutes of tasks, 1:1, plus a welcome and a short break. The child works in the **Student booklet** (11 pages); you lead every task and record the results on the child's grading sheet, Reading front sheet and Interview sheet. Reading uses the shared reading screens. Mark everything the same day and follow Section 5 (Recording the results), which ends with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+**How it works.** About 54 minutes of tasks, 1:1, plus a welcome and a short break. The child works in the **Student booklet** (11 pages); you lead every task and record the results on the child's grading sheet, Reading front sheet and Interview sheet. Reading uses the shared reading screens. Mark everything the same day and follow Section 5 (Recording the results), which ends with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
 
 ## 1. At a glance
 
 | | Task | Minutes | Who leads | Student booklet | You need |
 |---|---|---|---|---|---|
 | 1 | Welcome and picture talk (speaking) | 2 + 4 | Assessor, 1:1 | page 1 | Section 3.1 of these instructions |
-| 2 | Listening: follow instructions | 5 | Assessor, 1:1 | page 2 | Pencil; coloured pencils: red, yellow, blue, green |
+| 2 | Listening: follow instructions (recording) | about 4 | Assessor, 1:1 | page 2 | Pencil; coloured pencils: red, yellow, blue, green |
 | 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards, Early Reading Screen record sheets and Reading front sheet (instructions in `shared/Early_Reading_Screen_Guide` and `shared/Sentence_Reading_Guide`); a plain card; the levelled reading books |
 | | Break | 3 to 5 | | | Water; a chance to move |
 | 4 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 3 to 10 | Pencil, rubber, ruler marked in cm |
 | 5 | Writing: the picture story | 8 | Child writes | page 11 | Pencil |
 | 6 | Short interview and goodbye | 8 | Assessor, 1:1 | | Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`) and Interview sheet (`forms/Interview_Sheet_Y3_Y4`); paper and crayons |
-| | **Total** | **about 55**, plus welcome and break | | | |
+| | **Total** | **about 54**, plus welcome and break | | | |
 
 [[keep]]
 
@@ -63,7 +63,7 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 
 **The room.** Quiet and bright, with a low table. Sit beside the child, not opposite. Keep the door open or another adult present. Have the booklet open at page 1 and everything else out of sight.
 
-**Pace of speech.** Year 3 students are still learning English: speak slowly and clearly, about 120 words a minute, with a pause after each sentence. Use the same pace for every candidate, so that the results can be compared (do not slow down further for a child who finds it hard, and repeat an instruction only where these instructions allow it). The listening recording is paced the same way.
+**Pace of speech.** Year 3 students are still learning English: speak slowly and clearly, with a pause of about a second after each sentence. Use the same pace for every candidate, so that the results can be compared (do not slow down further for a child who finds it hard, and repeat an instruction only where these instructions allow it). The listening recording is paced the same way.
 
 **Say:** "Hello, [name]. My name is [your name]. I am a teacher here. Today we are going to look at some pictures, listen, read, do some maths and do some writing. Some things are easy and some are hard. That is fine. Just do your best. You can ask me to say things again."
 
@@ -117,7 +117,7 @@ Ask the prompts in order, slowly and clearly (see **Pace of speech** in Section 
 | **D** Competent | Tells the whole story in connected sentences, with some past tense; says why; occasional errors. |
 | **E** Fluent | Tells the story easily, as a fluent English-speaking 7 year old would: past tense, linking words, feelings, an idea about what happens next. |
 
-### 3.2 Listening: follow instructions (about 5 minutes with the recording, booklet page 2)
+### 3.2 Listening: follow instructions (about 4 minutes with the recording, booklet page 2)
 
 **Recording.** A recording of this test is in `audio/v3.1/Y03/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
 
@@ -129,7 +129,7 @@ Ask the prompts in order, slowly and clearly (see **Pace of speech** in Section 
 
 **How to give it**
 
-- Say each instruction **once**, slowly and clearly, about 120 words a minute with a pause after each sentence (see **Pace of speech** in Section 2). Do not point to, look at or gesture towards anything in the picture.
+- Say each instruction **once**, slowly and clearly, with a pause after each sentence (see **Pace of speech** in Section 2). Do not point to, look at or gesture towards anything in the picture.
 - If the child asks, or does nothing for about 5 seconds, say it **once more** and tick **R** on the grading sheet.
 - With the recording, if the child asks, or clearly did not hear, pause, go back to the start of the item (the start times are in the read-me) and play it once more: tick **R** on the grading sheet. Pause the recording while a child is still working on an item.
 - Score **1** if the child does everything in the instruction correctly, after the first or the second hearing. Otherwise score **0**. Say "Thank you" after every item, whatever happens.

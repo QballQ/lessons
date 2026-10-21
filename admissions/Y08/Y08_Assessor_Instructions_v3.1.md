@@ -16,7 +16,7 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5) | about 16 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Part A: a conversation with two voices. Part B: a short talk. Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5) | about 15 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Part A: a conversation with two voices. Part B: a short talk. Can be done with a small group |
 | 3 | Reading paper (pages 6 to 9) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 10 to 11) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
@@ -63,7 +63,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 > "Hello, I'm ... . Welcome to our school. Today you will do some activities in English: listening, reading, writing, maths and science. Then we will have a chat. The activities help us get to know you and find the right support for you. Some questions are easy and some are hard. That is fine. Do your best, and it is OK if you cannot answer everything. In maths and science I can read a question to you. In the English parts I cannot explain words, because we want to see your English. You can always ask me to say an instruction again. Do you have any questions?"
 
-**Pace of speech.** Many Year 8 students are still learning English: speak steadily, slightly slower than normal speech, about 160 words a minute, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
+**Pace of speech.** Many Year 8 students are still learning English: speak steadily and clearly, with a short pause after each sentence, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 [[keep]]
 **Access rules** (the same in every year group; details in `00_Admissions_Guide.md`, Section 7)
@@ -82,17 +82,17 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 ## 3. English
 
-### 3.1 Listening (about 16 minutes with the recording, 16 marks)
+### 3.1 Listening (about 15 minutes with the recording, 16 marks)
 
 There are two parts. **Part A** is the everyday conversation from version 1, unchanged. **Part B** is a short talk at the level of a lesson for a fluent student of 12 to 13.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y08/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 2 minutes 17 seconds and of Part B about 2 minutes 56 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y08/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 2 minutes 6 seconds and of Part B about 2 minutes 44 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: Mei and Amir talk about the charity fair (questions 1 to 8, about 5 minutes)
 
 **Say:** "Turn to the Listening pages. There are two parts. In Part A, I am going to read a conversation between two students, Mei and Amir. I will read it two times. First, read questions 1 to 8." Give the student **one minute** to look at questions 1 to 8 (pages 2 and 3). Then say: "Now listen. You can answer while I read."
 
-**Read it twice at the steady pace in Section 2** (about 160 words a minute). You read both parts. Say the speaker's name before each turn, a little more quietly, and make the two voices slightly different. Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give 30 seconds to finish. Do not repeat any part, and do not explain any word.
+**Read it twice at the steady pace in Section 2**. You read both parts. Say the speaker's name before each turn, a little more quietly, and make the two voices slightly different. Pause for about 3 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give 30 seconds to finish. Do not repeat any part, and do not explain any word.
 
 [[keep]]
 > **Script: Mei and Amir talk about the charity fair**
@@ -151,7 +151,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 
 **Say:** "Now turn to Part B on page 4. I am going to read a short talk by a scientist, Dr Lin. She is talking to a class about noise in cities. I will read it two times. First, read questions 9 to 16. You have one minute." After one minute, say: "Now listen. You can answer while I read."
 
-**Read it twice at the steady pace in Section 2** (about 160 words a minute), as a teacher would give a short talk. Pause for about 2 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part, do not explain any word, and do not answer questions about the talk. Practise the talk aloud once before the day. Say these words clearly: **decibels** (DESS-ih-bels), **adrenaline** (a-DREN-a-lin), **chronic** (KRON-ik), **Munich** (MYOO-nik).
+**Read it twice at the steady pace in Section 2**, as a teacher would give a short talk. Pause for about 2 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part, do not explain any word, and do not answer questions about the talk. Practise the talk aloud once before the day. Say these words clearly: **decibels** (DESS-ih-bels), **adrenaline** (a-DREN-a-lin), **chronic** (KRON-ik), **Munich** (MYOO-nik).
 
 **About the talk** (for the English team). 389 words in 25 sentences (average 15.6 words); 19% of the words are outside the 2000 most common English word forms (15% after simple ending rules, names left out; method as in `02_Listening_Evidence_Statement`, Section 6). Features: a process and a chain of cause and effect (questions 11 and 15), comparisons and contrasts (a fountain and a street; the old and new airports), numbers and a statistic, subject words explained in passing (decibels, hormones, chronic), a correction ("Actually, that's not quite right", question 10), an opinion that is implied, not stated (question 14), and discourse markers (as a result, however, whereas, on the other hand, interestingly). The facts are simplified but sound: decibels and loudness, the stress response, European traffic noise figures and the Munich airport study (children's reading and memory near the old and new airports, 1992 onwards).
 
@@ -290,7 +290,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in `shared/Sentence_Reading_Guide`; the student reads from `shared/Sentence_Reading_Card`; the results go on the **Reading front sheet**. For Year 8, **start at Level 7 (sentence 19)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
 
-**Pace.** Ask the questions at the pace in Section 2 (about 160 words a minute), the same for every candidate.
+**Pace.** Ask the questions at the pace in Section 2, the same for every candidate.
 
 The Interviewer guide's opinion questions (homework, phones) do not overlap with the writing tasks above.
 

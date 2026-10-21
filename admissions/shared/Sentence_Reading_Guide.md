@@ -22,7 +22,7 @@ footer: Graded Sentence Reading Screen | Interviewer guide
 
 **Say:** "I would like you to read some sentences out loud for me. They start easy and get harder. When they get too hard, that is fine, we will stop. If you do not know a word, have a go. Ready?" Point to the first sentence. You may say "Have a go" or "Try the next word". Do not sound out, explain or translate any word.
 
-**Pace of speech.** When you give the instructions and ask the meaning questions, speak slowly and clearly, especially with the younger students. Aim for about 120 words a minute in Years 1 and 2, 120 in Year 3, 130 in Year 4, 140 in Year 5, 155 in Year 6, 160 in Year 7, 160 in Year 8, 175 in Year 9 and 185 in Year 10. Use the same pace for every candidate in a year group, and do not rush.
+**Pace of speech.** When you give the instructions and ask the meaning questions, speak slowly and clearly, especially with the younger students. Use a short pause after each sentence, and a longer one with the younger students. Use the same pace for every candidate in a year group, and do not rush.
 
 ## 2. Scoring each sentence
 

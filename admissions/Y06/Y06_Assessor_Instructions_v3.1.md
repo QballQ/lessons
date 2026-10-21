@@ -61,7 +61,7 @@ The written papers can be taken in a small group with one invigilator; listening
 - Write the student's name on the paper if they cannot (in English, with the Chinese name in brackets if the family uses one).
 - Have these instructions open at 3.1 for the listening script (if you are not playing the recording), and a timer ready.
 
-**Pace of speech.** Year 6 students are still learning English: speak a little slower than normal speech, about 155 words a minute. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
+**Pace of speech.** Year 6 students are still learning English: speak clearly and a little slower than you would to a fluent speaker, with a short pause after each sentence. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 ### 2.2 Welcome (say this)
 
@@ -99,7 +99,7 @@ Extra time or a reader for a known need is allowed: record it on the grading she
 
 ### 3.1 Listening (about 7 minutes with the recording, / 8)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y06/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 2 minutes, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in `audio/v3.1/Y06/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 53 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
 
 **Say:** "Turn to page 2. I am going to read a phone conversation between two friends, Aisha and Jun. They are talking about a film night in the park at Mid-Autumn. First I will read the questions to you. Then I will read the conversation two times. You can answer while I read. Answer on pages 2 and 3."
 
@@ -109,7 +109,7 @@ Extra time or a reader for a known need is allowed: record it on the grading she
 
 **Say:** "Now listen. I will read the conversation two times."
 
-**Read it twice at about 155 words a minute, a little slower than normal speech.** Read both parts yourself: say each speaker's name before their words, and change your voice a little. Pause for about 3 seconds at each [pause]. After the first reading, wait 20 seconds, then say "Now listen again" and read it again. After the second reading, give one minute to finish.
+**Read it twice clearly and steadily, a little slower than normal speech, with a short pause after each sentence.** Read both parts yourself: say each speaker's name before their words, and change your voice a little. Pause for about 3 seconds at each [pause]. After the first reading, wait 20 seconds, then say "Now listen again" and read it again. After the second reading, give one minute to finish.
 
 [[keep]]
 > **Aisha:** Hello, Jun. It's Aisha. Are you still coming to the film night in the park on Saturday?

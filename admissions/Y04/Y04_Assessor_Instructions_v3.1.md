@@ -11,20 +11,20 @@ footer: Year 4 Admission Assessment v3.1 | Assessor instructions
 
 **Who this is for.** Students applying for Year 4 are usually 8 years old on 1 September. A student from a Chinese mainstream school has usually **completed Grade 2** (二年级): numbers to 10 000, adding and subtracting, times tables to 9 × 9 and division facts, cm and m, g and kg, time to the minute, right angles and simple tables of data. Fractions, perimeter, area, millimetres and multiplying by a one-digit number usually come in Grade 3. English as a school subject often starts in Grade 3, so many students have only had English classes outside school; students from bilingual schools may be close to fluent.
 
-**How it works.** About 60 minutes of student time, plus a welcome and a short break. The student writes in the **Student paper** (20 pages). Listening, reading, writing and maths can be taken in a small group with one invigilator (the listening is played or read to the group); the interview with sentence reading is always 1:1. Mark everything the same day and record the results as in Section 5, ending with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+**How it works.** About 59 minutes of student time, plus a welcome and a short break. The student writes in the **Student paper** (20 pages). Listening, reading, writing and maths can be taken in a small group with one invigilator (the listening is played or read to the group); the interview with sentence reading is always 1:1. Mark everything the same day and record the results as in Section 5, ending with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
 
 ## 1. At a glance
 
 | | Task | Minutes | Who leads | Student paper | You need |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | page 1 | Section 2 of these instructions |
-| 2 | Listening (recording) | about 8 | Assessor plays the recording or reads the script; students answer | pages 2 to 3 | The recording, or the script in Section 3.1 |
+| 2 | Listening (recording) | about 7 | Assessor plays the recording or reads the script; students answer | pages 2 to 3 | The recording, or the script in Section 3.1 |
 | 3 | Reading paper: Parts A, B and C | 12 | Students work alone | pages 4 to 10 | A clock or timer |
 | 4 | Writing | 10 | Students work alone | pages 11 to 12 | |
 | | Break | 3 to 5 | | | Water; a chance to move |
 | 5 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Students work alone; you read any question on request | pages 13 to 20 | Pencil, rubber, ruler marked in cm and mm |
 | 6 | Interview, opening with the Graded Sentence Reading Screen (start at Level 3) | 12 | Interviewer, 1:1 | | Interview sheet (`forms/Interview_Sheet_Y3_Y4`), Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`), Reading front sheet, `shared/Sentence_Reading_Card`, `shared/Sentence_Reading_Guide`, a plain card |
-| | **Total** | **about 60**, plus welcome and break | | | |
+| | **Total** | **about 59**, plus welcome and break | | | |
 
 [[keep]]
 **For each candidate:**
@@ -52,7 +52,7 @@ footer: Year 4 Admission Assessment v3.1 | Assessor instructions
 
 **The room.** Quiet and bright, with space between desks. Each student has a pencil, a rubber and a ruler. Keep the door open or another adult present.
 
-**Pace of speech.** Year 4 students are still learning English: speak a little slower than normal speech, about 130 words a minute. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
+**Pace of speech.** Year 4 students are still learning English: speak clearly and a little slower than you would to a fluent speaker, with a short pause after each sentence. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 **Say:** "Hello, everyone. My name is [your name]. I am a teacher here. Today you will do some listening, reading, writing and maths, and then you will talk with a teacher. These activities help us get to know you. Some questions are easy and some are hard. That is fine. Do your best. It is fine if you cannot answer every question."
 
@@ -72,9 +72,9 @@ Help each student write their name and the date on page 1. Point to the "How to 
 
 ## 3. English
 
-### 3.1 Listening (about 8 minutes with the recording, student paper pages 2 to 3)
+### 3.1 Listening (about 7 minutes with the recording, student paper pages 2 to 3)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y04/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 2 minutes 9 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in `audio/v3.1/Y04/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 52 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
 
 **Say:** "Turn to page 2, Part 1: Listening. You are going to hear a phone call. Li Na is talking to her friend Amir. I will read it two times. First, look at the questions with me."
 
@@ -82,7 +82,7 @@ Read the eight questions aloud, once, without the answer choices: "Question 1. W
 
 **Say:** "Now listen. You can answer while you listen, and after."
 
-**Read it twice at about 130 words a minute, a little slower than normal speech.** Change your voice a little for the two speakers, but do not act. Do not stress the answers. Leave about 20 seconds between the two readings, and about 1 minute after the second reading for students to finish.
+**Read it twice clearly and steadily, a little slower than normal speech, with a short pause after each sentence.** Change your voice a little for the two speakers, but do not act. Do not stress the answers. Leave about 20 seconds between the two readings, and about 1 minute after the second reading for students to finish.
 
 [[keep]]
 > **A phone call**

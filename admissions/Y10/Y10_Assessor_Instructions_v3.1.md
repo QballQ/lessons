@@ -71,7 +71,7 @@ The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) c
 
 **Say (welcome):** "Hello, I am [name]. Thank you for coming today. These activities help us get to know you, so that we can help you when you join us. Some questions are easy and some are hard. Nobody gets everything right, and that is fine. Do your best. If you do not know an answer, go on to the next question. Please write all your answers in English. In the English parts, I can only repeat the instructions. In maths and science, I can read any question to you. You can use a calculator only in the last section of the maths, and I will give it to you then. Do you have any questions before we start?"
 
-**Pace of speech.** Year 10 students may still be learning English: speak steadily, close to normal speech, about 185 words a minute, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
+**Pace of speech.** Year 10 students may still be learning English: speak steadily and clearly, with a short pause after each sentence, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 #### Access rules (the same in every year group, with the version 2 calculator rule)
 
@@ -108,7 +108,7 @@ There are two parts, and you read each one twice. **Part A** is the version 1 ca
 
 **Part B. Say:** "Now turn to Part B, on page 4. You will hear a talk by a scientist, Professor Zhou Lan, about the climate of cities. I will read it two times. First, you have one minute to read questions 9 to 16." Wait one minute. **Say:** "Now listen." Read the Part B script. Wait 10 seconds. **Say:** "Now listen again." Read it again. Then give the student one more minute to finish.
 
-**Read both scripts twice at the steady pace in Section 2** (about 185 words a minute, close to normal speech). At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat sentences or explain anything. Read Part B at the same pace as Part A: it is meant to sound like a lesson.
+**Read both scripts twice at the steady pace in Section 2**. At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat sentences or explain anything. Read Part B at the same pace as Part A: it is meant to sound like a lesson.
 
 **Timing.** The recording takes about 16 minutes: Part A about 6 minutes 40 seconds and Part B about 9 minutes 20 seconds, with one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part. **Allow about 16 minutes** for the listening.
 
@@ -283,7 +283,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). The sentence reading rules are in `shared/Sentence_Reading_Guide`, the student reads from `shared/Sentence_Reading_Card`, and the results go on the **Reading front sheet**. All are in English.
 
 - **Sentence reading first** (3 to 5 minutes). Year 10 starts at **Level 9 (sentence 25)**. Follow the start, going-back and stopping rules and the scoring in the guide. It gives total points out of 72, an indicative reading age, meaning checks and a fluency rating, which you record on the Reading front sheet. If you already know the student is new to English, start at Level 1.
-- **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **future plans and aspirations** and the **Year 10 only** questions about IGCSE subject choices and starting a two-year course in English. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2 (about 185 words a minute), the same for every candidate.
+- **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **future plans and aspirations** and the **Year 10 only** questions about IGCSE subject choices and starting a two-year course in English. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2, the same for every candidate.
 - **Speaking band:** give it using the descriptors in the Interviewer guide, and record it on the Interview sheet. Pronunciation features of a speaker of Chinese do not lower the band if the student is easy to understand.
 
 ## 4. Maths (25 minutes, 30 marks)
