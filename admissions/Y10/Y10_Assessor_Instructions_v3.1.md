@@ -30,7 +30,7 @@ footer: Year 10 Admission Assessment v3.1 | Assessor instructions
 <colgroup><col style="width:6%"><col style="width:26%"><col style="width:9%"><col style="width:20%"><col style="width:23%"><col style="width:16%"></colgroup>
 <thead><tr><th>Order</th><th>Task</th><th>Minutes</th><th>Who leads</th><th>Materials</th><th>Print</th></tr></thead>
 <tr><td>1</td><td>Welcome</td><td>2</td><td>Assessor</td><td></td><td>These instructions</td></tr>
-<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 16<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
+<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 15<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
 <tr><td>3</td><td>Reading paper: Parts A and B (16 marks)</td><td>15</td><td>Student works alone</td><td>Student paper pages 6 to 9</td><td></td></tr>
 <tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student works alone</td><td>Student paper pages 10 to 11</td><td></td></tr>
 <tr><td>5</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
@@ -102,7 +102,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and you read each one twice. **Part A** is the version 1 careers day talk, unchanged: everyday listening. **Part B** is a short lesson-style talk with subject vocabulary, statistics, a correction and an implied opinion: the listening that IGCSE lessons need, at the level of a fluent speaker of 14 to 15.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y10/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 53 seconds and of Part B about 3 minutes 15 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y10/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 43 seconds and of Part B about 2 minutes 57 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a short talk by an engineer on a careers day at a school. I will read it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Read it again. Then give the student one more minute to finish.
 
@@ -110,7 +110,7 @@ There are two parts, and you read each one twice. **Part A** is the version 1 ca
 
 **Read both scripts twice at the steady pace in Section 2**. At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat sentences or explain anything. Read Part B at the same pace as Part A: it is meant to sound like a lesson.
 
-**Timing.** The recording takes about 16 minutes: Part A about 6 minutes 40 seconds and Part B about 9 minutes 20 seconds, with one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part. **Allow about 16 minutes** for the listening.
+**Timing.** The recording takes about 15 minutes: Part A about 6 minutes 15 seconds and Part B about 8 minutes 38 seconds, with one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part. **Allow about 15 minutes** for the listening.
 
 [[passage]]
 #### Script, Part A: Careers Day talk

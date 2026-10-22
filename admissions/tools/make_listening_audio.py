@@ -33,14 +33,14 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 PAUSE = 3.0            # [pause] in a script: about 3 seconds (assessor instructions)
 SPEED_MIN, SPEED_MAX = 0.6, 1.15
-FIXED_SPEED = 0.9        # voice speed for Years 4 to 9 (Year 10 was built first at 0.85)
-ITEM_SPEED = 0.85        # voice speed for the instructions of Years 1 to 3 (0.6 and 0.8 were too slow, 0.9 too fast, and a recogniser missed words at 0.5)
+FIXED_SPEED = 1.0        # voice speed for Years 4 to 10 (0.6 to 0.9 were tried and judged too slow)
+ITEM_SPEED = 1.0         # voice speed for the instructions of Years 1 to 3 (0.6 to 0.9 were tried and judged too slow)
 
 F1, F2, M1, M2 = 'bf_emma', 'bf_isabella', 'bm_george', 'bm_fable'
 
-# The voice speed is fixed: ITEM_SPEED for Years 1 to 3, FIXED_SPEED for Years 4 to 9, 0.85 for Year 10. What changes with
-# the year group is the pause: GAP is the pause after each sentence in seconds (a turn in a conversation gets twice as
-# much), longer for younger students. (Slower voice speeds were tried and judged too slow.)
+# The voice speed is the same for every year group (1.0: ITEM_SPEED for Years 1 to 3, FIXED_SPEED for Years 4 to 10). What
+# changes with the year group is the pause: GAP is the pause after each sentence in seconds (a turn in a conversation gets
+# twice as much), longer for younger students. (Slower voice speeds, 0.6 to 0.9, were tried and judged too slow.)
 PACE = {1: 120, 2: 120, 3: 120, 4: None, 5: None, 6: None, 7: None, 8: None, 9: None, 10: None}   # only Years 1 to 3 use it, for the pause inside an instruction
 GAP = {1: 1.0, 2: 1.0, 3: 0.9, 4: 0.8, 5: 0.7, 6: 0.65, 7: 0.55, 8: 0.5, 9: 0.45, 10: 0.45}
 ITEM_TIME = {1: 1.25, 2: 1.15, 3: 1.0}   # multiplier on the time given to respond to each instruction
@@ -99,7 +99,7 @@ YEARS = {
              intro='Now turn to Part B. You will hear a scientist, Dr Lin, giving a short talk to a class about tea. '
                    'You will hear it two times. First, you have one minute to read questions 9 to 16.',
              intro_merged=' You can also finish Part A.')]),
-    10: dict(kind='parts', announcer=M1, fixed_speed=0.85, parts=[
+    10: dict(kind='parts', announcer=M1, fixed_speed=FIXED_SPEED, parts=[
         dict(name='A', voices={}, default=F1, finish=60,
              intro='Turn to the Listening page. There are two parts. In Part A, you will hear a short talk by an '
                    'engineer on a careers day at a school. You will hear it two times. First, you have one minute '

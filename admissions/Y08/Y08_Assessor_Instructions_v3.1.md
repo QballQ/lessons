@@ -16,14 +16,14 @@ For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5) | about 15 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Part A: a conversation with two voices. Part B: a short talk. Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5) | about 14 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Part A: a conversation with two voices. Part B: a short talk. Can be done with a small group |
 | 3 | Reading paper (pages 6 to 9) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 10 to 11) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
 | 6 | Maths (pages 12 to 17) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A Fluency, Section B Word questions, Section C Applied problems |
 | 7 | Science (pages 18 to 20) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | Interviewer guide, Interview sheet, Reading front sheet, Sentence reading guide and card, a plain card | Sentence reading starts at **Level 7** (sentence 19) |
-| | **Total** | **about 95** | | | Including the welcome and the break. Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 94** | | | Including the welcome and the break. Plus the parent conversation (about 15 minutes, separate) |
 
 [[keep]]
 Marks go on the **grading sheet** (listening, writing, maths and science), the **Reading front sheet** (reading) and the **Interview sheet** (speaking).
@@ -82,11 +82,11 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 ## 3. English
 
-### 3.1 Listening (about 15 minutes with the recording, 16 marks)
+### 3.1 Listening (about 14 minutes with the recording, 16 marks)
 
 There are two parts. **Part A** is the everyday conversation from version 1, unchanged. **Part B** is a short talk at the level of a lesson for a fluent student of 12 to 13.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y08/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 2 minutes 6 seconds and of Part B about 2 minutes 44 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y08/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 35 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: Mei and Amir talk about the charity fair (questions 1 to 8, about 5 minutes)
 

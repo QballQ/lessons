@@ -16,14 +16,14 @@ For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7
 | Order | Task | Minutes | Who leads | Materials | Notes |
 |---|---|---|---|---|---|
 | 1 | Welcome | 2 | Assessor | Student paper, pencil, rubber, ruler | Script in Section 2 |
-| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | about 14 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Can be done with a small group |
+| 2 | Listening (paper pages 2 to 5): Part A, a phone message; Part B, a short talk | about 13 (recording) | Assessor plays the recording, or reads each script twice | These instructions, Section 3.1; the recording | Can be done with a small group |
 | 3 | Reading paper (pages 6 to 9) | 15 | Student works alone; assessor times | Clock or timer | Do not read the texts aloud |
 | 4 | Writing (pages 10 to 11) | 10 | Student works alone | | Choose one of two tasks |
 | 5 | Break | 5 | | Water | |
 | 6 | Maths (pages 12 to 17) | 25 | Student; assessor may read questions aloud | No calculator, no protractor | Section A fluency, Section B word questions, Section C applied problems |
 | 7 | Science (pages 18 to 20) | 8 | Student; assessor may read questions aloud | | |
 | 8 | Interview, opening with sentence reading | 15 | Interviewer, 1:1 | Interviewer guide, Interview sheet, Reading front sheet, Sentence reading guide and card, a plain card | Sentence reading starts at **Level 6** (sentence 16) |
-| | **Total** | **about 94** | | | Plus the parent conversation (about 15 minutes, separate) |
+| | **Total** | **about 93** | | | Plus the parent conversation (about 15 minutes, separate) |
 
 [[keep]]
 Marks go on the **grading sheet** (listening, writing, maths and science), the **Reading front sheet** (reading) and the **Interview sheet** (speaking).
@@ -71,11 +71,11 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 ## 3. English
 
-### 3.1 Listening (about 14 minutes with the recording, 16 marks)
+### 3.1 Listening (about 13 minutes with the recording, 16 marks)
 
-Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. The recording takes about 14 minutes: both scripts twice, one minute to read each set of questions and the time to finish.
+Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. The recording takes about 13 minutes: both scripts twice, one minute to read each set of questions and the time to finish.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y07/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 36 seconds and of Part B about 2 minutes 28 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y07/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 32 seconds and of Part B about 2 minutes 20 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: a phone message (questions 1 to 8, 8 marks)
 

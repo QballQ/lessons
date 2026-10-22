@@ -24,14 +24,14 @@ footer: Year 9 Admission Assessment v3.1 | Assessor instructions
 <colgroup><col style="width:5%"><col style="width:29%"><col style="width:8%"><col style="width:17%"><col style="width:24%"><col style="width:17%"></colgroup>
 <tr><th>Order</th><th>Task</th><th>Minutes</th><th>Who leads</th><th>Materials</th><th>Print</th></tr>
 <tr><td>1</td><td>Welcome</td><td>2</td><td>Assessor</td><td></td><td>These instructions</td></tr>
-<tr><td>2</td><td>Listening: Part A conversation (1 to 8), Part B academic talk (9 to 16) (16 marks)</td><td>about 15 (recording)</td><td>Assessor plays the recording, or reads the scripts (3.1)</td><td>Pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
+<tr><td>2</td><td>Listening: Part A conversation (1 to 8), Part B academic talk (9 to 16) (16 marks)</td><td>about 14 (recording)</td><td>Assessor plays the recording, or reads the scripts (3.1)</td><td>Pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
 <tr><td>3</td><td>Reading paper: Parts A and B (16 marks)</td><td>15</td><td>Student alone</td><td>Pages 6 to 9</td><td></td></tr>
 <tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student alone</td><td>Pages 10 to 11</td><td></td></tr>
 <tr><td>5</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
 <tr><td>6</td><td>Maths: A Fluency, B Word questions, C Applied problems (30 marks)</td><td>25</td><td>Student alone; you may read any question aloud</td><td>Pages 12 to 17; pencil, rubber, ruler; <b>scientific calculator in Section C only</b>; no protractor</td><td></td></tr>
 <tr><td>7</td><td>Science: 7 questions (10 marks)</td><td>8</td><td>Student alone; you may read any question aloud</td><td>Pages 18 to 21; no calculator</td><td></td></tr>
 <tr><td>8</td><td>Interview, opening with the Sentence Reading Screen at <b>Level 8</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card; a plain card to cover sentences</td><td>Reading front sheet; Interview sheet</td></tr>
-<tr><td></td><td><b>Total</b></td><td><b>about 95</b></td><td></td><td>A clock; a scientific calculator for each student</td><td>Final mark sheet</td></tr>
+<tr><td></td><td><b>Total</b></td><td><b>about 94</b></td><td></td><td>A clock; a scientific calculator for each student</td><td>Final mark sheet</td></tr>
 </table>
 
 [[keep]]
@@ -59,7 +59,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
 
-**Planning note.** The recording takes about 15 minutes: both texts twice, one minute to read each set of questions and the time to finish. Allow 15 minutes for the listening in the timetable.
+**Planning note.** The recording takes about 14 minutes: both texts twice, one minute to read each set of questions and the time to finish. Allow 14 minutes for the listening in the timetable.
 
 ## 2. Before you start
 
@@ -93,11 +93,11 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 ## 3. English
 
-### 3.1 Listening (about 15 minutes with the recording, 16 marks)
+### 3.1 Listening (about 14 minutes with the recording, 16 marks)
 
 There are two parts. **Part A** (questions 1 to 8) is the version 1 listening, unchanged: an everyday conversation. **Part B** (questions 9 to 16) is new: a short academic talk at the level of a lesson for a fluent English speaker of 13 to 14. Each part is read twice.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y09/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 2 minutes 6 seconds and of Part B about 2 minutes 51 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y09/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 41 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A.** **Say:** "Turn to the Listening page. There are two parts. First, Part A. You will hear two friends, Mei and Tom, talking about a science club trip. I will read it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Read it again.
 

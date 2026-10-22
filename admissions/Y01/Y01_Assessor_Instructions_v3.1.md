@@ -9,7 +9,7 @@ footer: Year 1 Admission Assessment v3.1 | Assessor instructions
 
 **Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y01_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
-For a child joining **Year 1** (about 5 years old). Most have finished the middle year of a Chinese kindergarten (中班); some come from bilingual kindergartens. The visit takes **about 46 minutes, 1:1**, and should feel like play. The child uses the Year 1 student booklet; you write the maths marks in the mark boxes on the child's pages and record everything else on the child's grading sheet, Reading front sheet and Interview sheet.
+For a child joining **Year 1** (about 5 years old). Most have finished the middle year of a Chinese kindergarten (中班); some come from bilingual kindergartens. The visit takes **about 45 minutes, 1:1**, and should feel like play. The child uses the Year 1 student booklet; you write the maths marks in the mark boxes on the child's pages and record everything else on the child's grading sheet, Reading front sheet and Interview sheet.
 
 ## 1. At a glance
 
@@ -17,13 +17,13 @@ For a child joining **Year 1** (about 5 years old). Most have finished the middl
 |---|---|---|---|---|---|---|
 | 1 | Welcome | 1 | Assessor | | page 1 (you write the child's name) | Section 2 |
 | 2 | Speaking: picture talk | 4 | Assessor | | page 2 | 3.1 |
-| 3 | Listening: follow instructions (recording) | about 5 | Assessor | crayons: red, blue, yellow, green | page 3 | 3.2 |
+| 3 | Listening: follow instructions (recording) | about 4 | Assessor | crayons: red, blue, yellow, green | page 3 | 3.2 |
 | 4 | Reading: Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor | shared cards, Early Reading Screen record sheets, Reading front sheet, levelled books, plain card | (separate cards) | 3.3 |
 | 5 | Movement break | 2 | Assessor | water | | Section 2 |
 | 6 | Maths | 12 | Assessor | 20 counters | pages 4 to 11 | Section 4 |
 | 7 | Writing | 5 | Assessor | pencil | pages 12 and 13 | 3.4 |
 | 8 | Play-based interview and goodbye | 6 | Interviewer (often the assessor) | crayons, Interviewer guide, Interview sheet | page 14 | Section 5 |
-| | **Total** | **about 46** (44 minutes of tasks, plus the welcome and break) | | | | |
+| | **Total** | **about 45** (43 minutes of tasks, plus the welcome and break) | | | | |
 
 The order follows the blueprint for Years 1 to 3. These instructions put all the English tasks together in Section 3, so **writing (3.4) comes after maths on the day**.
 
@@ -150,7 +150,7 @@ Give the speaking band from the picture talk on the grading sheet. The final spe
 - Do not count against the child: missing -s, -ed, "a" and "the"; "he" and "she" mixed up; accent features (l and r, light final consonants). These are normal for learners.
 - A child who names little in English but, as the parent describes, talks well in Chinese has an English barrier only. A child who says very little in either language may need a speech and language check: see the Interviewer guide and the Interview sheet.
 
-### 3.2 Listening: follow instructions (about 5 minutes with the recording, page 3)
+### 3.2 Listening: follow instructions (about 4 minutes with the recording, page 3)
 
 **Recording.** A recording of this test is in `audio/v3.1/Y01/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
 
