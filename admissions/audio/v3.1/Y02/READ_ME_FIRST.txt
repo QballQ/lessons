@@ -3,10 +3,10 @@ Year 2 Admission Assessment, version 3.1: listening recording
 Use with Y02_Student_Booklet_v3.1, Y02_Assessor_Instructions_v3.1 (Section 3, Listening) and Y02_Grading_Sheet_v3.1.
 
 TRACKS
-  Y02_Listening_Full_v3.1.mp3   4:40 minutes: the whole listening game, 10 items
+  Y02_Listening_Full_v3.1.mp3   4:30 minutes: the whole listening game, 10 items
 
 PACE
-  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 2 the voice speaks at about 185 words a minute while it gives an instruction, with a short pause between its parts.
+  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 2 the voice speaks at about 215 words a minute while it gives an instruction, with a short pause between its parts.
 
 HOW TO USE
   1. Have the student booklet open at the picture page (see the Year 2 instructions, Section 3.2), the crayons or
@@ -22,16 +22,16 @@ HOW TO USE
   6. Do not pause or repeat for any other reason. Use the same recording for every child.
 
 WHERE EACH ITEM STARTS (to repeat an item, go back to this time)
-  Item 1   0:32
-  Item 2   0:50
-  Item 3   1:06
-  Item 4   1:28
-  Item 5   1:50
-  Item 6   2:10
-  Item 7   2:34
-  Item 8   3:04
-  Item 9   3:35
-  Item 10  4:02
+  Item 1   0:30
+  Item 2   0:48
+  Item 3   1:03
+  Item 4   1:24
+  Item 5   1:46
+  Item 6   2:05
+  Item 7   2:28
+  Item 8   2:58
+  Item 9   3:27
+  Item 10  3:54
 
 VOICES AND VOLUME
   The voices are offline text-to-speech, British English. Play the recording on a speaker at a clear, comfortable

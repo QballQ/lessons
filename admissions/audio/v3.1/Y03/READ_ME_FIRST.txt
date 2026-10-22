@@ -3,10 +3,10 @@ Year 3 Admission Assessment, version 3.1: listening recording
 Use with Y03_Student_Booklet_v3.1, Y03_Assessor_Instructions_v3.1 (Section 3, Listening) and Y03_Grading_Sheet_v3.1.
 
 TRACKS
-  Y03_Listening_Full_v3.1.mp3   4:10 minutes: the whole listening game, 10 items
+  Y03_Listening_Full_v3.1.mp3   4:01 minutes: the whole listening game, 10 items
 
 PACE
-  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 3 the voice speaks at about 190 words a minute while it gives an instruction, with a short pause between its parts.
+  The voice speed is the same for the whole year group; the younger the student, the longer the pauses between sentences. In Year 3 the voice speaks at about 215 words a minute while it gives an instruction, with a short pause between its parts.
 
 HOW TO USE
   1. Have the student booklet open at the picture page (see the Year 3 instructions, Section 3.2), the crayons or
@@ -22,16 +22,16 @@ HOW TO USE
   6. Do not pause or repeat for any other reason. Use the same recording for every child.
 
 WHERE EACH ITEM STARTS (to repeat an item, go back to this time)
-  Item 1   0:31
-  Item 2   0:45
-  Item 3   0:59
-  Item 4   1:16
-  Item 5   1:34
-  Item 6   1:55
-  Item 7   2:14
-  Item 8   2:39
-  Item 9   3:06
-  Item 10  3:33
+  Item 1   0:29
+  Item 2   0:43
+  Item 3   0:57
+  Item 4   1:13
+  Item 5   1:30
+  Item 6   1:51
+  Item 7   2:09
+  Item 8   2:34
+  Item 9   2:59
+  Item 10  3:26
 
 VOICES AND VOLUME
   The voices are offline text-to-speech, British English. Play the recording on a speaker at a clear, comfortable
