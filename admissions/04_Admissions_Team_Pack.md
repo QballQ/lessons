@@ -14,7 +14,7 @@ This is the simple pack for the admissions team and the assessors. It says what 
 | Kind | What it is | When you print it |
 |---|---|---|
 | **Print once** (kept in a folder, laminated where marked) | The **assessor instructions** for the year group; the **interviewer guide** for the phase; `Sentence_Reading_Guide`; the reading cards (laminate); the Early Reading Screen guide and cards (Years 1 to 3); the **listening recording** (a sound file, nothing to print) | Once for the room, then reuse. No student name; nobody writes on them |
-| **Print for each candidate** (the candidate pack, `pdf/Candidate_Packs/`) | The **student paper** (or booklet); the **grading sheet**; the **Reading front sheet**; the **Interview sheet**; the **parent conversation record**; the **final mark sheet**. Years 1 to 3 also have the Early Reading Screen record sheets | One pack per candidate, double-sided |
+| **Print for each candidate** (the candidate pack, `pdf/Candidate_Packs/`) | The **student paper** (or booklet); the **grading sheet**; the **Reading front sheet**; the **Interview sheet**; the **parent conversation record**; the **final mark sheet**; the **assessment result and report** (the front cover that goes with the marked papers). Years 1 to 3 also have the Early Reading Screen record sheets | One pack per candidate, double-sided |
 | **Sent beforehand** | The previous homeroom teacher reference (English and Chinese) | When the family has given consent |
 
 **Who does what.**
@@ -36,6 +36,7 @@ This is the simple pack for the admissions team and the assessors. It says what 
 | 4 | Admissions | Gives the interviewer the Reading front sheet and the Interview sheet (Section 5) | |
 | 5 | Interviewer | Sentence reading and interview, then completes both sheets and returns them | Reading front sheet, Interview sheet |
 | 6 | Admissions, head of section | Thanks the family: **no results are given on the day**. Final mark sheet within two working days (Section 6) | Final mark sheet |
+| 7 | Admissions | After the head of section confirms the decision: completes the **assessment result and report** and gives it with the marked papers (Section 6) | Assessment result and report |
 
 ## 2. Before the visit
 
@@ -157,6 +158,8 @@ The interviewer's own folder, kept from one candidate to the next (nothing to pr
 
 **Within two working days: the final mark sheet** (`forms/Candidate_Summary_and_Decision`). Copy the scores from the grading sheet, the Reading front sheet and the Interview sheet, give the overall English band, tick one recommendation, write the support plan, and add the comments and the feedback for the family. The head of section confirms it. Admissions tells the family (start with the child's strengths).
 
+**The assessment result and report** (`forms/Assessment_Result_Cover`) is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from the final mark sheet **after the head of section has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
+
 **Entering it in the system.** One entry for each candidate, in this order, from the final mark sheet:
 
 | Field | From |
@@ -191,17 +194,17 @@ The interviewer's own folder, kept from one candidate to the next (nothing to pr
 
 ## 8. What each candidate pack contains
 
-| Year | Student paper or booklet | Grading sheet | Reading front sheet | Interview sheet | Parent conversation | Final mark sheet | **Candidate pack (pages)** | Was (pages) | Once: assessor folder (pages) |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | 14 | 2 | 2 | 2 | 3 | 3 | **46*** | 62 | 32 |
-| 2 | 13 | 2 | 2 | 2 | 3 | 3 | **46*** | 62 | 32 |
-| 3 | 11 | 2 | 2 | 2 | 3 | 3 | **44*** | 56 | 30 |
-| 4 | 20 | 1 | 2 | 2 | 3 | 3 | **34** | 48 | 20 |
-| 5 | 21 | 2 | 2 | 2 | 3 | 3 | **36** | 52 | 22 |
-| 6 | 21 | 2 | 2 | 2 | 3 | 3 | **36** | 52 | 22 |
-| 7 | 20 | 2 | 2 | 2 | 3 | 3 | **34** | 52 | 24 |
-| 8 | 20 | 2 | 2 | 2 | 3 | 3 | **34** | 52 | 26 |
-| 9 | 21 | 2 | 2 | 2 | 3 | 3 | **36** | 54 | 24 |
-| 10 | 21 | 2 | 2 | 2 | 3 | 3 | **36** | 58 | 28 |
+| Year | Student paper or booklet | Grading sheet | Reading front sheet | Interview sheet | Parent conversation | Final mark sheet | Result and report | **Candidate pack (pages)** | Was (pages) | Once: assessor folder (pages) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 14 | 2 | 2 | 2 | 3 | 3 | 2 | **48*** | 62 | 32 |
+| 2 | 13 | 2 | 2 | 2 | 3 | 3 | 2 | **48*** | 62 | 32 |
+| 3 | 11 | 2 | 2 | 2 | 3 | 3 | 2 | **46*** | 56 | 30 |
+| 4 | 20 | 1 | 2 | 2 | 3 | 3 | 2 | **36** | 48 | 20 |
+| 5 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 52 | 22 |
+| 6 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 52 | 22 |
+| 7 | 20 | 2 | 2 | 2 | 3 | 3 | 2 | **36** | 52 | 24 |
+| 8 | 20 | 2 | 2 | 2 | 3 | 3 | 2 | **36** | 52 | 26 |
+| 9 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 54 | 24 |
+| 10 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 58 | 28 |
 
-\* Years 1 to 3: includes the Early Reading Screen record (18 pages): print only the sheets you expect to use. Every part starts on a new sheet (a blank page is added after a part with an odd number of pages), so print the pack double-sided and separate the parts. The staff pages for each candidate (everything except the student paper and, in Years 1 to 3, the Early Reading Screen record) are now about 14 instead of about 32.
+\* Years 1 to 3: includes the Early Reading Screen record (18 pages): print only the sheets you expect to use. Every part starts on a new sheet (a blank page is added after a part with an odd number of pages), so print the pack double-sided and separate the parts. The staff pages for each candidate (everything except the student paper and, in Years 1 to 3, the Early Reading Screen record) are now about 16 instead of about 32, and they include the result cover.

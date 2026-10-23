@@ -46,6 +46,7 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 | Parent conversation | `forms/Parent_Conversation_Record` | Admissions or a senior teacher | Each candidate |
 | Previous homeroom teacher reference (English and Chinese) | `forms/Homeroom_Teacher_Reference` | Admissions | Sent before the visit |
 | **Final mark sheet** | `forms/Candidate_Summary_and_Decision`: the overview of the student with the English bands, maths and science, suitability, recommendation, support plan, comments and feedback | Assessor, interviewer, head of section, admissions | Each candidate |
+| **Assessment result and report** | `forms/Assessment_Result_Cover`: the one-sheet front cover for the student's marked papers (outcome, English bands and scores, maths and science, strengths, what to work on, support, next step; the band key on the back) | Admissions, after the head of section confirms the decision | Each candidate |
 
 `pdf/Candidate_Packs/` has one PDF for each year group with everything printed for each candidate, in order. `pdf/Print_Once/` has one assessor folder for each year group (the instructions, the interviewer guide, the sentence reading guide and, in Years 1 to 3, the Early Reading Screen guide) and the cards to laminate. Every year group uses **version 3.1** (October 2026); earlier versions are kept for reference only.
 
@@ -206,7 +207,8 @@ Start with the **overall English band** and the **year group**, then adjust for 
 | Reading front sheet | Interview sheet for the phase |
 | Interview sheet for the phase | Parent conversation record |
 | Parent conversation record | Final mark sheet (candidate summary and decision) |
-| Final mark sheet (candidate summary and decision) | Homeroom teacher reference (sent before the visit) |
+| Final mark sheet (candidate summary and decision) | Assessment result and report (front cover for the marked papers) |
+| Assessment result and report (front cover for the marked papers) | Homeroom teacher reference (sent before the visit) |
 | Homeroom teacher reference (sent before the visit) | |
 
 **Once for the room** (`pdf/Print_Once/`; no name, nothing is written on them)

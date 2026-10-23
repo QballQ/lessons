@@ -91,4 +91,4 @@ Year group confirmed: ______ (by age: yes / no; if no, give the reason and who a
 | Head of section | | | |
 | Admissions: outcome told to the family (start with the child's strengths) | | | |
 
-Papers filed together: [[tick]] grading sheet [[tick]] Reading front sheet [[tick]] Interview sheet [[tick]] parent conversation record [[tick]] marked student paper. &nbsp; Entered in the admissions system: date ____________ initials ________
+Papers filed together: [[tick]] grading sheet [[tick]] Reading front sheet [[tick]] Interview sheet [[tick]] parent conversation record [[tick]] marked student paper. &nbsp; Assessment result and report given with the marked papers on: ____________ &nbsp; Entered in the admissions system: date ____________ initials ________
