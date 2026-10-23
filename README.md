@@ -31,6 +31,10 @@ Stage 3 (complete): all content written (Weeks 1 to 10, all years), assessment p
 | `design/assets/` | HIK \| SVS logo files |
 | `design/paste-kit.html` | Every paste-ready block for Claude Design (rebuild with `python3 design/build_paste_kit.py`) |
 
+## Safeguarding module (separate project)
+
+`safeguarding_module/` is unrelated to the science programme. It is the handover pack for the safeguarding element of the school's in-house SIMS: a brief for the School Systems Manager, copy-paste build prompts for the coding agents, a tested Django app and Vue pages. Start at `safeguarding_module/README.md`.
+
 ## Series
 
 - **Year 7: Ice Engineers 冰雪工程师** - from thought experiments to a self-designed test of fibre-reinforced ice
