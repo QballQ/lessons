@@ -5,6 +5,7 @@ A CPOMS-style, ring-fenced safeguarding log to build into the school's in-house 
 | Path | What it is |
 |---|---|
 | `docs/01_Brief_for_IT.md` | Start here. Requirements, access model, field-by-field form spec, integration points, security controls, acceptance checklist, decisions needed |
+| `docs/01_Brief_for_IT.zh-CN.md` | The same brief in Simplified Chinese (中文版说明文件), for the IT colleague; the English file is authoritative where they differ |
 | `docs/02_AI_Build_Prompt.md` | Copy-paste prompts for DeepSeek or Claw: a master prompt plus seven phased prompts with done-when criteria and guardrails |
 | `docs/03_Data_Model_and_API.md` | Tables, fields, endpoints, payloads and permissions |
 | `backend/INSTALL.md` | Settings, URLs, migrations, seed and tests |

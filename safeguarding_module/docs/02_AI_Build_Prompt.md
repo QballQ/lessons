@@ -22,7 +22,8 @@ Your job is to integrate this app into SIMS, adapt the one adapter file to the r
 names, make the tests pass, wire the frontend, and build the three UI pieces that are
 specified but not coded (clickable body map figure, Blank Screen overlay, idle lock).
 
-Read docs/01_Brief_for_IT.md sections 3, 4 and 5 before touching code. The access rules in
+Read docs/01_Brief_for_IT.md sections 3, 4 and 5 before touching code (a Chinese translation is
+at docs/01_Brief_for_IT.zh-CN.md; the English file is authoritative where they differ). The access rules in
 section 3 are the product. Any change that lets a SIMS super admin, or a staff member
 without a safeguarding role, read a record they are not alerted to is a defect.
 
