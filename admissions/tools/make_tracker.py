@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """Build the admissions tracker workbook (v3.1).
 
-    python3 tools/make_tracker.py            # writes tracker/Admissions_Tracker_v3.1.xlsx and ..._DEMO.xlsx
-    python3 tools/make_tracker.py --out DIR  # somewhere else
+    python3 tools/make_tracker.py --recalc   # writes tracker/Admissions_Tracker_v3.1.xlsx and ..._DEMO.xlsx
+    python3 tools/make_tracker.py --out DIR  # somewhere else (without --recalc the formulas have no stored values)
 
 One sheet per year group (Year 1 to Year 10, identical columns, one row per candidate), a Dashboard
 and a Levels_Detail sheet that count the year sheets with plain COUNTIF/SUMPRODUCT formulas, a
 How_To_Use sheet and a Lists sheet for the drop-downs. The DEMO copy holds fictional candidates so
-that the Dashboard can be seen working. Run the recalculation step afterwards (see the end of this
-file) so that every formula carries a stored value.
+that the Dashboard can be seen working. Use --recalc so that every formula carries a stored value.
 
 House rules as for the rest of the pack: British English, no em or en dashes, no invented figures:
 the maximum marks come from the grading sheets, the reading age rule from the Sentence Reading Guide.
@@ -104,6 +103,7 @@ COLS = [
     ("sg", "Safeguarding referral made (Y)", "Interview and follow-up", 11, "yn", None),
     ("rec", "Recommendation", "Decision and family", 32, "rec", None),
     ("sup", "English support level", "Decision and family", 28, "sup", None),
+    ("rev", "Support review date", "Decision and family", 12, "date", None),
     ("d_conf", "Date decision confirmed", "Decision and family", 12, "date", None),
     ("d_told", "Date family told", "Decision and family", 12, "date", None),
     ("d_rep", "Date result and report given", "Decision and family", 12, "date", None),
@@ -843,6 +843,7 @@ HELP = {
     "sg": ("N", "Y if a safeguarding referral has been made. Y only: the detail belongs in the safeguarding file, never here.", "Final mark sheet, Section 3"),
     "rec": ("Offer with English support", "Choose one of the five recommendations.", "Final mark sheet, Section 4"),
     "sup": ("In-class support and monitoring", "Choose the English support level (offers only).", "Final mark sheet, Section 5"),
+    "rev": ("25/11/2026", "The date the English support or learning plan will be reviewed, for example after six weeks.", "Final mark sheet, Section 5"),
     "d_conf": ("14/10/2026", "The day the head of section confirmed the decision.", "Final mark sheet, sign-off"),
     "d_told": ("15/10/2026", "The day the family was told the outcome.", "Final mark sheet, sign-off"),
     "d_rep": ("15/10/2026", "The day the assessment result and report was given with the marked papers.", "Final mark sheet, filing line"),
@@ -1127,12 +1128,14 @@ def demo_data(seed=2026):
             elif stage == "Enrolled":
                 row["status"] = stage = "Family told"
             row["d_conf"] = assess_day + dt.timedelta(days=rnd.randint(2, 6))
+            if rec in OFFERS and row["sup"] != SUPPORT[3]:
+                row["rev"] = row["d_conf"] + dt.timedelta(days=42)
             if stage in ("Family told", "Enrolled"):
                 row["d_told"] = row["d_conf"] + dt.timedelta(days=rnd.randint(1, 4))
                 row["d_rep"] = row["d_told"]
             if row["d_conf"] > today or row.get("d_told", dt.date(2000, 1, 1)) > today:
                 row["status"] = "Assessed"
-                for k in ("rec", "sup", "d_conf", "d_told", "d_rep"):
+                for k in ("rec", "sup", "rev", "d_conf", "d_told", "d_rep"):
                     row.pop(k, None)
             if rnd.random() < 0.12:
                 row["notes"] = "Demo note: parents asked about the boarding timetable."
@@ -1179,11 +1182,30 @@ def build(path, demo=False):
     return data, flagged
 
 
+def recalc(path):
+    """Open and save the workbook in LibreOffice so that every formula carries a stored value
+    (previewers and phones show blanks for formulas without one; Excel recalculates anyway)."""
+    import shutil
+    import subprocess
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        subprocess.run(["soffice", "--headless", "--calc", "--convert-to", "xlsx:Calc MS Excel 2007 XML",
+                        "--outdir", td, str(path)], check=True, timeout=300,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        shutil.copy(Path(td) / Path(path).name, path)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=str(OUT_DEFAULT))
+    ap.add_argument("--recalc", action="store_true", help="store calculated values by passing the files through LibreOffice")
     a = ap.parse_args()
     out = Path(a.out)
-    build(out / f"Admissions_Tracker_{VERSION}.xlsx", demo=False)
-    _d, fl = build(out / f"Admissions_Tracker_{VERSION}_DEMO.xlsx", demo=True)
+    blank = out / f"Admissions_Tracker_{VERSION}.xlsx"
+    demo = out / f"Admissions_Tracker_{VERSION}_DEMO.xlsx"
+    build(blank, demo=False)
+    _d, fl = build(demo, demo=True)
+    if a.recalc:
+        recalc(blank)
+        recalc(demo)
     print("written to", out, "flagged demo rows:", fl)

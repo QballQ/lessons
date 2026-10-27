@@ -4,7 +4,7 @@ Admission assessments for students joining the English-medium international prog
 
 The student papers are in English only and are designed to be accessible: large clear type, pictures and diagrams, short sentences, worked examples, easy questions first.
 
-**Running a visit? Start with `04_Admissions_Team_Pack`** (the simple pack for the admissions team: what to print, day sheets with the minutes for each section, the listening recordings, the handover to the interviewer, filing). **`00_Admissions_Guide`** is the full overview and the evidence behind it (the PDFs are in `pdf/`).
+**Running a visit? Start with `04_Admissions_Team_Pack`** (the simple pack for the admissions team: what to print, day sheets with the minutes for each section, the listening recordings, the handover to the interviewer, filing). **`00_Admissions_Guide`** is the full overview and the evidence behind it (the PDFs are in `pdf/`). **`tracker/`** has the admissions tracker workbook: a sheet for each year group that feeds a dashboard of stages, levels, decisions and support.
 
 ## What to print
 
@@ -16,7 +16,7 @@ Papers are split into **reusable instructions** (printed once, no student name, 
 - **Once for the room:** `pdf/Print_Once/Year_05_Assessor_Folder_v3.1.pdf` has the assessor instructions, the interviewer guide for the phase, the sentence reading guide and (Years 1 to 3) the Early Reading Screen guide. `pdf/Print_Once/Reading_Cards_to_Laminate.pdf` has the cards students read from.
 - **Sent before the visit:** the homeroom teacher reference (`pdf/forms/`).
 - **Listening recordings:** `audio/v3.1/YNN/` has a recording for every year group (nothing to print).
-- Packs of earlier versions (v1, v2 and v3) are in `pdf/Candidate_Packs/superseded/`, for reference only. `download/` has the zips: `Admissions_Pack_v3.1.zip` (all the PDFs, organised for the admissions team) and three listening downloads (`Listening_Audio_Years_1_to_6_v3.1.zip`, `Listening_Audio_Years_7_to_8_v3.1.zip` and `Listening_Audio_Years_9_to_10_v3.1.zip`).
+- Packs of earlier versions (v1, v2 and v3) are in `pdf/Candidate_Packs/superseded/`, for reference only. `download/` has the zips: `Admissions_Pack_v3.1.zip` (all the PDFs, organised for the admissions team) the tracker in `7_ADMISSIONS_TRACKER`, and three listening downloads (`Listening_Audio_Years_1_to_6_v3.1.zip`, `Listening_Audio_Years_7_to_8_v3.1.zip` and `Listening_Audio_Years_9_to_10_v3.1.zip`).
 
 | Folder | Contents |
 |---|---|
@@ -26,6 +26,7 @@ Papers are split into **reusable instructions** (printed once, no student name, 
 | `03_Version_Register` | Which version each year group uses (now v3.1 for all), what each version contains, and a candidate log to record the version each student sat |
 | `04_Admissions_Team_Pack` | The simple pack for the admissions team: day sheets, handover to the interviewer, after the visit, the rules on one page |
 | `05_Overview_for_Review` | A two-page overview of how the pack is organised (folders, who uses what, a visit in six steps) with questions for someone reviewing the structure |
+| `tracker/` | **Admissions tracker** (`Admissions_Tracker_v3.1.xlsx`, for real candidates) and a `_DEMO` copy with fictional candidates to see it working. A sheet for each year group (Year 1 to Year 10, one row for each candidate, drop-downs, scores limited to the paper maximum, a data check) feeds a **Dashboard** (stages, English, maths and science bands, decisions and offers, reading ages, support) and a `Levels_Detail` sheet. The `How_To_Use` sheet has the instructions. Made with `tools/make_tracker.py` |
 | `Y01` to `Y10` | For each year group: the student booklet (Years 1 to 3) or student paper (Years 4 to 10), the **assessor instructions** (scripts, answers, mark schemes, band guides; reusable) and the **grading sheet** (the marks for one student). **Use the `_v3.1` files.** Files of earlier versions (no suffix for version 1, `_v2`, `_v3`) are kept for reference only |
 | `audio/` | Listening recordings made from the scripts with an offline text-to-speech voice, so every candidate hears the same delivery: `audio/v3.1/YNN/` for every year group (the full recording, and Part A and Part B separately in Years 7 to 10) with a `READ_ME_FIRST.txt`. The younger the student, the longer the pauses between sentences. Made with `tools/make_listening_audio.py` |
 | `shared/` | **Early Reading Screen** (Years 1 to 3, and older students new to English): reading cards, guide and record sheets. **Graded Sentence Reading Screen** (all years): the card, and the **sentence reading guide** (rules, the interviewer's copy of the sentences, reading ages) |
@@ -41,7 +42,7 @@ The Markdown files are the sources. After editing one, rebuild its PDF:
 python3 admissions/tools/build.py admissions/Y05/Y05_Student_Paper_v3.1.md
 ```
 
-`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown` and `pikepdf`, Node with Playwright and Chromium, and `pdftoppm` for page previews. After rebuilding, `python3 admissions/tools/make_packs.py` remakes the version 3.1 candidate packs and the print-once assessor folders. `python3 admissions/tools/make_listening_audio.py` (see its header) remakes the listening recordings. The sentence reading screen is generated from `tools/make_sentence_screen.py`, and the early reading screen from `tools/early_reading_screen/` (`ers_data.py` holds the words and passages), so edit them there and regenerate. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
+`python3 admissions/tools/build.py` with no file names rebuilds everything. It needs Python 3 with `markdown` and `pikepdf`, Node with Playwright and Chromium, and `pdftoppm` for page previews. After rebuilding, `python3 admissions/tools/make_packs.py` remakes the version 3.1 candidate packs and the print-once assessor folders. `python3 admissions/tools/make_listening_audio.py` (see its header) remakes the listening recordings. `python3 admissions/tools/make_tracker.py --recalc` remakes the two tracker workbooks (it needs `openpyxl` and LibreOffice; the maximum marks in it are copied from the grading sheets, so change them there first if a paper changes). The sentence reading screen is generated from `tools/make_sentence_screen.py`, and the early reading screen from `tools/early_reading_screen/` (`ers_data.py` holds the words and passages), so edit them there and regenerate. How the papers are written (house rules, shortcodes, diagram rules) is in `tools/STYLE_GUIDE.md`; the design of every year group's assessment is in `tools/BLUEPRINT.md`.
 
 ## Status
 

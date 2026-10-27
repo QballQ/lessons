@@ -160,17 +160,18 @@ The interviewer's own folder, kept from one candidate to the next (nothing to pr
 
 **The assessment result and report** (`forms/Assessment_Result_Cover`) is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from the final mark sheet **after the head of section has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
 
-**Entering it in the system.** One entry for each candidate, in this order, from the final mark sheet:
+**Entering it in the admissions tracker** (`tracker/Admissions_Tracker_v3.1.xlsx`, one workbook for all year groups). Give the candidate one row on the sheet for their year group (Year 1 to Year 10) and fill it in as the process moves on, changing the **Status** at each stage: Applied, Visit booked, Assessed, Decision confirmed, Family told, Enrolled, Withdrawn. It refuses a score above the paper's maximum, and its **Data check** column says what is missing. The **Dashboard** sheet shows, for every year group, where candidates are in the process, their levels, the decisions and offers, and the support needed: never type on it. The sheet `How_To_Use` has the instructions, and the `_DEMO` copy shows it working with fictional candidates.
 
-| Field | From |
+| Tracker columns | From |
 |---|---|
-| Candidate number, name, date of birth, year group applied for, paper version sat | Final mark sheet, top |
-| Listening, speaking, reading, reading aloud (indicative), writing, overall English: a band A to E for each | Final mark sheet, Section 1 |
-| Sentence reading points out of 72, reading age | Reading front sheet, Part 3 |
-| Maths score, band 1 to 4, number problems and word problems sub-scores; science score and band (Years 5 to 10) | Grading sheet, final mark sheet Section 2 |
-| Suitability ratings (any 1 flagged), follow-ups | Interview sheet, final mark sheet Section 3 |
-| Recommendation, support plan, review date | Final mark sheet, Sections 4 and 5 |
-| Date told to the family | Final mark sheet, sign-off |
+| Candidate details, dates applied and assessed, assessor, paper version | Application; final mark sheet, top |
+| English bands A to E (each skill and overall); listening, writing and reading paper scores, or the book band (Years 1 to 3) | Final mark sheet, Section 1; grading sheet |
+| Sentence reading points out of 72 (the reading age is worked out) | Reading front sheet, Part 3 |
+| Maths and science scores and bands, word problems score, English barrier | Grading sheet; final mark sheet, Section 2 |
+| Lowest suitability rating; follow-ups as **Y** only | Interview sheet; final mark sheet, Section 3 |
+| Recommendation, support level and review date; dates decided, family told, report given | Final mark sheet, Sections 4, 5 and 7 |
+
+The tracker holds children's personal data: keep it in the secure admissions folder, share it only with the admissions team and heads of section, and keep safeguarding and medical detail out of it.
 
 **Filing.** Keep the grading sheet, Reading front sheet, Interview sheet, parent conversation record and the marked student paper together with the final mark sheet, securely, for the period the school's data policy sets. Papers are confidential: do not let families photograph them or take them home.
 

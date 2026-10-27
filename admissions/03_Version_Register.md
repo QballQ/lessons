@@ -17,6 +17,8 @@ Earlier packs are in `pdf/Candidate_Packs/superseded/`, one folder per version, 
 
 **Document set, 21 October 2026.** The v3.1 assessor booklet has been split so that less is printed for each candidate: the **assessor instructions** (reusable, no student name) and a **grading sheet** for each student; the sentence reading record and the interview record are replaced by the **Reading front sheet**, the **Interview sheet** and reusable guides; the candidate summary is now the **final mark sheet**. The questions, mark schemes, marks and band guides are unchanged, so these documents keep the version number v3.1 and are used with the v3.1 student papers. The combined v3.1 assessor booklet and candidate packs printed on 20 October are withdrawn. Listening recordings for every year group are in `audio/v3.1/`, with longer pauses for younger students.
 
+**Admissions tracker, 27 October 2026.** `tracker/Admissions_Tracker_v3.1.xlsx` (and a `_DEMO` copy with fictional candidates) records each candidate on a sheet for their year group and feeds a dashboard of stages, levels, decisions and support. It is set up for the v3.1 papers: the maximum marks in row 3 of each year sheet are copied from the v3.1 grading sheets. If a later version changes a maximum mark, change row 3 on that year's sheet and `MAXES` in `tools/make_tracker.py`.
+
 ## The versions
 
 <table>
