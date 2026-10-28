@@ -8,7 +8,7 @@
     "File:Giant Pumpkins at Topsfield Fair 2011.jpg"
    ],
    "search": "giant pumpkin weigh-off",
-   "caption": "Giant pumpkins grown with extra light, water, warmth and mineral salts",
+   "caption": "A giant pumpkin, painted for a show",
    "use": "9A L1",
    "openverse": "giant pumpkin weigh",
    "alt_search": [
@@ -42,7 +42,7 @@
     "File:Krummholz Mount Washington.jpg"
    ],
    "search": "wind-shaped tree krummholz",
-   "caption": "A tree shaped by the wind: environmental variation",
+   "caption": "A tree bent and stunted by the wind (krummholz)",
    "use": "9A L1",
    "openverse": "krummholz",
    "alt_search": [
@@ -71,7 +71,7 @@
     "File:Pitaya cross section ed2.jpg"
    ],
    "search": "dragon fruit pitaya varieties",
-   "caption": "Dragon fruit: inherited variation in skin and flesh colour",
+   "caption": "A yellow-skinned dragon fruit (pitaya) with white flesh",
    "use": "9A L2",
    "openverse": "pitaya",
    "alt_search": [
@@ -155,25 +155,11 @@
     "File:Thylacine.jpg"
    ],
    "search": "thylacine 1933 Hobart zoo",
-   "caption": "A thylacine in 1933. The species was hunted to extinction; the last one died in 1936",
+   "caption": "The skull of a thylacine, a species hunted to extinction (Museums Victoria)",
    "use": "9A L6",
    "openverse": "Thylacinus cynocephalus",
    "alt_search": [
     "Tasmanian tiger museum"
-   ]
-  },
-  {
-   "key": "chicxulub_impact",
-   "prefer": [
-    "File:Chicxulub impact - artist impression.jpg",
-    "File:Impact event.jpg"
-   ],
-   "search": "asteroid impact artist impression dinosaurs",
-   "caption": "Artist's impression of the meteorite impact 65 million years ago",
-   "use": "9A L6",
-   "openverse": "asteroid impact illustration",
-   "alt_search": [
-    "meteor impact earth art"
    ]
   },
   {
@@ -212,7 +198,7 @@
     "File:Ursus maritimus us fish.jpg"
    ],
    "search": "polar bear on sea ice",
-   "caption": "Polar bears hunt from sea ice",
+   "caption": "A polar bear on sea ice",
    "use": "9A L6",
    "openverse": "Ursus maritimus",
    "alt_search": [
@@ -283,7 +269,7 @@
     "File:Charles Darwin by Julia Margaret Cameron, c. 1868.jpg"
    ],
    "search": "Charles Darwin portrait photograph",
-   "caption": "Charles Darwin (1809 to 1882)",
+   "caption": "A statue of Charles Darwin (1809 to 1882)",
    "use": "9A L7",
    "openverse": "Charles Darwin statue",
    "alt_search": [
@@ -297,7 +283,7 @@
     "File:Alfred Russel Wallace.jpg"
    ],
    "search": "Alfred Russel Wallace portrait",
-   "caption": "Alfred Russel Wallace (1823 to 1913)",
+   "caption": "Alfred Russel Wallace (1823 to 1913), portrait",
    "use": "9A L7",
    "openverse": "Alfred Russel Wallace portrait",
    "alt_search": [
@@ -353,7 +339,7 @@
     "File:Elodea canadensis photosynthesis.jpg"
    ],
    "search": "pondweed oxygen bubbles photosynthesis experiment",
-   "caption": "Pondweed producing oxygen bubbles in light",
+   "caption": "Canadian pondweed (Elodea), used to measure photosynthesis by counting oxygen bubbles",
    "use": "9B L1",
    "openverse": "Elodea canadensis",
    "alt_search": [
@@ -425,74 +411,17 @@
    "use": "9B L3"
   },
   {
-   "key": "wilted_plant",
-   "prefer": [
-    "File:Wilted plant.jpg",
-    "File:Wilting plant.jpg"
-   ],
-   "search": "wilted plant pot drooping leaves",
-   "caption": "A wilted plant",
-   "use": "9B L3",
-   "openverse": "wilted basil plant",
-   "alt_search": [
-    "drooping plant pot"
-   ]
-  },
-  {
-   "key": "iodine_starch_leaf",
-   "prefer": [
-    "File:Starch test on variegated leaf.jpg",
-    "File:Iodine test for starch in a leaf.jpg"
-   ],
-   "search": "iodine starch test variegated leaf",
-   "caption": "Testing a leaf for starch with iodine solution",
-   "use": "9B L4",
-   "openverse": "iodine starch test leaf",
-   "alt_search": [
-    "starch test leaf",
-    "testing leaf for starch"
-   ]
-  },
-  {
-   "key": "potato_iodine",
-   "prefer": [
-    "File:Iodine test potato.jpg",
-    "File:Starch iodine potato.jpg"
-   ],
-   "search": "potato iodine starch test blue black",
-   "caption": "Potato turns blue-black with iodine: it contains starch",
-   "use": "9B L4",
-   "openverse": "iodine potato starch",
-   "alt_search": [
-    "iodine test starch"
-   ]
-  },
-  {
    "key": "germination",
    "prefer": [
     "File:Bean germination.jpg",
     "File:Germination of bean seed.jpg"
    ],
    "search": "bean seed germination stages",
-   "caption": "A bean seed germinating",
+   "caption": "Germinating seeds (botanical drawing)",
    "use": "9B L4",
    "openverse": "germinating seed",
    "alt_search": [
     "bean seedling sprouting"
-   ]
-  },
-  {
-   "key": "benedicts_test",
-   "prefer": [
-    "File:Benedict's test.jpg",
-    "File:Benedicts reagent test results.jpg"
-   ],
-   "search": "Benedict's reagent test glucose colour",
-   "caption": "Benedict's test for glucose: blue to orange-red when heated",
-   "use": "9B L4",
-   "openverse": "Benedict's test",
-   "alt_search": [
-    "Benedict's reagent"
    ]
   },
   {
@@ -562,7 +491,7 @@
     "File:Triticum aestivum varieties.jpg"
    ],
    "search": "wheat varieties comparison field trial",
-   "caption": "Different wheat varieties",
+   "caption": "A modern wheat variety growing in a field",
    "use": "9B L5",
    "openverse": "wheat ears field",
    "alt_search": [
@@ -576,7 +505,7 @@
     "File:IUCN Red List categories.svg"
    ],
    "search": "IUCN Red List categories diagram",
-   "caption": "IUCN Red List categories",
+   "caption": "The ring-tailed lemur is listed as Endangered on the IUCN Red List",
    "use": "9B L5",
    "openverse": "IUCN Red List endangered",
    "alt_search": [
@@ -678,7 +607,7 @@
     "File:Broad Street pump replica.jpg"
    ],
    "search": "Broad Street pump cholera John Snow",
-   "caption": "The Broad Street pump: cholera spread by water contaminated with sewage (1854)",
+   "caption": "The John Snow pub on Broadwick (Broad) Street, Soho, next to the site of the cholera pump",
    "use": "9C L1",
    "openverse": "John Snow pump Soho",
    "alt_search": [
@@ -701,27 +630,13 @@
    ]
   },
   {
-   "key": "chickenpox",
-   "prefer": [
-    "File:Varicela Aranzales.jpg",
-    "File:Chickenpox Adult back.jpg"
-   ],
-   "search": "chickenpox rash varicella",
-   "caption": "The rash of chickenpox, a disease caused by a virus",
-   "use": "9C L1",
-   "openverse": "chickenpox rash arm",
-   "alt_search": [
-    "varicella spots skin"
-   ]
-  },
-  {
    "key": "phagocyte_bacteria",
    "prefer": [
     "File:Neutrophil with anthrax copy.jpg",
     "File:Phagocytosis.jpg"
    ],
    "search": "neutrophil engulfing bacteria scanning electron micrograph",
-   "caption": "A phagocyte engulfing bacteria (electron micrograph, coloured)",
+   "caption": "Bacteria (coloured electron micrograph)",
    "use": "9C L2",
    "openverse": "neutrophil phagocytosis",
    "alt_search": [
@@ -754,45 +669,17 @@
    ]
   },
   {
-   "key": "neuron",
-   "prefer": [
-    "File:Neuron Hand-tuned.svg",
-    "File:Neuron.svg"
-   ],
-   "search": "neuron diagram labelled",
-   "caption": "A nerve cell (neurone)",
-   "use": "9C L3",
-   "openverse": "neurons microscope",
-   "alt_search": [
-    "pyramidal neuron"
-   ]
-  },
-  {
    "key": "nervous_system",
    "prefer": [
     "File:Nervous system diagram-en.svg",
     "File:TE-Nervous system diagram.svg"
    ],
    "search": "human nervous system diagram brain spinal cord nerves",
-   "caption": "The human nervous system",
+   "caption": "An old anatomical drawing of the human nervous system",
    "use": "9C L3",
    "openverse": "nervous system illustration",
    "alt_search": [
     "brain and spinal cord illustration"
-   ]
-  },
-  {
-   "key": "endocrine_glands",
-   "prefer": [
-    "File:Illu endocrine system New.png",
-    "File:Illu endocrine system.png"
-   ],
-   "search": "endocrine system glands diagram",
-   "caption": "Glands that make hormones",
-   "use": "9C L3",
-   "openverse": "endocrine system illustration",
-   "alt_search": [
-    "thyroid gland illustration"
    ]
   },
   {
@@ -817,7 +704,7 @@
     "File:Penicillin inhibition.jpg"
    ],
    "search": "Penicillium mould agar plate bacteria inhibition",
-   "caption": "Penicillium mould stops bacteria growing on an agar plate",
+   "caption": "Penicillium mould growing on an orange",
    "use": "9C L4",
    "openverse": "penicillin petri dish",
    "alt_search": [
@@ -831,25 +718,11 @@
     "File:Fermenter.jpg"
    ],
    "search": "industrial bioreactor fermenter stainless steel",
-   "caption": "An industrial fermenter",
+   "caption": "A fermentation tank in a brewery: industrial fermenters look like this",
    "use": "9C L4",
    "openverse": "brewery fermentation tanks",
    "alt_search": [
     "stainless steel fermenter"
-   ]
-  },
-  {
-   "key": "quadrat",
-   "prefer": [
-    "File:Quadrat sampling.jpg",
-    "File:Quadrat.jpg"
-   ],
-   "search": "quadrat sampling grassland ecology",
-   "caption": "A quadrat used to sample plants",
-   "use": "9C L6",
-   "openverse": "quadrat survey grass",
-   "alt_search": [
-    "ecology fieldwork quadrat students"
    ]
   },
   {
@@ -889,7 +762,7 @@
     "File:Lion and gazelle Serengeti.jpg"
    ],
    "search": "lioness hunting gazelle savanna",
-   "caption": "Predation is a biotic factor",
+   "caption": "A lioness stalking prey: predation is a biotic factor",
    "use": "9C L6",
    "openverse": "lioness stalking",
    "alt_search": [
@@ -944,25 +817,11 @@
     "File:Small intestine villi micrograph.jpg"
    ],
    "search": "small intestine villi micrograph",
-   "caption": "Villi give the small intestine a large surface area",
+   "caption": "Villi lining the small intestine (microscope view)",
    "use": "9C L7",
    "openverse": "intestinal villi histology",
    "alt_search": [
     "small intestine histology"
-   ]
-  },
-  {
-   "key": "airport_crowd",
-   "prefer": [
-    "File:Airport terminal crowd.jpg",
-    "File:Busy airport.jpg"
-   ],
-   "search": "busy airport terminal crowd travellers",
-   "caption": "Rapid international travel can spread a disease across the world",
-   "use": "9C L7",
-   "openverse": "airport terminal passengers",
-   "alt_search": [
-    "airport queue passengers"
    ]
   },
   {

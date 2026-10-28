@@ -7,11 +7,24 @@
  "title": "Gas exchange in leaves",
  "title_cn": "叶片的气体交换",
  "slug": "Gas_exchange_in_leaves",
- "book": {"pages": "25", "spread": "9Bb Plant adaptations (carbon dioxide, stomata and gas exchange)"},
- "workbook": {"pages": "18"},
+ "book": {
+  "pages": "25",
+  "spread": "9Bb Plant adaptations (carbon dioxide, stomata and gas exchange)"
+ },
+ "workbook": {
+  "pages": "18"
+ },
  "oak": [
-  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Adaptations of plants for photosynthesis: gas exchange and stomata", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/adaptations-of-plants-for-photosynthesis-gas-exchange-and-stomata"},
-  {"unit": "Diffusion, Year 7", "lesson": "Diffusion through the cell membrane", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/diffusion/lessons/diffusion-through-the-cell-membrane"}
+  {
+   "unit": "Plant nutrition and photosynthesis, Year 9",
+   "lesson": "Adaptations of plants for photosynthesis: gas exchange and stomata",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/adaptations-of-plants-for-photosynthesis-gas-exchange-and-stomata"
+  },
+  {
+   "unit": "Diffusion, Year 7",
+   "lesson": "Diffusion through the cell membrane",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/diffusion/lessons/diffusion-through-the-cell-membrane"
+  }
  ],
  "big_idea": "Gases enter and leave a leaf by diffusion through stomata, which guard cells open in the light and close at night.",
  "goals": [
@@ -19,15 +32,51 @@
   "I can explain how temperature and concentration difference affect diffusion, and why a plant loses more water on a hot day."
  ],
  "keywords": [
-  {"en": "stomata", "cn": "气孔", "meaning": "tiny holes in a leaf that let gases in and out (one is a stoma)"},
-  {"en": "guard cell", "cn": "保卫细胞", "meaning": "one of the pair of cells that opens and closes a stoma"},
-  {"en": "diffusion", "cn": "扩散", "meaning": "the overall movement of particles from where they are more concentrated to where they are less concentrated"},
-  {"en": "concentration", "cn": "浓度", "meaning": "how many particles of a substance there are in a certain space"},
-  {"en": "gas exchange", "cn": "气体交换", "meaning": "the swapping of gases between a leaf and the air"},
-  {"en": "water vapour", "cn": "水蒸气", "meaning": "water in the form of a gas"},
-  {"en": "evaporation", "cn": "蒸发", "meaning": "a liquid turning into a gas"},
-  {"en": "wilt", "cn": "枯萎", "meaning": "to droop because the cells have too little water"},
-  {"en": "epidermis", "cn": "表皮", "meaning": "the outer layer of cells of a leaf"}
+  {
+   "en": "stomata",
+   "cn": "气孔",
+   "meaning": "tiny holes in a leaf that let gases in and out (one is a stoma)"
+  },
+  {
+   "en": "guard cell",
+   "cn": "保卫细胞",
+   "meaning": "one of the pair of cells that opens and closes a stoma"
+  },
+  {
+   "en": "diffusion",
+   "cn": "扩散",
+   "meaning": "the overall movement of particles from where they are more concentrated to where they are less concentrated"
+  },
+  {
+   "en": "concentration",
+   "cn": "浓度",
+   "meaning": "how many particles of a substance there are in a certain space"
+  },
+  {
+   "en": "gas exchange",
+   "cn": "气体交换",
+   "meaning": "the swapping of gases between a leaf and the air"
+  },
+  {
+   "en": "water vapour",
+   "cn": "水蒸气",
+   "meaning": "water in the form of a gas"
+  },
+  {
+   "en": "evaporation",
+   "cn": "蒸发",
+   "meaning": "a liquid turning into a gas"
+  },
+  {
+   "en": "wilt",
+   "cn": "枯萎",
+   "meaning": "to droop because the cells have too little water"
+  },
+  {
+   "en": "epidermis",
+   "cn": "表皮",
+   "meaning": "the outer layer of cells of a leaf"
+  }
  ],
  "misconceptions": [
   "Gases are 'sucked in' or 'breathed in' by the leaf. Particles move by themselves; diffusion is the overall movement down a concentration gradient and needs no pulling.",
@@ -35,15 +84,61 @@
   "Plants only give out oxygen. In daylight more oxygen leaves than enters, but carbon dioxide and water vapour also pass through the stomata, and at night a plant takes in oxygen."
  ],
  "safety": "Clear nail varnish: use in a ventilated room, keep away from flames, do not breathe the fumes, wash hands afterwards. Microscopes: carry with two hands; do not touch the lamp. Sticky tape and leaves are low hazard.",
- "equipment": ["Per pair: a leaf with a smooth underside (geranium, spider plant, busy lizzie or similar), clear nail varnish, clear sticky tape, scissors, microscope slide, microscope", "Prepared slide of a leaf epidermis as a back-up", "Worksheets (standard and Chinese key words versions)"],
+ "equipment": [
+  "Per pair: a leaf with a smooth underside (geranium, spider plant, busy lizzie or similar), clear nail varnish, clear sticky tape, scissors, microscope slide, microscope",
+  "Prepared slide of a leaf epidermis as a back-up",
+  "Worksheets (standard and Chinese key words versions)"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "Shows the stoma micrograph and the three questions.", "students": "Answer in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
-  {"phase": "Hook", "min": 3, "teacher": "Two identical plants, one in a hot place has wilted. Why? Collects ideas, no answer yet.", "students": "Pair talk, share.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 8, "teacher": "Teaches stomata and guard cells, diffusion, gas exchange in the leaf, water loss. Quick check.", "students": "Answer the quick check.", "resource": "Slides 5 to 9"},
-  {"phase": "Do", "min": 16, "teacher": "Safety slide, then the nail varnish peel practical. Circulates: checks the peel is thin and the slide is in focus. Worksheet Core while varnish dries.", "students": "Make and view the epidermis peel; draw a stoma; count stomata; then Core, Stretch, Challenge.", "resource": "Slides 10 to 12, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "Back to the hook: why did the hot plant wilt? Takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 13"},
-  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook page 18.", "students": "Complete the exit ticket alone.", "resource": "Slides 14 to 15, worksheet strip"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "Shows the stoma micrograph and the three questions.",
+   "students": "Answer in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the two goals; points to the key words.",
+   "students": "Find the key words box on the worksheet.",
+   "resource": "Slide 3, worksheet header"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "Two identical plants, one in a hot place has wilted. Why? Collects ideas, no answer yet.",
+   "students": "Pair talk, share.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 8,
+   "teacher": "Teaches stomata and guard cells, diffusion, gas exchange in the leaf, water loss. Quick check.",
+   "students": "Answer the quick check.",
+   "resource": "Slides 5 to 9"
+  },
+  {
+   "phase": "Do",
+   "min": 16,
+   "teacher": "Safety slide, then the nail varnish peel practical. Circulates: checks the peel is thin and the slide is in focus. Worksheet Core while varnish dries.",
+   "students": "Make and view the epidermis peel; draw a stoma; count stomata; then Core, Stretch, Challenge.",
+   "resource": "Slides 10 to 12, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "Back to the hook: why did the hot plant wilt? Takes answers with the frames.",
+   "students": "Pair discussion, share with a frame.",
+   "resource": "Slide 13"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 4,
+   "teacher": "Collects exit tickets; summary; sets Workbook page 18.",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slides 14 to 15, worksheet strip"
+  }
  ],
  "tiers": {
   "core": "Label and describe the open and closed stoma; gap fill on diffusion into the leaf; true or false on diffusion; record the stomata count.",
@@ -51,88 +146,349 @@
   "challenge": "Suggest why most stomata are on the lower surface; estimate the number of stomata on a leaf from a count."
  },
  "slides": [
-  {"type": "title", "subtitle": "A leaf has thousands of tiny doors. Who opens them, and what goes in and out?", "image": "stoma",
-   "notes": "Lesson 3 of 9B. Last lesson: water, mineral salts and light. Today: carbon dioxide in, oxygen and water vapour out, through stomata."},
-  {"type": "donow", "title": "Do Now: a leaf under the microscope", "minutes": 4, "image": "stoma", "caption": "A hole in the lower surface of a tomato leaf",
-   "prompt": ["1. What is this hole in the leaf surface called?", "2. Name two gases that pass through it.", "3. Predict when the hole is shut: day or night?"],
-   "notes": "Answers: a stoma (plural stomata); carbon dioxide and oxygen (also water vapour); shut at night. Most students will have met stomata in Year 8. The two curved cells either side are the guard cells."},
-  {"type": "today", "title": "Today",
-   "notes": "Read each goal aloud. Point out that today has a short practical, so the Do phase is longer."},
-  {"type": "hook", "title": "Same water, same light. Why did this one wilt?", "image": "wilted_plant", "caption": "The plant that was kept in a hot place",
+  {
+   "type": "title",
+   "subtitle": "A leaf has thousands of tiny doors. Who opens them, and what goes in and out?",
+   "image": "stoma",
+   "notes": "Lesson 3 of 9B. Last lesson: water, mineral salts and light. Today: carbon dioxide in, oxygen and water vapour out, through stomata."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: a leaf under the microscope",
+   "minutes": 4,
+   "image": "stoma",
+   "caption": "A hole in the lower surface of a tomato leaf",
+   "prompt": [
+    "1. What is this hole in the leaf surface called?",
+    "2. Name two gases that pass through it.",
+    "3. Predict when the hole is shut: day or night?"
+   ],
+   "notes": "Answers: a stoma (plural stomata); carbon dioxide and oxygen (also water vapour); shut at night. Most students will have met stomata in Year 8. The two curved cells either side are the guard cells."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read each goal aloud. Point out that today has a short practical, so the Do phase is longer."
+  },
+  {
+   "type": "hook",
+   "title": "Same water, same light. Why did this one wilt?",
    "question": "Two identical pot plants were given the same light and the same water. One was kept in a cool room and one in a hot room. The one in the hot room wilted. Why?",
-   "text": ["Talk to a partner. We come back to this at the end."],
-   "notes": "Do not answer yet. Expected by the end: at a higher temperature particles move faster, so water evaporates faster inside the leaf and water vapour diffuses out faster through the stomata; the roots cannot replace it fast enough, so the cells sag and the plant wilts."},
-  {"type": "diagram", "title": "Stomata and guard cells", "image": "diagram:stoma_open_closed", "vocab": ["stomata", "guard cell", "epidermis"],
+   "text": [
+    "Talk to a partner. We come back to this at the end."
+   ],
+   "notes": "Do not answer yet. Expected by the end: at a higher temperature particles move faster, so water evaporates faster inside the leaf and water vapour diffuses out faster through the stomata; the roots cannot replace it fast enough, so the cells sag and the plant wilts."
+  },
+  {
+   "type": "diagram",
+   "title": "Stomata and guard cells",
+   "image": "diagram:stoma_open_closed",
+   "vocab": [
+    "stomata",
+    "guard cell",
+    "epidermis"
+   ],
    "text": "Stomata are tiny holes in the epidermis, mostly on the lower surface. Each is opened and closed by a pair of guard cells.",
    "key_idea": "Open in the light, when the plant needs carbon dioxide for photosynthesis. Shut at night, which saves water.",
-   "notes": "Guard cells swell with water and curve apart in the light, opening the pore; they lose water and straighten at night, closing it. Ask: why would a plant want its stomata shut at night? No photosynthesis, so no need for carbon dioxide, and shutting saves water."},
-  {"type": "diagram", "title": "Diffusion", "image": "diagram:diffusion_gradient", "vocab": ["diffusion", "concentration"],
+   "notes": "Guard cells swell with water and curve apart in the light, opening the pore; they lose water and straighten at night, closing it. Ask: why would a plant want its stomata shut at night? No photosynthesis, so no need for carbon dioxide, and shutting saves water."
+  },
+  {
+   "type": "diagram",
+   "title": "Diffusion",
+   "image": "diagram:diffusion_gradient",
+   "vocab": [
+    "diffusion",
+    "concentration"
+   ],
    "text": "Particles move randomly all the time. Overall they spread from where they are more concentrated to where they are less concentrated.",
    "key_idea": "Diffusion is faster at higher temperatures (particles move faster) and when the concentration difference is bigger.",
-   "notes": "Spray a little scent at the front and ask who smells it first. No one pulls the particles across the room: they spread by themselves. Stress that particles still move once they are evenly spread; there is just no overall change."},
-  {"type": "learn", "title": "Gas exchange in a leaf", "image": "diagram:leaf_section", "vocab": ["gas exchange", "stomata", "diffusion"],
-   "text": ["In the light, photosynthesis uses up carbon dioxide inside the leaf, so its concentration falls.", "Carbon dioxide diffuses in from the air through open stomata.", "Oxygen made by photosynthesis builds up and diffuses out.", "Leaves are thin, so gases do not have to diffuse far to reach every cell.", "This swapping of gases is gas exchange."],
+   "notes": "Spray a little scent at the front and ask who smells it first. No one pulls the particles across the room: they spread by themselves. Stress that particles still move once they are evenly spread; there is just no overall change."
+  },
+  {
+   "type": "learn",
+   "title": "Gas exchange in a leaf",
+   "image": "diagram:leaf_section",
+   "vocab": [
+    "gas exchange",
+    "stomata",
+    "diffusion"
+   ],
+   "text": [
+    "In the light, photosynthesis uses up carbon dioxide inside the leaf, so its concentration falls.",
+    "Carbon dioxide diffuses in from the air through open stomata.",
+    "Oxygen made by photosynthesis builds up and diffuses out.",
+    "Leaves are thin, so gases do not have to diffuse far to reach every cell.",
+    "This swapping of gases is gas exchange."
+   ],
    "key_idea": "Photosynthesis keeps the carbon dioxide concentration inside the leaf low, so carbon dioxide keeps diffusing in.",
-   "notes": "Follow one carbon dioxide molecule: air, through a stoma, into an air space in the spongy layer, into a palisade cell, into a chloroplast. Ask: what happens to the direction of oxygen movement at night? Reversed: the plant respires, so oxygen diffuses in and carbon dioxide out."},
-  {"type": "learn", "title": "Losing water", "image": "wilted_plant", "caption": "A wilted plant", "vocab": ["water vapour", "evaporation", "wilt"],
-   "text": ["Water evaporates from the cells inside the leaf.", "Water vapour diffuses out through open stomata.", "This is faster when it is hot (particles move faster) and when the air outside is dry or windy (bigger concentration difference).", "If the roots cannot replace the water, the cells sag and the plant wilts."],
+   "notes": "Follow one carbon dioxide molecule: air, through a stoma, into an air space in the spongy layer, into a palisade cell, into a chloroplast. Ask: what happens to the direction of oxygen movement at night? Reversed: the plant respires, so oxygen diffuses in and carbon dioxide out."
+  },
+  {
+   "type": "learn",
+   "title": "Losing water",
+   "vocab": [
+    "water vapour",
+    "evaporation",
+    "wilt"
+   ],
+   "text": [
+    "Water evaporates from the cells inside the leaf.",
+    "Water vapour diffuses out through open stomata.",
+    "This is faster when it is hot (particles move faster) and when the air outside is dry or windy (bigger concentration difference).",
+    "If the roots cannot replace the water, the cells sag and the plant wilts."
+   ],
    "key_idea": "Open stomata let carbon dioxide in but water out. Closing them at night saves water.",
-   "notes": "Link to the hook. Why does wind speed up water loss? It blows away the water vapour near the leaf, so the concentration outside stays low and the difference stays large. The waxy cuticle stops water leaving anywhere except the stomata."},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
-   "questions": ["Which cells open and close a stoma?", "Is a stoma usually open or shut at night?", "Diffusion: from low to high concentration, or high to low?", "Name two things that make diffusion faster.", "In the light, which gas diffuses INTO a leaf?"],
-   "notes": "Answers: guard cells; shut; high to low; higher temperature and a bigger concentration difference; carbon dioxide. Then the safety slide before the practical."},
-  {"type": "safety", "title": "Safety: nail varnish peel", "lines": ["Clear nail varnish gives off fumes: keep the lid on when not in use and keep it away from any flame.", "Do not sniff the varnish. Open a window if the room smells strongly.", "Wash your hands at the end.", "Carry the microscope with two hands. Do not touch the lamp.", "Scissors: cut away from your fingers."],
-   "notes": "Read each line aloud. One bottle of varnish per pair, lids on between uses. Nobody with a strong reaction to solvents should paint; they view the prepared slide instead."},
-  {"type": "practical", "title": "Looking at stomata", "aim": "To see stomata and guard cells on the lower surface of a leaf and count them.",
-   "equipment": ["leaf with a smooth underside", "clear nail varnish", "clear sticky tape", "scissors", "microscope slide", "microscope", "worksheet"],
-   "method": ["Paint a thin layer of clear nail varnish on the lower surface of the leaf, about 1 cm square.", "Leave it to dry for about 5 minutes. Do the Core questions while you wait.", "Press a piece of clear sticky tape over the dry varnish, then peel the tape off slowly. The varnish layer comes with it.", "Stick the tape, varnish side down, on a microscope slide.", "Look at it on low power, then medium power. Find a stoma with its two guard cells.", "Draw one stoma and its guard cells. Count the stomata you can see in the field of view, three times, and record the counts."],
+   "notes": "Link to the hook. Why does wind speed up water loss? It blows away the water vapour near the leaf, so the concentration outside stays low and the difference stays large. The waxy cuticle stops water leaving anywhere except the stomata."
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": [
+    "Which cells open and close a stoma?",
+    "Is a stoma usually open or shut at night?",
+    "Diffusion: from low to high concentration, or high to low?",
+    "Name two things that make diffusion faster.",
+    "In the light, which gas diffuses INTO a leaf?"
+   ],
+   "notes": "Answers: guard cells; shut; high to low; higher temperature and a bigger concentration difference; carbon dioxide. Then the safety slide before the practical."
+  },
+  {
+   "type": "safety",
+   "title": "Safety: nail varnish peel",
+   "lines": [
+    "Clear nail varnish gives off fumes: keep the lid on when not in use and keep it away from any flame.",
+    "Do not sniff the varnish. Open a window if the room smells strongly.",
+    "Wash your hands at the end.",
+    "Carry the microscope with two hands. Do not touch the lamp.",
+    "Scissors: cut away from your fingers."
+   ],
+   "notes": "Read each line aloud. One bottle of varnish per pair, lids on between uses. Nobody with a strong reaction to solvents should paint; they view the prepared slide instead."
+  },
+  {
+   "type": "practical",
+   "title": "Looking at stomata",
+   "aim": "To see stomata and guard cells on the lower surface of a leaf and count them.",
+   "equipment": [
+    "leaf with a smooth underside",
+    "clear nail varnish",
+    "clear sticky tape",
+    "scissors",
+    "microscope slide",
+    "microscope",
+    "worksheet"
+   ],
+   "method": [
+    "Paint a thin layer of clear nail varnish on the lower surface of the leaf, about 1 cm square.",
+    "Leave it to dry for about 5 minutes. Do the Core questions while you wait.",
+    "Press a piece of clear sticky tape over the dry varnish, then peel the tape off slowly. The varnish layer comes with it.",
+    "Stick the tape, varnish side down, on a microscope slide.",
+    "Look at it on low power, then medium power. Find a stoma with its two guard cells.",
+    "Draw one stoma and its guard cells. Count the stomata you can see in the field of view, three times, and record the counts."
+   ],
    "safety": "Varnish lids on. Away from flames. Wash hands at the end.",
-   "notes": "The peel is a print of the epidermis: the stomata show as pairs of sausage-shaped guard cells. If a pair cannot get a clear peel, use the prepared slide. Counts in the field of view vary; the mean goes into Challenge 2."},
-  {"type": "steps", "title": "Your turn", "minutes": 16,
-   "steps": ["While the varnish dries: Core 1 to 3 on the worksheet.", "View your peel: draw one stoma with its guard cells and record three counts (Core 4).", "Stretch: why stomata open and close; the hot-day passage; the windy day.", "Challenge: why stomata are mostly underneath; estimate the stomata on a whole leaf."],
+   "notes": "The peel is a print of the epidermis: the stomata show as pairs of sausage-shaped guard cells. If a pair cannot get a clear peel, use the prepared slide. Counts in the field of view vary; the mean goes into Challenge 2."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn",
+   "minutes": 16,
+   "steps": [
+    "While the varnish dries: Core 1 to 3 on the worksheet.",
+    "View your peel: draw one stoma with its guard cells and record three counts (Core 4).",
+    "Stretch: why stomata open and close; the hot-day passage; the windy day.",
+    "Challenge: why stomata are mostly underneath; estimate the stomata on a whole leaf."
+   ],
    "footer": "Clear up: slides in the tray, varnish lids on, microscope on low power, hands washed.",
-   "notes": "Time check: varnish on by minute 2, viewing by minute 8, questions from minute 10. Keep the prepared slide on a spare microscope so everyone sees a clear stoma."},
-  {"type": "think", "title": "Back to the hot room", "prompt": "The plant in the hot room wilted. Use particles, evaporation, diffusion and stomata to explain why.",
-   "frames": ["When the temperature is higher, particles move ___.", "So water evaporates inside the leaf ___ and water vapour diffuses out through the stomata ___.", "The roots cannot replace the water fast enough, so the cells ___ and the plant ___."],
-   "notes": "Expected: faster; faster, faster; sag, wilts. Push further: what could the plant do to reduce the loss? Close its stomata, which also stops carbon dioxide getting in, so photosynthesis slows."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 4,
-   "questions": ["What is the job of the guard cells?", "Name two gases that are exchanged between a leaf and the air through its stomata.", "Explain why a leaf loses more water on a hot day than on a cool day."],
-   "notes": "Answers: they open and close the stomata; carbon dioxide and oxygen (or water vapour); at a higher temperature particles move faster, so evaporation and diffusion of water vapour out of the stomata are faster. Collect the strips."},
-  {"type": "summary", "title": "What we learned", "next": "What plants make from glucose: starch, lipids and proteins, and how we test for them.",
-   "points": ["Stomata are tiny holes in the leaf, opened and closed by guard cells: open in the light, shut at night.", "Gases move in and out by diffusion, from high to low concentration; faster when it is warmer and when the difference is bigger.", "Photosynthesis uses carbon dioxide inside the leaf, so carbon dioxide diffuses in; oxygen diffuses out.", "Water vapour also diffuses out through open stomata; on a hot, dry or windy day the plant can wilt."],
-   "notes": "Homework: Workbook page 18. Remind students the stoma drawing needs a label for the guard cells and the pore."}
+   "notes": "Time check: varnish on by minute 2, viewing by minute 8, questions from minute 10. Keep the prepared slide on a spare microscope so everyone sees a clear stoma."
+  },
+  {
+   "type": "think",
+   "title": "Back to the hot room",
+   "prompt": "The plant in the hot room wilted. Use particles, evaporation, diffusion and stomata to explain why.",
+   "frames": [
+    "When the temperature is higher, particles move ___.",
+    "So water evaporates inside the leaf ___ and water vapour diffuses out through the stomata ___.",
+    "The roots cannot replace the water fast enough, so the cells ___ and the plant ___."
+   ],
+   "notes": "Expected: faster; faster, faster; sag, wilts. Push further: what could the plant do to reduce the loss? Close its stomata, which also stops carbon dioxide getting in, so photosynthesis slows."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 4,
+   "questions": [
+    "What is the job of the guard cells?",
+    "Name two gases that are exchanged between a leaf and the air through its stomata.",
+    "Explain why a leaf loses more water on a hot day than on a cool day."
+   ],
+   "notes": "Answers: they open and close the stomata; carbon dioxide and oxygen (or water vapour); at a higher temperature particles move faster, so evaporation and diffusion of water vapour out of the stomata are faster. Collect the strips."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned",
+   "next": "What plants make from glucose: starch, lipids and proteins, and how we test for them.",
+   "points": [
+    "Stomata are tiny holes in the leaf, opened and closed by guard cells: open in the light, shut at night.",
+    "Gases move in and out by diffusion, from high to low concentration; faster when it is warmer and when the difference is bigger.",
+    "Photosynthesis uses carbon dioxide inside the leaf, so carbon dioxide diffuses in; oxygen diffuses out.",
+    "Water vapour also diffuses out through open stomata; on a hot, dry or windy day the plant can wilt."
+   ],
+   "notes": "Homework: Workbook page 18. Remind students the stoma drawing needs a label for the guard cells and the pore."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "The diagram shows a stoma in the lower epidermis of a leaf at two different times of day.", "image": "diagram:stoma_open_closed", "image_w": 420, "image_h": 190,
+   {
+    "q": "The diagram shows a stoma in the lower epidermis of a leaf at two different times of day.",
+    "image": "diagram:stoma_open_closed",
+    "image_w": 420,
+    "image_h": 190,
     "parts": [
-     {"text": "State the function of the guard cells.", "lines": 1},
-     {"text": "Name two gases that are exchanged between the leaf and the air through stomata.", "lines": 1},
-     {"text": "Which diagram shows a stoma at night? Give a reason for your answer.", "lines": 2}
-    ]},
-   {"q": "Complete the sentences. Use the word bank: concentration, fall, photosynthesis, rapidly, respiration, rise, slowly.",
-    "gap_lines": ["In bright light, ____________ takes up carbon dioxide from the air inside the leaf.", "This causes the ____________ of carbon dioxide inside the leaf to ____________.", "So carbon dioxide diffuses more ____________ into the leaf from the air."]},
-   {"q": "Tick one box in each row to show whether the statement is true or false.", "table": {"headers": ["Statement about diffusion", "True", "False"], "widths": [6400, 1700, 1700], "rows": [["Particles move from where they are less concentrated to where they are more concentrated.", "", ""], ["Diffusion is faster at higher temperatures.", "", ""], ["A bigger difference in concentration makes diffusion faster.", "", ""], ["Once particles are evenly spread they stop moving.", "", ""], ["Leaves are thin so gases do not have to diffuse far.", "", ""]]}},
-   {"q": "Practical: stomata on the lower surface of a leaf.",
+     {
+      "text": "State the function of the guard cells.",
+      "lines": 1
+     },
+     {
+      "text": "Name two gases that are exchanged between the leaf and the air through stomata.",
+      "lines": 1
+     },
+     {
+      "text": "Which diagram shows a stoma at night? Give a reason for your answer.",
+      "lines": 2
+     }
+    ]
+   },
+   {
+    "q": "Complete the sentences. Use the word bank: concentration, fall, photosynthesis, rapidly, respiration, rise, slowly.",
+    "gap_lines": [
+     "In bright light, ____________ takes up carbon dioxide from the air inside the leaf.",
+     "This causes the ____________ of carbon dioxide inside the leaf to ____________.",
+     "So carbon dioxide diffuses more ____________ into the leaf from the air."
+    ]
+   },
+   {
+    "q": "Tick one box in each row to show whether the statement is true or false.",
+    "table": {
+     "headers": [
+      "Statement about diffusion",
+      "True",
+      "False"
+     ],
+     "widths": [
+      6400,
+      1700,
+      1700
+     ],
+     "rows": [
+      [
+       "Particles move from where they are less concentrated to where they are more concentrated.",
+       "",
+       ""
+      ],
+      [
+       "Diffusion is faster at higher temperatures.",
+       "",
+       ""
+      ],
+      [
+       "A bigger difference in concentration makes diffusion faster.",
+       "",
+       ""
+      ],
+      [
+       "Once particles are evenly spread they stop moving.",
+       "",
+       ""
+      ],
+      [
+       "Leaves are thin so gases do not have to diffuse far.",
+       "",
+       ""
+      ]
+     ]
+    }
+   },
+   {
+    "q": "Practical: stomata on the lower surface of a leaf.",
     "parts": [
-     {"text": "Draw one stoma with its two guard cells. Label the guard cells and the pore.", "box": 1500},
-     {"text": "Record the number of stomata you can see in the field of view.", "table": {"headers": ["Count 1", "Count 2", "Count 3", "Mean"], "widths": [2400, 2400, 2400, 2400], "empty_rows": 1, "row_h": 500}}
-    ]}
+     {
+      "text": "Draw one stoma with its two guard cells. Label the guard cells and the pore.",
+      "box": 1500
+     },
+     {
+      "text": "Record the number of stomata you can see in the field of view.",
+      "table": {
+       "headers": [
+        "Count 1",
+        "Count 2",
+        "Count 3",
+        "Mean"
+       ],
+       "widths": [
+        2400,
+        2400,
+        2400,
+        2400
+       ],
+       "empty_rows": 1,
+       "row_h": 500
+      }
+     }
+    ]
+   }
   ],
   "stretch": [
-   {"q": "Explain why stomata are open in the light but closed at night. Give one advantage of each.", "lines": 3},
-   {"q": "Two identical pot plants had the same amount of light and water. The one kept in a hot room wilted. Choose the correct word in each pair to complete the explanation.",
-    "gap_lines": ["When temperatures are higher, the speed of particles  decreases / increases.", "This causes the rate of evaporation inside the leaf to  decrease / increase, and the rate of diffusion of water vapour out of the leaf to  decrease / increase.", "This results in  a decrease / an increase  in the amount of water in the leaf. If this is not replaced by  more / less  water coming up from the roots, the plant wilts."]},
-   {"q": "Explain why oxygen diffuses out of a leaf more quickly on a windy day than on a still day. (Hint: think about the concentration of oxygen in the air just outside the leaf.)", "lines": 3}
+   {
+    "q": "Explain why stomata are open in the light but closed at night. Give one advantage of each.",
+    "lines": 3
+   },
+   {
+    "q": "Two identical pot plants had the same amount of light and water. The one kept in a hot room wilted. Choose the correct word in each pair to complete the explanation.",
+    "gap_lines": [
+     "When temperatures are higher, the speed of particles  decreases / increases.",
+     "This causes the rate of evaporation inside the leaf to  decrease / increase, and the rate of diffusion of water vapour out of the leaf to  decrease / increase.",
+     "This results in  a decrease / an increase  in the amount of water in the leaf. If this is not replaced by  more / less  water coming up from the roots, the plant wilts."
+    ]
+   },
+   {
+    "q": "Explain why oxygen diffuses out of a leaf more quickly on a windy day than on a still day. (Hint: think about the concentration of oxygen in the air just outside the leaf.)",
+    "lines": 3
+   }
   ],
   "challenge": [
-   {"q": "Most leaves have far more stomata on their lower surface than on their upper surface. Suggest two reasons why this helps the plant.", "lines": 3},
-   {"q": "A student counted a mean of 32 stomata in a field of view with an area of 0.5 mm². The lower surface of the leaf had an area of 40 cm² (4000 mm²). Estimate the number of stomata on the lower surface of the leaf. Show your working.", "lines": 3}
+   {
+    "q": "Most leaves have far more stomata on their lower surface than on their upper surface. Suggest two reasons why this helps the plant.",
+    "lines": 3
+   },
+   {
+    "q": "A student counted a mean of 32 stomata in a field of view with an area of 0.5 mm². The lower surface of the leaf had an area of 40 cm² (4000 mm²). Estimate the number of stomata on the lower surface of the leaf. Show your working.",
+    "lines": 3
+   }
   ],
   "my_thinking": "Cactus plants open their stomata at night and keep them shut during the day. Suggest why this helps a cactus, and what problem it could cause.",
-  "word_bank": ["stomata", "guard cell", "diffusion", "concentration", "gas exchange", "water vapour", "evaporation", "wilt", "carbon dioxide", "oxygen"],
-  "exit": ["What is the job of the guard cells?", "Name two gases that are exchanged between a leaf and the air through its stomata.", "Explain why a leaf loses more water on a hot day than on a cool day."],
-  "exit_lines": [1, 1, 2]
+  "word_bank": [
+   "stomata",
+   "guard cell",
+   "diffusion",
+   "concentration",
+   "gas exchange",
+   "water vapour",
+   "evaporation",
+   "wilt",
+   "carbon dioxide",
+   "oxygen"
+  ],
+  "exit": [
+   "What is the job of the guard cells?",
+   "Name two gases that are exchanged between a leaf and the air through its stomata.",
+   "Explain why a leaf loses more water on a hot day than on a cool day."
+  ],
+  "exit_lines": [
+   1,
+   1,
+   2
+  ]
  },
  "answers": {
   "core": [

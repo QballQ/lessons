@@ -7,11 +7,24 @@
  "title": "Treating diseases",
  "title_cn": "治疗疾病",
  "slug": "Treating_diseases",
- "book": {"pages": "44 to 45", "spread": "9Cc Treating diseases"},
- "workbook": {"pages": "32"},
+ "book": {
+  "pages": "44 to 45",
+  "spread": "9Cc Treating diseases"
+ },
+ "workbook": {
+  "pages": "32"
+ },
  "oak": [
-  {"unit": "Disease and drugs, Year 9", "lesson": "Differences between infectious and non-infectious disease", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/differences-between-infectious-and-non-infectious-disease"},
-  {"unit": "Heredity and DNA, Year 7", "lesson": "DNA, chromosomes, genes and the genome", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/dna-chromosomes-genes-and-the-genome"}
+  {
+   "unit": "Disease and drugs, Year 9",
+   "lesson": "Differences between infectious and non-infectious disease",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/differences-between-infectious-and-non-infectious-disease"
+  },
+  {
+   "unit": "Heredity and DNA, Year 7",
+   "lesson": "DNA, chromosomes, genes and the genome",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/dna-chromosomes-genes-and-the-genome"
+  }
  ],
  "big_idea": "Different types of disease need different treatments: antibiotics for bacteria, antivirals for viruses, nutrients for deficiencies, and hormones made by transgenic bacteria for people whose bodies cannot make their own.",
  "goals": [
@@ -19,17 +32,61 @@
   "I can explain how large amounts of human hormones are made quickly using genetically modified bacteria in a fermenter."
  ],
  "keywords": [
-  {"en": "drug", "cn": "药物", "meaning": "a substance that affects how the body works"},
-  {"en": "medicine", "cn": "药品", "meaning": "a drug used to treat or prevent disease"},
-  {"en": "antibiotic", "cn": "抗生素", "meaning": "a medicine that kills bacteria"},
-  {"en": "antiviral", "cn": "抗病毒药", "meaning": "a medicine that stops viruses replicating (copying themselves)"},
-  {"en": "genetic disorder", "cn": "遗传病", "meaning": "a disease caused by faulty genes that a person is born with"},
-  {"en": "autoimmune disease", "cn": "自身免疫病", "meaning": "a disease in which white blood cells attack the body's own cells"},
-  {"en": "insulin", "cn": "胰岛素", "meaning": "a hormone made in the pancreas that lowers blood glucose"},
-  {"en": "transgenic", "cn": "转基因的", "meaning": "contains DNA from more than one species"},
-  {"en": "fermenter", "cn": "发酵罐", "meaning": "a large container in which microorganisms are grown"},
-  {"en": "sterilise", "cn": "灭菌", "meaning": "kill all the microorganisms in or on something"},
-  {"en": "aseptic", "cn": "无菌的", "meaning": "free from unwanted microorganisms"}
+  {
+   "en": "drug",
+   "cn": "药物",
+   "meaning": "a substance that affects how the body works"
+  },
+  {
+   "en": "medicine",
+   "cn": "药品",
+   "meaning": "a drug used to treat or prevent disease"
+  },
+  {
+   "en": "antibiotic",
+   "cn": "抗生素",
+   "meaning": "a medicine that kills bacteria"
+  },
+  {
+   "en": "antiviral",
+   "cn": "抗病毒药",
+   "meaning": "a medicine that stops viruses replicating (copying themselves)"
+  },
+  {
+   "en": "genetic disorder",
+   "cn": "遗传病",
+   "meaning": "a disease caused by faulty genes that a person is born with"
+  },
+  {
+   "en": "autoimmune disease",
+   "cn": "自身免疫病",
+   "meaning": "a disease in which white blood cells attack the body's own cells"
+  },
+  {
+   "en": "insulin",
+   "cn": "胰岛素",
+   "meaning": "a hormone made in the pancreas that lowers blood glucose"
+  },
+  {
+   "en": "transgenic",
+   "cn": "转基因的",
+   "meaning": "contains DNA from more than one species"
+  },
+  {
+   "en": "fermenter",
+   "cn": "发酵罐",
+   "meaning": "a large container in which microorganisms are grown"
+  },
+  {
+   "en": "sterilise",
+   "cn": "灭菌",
+   "meaning": "kill all the microorganisms in or on something"
+  },
+  {
+   "en": "aseptic",
+   "cn": "无菌的",
+   "meaning": "free from unwanted microorganisms"
+  }
  ],
  "misconceptions": [
   "Antibiotics cure any infection, including colds and flu. Antibiotics kill bacteria only; colds and flu are caused by viruses, which need antivirals or the body's own immune system.",
@@ -37,15 +94,60 @@
   "Transgenic bacteria are 'half human'. Only one human gene (a short section of DNA) is added to the bacterium's DNA, enough to make one protein."
  ],
  "safety": "No practical hazards beyond normal classroom rules.",
- "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)"],
+ "equipment": [
+  "Worksheets (standard and Chinese key words versions)",
+  "Mini whiteboards for the quick check (optional)"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "Three treatment questions: antibiotic or antiviral, scurvy, vaccine.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
-  {"phase": "Hook", "min": 3, "teacher": "Fleming's forgotten dish: what had the mould made?", "students": "Pair talk, then share.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 10, "teacher": "Teaches drugs and medicines, treating genetic and autoimmune diseases, transgenic bacteria and the fermenter. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 9"},
-  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Circulates: checks the treatment table and the fermenter gap fill.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "The doctor who will not prescribe antibiotics for a cold.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
-  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (medians and quartiles).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "Three treatment questions: antibiotic or antiviral, scurvy, vaccine.",
+   "students": "Answer the three questions in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the two goals and points to the key words.",
+   "students": "Listen; find the key words box on the worksheet.",
+   "resource": "Slide 3, worksheet header"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "Fleming's forgotten dish: what had the mould made?",
+   "students": "Pair talk, then share.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 10,
+   "teacher": "Teaches drugs and medicines, treating genetic and autoimmune diseases, transgenic bacteria and the fermenter. Runs the quick check.",
+   "students": "Answer the quick check on whiteboards.",
+   "resource": "Slides 5 to 9"
+  },
+  {
+   "phase": "Do",
+   "min": 14,
+   "teacher": "Sets the worksheet. Circulates: checks the treatment table and the fermenter gap fill.",
+   "students": "Core, then Stretch, then Challenge.",
+   "resource": "Slide 10, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "The doctor who will not prescribe antibiotics for a cold.",
+   "students": "Discuss in pairs, share with a frame.",
+   "resource": "Slide 11"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 4,
+   "teacher": "Collects exit tickets; previews next lesson (medians and quartiles).",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slide 12, worksheet strip"
+  }
  ],
  "tiers": {
   "core": "Match medicines to their definitions; choose the right treatment for each disease; gap fill on the fermenter.",
@@ -53,71 +155,321 @@
   "challenge": "Explain the conditions inside a fermenter and why aseptic precautions are needed; explain how a GM organism can be made without being transgenic."
  },
  "slides": [
-  {"type": "title", "subtitle": "Which medicine for which disease, and how do bacteria make human insulin?", "image": "antibiotics",
-   "notes": "Lesson 4 of 9C. Lessons 1 and 2 covered types of disease and immunity. Today: treating disease, from antibiotics to transgenic bacteria. The fermenter links to 9Cc in the Student Book."},
-  {"type": "donow", "title": "Do Now: which treatment?", "minutes": 4,
-   "prompt": ["1. An ear infection is caused by bacteria. Would you give an antibiotic or an antiviral?", "2. Scurvy is caused by too little vitamin C. How would you treat it?", "3. A vaccine prevents a disease. Can it treat someone who already has it?"],
-   "notes": "Four minutes, in books. Antibiotic (kills bacteria); give vitamin C in the diet (fresh fruit and vegetables); no, a vaccine makes memory cells before infection, it is prevention not treatment. Keep answers on the board for the Learn slides."},
-  {"type": "today", "title": "Today",
-   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
-  {"type": "hook", "title": "The forgotten dish", "question": "In 1928, Alexander Fleming noticed that a mould had killed the bacteria growing around it on a dish he had forgotten to wash up. What had the mould made?", "image": "penicillium_plate", "caption": "Penicillium mould stops bacteria growing on an agar plate",
-   "text": ["Talk to a partner: why might a mould make a substance that kills bacteria?"],
-   "notes": "The mould (Penicillium) made penicillin, the first antibiotic. Moulds and bacteria compete for food, so a chemical that kills bacteria gives the mould an advantage. Antibiotics have saved millions of lives since the 1940s, but they only work on bacteria."},
-  {"type": "learn", "title": "Drugs and medicines", "image": "antibiotics", "caption": "Antibiotic capsules", "vocab": ["drug", "medicine", "antibiotic", "antiviral"],
-   "text": ["A drug is any substance that affects how the body works.", "Medicines are drugs used to treat or prevent disease.", "Antibiotics kill bacteria. Antivirals stop viruses replicating.", "Vaccines prevent infections. Deficiency diseases are treated by adding the missing nutrient to the diet."],
+  {
+   "type": "title",
+   "subtitle": "Which medicine for which disease, and how do bacteria make human insulin?",
+   "image": "antibiotics",
+   "notes": "Lesson 4 of 9C. Lessons 1 and 2 covered types of disease and immunity. Today: treating disease, from antibiotics to transgenic bacteria. The fermenter links to 9Cc in the Student Book."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: which treatment?",
+   "minutes": 4,
+   "prompt": [
+    "1. An ear infection is caused by bacteria. Would you give an antibiotic or an antiviral?",
+    "2. Scurvy is caused by too little vitamin C. How would you treat it?",
+    "3. A vaccine prevents a disease. Can it treat someone who already has it?"
+   ],
+   "notes": "Four minutes, in books. Antibiotic (kills bacteria); give vitamin C in the diet (fresh fruit and vegetables); no, a vaccine makes memory cells before infection, it is prevention not treatment. Keep answers on the board for the Learn slides."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."
+  },
+  {
+   "type": "hook",
+   "title": "The forgotten dish",
+   "question": "In 1928, Alexander Fleming noticed that a mould had killed the bacteria growing around it on a dish he had forgotten to wash up. What had the mould made?",
+   "image": "penicillium_plate",
+   "caption": "Penicillium mould growing on an orange",
+   "text": [
+    "Talk to a partner: why might a mould make a substance that kills bacteria?"
+   ],
+   "notes": "The mould (Penicillium) made penicillin, the first antibiotic. Moulds and bacteria compete for food, so a chemical that kills bacteria gives the mould an advantage. Antibiotics have saved millions of lives since the 1940s, but they only work on bacteria."
+  },
+  {
+   "type": "learn",
+   "title": "Drugs and medicines",
+   "image": "antibiotics",
+   "caption": "Antibiotic capsules",
+   "vocab": [
+    "drug",
+    "medicine",
+    "antibiotic",
+    "antiviral"
+   ],
+   "text": [
+    "A drug is any substance that affects how the body works.",
+    "Medicines are drugs used to treat or prevent disease.",
+    "Antibiotics kill bacteria. Antivirals stop viruses replicating.",
+    "Vaccines prevent infections. Deficiency diseases are treated by adding the missing nutrient to the diet."
+   ],
    "key_idea": "Antibiotics do not work on viruses.",
-   "notes": "Every medicine is a drug, but not every drug is a medicine (caffeine affects the body but does not treat disease). An antibiotic for flu does nothing and can help bacteria become resistant. Other drugs treat lifestyle diseases such as heart disease."},
-  {"type": "learn", "title": "Diseases we cannot cure", "image": "diagram:disease_types", "vocab": ["genetic disorder", "autoimmune disease", "insulin"],
-   "text": ["Genetic disorders: faulty genes from birth, e.g. sickle cell anaemia. Treatment may last a lifetime.", "Autoimmune diseases: white blood cells attack the body.", "Type 1 diabetes: the insulin-making tissue in the pancreas is destroyed. High blood glucose damages organs.", "Treatment: inject the missing hormone."],
+   "notes": "Every medicine is a drug, but not every drug is a medicine (caffeine affects the body but does not treat disease). An antibiotic for flu does nothing and can help bacteria become resistant. Other drugs treat lifestyle diseases such as heart disease."
+  },
+  {
+   "type": "learn",
+   "title": "Diseases we cannot cure",
+   "image": "diagram:disease_types",
+   "vocab": [
+    "genetic disorder",
+    "autoimmune disease",
+    "insulin"
+   ],
+   "text": [
+    "Genetic disorders: faulty genes from birth, e.g. sickle cell anaemia. Treatment may last a lifetime.",
+    "Autoimmune diseases: white blood cells attack the body.",
+    "Type 1 diabetes: the insulin-making tissue in the pancreas is destroyed. High blood glucose damages organs.",
+    "Treatment: inject the missing hormone."
+   ],
    "key_idea": "Some diseases cannot be cured, but a missing hormone can be replaced.",
-   "notes": "Remind students of the five types of disease from Lesson 1. Insulin makes cells take up glucose (Lesson 3); without it, glucose stays in the blood at high levels and damages blood vessels, eyes and kidneys. People with type 1 diabetes inject insulin several times a day. Where does that insulin come from? Next slide."},
-  {"type": "learn", "title": "Transgenic bacteria", "image": "bioreactor", "caption": "An industrial fermenter", "vocab": ["transgenic"],
-   "text": ["In the past, growth hormone was taken from dead bodies and insulin from cattle: slow and expensive.", "Now the human gene for the hormone is cut out of a chromosome and put into the DNA of bacteria.", "The transgenic bacteria make the human hormone.", "Transgenic means the organism contains DNA from more than one species."],
+   "notes": "Remind students of the five types of disease from Lesson 1. Insulin makes cells take up glucose (Lesson 3); without it, glucose stays in the blood at high levels and damages blood vessels, eyes and kidneys. People with type 1 diabetes inject insulin several times a day. Where does that insulin come from? Next slide."
+  },
+  {
+   "type": "learn",
+   "title": "Transgenic bacteria",
+   "image": "bioreactor",
+   "caption": "A fermentation tank in a brewery: industrial fermenters look like this",
+   "vocab": [
+    "transgenic"
+   ],
+   "text": [
+    "In the past, growth hormone was taken from dead bodies and insulin from cattle: slow and expensive.",
+    "Now the human gene for the hormone is cut out of a chromosome and put into the DNA of bacteria.",
+    "The transgenic bacteria make the human hormone.",
+    "Transgenic means the organism contains DNA from more than one species."
+   ],
    "key_idea": "A human gene in a bacterium makes the bacterium produce a human protein.",
-   "notes": "Genes are sections of DNA (9A). Because every living thing uses the same DNA code, a human gene works inside a bacterium. Genetically modified means the DNA has been altered by scientists; it is transgenic only if DNA from another species was added. Removing a gene makes a GM organism that is not transgenic."},
-  {"type": "diagram", "title": "Inside a fermenter", "image": "diagram:fermenter", "text": "Transgenic bacteria are grown in large fermenters so that they reproduce quickly and make a lot of hormone.",
+   "notes": "Genes are sections of DNA (9A). Because every living thing uses the same DNA code, a human gene works inside a bacterium. Genetically modified means the DNA has been altered by scientists; it is transgenic only if DNA from another species was added. Removing a gene makes a GM organism that is not transgenic."
+  },
+  {
+   "type": "diagram",
+   "title": "Inside a fermenter",
+   "image": "diagram:fermenter",
+   "text": "Transgenic bacteria are grown in large fermenters so that they reproduce quickly and make a lot of hormone.",
    "key_idea": "Aseptic: the fermenter and everything put into it are sterilised, so no other microorganisms can grow.",
-   "notes": "Work round the diagram: steam sterilises the fermenter before use; nutrients (including carbohydrates to feed on) and acid or alkali to keep the pH steady go in at the top; filtered air supplies oxygen for respiration; stirring paddles keep the bacteria from sinking and mix nutrients, oxygen and heat; the water jacket keeps the temperature at the best value for the enzymes; probes check temperature and pH; the hormone is harvested at intervals."},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
-   "questions": ["Why is a medicine a drug?", "Would an antibiotic cure flu? Yes or no, and why.", "In which organ is insulin made?", "What does 'transgenic' mean?", "Why is the air bubbled into a fermenter filtered first?"],
-   "notes": "Answers: a drug is any substance that affects how the body works, and medicines do that to treat or prevent disease; no, flu is caused by a virus and antibiotics only kill bacteria; the pancreas; contains DNA from more than one species; to remove microorganisms from the air so they do not contaminate the fermenter."},
-  {"type": "steps", "title": "Your turn: treating disease", "minutes": 14,
-   "steps": ["Core: match the medicines to their meanings, then tick the right treatment for each disease.", "Core: complete the fermenter gap fill with the word bank.", "Stretch: why medicines are drugs; how transgenic bacteria make growth hormone; type 1 diabetes and organ damage.", "Challenge: the conditions inside a fermenter and the aseptic precautions; a GM organism that is not transgenic.", "Finished? Answer the My thinking question about antibiotic resistance."],
+   "notes": "Work round the diagram: steam sterilises the fermenter before use; nutrients (including carbohydrates to feed on) and acid or alkali to keep the pH steady go in at the top; filtered air supplies oxygen for respiration; stirring paddles keep the bacteria from sinking and mix nutrients, oxygen and heat; the water jacket keeps the temperature at the best value for the enzymes; probes check temperature and pH; the hormone is harvested at intervals."
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": [
+    "Why is a medicine a drug?",
+    "Would an antibiotic cure flu? Yes or no, and why.",
+    "In which organ is insulin made?",
+    "What does 'transgenic' mean?",
+    "Why is the air bubbled into a fermenter filtered first?"
+   ],
+   "notes": "Answers: a drug is any substance that affects how the body works, and medicines do that to treat or prevent disease; no, flu is caused by a virus and antibiotics only kill bacteria; the pancreas; contains DNA from more than one species; to remove microorganisms from the air so they do not contaminate the fermenter."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn: treating disease",
+   "minutes": 14,
+   "steps": [
+    "Core: match the medicines to their meanings, then tick the right treatment for each disease.",
+    "Core: complete the fermenter gap fill with the word bank.",
+    "Stretch: why medicines are drugs; how transgenic bacteria make growth hormone; type 1 diabetes and organ damage.",
+    "Challenge: the conditions inside a fermenter and the aseptic precautions; a GM organism that is not transgenic.",
+    "Finished? Answer the My thinking question about antibiotic resistance."
+   ],
    "footer": "Say the type of disease first, then the treatment: that is the logic the examiner wants.",
-   "notes": "Common error: giving an antibiotic for every infection. Check the treatment table first. For Stretch 2, students should mention cutting the human gene from a chromosome, putting it into the bacterial DNA, and the bacteria then making the hormone."},
-  {"type": "think", "title": "No antibiotics for a cold", "prompt": "A patient with a bad cold asks the doctor for antibiotics. The doctor says no. The patient is annoyed. What should the doctor say to explain?",
-   "frames": ["A cold is caused by a ___, and antibiotics only kill ___.", "Taking antibiotics when they are not needed can ___.", "Instead, the doctor could suggest ___."],
-   "notes": "Expected: colds are caused by viruses; antibiotics kill bacteria, so they would not help; using antibiotics when not needed lets bacteria that survive become resistant, so the medicine stops working for everyone; rest, fluids and letting the immune system (Lesson 2) deal with it. Antivirals exist for some viruses but not usually for colds."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 4,
-   "questions": ["What is the difference between an antibiotic and an antiviral?", "What does 'transgenic' mean?", "Give one reason why a fermenter is sterilised before use."],
-   "notes": "Answers: antibiotics kill bacteria, antivirals stop viruses replicating; contains DNA from more than one species; so that no other microorganisms grow in it, which could be harmful or reduce hormone production."},
-  {"type": "summary", "title": "What we learned", "next": "Medians and quartiles: how scientists use statistics to work out who a medicine helps in a clinical trial.",
-   "points": ["Medicines are drugs used to treat or prevent disease: antibiotics kill bacteria, antivirals stop viruses replicating.", "Genetic disorders and autoimmune diseases cannot be cured, but missing hormones such as insulin can be replaced.", "Transgenic bacteria carry a human gene and make the human hormone.", "Fermenters give bacteria the best conditions: sterile, with nutrients, filtered air, stirring and a steady temperature and pH."],
-   "notes": "Homework: Workbook page 32 (9Cc Treating diseases). The fermenter questions on that page match the Challenge."}
+   "notes": "Common error: giving an antibiotic for every infection. Check the treatment table first. For Stretch 2, students should mention cutting the human gene from a chromosome, putting it into the bacterial DNA, and the bacteria then making the hormone."
+  },
+  {
+   "type": "think",
+   "title": "No antibiotics for a cold",
+   "prompt": "A patient with a bad cold asks the doctor for antibiotics. The doctor says no. The patient is annoyed. What should the doctor say to explain?",
+   "frames": [
+    "A cold is caused by a ___, and antibiotics only kill ___.",
+    "Taking antibiotics when they are not needed can ___.",
+    "Instead, the doctor could suggest ___."
+   ],
+   "notes": "Expected: colds are caused by viruses; antibiotics kill bacteria, so they would not help; using antibiotics when not needed lets bacteria that survive become resistant, so the medicine stops working for everyone; rest, fluids and letting the immune system (Lesson 2) deal with it. Antivirals exist for some viruses but not usually for colds."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 4,
+   "questions": [
+    "What is the difference between an antibiotic and an antiviral?",
+    "What does 'transgenic' mean?",
+    "Give one reason why a fermenter is sterilised before use."
+   ],
+   "notes": "Answers: antibiotics kill bacteria, antivirals stop viruses replicating; contains DNA from more than one species; so that no other microorganisms grow in it, which could be harmful or reduce hormone production."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned",
+   "next": "Medians and quartiles: how scientists use statistics to work out who a medicine helps in a clinical trial.",
+   "points": [
+    "Medicines are drugs used to treat or prevent disease: antibiotics kill bacteria, antivirals stop viruses replicating.",
+    "Genetic disorders and autoimmune diseases cannot be cured, but missing hormones such as insulin can be replaced.",
+    "Transgenic bacteria carry a human gene and make the human hormone.",
+    "Fermenters give bacteria the best conditions: sterile, with nutrients, filtered air, stirring and a steady temperature and pH."
+   ],
+   "notes": "Homework: Workbook page 32 (9Cc Treating diseases). The fermenter questions on that page match the Challenge."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "Match each scientific word to its definition. Draw a line.", "match": {"left": ["medicines", "antibiotics", "antivirals", "vaccines", "insulin"], "right": ["drugs that prevent viruses replicating", "a hormone that makes cells take up glucose from the blood", "drugs used to treat or prevent disease", "substances that make us immune to particular diseases", "drugs that kill bacteria"]}},
-   {"q": "Tick one box in each row to show the best treatment for each disease.", "table": {"headers": ["Disease", "antibiotic", "antiviral", "add a nutrient", "inject a hormone", "vaccine (prevents it)"], "widths": [2700, 1300, 1300, 1500, 1500, 1500], "rows": [["ear infection caused by bacteria", "", "", "", "", ""], ["flu (caused by a virus)", "", "", "", "", ""], ["scurvy (too little vitamin C)", "", "", "", "", ""], ["type 1 diabetes (no insulin made)", "", "", "", "", ""], ["measles, before a child catches it", "", "", "", "", ""]]}},
-   {"q": "Complete the text about fermenters using words from the word bank.", "gap_lines": ["Transgenic bacteria are grown in a large container called a ____________. Before use it is", "____________ with steam so that no other ____________ can grow inside it. ____________ air is", "bubbled in so that the bacteria can respire. ____________ paddles mix the bacteria, nutrients and", "oxygen, and a water ____________ keeps the temperature steady."]}
+   {
+    "q": "Match each scientific word to its definition. Draw a line.",
+    "match": {
+     "left": [
+      "medicines",
+      "antibiotics",
+      "antivirals",
+      "vaccines",
+      "insulin"
+     ],
+     "right": [
+      "drugs that prevent viruses replicating",
+      "a hormone that makes cells take up glucose from the blood",
+      "drugs used to treat or prevent disease",
+      "substances that make us immune to particular diseases",
+      "drugs that kill bacteria"
+     ]
+    }
+   },
+   {
+    "q": "Tick one box in each row to show the best treatment for each disease.",
+    "table": {
+     "headers": [
+      "Disease",
+      "antibiotic",
+      "antiviral",
+      "add a nutrient",
+      "inject a hormone",
+      "vaccine (prevents it)"
+     ],
+     "widths": [
+      2700,
+      1300,
+      1300,
+      1500,
+      1500,
+      1500
+     ],
+     "rows": [
+      [
+       "ear infection caused by bacteria",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "flu (caused by a virus)",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "scurvy (too little vitamin C)",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "type 1 diabetes (no insulin made)",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "measles, before a child catches it",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ]
+     ]
+    }
+   },
+   {
+    "q": "Complete the text about fermenters using words from the word bank.",
+    "gap_lines": [
+     "Transgenic bacteria are grown in a large container called a ____________. Before use it is",
+     "____________ with steam so that no other ____________ can grow inside it. ____________ air is",
+     "bubbled in so that the bacteria can respire. ____________ paddles mix the bacteria, nutrients and",
+     "oxygen, and a water ____________ keeps the temperature steady."
+    ]
+   }
   ],
   "stretch": [
-   {"q": "Explain why medicines are drugs.", "lines": 2},
-   {"q": "Describe how transgenic bacteria are made to produce human growth hormone.", "lines": 4},
-   {"q": "In type 1 diabetes the body stops making insulin. Explain why this can cause organ damage, and state how the disease is treated.", "lines": 3}
+   {
+    "q": "Explain why medicines are drugs.",
+    "lines": 2
+   },
+   {
+    "q": "Describe how transgenic bacteria are made to produce human growth hormone.",
+    "lines": 4
+   },
+   {
+    "q": "In type 1 diabetes the body stops making insulin. Explain why this can cause organ damage, and state how the disease is treated.",
+    "lines": 3
+   }
   ],
   "challenge": [
-   {"q": "Transgenic bacteria are grown in fermenters.", "parts": [
-     {"text": "Give the reason why air is bubbled into the fermenter.", "lines": 1},
-     {"text": "Describe two ways in which the fermenter keeps the bacteria growing at a high rate.", "lines": 3},
-     {"text": "Describe the aseptic precautions taken when preparing the fermenter, and explain why they are needed.", "lines": 4}
-    ]},
-   {"q": "Scientists can also remove genes from an organism. Explain how this can create a genetically modified organism that is not transgenic.", "lines": 3}
+   {
+    "q": "Transgenic bacteria are grown in fermenters.",
+    "parts": [
+     {
+      "text": "Give the reason why air is bubbled into the fermenter.",
+      "lines": 1
+     },
+     {
+      "text": "Describe two ways in which the fermenter keeps the bacteria growing at a high rate.",
+      "lines": 3
+     },
+     {
+      "text": "Describe the aseptic precautions taken when preparing the fermenter, and explain why they are needed.",
+      "lines": 4
+     }
+    ]
+   },
+   {
+    "q": "Scientists can also remove genes from an organism. Explain how this can create a genetically modified organism that is not transgenic.",
+    "lines": 3
+   }
   ],
   "my_thinking": "Some bacteria are no longer killed by antibiotics that used to work. Suggest why using antibiotics when they are not needed could make this problem worse.",
-  "word_bank": ["drug", "medicine", "antibiotic", "antiviral", "vaccine", "insulin", "transgenic", "fermenter", "sterilised", "microorganisms", "Filtered", "Stirring", "jacket"],
-  "exit": ["What is the difference between an antibiotic and an antiviral?", "What does 'transgenic' mean?", "Give one reason why a fermenter is sterilised before use."],
-  "exit_lines": [2, 1, 1]
+  "word_bank": [
+   "drug",
+   "medicine",
+   "antibiotic",
+   "antiviral",
+   "vaccine",
+   "insulin",
+   "transgenic",
+   "fermenter",
+   "sterilised",
+   "microorganisms",
+   "Filtered",
+   "Stirring",
+   "jacket"
+  ],
+  "exit": [
+   "What is the difference between an antibiotic and an antiviral?",
+   "What does 'transgenic' mean?",
+   "Give one reason why a fermenter is sterilised before use."
+  ],
+  "exit_lines": [
+   2,
+   1,
+   1
+  ]
  },
  "answers": {
   "core": [

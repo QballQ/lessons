@@ -7,12 +7,29 @@
  "title": "Natural selection and evolution",
  "title_cn": "自然选择与进化",
  "slug": "Natural_selection_and_evolution",
- "book": {"pages": "18 to 20", "spread": "9Ae Natural selection; 9Ae Recreating animals"},
- "workbook": {"pages": "13 to 14"},
+ "book": {
+  "pages": "18 to 20",
+  "spread": "9Ae Natural selection; 9Ae Recreating animals"
+ },
+ "workbook": {
+  "pages": "13 to 14"
+ },
  "oak": [
-  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Natural selection", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/natural-selection"},
-  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "A model of natural selection", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/a-model-of-natural-selection"},
-  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Evolution", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/evolution"}
+  {
+   "unit": "Adaptations, competition, natural selection and evolution, Year 9",
+   "lesson": "Natural selection",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/natural-selection"
+  },
+  {
+   "unit": "Adaptations, competition, natural selection and evolution, Year 9",
+   "lesson": "A model of natural selection",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/a-model-of-natural-selection"
+  },
+  {
+   "unit": "Adaptations, competition, natural selection and evolution, Year 9",
+   "lesson": "Evolution",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/evolution"
+  }
  ],
  "big_idea": "Individuals in a population vary genetically; when the environment changes, the individuals whose inherited characteristics help them survive reproduce more, so those characteristics become more common: natural selection, which over many generations causes evolution.",
  "goals": [
@@ -20,17 +37,61 @@
   "I can describe the theory of evolution by natural selection and explain how natural selection can produce a new species."
  ],
  "keywords": [
-  {"en": "natural selection", "cn": "自然选择", "meaning": "organisms better adapted to their environment are more likely to survive, reproduce and pass on their genes"},
-  {"en": "evolution", "cn": "进化", "meaning": "a change over time in the characteristics of organisms, sometimes making a new species"},
-  {"en": "inherited variation", "cn": "遗传变异", "meaning": "differences between individuals caused by genes, passed on to offspring"},
-  {"en": "gene", "cn": "基因", "meaning": "a section of DNA that carries the instructions for one characteristic"},
-  {"en": "reproduce", "cn": "繁殖", "meaning": "to produce offspring"},
-  {"en": "generation", "cn": "世代", "meaning": "all the offspring born at about the same time; parents, children and grandchildren are three generations"},
-  {"en": "hypothesis", "cn": "假说", "meaning": "an idea, based on observations, that can be tested"},
-  {"en": "theory", "cn": "理论", "meaning": "an explanation that has been tested many times and is accepted by scientists"},
-  {"en": "species", "cn": "物种", "meaning": "a group of organisms that can breed together to produce offspring that can also breed"},
-  {"en": "camouflage", "cn": "伪装", "meaning": "colours or patterns that make an organism hard to see"},
-  {"en": "cloning", "cn": "克隆", "meaning": "making a new organism with exactly the same genetic information as another"}
+  {
+   "en": "natural selection",
+   "cn": "自然选择",
+   "meaning": "organisms better adapted to their environment are more likely to survive, reproduce and pass on their genes"
+  },
+  {
+   "en": "evolution",
+   "cn": "进化",
+   "meaning": "a change over time in the characteristics of organisms, sometimes making a new species"
+  },
+  {
+   "en": "inherited variation",
+   "cn": "遗传变异",
+   "meaning": "differences between individuals caused by genes, passed on to offspring"
+  },
+  {
+   "en": "gene",
+   "cn": "基因",
+   "meaning": "a section of DNA that carries the instructions for one characteristic"
+  },
+  {
+   "en": "reproduce",
+   "cn": "繁殖",
+   "meaning": "to produce offspring"
+  },
+  {
+   "en": "generation",
+   "cn": "世代",
+   "meaning": "all the offspring born at about the same time; parents, children and grandchildren are three generations"
+  },
+  {
+   "en": "hypothesis",
+   "cn": "假说",
+   "meaning": "an idea, based on observations, that can be tested"
+  },
+  {
+   "en": "theory",
+   "cn": "理论",
+   "meaning": "an explanation that has been tested many times and is accepted by scientists"
+  },
+  {
+   "en": "species",
+   "cn": "物种",
+   "meaning": "a group of organisms that can breed together to produce offspring that can also breed"
+  },
+  {
+   "en": "camouflage",
+   "cn": "伪装",
+   "meaning": "colours or patterns that make an organism hard to see"
+  },
+  {
+   "en": "cloning",
+   "cn": "克隆",
+   "meaning": "making a new organism with exactly the same genetic information as another"
+  }
  ],
  "misconceptions": [
   "Organisms change themselves to suit the environment (Lamarck's idea: birds stretched their legs). Changes made during a lifetime are not inherited; natural selection only works on inherited variation that is already in the population.",
@@ -38,16 +99,68 @@
   "Natural selection always makes a species 'better'. It makes a population better adapted to its current environment; if the environment changes again, different variations are selected."
  ],
  "safety": "No practical hazards. For the paper-moth model, keep students seated except the chosen 'bird'; no running.",
- "equipment": ["Worksheets (standard and Chinese key words versions)", "Optional 5-minute model: 20 white and 20 black paper circles (about 2 cm), one black sheet of paper (A3) and one white sheet, a timer", "Mini whiteboards (optional)"],
+ "equipment": [
+  "Worksheets (standard and Chinese key words versions)",
+  "Optional 5-minute model: 20 white and 20 black paper circles (about 2 cm), one black sheet of paper (A3) and one white sheet, a timer",
+  "Mini whiteboards (optional)"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "Peppered moths: which form would a bird spot on a pale tree, and on a sooty tree?", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points to the key words.", "students": "Listen; find the key words.", "resource": "Slide 3"},
-  {"phase": "Hook", "min": 3, "teacher": "Manchester, 1850 to 1895: from pale to 98% black. What happened?", "students": "Pair talk, then share.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 10, "teacher": "Teaches natural selection with the moths and the tilapia; Darwin, Wallace, hypothesis and theory, evolution and new species; Lamarck versus Darwin. Quick check.", "students": "Follow the two diagrams; answer the quick check.", "resource": "Slides 5 to 9"},
-  {"phase": "Do", "min": 13, "teacher": "Optional 5-minute paper-moth model, then the worksheet.", "students": "Model (if run), then Core, Stretch, Challenge.", "resource": "Slides 10 to 11, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "Should we clone a mammoth? Takes views with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
-  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 13"},
-  {"phase": "Summary", "min": 2, "teacher": "Recaps the unit; sets the end-of-unit revision (Workbook page 14, Recreating animals).", "students": "Tick the goals they met.", "resource": "Slide 14"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "Peppered moths: which form would a bird spot on a pale tree, and on a sooty tree?",
+   "students": "Answer the three questions in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the goals; points to the key words.",
+   "students": "Listen; find the key words.",
+   "resource": "Slide 3"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "Manchester, 1850 to 1895: from pale to 98% black. What happened?",
+   "students": "Pair talk, then share.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 10,
+   "teacher": "Teaches natural selection with the moths and the tilapia; Darwin, Wallace, hypothesis and theory, evolution and new species; Lamarck versus Darwin. Quick check.",
+   "students": "Follow the two diagrams; answer the quick check.",
+   "resource": "Slides 5 to 9"
+  },
+  {
+   "phase": "Do",
+   "min": 13,
+   "teacher": "Optional 5-minute paper-moth model, then the worksheet.",
+   "students": "Model (if run), then Core, Stretch, Challenge.",
+   "resource": "Slides 10 to 11, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "Should we clone a mammoth? Takes views with the frames.",
+   "students": "Pair discussion, share with a frame.",
+   "resource": "Slide 12"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 3,
+   "teacher": "Collects exit tickets.",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slide 13"
+  },
+  {
+   "phase": "Summary",
+   "min": 2,
+   "teacher": "Recaps the unit; sets the end-of-unit revision (Workbook page 14, Recreating animals).",
+   "students": "Tick the goals they met.",
+   "resource": "Slide 14"
+  }
  ],
  "tiers": {
   "core": "State the cause of inherited variation; put the lizard natural selection story in order; explain the peppered moth story and predict what happens when the soot is gone.",
@@ -55,79 +168,325 @@
   "challenge": "Explain how two separated populations can become different species; mammoth chromosomes, the evolution of thick hair, and why dinosaurs cannot be cloned."
  },
  "slides": [
-  {"type": "title", "subtitle": "What is Darwin's theory of evolution?", "image": "peppered_moth_dark",
-   "notes": "The last lesson of 9A. Everything so far comes together: inherited variation (genes), environmental change, adaptations and survival. Keep the language careful: organisms do not try to adapt; the environment selects."},
-  {"type": "donow", "title": "Do Now: pale or dark?", "minutes": 4, "image": "peppered_moth_light", "caption": "A pale peppered moth on a lichen-covered tree",
-   "prompt": ["Peppered moths show inherited variation: most are pale and speckled, but some have genes that make them black.", "1. What causes inherited variation?", "2. Which form would a bird spot more easily on a pale tree? On a tree blackened by soot?", "3. What is a species?"],
-   "notes": "Inherited variation is caused by genes (genetic information from the gametes). A bird spots the dark moth on a pale tree and the pale moth on a black tree. A species is a group that can breed together to produce offspring that can also breed."},
-  {"type": "today", "title": "Today",
-   "notes": "Read the goals. Warn students that the word 'theory' means something stronger in science than in everyday talk; this comes back in My thinking."},
-  {"type": "hook", "title": "Manchester, 1850 to 1895", "question": "In the 1850s most peppered moths around Manchester were pale. By 1895, 98% of them were black. Many factories had been built in those years. What happened?", "image": "peppered_moth_dark", "caption": "A dark (carbonaria) peppered moth",
-   "text": ["Talk to a partner: what did the factories change, and who eats moths?"],
-   "notes": "Factories produced huge amounts of soot that turned buildings and trees black. Birds could easily spot the pale moths on the black trees and ate more of them; the black moths were harder to see, so more survived and reproduced. Keep the full explanation for the next slide."},
-  {"type": "learn", "title": "Natural selection: the peppered moth", "image": "diagram:natural_selection_moths", "vocab": ["natural selection", "inherited variation", "gene", "reproduce", "generation"],
-   "text": ["Variation: a few moths had genes that made them black.", "The environment changed: soot made the trees black.", "Birds spotted and ate more pale moths. More black moths survived and reproduced, passing on their genes.", "Each generation had more black moths. The environment 'selected' the black variation."],
+  {
+   "type": "title",
+   "subtitle": "What is Darwin's theory of evolution?",
+   "image": "peppered_moth_dark",
+   "notes": "The last lesson of 9A. Everything so far comes together: inherited variation (genes), environmental change, adaptations and survival. Keep the language careful: organisms do not try to adapt; the environment selects."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: pale or dark?",
+   "minutes": 4,
+   "image": "peppered_moth_light",
+   "caption": "A pale peppered moth on a lichen-covered tree",
+   "prompt": [
+    "Peppered moths show inherited variation: most are pale and speckled, but some have genes that make them black.",
+    "1. What causes inherited variation?",
+    "2. Which form would a bird spot more easily on a pale tree? On a tree blackened by soot?",
+    "3. What is a species?"
+   ],
+   "notes": "Inherited variation is caused by genes (genetic information from the gametes). A bird spots the dark moth on a pale tree and the pale moth on a black tree. A species is a group that can breed together to produce offspring that can also breed."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read the goals. Warn students that the word 'theory' means something stronger in science than in everyday talk; this comes back in My thinking."
+  },
+  {
+   "type": "hook",
+   "title": "Manchester, 1850 to 1895",
+   "question": "In the 1850s most peppered moths around Manchester were pale. By 1895, 98% of them were black. Many factories had been built in those years. What happened?",
+   "image": "peppered_moth_dark",
+   "caption": "A dark (carbonaria) peppered moth",
+   "text": [
+    "Talk to a partner: what did the factories change, and who eats moths?"
+   ],
+   "notes": "Factories produced huge amounts of soot that turned buildings and trees black. Birds could easily spot the pale moths on the black trees and ate more of them; the black moths were harder to see, so more survived and reproduced. Keep the full explanation for the next slide."
+  },
+  {
+   "type": "learn",
+   "title": "Natural selection: the peppered moth",
+   "image": "diagram:natural_selection_moths",
+   "vocab": [
+    "natural selection",
+    "inherited variation",
+    "gene",
+    "reproduce",
+    "generation"
+   ],
+   "text": [
+    "Variation: a few moths had genes that made them black.",
+    "The environment changed: soot made the trees black.",
+    "Birds spotted and ate more pale moths. More black moths survived and reproduced, passing on their genes.",
+    "Each generation had more black moths. The environment 'selected' the black variation."
+   ],
    "key_idea": "Natural selection: the environment selects the inherited variations that survive and are passed on.",
-   "notes": "Walk through the four panels. Ask: did any moth change colour during its life? No. Did the moths decide to turn black? No. The black genes were already there in a few moths; soot made them an advantage."},
-  {"type": "learn", "title": "Salty seas: the Salton Sea tilapia", "image": "diagram:tilapia_graph", "vocab": ["natural selection", "generation", "inherited variation"],
-   "text": ["The Salton Sea in California formed in 1905 and slowly became 25% saltier than the Pacific Ocean. Most fish species died out.", "By chance, some tilapia had genetic variations that helped them cope with salt.", "More of these fish survived and reproduced, so the next generation had more salt-tolerant fish.", "This repeated as the sea got saltier. Today all Salton Sea tilapia cope with very salty water."],
+   "notes": "Walk through the four panels. Ask: did any moth change colour during its life? No. Did the moths decide to turn black? No. The black genes were already there in a few moths; soot made them an advantage."
+  },
+  {
+   "type": "learn",
+   "title": "Salty seas: the Salton Sea tilapia",
+   "image": "diagram:tilapia_graph",
+   "vocab": [
+    "natural selection",
+    "generation",
+    "inherited variation"
+   ],
+   "text": [
+    "The Salton Sea in California formed in 1905 and slowly became 25% saltier than the Pacific Ocean. Most fish species died out.",
+    "By chance, some tilapia had genetic variations that helped them cope with salt.",
+    "More of these fish survived and reproduced, so the next generation had more salt-tolerant fish.",
+    "This repeated as the sea got saltier. Today all Salton Sea tilapia cope with very salty water."
+   ],
    "key_idea": "Environmental change happens over and over; natural selection shifts the whole population, generation by generation.",
-   "notes": "Read the three curves left to right. Tilapia from a freshwater lake die if put in Salton Sea water: the Salton Sea population has become better adapted. The shoreline of the Salton Sea is made of the bones of millions of fish that did not survive."},
-  {"type": "learn", "title": "Darwin, Wallace and evolution", "image": "darwin", "caption": "Charles Darwin (1809 to 1882)", "vocab": ["evolution", "hypothesis", "theory", "species"],
-   "text": ["Evolution is a change over time in the characteristics of organisms.", "Charles Darwin and Alfred Russel Wallace both developed the hypothesis that natural selection causes evolution.", "Tested many times with evidence, it is now the theory of evolution by natural selection.", "Darwin's theory says a population can evolve into a new species. Many scientists think some dinosaurs evolved into birds over millions of years."],
+   "notes": "Read the three curves left to right. Tilapia from a freshwater lake die if put in Salton Sea water: the Salton Sea population has become better adapted. The shoreline of the Salton Sea is made of the bones of millions of fish that did not survive."
+  },
+  {
+   "type": "learn",
+   "title": "Darwin, Wallace and evolution",
+   "image": "darwin",
+   "caption": "A statue of Charles Darwin (1809 to 1882)",
+   "vocab": [
+    "evolution",
+    "hypothesis",
+    "theory",
+    "species"
+   ],
+   "text": [
+    "Evolution is a change over time in the characteristics of organisms.",
+    "Charles Darwin and Alfred Russel Wallace both developed the hypothesis that natural selection causes evolution.",
+    "Tested many times with evidence, it is now the theory of evolution by natural selection.",
+    "Darwin's theory says a population can evolve into a new species. Many scientists think some dinosaurs evolved into birds over millions of years."
+   ],
    "key_idea": "A hypothesis becomes a theory when it has been tested many times and the evidence supports it.",
-   "notes": "Wallace (1823 to 1913) reached the same idea independently; the two published together in 1858. Microraptor, a dinosaur with feathers and four wings, lived 125 to 120 million years ago. New species: two populations separated for long enough can no longer breed together."},
-  {"type": "compare", "title": "Lamarck or Darwin? Long-legged wading birds", "vocab": ["natural selection", "inherited variation"],
-   "left": {"heading": "Lamarck would say (not accepted)", "points": ["Birds that waded deeper got more fish.", "When fish were scarce, the birds stretched their legs a bit.", "They passed their stretched legs to their offspring.", "Over time, legs got longer and longer."]},
-   "right": {"heading": "Darwin would say", "points": ["Birds varied in leg length because of their genes.", "When fish were scarce, longer-legged birds waded deeper and got more fish.", "More of them survived and reproduced, passing on long-leg genes.", "Each generation had more long-legged birds."]},
+   "notes": "Wallace (1823 to 1913) reached the same idea independently; the two published together in 1858. Microraptor, a dinosaur with feathers and four wings, lived 125 to 120 million years ago. New species: two populations separated for long enough can no longer breed together."
+  },
+  {
+   "type": "compare",
+   "title": "Lamarck or Darwin? Long-legged wading birds",
+   "vocab": [
+    "natural selection",
+    "inherited variation"
+   ],
+   "left": {
+    "heading": "Lamarck would say (not accepted)",
+    "points": [
+     "Birds that waded deeper got more fish.",
+     "When fish were scarce, the birds stretched their legs a bit.",
+     "They passed their stretched legs to their offspring.",
+     "Over time, legs got longer and longer."
+    ]
+   },
+   "right": {
+    "heading": "Darwin would say",
+    "points": [
+     "Birds varied in leg length because of their genes.",
+     "When fish were scarce, longer-legged birds waded deeper and got more fish.",
+     "More of them survived and reproduced, passing on long-leg genes.",
+     "Each generation had more long-legged birds."
+    ]
+   },
    "key_idea": "Changes made during an organism's life (stretching, training, a scar) are not inherited. Only genes are passed on.",
-   "notes": "Students write Darwin's version at Stretch. Test the idea: if a parent trains hard and builds big muscles, are the children born with big muscles? No. Environmental variation is not inherited."},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. Short answers.",
-   "questions": ["What causes inherited variation?", "In the 1890s, which moth was better camouflaged on a sooty tree?", "Does natural selection change an individual moth, or the population over generations?", "What is the difference between a hypothesis and a theory?", "A cloned mammoth would have the same what as the original?"],
-   "notes": "Answers: genes; the dark moth; the population over generations; a hypothesis is a testable idea, a theory has been tested many times and is supported by evidence; the same genetic information (DNA)."},
-  {"type": "steps", "title": "A model of natural selection (5 minutes, optional)", "minutes": 5,
-   "steps": ["Scatter 20 white and 20 black paper 'moths' on the black sheet.", "One student is the bird: pick up as many moths as you can in 10 seconds.", "Count the survivors of each colour. Each survivor 'reproduces': add one moth of the same colour.", "Repeat for three generations and record the numbers. Then try the white sheet.", "Predict first: which colour will increase on each sheet?"],
+   "notes": "Students write Darwin's version at Stretch. Test the idea: if a parent trains hard and builds big muscles, are the children born with big muscles? No. Environmental variation is not inherited."
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. Short answers.",
+   "questions": [
+    "What causes inherited variation?",
+    "In the 1890s, which moth was better camouflaged on a sooty tree?",
+    "Does natural selection change an individual moth, or the population over generations?",
+    "What is the difference between a hypothesis and a theory?",
+    "A cloned mammoth would have the same what as the original?"
+   ],
+   "notes": "Answers: genes; the dark moth; the population over generations; a hypothesis is a testable idea, a theory has been tested many times and is supported by evidence; the same genetic information (DNA)."
+  },
+  {
+   "type": "steps",
+   "title": "A model of natural selection (5 minutes, optional)",
+   "minutes": 5,
+   "steps": [
+    "Scatter 20 white and 20 black paper 'moths' on the black sheet.",
+    "One student is the bird: pick up as many moths as you can in 10 seconds.",
+    "Count the survivors of each colour. Each survivor 'reproduces': add one moth of the same colour.",
+    "Repeat for three generations and record the numbers. Then try the white sheet.",
+    "Predict first: which colour will increase on each sheet?"
+   ],
    "footer": "A model is a simpler version of the real thing. What does the model leave out?",
-   "notes": "Based on Oak National Academy's cocktail-stick model. The model leaves out: moths moving, more than one predator, the slow build-up of soot, and the fact that real inheritance is not exact copying. If time is short, describe the model and go straight to the worksheet."},
-  {"type": "steps", "title": "Your turn: natural selection", "minutes": 8,
-   "steps": ["Core: what causes inherited variation; put the lizard story in order; explain the peppered moths and predict what has happened since the factories closed.", "Stretch: write Darwin's explanation of the long-legged birds; explain how salt tolerance was selected in the tilapia.", "Challenge: how two separated populations become different species; mammoth chromosomes, thick hair and why dinosaurs cannot be cloned.", "Use the four steps: variation, environment changes, survival and reproduction, next generation."],
+   "notes": "Based on Oak National Academy's cocktail-stick model. The model leaves out: moths moving, more than one predator, the slow build-up of soot, and the fact that real inheritance is not exact copying. If time is short, describe the model and go straight to the worksheet."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn: natural selection",
+   "minutes": 8,
+   "steps": [
+    "Core: what causes inherited variation; put the lizard story in order; explain the peppered moths and predict what has happened since the factories closed.",
+    "Stretch: write Darwin's explanation of the long-legged birds; explain how salt tolerance was selected in the tilapia.",
+    "Challenge: how two separated populations become different species; mammoth chromosomes, thick hair and why dinosaurs cannot be cloned.",
+    "Use the four steps: variation, environment changes, survival and reproduction, next generation."
+   ],
    "footer": "Never write 'the moths changed colour to survive'. Write 'more of the moths that were already dark survived'.",
-   "notes": "The lizard ordering (Core 2) is the clearest check of the four-step logic. Watch for Lamarckian language in the explanations and correct it with the frame on the footer."},
-  {"type": "think", "title": "Should we bring back the mammoth?", "prompt": "Woolly mammoths became extinct about 4000 years ago, probably because of hunting and a warming Earth. DNA survives in frozen mammoth remains, and some scientists think we could clone a mammoth. Should we? Could we clone a dinosaur?", "image": "mammoth", "caption": "A model of a woolly mammoth",
-   "frames": ["Cloning a mammoth could help us to ___, but ___.", "A cloned mammoth might not behave naturally because ___.", "We could not clone a dinosaur because ___."],
-   "notes": "Points: it could help us understand how warming affects endangered species; but a cloned mammoth raised by elephants may not behave naturally, so the experiment may not be valid, and its habitat is gone. Dinosaur DNA decomposed long ago (65 million years), so there is nothing to clone."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 3,
-   "questions": ["What is natural selection?", "What is evolution?", "Explain why dark peppered moths became more common near Manchester in the 1800s."],
-   "notes": "Answers: organisms with inherited characteristics that suit the environment are more likely to survive, reproduce and pass on their genes; a change over time in the characteristics of organisms; soot blackened the trees, birds ate more pale moths, more dark moths survived and reproduced, so each generation had more dark moths."},
-  {"type": "summary", "title": "What we learned in 9A", "next": "End of unit: revise with Workbook page 14 (Recreating animals) and the key words from all seven lessons. Next unit: 9B Plant growth.",
-   "points": ["Variation is environmental (not inherited) or inherited (genes, from two gametes fusing at fertilisation).", "Genetic information is in genes, on DNA, in chromosomes, in the nucleus: 46 chromosomes in a body cell, 23 in a gamete.", "Adaptations come from genes; when the environment changes a species can become endangered or extinct.", "Natural selection: the environment selects the inherited variations that survive and reproduce; over many generations this is evolution, and it can produce new species."],
-   "notes": "Unit review: use the exit tickets from all seven lessons to pick the ideas to revisit. The workbook's Recreating animals page (14) revisits species, chromosomes, adaptations and evolution through the mammoth."}
+   "notes": "The lizard ordering (Core 2) is the clearest check of the four-step logic. Watch for Lamarckian language in the explanations and correct it with the frame on the footer."
+  },
+  {
+   "type": "think",
+   "title": "Should we bring back the mammoth?",
+   "prompt": "Woolly mammoths became extinct about 4000 years ago, probably because of hunting and a warming Earth. DNA survives in frozen mammoth remains, and some scientists think we could clone a mammoth. Should we? Could we clone a dinosaur?",
+   "image": "mammoth",
+   "caption": "A model of a woolly mammoth",
+   "frames": [
+    "Cloning a mammoth could help us to ___, but ___.",
+    "A cloned mammoth might not behave naturally because ___.",
+    "We could not clone a dinosaur because ___."
+   ],
+   "notes": "Points: it could help us understand how warming affects endangered species; but a cloned mammoth raised by elephants may not behave naturally, so the experiment may not be valid, and its habitat is gone. Dinosaur DNA decomposed long ago (65 million years), so there is nothing to clone."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 3,
+   "questions": [
+    "What is natural selection?",
+    "What is evolution?",
+    "Explain why dark peppered moths became more common near Manchester in the 1800s."
+   ],
+   "notes": "Answers: organisms with inherited characteristics that suit the environment are more likely to survive, reproduce and pass on their genes; a change over time in the characteristics of organisms; soot blackened the trees, birds ate more pale moths, more dark moths survived and reproduced, so each generation had more dark moths."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned in 9A",
+   "next": "End of unit: revise with Workbook page 14 (Recreating animals) and the key words from all seven lessons. Next unit: 9B Plant growth.",
+   "points": [
+    "Variation is environmental (not inherited) or inherited (genes, from two gametes fusing at fertilisation).",
+    "Genetic information is in genes, on DNA, in chromosomes, in the nucleus: 46 chromosomes in a body cell, 23 in a gamete.",
+    "Adaptations come from genes; when the environment changes a species can become endangered or extinct.",
+    "Natural selection: the environment selects the inherited variations that survive and reproduce; over many generations this is evolution, and it can produce new species."
+   ],
+   "notes": "Unit review: use the exit tickets from all seven lessons to pick the ideas to revisit. The workbook's Recreating animals page (14) revisits species, chromosomes, adaptations and evolution through the mammoth."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "State what causes inherited variation.", "lines": 1},
-   {"q": "Many times a year, a certain river suddenly floods. Over many years, a species of lizard living by the river evolved longer legs. Darwin might have explained this using the sentences in the table. Number them 1 to 5 in the correct order.", "table": {"headers": ["Order", "Sentence"], "widths": [1200, 8600], "rows": [["", "In the next generation, more of the lizards have longer legs."], ["", "The surviving lizards produce offspring that also have longer legs."], ["", "The lizards with slightly longer legs are more likely to survive the flood."], ["", "This process of natural selection repeats over and over again."], ["", "When the river floods, the lizards with slightly longer legs run faster."]]}},
-   {"q": "In the 1850s most peppered moths around Manchester were pale. By 1895, 98% were black. Factories built in those years covered the trees in soot.", "parts": [
-     {"text": "Explain why black moths survived better than pale moths around Manchester at the end of the 19th century.", "lines": 3},
-     {"text": "Manchester now has many fewer factories and the trees are no longer black. Predict how the number of black moths has changed, and use natural selection to explain your prediction.", "lines": 3}]}
+   {
+    "q": "State what causes inherited variation.",
+    "lines": 1
+   },
+   {
+    "q": "Many times a year, a certain river suddenly floods. Over many years, a species of lizard living by the river evolved longer legs. Darwin might have explained this using the sentences in the table. Number them 1 to 5 in the correct order.",
+    "table": {
+     "headers": [
+      "Order",
+      "Sentence"
+     ],
+     "widths": [
+      1200,
+      8600
+     ],
+     "rows": [
+      [
+       "",
+       "In the next generation, more of the lizards have longer legs."
+      ],
+      [
+       "",
+       "The surviving lizards produce offspring that also have longer legs."
+      ],
+      [
+       "",
+       "The lizards with slightly longer legs are more likely to survive the flood."
+      ],
+      [
+       "",
+       "This process of natural selection repeats over and over again."
+      ],
+      [
+       "",
+       "When the river floods, the lizards with slightly longer legs run faster."
+      ]
+     ]
+    }
+   },
+   {
+    "q": "In the 1850s most peppered moths around Manchester were pale. By 1895, 98% were black. Factories built in those years covered the trees in soot.",
+    "parts": [
+     {
+      "text": "Explain why black moths survived better than pale moths around Manchester at the end of the 19th century.",
+      "lines": 3
+     },
+     {
+      "text": "Manchester now has many fewer factories and the trees are no longer black. Predict how the number of black moths has changed, and use natural selection to explain your prediction.",
+      "lines": 3
+     }
+    ]
+   }
   ],
   "stretch": [
-   {"q": "Lamarck and Darwin both tried to explain how wading birds evolved long legs. Lamarck said: 'Birds that could wade into deeper water got more fish. When there were fewer fish, the birds stretched their legs a bit, and passed their longer legs on to their offspring. Over time the birds' legs got longer and longer.' Lamarck's idea is not accepted. Write what Darwin would say instead. Use the words genes, variation, survive, reproduce and generation.", "lines": 6},
-   {"q": "The Salton Sea in California became saltier and saltier after it formed in 1905. Tilapia are the only fish still living there.", "parts": [
-     {"text": "State the characteristic that has been naturally selected in the Salton Sea tilapia.", "lines": 1},
-     {"text": "Explain how this selection happened.", "lines": 4}]}
+   {
+    "q": "Lamarck and Darwin both tried to explain how wading birds evolved long legs. Lamarck said: 'Birds that could wade into deeper water got more fish. When there were fewer fish, the birds stretched their legs a bit, and passed their longer legs on to their offspring. Over time the birds' legs got longer and longer.' Lamarck's idea is not accepted. Write what Darwin would say instead. Use the words genes, variation, survive, reproduce and generation.",
+    "lines": 6
+   },
+   {
+    "q": "The Salton Sea in California became saltier and saltier after it formed in 1905. Tilapia are the only fish still living there.",
+    "parts": [
+     {
+      "text": "State the characteristic that has been naturally selected in the Salton Sea tilapia.",
+      "lines": 1
+     },
+     {
+      "text": "Explain how this selection happened.",
+      "lines": 4
+     }
+    ]
+   }
   ],
   "challenge": [
-   {"q": "Explain how natural selection can produce a new species if two populations of the same organism become separated, for example on two islands. (Hint: think about the definition of a species.)", "lines": 5},
-   {"q": "Woolly mammoths became extinct about 4000 years ago. Mammoths and elephants evolved from one species about 6 million years ago. Mammoths had 58 chromosomes.", "parts": [
-     {"text": "How many chromosomes would a mammoth sperm cell have?", "lines": 1},
-     {"text": "Suggest how mammoths may have evolved thick hair, when the species they evolved from had very little hair.", "lines": 4},
-     {"text": "Explain why scientists could clone a mammoth from frozen remains but could not clone a dinosaur.", "lines": 2}]}
+   {
+    "q": "Explain how natural selection can produce a new species if two populations of the same organism become separated, for example on two islands. (Hint: think about the definition of a species.)",
+    "lines": 5
+   },
+   {
+    "q": "Woolly mammoths became extinct about 4000 years ago. Mammoths and elephants evolved from one species about 6 million years ago. Mammoths had 58 chromosomes.",
+    "parts": [
+     {
+      "text": "How many chromosomes would a mammoth sperm cell have?",
+      "lines": 1
+     },
+     {
+      "text": "Suggest how mammoths may have evolved thick hair, when the species they evolved from had very little hair.",
+      "lines": 4
+     },
+     {
+      "text": "Explain why scientists could clone a mammoth from frozen remains but could not clone a dinosaur.",
+      "lines": 2
+     }
+    ]
+   }
   ],
   "my_thinking": "Someone says: 'Evolution is only a theory.' What does the word theory mean in science? Is 'only a theory' a good reason to doubt it?",
-  "word_bank": ["natural selection", "evolution", "inherited variation", "gene", "reproduce", "generation", "hypothesis", "theory", "species", "camouflage"],
-  "exit": ["What is natural selection?", "What is evolution?", "Explain why dark peppered moths became more common near Manchester in the 1800s."],
-  "exit_lines": [2, 1, 3]
+  "word_bank": [
+   "natural selection",
+   "evolution",
+   "inherited variation",
+   "gene",
+   "reproduce",
+   "generation",
+   "hypothesis",
+   "theory",
+   "species",
+   "camouflage"
+  ],
+  "exit": [
+   "What is natural selection?",
+   "What is evolution?",
+   "Explain why dark peppered moths became more common near Manchester in the 1800s."
+  ],
+  "exit_lines": [
+   2,
+   1,
+   3
+  ]
  },
  "answers": {
   "core": [

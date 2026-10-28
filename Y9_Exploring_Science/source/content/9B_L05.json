@@ -7,11 +7,24 @@
  "title": "Growing crops",
  "title_cn": "种植农作物",
  "slug": "Growing_crops",
- "book": {"pages": "28 to 31", "spread": "9Bd Growing crops; 9Bd Protecting wild plants (STEM)"},
- "workbook": {"pages": "20 to 22"},
+ "book": {
+  "pages": "28 to 31",
+  "spread": "9Bd Growing crops; 9Bd Protecting wild plants (STEM)"
+ },
+ "workbook": {
+  "pages": "20 to 22"
+ },
  "oak": [
-  {"unit": "Ecosystems, Year 7", "lesson": "Using chemicals in farming", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/ecosystems/lessons/using-chemicals-in-farming"},
-  {"unit": "Climate change and biodiversity, Year 9", "lesson": "Agriculture and habitat loss", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/climate-change-and-biodiversity/lessons/agriculture-and-habitat-loss"}
+  {
+   "unit": "Ecosystems, Year 7",
+   "lesson": "Using chemicals in farming",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/ecosystems/lessons/using-chemicals-in-farming"
+  },
+  {
+   "unit": "Climate change and biodiversity, Year 9",
+   "lesson": "Agriculture and habitat loss",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/climate-change-and-biodiversity/lessons/agriculture-and-habitat-loss"
+  }
  ],
  "big_idea": "Farmers raise the yield of a crop by giving plants what they need, removing what competes with or eats them, and breeding better varieties.",
  "goals": [
@@ -19,17 +32,61 @@
   "I can describe how new varieties are made by cross-breeding and selective breeding, and interpret the results of a fertiliser investigation."
  ],
  "keywords": [
-  {"en": "yield", "cn": "产量", "meaning": "the amount of useful product a farmer gets from a crop"},
-  {"en": "fertiliser", "cn": "肥料", "meaning": "a substance added to soil that contains mineral salts to help plants grow"},
-  {"en": "manure", "cn": "粪肥", "meaning": "animal waste used as a natural fertiliser"},
-  {"en": "decomposer", "cn": "分解者", "meaning": "a microorganism that breaks down dead material and waste"},
-  {"en": "pesticide", "cn": "农药", "meaning": "a substance that kills pests (organisms that damage crops)"},
-  {"en": "insecticide", "cn": "杀虫剂", "meaning": "a pesticide that kills insects"},
-  {"en": "fungicide", "cn": "杀菌剂", "meaning": "a pesticide that kills fungi that cause plant diseases"},
-  {"en": "herbicide", "cn": "除草剂", "meaning": "a pesticide that kills weeds"},
-  {"en": "weed", "cn": "杂草", "meaning": "a plant growing where it is not wanted, competing with the crop"},
-  {"en": "variety", "cn": "品种", "meaning": "a group of plants bred to have certain characteristics"},
-  {"en": "selective breeding", "cn": "选择育种", "meaning": "breeding only from the plants with the wanted characteristics, generation after generation"}
+  {
+   "en": "yield",
+   "cn": "产量",
+   "meaning": "the amount of useful product a farmer gets from a crop"
+  },
+  {
+   "en": "fertiliser",
+   "cn": "肥料",
+   "meaning": "a substance added to soil that contains mineral salts to help plants grow"
+  },
+  {
+   "en": "manure",
+   "cn": "粪肥",
+   "meaning": "animal waste used as a natural fertiliser"
+  },
+  {
+   "en": "decomposer",
+   "cn": "分解者",
+   "meaning": "a microorganism that breaks down dead material and waste"
+  },
+  {
+   "en": "pesticide",
+   "cn": "农药",
+   "meaning": "a substance that kills pests (organisms that damage crops)"
+  },
+  {
+   "en": "insecticide",
+   "cn": "杀虫剂",
+   "meaning": "a pesticide that kills insects"
+  },
+  {
+   "en": "fungicide",
+   "cn": "杀菌剂",
+   "meaning": "a pesticide that kills fungi that cause plant diseases"
+  },
+  {
+   "en": "herbicide",
+   "cn": "除草剂",
+   "meaning": "a pesticide that kills weeds"
+  },
+  {
+   "en": "weed",
+   "cn": "杂草",
+   "meaning": "a plant growing where it is not wanted, competing with the crop"
+  },
+  {
+   "en": "variety",
+   "cn": "品种",
+   "meaning": "a group of plants bred to have certain characteristics"
+  },
+  {
+   "en": "selective breeding",
+   "cn": "选择育种",
+   "meaning": "breeding only from the plants with the wanted characteristics, generation after generation"
+  }
  ],
  "misconceptions": [
   "Fertiliser is plant food. Fertilisers supply mineral salts (nitrates, phosphates, potassium); the plant still makes its own food by photosynthesis.",
@@ -37,15 +94,61 @@
   "More fertiliser always means more growth. The bean plant data show growth falling again with too much fertiliser; there is an optimum amount."
  ],
  "safety": "No practical hazards beyond normal classroom rules.",
- "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)", "A packet of artificial fertiliser and a photo of manure spreading to pass round (optional)"],
+ "equipment": [
+  "Worksheets (standard and Chinese key words versions)",
+  "Mini whiteboards for the quick check (optional)",
+  "A packet of artificial fertiliser and a photo of manure spreading to pass round (optional)"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "Shows the fertiliser spreader photo and the three questions.", "students": "Answer in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
-  {"phase": "Hook", "min": 3, "teacher": "UK farms grow 35% more food per square metre than in 1973. How? Collects a list on the board.", "students": "Pair talk, build the list.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 10, "teacher": "Teaches fertilisers, the bean plant investigation, pesticides, varieties and breeding, food supply and protecting wild plants. Quick check.", "students": "Read the chart; answer the quick check.", "resource": "Slides 5 to 10"},
-  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Checks the bar chart (bars with gaps: separate groups) and the trend description.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 11, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "Advice to the farmer from the group 4 result; what would you change? Takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
-  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook pages 20 to 22.", "students": "Complete the exit ticket alone.", "resource": "Slides 13 to 14, worksheet strip"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "Shows the fertiliser spreader photo and the three questions.",
+   "students": "Answer in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the two goals; points to the key words.",
+   "students": "Find the key words box on the worksheet.",
+   "resource": "Slide 3, worksheet header"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "UK farms grow 35% more food per square metre than in 1973. How? Collects a list on the board.",
+   "students": "Pair talk, build the list.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 10,
+   "teacher": "Teaches fertilisers, the bean plant investigation, pesticides, varieties and breeding, food supply and protecting wild plants. Quick check.",
+   "students": "Read the chart; answer the quick check.",
+   "resource": "Slides 5 to 10"
+  },
+  {
+   "phase": "Do",
+   "min": 14,
+   "teacher": "Sets the worksheet. Checks the bar chart (bars with gaps: separate groups) and the trend description.",
+   "students": "Core, then Stretch, then Challenge.",
+   "resource": "Slide 11, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "Advice to the farmer from the group 4 result; what would you change? Takes answers with the frames.",
+   "students": "Pair discussion, share with a frame.",
+   "resource": "Slide 12"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 4,
+   "teacher": "Collects exit tickets; summary; sets Workbook pages 20 to 22.",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slides 13 to 14, worksheet strip"
+  }
  ],
  "tiers": {
   "core": "Match the pesticide types to what they kill; plot the fertiliser investigation and describe the trend; gap fill on fertilisers.",
@@ -53,81 +156,351 @@
   "challenge": "Plan how to breed a yellow sweet apple; explain how farms produce 35% more food than in 1973."
  },
  "slides": [
-  {"type": "title", "subtitle": "How do farmers get the biggest harvest from the same field?", "image": "fertiliser_spreading",
-   "notes": "Lesson 5 of 9B. We move from the plant to the farm: what a farmer does to raise the yield, and the problems that come with it (next lesson)."},
-  {"type": "donow", "title": "Do Now: more from the same field", "minutes": 4, "image": "fertiliser_spreading", "caption": "Spreading fertiliser",
-   "prompt": ["1. What does the yield of a crop mean?", "2. Name three things a crop plant needs that a farmer can provide.", "3. Suggest why a farmer might remove a hedge from the edge of a field."],
-   "notes": "Answers: the amount of useful product from the crop; e.g. water, mineral salts (fertiliser), light (greenhouse), warmth, protection from pests; to make space for big machines and more crop. Keep question 3 in mind for next lesson: hedges are habitats."},
-  {"type": "today", "title": "Today",
-   "notes": "Read each goal aloud. Point to the key words box on the worksheet; three of today's words end in -cide, which means 'kills'."},
-  {"type": "hook", "title": "35 per cent more food", "image": "crop_spraying", "caption": "Spraying a crop",
+  {
+   "type": "title",
+   "subtitle": "How do farmers get the biggest harvest from the same field?",
+   "image": "fertiliser_spreading",
+   "notes": "Lesson 5 of 9B. We move from the plant to the farm: what a farmer does to raise the yield, and the problems that come with it (next lesson)."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: more from the same field",
+   "minutes": 4,
+   "image": "fertiliser_spreading",
+   "caption": "Spreading fertiliser",
+   "prompt": [
+    "1. What does the yield of a crop mean?",
+    "2. Name three things a crop plant needs that a farmer can provide.",
+    "3. Suggest why a farmer might remove a hedge from the edge of a field."
+   ],
+   "notes": "Answers: the amount of useful product from the crop; e.g. water, mineral salts (fertiliser), light (greenhouse), warmth, protection from pests; to make space for big machines and more crop. Keep question 3 in mind for next lesson: hedges are habitats."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read each goal aloud. Point to the key words box on the worksheet; three of today's words end in -cide, which means 'kills'."
+  },
+  {
+   "type": "hook",
+   "title": "35 per cent more food",
+   "image": "crop_spraying",
+   "caption": "Spraying a crop",
    "question": "Farms in the UK today produce 35% more food from each square metre of land than they did in 1973. How?",
-   "text": ["Talk to a partner. Make a list of everything a farmer could change."],
-   "notes": "Build a list on the board: fertilisers, pesticides, better varieties, machines, greenhouses, irrigation, removing hedges. The Challenge question asks students to explain three of these, so leave the list up."},
-  {"type": "learn", "title": "Fertilisers and the best conditions", "image": "cows_field", "caption": "Manure from farm animals is a natural fertiliser", "vocab": ["fertiliser", "manure", "decomposer"],
-   "text": ["Fertilisers contain mineral salts that help plants grow: nitrates, phosphates and potassium.", "Artificial fertilisers are cheap, dissolve in water and act fast.", "Manure (animal waste) is natural: decomposers break it down and release the mineral salts slowly.", "Greenhouses protect crops from changes in abiotic factors such as temperature, wind and rain.", "Machines plant and harvest faster than people; forests and hedges are cleared to make room for them."],
+   "text": [
+    "Talk to a partner. Make a list of everything a farmer could change."
+   ],
+   "notes": "Build a list on the board: fertilisers, pesticides, better varieties, machines, greenhouses, irrigation, removing hedges. The Challenge question asks students to explain three of these, so leave the list up."
+  },
+  {
+   "type": "learn",
+   "title": "Fertilisers and the best conditions",
+   "image": "cows_field",
+   "caption": "Manure from farm animals is a natural fertiliser",
+   "vocab": [
+    "fertiliser",
+    "manure",
+    "decomposer"
+   ],
+   "text": [
+    "Fertilisers contain mineral salts that help plants grow: nitrates, phosphates and potassium.",
+    "Artificial fertilisers are cheap, dissolve in water and act fast.",
+    "Manure (animal waste) is natural: decomposers break it down and release the mineral salts slowly.",
+    "Greenhouses protect crops from changes in abiotic factors such as temperature, wind and rain.",
+    "Machines plant and harvest faster than people; forests and hedges are cleared to make room for them."
+   ],
    "key_idea": "Fertiliser supplies the mineral salts a plant builds with; the plant still makes its own food.",
-   "notes": "Ask: too little phosphate gives poor root growth; what does too little nitrate give? Poor growth and yellow leaves (proteins and chlorophyll). Manure is spread before planting so the decomposers have time; artificial fertiliser is sprayed on the growing crop because it works at once."},
-  {"type": "chart", "title": "A fertiliser investigation", "vocab": ["yield", "fertiliser"],
-   "chart": {"type": "bar", "title": "Mean increase in height of bean seedlings after one week", "categories": ["2 drops", "4 drops", "6 drops", "8 drops"], "series": [{"name": "Mean increase in height (cm)", "values": [4.6, 6.3, 7.8, 7.2]}], "x_title": "Liquid fertiliser added to each pot", "y_title": "Mean increase in height (cm)"},
-   "text": ["Four groups each grew 20 bean plants in identical pots, one plant per pot.", "Each group added a different number of drops of the same liquid fertiliser.", "Describe the trend from 2 to 6 drops.", "What happened with 8 drops?"],
+   "notes": "Ask: too little phosphate gives poor root growth; what does too little nitrate give? Poor growth and yellow leaves (proteins and chlorophyll). Manure is spread before planting so the decomposers have time; artificial fertiliser is sprayed on the growing crop because it works at once."
+  },
+  {
+   "type": "chart",
+   "title": "A fertiliser investigation",
+   "vocab": [
+    "yield",
+    "fertiliser"
+   ],
+   "chart": {
+    "type": "bar",
+    "title": "Mean increase in height of bean seedlings after one week",
+    "categories": [
+     "2 drops",
+     "4 drops",
+     "6 drops",
+     "8 drops"
+    ],
+    "series": [
+     {
+      "name": "Mean increase in height (cm)",
+      "values": [
+       4.6,
+       6.3,
+       7.8,
+       7.2
+      ]
+     }
+    ],
+    "x_title": "Liquid fertiliser added to each pot",
+    "y_title": "Mean increase in height (cm)"
+   },
+   "text": [
+    "Four groups each grew 20 bean plants in identical pots, one plant per pot.",
+    "Each group added a different number of drops of the same liquid fertiliser.",
+    "Describe the trend from 2 to 6 drops.",
+    "What happened with 8 drops?"
+   ],
    "key_idea": "More fertiliser helps up to a point; too much can harm the plants. There is an optimum amount.",
-   "notes": "Trend: growth increases as fertiliser increases from 2 to 6 drops; at 8 drops growth is lower. Why might too much fertiliser harm a plant? Too concentrated a solution around the roots can stop them absorbing water (link to osmosis in 9C). Students plot this chart on the worksheet."},
-  {"type": "learn", "title": "Pesticides", "image": "aphids", "caption": "Aphids suck sugary sap from the phloem", "vocab": ["pesticide", "insecticide", "fungicide", "herbicide", "weed"],
-   "text": ["Pests are organisms that damage crops. Pesticides kill them.", "Insecticides kill insect pests such as aphids.", "Fungicides kill fungi that cause plant diseases such as rust.", "Herbicides (weedkillers) kill weeds, which compete with the crop for water, light and mineral salts.", "Selective herbicides kill broad-leaved weeds but not narrow-leaved crops such as wheat."],
+   "notes": "Trend: growth increases as fertiliser increases from 2 to 6 drops; at 8 drops growth is lower. Why might too much fertiliser harm a plant? Too concentrated a solution around the roots can stop them absorbing water (link to osmosis in 9C). Students plot this chart on the worksheet."
+  },
+  {
+   "type": "learn",
+   "title": "Pesticides",
+   "image": "aphids",
+   "caption": "Aphids suck sugary sap from the phloem",
+   "vocab": [
+    "pesticide",
+    "insecticide",
+    "fungicide",
+    "herbicide",
+    "weed"
+   ],
+   "text": [
+    "Pests are organisms that damage crops. Pesticides kill them.",
+    "Insecticides kill insect pests such as aphids.",
+    "Fungicides kill fungi that cause plant diseases such as rust.",
+    "Herbicides (weedkillers) kill weeds, which compete with the crop for water, light and mineral salts.",
+    "Selective herbicides kill broad-leaved weeds but not narrow-leaved crops such as wheat."
+   ],
    "key_idea": "-cide means 'kills': insecticide, fungicide and herbicide are all pesticides.",
-   "notes": "Why does killing aphids raise the yield? Aphids take the sugar solution from the phloem, so less sugar reaches the grain or fruit. Selective herbicides are expensive: farmers in low-income countries may weed by hand instead (Stretch 2)."},
-  {"type": "diagram", "title": "New varieties", "image": "diagram:selective_breeding", "vocab": ["variety", "selective breeding"],
+   "notes": "Why does killing aphids raise the yield? Aphids take the sugar solution from the phloem, so less sugar reaches the grain or fruit. Selective herbicides are expensive: farmers in low-income countries may weed by hand instead (Stretch 2)."
+  },
+  {
+   "type": "diagram",
+   "title": "New varieties",
+   "image": "diagram:selective_breeding",
+   "vocab": [
+    "variety",
+    "selective breeding"
+   ],
    "text": "A variety is a group of plants bred to have certain characteristics, such as resistance to rust disease or short stems that do not blow over.",
    "key_idea": "Cross-breeding: two varieties bred together to combine their characteristics. Selective breeding: only the best plants are used to breed, generation after generation.",
-   "notes": "Walk through the diagram: choose the shortest plants, breed them, choose the shortest of their offspring, repeat. Modern wheat is short and rust-resistant; a 1950s variety is tall and gets rust, so it is no longer grown. Challenge 1 uses the same idea with apples."},
-  {"type": "learn", "title": "Food supply and wild plants", "image": "iucn_red_list", "caption": "IUCN Red List categories", "vocab": ["yield"],
-   "text": ["In low-income countries many families grow their own crops. More people in the family, or more pests, means less food for each person.", "Selective herbicides cost money, so some farmers weed by hand.", "Farming can also destroy the habitats of wild plants. Endemic species, found nowhere else, are most at risk.", "The IUCN Red List classifies species from least concern to critically endangered.", "Before land is farmed, a plant ecologist may carry out an ecological audit."],
+   "notes": "Walk through the diagram: choose the shortest plants, breed them, choose the shortest of their offspring, repeat. Modern wheat is short and rust-resistant; a 1950s variety is tall and gets rust, so it is no longer grown. Challenge 1 uses the same idea with apples."
+  },
+  {
+   "type": "learn",
+   "title": "Food supply and wild plants",
+   "image": "iucn_red_list",
+   "caption": "The ring-tailed lemur is listed as Endangered on the IUCN Red List",
+   "vocab": [
+    "yield"
+   ],
+   "text": [
+    "In low-income countries many families grow their own crops. More people in the family, or more pests, means less food for each person.",
+    "Selective herbicides cost money, so some farmers weed by hand.",
+    "Farming can also destroy the habitats of wild plants. Endemic species, found nowhere else, are most at risk.",
+    "The IUCN Red List classifies species from least concern to critically endangered.",
+    "Before land is farmed, a plant ecologist may carry out an ecological audit."
+   ],
    "key_idea": "Raising the food supply and protecting wild plants both matter; an ecological audit helps decide where farming can expand.",
-   "notes": "An ecological audit records which species are present, how many there are, where they are and which are endangered; the evidence goes into a report that can recommend Key Biodiversity Area status. The My thinking question asks what the audit should record."},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
-   "questions": ["Which type of pesticide kills weeds?", "Name two mineral salts found in fertilisers.", "Which fertiliser works more slowly, manure or artificial fertiliser? Why?", "In the bean investigation, which number of drops gave the most growth?", "What is a variety?"],
-   "notes": "Answers: herbicide; nitrates, phosphates, potassium (any two); manure, because decomposers must break it down first; 6 drops; a group of plants bred to have certain characteristics."},
-  {"type": "steps", "title": "Your turn", "minutes": 14,
-   "steps": ["Core: match the pesticides, plot the bean plant results on the grid and describe the trend, then fill the gaps on fertilisers.", "Stretch: aphids and yield; selective herbicides; improving the investigation.", "Challenge: breeding a yellow sweet apple; 35% more food since 1973.", "Finished? Answer the My thinking question about the ecological audit."],
+   "notes": "An ecological audit records which species are present, how many there are, where they are and which are endangered; the evidence goes into a report that can recommend Key Biodiversity Area status. The My thinking question asks what the audit should record."
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": [
+    "Which type of pesticide kills weeds?",
+    "Name two mineral salts found in fertilisers.",
+    "Which fertiliser works more slowly, manure or artificial fertiliser? Why?",
+    "In the bean investigation, which number of drops gave the most growth?",
+    "What is a variety?"
+   ],
+   "notes": "Answers: herbicide; nitrates, phosphates, potassium (any two); manure, because decomposers must break it down first; 6 drops; a group of plants bred to have certain characteristics."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn",
+   "minutes": 14,
+   "steps": [
+    "Core: match the pesticides, plot the bean plant results on the grid and describe the trend, then fill the gaps on fertilisers.",
+    "Stretch: aphids and yield; selective herbicides; improving the investigation.",
+    "Challenge: breeding a yellow sweet apple; 35% more food since 1973.",
+    "Finished? Answer the My thinking question about the ecological audit."
+   ],
    "footer": "Bar chart: the four groups are separate categories, so leave gaps between the bars. Label both axes with units.",
-   "notes": "Check the charts: category axis labelled with the number of drops, height axis in cm, bars with gaps. The common error is joining the tops of the bars with a line as if it were continuous data."},
-  {"type": "think", "title": "Advice for the farmer", "prompt": "Group 4 added 8 drops and got less growth than group 3 with 6 drops. What would you advise a farmer about how much fertiliser to use? What would you change in the investigation to be more sure?",
-   "frames": ["I would advise the farmer to ___ because ___.", "To be more sure, I would ___ because ___.", "One thing we do not know is ___."],
-   "notes": "Expected: use a medium amount (about 6 drops' worth), because more fertiliser reduced growth and costs money; repeat with more plants or more groups, test amounts between 6 and 8 drops, and measure for longer than a week. Also: we do not know the yield (beans), only the height."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 4,
-   "questions": ["What do fertilisers contain that helps plants grow?", "What do herbicides kill, and why does this help the crop?", "Describe one step in selective breeding."],
-   "notes": "Answers: mineral salts such as nitrates, phosphates and potassium; weeds, which compete with the crop for water, light and mineral salts; choose only the plants with the wanted characteristic to breed from (and repeat over many generations). Collect the strips."},
-  {"type": "summary", "title": "What we learned", "next": "Farming problems: fertiliser in rivers, persistent pesticides, single varieties and the carbon cycle.",
-   "points": ["Yield is raised by fertilisers (mineral salts), greenhouses, machines and clearing land.", "Too much fertiliser can reduce growth: there is an optimum amount.", "Pesticides kill pests: insecticides, fungicides and herbicides; selective herbicides spare narrow-leaved crops.", "New varieties come from cross-breeding and selective breeding over many generations.", "Farming must be balanced against protecting wild plants, especially endemic species."],
-   "notes": "Homework: Workbook pages 20 to 22. Page 22 is the ecological audit report template; it can be done in pairs."}
+   "notes": "Check the charts: category axis labelled with the number of drops, height axis in cm, bars with gaps. The common error is joining the tops of the bars with a line as if it were continuous data."
+  },
+  {
+   "type": "think",
+   "title": "Advice for the farmer",
+   "prompt": "Group 4 added 8 drops and got less growth than group 3 with 6 drops. What would you advise a farmer about how much fertiliser to use? What would you change in the investigation to be more sure?",
+   "frames": [
+    "I would advise the farmer to ___ because ___.",
+    "To be more sure, I would ___ because ___.",
+    "One thing we do not know is ___."
+   ],
+   "notes": "Expected: use a medium amount (about 6 drops' worth), because more fertiliser reduced growth and costs money; repeat with more plants or more groups, test amounts between 6 and 8 drops, and measure for longer than a week. Also: we do not know the yield (beans), only the height."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 4,
+   "questions": [
+    "What do fertilisers contain that helps plants grow?",
+    "What do herbicides kill, and why does this help the crop?",
+    "Describe one step in selective breeding."
+   ],
+   "notes": "Answers: mineral salts such as nitrates, phosphates and potassium; weeds, which compete with the crop for water, light and mineral salts; choose only the plants with the wanted characteristic to breed from (and repeat over many generations). Collect the strips."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned",
+   "next": "Farming problems: fertiliser in rivers, persistent pesticides, single varieties and the carbon cycle.",
+   "points": [
+    "Yield is raised by fertilisers (mineral salts), greenhouses, machines and clearing land.",
+    "Too much fertiliser can reduce growth: there is an optimum amount.",
+    "Pesticides kill pests: insecticides, fungicides and herbicides; selective herbicides spare narrow-leaved crops.",
+    "New varieties come from cross-breeding and selective breeding over many generations.",
+    "Farming must be balanced against protecting wild plants, especially endemic species."
+   ],
+   "notes": "Homework: Workbook pages 20 to 22. Page 22 is the ecological audit report template; it can be done in pairs."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "Match each type of pesticide to what it kills. Draw a line.", "match": {"left": ["insecticide", "fungicide", "herbicide", "selective herbicide"], "right": ["weeds with broad leaves, but not narrow-leaved crops such as wheat", "insect pests such as aphids", "all weeds (plants competing with the crop)", "fungi that cause plant diseases such as rust"]}},
-   {"q": "Students investigated fertiliser. Each group grew 20 bean plants in identical pots, one plant per pot, and added a different number of drops of the same liquid fertiliser. After a week they calculated the mean increase in height.",
+   {
+    "q": "Match each type of pesticide to what it kills. Draw a line.",
+    "match": {
+     "left": [
+      "insecticide",
+      "fungicide",
+      "herbicide",
+      "selective herbicide"
+     ],
+     "right": [
+      "weeds with broad leaves, but not narrow-leaved crops such as wheat",
+      "insect pests such as aphids",
+      "all weeds (plants competing with the crop)",
+      "fungi that cause plant diseases such as rust"
+     ]
+    }
+   },
+   {
+    "q": "Students investigated fertiliser. Each group grew 20 bean plants in identical pots, one plant per pot, and added a different number of drops of the same liquid fertiliser. After a week they calculated the mean increase in height.",
     "parts": [
-     {"text": "Plot the results as a bar chart on the grid. Label both axes.", "table": {"headers": ["Group", "Drops of liquid fertiliser", "Mean increase in height (cm)"], "widths": [2000, 3800, 4000], "rows": [["1", "2", "4.6"], ["2", "4", "6.3"], ["3", "6", "7.8"], ["4", "8", "7.2"]]}, "grid": true},
-     {"text": "Describe the trend in the results between groups 1, 2 and 3.", "lines": 2},
-     {"text": "What advice would you give a farmer about how much fertiliser to use, based on the result for group 4? Give a reason.", "lines": 2}
-    ]},
-   {"q": "Complete the sentences. Use the word bank.",
-    "gap_lines": ["Fertilisers contain ____________ ____________ that help plants grow. Farmers use cheap ____________ fertilisers and natural ones such as ____________ (animal waste).", "Microorganisms called ____________ break down manure and release the mineral salts, but this takes a long time."]}
+     {
+      "text": "Plot the results as a bar chart on the grid. Label both axes.",
+      "table": {
+       "headers": [
+        "Group",
+        "Drops of liquid fertiliser",
+        "Mean increase in height (cm)"
+       ],
+       "widths": [
+        2000,
+        3800,
+        4000
+       ],
+       "rows": [
+        [
+         "1",
+         "2",
+         "4.6"
+        ],
+        [
+         "2",
+         "4",
+         "6.3"
+        ],
+        [
+         "3",
+         "6",
+         "7.8"
+        ],
+        [
+         "4",
+         "8",
+         "7.2"
+        ]
+       ]
+      },
+      "grid": true
+     },
+     {
+      "text": "Describe the trend in the results between groups 1, 2 and 3.",
+      "lines": 2
+     },
+     {
+      "text": "What advice would you give a farmer about how much fertiliser to use, based on the result for group 4? Give a reason.",
+      "lines": 2
+     }
+    ]
+   },
+   {
+    "q": "Complete the sentences. Use the word bank.",
+    "gap_lines": [
+     "Fertilisers contain ____________ ____________ that help plants grow. Farmers use cheap ____________ fertilisers and natural ones such as ____________ (animal waste).",
+     "Microorganisms called ____________ break down manure and release the mineral salts, but this takes a long time."
+    ]
+   }
   ],
   "stretch": [
-   {"q": "Aphids are insect pests. They suck the sugary liquid (sap) from the phloem of plants. Explain how spraying a crop to kill aphids could increase the crop yield.", "lines": 2},
-   {"q": "Selective herbicides kill weeds with broad leaves but not crops with narrow leaves.",
-    "parts": [{"text": "Suggest why a wheat farmer might want to use a selective herbicide.", "lines": 2}, {"text": "Suggest why farmers in low-income countries may not use selective herbicides, and what they might do instead.", "lines": 2}]},
-   {"q": "Describe one change you would make to the method of the fertiliser investigation to be more sure of the results. Give a reason for your answer.", "lines": 2}
+   {
+    "q": "Aphids are insect pests. They suck the sugary liquid (sap) from the phloem of plants. Explain how spraying a crop to kill aphids could increase the crop yield.",
+    "lines": 2
+   },
+   {
+    "q": "Selective herbicides kill weeds with broad leaves but not crops with narrow leaves.",
+    "parts": [
+     {
+      "text": "Suggest why a wheat farmer might want to use a selective herbicide.",
+      "lines": 2
+     },
+     {
+      "text": "Suggest why farmers in low-income countries may not use selective herbicides, and what they might do instead.",
+      "lines": 2
+     }
+    ]
+   },
+   {
+    "q": "Describe one change you would make to the method of the fertiliser investigation to be more sure of the results. Give a reason for your answer.",
+    "lines": 2
+   }
   ],
   "challenge": [
-   {"q": "An apple breeder has a yellow apple variety that is not sweet and a red apple variety that is sweet. Describe how the breeder could produce a new yellow, sweet variety. Use the words cross-breeding, select and generations.", "lines": 3},
-   {"q": "Farms in the UK today produce 35% more food per square metre than they did in 1973. Explain three different ways farmers have achieved this.", "lines": 4}
+   {
+    "q": "An apple breeder has a yellow apple variety that is not sweet and a red apple variety that is sweet. Describe how the breeder could produce a new yellow, sweet variety. Use the words cross-breeding, select and generations.",
+    "lines": 3
+   },
+   {
+    "q": "Farms in the UK today produce 35% more food per square metre than they did in 1973. Explain three different ways farmers have achieved this.",
+    "lines": 4
+   }
   ],
   "my_thinking": "Before a farm is allowed to expand into a wild area, a plant ecologist carries out an ecological audit. Suggest three pieces of information the ecologist should record, and explain why each one matters.",
-  "word_bank": ["mineral salts", "artificial", "manure", "decomposers", "yield", "fertiliser", "pesticide", "insecticide", "fungicide", "herbicide", "weed", "variety", "selective breeding"],
-  "exit": ["What do fertilisers contain that helps plants grow?", "What do herbicides kill, and why does this help the crop?", "Describe one step in selective breeding."],
-  "exit_lines": [1, 2, 2]
+  "word_bank": [
+   "mineral salts",
+   "artificial",
+   "manure",
+   "decomposers",
+   "yield",
+   "fertiliser",
+   "pesticide",
+   "insecticide",
+   "fungicide",
+   "herbicide",
+   "weed",
+   "variety",
+   "selective breeding"
+  ],
+  "exit": [
+   "What do fertilisers contain that helps plants grow?",
+   "What do herbicides kill, and why does this help the crop?",
+   "Describe one step in selective breeding."
+  ],
+  "exit_lines": [
+   1,
+   2,
+   2
+  ]
  },
  "answers": {
   "core": [

@@ -33,64 +33,6 @@
   "licence_url": "",
   "description": "Colorized electron microscope image of a stoma on the leaf of a tomato plant."
  },
- "wilted_plant": {
-  "key": "wilted_plant",
-  "status": "not found",
-  "tried": [
-   "File:Wilted plant.jpg",
-   "File:Wilting plant.jpg",
-   "File:Pot-pourri; spice and rose leaves, verses (IA potpourrispicero00swen).pdf",
-   "File:Plant immigrants (IA cat30850057 214).pdf",
-   "File:Plant immigrants (IA cat30850057 199).pdf",
-   "File:Seed and plant catalogue 1900 (IA CAT31284811).pdf",
-   "File:C.E. Allen's catalogue - greenhouse and bedding plant department (IA ceallenscatalogu1879ceal).pdf",
-   "File:The seedling-inarch and nurse-plant methods of propagation (IA seedlinginarchnu202oliv).pdf",
-   "File:Plant culture; a working hand-book of every day practice for allwho grow flowering and ornamental plants in the garden and greenhouse (IA cu31924000683700).pdf",
-   "File:Plant culture; a working hand-book of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculturework03oliv).pdf",
-   "File:Plant culture; a working hand-book of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculture00olivrich).pdf",
-   "File:Plant culture; a working handbook of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculturework04oliv).pdf"
-  ],
-  "caption": "A wilted plant",
-  "use": "9B L3"
- },
- "iodine_starch_leaf": {
-  "key": "iodine_starch_leaf",
-  "status": "not found",
-  "tried": [
-   "File:Starch test on variegated leaf.jpg",
-   "File:Iodine test for starch in a leaf.jpg",
-   "File:Nature and development of plants (IA naturedevelopmen00curt).pdf",
-   "File:Journal of the Philadelphia College of Pharmacy (IA journalofphilade03phil).pdf",
-   "File:The American journal of science and arts (IA americanjournalo38183940newh).pdf",
-   "File:Practical physiology of plants (IA cu31924000607675).pdf",
-   "File:The study of plant life (IA studyofplantlife00stoprich).pdf",
-   "File:Practical physiology of plants (IA practicalphysiol00darwrich).pdf",
-   "File:The elements of botany (IA b28127079).pdf",
-   "File:The elements of botany (IA elementsofbotany00darw).pdf",
-   "File:Objects for the microscope - being a popular description of the most instructive and beautiful subjects for exhibition ... (IA b28099795).pdf",
-   "File:Nature and development of plants (IA cu31924000590889).pdf"
-  ],
-  "caption": "Testing a leaf for starch with iodine solution",
-  "use": "9B L4"
- },
- "benedicts_test": {
-  "key": "benedicts_test",
-  "status": "not found",
-  "tried": [
-   "File:Benedict's test.jpg",
-   "File:Benedicts reagent test results.jpg",
-   "File:The essentials of chemical physiology for the use of students (IA cu31924003172867).pdf",
-   "File:Practical physiological chemistry (IA physiolpractical00colerich).pdf",
-   "File:The chemist and druggist (electronic resource) (IA b19974760M0928).pdf",
-   "File:Practical physiological chemistry (IA pracphyschem00colerich).pdf",
-   "File:Journal (IA journals28soci).pdf",
-   "File:Experimental investigations with trypan blue in connection with the intraspinal treatment of lues nervosa (IA experimentalinve00goudrich).pdf",
-   "File:Nature (IA naturejournal105londuoft).pdf",
-   "File:Biological chemistry; (IA biologicalchemis00roafrich).pdf"
-  ],
-  "caption": "Benedict's test for glucose: blue to orange-red when heated",
-  "use": "9B L4"
- },
  "lymphocyte": {
   "key": "lymphocyte",
   "status": "ok",
@@ -150,18 +92,18 @@
   "file": "images/flag_tree.jpg",
   "size": [
    1024,
-   755
+   681
   ],
-  "caption": "A tree shaped by the wind: environmental variation",
+  "caption": "A tree bent and stunted by the wind (krummholz)",
   "use": "9A L1",
-  "source_title": "Redhill - May 2013 - Lonesome Windswept Tree",
-  "source_page": "https://www.flickr.com/photos/40837632@N05/8831848522",
-  "author": "Gareth1953 All Right Now",
-  "licence": "CC BY 2.0",
-  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "source_title": "Krummholz with Wolf Lichen",
+  "source_page": "https://www.flickr.com/photos/93452909@N00/303969090",
+  "author": "brewbooks",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
   "provider": "flickr",
   "via": "Openverse",
-  "query": "windswept tree"
+  "query": "krummholz"
  },
  "homo_floresiensis": {
   "key": "homo_floresiensis",
@@ -188,18 +130,18 @@
   "file": "images/giant_pumpkin.jpg",
   "size": [
    1024,
-   768
+   869
   ],
-  "caption": "Giant pumpkins grown with extra light, water, warmth and mineral salts",
+  "caption": "A giant pumpkin, painted for a show",
   "use": "9A L1",
-  "source_title": "Giant Pumpkin Plant",
-  "source_page": "https://www.flickr.com/photos/9993075@N06/779933068",
-  "author": "aresauburn™",
-  "licence": "CC BY-SA 2.0",
-  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "source_title": "Pink Pumpkin Pig",
+  "source_page": "https://www.flickr.com/photos/12357841@N02/37535290336",
+  "author": "Me in ME",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
   "provider": "flickr",
   "via": "Openverse",
-  "query": "giant pumpkin"
+  "query": "giant pumpkin weigh"
  },
  "dragon_fruit": {
   "key": "dragon_fruit",
@@ -207,18 +149,18 @@
   "file": "images/dragon_fruit.jpg",
   "size": [
    1024,
-   809
+   960
   ],
-  "caption": "Dragon fruit: inherited variation in skin and flesh colour",
+  "caption": "A yellow-skinned dragon fruit (pitaya) with white flesh",
   "use": "9A L2",
-  "source_title": "DRAGON FRUIT",
-  "source_page": "https://www.flickr.com/photos/60417477@N00/3969844371",
-  "author": "whologwhy",
-  "licence": "CC BY 2.0",
-  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "source_title": "Eating Pitaya",
+  "source_page": "https://www.flickr.com/photos/41668395@N04/3843866698",
+  "author": "Tijs Zwinkels",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
   "provider": "flickr",
   "via": "Openverse",
-  "query": "dragon fruit"
+  "query": "pitaya"
  },
  "kittens_litter": {
   "key": "kittens_litter",
@@ -276,5 +218,936 @@
   "provider": "flickr",
   "via": "Openverse",
   "query": "polio vaccine"
+ },
+ "leaf_section": {
+  "key": "leaf_section",
+  "status": "ok",
+  "file": "images/leaf_section.jpg",
+  "size": [
+   1023,
+   685
+  ],
+  "caption": "The layers inside a leaf",
+  "use": "9B L2",
+  "source_title": "20180315pine leaf detail_6284",
+  "source_page": "https://www.flickr.com/photos/73817227@N00/26961242978",
+  "author": "MostlyDross",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "leaf cross section microscope"
+ },
+ "phagocyte_bacteria": {
+  "key": "phagocyte_bacteria",
+  "status": "ok",
+  "file": "images/phagocyte_bacteria.jpg",
+  "size": [
+   979,
+   1024
+  ],
+  "caption": "Bacteria (coloured electron micrograph)",
+  "use": "9C L2",
+  "source_title": "Klebsiella Bacteria",
+  "source_page": "https://www.flickr.com/photos/132318516@N08/39019299760",
+  "author": "National Institutes of Health (NIH)",
+  "licence": "Public domain",
+  "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "neutrophil bacteria"
+ },
+ "dice": {
+  "key": "dice",
+  "status": "ok",
+  "file": "images/dice.jpg",
+  "size": [
+   1400,
+   788
+  ],
+  "caption": "Two dice: experimental probability",
+  "use": "9A L3",
+  "source_title": "A trail of colorful dice reflecting on a glossy black surface, with two dice seemingly suspended in mid-air above the trail.",
+  "source_page": "https://wordpress.org/photos/photo/24165e5435/",
+  "author": "CCC",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "wordpress",
+  "via": "Openverse",
+  "query": "two dice"
+ },
+ "dna_helix": {
+  "key": "dna_helix",
+  "status": "ok",
+  "file": "images/dna_helix.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "The double helix structure of DNA",
+  "use": "9A L4",
+  "source_title": "DNA Double Helix",
+  "source_page": "https://www.flickr.com/photos/132318516@N08/20468181866",
+  "author": "National Institutes of Health (NIH)",
+  "licence": "Public domain",
+  "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "DNA double helix"
+ },
+ "vaccination": {
+  "key": "vaccination",
+  "status": "ok",
+  "file": "images/vaccination.jpg",
+  "size": [
+   772,
+   1024
+  ],
+  "caption": "A vaccination",
+  "use": "9C L2",
+  "source_title": "Young boy receiving a vaccination",
+  "source_page": "https://www.flickr.com/photos/183469667@N05/48545979912",
+  "author": "SELF Magazine",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "vaccination"
+ },
+ "rosalind_franklin": {
+  "key": "rosalind_franklin",
+  "status": "ok",
+  "file": "images/rosalind_franklin.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "Rosalind Franklin, whose X-ray photographs of DNA were key evidence",
+  "use": "9A L4",
+  "source_title": "Photo of DNA Molecule by Rosalind Franklin",
+  "source_page": "https://www.flickr.com/photos/14405058@N08/3186967128",
+  "author": "Ryan Somma",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Rosalind Franklin"
+ },
+ "root_hairs": {
+  "key": "root_hairs",
+  "status": "ok",
+  "file": "images/root_hairs.jpg",
+  "size": [
+   1023,
+   577
+  ],
+  "caption": "Root hairs on a seedling",
+  "use": "9B L2",
+  "source_title": "Monocot Root: Epidermal Root Hair in Lilium",
+  "source_page": "https://www.flickr.com/photos/146824358@N03/36045152715",
+  "author": "bccoer",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "root hairs"
+ },
+ "nervous_system": {
+  "key": "nervous_system",
+  "status": "ok",
+  "file": "images/nervous_system.jpg",
+  "size": [
+   737,
+   1024
+  ],
+  "caption": "An old anatomical drawing of the human nervous system",
+  "use": "9C L3",
+  "source_title": "nervous system: illustration human figure",
+  "source_page": "https://www.rawpixel.com/image/13984431/image-cartoon-person-art",
+  "author": "unknown",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "rawpixel",
+  "via": "Openverse",
+  "query": "nervous system illustration"
+ },
+ "karyotype": {
+  "key": "karyotype",
+  "status": "ok",
+  "file": "images/karyotype.jpg",
+  "size": [
+   1023,
+   777
+  ],
+  "caption": "The 23 pairs of chromosomes from a human body cell",
+  "use": "9A L4, 9A L5",
+  "source_title": "Karyotype",
+  "source_page": "https://www.flickr.com/photos/47988426@N08/8252270882",
+  "author": "Can H.",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "karyotype"
+ },
+ "antibiotics": {
+  "key": "antibiotics",
+  "status": "ok",
+  "file": "images/antibiotics.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "Antibiotics kill bacteria",
+  "use": "9C L4",
+  "source_title": "Antibiotics",
+  "source_page": "https://www.flickr.com/photos/27418987@N03/3060243118",
+  "author": "Sheep purple",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "antibiotics"
+ },
+ "germination": {
+  "key": "germination",
+  "status": "ok",
+  "file": "images/germination.jpg",
+  "size": [
+   622,
+   1024
+  ],
+  "caption": "Germinating seeds (botanical drawing)",
+  "use": "9B L4",
+  "source_title": "Germinating seeds seedlings broad bean",
+  "source_page": "https://www.rawpixel.com/image/14018175/image-plant-art-pattern",
+  "author": "unknown",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "rawpixel",
+  "via": "Openverse",
+  "query": "germinating seed"
+ },
+ "penicillium_plate": {
+  "key": "penicillium_plate",
+  "status": "ok",
+  "file": "images/penicillium_plate.jpg",
+  "size": [
+   1024,
+   969
+  ],
+  "caption": "Penicillium mould growing on an orange",
+  "use": "9C L4",
+  "source_title": "Penicillium digitatum, Penicillium italicum (Green Mold, Blue Mold) on Squash",
+  "source_page": "https://www.flickr.com/photos/43272765@N04/51822354805",
+  "author": "gailhampshire",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Penicillium"
+ },
+ "bioreactor": {
+  "key": "bioreactor",
+  "status": "ok",
+  "file": "images/bioreactor.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "A fermentation tank in a brewery: industrial fermenters look like this",
+  "use": "9C L4",
+  "source_title": "Forms in Green / Historic Brewery Tank, Tsingtao Beer Museum / SML2Qingdao / SML.20121009.7D.08785",
+  "source_page": "https://www.flickr.com/photos/48973657@N00/8194248705",
+  "author": "See-ming Lee (SML)",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "brewery fermentation tanks"
+ },
+ "thylacine": {
+  "key": "thylacine",
+  "status": "ok",
+  "file": "images/thylacine.jpg",
+  "size": [
+   1400,
+   933
+  ],
+  "caption": "The skull of a thylacine, a species hunted to extinction (Museums Victoria)",
+  "use": "9A L6",
+  "source_title": "<em>Thylacinus cynocephalus</em> (Harris, 1808)",
+  "source_page": "https://collections.museumsvictoria.com.au/specimens/1546841",
+  "author": "Photographer: Rodney Start",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "provider": "museumsvictoria",
+  "via": "Openverse",
+  "query": "Thylacinus cynocephalus"
+ },
+ "grey_squirrel": {
+  "key": "grey_squirrel",
+  "status": "ok",
+  "file": "images/grey_squirrel.jpg",
+  "size": [
+   1024,
+   684
+  ],
+  "caption": "Grey squirrel",
+  "use": "9A L6",
+  "source_title": "Grey Squirrel.",
+  "source_page": "https://www.flickr.com/photos/13497267@N04/49226301718",
+  "author": "pete. #hwcp",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "grey squirrel"
+ },
+ "red_squirrel": {
+  "key": "red_squirrel",
+  "status": "ok",
+  "file": "images/red_squirrel.jpg",
+  "size": [
+   1024,
+   1014
+  ],
+  "caption": "Red squirrel",
+  "use": "9A L6",
+  "source_title": "Red squirrel",
+  "source_page": "https://www.flickr.com/photos/125741467@N05/52522675285",
+  "author": "hedera.baltica",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "red squirrel"
+ },
+ "polar_bear": {
+  "key": "polar_bear",
+  "status": "ok",
+  "file": "images/polar_bear.jpg",
+  "size": [
+   1023,
+   694
+  ],
+  "caption": "A polar bear on sea ice",
+  "use": "9A L6",
+  "source_title": "Polar Bear (Ursus maritimus)",
+  "source_page": "https://www.flickr.com/photos/22170893@N06/11744517723",
+  "author": "Gregory 'Slobirdr' Smith",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Ursus maritimus"
+ },
+ "gannet_colony": {
+  "key": "gannet_colony",
+  "status": "ok",
+  "file": "images/gannet_colony.jpg",
+  "size": [
+   1024,
+   819
+  ],
+  "caption": "A gannet colony: a clumped distribution",
+  "use": "9C L6",
+  "source_title": "Gannet Colony, Muriwai",
+  "source_page": "https://www.flickr.com/photos/22357152@N02/3956902195",
+  "author": "SidPix",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "gannet colony"
+ },
+ "seed_bank": {
+  "key": "seed_bank",
+  "status": "ok",
+  "file": "images/seed_bank.jpg",
+  "size": [
+   1024,
+   714
+  ],
+  "caption": "The Svalbard Global Seed Vault, a gene bank for seeds",
+  "use": "9A L6",
+  "source_title": "Global Seed Vault",
+  "source_page": "https://www.flickr.com/photos/24791293@N00/16064027324",
+  "author": "the tinz",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Svalbard seed vault"
+ },
+ "fertiliser_spreading": {
+  "key": "fertiliser_spreading",
+  "status": "ok",
+  "file": "images/fertiliser_spreading.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "Spreading fertiliser",
+  "use": "9B L5",
+  "source_title": "Manure fertilizer",
+  "source_page": "https://www.flickr.com/photos/48722974@N07/4515576722",
+  "author": "eutrophication&hypoxia",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "fertilizer spreading tractor"
+ },
+ "peppered_moth_light": {
+  "key": "peppered_moth_light",
+  "status": "ok",
+  "file": "images/peppered_moth_light.jpg",
+  "size": [
+   1024,
+   788
+  ],
+  "caption": "Pale peppered moth",
+  "use": "9A L7",
+  "source_title": "[1931] Peppered Moth (Biston betularia)",
+  "source_page": "https://www.flickr.com/photos/33398884@N03/35096894913",
+  "author": "Bennyboymothman",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "peppered moth"
+ },
+ "limpets": {
+  "key": "limpets",
+  "status": "ok",
+  "file": "images/limpets.jpg",
+  "size": [
+   1023,
+   665
+  ],
+  "caption": "Limpets on a rocky shore",
+  "use": "9C L6",
+  "source_title": "Limpets, Portholland",
+  "source_page": "https://www.flickr.com/photos/11433049@N02/7473259812",
+  "author": "vic_burton",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "limpets"
+ },
+ "crop_spraying": {
+  "key": "crop_spraying",
+  "status": "ok",
+  "file": "images/crop_spraying.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "Spraying a crop",
+  "use": "9B L5",
+  "source_title": "Case 845XL Crop Spraying in Holland.",
+  "source_page": "https://www.flickr.com/photos/58739232@N07/46708272365",
+  "author": "Rab .",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "crop spraying"
+ },
+ "peppered_moth_dark": {
+  "key": "peppered_moth_dark",
+  "status": "ok",
+  "file": "images/peppered_moth_dark.jpg",
+  "size": [
+   1400,
+   933
+  ],
+  "caption": "Dark (carbonaria) peppered moth",
+  "use": "9A L7",
+  "source_title": "Biston betularia carbonaria",
+  "source_page": "https://www.inaturalist.org/photos/369612126",
+  "author": "Thierry Arbault",
+  "licence": "CC BY 4.0",
+  "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+  "provider": "inaturalist",
+  "via": "Openverse",
+  "query": "Biston betularia carbonaria"
+ },
+ "lion_gazelle": {
+  "key": "lion_gazelle",
+  "status": "ok",
+  "file": "images/lion_gazelle.jpg",
+  "size": [
+   1024,
+   684
+  ],
+  "caption": "A lioness stalking prey: predation is a biotic factor",
+  "use": "9C L6",
+  "source_title": "Lioness stalking a resting warthog (out of shot)",
+  "source_page": "https://www.flickr.com/photos/30772477@N06/31028962500",
+  "author": "FamilyRalph",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "lioness stalking"
+ },
+ "salton_sea": {
+  "key": "salton_sea",
+  "status": "ok",
+  "file": "images/salton_sea.jpg",
+  "size": [
+   1024,
+   678
+  ],
+  "caption": "The shore of the Salton Sea is made of fish bones",
+  "use": "9A L7",
+  "source_title": "_IGP9815 Salton Sea",
+  "source_page": "https://www.flickr.com/photos/33671002@N00/10772496245",
+  "author": "niiicedave",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Salton Sea fish bones"
+ },
+ "giant_anteater": {
+  "key": "giant_anteater",
+  "status": "ok",
+  "file": "images/giant_anteater.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "A giant anteater (about 40 kg)",
+  "use": "9C L7",
+  "source_title": "Giant Anteater",
+  "source_page": "https://www.flickr.com/photos/79721788@N00/13992725962",
+  "author": "D-Stanley",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "giant anteater"
+ },
+ "aphids": {
+  "key": "aphids",
+  "status": "ok",
+  "file": "images/aphids.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "Aphids are insect pests that suck sap from phloem",
+  "use": "9B L5",
+  "source_title": "Ant keeping an eye on its colony of aphids",
+  "source_page": "https://www.flickr.com/photos/26344495@N05/14335497053",
+  "author": "Ivan Radic",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "aphids"
+ },
+ "darwin": {
+  "key": "darwin",
+  "status": "ok",
+  "file": "images/darwin.jpg",
+  "size": [
+   768,
+   1024
+  ],
+  "caption": "A statue of Charles Darwin (1809 to 1882)",
+  "use": "9A L7",
+  "source_title": "Charles Darwin statue",
+  "source_page": "https://www.flickr.com/photos/79346113@N00/8958623792",
+  "author": "virtusincertus",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Charles Darwin statue"
+ },
+ "wallace": {
+  "key": "wallace",
+  "status": "ok",
+  "file": "images/wallace.jpg",
+  "size": [
+   839,
+   1024
+  ],
+  "caption": "Alfred Russel Wallace (1823 to 1913), portrait",
+  "use": "9A L7",
+  "source_title": "Alfred Russel Wallace . Oil",
+  "source_page": "https://www.rawpixel.com/image/14008133/alfred-russel-wallace-oil-painting",
+  "author": "unknown",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "rawpixel",
+  "via": "Openverse",
+  "query": "Alfred Russel Wallace portrait"
+ },
+ "hoverfly_larva": {
+  "key": "hoverfly_larva",
+  "status": "ok",
+  "file": "images/hoverfly_larva.jpg",
+  "size": [
+   1024,
+   1024
+  ],
+  "caption": "A hoverfly larva eating aphids: biological control",
+  "use": "9B L7",
+  "source_title": "Hoverfly Larva",
+  "source_page": "https://www.flickr.com/photos/105673978@N08/34509116113",
+  "author": "The Manic Macrographer",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "hoverfly larva"
+ },
+ "microraptor": {
+  "key": "microraptor",
+  "status": "ok",
+  "file": "images/microraptor.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "Microraptor, a feathered dinosaur with four wings",
+  "use": "9A L7",
+  "source_title": "Microraptor gui",
+  "source_page": "https://www.flickr.com/photos/53665124@N04/9584886235",
+  "author": "cinaflox",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Microraptor"
+ },
+ "wheat_old_new": {
+  "key": "wheat_old_new",
+  "status": "ok",
+  "file": "images/wheat_old_new.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "A modern wheat variety growing in a field",
+  "use": "9B L5",
+  "source_title": "North Pembrokeshire - July 2017 - Wheat Field in the Early Evening Sun",
+  "source_page": "https://www.flickr.com/photos/40837632@N05/35790699143",
+  "author": "Gareth1953 All Right Now",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "wheat ears field"
+ },
+ "iucn_red_list": {
+  "key": "iucn_red_list",
+  "status": "ok",
+  "file": "images/iucn_red_list.jpg",
+  "size": [
+   1023,
+   678
+  ],
+  "caption": "The ring-tailed lemur is listed as Endangered on the IUCN Red List",
+  "use": "9B L5",
+  "source_title": "Ring-Tailed Lemur enjoying the nice spring weather",
+  "source_page": "https://www.flickr.com/photos/91501748@N07/25911695040",
+  "author": "Mathias Appel",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "IUCN Red List endangered"
+ },
+ "silky_anteater": {
+  "key": "silky_anteater",
+  "status": "ok",
+  "file": "images/silky_anteater.jpg",
+  "size": [
+   762,
+   1024
+  ],
+  "caption": "A silky anteater (under 400 g)",
+  "use": "9C L7",
+  "source_title": "Northern Silky Anteater Descrizioni Degli",
+  "source_page": "https://www.rawpixel.com/image/16788418/image-animal-tree-art",
+  "author": "bhl",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "rawpixel",
+  "via": "Openverse",
+  "query": "silky anteater"
+ },
+ "mammoth": {
+  "key": "mammoth",
+  "status": "ok",
+  "file": "images/mammoth.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "A model of a woolly mammoth",
+  "use": "9A L7",
+  "source_title": "Something Mammoth at the Royal BC Museum",
+  "source_page": "https://www.flickr.com/photos/44124348109@N01/26636787648",
+  "author": "jurvetson",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "woolly mammoth model"
+ },
+ "algal_bloom": {
+  "key": "algal_bloom",
+  "status": "ok",
+  "file": "images/algal_bloom.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "An algal bloom caused by eutrophication",
+  "use": "9B L6",
+  "source_title": "Algal Bloom 10/03/2007",
+  "source_page": "https://www.flickr.com/photos/94513428@N00/1481834136",
+  "author": "suavehouse113",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "algal bloom"
+ },
+ "wheat_harvest": {
+  "key": "wheat_harvest",
+  "status": "ok",
+  "file": "images/wheat_harvest.jpg",
+  "size": [
+   1023,
+   685
+  ],
+  "caption": "Harvesting wheat",
+  "use": "9B L1",
+  "source_title": "Combine Harvesting Wheat",
+  "source_page": "https://www.flickr.com/photos/36224384@N08/7963985938",
+  "author": "Knowles Gallery",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "combine harvester wheat"
+ },
+ "dead_fish": {
+  "key": "dead_fish",
+  "status": "ok",
+  "file": "images/dead_fish.jpg",
+  "size": [
+   1023,
+   482
+  ],
+  "caption": "Fish killed by a lack of oxygen in the water",
+  "use": "9B L6",
+  "source_title": "Fish kill from toxic algal bloom",
+  "source_page": "https://www.flickr.com/photos/48722974@N07/4523952244",
+  "author": "eutrophication&hypoxia",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "fish kill"
+ },
+ "elodea_bubbles": {
+  "key": "elodea_bubbles",
+  "status": "ok",
+  "file": "images/elodea_bubbles.jpg",
+  "size": [
+   1400,
+   1050
+  ],
+  "caption": "Canadian pondweed (Elodea), used to measure photosynthesis by counting oxygen bubbles",
+  "use": "9B L1",
+  "source_title": "Elodea canadensis",
+  "source_page": "https://www.inaturalist.org/photos/377369999",
+  "author": "Sean Hartnett",
+  "licence": "CC BY 4.0",
+  "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+  "provider": "inaturalist",
+  "via": "Openverse",
+  "query": "Elodea canadensis"
+ },
+ "deforestation": {
+  "key": "deforestation",
+  "status": "ok",
+  "file": "images/deforestation.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "Forest cleared to make farmland",
+  "use": "9B L6",
+  "source_title": "Deforestation",
+  "source_page": "https://www.flickr.com/photos/76771610@N00/10094847976",
+  "author": "crustmania",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "deforestation"
+ },
+ "paramecium": {
+  "key": "paramecium",
+  "status": "ok",
+  "file": "images/paramecium.jpg",
+  "size": [
+   1024,
+   995
+  ],
+  "caption": "Paramecium, a single-celled organism from pond water",
+  "use": "9C L7",
+  "source_title": "Paramecium",
+  "source_page": "https://www.flickr.com/photos/59923990@N05/8423525940",
+  "author": "Picturepest",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Paramecium"
+ },
+ "monarch_milkweed": {
+  "key": "monarch_milkweed",
+  "status": "ok",
+  "file": "images/monarch_milkweed.jpg",
+  "size": [
+   1024,
+   576
+  ],
+  "caption": "Monarch butterflies lay their eggs on milkweed",
+  "use": "9B L7",
+  "source_title": "Monarch Butterfly & Milkweed",
+  "source_page": "https://www.flickr.com/photos/125846459@N05/14856334322",
+  "author": "sillarsclass",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "monarch butterfly milkweed"
+ },
+ "bee_rapeseed": {
+  "key": "bee_rapeseed",
+  "status": "ok",
+  "file": "images/bee_rapeseed.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "A bee on rapeseed",
+  "use": "9B L6",
+  "source_title": "Honney bee",
+  "source_page": "https://www.flickr.com/photos/9082612@N05/31712077530",
+  "author": "Gilles San Martin",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "bee rapeseed"
+ },
+ "villi": {
+  "key": "villi",
+  "status": "ok",
+  "file": "images/villi.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "Villi lining the small intestine (microscope view)",
+  "use": "9C L7",
+  "source_title": "Normal Small Intestine Mucosa",
+  "source_page": "https://www.flickr.com/photos/78147607@N00/5916217283",
+  "author": "euthman",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "intestinal villi histology"
+ },
+ "hedgerow_field": {
+  "key": "hedgerow_field",
+  "status": "ok",
+  "file": "images/hedgerow_field.jpg",
+  "size": [
+   1024,
+   793
+  ],
+  "caption": "Small fields with hedges give wildlife a home",
+  "use": "9B L7",
+  "source_title": "Just A Memory of Summer Sun.",
+  "source_page": "https://www.flickr.com/photos/23045224@N04/2975067130",
+  "author": "Athena's Pix",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "hedgerows fields countryside"
+ },
+ "broad_street_pump": {
+  "key": "broad_street_pump",
+  "status": "ok",
+  "file": "images/broad_street_pump.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "The John Snow pub on Broadwick (Broad) Street, Soho, next to the site of the cholera pump",
+  "use": "9C L1",
+  "source_title": "John Snow, Soho, W1",
+  "source_page": "https://www.flickr.com/photos/55935853@N00/3696013128",
+  "author": "Ewan-M",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "John Snow pump Soho"
+ },
+ "cows_field": {
+  "key": "cows_field",
+  "status": "ok",
+  "file": "images/cows_field.jpg",
+  "size": [
+   960,
+   640
+  ],
+  "caption": "Farm animals: manure is a natural fertiliser",
+  "use": "9B L5",
+  "source_title": "Cows Field",
+  "source_page": "https://stocksnap.io/photo/cows-field-PUY2F3LGSZ",
+  "author": "Ian Livesey",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "stocksnap",
+  "via": "Openverse",
+  "query": "cows field"
+ },
+ "sand_cat": {
+  "key": "sand_cat",
+  "status": "ok",
+  "file": "images/sand_cat.jpg",
+  "size": [
+   1024,
+   729
+  ],
+  "caption": "A sand cat: its fur matches the sand",
+  "use": "9A L6",
+  "source_title": "Sand Cat",
+  "source_page": "https://www.flickr.com/photos/100915417@N07/27552387166",
+  "author": "charlieishere@btinternet.com",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "sand cat"
  }
 }

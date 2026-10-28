@@ -7,12 +7,29 @@
  "title": "Genes, adaptation and extinction",
  "title_cn": "基因、适应与灭绝",
  "slug": "Genes_adaptation_and_extinction",
- "book": {"pages": "16 to 17", "spread": "9Ad Genes and extinction"},
- "workbook": {"pages": "11 to 12"},
+ "book": {
+  "pages": "16 to 17",
+  "spread": "9Ad Genes and extinction"
+ },
+ "workbook": {
+  "pages": "11 to 12"
+ },
  "oak": [
-  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Adaptations", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/adaptations"},
-  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Competition", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/competition"},
-  {"unit": "Biodiversity, Year 8", "lesson": "Conserving biodiversity", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/biodiversity/lessons/conserving-biodiversity"}
+  {
+   "unit": "Adaptations, competition, natural selection and evolution, Year 9",
+   "lesson": "Adaptations",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/adaptations"
+  },
+  {
+   "unit": "Adaptations, competition, natural selection and evolution, Year 9",
+   "lesson": "Competition",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/competition"
+  },
+  {
+   "unit": "Biodiversity, Year 8",
+   "lesson": "Conserving biodiversity",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/biodiversity/lessons/conserving-biodiversity"
+  }
  ],
  "big_idea": "Adaptations come from genes; when the environment changes, a species may no longer be well adapted and can become endangered or extinct, so we protect biodiversity.",
  "goals": [
@@ -20,17 +37,61 @@
   "I can describe ways of preserving biodiversity, including nature reserves, breeding programmes and gene banks."
  ],
  "keywords": [
-  {"en": "adaptation", "cn": "适应性特征", "meaning": "a characteristic that helps an organism survive in its habitat"},
-  {"en": "endangered", "cn": "濒危的", "meaning": "a species in danger of becoming extinct"},
-  {"en": "extinct", "cn": "灭绝的", "meaning": "a species with no living members left"},
-  {"en": "abiotic factor", "cn": "非生物因素", "meaning": "a non-living part of the environment, e.g. rainfall, temperature"},
-  {"en": "biotic factor", "cn": "生物因素", "meaning": "the activities of other organisms, e.g. competition, disease, hunting"},
-  {"en": "competition", "cn": "竞争", "meaning": "when organisms need the same limited resource, e.g. food or light"},
-  {"en": "native species", "cn": "本地物种", "meaning": "a species that is naturally found in a part of the world"},
-  {"en": "biodiversity", "cn": "生物多样性", "meaning": "the number of different species in an area or on Earth"},
-  {"en": "nature reserve", "cn": "自然保护区", "meaning": "an area where habitats and species are protected"},
-  {"en": "breeding programme", "cn": "繁育计划", "meaning": "breeding endangered animals or plants in captivity to increase their numbers"},
-  {"en": "gene bank", "cn": "基因库", "meaning": "a store of seeds, gametes or cells kept cold so a species can be grown again"}
+  {
+   "en": "adaptation",
+   "cn": "适应性特征",
+   "meaning": "a characteristic that helps an organism survive in its habitat"
+  },
+  {
+   "en": "endangered",
+   "cn": "濒危的",
+   "meaning": "a species in danger of becoming extinct"
+  },
+  {
+   "en": "extinct",
+   "cn": "灭绝的",
+   "meaning": "a species with no living members left"
+  },
+  {
+   "en": "abiotic factor",
+   "cn": "非生物因素",
+   "meaning": "a non-living part of the environment, e.g. rainfall, temperature"
+  },
+  {
+   "en": "biotic factor",
+   "cn": "生物因素",
+   "meaning": "the activities of other organisms, e.g. competition, disease, hunting"
+  },
+  {
+   "en": "competition",
+   "cn": "竞争",
+   "meaning": "when organisms need the same limited resource, e.g. food or light"
+  },
+  {
+   "en": "native species",
+   "cn": "本地物种",
+   "meaning": "a species that is naturally found in a part of the world"
+  },
+  {
+   "en": "biodiversity",
+   "cn": "生物多样性",
+   "meaning": "the number of different species in an area or on Earth"
+  },
+  {
+   "en": "nature reserve",
+   "cn": "自然保护区",
+   "meaning": "an area where habitats and species are protected"
+  },
+  {
+   "en": "breeding programme",
+   "cn": "繁育计划",
+   "meaning": "breeding endangered animals or plants in captivity to increase their numbers"
+  },
+  {
+   "en": "gene bank",
+   "cn": "基因库",
+   "meaning": "a store of seeds, gametes or cells kept cold so a species can be grown again"
+  }
  ],
  "misconceptions": [
   "Animals compete only by fighting. Most competition is for food, water, space, light or mates; the grey squirrel wins by eating acorns first, not by fighting.",
@@ -38,16 +99,67 @@
   "Conservation only happens in big wild places. Gene banks, zoos and small local reserves also preserve biodiversity."
  ],
  "safety": "No practical hazards beyond normal classroom rules.",
- "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards (optional)"],
+ "equipment": [
+  "Worksheets (standard and Chinese key words versions)",
+  "Mini whiteboards (optional)"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "The meteorite 65 million years ago: which factor changed and what happened to plants and animals?", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points to the key words.", "students": "Listen; find the key words.", "resource": "Slide 3"},
-  {"phase": "Hook", "min": 3, "teacher": "The last thylacine: which environmental factor caused the extinction?", "students": "Pair talk, then share.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 10, "teacher": "Teaches adaptations and genes, changes in abiotic and biotic factors, the grey and red squirrel story, preserving biodiversity. Quick check.", "students": "Compare the squirrels; answer the quick check.", "resource": "Slides 5 to 9"},
-  {"phase": "Do", "min": 13, "teacher": "Sets the worksheet; circulates for the squirrel explanations at Stretch.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "Polar bears and global warming: prediction and reasoning with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 11"},
-  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 12"},
-  {"phase": "Summary", "min": 2, "teacher": "Recaps; previews natural selection (Lesson 7).", "students": "Tick the goals they met.", "resource": "Slide 13"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "The meteorite 65 million years ago: which factor changed and what happened to plants and animals?",
+   "students": "Answer the three questions in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the goals; points to the key words.",
+   "students": "Listen; find the key words.",
+   "resource": "Slide 3"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "The last thylacine: which environmental factor caused the extinction?",
+   "students": "Pair talk, then share.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 10,
+   "teacher": "Teaches adaptations and genes, changes in abiotic and biotic factors, the grey and red squirrel story, preserving biodiversity. Quick check.",
+   "students": "Compare the squirrels; answer the quick check.",
+   "resource": "Slides 5 to 9"
+  },
+  {
+   "phase": "Do",
+   "min": 13,
+   "teacher": "Sets the worksheet; circulates for the squirrel explanations at Stretch.",
+   "students": "Core, then Stretch, then Challenge.",
+   "resource": "Slide 10, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "Polar bears and global warming: prediction and reasoning with the frames.",
+   "students": "Pair discussion, share with a frame.",
+   "resource": "Slide 11"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 3,
+   "teacher": "Collects exit tickets.",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slide 12"
+  },
+  {
+   "phase": "Summary",
+   "min": 2,
+   "teacher": "Recaps; previews natural selection (Lesson 7).",
+   "students": "Tick the goals they met.",
+   "resource": "Slide 13"
+  }
  ],
  "tiers": {
   "core": "Match the environment key words; gap fill on sand cat adaptations; identify a native species and inter-specific competition; list three resources plants compete for.",
@@ -55,82 +167,317 @@
   "challenge": "Explain the extinction of Haast's eagle after the moa were hunted; explain how a gene bank works and its limitations."
  },
  "slides": [
-  {"type": "title", "subtitle": "How can genetic information cause extinction?", "image": "thylacine",
-   "notes": "This lesson links adaptations (from genes) to environmental change. It prepares the ground for natural selection next lesson: here the question is why a species declines when it is no longer well adapted."},
-  {"type": "donow", "title": "Do Now: the day the dinosaurs died", "minutes": 4, "image": "chicxulub_impact", "caption": "Artist's impression of the impact",
-   "prompt": ["About 65 million years ago a giant meteorite hit the Earth near Mexico, throwing up so much dust that it blocked out sunlight. 75% of species became extinct.", "1. State one physical environmental factor that the meteorite changed.", "2. Explain the effect this had on plants.", "3. Explain the effect this had on animals."],
-   "notes": "Light (and temperature) fell. Plants could not photosynthesise, so many died. Animals that ate plants starved, then the predators that ate them. Evidence: a 180 km wide crater near Mexico formed at this time."},
-  {"type": "today", "title": "Today",
-   "notes": "Read the goals. Remind students that abiotic and biotic factors were Lesson 1's key words; today they are the causes of extinction."},
-  {"type": "hook", "title": "The last thylacine", "question": "Thylacines were killed in Tasmania to protect sheep. The last one died in a zoo in 1936. Which environmental factor caused this extinction: abiotic or biotic?", "image": "thylacine", "caption": "A thylacine photographed in 1933",
-   "text": ["Talk to a partner: name two other human activities that can make a species extinct."],
-   "notes": "Biotic: hunting is an activity of other organisms (people). Other human activities: clearing habitats for farms and towns, using poisons, bringing in new species that compete or carry disease, fishing too much."},
-  {"type": "learn", "title": "Adaptations, genes and change", "image": "sand_cat", "caption": "A sand cat's fur matches the sand it hunts on", "vocab": ["adaptation", "endangered", "extinct"],
-   "text": ["The adaptations of an organism are due to its genes.", "If the ecosystem changes, a species may no longer be well adapted to the new conditions.", "Its numbers fall: it becomes endangered, and may become extinct.", "Changes in abiotic factors: rainfall, temperature, light. Changes in biotic factors: competition, disease, human activities (hunting, clearing habitats, poisons)."],
+  {
+   "type": "title",
+   "subtitle": "How can genetic information cause extinction?",
+   "image": "thylacine",
+   "notes": "This lesson links adaptations (from genes) to environmental change. It prepares the ground for natural selection next lesson: here the question is why a species declines when it is no longer well adapted."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: the day the dinosaurs died",
+   "minutes": 4,
+   "prompt": [
+    "About 65 million years ago a giant meteorite hit the Earth near Mexico, throwing up so much dust that it blocked out sunlight. 75% of species became extinct.",
+    "1. State one physical environmental factor that the meteorite changed.",
+    "2. Explain the effect this had on plants.",
+    "3. Explain the effect this had on animals."
+   ],
+   "notes": "Light (and temperature) fell. Plants could not photosynthesise, so many died. Animals that ate plants starved, then the predators that ate them. Evidence: a 180 km wide crater near Mexico formed at this time."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read the goals. Remind students that abiotic and biotic factors were Lesson 1's key words; today they are the causes of extinction."
+  },
+  {
+   "type": "hook",
+   "title": "The last thylacine",
+   "question": "Thylacines were killed in Tasmania to protect sheep. The last one died in a zoo in 1936. Which environmental factor caused this extinction: abiotic or biotic?",
+   "image": "thylacine",
+   "caption": "The skull of a thylacine, a species hunted to extinction (Museums Victoria)",
+   "text": [
+    "Talk to a partner: name two other human activities that can make a species extinct."
+   ],
+   "notes": "Biotic: hunting is an activity of other organisms (people). Other human activities: clearing habitats for farms and towns, using poisons, bringing in new species that compete or carry disease, fishing too much."
+  },
+  {
+   "type": "learn",
+   "title": "Adaptations, genes and change",
+   "image": "sand_cat",
+   "caption": "A sand cat's fur matches the sand it hunts on",
+   "vocab": [
+    "adaptation",
+    "endangered",
+    "extinct"
+   ],
+   "text": [
+    "The adaptations of an organism are due to its genes.",
+    "If the ecosystem changes, a species may no longer be well adapted to the new conditions.",
+    "Its numbers fall: it becomes endangered, and may become extinct.",
+    "Changes in abiotic factors: rainfall, temperature, light. Changes in biotic factors: competition, disease, human activities (hunting, clearing habitats, poisons)."
+   ],
    "key_idea": "A species cannot change its genes to fit a new environment; if it is no longer well adapted, it declines.",
-   "notes": "Sand cats are camouflaged against sand. Ask: if the desert got greener, would the camouflage still work? This links to the gap fill at Core. Stress that an individual cannot choose to change its adaptations."},
-  {"type": "learn", "title": "Grey squirrels and red squirrels", "image": "grey_squirrel", "caption": "The grey squirrel was brought to the UK from the USA in the 1870s", "vocab": ["competition", "native species", "biotic factor"],
-   "text": ["Red squirrels are native to the UK. Greys were brought from the USA in the 1870s; now reds are rare.", "Greys store more body fat, so more survive a long winter.", "Greys can digest unripe acorns; reds cannot. Greys eat the acorns first, so reds get less food.", "Greys carry squirrel pox, which does not harm greys but kills reds."],
+   "notes": "Sand cats are camouflaged against sand. Ask: if the desert got greener, would the camouflage still work? This links to the gap fill at Core. Stress that an individual cannot choose to change its adaptations."
+  },
+  {
+   "type": "learn",
+   "title": "Grey squirrels and red squirrels",
+   "image": "grey_squirrel",
+   "caption": "The grey squirrel was brought to the UK from the USA in the 1870s",
+   "vocab": [
+    "competition",
+    "native species",
+    "biotic factor"
+   ],
+   "text": [
+    "Red squirrels are native to the UK. Greys were brought from the USA in the 1870s; now reds are rare.",
+    "Greys store more body fat, so more survive a long winter.",
+    "Greys can digest unripe acorns; reds cannot. Greys eat the acorns first, so reds get less food.",
+    "Greys carry squirrel pox, which does not harm greys but kills reds."
+   ],
    "key_idea": "When food is limited, the better adapted competitor survives and reproduces more, and its population grows faster.",
-   "notes": "These are inherited differences between the two species: the greys' genes give them more fat storage and the ability to digest unripe acorns. Competition and disease are both biotic factors."},
-  {"type": "compare", "title": "Two squirrels, many shared adaptations", "vocab": ["adaptation", "competition"],
-   "left": {"heading": "Both species", "points": ["Eyes on the side of the head: all-round vision to spot predators.", "Long, bushy tail for balance.", "Long, strong hind legs for leaping.", "Sharp claws for gripping tree trunks."]},
-   "right": {"heading": "Differences", "points": ["Greys are bigger and store more fat: better in long winters.", "Greys digest unripe acorns: eat them before the reds.", "Greys carry squirrel pox, which kills reds.", "Reds are lighter: better on thin, flexible conifer branches, and eat small conifer seeds."]},
+   "notes": "These are inherited differences between the two species: the greys' genes give them more fat storage and the ability to digest unripe acorns. Competition and disease are both biotic factors."
+  },
+  {
+   "type": "compare",
+   "title": "Two squirrels, many shared adaptations",
+   "vocab": [
+    "adaptation",
+    "competition"
+   ],
+   "left": {
+    "heading": "Both species",
+    "points": [
+     "Eyes on the side of the head: all-round vision to spot predators.",
+     "Long, bushy tail for balance.",
+     "Long, strong hind legs for leaping.",
+     "Sharp claws for gripping tree trunks."
+    ]
+   },
+   "right": {
+    "heading": "Differences",
+    "points": [
+     "Greys are bigger and store more fat: better in long winters.",
+     "Greys digest unripe acorns: eat them before the reds.",
+     "Greys carry squirrel pox, which kills reds.",
+     "Reds are lighter: better on thin, flexible conifer branches, and eat small conifer seeds."
+    ]
+   },
    "key_idea": "Which species is 'better adapted' depends on the habitat: reds still do well in conifer forests.",
-   "notes": "Ask the Stretch question now: why might reds be better adapted to conifer forests than greys? Smaller, lighter animals can move on thin flexible branches and handle small seeds."},
-  {"type": "learn", "title": "Preserving biodiversity", "image": "seed_bank", "caption": "The Svalbard Global Seed Vault stores seeds from around the world", "vocab": ["biodiversity", "nature reserve", "breeding programme", "gene bank"],
-   "text": ["Biodiversity is the number of different species.", "Extinctions upset ecosystems and food webs, and we lose species we could use (food, medicines).", "Ways to preserve biodiversity: ban hunting of certain animals, set up nature reserves, run breeding programmes.", "Gene banks store seeds, gametes or cells at low temperatures, so a species can be produced again if it becomes extinct in the wild."],
+   "notes": "Ask the Stretch question now: why might reds be better adapted to conifer forests than greys? Smaller, lighter animals can move on thin flexible branches and handle small seeds."
+  },
+  {
+   "type": "learn",
+   "title": "Preserving biodiversity",
+   "image": "seed_bank",
+   "caption": "The Svalbard Global Seed Vault stores seeds from around the world",
+   "vocab": [
+    "biodiversity",
+    "nature reserve",
+    "breeding programme",
+    "gene bank"
+   ],
+   "text": [
+    "Biodiversity is the number of different species.",
+    "Extinctions upset ecosystems and food webs, and we lose species we could use (food, medicines).",
+    "Ways to preserve biodiversity: ban hunting of certain animals, set up nature reserves, run breeding programmes.",
+    "Gene banks store seeds, gametes or cells at low temperatures, so a species can be produced again if it becomes extinct in the wild."
+   ],
    "key_idea": "Protect the habitat, protect the animals, and keep a frozen back-up of the genes.",
-   "notes": "The Svalbard vault in the Arctic holds over a million seed samples. Ask: why keep seeds cold? (They stay alive for decades without growing.) Why is a gene bank not enough on its own? (A species also needs a habitat to live in.)"},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. Short answers.",
-   "questions": ["What does 'endangered' mean?", "Hunting: abiotic or biotic factor?", "Give one adaptation that red and grey squirrels share.", "Why do grey squirrels get more acorns than reds?", "Give one way of preserving biodiversity."],
-   "notes": "Answers: in danger of becoming extinct; biotic; e.g. bushy tail for balance; they can digest unripe acorns so they eat them first; nature reserves, breeding programmes, hunting bans, gene banks."},
-  {"type": "steps", "title": "Your turn: adaptation and extinction", "minutes": 13,
-   "steps": ["Core: match the environment words; sand cat gap fill; native species and competition; resources plants compete for.", "Stretch: explain the squirrel story with adaptations and genes; reds in conifer forests; the sundew and rising temperature.", "Challenge: Haast's eagle and the moa; how a gene bank works and what it cannot do.", "Use 'better adapted' and 'genes' in every explanation."],
+   "notes": "The Svalbard vault in the Arctic holds over a million seed samples. Ask: why keep seeds cold? (They stay alive for decades without growing.) Why is a gene bank not enough on its own? (A species also needs a habitat to live in.)"
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. Short answers.",
+   "questions": [
+    "What does 'endangered' mean?",
+    "Hunting: abiotic or biotic factor?",
+    "Give one adaptation that red and grey squirrels share.",
+    "Why do grey squirrels get more acorns than reds?",
+    "Give one way of preserving biodiversity."
+   ],
+   "notes": "Answers: in danger of becoming extinct; biotic; e.g. bushy tail for balance; they can digest unripe acorns so they eat them first; nature reserves, breeding programmes, hunting bans, gene banks."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn: adaptation and extinction",
+   "minutes": 13,
+   "steps": [
+    "Core: match the environment words; sand cat gap fill; native species and competition; resources plants compete for.",
+    "Stretch: explain the squirrel story with adaptations and genes; reds in conifer forests; the sundew and rising temperature.",
+    "Challenge: Haast's eagle and the moa; how a gene bank works and what it cannot do.",
+    "Use 'better adapted' and 'genes' in every explanation."
+   ],
    "footer": "A good explanation says what changed, why the species was no longer well adapted, and what happened to its numbers.",
-   "notes": "The sundew question (Stretch 3): warmer temperature means more evaporation, the bog dries, and a plant with tiny roots cannot get enough water. The Haast's eagle question is about losing its prey (a biotic factor)."},
-  {"type": "think", "title": "Polar bears and a warming world", "prompt": "Polar bears hunt seals from the sea ice. Global warming is making the Arctic sea ice melt earlier each year. Predict the effect on the polar bear population and explain your reasoning.", "image": "polar_bear", "caption": "A polar bear on sea ice",
-   "frames": ["I predict the population will ___ because ___.", "The abiotic factor that is changing is ___.", "Polar bears are adapted to ___, so when ___ they cannot ___."],
-   "notes": "Expected: the population falls because less sea ice means less time to hunt seals, so bears starve and have fewer cubs; the abiotic factor is temperature (and ice cover). Their adaptations (white fur, fat layer, hunting on ice) do not help when the ice is gone."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 3,
-   "questions": ["What does it mean if a species is endangered?", "Give one biotic factor that can cause a species to become extinct.", "Give one way of preserving biodiversity and say how it works."],
-   "notes": "Answers: in danger of becoming extinct; e.g. competition from a new species, disease, hunting, habitat clearing; e.g. a gene bank stores seeds or gametes cold so the species can be grown again; a nature reserve protects the habitat; a breeding programme increases numbers in captivity."},
-  {"type": "summary", "title": "What we learned", "next": "Natural selection and evolution: how the environment 'selects' the inherited variations that survive, and how new species form.",
-   "points": ["Adaptations come from genes. When abiotic or biotic factors change, a species may no longer be well adapted and can become endangered or extinct.", "Competition, disease and human activities are biotic factors that can cause extinction; the grey squirrel out-competes the red.", "Biodiversity is the number of different species; losing species damages ecosystems and food webs.", "We preserve biodiversity with hunting bans, nature reserves, breeding programmes and gene banks."],
-   "notes": "Homework: Workbook pages 11 and 12 (9Ad)."}
+   "notes": "The sundew question (Stretch 3): warmer temperature means more evaporation, the bog dries, and a plant with tiny roots cannot get enough water. The Haast's eagle question is about losing its prey (a biotic factor)."
+  },
+  {
+   "type": "think",
+   "title": "Polar bears and a warming world",
+   "prompt": "Polar bears hunt seals from the sea ice. Global warming is making the Arctic sea ice melt earlier each year. Predict the effect on the polar bear population and explain your reasoning.",
+   "image": "polar_bear",
+   "caption": "A polar bear on sea ice",
+   "frames": [
+    "I predict the population will ___ because ___.",
+    "The abiotic factor that is changing is ___.",
+    "Polar bears are adapted to ___, so when ___ they cannot ___."
+   ],
+   "notes": "Expected: the population falls because less sea ice means less time to hunt seals, so bears starve and have fewer cubs; the abiotic factor is temperature (and ice cover). Their adaptations (white fur, fat layer, hunting on ice) do not help when the ice is gone."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 3,
+   "questions": [
+    "What does it mean if a species is endangered?",
+    "Give one biotic factor that can cause a species to become extinct.",
+    "Give one way of preserving biodiversity and say how it works."
+   ],
+   "notes": "Answers: in danger of becoming extinct; e.g. competition from a new species, disease, hunting, habitat clearing; e.g. a gene bank stores seeds or gametes cold so the species can be grown again; a nature reserve protects the habitat; a breeding programme increases numbers in captivity."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned",
+   "next": "Natural selection and evolution: how the environment 'selects' the inherited variations that survive, and how new species form.",
+   "points": [
+    "Adaptations come from genes. When abiotic or biotic factors change, a species may no longer be well adapted and can become endangered or extinct.",
+    "Competition, disease and human activities are biotic factors that can cause extinction; the grey squirrel out-competes the red.",
+    "Biodiversity is the number of different species; losing species damages ecosystems and food webs.",
+    "We preserve biodiversity with hunting bans, nature reserves, breeding programmes and gene banks."
+   ],
+   "notes": "Homework: Workbook pages 11 and 12 (9Ad)."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "Match each scientific term to its definition. Draw a line.", "match": {"left": ["environment", "environmental factor", "abiotic factor", "biotic factor", "environmental variation"], "right": ["a non-living (physical) part of the surroundings, e.g. temperature", "the activities of other organisms, e.g. competition, predation", "an organism's surroundings", "differences caused by the surroundings", "a part of the surroundings that can change an organism"]}},
-   {"q": "Complete the sentences using words from the box. You may use each word once, more than once or not at all.", "gap_lines": [
+   {
+    "q": "Match each scientific term to its definition. Draw a line.",
+    "match": {
+     "left": [
+      "environment",
+      "environmental factor",
+      "abiotic factor",
+      "biotic factor",
+      "environmental variation"
+     ],
+     "right": [
+      "a non-living (physical) part of the surroundings, e.g. temperature",
+      "the activities of other organisms, e.g. competition, predation",
+      "an organism's surroundings",
+      "differences caused by the surroundings",
+      "a part of the surroundings that can change an organism"
+     ]
+    }
+   },
+   {
+    "q": "Complete the sentences using words from the box. You may use each word once, more than once or not at all.",
+    "gap_lines": [
      "**Word box:**  abiotic   adaptations   biotic   camouflaged   characteristics   common   desert   endangered   environmental   forest   habitats   inherited",
      "Animals have __________ to help them survive in their __________ . These adaptations are __________",
      "characteristics. For example, the fur of sand cats matches the colour of the sand in a __________ habitat.",
      "The cats are __________ as they hunt gerbils. If more rain fell and the desert got greener, the sand cats",
-     "would not be __________ and may start to become __________ in that area."]},
-   {"q": "Tick one box for each question.", "parts": [
-     {"text": "What is a native species?", "mcq": ["A  A species that is only active at night.", "B  A species that is eaten by people in a certain part of the world.", "C  A species that is in danger of becoming extinct.", "D  A species that is naturally found in one part of the world."]},
-     {"text": "Wolves and foxes compete for the same prey. What type of competition is this?", "mcq": ["A  inter-specific (between species)", "B  intra-specific (within one species)", "C  counter-specific", "D  inner-specific"]}]},
-   {"q": "Give three resources that plants compete for.", "lines": 1}
+     "would not be __________ and may start to become __________ in that area."
+    ]
+   },
+   {
+    "q": "Tick one box for each question.",
+    "parts": [
+     {
+      "text": "What is a native species?",
+      "mcq": [
+       "A  A species that is only active at night.",
+       "B  A species that is eaten by people in a certain part of the world.",
+       "C  A species that is in danger of becoming extinct.",
+       "D  A species that is naturally found in one part of the world."
+      ]
+     },
+     {
+      "text": "Wolves and foxes compete for the same prey. What type of competition is this?",
+      "mcq": [
+       "A  inter-specific (between species)",
+       "B  intra-specific (within one species)",
+       "C  counter-specific",
+       "D  inner-specific"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Give three resources that plants compete for.",
+    "lines": 1
+   }
   ],
   "stretch": [
-   {"q": "Grey squirrels were brought to the UK in the 1870s. Red squirrels are now rare.", "parts": [
-     {"text": "Explain why a squirrel population might decrease during a long winter.", "lines": 2},
-     {"text": "Explain how grey squirrels are better adapted to long winters than reds.", "lines": 2},
-     {"text": "Explain how genes are responsible for this difference.", "lines": 2}]},
-   {"q": "Conifer trees have smaller seeds and thinner, more flexible branches than trees with broad leaves. Suggest why red squirrels may be better adapted to conifer forests than greys.", "lines": 3},
-   {"q": "Sundews are plants adapted to wet, acidic bogs. Most have only very small roots because a lot of water is available. Explain why sundews may not continue to survive in an area where the average temperature starts to increase.", "lines": 3}
+   {
+    "q": "Grey squirrels were brought to the UK in the 1870s. Red squirrels are now rare.",
+    "parts": [
+     {
+      "text": "Explain why a squirrel population might decrease during a long winter.",
+      "lines": 2
+     },
+     {
+      "text": "Explain how grey squirrels are better adapted to long winters than reds.",
+      "lines": 2
+     },
+     {
+      "text": "Explain how genes are responsible for this difference.",
+      "lines": 2
+     }
+    ]
+   },
+   {
+    "q": "Conifer trees have smaller seeds and thinner, more flexible branches than trees with broad leaves. Suggest why red squirrels may be better adapted to conifer forests than greys.",
+    "lines": 3
+   },
+   {
+    "q": "Sundews are plants adapted to wet, acidic bogs. Most have only very small roots because a lot of water is available. Explain why sundews may not continue to survive in an area where the average temperature starts to increase.",
+    "lines": 3
+   }
   ],
   "challenge": [
-   {"q": "About 1500 years ago, giant flightless moa birds lived in New Zealand. They were the prey of huge Haast's eagles. When humans arrived, they hunted the moa to extinction.", "parts": [
-     {"text": "Explain an adaptation that Haast's eagles might have had for hunting moa.", "lines": 2},
-     {"text": "Suggest and explain why Haast's eagles became extinct soon after the moa.", "lines": 3}]},
-   {"q": "Explain how a gene bank can allow a plant species to survive if it becomes extinct in the wild, and give one reason why a gene bank alone is not enough to save a species.", "lines": 4}
+   {
+    "q": "About 1500 years ago, giant flightless moa birds lived in New Zealand. They were the prey of huge Haast's eagles. When humans arrived, they hunted the moa to extinction.",
+    "parts": [
+     {
+      "text": "Explain an adaptation that Haast's eagles might have had for hunting moa.",
+      "lines": 2
+     },
+     {
+      "text": "Suggest and explain why Haast's eagles became extinct soon after the moa.",
+      "lines": 3
+     }
+    ]
+   },
+   {
+    "q": "Explain how a gene bank can allow a plant species to survive if it becomes extinct in the wild, and give one reason why a gene bank alone is not enough to save a species.",
+    "lines": 4
+   }
   ],
   "my_thinking": "Red squirrels died out in some parts of the UK in the 1980s and there are plans to reintroduce them. What could be done to help the reintroduced red squirrels survive?",
-  "word_bank": ["adaptation", "endangered", "extinct", "abiotic factor", "biotic factor", "competition", "native species", "biodiversity", "nature reserve", "gene bank"],
-  "exit": ["What does it mean if a species is endangered?", "Give one biotic factor that can cause a species to become extinct.", "Give one way of preserving biodiversity and say how it works."],
-  "exit_lines": [1, 1, 2]
+  "word_bank": [
+   "adaptation",
+   "endangered",
+   "extinct",
+   "abiotic factor",
+   "biotic factor",
+   "competition",
+   "native species",
+   "biodiversity",
+   "nature reserve",
+   "gene bank"
+  ],
+  "exit": [
+   "What does it mean if a species is endangered?",
+   "Give one biotic factor that can cause a species to become extinct.",
+   "Give one way of preserving biodiversity and say how it works."
+  ],
+  "exit_lines": [
+   1,
+   1,
+   2
+  ]
  },
  "answers": {
   "core": [
@@ -148,7 +495,11 @@
    "a) e.g. very large size and powerful talons to kill a large bird; strong wings for carrying heavy prey; sharp eyesight to spot moa from above. b) The moa were the eagles' main food (a biotic factor). When humans hunted the moa to extinction, the eagles lost their prey; their adaptations suited hunting large flightless birds and there were no other prey of that size, so the eagles starved and could not raise young, and the species became extinct.",
    "Seeds (or cells) are collected and stored at low temperature, where they stay alive for many years without growing; if the species dies out in the wild, the seeds can be germinated and the plants grown and planted out again. Limitation: the plants still need a suitable habitat to survive in; if the habitat has been destroyed or the climate has changed, they cannot be reintroduced; also a seed bank holds only a sample of the species' genetic variation."
   ],
-  "exit": ["In danger of becoming extinct.", "e.g. competition from an introduced species, a new disease, hunting, clearing of habitats.", "e.g. a nature reserve protects the habitat so the species has somewhere to live; a breeding programme raises numbers in captivity and releases animals; a gene bank stores seeds or gametes cold to regrow the species."],
+  "exit": [
+   "In danger of becoming extinct.",
+   "e.g. competition from an introduced species, a new disease, hunting, clearing of habitats.",
+   "e.g. a nature reserve protects the habitat so the species has somewhere to live; a breeding programme raises numbers in captivity and releases animals; a gene bank stores seeds or gametes cold to regrow the species."
+  ],
   "my_thinking": "e.g. choose conifer forest areas where reds are better adapted; remove or control grey squirrels nearby; vaccinate or keep greys with squirrel pox away; provide extra food in winter; protect the habitat as a nature reserve; monitor the population."
  }
 }

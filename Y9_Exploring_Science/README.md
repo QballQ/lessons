@@ -38,6 +38,6 @@ To change a lesson, edit its JSON file in `source/content/` and rebuild it. Chin
 
 ## Status and next steps
 
-- All 21 lessons built and checked for layout; the images that could be fetched are in place, the rest show a labelled placeholder until fetched (see `images/Image_Register.md`, column Status).
+- All 21 lessons built and checked for layout. 61 open-licence photographs are in place (`images/`), each with its credit on the slide. Ten picture ideas had no usable open-licence match and were removed from the slides (among them a phagocyte engulfing bacteria, a quadrat in use, the iodine and Benedict's test results, a neurone and an endocrine glands diagram); those slides stand on their text and the drawn diagrams. Add a school photo of the practical results in `images/` and reference it in the lesson file if wanted.
 - Before Week 1: native-speaker check of the Chinese key words and command words (`source/glossary_cn.json`, `source/command_words.json`), check the pictures on the classroom screen, print the worksheets in greyscale.
 - Practicals: 9A L3 two dice; 9A L7 paper-moth model (optional); 9B L3 stomata peel (microscope); 9B L4 starch test on a leaf (hot water bath, ethanol, iodine; goggles); 9C L3 ruler-drop reaction time; 9C L5 class hand span data; 9C L6 quadrats on the field or a paper field; 9C L7 potato strips in water and salt solution. Equipment and safety are in each unit's Teacher Guide and in the teaching plan.

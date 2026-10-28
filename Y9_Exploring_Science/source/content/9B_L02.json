@@ -7,11 +7,24 @@
  "title": "Plant adaptations: roots, stems and leaves",
  "title_cn": "植物的适应：根、茎和叶",
  "slug": "Plant_adaptations",
- "book": {"pages": "24 to 25", "spread": "9Bb Plant adaptations (mineral salts, water, light)"},
- "workbook": {"pages": "17"},
+ "book": {
+  "pages": "24 to 25",
+  "spread": "9Bb Plant adaptations (mineral salts, water, light)"
+ },
+ "workbook": {
+  "pages": "17"
+ },
  "oak": [
-  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Adaptations of plants for photosynthesis: absorbing light", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/adaptations-of-plants-for-photosynthesis-absorbing-light"},
-  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Plant nutrition", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/plant-nutrition"}
+  {
+   "unit": "Plant nutrition and photosynthesis, Year 9",
+   "lesson": "Adaptations of plants for photosynthesis: absorbing light",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/adaptations-of-plants-for-photosynthesis-absorbing-light"
+  },
+  {
+   "unit": "Plant nutrition and photosynthesis, Year 9",
+   "lesson": "Plant nutrition",
+   "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/plant-nutrition"
+  }
  ],
  "big_idea": "Roots, stems and leaves are adapted to supply every cell with water, mineral salts, light and carbon dioxide.",
  "goals": [
@@ -19,17 +32,61 @@
   "I can explain how a leaf and its palisade cells are adapted for photosynthesis."
  ],
  "keywords": [
-  {"en": "mineral salts", "cn": "矿物盐", "meaning": "substances dissolved in soil water that plants need to stay healthy, e.g. nitrates"},
-  {"en": "nitrate", "cn": "硝酸盐", "meaning": "a mineral salt that supplies nitrogen for making proteins"},
-  {"en": "magnesium", "cn": "镁", "meaning": "an element plants need to make chlorophyll"},
-  {"en": "potassium", "cn": "钾", "meaning": "an element root cells need to absorb water properly"},
-  {"en": "root hair cell", "cn": "根毛细胞", "meaning": "a root cell with a long extension that gives a large surface area for absorbing water"},
-  {"en": "xylem", "cn": "木质部", "meaning": "hollow tubes made from dead cells that carry water and mineral salts up the plant"},
-  {"en": "wilt", "cn": "枯萎", "meaning": "to droop because the cells have too little water"},
-  {"en": "palisade cell", "cn": "栅栏细胞", "meaning": "a leaf cell near the upper surface that is packed with chloroplasts"},
-  {"en": "epidermis", "cn": "表皮", "meaning": "the outer layer of cells of a leaf"},
-  {"en": "cuticle", "cn": "角质层", "meaning": "the waxy layer on a leaf that stops it losing too much water"},
-  {"en": "surface area", "cn": "表面积", "meaning": "the total area of the outside of something"}
+  {
+   "en": "mineral salts",
+   "cn": "矿物盐",
+   "meaning": "substances dissolved in soil water that plants need to stay healthy, e.g. nitrates"
+  },
+  {
+   "en": "nitrate",
+   "cn": "硝酸盐",
+   "meaning": "a mineral salt that supplies nitrogen for making proteins"
+  },
+  {
+   "en": "magnesium",
+   "cn": "镁",
+   "meaning": "an element plants need to make chlorophyll"
+  },
+  {
+   "en": "potassium",
+   "cn": "钾",
+   "meaning": "an element root cells need to absorb water properly"
+  },
+  {
+   "en": "root hair cell",
+   "cn": "根毛细胞",
+   "meaning": "a root cell with a long extension that gives a large surface area for absorbing water"
+  },
+  {
+   "en": "xylem",
+   "cn": "木质部",
+   "meaning": "hollow tubes made from dead cells that carry water and mineral salts up the plant"
+  },
+  {
+   "en": "wilt",
+   "cn": "枯萎",
+   "meaning": "to droop because the cells have too little water"
+  },
+  {
+   "en": "palisade cell",
+   "cn": "栅栏细胞",
+   "meaning": "a leaf cell near the upper surface that is packed with chloroplasts"
+  },
+  {
+   "en": "epidermis",
+   "cn": "表皮",
+   "meaning": "the outer layer of cells of a leaf"
+  },
+  {
+   "en": "cuticle",
+   "cn": "角质层",
+   "meaning": "the waxy layer on a leaf that stops it losing too much water"
+  },
+  {
+   "en": "surface area",
+   "cn": "表面积",
+   "meaning": "the total area of the outside of something"
+  }
  ],
  "misconceptions": [
   "Plants get their food from the soil. Plants get water and mineral salts from the soil, but they make their food (glucose) by photosynthesis in the leaves.",
@@ -37,15 +94,62 @@
   "Students do not link the shape of a structure to its job. Every adaptation here (root hairs, hollow xylem, thin broad leaves, chloroplast-packed palisade cells) is a shape that fits a function."
  ],
  "safety": "No practical hazards beyond normal classroom rules.",
- "equipment": ["Worksheets (standard and Chinese key words versions)", "A Venus flytrap or a photo (hook)", "Optional: a leaf, squared paper and a ruler per pair to estimate leaf surface area", "Optional: a wilted and a watered pot plant to compare"],
+ "equipment": [
+  "Worksheets (standard and Chinese key words versions)",
+  "A Venus flytrap or a photo (hook)",
+  "Optional: a leaf, squared paper and a ruler per pair to estimate leaf surface area",
+  "Optional: a wilted and a watered pot plant to compare"
+ ],
  "timeline": [
-  {"phase": "Do Now", "min": 4, "teacher": "Recaps the photosynthesis equation and where the reactants come from.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
-  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
-  {"phase": "Hook", "min": 3, "teacher": "Venus flytrap: why does a plant eat flies? Collects ideas.", "students": "Pair talk, share.", "resource": "Slide 4"},
-  {"phase": "Learn", "min": 10, "teacher": "Teaches mineral salts, roots and xylem, the route of water, the layers of a leaf and palisade cells. Quick check.", "students": "Copy the mineral salts table; answer the quick check.", "resource": "Slides 5 to 10"},
-  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Optional: pairs trace a leaf on squared paper and estimate its surface area.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 11, worksheet"},
-  {"phase": "Think and Reflect", "min": 4, "teacher": "Wilting and recovery: takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
-  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook page 17.", "students": "Complete the exit ticket alone.", "resource": "Slides 13 to 14, worksheet strip"}
+  {
+   "phase": "Do Now",
+   "min": 4,
+   "teacher": "Recaps the photosynthesis equation and where the reactants come from.",
+   "students": "Answer the three questions in their books.",
+   "resource": "Slide 2"
+  },
+  {
+   "phase": "Today",
+   "min": 1,
+   "teacher": "Reads the two goals; points to the key words.",
+   "students": "Find the key words box on the worksheet.",
+   "resource": "Slide 3, worksheet header"
+  },
+  {
+   "phase": "Hook",
+   "min": 3,
+   "teacher": "Venus flytrap: why does a plant eat flies? Collects ideas.",
+   "students": "Pair talk, share.",
+   "resource": "Slide 4"
+  },
+  {
+   "phase": "Learn",
+   "min": 10,
+   "teacher": "Teaches mineral salts, roots and xylem, the route of water, the layers of a leaf and palisade cells. Quick check.",
+   "students": "Copy the mineral salts table; answer the quick check.",
+   "resource": "Slides 5 to 10"
+  },
+  {
+   "phase": "Do",
+   "min": 14,
+   "teacher": "Sets the worksheet. Optional: pairs trace a leaf on squared paper and estimate its surface area.",
+   "students": "Core, then Stretch, then Challenge.",
+   "resource": "Slide 11, worksheet"
+  },
+  {
+   "phase": "Think and Reflect",
+   "min": 4,
+   "teacher": "Wilting and recovery: takes answers with the frames.",
+   "students": "Pair discussion, share with a frame.",
+   "resource": "Slide 12"
+  },
+  {
+   "phase": "Exit ticket",
+   "min": 4,
+   "teacher": "Collects exit tickets; summary; sets Workbook page 17.",
+   "students": "Complete the exit ticket alone.",
+   "resource": "Slides 13 to 14, worksheet strip"
+  }
  ],
  "tiers": {
   "core": "Complete the table of what plants need and where it comes from; match leaf parts to functions; gap fill on the route of water.",
@@ -53,78 +157,354 @@
   "challenge": "Explain the Venus flytrap's source of mineral salts; describe how a leaf gets palisade cells everything they need."
  },
  "slides": [
-  {"type": "title", "subtitle": "How is a plant built to collect water, mineral salts, light and carbon dioxide?", "image": "venus_flytrap",
-   "notes": "Lesson 2 of 9B. Last lesson: the two reactions. This lesson: the structures that supply them, from root hair to palisade cell."},
-  {"type": "donow", "title": "Do Now: where do the reactants come from?", "minutes": 4,
-   "prompt": ["1. Write the word equation for photosynthesis.", "2. Which reactant comes from the air, and which comes from the soil?", "3. Name two other things a plant needs that it gets from the soil."],
-   "notes": "Answers: carbon dioxide + water makes glucose + oxygen; carbon dioxide from the air, water from the soil; mineral salts such as nitrates, magnesium and potassium (accept 'nutrients'). Many students will say 'food' for question 3: challenge it, the plant makes its own food."},
-  {"type": "today", "title": "Today",
-   "notes": "Read each goal aloud. Point to the key words box on the worksheet."},
-  {"type": "hook", "title": "Why does a plant eat flies?", "image": "venus_flytrap", "caption": "A Venus flytrap. The trap shuts when a hair is touched twice.",
+  {
+   "type": "title",
+   "subtitle": "How is a plant built to collect water, mineral salts, light and carbon dioxide?",
+   "image": "venus_flytrap",
+   "notes": "Lesson 2 of 9B. Last lesson: the two reactions. This lesson: the structures that supply them, from root hair to palisade cell."
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: where do the reactants come from?",
+   "minutes": 4,
+   "prompt": [
+    "1. Write the word equation for photosynthesis.",
+    "2. Which reactant comes from the air, and which comes from the soil?",
+    "3. Name two other things a plant needs that it gets from the soil."
+   ],
+   "notes": "Answers: carbon dioxide + water makes glucose + oxygen; carbon dioxide from the air, water from the soil; mineral salts such as nitrates, magnesium and potassium (accept 'nutrients'). Many students will say 'food' for question 3: challenge it, the plant makes its own food."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "notes": "Read each goal aloud. Point to the key words box on the worksheet."
+  },
+  {
+   "type": "hook",
+   "title": "Why does a plant eat flies?",
+   "image": "venus_flytrap",
+   "caption": "A Venus flytrap. The trap shuts when a hair is touched twice.",
    "question": "The Venus flytrap grows in bogs where the soil contains very few mineral salts. What does it get from a fly that it cannot get from the soil?",
-   "text": ["Talk to a partner. Then: suggest why a hair has to be touched more than once before the trap shuts."],
-   "notes": "The fly supplies mineral salts, especially nitrates (nitrogen for proteins) and potassium. The plant still makes its own glucose by photosynthesis; the fly is not its energy source. Touching twice stops the trap wasting energy shutting on raindrops or dust."},
-  {"type": "table", "title": "What plants need from mineral salts", "vocab": ["mineral salts", "nitrate", "magnesium", "potassium"],
-   "table": {"headers": ["Mineral salt", "What the plant uses it for", "Sign of shortage"], "colW": [2.4, 3.6, 2.6], "rows": [["nitrates (nitrogen)", "making proteins, so cells can grow", "small, poor growth"], ["magnesium", "making chlorophyll", "yellow leaves"], ["potassium", "root cells absorbing water properly", "weak growth, wilting"]]},
-   "text": ["Carbon, hydrogen and oxygen come from water and carbon dioxide.", "Mineral salts dissolve in soil water and enter through the roots."],
+   "text": [
+    "Talk to a partner. Then: suggest why a hair has to be touched more than once before the trap shuts."
+   ],
+   "notes": "The fly supplies mineral salts, especially nitrates (nitrogen for proteins) and potassium. The plant still makes its own glucose by photosynthesis; the fly is not its energy source. Touching twice stops the trap wasting energy shutting on raindrops or dust."
+  },
+  {
+   "type": "table",
+   "title": "What plants need from mineral salts",
+   "vocab": [
+    "mineral salts",
+    "nitrate",
+    "magnesium",
+    "potassium"
+   ],
+   "table": {
+    "headers": [
+     "Mineral salt",
+     "What the plant uses it for",
+     "Sign of shortage"
+    ],
+    "colW": [
+     2.4,
+     3.6,
+     2.6
+    ],
+    "rows": [
+     [
+      "nitrates (nitrogen)",
+      "making proteins, so cells can grow",
+      "small, poor growth"
+     ],
+     [
+      "magnesium",
+      "making chlorophyll",
+      "yellow leaves"
+     ],
+     [
+      "potassium",
+      "root cells absorbing water properly",
+      "weak growth, wilting"
+     ]
+    ]
+   },
+   "text": [
+    "Carbon, hydrogen and oxygen come from water and carbon dioxide.",
+    "Mineral salts dissolve in soil water and enter through the roots."
+   ],
    "key_idea": "Mineral salts are not food: they are building materials. Nitrates build proteins; magnesium builds chlorophyll.",
-   "notes": "Students copy the table. Ask: what happens to photosynthesis in a plant short of magnesium? Less chlorophyll, so less energy captured, so less glucose and slower growth. This is Stretch 3 on the worksheet."},
-  {"type": "learn", "title": "Roots: collecting water and mineral salts", "image": "root_hairs", "caption": "Root hairs on a seedling", "vocab": ["root hair cell", "xylem", "surface area"],
-   "text": ["Roots hold the plant in place and absorb water with dissolved mineral salts.", "Roots are branched and spread out to reach water in a large volume of soil.", "Root hair cells have a long extension: a large surface area to absorb water quickly.", "Water passes to xylem vessels: long hollow tubes formed when chains of xylem cells die.", "Xylem carries water and mineral salts up to the leaves."],
+   "notes": "Students copy the table. Ask: what happens to photosynthesis in a plant short of magnesium? Less chlorophyll, so less energy captured, so less glucose and slower growth. This is Stretch 3 on the worksheet."
+  },
+  {
+   "type": "learn",
+   "title": "Roots: collecting water and mineral salts",
+   "image": "root_hairs",
+   "caption": "Root hairs on a seedling",
+   "vocab": [
+    "root hair cell",
+    "xylem",
+    "surface area"
+   ],
+   "text": [
+    "Roots hold the plant in place and absorb water with dissolved mineral salts.",
+    "Roots are branched and spread out to reach water in a large volume of soil.",
+    "Root hair cells have a long extension: a large surface area to absorb water quickly.",
+    "Water passes to xylem vessels: long hollow tubes formed when chains of xylem cells die.",
+    "Xylem carries water and mineral salts up to the leaves."
+   ],
    "key_idea": "Large surface area = faster absorption. Hollow dead cells = a pipe.",
-   "notes": "Hold a bunch of fine string next to a single thick rope: which has more surface? Root hairs work the same way. Xylem is made of dead cells: the end walls break down, leaving a continuous tube."},
-  {"type": "diagram", "title": "The route of water through a plant", "image": "diagram:water_route", "vocab": ["xylem", "wilt"],
+   "notes": "Hold a bunch of fine string next to a single thick rope: which has more surface? Root hairs work the same way. Xylem is made of dead cells: the end walls break down, leaving a continuous tube."
+  },
+  {
+   "type": "diagram",
+   "title": "The route of water through a plant",
+   "image": "diagram:water_route",
+   "vocab": [
+    "xylem",
+    "wilt"
+   ],
    "text": "Water is needed for photosynthesis, to keep leaves cool, and to fill cells so they stay firm.",
    "key_idea": "Too little water: the cells sag, the leaves droop and the plant wilts. Water the plant and the cells fill again.",
-   "notes": "Trace the route aloud: soil water, root hair cell, xylem in the root, xylem in the stem, leaf cells, out through the stomata as water vapour (next lesson). Show a wilted and a watered pot plant if you have them."},
-  {"type": "diagram", "title": "Inside a leaf", "image": "diagram:leaf_section", "vocab": ["palisade cell", "epidermis", "cuticle"],
+   "notes": "Trace the route aloud: soil water, root hair cell, xylem in the root, xylem in the stem, leaf cells, out through the stomata as water vapour (next lesson). Show a wilted and a watered pot plant if you have them."
+  },
+  {
+   "type": "diagram",
+   "title": "Inside a leaf",
+   "image": "diagram:leaf_section",
+   "vocab": [
+    "palisade cell",
+    "epidermis",
+    "cuticle"
+   ],
    "text": "Leaves are broad and thin. Which layer has the most chloroplasts, and why is it near the top?",
    "key_idea": "Palisade cells sit near the upper surface, where there is most light, and are packed with chloroplasts.",
-   "notes": "Answer: the palisade layer, just under the clear upper epidermis, because light arrives from above. The spongy layer has air spaces for gases, the vein carries water in (xylem) and sugar out (phloem), and the stomata are mostly underneath. Next lesson looks at the stomata in detail."},
-  {"type": "learn", "title": "Leaves: catching light", "image": "chloroplasts", "caption": "Chloroplasts inside leaf cells (microscope)", "vocab": ["palisade cell", "cuticle", "surface area"],
-   "text": ["Broad leaves have a large surface area to trap light.", "Leaves are arranged so the upper ones do not shade the lower ones too much.", "The epidermis makes a waxy cuticle that stops the leaf losing too much water.", "Palisade cells contain many chloroplasts, where photosynthesis happens.", "In dim light the chloroplasts move nearer the surface; in bright light they move away to avoid damage."],
+   "notes": "Answer: the palisade layer, just under the clear upper epidermis, because light arrives from above. The spongy layer has air spaces for gases, the vein carries water in (xylem) and sugar out (phloem), and the stomata are mostly underneath. Next lesson looks at the stomata in detail."
+  },
+  {
+   "type": "learn",
+   "title": "Leaves: catching light",
+   "image": "chloroplasts",
+   "caption": "Chloroplasts inside leaf cells (microscope)",
+   "vocab": [
+    "palisade cell",
+    "cuticle",
+    "surface area"
+   ],
+   "text": [
+    "Broad leaves have a large surface area to trap light.",
+    "Leaves are arranged so the upper ones do not shade the lower ones too much.",
+    "The epidermis makes a waxy cuticle that stops the leaf losing too much water.",
+    "Palisade cells contain many chloroplasts, where photosynthesis happens.",
+    "In dim light the chloroplasts move nearer the surface; in bright light they move away to avoid damage."
+   ],
    "key_idea": "Shape fits function: broad and thin for light, a cuticle to keep water in, palisade cells full of chloroplasts.",
-   "notes": "Optional activity for the Do phase: trace a leaf on squared paper and count the squares to estimate its surface area. Compare a sun leaf and a shade leaf from the same tree: shade leaves are often larger and thinner."},
-  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
-   "questions": ["Which mineral salt supplies nitrogen for making proteins?", "A plant has yellow leaves. Which element is it short of?", "How are root hair cells adapted to absorb water quickly?", "Which tissue carries water up the stem, xylem or phloem?", "Which leaf cells contain the most chloroplasts?"],
-   "notes": "Answers: nitrates; magnesium; a long extension gives a large surface area; xylem; palisade cells. Ask a student to say the difference between xylem (water up, dead cells) and phloem (sugar solution, living cells)."},
-  {"type": "steps", "title": "Your turn", "minutes": 14,
-   "steps": ["Core: complete the table of what plants need, match the leaf parts, then fill the gaps on the route of water.", "Stretch: explain the adaptations of xylem and root hair cells, wilting and recovery, and the yellow leaves.", "Challenge: the Venus flytrap and how a leaf supplies its palisade cells.", "Optional with your partner: trace a leaf on squared paper and estimate its surface area in cm²."],
+   "notes": "Optional activity for the Do phase: trace a leaf on squared paper and count the squares to estimate its surface area. Compare a sun leaf and a shade leaf from the same tree: shade leaves are often larger and thinner."
+  },
+  {
+   "type": "check",
+   "title": "Quick check",
+   "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": [
+    "Which mineral salt supplies nitrogen for making proteins?",
+    "A plant has yellow leaves. Which element is it short of?",
+    "How are root hair cells adapted to absorb water quickly?",
+    "Which tissue carries water up the stem, xylem or phloem?",
+    "Which leaf cells contain the most chloroplasts?"
+   ],
+   "notes": "Answers: nitrates; magnesium; a long extension gives a large surface area; xylem; palisade cells. Ask a student to say the difference between xylem (water up, dead cells) and phloem (sugar solution, living cells)."
+  },
+  {
+   "type": "steps",
+   "title": "Your turn",
+   "minutes": 14,
+   "steps": [
+    "Core: complete the table of what plants need, match the leaf parts, then fill the gaps on the route of water.",
+    "Stretch: explain the adaptations of xylem and root hair cells, wilting and recovery, and the yellow leaves.",
+    "Challenge: the Venus flytrap and how a leaf supplies its palisade cells.",
+    "Optional with your partner: trace a leaf on squared paper and estimate its surface area in cm²."
+   ],
    "footer": "Use the key words box. Every answer about an adaptation should say what the structure is like AND what that lets it do.",
-   "notes": "Model one adaptation answer on the board: 'Root hair cells have a long thin extension (what it is like), which gives a large surface area, so water is absorbed faster (what it does).' Insist on both halves."},
-  {"type": "think", "title": "Wilt and recover", "prompt": "A pot plant is left without water for a week and wilts. Two hours after watering it stands up straight again. Explain both changes.", "image": "wilted_plant", "caption": "A wilted plant",
-   "frames": ["Without water, the cells ___ so the leaves ___.", "After watering, water travels from the ___ through the ___ to the leaves.", "The cells fill up again and become ___."],
-   "notes": "Expected: without water the cells sag (lose their firmness) so the leaves droop; after watering, water is absorbed by root hair cells and carried up in the xylem; the cells fill with water, become firm, and hold the leaves up. Lesson 3 adds how water leaves through the stomata."},
-  {"type": "exit", "title": "Exit ticket", "minutes": 4,
-   "questions": ["Name the mineral salt a plant needs to make proteins.", "How are root hair cells adapted to absorb water?", "Why do palisade cells contain so many chloroplasts?"],
-   "notes": "Answers: nitrates; a long extension gives a large surface area so water is absorbed quickly; they are near the top of the leaf where there is most light, and chloroplasts are where photosynthesis happens. Collect the strips."},
-  {"type": "summary", "title": "What we learned", "next": "Gas exchange: how stomata let carbon dioxide in and oxygen and water vapour out.",
-   "points": ["Plants need nitrates (proteins), magnesium (chlorophyll) and potassium (absorbing water) from mineral salts in the soil.", "Root hair cells have a large surface area; xylem vessels are hollow tubes of dead cells that carry water and mineral salts up.", "Water is needed for photosynthesis, cooling and keeping cells firm; too little and the plant wilts.", "Leaves are broad and thin, with a waxy cuticle and palisade cells packed with chloroplasts near the top."],
-   "notes": "Homework: Workbook page 17. Bring in a leaf next lesson if you want to look at its stomata under the microscope."}
+   "notes": "Model one adaptation answer on the board: 'Root hair cells have a long thin extension (what it is like), which gives a large surface area, so water is absorbed faster (what it does).' Insist on both halves."
+  },
+  {
+   "type": "think",
+   "title": "Wilt and recover",
+   "prompt": "A pot plant is left without water for a week and wilts. Two hours after watering it stands up straight again. Explain both changes.",
+   "frames": [
+    "Without water, the cells ___ so the leaves ___.",
+    "After watering, water travels from the ___ through the ___ to the leaves.",
+    "The cells fill up again and become ___."
+   ],
+   "notes": "Expected: without water the cells sag (lose their firmness) so the leaves droop; after watering, water is absorbed by root hair cells and carried up in the xylem; the cells fill with water, become firm, and hold the leaves up. Lesson 3 adds how water leaves through the stomata."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 4,
+   "questions": [
+    "Name the mineral salt a plant needs to make proteins.",
+    "How are root hair cells adapted to absorb water?",
+    "Why do palisade cells contain so many chloroplasts?"
+   ],
+   "notes": "Answers: nitrates; a long extension gives a large surface area so water is absorbed quickly; they are near the top of the leaf where there is most light, and chloroplasts are where photosynthesis happens. Collect the strips."
+  },
+  {
+   "type": "summary",
+   "title": "What we learned",
+   "next": "Gas exchange: how stomata let carbon dioxide in and oxygen and water vapour out.",
+   "points": [
+    "Plants need nitrates (proteins), magnesium (chlorophyll) and potassium (absorbing water) from mineral salts in the soil.",
+    "Root hair cells have a large surface area; xylem vessels are hollow tubes of dead cells that carry water and mineral salts up.",
+    "Water is needed for photosynthesis, cooling and keeping cells firm; too little and the plant wilts.",
+    "Leaves are broad and thin, with a waxy cuticle and palisade cells packed with chloroplasts near the top."
+   ],
+   "notes": "Homework: Workbook page 17. Bring in a leaf next lesson if you want to look at its stomata under the microscope."
+  }
  ],
  "worksheet": {
   "core": [
-   {"q": "Complete the table to show how plants get what they need for growth. Use the word bank: air, soil water, respiration, photosynthesis, making proteins, making chlorophyll, absorbing water, keeping cells firm.",
-    "table": {"headers": ["Substance", "Where it comes from", "How the plant uses it"], "widths": [2800, 3400, 3600], "rows": [["oxygen", "", ""], ["carbon dioxide", "", ""], ["nitrate salts", "", ""], ["magnesium salts", "", ""], ["potassium salts", "", ""], ["water", "", ""]], "row_h": 480}},
-   {"q": "Match each part of a leaf to how it helps the plant. Draw a line.", "match": {"left": ["palisade cells", "phloem", "xylem", "stomata", "cuticle"], "right": ["carries water and mineral salts from the roots", "stops the leaf losing too much water", "allow gases to enter and leave the leaf", "contain many chloroplasts, near the top where there is most light", "carries dissolved sugars from the leaf to other parts of the plant"]}},
-   {"q": "Complete the sentences about the route of water. Use the word bank.",
-    "gap_lines": ["Water enters the plant through ____________ cells, which have a large ____________ so they absorb water quickly.", "The water travels up the root and stem in ____________ vessels, which are hollow tubes made from ____________ cells.", "If a plant has too little water, its cells sag and the plant ____________."]}
+   {
+    "q": "Complete the table to show how plants get what they need for growth. Use the word bank: air, soil water, respiration, photosynthesis, making proteins, making chlorophyll, absorbing water, keeping cells firm.",
+    "table": {
+     "headers": [
+      "Substance",
+      "Where it comes from",
+      "How the plant uses it"
+     ],
+     "widths": [
+      2800,
+      3400,
+      3600
+     ],
+     "rows": [
+      [
+       "oxygen",
+       "",
+       ""
+      ],
+      [
+       "carbon dioxide",
+       "",
+       ""
+      ],
+      [
+       "nitrate salts",
+       "",
+       ""
+      ],
+      [
+       "magnesium salts",
+       "",
+       ""
+      ],
+      [
+       "potassium salts",
+       "",
+       ""
+      ],
+      [
+       "water",
+       "",
+       ""
+      ]
+     ],
+     "row_h": 480
+    }
+   },
+   {
+    "q": "Match each part of a leaf to how it helps the plant. Draw a line.",
+    "match": {
+     "left": [
+      "palisade cells",
+      "phloem",
+      "xylem",
+      "stomata",
+      "cuticle"
+     ],
+     "right": [
+      "carries water and mineral salts from the roots",
+      "stops the leaf losing too much water",
+      "allow gases to enter and leave the leaf",
+      "contain many chloroplasts, near the top where there is most light",
+      "carries dissolved sugars from the leaf to other parts of the plant"
+     ]
+    }
+   },
+   {
+    "q": "Complete the sentences about the route of water. Use the word bank.",
+    "gap_lines": [
+     "Water enters the plant through ____________ cells, which have a large ____________ so they absorb water quickly.",
+     "The water travels up the root and stem in ____________ vessels, which are hollow tubes made from ____________ cells.",
+     "If a plant has too little water, its cells sag and the plant ____________."
+    ]
+   }
   ],
   "stretch": [
-   {"q": "Describe how each of these cells is adapted for its function. Say what the cell is like and what that lets it do.",
-    "parts": [{"text": "xylem cells", "lines": 2}, {"text": "root hair cells", "lines": 2}]},
-   {"q": "A plant short of magnesium has yellow leaves and grows slowly. Explain why it grows slowly. Use the words chlorophyll, light and glucose.", "lines": 3},
-   {"q": "Explain why water is important to a plant. Give three different reasons.", "lines": 3}
+   {
+    "q": "Describe how each of these cells is adapted for its function. Say what the cell is like and what that lets it do.",
+    "parts": [
+     {
+      "text": "xylem cells",
+      "lines": 2
+     },
+     {
+      "text": "root hair cells",
+      "lines": 2
+     }
+    ]
+   },
+   {
+    "q": "A plant short of magnesium has yellow leaves and grows slowly. Explain why it grows slowly. Use the words chlorophyll, light and glucose.",
+    "lines": 3
+   },
+   {
+    "q": "Explain why water is important to a plant. Give three different reasons.",
+    "lines": 3
+   }
   ],
   "challenge": [
-   {"q": "The Venus flytrap grows in bogs with very few mineral salts in the soil. It catches insects when the trigger hairs in its trap are touched more than once.",
-    "parts": [{"text": "Suggest why a trigger hair has to be touched more than once before the trap shuts.", "lines": 2}, {"text": "State what the Venus flytrap gets from the insects, and explain why it might die without them even though it can photosynthesise.", "lines": 3}]},
-   {"q": "Describe how a leaf is adapted to allow its palisade cells to get all the resources they need for photosynthesis: light, carbon dioxide and water.", "lines": 4}
+   {
+    "q": "The Venus flytrap grows in bogs with very few mineral salts in the soil. It catches insects when the trigger hairs in its trap are touched more than once.",
+    "parts": [
+     {
+      "text": "Suggest why a trigger hair has to be touched more than once before the trap shuts.",
+      "lines": 2
+     },
+     {
+      "text": "State what the Venus flytrap gets from the insects, and explain why it might die without them even though it can photosynthesise.",
+      "lines": 3
+     }
+    ]
+   },
+   {
+    "q": "Describe how a leaf is adapted to allow its palisade cells to get all the resources they need for photosynthesis: light, carbon dioxide and water.",
+    "lines": 4
+   }
   ],
   "my_thinking": "Some farmers grow lettuce in water with mineral salts dissolved in it, and no soil at all. Could this work? What would the plants still need, and where would it come from?",
-  "word_bank": ["mineral salts", "nitrate", "magnesium", "potassium", "root hair cell", "xylem", "wilt", "palisade cell", "cuticle", "surface area", "dead"],
-  "exit": ["Name the mineral salt a plant needs to make proteins.", "How are root hair cells adapted to absorb water?", "Why do palisade cells contain so many chloroplasts?"],
-  "exit_lines": [1, 2, 2]
+  "word_bank": [
+   "mineral salts",
+   "nitrate",
+   "magnesium",
+   "potassium",
+   "root hair cell",
+   "xylem",
+   "wilt",
+   "palisade cell",
+   "cuticle",
+   "surface area",
+   "dead"
+  ],
+  "exit": [
+   "Name the mineral salt a plant needs to make proteins.",
+   "How are root hair cells adapted to absorb water?",
+   "Why do palisade cells contain so many chloroplasts?"
+  ],
+  "exit_lines": [
+   1,
+   2,
+   2
+  ]
  },
  "answers": {
   "core": [
