@@ -200,5 +200,81 @@
   "provider": "flickr",
   "via": "Openverse",
   "query": "giant pumpkin"
+ },
+ "dragon_fruit": {
+  "key": "dragon_fruit",
+  "status": "ok",
+  "file": "images/dragon_fruit.jpg",
+  "size": [
+   1024,
+   809
+  ],
+  "caption": "Dragon fruit: inherited variation in skin and flesh colour",
+  "use": "9A L2",
+  "source_title": "DRAGON FRUIT",
+  "source_page": "https://www.flickr.com/photos/60417477@N00/3969844371",
+  "author": "whologwhy",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "dragon fruit"
+ },
+ "kittens_litter": {
+  "key": "kittens_litter",
+  "status": "ok",
+  "file": "images/kittens_litter.jpg",
+  "size": [
+   1023,
+   538
+  ],
+  "caption": "A litter of kittens: brothers and sisters are not identical",
+  "use": "9A L2",
+  "source_title": "B-362's litter of kittens",
+  "source_page": "https://www.flickr.com/photos/38729417@N06/40678031083",
+  "author": "Santa Monica Mountains National Recreation Area",
+  "licence": "Public domain",
+  "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "litter of kittens"
+ },
+ "chloroplasts": {
+  "key": "chloroplasts",
+  "status": "ok",
+  "file": "images/chloroplasts.jpg",
+  "size": [
+   1023,
+   577
+  ],
+  "caption": "Chloroplasts inside plant cells (microscope view)",
+  "use": "9B L1, 9B L2",
+  "source_title": "Gymnosperm Leaves: Epidermis and Hypodermis in Two Needle Pinus",
+  "source_page": "https://www.flickr.com/photos/146824358@N03/36363884301",
+  "author": "bccoer",
+  "licence": "CC0",
+  "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "chloroplasts microscope"
+ },
+ "polio_vaccine": {
+  "key": "polio_vaccine",
+  "status": "ok",
+  "file": "images/polio_vaccine.jpg",
+  "size": [
+   1024,
+   683
+  ],
+  "caption": "Oral polio vaccine being given",
+  "use": "9C L1",
+  "source_title": "Oral polio vaccination in Begoua",
+  "source_page": "https://www.flickr.com/photos/8788342@N08/2529974877",
+  "author": "hdptcar",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "polio vaccine"
  }
 }
