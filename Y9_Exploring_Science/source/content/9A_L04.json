@@ -61,7 +61,7 @@
    "notes": "The men were James Watson and Francis Crick; they had built a cardboard model of DNA. Genetic information is in the nucleus. Human body cells have 46 chromosomes. Four minutes, in books."},
   {"type": "today", "title": "Today",
    "notes": "Read the goals. The names Franklin, Wilkins, Watson and Crick come up all lesson; write them on the board."},
-  {"type": "hook", "title": "A blurry X", "question": "In 1952 Rosalind Franklin took an X-ray photo of DNA. It looked like a blurry X. When James Watson saw it, he knew at once that DNA must be a spiral. Why was seeing another scientist's data so important?", "image": "rosalind_franklin", "caption": "Rosalind Franklin",
+  {"type": "hook", "title": "A blurry X", "question": "In 1952 Rosalind Franklin took an X-ray photo of DNA. It looked like a blurry X. When James Watson saw it, he knew at once that DNA must be a spiral. Why was seeing another scientist's data so important?", "image": "rosalind_franklin", "caption": "A copy of Rosalind Franklin's X-ray photograph of DNA (Photo 51)",
    "text": ["Talk to a partner: what could Watson and Crick do with the photo that they could not do without it?"],
    "notes": "Only spiral (helix) molecules make an X pattern in an X-ray photo. The photo gave Watson and Crick the evidence they needed to finish their model. Scientists build on each other's data; the question of whether the photo should have been shown without Franklin's permission comes back in Think and Reflect."},
   {"type": "learn", "title": "Discovering the structure of DNA", "image": "dna_helix", "caption": "The double helix: two strands twisted into a spiral", "vocab": ["DNA", "double helix", "X-ray", "model"],

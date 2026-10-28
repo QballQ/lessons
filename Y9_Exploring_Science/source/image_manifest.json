@@ -10,10 +10,9 @@
    "search": "giant pumpkin weigh-off",
    "caption": "Giant pumpkins grown with extra light, water, warmth and mineral salts",
    "use": "9A L1",
-   "openverse": "giant pumpkin",
+   "openverse": "giant pumpkin weigh",
    "alt_search": [
-    "pumpkin weigh off",
-    "Atlantic giant pumpkin"
+    "giant pumpkin contest"
    ]
   },
   {
@@ -45,10 +44,9 @@
    "search": "wind-shaped tree krummholz",
    "caption": "A tree shaped by the wind: environmental variation",
    "use": "9A L1",
-   "openverse": "windswept tree",
+   "openverse": "krummholz",
    "alt_search": [
-    "krummholz",
-    "tree bent by wind"
+    "wind bent tree coast"
    ]
   },
   {
@@ -75,10 +73,9 @@
    "search": "dragon fruit pitaya varieties",
    "caption": "Dragon fruit: inherited variation in skin and flesh colour",
    "use": "9A L2",
-   "openverse": "dragon fruit",
+   "openverse": "pitaya",
    "alt_search": [
-    "pitaya fruit",
-    "pitahaya"
+    "dragon fruit market"
    ]
   },
   {
@@ -138,20 +135,6 @@
    "alt_search": []
   },
   {
-   "key": "watson_crick",
-   "prefer": [
-    "File:Francis Crick crop.jpg",
-    "File:James D Watson.jpg"
-   ],
-   "search": "Francis Crick portrait",
-   "caption": "Francis Crick",
-   "use": "9A L4",
-   "openverse": "Francis Crick",
-   "alt_search": [
-    "James Watson DNA"
-   ]
-  },
-  {
    "key": "karyotype",
    "prefer": [
     "File:NHGRI human male karyotype.png",
@@ -166,20 +149,6 @@
    ]
   },
   {
-   "key": "chromosome_micrograph",
-   "prefer": [
-    "File:Chromosomes mutations-en.svg",
-    "File:Human chromosomes.jpg"
-   ],
-   "search": "human chromosomes electron micrograph",
-   "caption": "Chromosomes",
-   "use": "9A L4",
-   "openverse": "chromosomes",
-   "alt_search": [
-    "human chromosomes"
-   ]
-  },
-  {
    "key": "thylacine",
    "prefer": [
     "File:Thylacinus cynocephalus 1933.jpg",
@@ -188,9 +157,9 @@
    "search": "thylacine 1933 Hobart zoo",
    "caption": "A thylacine in 1933. The species was hunted to extinction; the last one died in 1936",
    "use": "9A L6",
-   "openverse": "thylacine",
+   "openverse": "Thylacinus cynocephalus",
    "alt_search": [
-    "Tasmanian tiger"
+    "Tasmanian tiger museum"
    ]
   },
   {
@@ -202,10 +171,9 @@
    "search": "asteroid impact artist impression dinosaurs",
    "caption": "Artist's impression of the meteorite impact 65 million years ago",
    "use": "9A L6",
-   "openverse": "asteroid impact",
+   "openverse": "asteroid impact illustration",
    "alt_search": [
-    "meteorite impact earth",
-    "Chicxulub"
+    "meteor impact earth art"
    ]
   },
   {
@@ -246,9 +214,9 @@
    "search": "polar bear on sea ice",
    "caption": "Polar bears hunt from sea ice",
    "use": "9A L6",
-   "openverse": "polar bear",
+   "openverse": "Ursus maritimus",
    "alt_search": [
-    "polar bear sea ice"
+    "polar bear arctic"
    ]
   },
   {
@@ -317,9 +285,9 @@
    "search": "Charles Darwin portrait photograph",
    "caption": "Charles Darwin (1809 to 1882)",
    "use": "9A L7",
-   "openverse": "Charles Darwin portrait",
+   "openverse": "Charles Darwin statue",
    "alt_search": [
-    "Charles Darwin"
+    "Darwin portrait engraving"
    ]
   },
   {
@@ -331,8 +299,10 @@
    "search": "Alfred Russel Wallace portrait",
    "caption": "Alfred Russel Wallace (1823 to 1913)",
    "use": "9A L7",
-   "openverse": "Alfred Russel Wallace",
-   "alt_search": []
+   "openverse": "Alfred Russel Wallace portrait",
+   "alt_search": [
+    "Wallace naturalist portrait"
+   ]
   },
   {
    "key": "microraptor",
@@ -357,9 +327,9 @@
    "search": "woolly mammoth museum model",
    "caption": "A model of a woolly mammoth",
    "use": "9A L7",
-   "openverse": "woolly mammoth",
+   "openverse": "woolly mammoth model",
    "alt_search": [
-    "mammoth model museum"
+    "mammoth museum skeleton"
    ]
   },
   {
@@ -385,10 +355,9 @@
    "search": "pondweed oxygen bubbles photosynthesis experiment",
    "caption": "Pondweed producing oxygen bubbles in light",
    "use": "9B L1",
-   "openverse": "Elodea",
+   "openverse": "Elodea canadensis",
    "alt_search": [
-    "pondweed experiment",
-    "photosynthesis experiment bubbles"
+    "Canadian pondweed"
    ]
   },
   {
@@ -464,10 +433,9 @@
    "search": "wilted plant pot drooping leaves",
    "caption": "A wilted plant",
    "use": "9B L3",
-   "openverse": "wilted plant",
+   "openverse": "wilted basil plant",
    "alt_search": [
-    "wilting plant",
-    "droopy plant"
+    "drooping plant pot"
    ]
   },
   {
@@ -508,10 +476,9 @@
    "search": "bean seed germination stages",
    "caption": "A bean seed germinating",
    "use": "9B L4",
-   "openverse": "bean germination",
+   "openverse": "germinating seed",
    "alt_search": [
-    "seed germinating",
-    "bean seedling sprout"
+    "bean seedling sprouting"
    ]
   },
   {
@@ -597,10 +564,9 @@
    "search": "wheat varieties comparison field trial",
    "caption": "Different wheat varieties",
    "use": "9B L5",
-   "openverse": "wheat varieties",
+   "openverse": "wheat ears field",
    "alt_search": [
-    "wheat field trial plots",
-    "wheat ears"
+    "wheat spikes close"
    ]
   },
   {
@@ -612,8 +578,10 @@
    "search": "IUCN Red List categories diagram",
    "caption": "IUCN Red List categories",
    "use": "9B L5",
-   "openverse": "IUCN Red List",
-   "alt_search": []
+   "openverse": "IUCN Red List endangered",
+   "alt_search": [
+    "endangered species sign"
+   ]
   },
   {
    "key": "algal_bloom",
@@ -698,10 +666,9 @@
    "search": "hedgerow small fields farmland England",
    "caption": "Small fields with hedges give wildlife a home",
    "use": "9B L7",
-   "openverse": "hedgerow",
+   "openverse": "hedgerows fields countryside",
    "alt_search": [
-    "hedgerows fields",
-    "english countryside fields hedges"
+    "English hedgerow"
    ]
   },
   {
@@ -713,9 +680,8 @@
    "search": "Broad Street pump cholera John Snow",
    "caption": "The Broad Street pump: cholera spread by water contaminated with sewage (1854)",
    "use": "9C L1",
-   "openverse": "Broad Street pump",
+   "openverse": "John Snow pump Soho",
    "alt_search": [
-    "John Snow pump",
     "Broadwick Street pump"
    ]
   },
@@ -743,9 +709,9 @@
    "search": "chickenpox rash varicella",
    "caption": "The rash of chickenpox, a disease caused by a virus",
    "use": "9C L1",
-   "openverse": "chickenpox",
+   "openverse": "chickenpox rash arm",
    "alt_search": [
-    "varicella rash"
+    "varicella spots skin"
    ]
   },
   {
@@ -757,10 +723,9 @@
    "search": "neutrophil engulfing bacteria scanning electron micrograph",
    "caption": "A phagocyte engulfing bacteria (electron micrograph, coloured)",
    "use": "9C L2",
-   "openverse": "phagocytosis",
+   "openverse": "neutrophil phagocytosis",
    "alt_search": [
-    "neutrophil bacteria",
-    "macrophage bacteria"
+    "macrophage engulfing bacteria"
    ]
   },
   {
@@ -797,10 +762,9 @@
    "search": "neuron diagram labelled",
    "caption": "A nerve cell (neurone)",
    "use": "9C L3",
-   "openverse": "neuron",
+   "openverse": "neurons microscope",
    "alt_search": [
-    "nerve cell",
-    "neurone"
+    "pyramidal neuron"
    ]
   },
   {
@@ -812,10 +776,9 @@
    "search": "human nervous system diagram brain spinal cord nerves",
    "caption": "The human nervous system",
    "use": "9C L3",
-   "openverse": "nervous system",
+   "openverse": "nervous system illustration",
    "alt_search": [
-    "nervous system diagram",
-    "brain spinal cord nerves"
+    "brain and spinal cord illustration"
    ]
   },
   {
@@ -827,10 +790,9 @@
    "search": "endocrine system glands diagram",
    "caption": "Glands that make hormones",
    "use": "9C L3",
-   "openverse": "endocrine system",
+   "openverse": "endocrine system illustration",
    "alt_search": [
-    "endocrine glands",
-    "hormone glands"
+    "thyroid gland illustration"
    ]
   },
   {
@@ -857,9 +819,8 @@
    "search": "Penicillium mould agar plate bacteria inhibition",
    "caption": "Penicillium mould stops bacteria growing on an agar plate",
    "use": "9C L4",
-   "openverse": "Penicillium",
+   "openverse": "penicillin petri dish",
    "alt_search": [
-    "penicillin mould agar",
     "mould agar plate"
    ]
   },
@@ -872,10 +833,9 @@
    "search": "industrial bioreactor fermenter stainless steel",
    "caption": "An industrial fermenter",
    "use": "9C L4",
-   "openverse": "bioreactor",
+   "openverse": "brewery fermentation tanks",
    "alt_search": [
-    "fermenter",
-    "fermentation tank stainless"
+    "stainless steel fermenter"
    ]
   },
   {
@@ -887,10 +847,9 @@
    "search": "quadrat sampling grassland ecology",
    "caption": "A quadrat used to sample plants",
    "use": "9C L6",
-   "openverse": "quadrat",
+   "openverse": "quadrat survey grass",
    "alt_search": [
-    "quadrat sampling",
-    "ecology fieldwork quadrat"
+    "ecology fieldwork quadrat students"
    ]
   },
   {
@@ -932,10 +891,9 @@
    "search": "lioness hunting gazelle savanna",
    "caption": "Predation is a biotic factor",
    "use": "9C L6",
-   "openverse": "lioness hunting",
+   "openverse": "lioness stalking",
    "alt_search": [
-    "lion hunt",
-    "lions gazelle"
+    "Panthera leo hunting"
    ]
   },
   {
@@ -966,21 +924,6 @@
    ]
   },
   {
-   "key": "plasmolysis",
-   "prefer": [
-    "File:Rhoeo Discolor - Plasmolysis.jpg",
-    "File:Plasmolysis onion cells.jpg"
-   ],
-   "search": "plasmolysis plant cells microscope",
-   "caption": "Plant cells after losing water by osmosis",
-   "use": "9C L7",
-   "openverse": "plasmolysis",
-   "alt_search": [
-    "onion cells plasmolysis",
-    "plant cells microscope"
-   ]
-  },
-  {
    "key": "paramecium",
    "prefer": [
     "File:Paramecium.jpg",
@@ -1003,10 +946,9 @@
    "search": "small intestine villi micrograph",
    "caption": "Villi give the small intestine a large surface area",
    "use": "9C L7",
-   "openverse": "villi",
+   "openverse": "intestinal villi histology",
    "alt_search": [
-    "intestinal villi",
-    "small intestine villi"
+    "small intestine histology"
    ]
   },
   {
@@ -1018,10 +960,9 @@
    "search": "busy airport terminal crowd travellers",
    "caption": "Rapid international travel can spread a disease across the world",
    "use": "9C L7",
-   "openverse": "airport crowd",
+   "openverse": "airport terminal passengers",
    "alt_search": [
-    "busy airport terminal",
-    "airport queue"
+    "airport queue passengers"
    ]
   },
   {
