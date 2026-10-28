@@ -1,0 +1,204 @@
+{
+ "venus_flytrap": {
+  "key": "venus_flytrap",
+  "status": "ok",
+  "file": "images/venus_flytrap.jpg",
+  "size": [
+   1280,
+   1400
+  ],
+  "caption": "A Venus flytrap",
+  "use": "9B L2",
+  "source_title": "File:Venus Flytrap showing trigger hairs.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File%3AVenus_Flytrap_showing_trigger_hairs.jpg",
+  "author": "Noah Elhardt",
+  "licence": "CC BY-SA 2.5",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "description": "The trap of a Venus fly trap, showing trigger hairs."
+ },
+ "stoma": {
+  "key": "stoma",
+  "status": "ok",
+  "file": "images/stoma.jpg",
+  "size": [
+   1024,
+   1049
+  ],
+  "caption": "A stoma with its two guard cells",
+  "use": "9B L3",
+  "source_title": "File:Tomato leaf stomate 1-color.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File%3ATomato_leaf_stomate_1-color.jpg",
+  "author": "Photohound",
+  "licence": "Public domain",
+  "licence_url": "",
+  "description": "Colorized electron microscope image of a stoma on the leaf of a tomato plant."
+ },
+ "wilted_plant": {
+  "key": "wilted_plant",
+  "status": "not found",
+  "tried": [
+   "File:Wilted plant.jpg",
+   "File:Wilting plant.jpg",
+   "File:Pot-pourri; spice and rose leaves, verses (IA potpourrispicero00swen).pdf",
+   "File:Plant immigrants (IA cat30850057 214).pdf",
+   "File:Plant immigrants (IA cat30850057 199).pdf",
+   "File:Seed and plant catalogue 1900 (IA CAT31284811).pdf",
+   "File:C.E. Allen's catalogue - greenhouse and bedding plant department (IA ceallenscatalogu1879ceal).pdf",
+   "File:The seedling-inarch and nurse-plant methods of propagation (IA seedlinginarchnu202oliv).pdf",
+   "File:Plant culture; a working hand-book of every day practice for allwho grow flowering and ornamental plants in the garden and greenhouse (IA cu31924000683700).pdf",
+   "File:Plant culture; a working hand-book of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculturework03oliv).pdf",
+   "File:Plant culture; a working hand-book of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculture00olivrich).pdf",
+   "File:Plant culture; a working handbook of every day practice for all who grow flowering and ornamental plants in the garden and greenhouse (IA plantculturework04oliv).pdf"
+  ],
+  "caption": "A wilted plant",
+  "use": "9B L3"
+ },
+ "iodine_starch_leaf": {
+  "key": "iodine_starch_leaf",
+  "status": "not found",
+  "tried": [
+   "File:Starch test on variegated leaf.jpg",
+   "File:Iodine test for starch in a leaf.jpg",
+   "File:Nature and development of plants (IA naturedevelopmen00curt).pdf",
+   "File:Journal of the Philadelphia College of Pharmacy (IA journalofphilade03phil).pdf",
+   "File:The American journal of science and arts (IA americanjournalo38183940newh).pdf",
+   "File:Practical physiology of plants (IA cu31924000607675).pdf",
+   "File:The study of plant life (IA studyofplantlife00stoprich).pdf",
+   "File:Practical physiology of plants (IA practicalphysiol00darwrich).pdf",
+   "File:The elements of botany (IA b28127079).pdf",
+   "File:The elements of botany (IA elementsofbotany00darw).pdf",
+   "File:Objects for the microscope - being a popular description of the most instructive and beautiful subjects for exhibition ... (IA b28099795).pdf",
+   "File:Nature and development of plants (IA cu31924000590889).pdf"
+  ],
+  "caption": "Testing a leaf for starch with iodine solution",
+  "use": "9B L4"
+ },
+ "benedicts_test": {
+  "key": "benedicts_test",
+  "status": "not found",
+  "tried": [
+   "File:Benedict's test.jpg",
+   "File:Benedicts reagent test results.jpg",
+   "File:The essentials of chemical physiology for the use of students (IA cu31924003172867).pdf",
+   "File:Practical physiological chemistry (IA physiolpractical00colerich).pdf",
+   "File:The chemist and druggist (electronic resource) (IA b19974760M0928).pdf",
+   "File:Practical physiological chemistry (IA pracphyschem00colerich).pdf",
+   "File:Journal (IA journals28soci).pdf",
+   "File:Experimental investigations with trypan blue in connection with the intraspinal treatment of lues nervosa (IA experimentalinve00goudrich).pdf",
+   "File:Nature (IA naturejournal105londuoft).pdf",
+   "File:Biological chemistry; (IA biologicalchemis00roafrich).pdf"
+  ],
+  "caption": "Benedict's test for glucose: blue to orange-red when heated",
+  "use": "9B L4"
+ },
+ "lymphocyte": {
+  "key": "lymphocyte",
+  "status": "ok",
+  "file": "images/lymphocyte.jpg",
+  "size": [
+   1400,
+   1286
+  ],
+  "caption": "A lymphocyte (electron micrograph)",
+  "use": "9C L2",
+  "source_title": "File:SEM Lymphocyte.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File%3ASEM_Lymphocyte.jpg",
+  "author": "Unknown photographer/artist (False color modifications made by myself--DO11.10)",
+  "licence": "Public domain",
+  "licence_url": "",
+  "description": "Electron microscopic image of a single human lymphocyte. Type: Black &amp; White Print"
+ },
+ "megalosaurus": {
+  "key": "megalosaurus",
+  "status": "ok",
+  "file": "images/megalosaurus.jpg",
+  "size": [
+   1400,
+   1299
+  ],
+  "caption": "Megalosaurus bucklandii, the first dinosaur described in a science journal (1824)",
+  "use": "9A L1",
+  "source_title": "File:Megalosaurus display.JPG",
+  "source_page": "https://commons.wikimedia.org/wiki/File%3AMegalosaurus_display.JPG",
+  "author": "Ballista at English Wikipedia",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "description": "Some of the known material of M. bucklandii on display at OU Museum of Natural History"
+ },
+ "wawel_dragon_bones": {
+  "key": "wawel_dragon_bones",
+  "status": "ok",
+  "file": "images/wawel_dragon_bones.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "The 'dragon bones' hanging outside Wawel Cathedral, Krakow (probably whale and mammoth bones)",
+  "use": "9A L1",
+  "source_title": "Bones Of Smock",
+  "source_page": "https://www.flickr.com/photos/35034348080@N01/378293263",
+  "author": "nedrichards",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Wawel cathedral dragon bones"
+ },
+ "flag_tree": {
+  "key": "flag_tree",
+  "status": "ok",
+  "file": "images/flag_tree.jpg",
+  "size": [
+   1024,
+   755
+  ],
+  "caption": "A tree shaped by the wind: environmental variation",
+  "use": "9A L1",
+  "source_title": "Redhill - May 2013 - Lonesome Windswept Tree",
+  "source_page": "https://www.flickr.com/photos/40837632@N05/8831848522",
+  "author": "Gareth1953 All Right Now",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "windswept tree"
+ },
+ "homo_floresiensis": {
+  "key": "homo_floresiensis",
+  "status": "ok",
+  "file": "images/homo_floresiensis.jpg",
+  "size": [
+   1024,
+   680
+  ],
+  "caption": "Skull of a Flores Island human: our species, or a different one?",
+  "use": "9A L1",
+  "source_title": "Homo floresiensis",
+  "source_page": "https://www.flickr.com/photos/14405058@N08/4698507968",
+  "author": "Ryan Somma",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "Homo floresiensis"
+ },
+ "giant_pumpkin": {
+  "key": "giant_pumpkin",
+  "status": "ok",
+  "file": "images/giant_pumpkin.jpg",
+  "size": [
+   1024,
+   768
+  ],
+  "caption": "Giant pumpkins grown with extra light, water, warmth and mineral salts",
+  "use": "9A L1",
+  "source_title": "Giant Pumpkin Plant",
+  "source_page": "https://www.flickr.com/photos/9993075@N06/779933068",
+  "author": "aresauburn™",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "provider": "flickr",
+  "via": "Openverse",
+  "query": "giant pumpkin"
+ }
+}

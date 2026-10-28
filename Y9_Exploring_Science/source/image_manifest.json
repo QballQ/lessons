@@ -1,0 +1,1056 @@
+{
+ "_note": "Each key is an image the lessons use. 'prefer' lists Wikimedia Commons file titles to try first; 'search' is the fallback Commons search. Licences accepted: public domain, CC0, CC BY, CC BY-SA (any version). NC and ND files are rejected.",
+ "items": [
+  {
+   "key": "giant_pumpkin",
+   "prefer": [
+    "File:Giant pumpkin weigh off.jpg",
+    "File:Giant Pumpkins at Topsfield Fair 2011.jpg"
+   ],
+   "search": "giant pumpkin weigh-off",
+   "caption": "Giant pumpkins grown with extra light, water, warmth and mineral salts",
+   "use": "9A L1",
+   "openverse": "giant pumpkin",
+   "alt_search": [
+    "pumpkin weigh off",
+    "Atlantic giant pumpkin"
+   ]
+  },
+  {
+   "key": "wawel_dragon_bones",
+   "prefer": [
+    "File:Wawel - dragon bones.jpg",
+    "File:Kości smoka wawelskiego.jpg"
+   ],
+   "search": "Wawel cathedral dragon bones",
+   "caption": "The 'dragon bones' hanging outside Wawel Cathedral, Krakow (probably whale and mammoth bones)",
+   "use": "9A L1"
+  },
+  {
+   "key": "megalosaurus",
+   "prefer": [
+    "File:Megalosaurus bucklandii skeleton.jpg",
+    "File:Megalosaurus Crystal Palace.jpg"
+   ],
+   "search": "Megalosaurus bucklandii",
+   "caption": "Megalosaurus bucklandii, the first dinosaur described in a science journal (1824)",
+   "use": "9A L1"
+  },
+  {
+   "key": "flag_tree",
+   "prefer": [
+    "File:Windswept tree.jpg",
+    "File:Krummholz Mount Washington.jpg"
+   ],
+   "search": "wind-shaped tree krummholz",
+   "caption": "A tree shaped by the wind: environmental variation",
+   "use": "9A L1",
+   "openverse": "windswept tree",
+   "alt_search": [
+    "krummholz",
+    "tree bent by wind"
+   ]
+  },
+  {
+   "key": "homo_floresiensis",
+   "prefer": [
+    "File:Homo floresiensis cast.jpg",
+    "File:Homo floresiensis skull.jpg"
+   ],
+   "search": "Homo floresiensis skull cast",
+   "caption": "Skull of a Flores Island human: our species, or a different one?",
+   "use": "9A L1",
+   "openverse": "Homo floresiensis",
+   "alt_search": [
+    "floresiensis skull",
+    "hobbit skull Flores"
+   ]
+  },
+  {
+   "key": "dragon_fruit",
+   "prefer": [
+    "File:Dragon fruit varieties.jpg",
+    "File:Pitaya cross section ed2.jpg"
+   ],
+   "search": "dragon fruit pitaya varieties",
+   "caption": "Dragon fruit: inherited variation in skin and flesh colour",
+   "use": "9A L2",
+   "openverse": "dragon fruit",
+   "alt_search": [
+    "pitaya fruit",
+    "pitahaya"
+   ]
+  },
+  {
+   "key": "kittens_litter",
+   "prefer": [
+    "File:Kittens in a basket.jpg"
+   ],
+   "search": "litter of kittens different colours",
+   "caption": "A litter of kittens: brothers and sisters are not identical",
+   "use": "9A L2",
+   "openverse": "litter of kittens",
+   "alt_search": [
+    "kittens",
+    "mother cat with kittens"
+   ]
+  },
+  {
+   "key": "dice",
+   "prefer": [
+    "File:Two red dice 01.svg",
+    "File:Dice.jpg"
+   ],
+   "search": "two dice",
+   "caption": "Two dice: experimental probability",
+   "use": "9A L3",
+   "openverse": "dice",
+   "alt_search": [
+    "two dice",
+    "rolling dice"
+   ]
+  },
+  {
+   "key": "dna_helix",
+   "prefer": [
+    "File:DNA Structure+Key+Labelled.pn NoBB.png",
+    "File:DNA Overview.png"
+   ],
+   "search": "DNA double helix structure labelled",
+   "caption": "The double helix structure of DNA",
+   "use": "9A L4",
+   "openverse": "DNA double helix",
+   "alt_search": [
+    "DNA model",
+    "DNA molecule"
+   ]
+  },
+  {
+   "key": "rosalind_franklin",
+   "prefer": [
+    "File:Rosalind Franklin.jpg",
+    "File:Rosalind Franklin (1920-1958).jpg"
+   ],
+   "search": "Rosalind Franklin portrait",
+   "caption": "Rosalind Franklin, whose X-ray photographs of DNA were key evidence",
+   "use": "9A L4",
+   "openverse": "Rosalind Franklin",
+   "alt_search": []
+  },
+  {
+   "key": "watson_crick",
+   "prefer": [
+    "File:Francis Crick crop.jpg",
+    "File:James D Watson.jpg"
+   ],
+   "search": "Francis Crick portrait",
+   "caption": "Francis Crick",
+   "use": "9A L4",
+   "openverse": "Francis Crick",
+   "alt_search": [
+    "James Watson DNA"
+   ]
+  },
+  {
+   "key": "karyotype",
+   "prefer": [
+    "File:NHGRI human male karyotype.png",
+    "File:Karyotype.png"
+   ],
+   "search": "human karyotype 46 chromosomes",
+   "caption": "The 23 pairs of chromosomes from a human body cell",
+   "use": "9A L4, 9A L5",
+   "openverse": "karyotype",
+   "alt_search": [
+    "human karyotype chromosomes"
+   ]
+  },
+  {
+   "key": "chromosome_micrograph",
+   "prefer": [
+    "File:Chromosomes mutations-en.svg",
+    "File:Human chromosomes.jpg"
+   ],
+   "search": "human chromosomes electron micrograph",
+   "caption": "Chromosomes",
+   "use": "9A L4",
+   "openverse": "chromosomes",
+   "alt_search": [
+    "human chromosomes"
+   ]
+  },
+  {
+   "key": "thylacine",
+   "prefer": [
+    "File:Thylacinus cynocephalus 1933.jpg",
+    "File:Thylacine.jpg"
+   ],
+   "search": "thylacine 1933 Hobart zoo",
+   "caption": "A thylacine in 1933. The species was hunted to extinction; the last one died in 1936",
+   "use": "9A L6",
+   "openverse": "thylacine",
+   "alt_search": [
+    "Tasmanian tiger"
+   ]
+  },
+  {
+   "key": "chicxulub_impact",
+   "prefer": [
+    "File:Chicxulub impact - artist impression.jpg",
+    "File:Impact event.jpg"
+   ],
+   "search": "asteroid impact artist impression dinosaurs",
+   "caption": "Artist's impression of the meteorite impact 65 million years ago",
+   "use": "9A L6",
+   "openverse": "asteroid impact",
+   "alt_search": [
+    "meteorite impact earth",
+    "Chicxulub"
+   ]
+  },
+  {
+   "key": "grey_squirrel",
+   "prefer": [
+    "File:Eastern Grey Squirrel.jpg",
+    "File:Sciurus carolinensis (grey squirrel).jpg"
+   ],
+   "search": "grey squirrel Sciurus carolinensis UK",
+   "caption": "Grey squirrel",
+   "use": "9A L6",
+   "openverse": "grey squirrel",
+   "alt_search": [
+    "gray squirrel",
+    "Sciurus carolinensis"
+   ]
+  },
+  {
+   "key": "red_squirrel",
+   "prefer": [
+    "File:Red Squirrel (Sciurus vulgaris).jpg",
+    "File:Sciurus vulgaris 2.jpg"
+   ],
+   "search": "red squirrel Sciurus vulgaris",
+   "caption": "Red squirrel",
+   "use": "9A L6",
+   "openverse": "red squirrel",
+   "alt_search": [
+    "Sciurus vulgaris"
+   ]
+  },
+  {
+   "key": "polar_bear",
+   "prefer": [
+    "File:Polar Bear - Alaska (cropped).jpg",
+    "File:Ursus maritimus us fish.jpg"
+   ],
+   "search": "polar bear on sea ice",
+   "caption": "Polar bears hunt from sea ice",
+   "use": "9A L6",
+   "openverse": "polar bear",
+   "alt_search": [
+    "polar bear sea ice"
+   ]
+  },
+  {
+   "key": "seed_bank",
+   "prefer": [
+    "File:Svalbard seed vault IMG 8751.JPG",
+    "File:Svalbard Global Seed Vault.jpg"
+   ],
+   "search": "Svalbard Global Seed Vault entrance",
+   "caption": "The Svalbard Global Seed Vault, a gene bank for seeds",
+   "use": "9A L6",
+   "openverse": "Svalbard seed vault",
+   "alt_search": [
+    "seed vault",
+    "seed bank"
+   ]
+  },
+  {
+   "key": "peppered_moth_light",
+   "prefer": [
+    "File:Biston.betularia.7200.jpg"
+   ],
+   "search": "Biston betularia light form",
+   "caption": "Pale peppered moth",
+   "use": "9A L7",
+   "openverse": "peppered moth",
+   "alt_search": [
+    "Biston betularia"
+   ]
+  },
+  {
+   "key": "peppered_moth_dark",
+   "prefer": [
+    "File:Biston.betularia.f.carbonaria.7209.jpg"
+   ],
+   "search": "Biston betularia carbonaria",
+   "caption": "Dark (carbonaria) peppered moth",
+   "use": "9A L7",
+   "openverse": "peppered moth carbonaria",
+   "alt_search": [
+    "Biston betularia carbonaria",
+    "melanic peppered moth"
+   ]
+  },
+  {
+   "key": "salton_sea",
+   "prefer": [
+    "File:Salton Sea fish bones.jpg",
+    "File:Bombay Beach Salton Sea fish skeletons.jpg"
+   ],
+   "search": "Salton Sea dead fish shoreline bones",
+   "caption": "The shore of the Salton Sea is made of fish bones",
+   "use": "9A L7",
+   "openverse": "Salton Sea fish bones",
+   "alt_search": [
+    "Salton Sea dead fish",
+    "Salton Sea beach"
+   ]
+  },
+  {
+   "key": "darwin",
+   "prefer": [
+    "File:Charles Darwin seated crop.jpg",
+    "File:Charles Darwin by Julia Margaret Cameron, c. 1868.jpg"
+   ],
+   "search": "Charles Darwin portrait photograph",
+   "caption": "Charles Darwin (1809 to 1882)",
+   "use": "9A L7",
+   "openverse": "Charles Darwin portrait",
+   "alt_search": [
+    "Charles Darwin"
+   ]
+  },
+  {
+   "key": "wallace",
+   "prefer": [
+    "File:Alfred-Russel-Wallace-c1895.jpg",
+    "File:Alfred Russel Wallace.jpg"
+   ],
+   "search": "Alfred Russel Wallace portrait",
+   "caption": "Alfred Russel Wallace (1823 to 1913)",
+   "use": "9A L7",
+   "openverse": "Alfred Russel Wallace",
+   "alt_search": []
+  },
+  {
+   "key": "microraptor",
+   "prefer": [
+    "File:Microraptor gui holotype.png",
+    "File:Microraptor fossil.jpg"
+   ],
+   "search": "Microraptor fossil feathers",
+   "caption": "Microraptor, a feathered dinosaur with four wings",
+   "use": "9A L7",
+   "openverse": "Microraptor",
+   "alt_search": [
+    "Microraptor fossil"
+   ]
+  },
+  {
+   "key": "mammoth",
+   "prefer": [
+    "File:Woolly mammoth model Royal BC Museum in Victoria.jpg",
+    "File:Mammuthus primigenius model.jpg"
+   ],
+   "search": "woolly mammoth museum model",
+   "caption": "A model of a woolly mammoth",
+   "use": "9A L7",
+   "openverse": "woolly mammoth",
+   "alt_search": [
+    "mammoth model museum"
+   ]
+  },
+  {
+   "key": "wheat_harvest",
+   "prefer": [
+    "File:Combine harvester wheat.jpg",
+    "File:Wheat harvest.jpg"
+   ],
+   "search": "combine harvester harvesting wheat field",
+   "caption": "Harvesting wheat",
+   "use": "9B L1",
+   "openverse": "combine harvester wheat",
+   "alt_search": [
+    "wheat harvest"
+   ]
+  },
+  {
+   "key": "elodea_bubbles",
+   "prefer": [
+    "File:Elodea oxygen bubbles.jpg",
+    "File:Elodea canadensis photosynthesis.jpg"
+   ],
+   "search": "pondweed oxygen bubbles photosynthesis experiment",
+   "caption": "Pondweed producing oxygen bubbles in light",
+   "use": "9B L1",
+   "openverse": "Elodea",
+   "alt_search": [
+    "pondweed experiment",
+    "photosynthesis experiment bubbles"
+   ]
+  },
+  {
+   "key": "chloroplasts",
+   "prefer": [
+    "File:Plagiomnium affine laminazellen.jpeg",
+    "File:Chloroplasts in leaf cells.jpg"
+   ],
+   "search": "chloroplasts moss cells microscope",
+   "caption": "Chloroplasts inside plant cells (microscope view)",
+   "use": "9B L1, 9B L2",
+   "openverse": "chloroplasts microscope",
+   "alt_search": [
+    "Elodea chloroplasts",
+    "plant cells chloroplasts"
+   ]
+  },
+  {
+   "key": "leaf_section",
+   "prefer": [
+    "File:Leaf Tissue Structure.svg",
+    "File:Leaf anatomy.svg"
+   ],
+   "search": "leaf cross section structure diagram",
+   "caption": "The layers inside a leaf",
+   "use": "9B L2",
+   "openverse": "leaf cross section microscope",
+   "alt_search": [
+    "leaf section"
+   ]
+  },
+  {
+   "key": "root_hairs",
+   "prefer": [
+    "File:Root-hairs.jpg",
+    "File:Radish root hairs.jpg"
+   ],
+   "search": "root hairs seedling radish",
+   "caption": "Root hairs on a seedling",
+   "use": "9B L2",
+   "openverse": "root hairs",
+   "alt_search": [
+    "root hair seedling",
+    "radish seedling roots"
+   ]
+  },
+  {
+   "key": "venus_flytrap",
+   "prefer": [
+    "File:Venus Flytrap showing trigger hairs.jpg",
+    "File:Dionaea muscipula trap.jpg"
+   ],
+   "search": "Venus flytrap trap trigger hairs",
+   "caption": "A Venus flytrap",
+   "use": "9B L2"
+  },
+  {
+   "key": "stoma",
+   "prefer": [
+    "File:Tomato leaf stomate 1-color.jpg",
+    "File:Stoma.jpg"
+   ],
+   "search": "stoma guard cells electron micrograph leaf",
+   "caption": "A stoma with its two guard cells",
+   "use": "9B L3"
+  },
+  {
+   "key": "wilted_plant",
+   "prefer": [
+    "File:Wilted plant.jpg",
+    "File:Wilting plant.jpg"
+   ],
+   "search": "wilted plant pot drooping leaves",
+   "caption": "A wilted plant",
+   "use": "9B L3",
+   "openverse": "wilted plant",
+   "alt_search": [
+    "wilting plant",
+    "droopy plant"
+   ]
+  },
+  {
+   "key": "iodine_starch_leaf",
+   "prefer": [
+    "File:Starch test on variegated leaf.jpg",
+    "File:Iodine test for starch in a leaf.jpg"
+   ],
+   "search": "iodine starch test variegated leaf",
+   "caption": "Testing a leaf for starch with iodine solution",
+   "use": "9B L4",
+   "openverse": "iodine starch test leaf",
+   "alt_search": [
+    "starch test leaf",
+    "testing leaf for starch"
+   ]
+  },
+  {
+   "key": "potato_iodine",
+   "prefer": [
+    "File:Iodine test potato.jpg",
+    "File:Starch iodine potato.jpg"
+   ],
+   "search": "potato iodine starch test blue black",
+   "caption": "Potato turns blue-black with iodine: it contains starch",
+   "use": "9B L4",
+   "openverse": "iodine potato starch",
+   "alt_search": [
+    "iodine test starch"
+   ]
+  },
+  {
+   "key": "germination",
+   "prefer": [
+    "File:Bean germination.jpg",
+    "File:Germination of bean seed.jpg"
+   ],
+   "search": "bean seed germination stages",
+   "caption": "A bean seed germinating",
+   "use": "9B L4",
+   "openverse": "bean germination",
+   "alt_search": [
+    "seed germinating",
+    "bean seedling sprout"
+   ]
+  },
+  {
+   "key": "benedicts_test",
+   "prefer": [
+    "File:Benedict's test.jpg",
+    "File:Benedicts reagent test results.jpg"
+   ],
+   "search": "Benedict's reagent test glucose colour",
+   "caption": "Benedict's test for glucose: blue to orange-red when heated",
+   "use": "9B L4",
+   "openverse": "Benedict's test",
+   "alt_search": [
+    "Benedict's reagent"
+   ]
+  },
+  {
+   "key": "fertiliser_spreading",
+   "prefer": [
+    "File:Fertilizer spreader.jpg",
+    "File:Tractor spreading fertiliser.jpg"
+   ],
+   "search": "tractor spreading fertiliser field",
+   "caption": "Spreading fertiliser",
+   "use": "9B L5",
+   "openverse": "fertiliser spreader",
+   "alt_search": [
+    "fertilizer spreading tractor",
+    "spreading manure field"
+   ]
+  },
+  {
+   "key": "crop_spraying",
+   "prefer": [
+    "File:Crop spraying.jpg",
+    "File:Pesticide spraying tractor.jpg"
+   ],
+   "search": "tractor crop sprayer pesticide field",
+   "caption": "Spraying a crop",
+   "use": "9B L5",
+   "openverse": "crop spraying",
+   "alt_search": [
+    "crop sprayer",
+    "pesticide spraying field"
+   ]
+  },
+  {
+   "key": "aphids",
+   "prefer": [
+    "File:Aphids on a plant stem.jpg",
+    "File:Aphid colony.jpg"
+   ],
+   "search": "aphids colony plant stem",
+   "caption": "Aphids are insect pests that suck sap from phloem",
+   "use": "9B L5",
+   "openverse": "aphids",
+   "alt_search": [
+    "aphid colony",
+    "greenfly"
+   ]
+  },
+  {
+   "key": "hoverfly_larva",
+   "prefer": [
+    "File:Hoverfly larva eating aphid.jpg",
+    "File:Syrphid larva aphids.jpg"
+   ],
+   "search": "hoverfly larva eating aphids",
+   "caption": "A hoverfly larva eating aphids: biological control",
+   "use": "9B L7",
+   "openverse": "hoverfly larva",
+   "alt_search": [
+    "hoverfly larva aphids",
+    "syrphid larva"
+   ]
+  },
+  {
+   "key": "wheat_old_new",
+   "prefer": [
+    "File:Wheat varieties.jpg",
+    "File:Triticum aestivum varieties.jpg"
+   ],
+   "search": "wheat varieties comparison field trial",
+   "caption": "Different wheat varieties",
+   "use": "9B L5",
+   "openverse": "wheat varieties",
+   "alt_search": [
+    "wheat field trial plots",
+    "wheat ears"
+   ]
+  },
+  {
+   "key": "iucn_red_list",
+   "prefer": [
+    "File:Status iucn3.1.svg",
+    "File:IUCN Red List categories.svg"
+   ],
+   "search": "IUCN Red List categories diagram",
+   "caption": "IUCN Red List categories",
+   "use": "9B L5",
+   "openverse": "IUCN Red List",
+   "alt_search": []
+  },
+  {
+   "key": "algal_bloom",
+   "prefer": [
+    "File:Algal bloom lake.jpg",
+    "File:Eutrophication.jpg"
+   ],
+   "search": "algal bloom eutrophication lake green",
+   "caption": "An algal bloom caused by eutrophication",
+   "use": "9B L6",
+   "openverse": "algal bloom",
+   "alt_search": [
+    "algae bloom lake",
+    "eutrophication"
+   ]
+  },
+  {
+   "key": "dead_fish",
+   "prefer": [
+    "File:Fish kill.jpg",
+    "File:Dead fish lake.jpg"
+   ],
+   "search": "fish kill dead fish lake low oxygen",
+   "caption": "Fish killed by a lack of oxygen in the water",
+   "use": "9B L6",
+   "openverse": "fish kill",
+   "alt_search": [
+    "dead fish lake",
+    "dead fish shore"
+   ]
+  },
+  {
+   "key": "deforestation",
+   "prefer": [
+    "File:Deforestation in Brazil.jpg",
+    "File:Amazon deforestation.jpg"
+   ],
+   "search": "deforestation farmland Amazon aerial",
+   "caption": "Forest cleared to make farmland",
+   "use": "9B L6",
+   "openverse": "deforestation",
+   "alt_search": [
+    "deforestation aerial",
+    "cleared forest"
+   ]
+  },
+  {
+   "key": "monarch_milkweed",
+   "prefer": [
+    "File:Monarch butterfly on milkweed.jpg",
+    "File:Monarch on milkweed.jpg"
+   ],
+   "search": "monarch butterfly milkweed",
+   "caption": "Monarch butterflies lay their eggs on milkweed",
+   "use": "9B L7",
+   "openverse": "monarch butterfly milkweed",
+   "alt_search": [
+    "monarch caterpillar milkweed"
+   ]
+  },
+  {
+   "key": "bee_rapeseed",
+   "prefer": [
+    "File:Honeybee on rapeseed flower.jpg",
+    "File:Bee on rapeseed.jpg"
+   ],
+   "search": "bee rapeseed flower pollination",
+   "caption": "A bee on rapeseed",
+   "use": "9B L6",
+   "openverse": "bee rapeseed",
+   "alt_search": [
+    "bee oilseed rape flower",
+    "honeybee yellow flower"
+   ]
+  },
+  {
+   "key": "hedgerow_field",
+   "prefer": [
+    "File:Hedgerows and fields.jpg",
+    "File:English hedgerow fields aerial.jpg"
+   ],
+   "search": "hedgerow small fields farmland England",
+   "caption": "Small fields with hedges give wildlife a home",
+   "use": "9B L7",
+   "openverse": "hedgerow",
+   "alt_search": [
+    "hedgerows fields",
+    "english countryside fields hedges"
+   ]
+  },
+  {
+   "key": "broad_street_pump",
+   "prefer": [
+    "File:John Snow memorial and pub.jpg",
+    "File:Broad Street pump replica.jpg"
+   ],
+   "search": "Broad Street pump cholera John Snow",
+   "caption": "The Broad Street pump: cholera spread by water contaminated with sewage (1854)",
+   "use": "9C L1",
+   "openverse": "Broad Street pump",
+   "alt_search": [
+    "John Snow pump",
+    "Broadwick Street pump"
+   ]
+  },
+  {
+   "key": "polio_vaccine",
+   "prefer": [
+    "File:Polio vaccination in India.jpg",
+    "File:Oral polio vaccine drops.jpg"
+   ],
+   "search": "oral polio vaccine drops child",
+   "caption": "Oral polio vaccine being given",
+   "use": "9C L1",
+   "openverse": "polio vaccine",
+   "alt_search": [
+    "oral polio vaccine",
+    "polio drops"
+   ]
+  },
+  {
+   "key": "chickenpox",
+   "prefer": [
+    "File:Varicela Aranzales.jpg",
+    "File:Chickenpox Adult back.jpg"
+   ],
+   "search": "chickenpox rash varicella",
+   "caption": "The rash of chickenpox, a disease caused by a virus",
+   "use": "9C L1",
+   "openverse": "chickenpox",
+   "alt_search": [
+    "varicella rash"
+   ]
+  },
+  {
+   "key": "phagocyte_bacteria",
+   "prefer": [
+    "File:Neutrophil with anthrax copy.jpg",
+    "File:Phagocytosis.jpg"
+   ],
+   "search": "neutrophil engulfing bacteria scanning electron micrograph",
+   "caption": "A phagocyte engulfing bacteria (electron micrograph, coloured)",
+   "use": "9C L2",
+   "openverse": "phagocytosis",
+   "alt_search": [
+    "neutrophil bacteria",
+    "macrophage bacteria"
+   ]
+  },
+  {
+   "key": "lymphocyte",
+   "prefer": [
+    "File:SEM Lymphocyte.jpg",
+    "File:Healthy Human T Cell.jpg"
+   ],
+   "search": "lymphocyte T cell scanning electron micrograph",
+   "caption": "A lymphocyte (electron micrograph)",
+   "use": "9C L2"
+  },
+  {
+   "key": "vaccination",
+   "prefer": [
+    "File:Vaccination of child.jpg",
+    "File:Nurse giving vaccine.jpg"
+   ],
+   "search": "vaccination injection nurse clinic",
+   "caption": "A vaccination",
+   "use": "9C L2",
+   "openverse": "vaccination",
+   "alt_search": [
+    "vaccine injection",
+    "nurse vaccine"
+   ]
+  },
+  {
+   "key": "neuron",
+   "prefer": [
+    "File:Neuron Hand-tuned.svg",
+    "File:Neuron.svg"
+   ],
+   "search": "neuron diagram labelled",
+   "caption": "A nerve cell (neurone)",
+   "use": "9C L3",
+   "openverse": "neuron",
+   "alt_search": [
+    "nerve cell",
+    "neurone"
+   ]
+  },
+  {
+   "key": "nervous_system",
+   "prefer": [
+    "File:Nervous system diagram-en.svg",
+    "File:TE-Nervous system diagram.svg"
+   ],
+   "search": "human nervous system diagram brain spinal cord nerves",
+   "caption": "The human nervous system",
+   "use": "9C L3",
+   "openverse": "nervous system",
+   "alt_search": [
+    "nervous system diagram",
+    "brain spinal cord nerves"
+   ]
+  },
+  {
+   "key": "endocrine_glands",
+   "prefer": [
+    "File:Illu endocrine system New.png",
+    "File:Illu endocrine system.png"
+   ],
+   "search": "endocrine system glands diagram",
+   "caption": "Glands that make hormones",
+   "use": "9C L3",
+   "openverse": "endocrine system",
+   "alt_search": [
+    "endocrine glands",
+    "hormone glands"
+   ]
+  },
+  {
+   "key": "antibiotics",
+   "prefer": [
+    "File:Antibiotics.jpg",
+    "File:Amoxicillin capsules.jpg"
+   ],
+   "search": "antibiotic capsules",
+   "caption": "Antibiotics kill bacteria",
+   "use": "9C L4",
+   "openverse": "antibiotics",
+   "alt_search": [
+    "antibiotic capsules",
+    "pills capsules"
+   ]
+  },
+  {
+   "key": "penicillium_plate",
+   "prefer": [
+    "File:Penicillium notatum.jpg",
+    "File:Penicillin inhibition.jpg"
+   ],
+   "search": "Penicillium mould agar plate bacteria inhibition",
+   "caption": "Penicillium mould stops bacteria growing on an agar plate",
+   "use": "9C L4",
+   "openverse": "Penicillium",
+   "alt_search": [
+    "penicillin mould agar",
+    "mould agar plate"
+   ]
+  },
+  {
+   "key": "bioreactor",
+   "prefer": [
+    "File:Bioreactor principle.svg",
+    "File:Fermenter.jpg"
+   ],
+   "search": "industrial bioreactor fermenter stainless steel",
+   "caption": "An industrial fermenter",
+   "use": "9C L4",
+   "openverse": "bioreactor",
+   "alt_search": [
+    "fermenter",
+    "fermentation tank stainless"
+   ]
+  },
+  {
+   "key": "quadrat",
+   "prefer": [
+    "File:Quadrat sampling.jpg",
+    "File:Quadrat.jpg"
+   ],
+   "search": "quadrat sampling grassland ecology",
+   "caption": "A quadrat used to sample plants",
+   "use": "9C L6",
+   "openverse": "quadrat",
+   "alt_search": [
+    "quadrat sampling",
+    "ecology fieldwork quadrat"
+   ]
+  },
+  {
+   "key": "gannet_colony",
+   "prefer": [
+    "File:Bass Rock gannets.jpg",
+    "File:Northern gannet colony.jpg"
+   ],
+   "search": "gannet colony Bass Rock",
+   "caption": "A gannet colony: a clumped distribution",
+   "use": "9C L6",
+   "openverse": "gannet colony",
+   "alt_search": [
+    "gannets Bass Rock",
+    "gannets nesting"
+   ]
+  },
+  {
+   "key": "limpets",
+   "prefer": [
+    "File:Limpets on rock.jpg",
+    "File:Patella vulgata rock.jpg"
+   ],
+   "search": "limpets rocky shore",
+   "caption": "Limpets on a rocky shore",
+   "use": "9C L6",
+   "openverse": "limpets",
+   "alt_search": [
+    "limpets rock",
+    "rocky shore limpets"
+   ]
+  },
+  {
+   "key": "lion_gazelle",
+   "prefer": [
+    "File:Lioness hunting.jpg",
+    "File:Lion and gazelle Serengeti.jpg"
+   ],
+   "search": "lioness hunting gazelle savanna",
+   "caption": "Predation is a biotic factor",
+   "use": "9C L6",
+   "openverse": "lioness hunting",
+   "alt_search": [
+    "lion hunt",
+    "lions gazelle"
+   ]
+  },
+  {
+   "key": "giant_anteater",
+   "prefer": [
+    "File:Giant anteater.jpg",
+    "File:Myrmecophaga tridactyla.jpg"
+   ],
+   "search": "giant anteater",
+   "caption": "A giant anteater (about 40 kg)",
+   "use": "9C L7",
+   "openverse": "giant anteater",
+   "alt_search": []
+  },
+  {
+   "key": "silky_anteater",
+   "prefer": [
+    "File:Silky anteater.jpg",
+    "File:Cyclopes didactylus.jpg"
+   ],
+   "search": "silky anteater Cyclopes didactylus",
+   "caption": "A silky anteater (under 400 g)",
+   "use": "9C L7",
+   "openverse": "silky anteater",
+   "alt_search": [
+    "Cyclopes didactylus",
+    "pygmy anteater"
+   ]
+  },
+  {
+   "key": "plasmolysis",
+   "prefer": [
+    "File:Rhoeo Discolor - Plasmolysis.jpg",
+    "File:Plasmolysis onion cells.jpg"
+   ],
+   "search": "plasmolysis plant cells microscope",
+   "caption": "Plant cells after losing water by osmosis",
+   "use": "9C L7",
+   "openverse": "plasmolysis",
+   "alt_search": [
+    "onion cells plasmolysis",
+    "plant cells microscope"
+   ]
+  },
+  {
+   "key": "paramecium",
+   "prefer": [
+    "File:Paramecium.jpg",
+    "File:Paramecium caudatum.jpg"
+   ],
+   "search": "Paramecium microscope",
+   "caption": "Paramecium, a single-celled organism from pond water",
+   "use": "9C L7",
+   "openverse": "Paramecium",
+   "alt_search": [
+    "paramecium microscope"
+   ]
+  },
+  {
+   "key": "villi",
+   "prefer": [
+    "File:Villi.jpg",
+    "File:Small intestine villi micrograph.jpg"
+   ],
+   "search": "small intestine villi micrograph",
+   "caption": "Villi give the small intestine a large surface area",
+   "use": "9C L7",
+   "openverse": "villi",
+   "alt_search": [
+    "intestinal villi",
+    "small intestine villi"
+   ]
+  },
+  {
+   "key": "airport_crowd",
+   "prefer": [
+    "File:Airport terminal crowd.jpg",
+    "File:Busy airport.jpg"
+   ],
+   "search": "busy airport terminal crowd travellers",
+   "caption": "Rapid international travel can spread a disease across the world",
+   "use": "9C L7",
+   "openverse": "airport crowd",
+   "alt_search": [
+    "busy airport terminal",
+    "airport queue"
+   ]
+  },
+  {
+   "key": "cows_field",
+   "prefer": [
+    "File:Cows in a field.jpg"
+   ],
+   "search": "dairy cows grazing field",
+   "caption": "Farm animals: manure is a natural fertiliser",
+   "use": "9B L5",
+   "openverse": "cows field",
+   "alt_search": [
+    "dairy cows grazing",
+    "cattle grazing"
+   ]
+  },
+  {
+   "key": "sand_cat",
+   "prefer": [
+    "File:Sand cat.jpg",
+    "File:Felis margarita.jpg"
+   ],
+   "search": "sand cat Felis margarita desert",
+   "caption": "A sand cat: its fur matches the sand",
+   "use": "9A L6",
+   "openverse": "sand cat",
+   "alt_search": [
+    "Felis margarita"
+   ]
+  }
+ ]
+}

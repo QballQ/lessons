@@ -1,0 +1,144 @@
+{
+ "id": "9A_L05",
+ "unit": "9A",
+ "unit_title": "Genetics and evolution",
+ "lesson": 5,
+ "n_lessons": 7,
+ "title": "Genetic counselling",
+ "title_cn": "遗传咨询",
+ "slug": "Genetic_counselling",
+ "book": {"pages": "14 to 15", "spread": "9Ac Genetic counselling (STEM)"},
+ "workbook": {"pages": "10"},
+ "oak": [
+  {"unit": "Heredity and DNA, Year 7", "lesson": "Genetic material and DNA", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/genetic-material-and-dna"},
+  {"unit": "Heredity and DNA, Year 7", "lesson": "DNA, chromosomes, genes and the genome", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/dna-chromosomes-genes-and-the-genome"}
+ ],
+ "big_idea": "A genetic test looks at a person's DNA sequence or chromosomes; a genetic counsellor explains what the result means, using probability, and helps families decide what to do.",
+ "goals": [
+  "I can describe what a genetic test looks at and why babies and families may be tested.",
+  "I can use probability and my knowledge of genes and chromosomes to explain a genetic test result simply, as a genetic counsellor would."
+ ],
+ "keywords": [
+  {"en": "genetic test", "cn": "基因检测", "meaning": "a test that looks at a person's DNA sequence or chromosomes"},
+  {"en": "genetic counsellor", "cn": "遗传咨询师", "meaning": "a person trained to explain genetic test results and the chances of passing on a condition"},
+  {"en": "genetic disorder", "cn": "遗传病", "meaning": "a condition caused by a faulty gene or an unusual set of chromosomes"},
+  {"en": "DNA sequence", "cn": "DNA序列", "meaning": "the order of the four letters (A, T, C, G) along a DNA molecule"},
+  {"en": "faulty gene", "cn": "缺陷基因", "meaning": "a gene whose sequence has changed so that it no longer works properly"},
+  {"en": "haemoglobin", "cn": "血红蛋白", "meaning": "the protein in red blood cells that carries oxygen"},
+  {"en": "sickle cell disease", "cn": "镰状细胞病", "meaning": "a genetic disorder in which faulty haemoglobin makes red blood cells sickle-shaped"},
+  {"en": "cystic fibrosis", "cn": "囊性纤维化", "meaning": "a genetic disorder in which thick mucus builds up in the lungs and gut"},
+  {"en": "Down's syndrome", "cn": "唐氏综合征", "meaning": "a condition caused by an extra copy of chromosome 21"},
+  {"en": "probability", "cn": "概率", "meaning": "the chance of something happening, e.g. 25% or 1/4"},
+  {"en": "chromosome", "cn": "染色体", "meaning": "a structure in the nucleus made of one long DNA molecule"}
+ ],
+ "misconceptions": [
+  "A 25% chance means one child in every four will definitely have the condition. Each child has its own 25% chance; a family of four could have none, one or more.",
+  "A genetic test tells you for certain whether you will get a disease. Many results are probabilities (e.g. 20% rather than 13%), and lifestyle and environment also matter.",
+  "A genetic counsellor tells people what to do. Counsellors explain the science and the options; the family makes the decision."
+ ],
+ "safety": "No practical hazards. Be sensitive: some students may have family members with genetic conditions. Use the book's examples, not students' families.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Two DNA sequences: spot the difference.", "students": "Compare the sequences and answer the three questions.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points to the key words, several of which are names of conditions.", "students": "Listen; find the key words.", "resource": "Slide 3"},
+  {"phase": "Hook", "min": 3, "teacher": "The newborn heel-prick test: why test a healthy-looking baby?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches DNA sequences and faulty genes (haemoglobin), what genetic tests look at, what counsellors do, and how to read a probability result (APOE). Quick check.", "students": "Compare sequences; read the chart; answer the quick check.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 13, "teacher": "Sets the worksheet; supports the counsellor role-play writing at Challenge.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Would you want to know? Takes views with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 12"},
+  {"phase": "Summary", "min": 2, "teacher": "Recaps; previews genes and extinction (Lesson 6).", "students": "Tick the goals they met.", "resource": "Slide 13"}
+ ],
+ "tiers": {
+  "core": "Spot the changed DNA sequence; match the key terms; explain why early testing helps; predict how many of four children have cystic fibrosis and why it may not be exactly one.",
+  "stretch": "Explain an extra chromosome 21 using gametes; explain an APOE probability result simply to a patient.",
+  "challenge": "Write what a genetic counsellor would say to a person with an unusual chromosome result who wants a family; evaluate testing every baby."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "What can a genetic test tell a family, and who helps them understand it?", "image": "karyotype",
+   "notes": "A STEM lesson applying genes, chromosomes and probability (Lessons 3 and 4). The role is the genetic counsellor: a real job in hospitals that needs biology and the skill of explaining probability simply and kindly."},
+  {"type": "donow", "title": "Do Now: spot the difference", "minutes": 4,
+   "prompt": ["DNA stores information as a code of four letters: A, T, C and G. Two people had the same gene read:", "P:  CTT CTC GGA TCG CGG GAA ATA TTC", "R:  CTT CTC GGA TCG CCG GAA ATA TTC", "1. Find the difference. 2. What could a change in a gene do to a person? 3. Recap: what is a gene?"],
+   "notes": "The fifth group differs: CGG in P, CCG in R. A changed sequence can mean the gene makes a protein that does not work properly, which can cause a disorder. A gene is a section of DNA carrying the instructions for a characteristic."},
+  {"type": "today", "title": "Today",
+   "notes": "Read the goals. Several key words are the names of conditions; students need to recognise them, not memorise their medical details."},
+  {"type": "hook", "title": "The heel-prick test", "question": "In many countries, every newborn baby has a few drops of blood taken from its heel in the first week. The blood is tested for several genetic disorders. Why test a baby who looks healthy?", "image": "dna_helix", "caption": "Genetic tests read the sequence of a gene",
+   "text": ["Talk to a partner: what could doctors do differently if they knew early?"],
+   "notes": "Finding a disorder early means treatment, diet or medicines can start before damage is done. Some disorders have no symptoms at first. Lead into the worksheet question about finding a faulty gene in a baby rather than a child."},
+  {"type": "table", "title": "Reading a gene: sequences and faulty proteins", "vocab": ["DNA sequence", "faulty gene", "haemoglobin"],
+   "table": {"headers": ["Person", "Sequence of part of the haemoglobin gene", "Protein made"], "colW": [1.2, 4.6, 1.8], "rows": [["V (normal)", "TAC CAC GTA GAC TGA GGA CTC CTC", "normal"], ["W", "TAC CAC GTA GAC TGA GGA CTC CTC", "normal"], ["X", "TAC CAC GTA GAC TGA GGA CAC CTC", "faulty"], ["Y", "TAC CAC GTA GAC TGA GGA TTC CTC", "faulty"], ["Z", "TAC CAC GTA GAC TGA GGA CTC CTC", "normal"]]},
+   "text": ["A gene is a sequence of DNA letters.", "A changed sequence can make a faulty protein.", "Faulty haemoglobin causes sickle cell disease.", "Which sequences differ from V?"],
+   "key_idea": "Change the sequence, change the protein, and a disorder can result.",
+   "notes": "X and Y differ from V in the seventh group of letters. Haemoglobin is the protein in red blood cells that carries oxygen; in sickle cell disease the faulty protein makes the cells stiff and sickle-shaped so they block small blood vessels."},
+  {"type": "learn", "title": "Genetic tests", "image": "karyotype", "caption": "A chromosome test sorts the chromosomes of one cell into pairs", "vocab": ["genetic test", "genetic disorder", "chromosome"],
+   "text": ["A genetic test looks at the sequence of a gene, or at a person's chromosomes.", "Tests are done on newborn babies, on people with symptoms, and on couples who want to start a family.", "A chromosome test can show an extra chromosome: an extra chromosome 21 causes Down's syndrome.", "Tests are becoming cheaper and faster, so they are used more and more."],
+   "key_idea": "Genetic tests read DNA sequences or count and check chromosomes.",
+   "notes": "Ask what a normal human chromosome test shows (23 pairs, 46). Down's syndrome: 47 chromosomes, three copies of chromosome 21; people with Down's syndrome have learning difficulties and some have heart problems, and many live full lives into their 60s."},
+  {"type": "learn", "title": "What a genetic counsellor does", "vocab": ["genetic counsellor", "probability", "cystic fibrosis"],
+   "text": ["Explains test results in simple words.", "Works out and explains the probability of passing a condition on.", "Example: both parents carry a faulty CFTR gene. Each child has a 25% (1 in 4) chance of cystic fibrosis.", "Explains the options. The family decides; the counsellor does not decide for them."],
+   "key_idea": "The counsellor explains the science and the chances; the decision belongs to the family.",
+   "notes": "Cystic fibrosis: thick mucus in the lungs and gut; treated with physiotherapy and medicines. Stress the 25% is for each child separately, like each throw of the dice in Lesson 3."},
+  {"type": "chart", "title": "Explaining a probability result", "vocab": ["probability", "genetic test"],
+   "chart": {"type": "bar", "title": "Chance of Alzheimer's disease before age 85", "categories": ["General population", "One copy of APOE E4"], "series": [{"name": "Probability (%)", "values": [13, 20]}], "x_title": "", "y_title": "Probability (%)"},
+   "text": ["A test report says: 'The patient has one copy of the E4 variant of the APOE gene. The probability of Alzheimer's disease before 85 is 20%, compared with 13% for the general population.'", "How would you explain this simply?", "Is the patient certain to get the disease?"],
+   "key_idea": "Most test results are probabilities, not certainties: 20% means 80% do not develop the disease.",
+   "notes": "Model a simple explanation: 'Out of 100 people like you, about 20 would develop the disease before 85, compared with about 13 out of 100 people in general. So your chance is higher than average, but most people with this result do not get the disease.'"},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. Short answers.",
+   "questions": ["What two things can a genetic test look at?", "How many chromosomes does a person with Down's syndrome have in each body cell?", "Both parents carry a faulty gene; each child has a 25% chance. Write 25% as a fraction.", "Does a 20% probability mean the disease is certain?", "Who makes the final decision after genetic counselling?"],
+   "notes": "Answers: a gene's DNA sequence, or the chromosomes; 47; 1/4; no, 80 out of 100 would not develop it; the family (the patient)."},
+  {"type": "steps", "title": "Your turn: be the genetic counsellor", "minutes": 13,
+   "steps": ["Core: find the changed sequence; match the terms; explain why early testing helps; predict how many of four children have cystic fibrosis.", "Stretch: explain an extra chromosome 21 using gametes; explain the APOE result in simple words.", "Challenge: write what you would say to a person with an unusual chromosome result who wants a family; evaluate testing every baby.", "Write as a counsellor would: simple words, honest probabilities, kind tone."],
+   "footer": "Use 'out of 100' to explain any percentage.",
+   "notes": "Model one sentence of counsellor language on the board. Circulate for Core 4: students often say 'exactly one child'; push for 'each child has a 1 in 4 chance, so it could be none or more than one'."},
+  {"type": "think", "title": "Would you want to know?", "prompt": "A genetic test can tell you your chance of getting a disease that has no cure. Would you want to know your result? Why might some people choose not to be tested?",
+   "frames": ["I would / would not want to know because ___.", "Knowing the result could help someone to ___.", "Some people might not want to know because ___."],
+   "notes": "Both views are valid: knowing can help people plan, change their lifestyle or join research; not knowing avoids worry about something that may never happen and that cannot be prevented. Keep the discussion general; do not ask about students' own families."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 3,
+   "questions": ["What does a genetic test look at?", "Both parents carry a faulty gene and each child has a 25% chance of the disorder. Write 25% as a fraction and as a decimal.", "Give one thing a genetic counsellor does."],
+   "notes": "Answers: a person's DNA (the sequence of a gene) or their chromosomes; 1/4 and 0.25; explains test results, works out and explains probabilities, explains the options."},
+  {"type": "summary", "title": "What we learned", "next": "Genes and extinction: how changes in the environment can make a species endangered or extinct.",
+   "points": ["A gene is a sequence of DNA letters; a changed sequence can make a faulty protein and cause a genetic disorder.", "A genetic test reads a gene's sequence or checks a person's chromosomes; babies, patients and couples are tested.", "Many results are probabilities: 20% means 20 out of 100, not certain.", "A genetic counsellor explains results and probabilities simply; the family makes the decision."],
+   "notes": "Homework: Workbook page 10 (9Ac Genetic counselling)."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "People P, Q, R and S had the same gene analysed. Circle the group of letters that is different, and state which person has a gene that is not the same as the others.", "gap_lines": ["**P**  CTT CTC GGA TCG CGG GAA ATA TTC", "**Q**  CTT CTC GGA TCG CGG GAA ATA TTC", "**R**  CTT CTC GGA TCG CCG GAA ATA TTC", "**S**  CTT CTC GGA TCG CGG GAA ATA TTC", "The person with the different gene is __________ ."]},
+   {"q": "Match each term to its meaning. Draw a line.", "match": {"left": ["genetic test", "genetic counsellor", "genetic disorder", "probability"], "right": ["a condition caused by a faulty gene or unusual chromosomes", "the chance of something happening", "a test that looks at a person's DNA or chromosomes", "a person who explains genetic test results and chances to families"]}},
+   {"q": "The different version of the gene in question 1 causes a disorder in which waste substances cannot be removed from the body. Explain why finding out that a baby has this version of the gene is better than waiting until the baby is a child.", "lines": 3},
+   {"q": "A test report reads: 'Both parents have a faulty version of the CFTR gene. There is a 25% chance of them having a child with cystic fibrosis.'", "parts": [
+     {"text": "If the parents have four children, how many are predicted to have cystic fibrosis?", "lines": 1},
+     {"text": "Explain why the real number could be different from your prediction.", "lines": 2}]}
+  ],
+  "stretch": [
+   {"q": "A chromosome test showed that a baby's body cells each contain 47 chromosomes: three copies of chromosome 21 instead of two. This causes Down's syndrome.", "parts": [
+     {"text": "State the number of chromosomes in a normal human body cell and in a normal gamete.", "lines": 1},
+     {"text": "Suggest how a zygote could end up with three copies of chromosome 21. (Hint: think about what each gamete carries.)", "lines": 3}]},
+   {"q": "A test report reads: 'The patient has one copy of the E4 variant of the APOE gene. The probability of developing Alzheimer's disease before the age of 85 is 20% (compared with 13% for the general population).' Write what you would say to explain this simply to the patient. Use 'out of 100'.", "lines": 4}
+  ],
+  "challenge": [
+   {"q": "A person's chromosome test shows an unusual arrangement of two chromosomes. The person has no health problems. A woman with chromosomes like this has a 10% chance of having a baby with Down's syndrome; a man with the same chromosomes has no increased risk. You are the genetic counsellor. The person tells you they want to start a family. Write what you would say. Include the probability, what it means, and what the options are.", "lines": 6},
+   {"q": "Suggest why genetic tests on babies are becoming more common, and give one argument against testing every baby for every known disorder.", "lines": 4}
+  ],
+  "my_thinking": "If a test could tell you your chance of getting a disease with no cure, would you want to know? Explain your thinking.",
+  "word_bank": ["genetic test", "genetic counsellor", "genetic disorder", "DNA sequence", "faulty gene", "haemoglobin", "probability", "chromosome", "cystic fibrosis", "Down's syndrome"],
+  "exit": ["What does a genetic test look at?", "Both parents carry a faulty gene and each child has a 25% chance of the disorder. Write 25% as a fraction and as a decimal.", "Give one thing a genetic counsellor does."],
+  "exit_lines": [1, 1, 1]
+ },
+ "answers": {
+  "core": [
+   "R (the fifth group is CCG instead of CGG).",
+   "genetic test: a test that looks at a person's DNA or chromosomes; genetic counsellor: a person who explains genetic test results and chances to families; genetic disorder: a condition caused by a faulty gene or unusual chromosomes; probability: the chance of something happening.",
+   "Secure answer: treatment (medicines, diet or other care) can start straight away, before waste substances build up and damage the baby's body; the family can plan and watch for symptoms; waiting until the child is ill could mean damage that cannot be repaired.",
+   "a) 25% of 4 = 1 child. b) 25% is the chance for each child separately (like a dice throw), so by chance the family could have no affected children, or two or more."
+  ],
+  "stretch": [
+   "a) 46 in a body cell; 23 in a gamete. b) One of the gametes (the egg cell or the sperm cell) carried two copies of chromosome 21 instead of one, because the pair did not separate properly when the gamete was made; at fertilisation the other gamete added a third copy, so the zygote and every cell made from it has 47 chromosomes.",
+   "Secure answer: 'Out of 100 people in general, about 13 develop Alzheimer's disease before they are 85. Out of 100 people with your test result, about 20 do. So your chance is higher than average, but 80 out of 100 people with this result do not develop the disease. The test does not say you will get it; it tells you about chance.'"
+  ],
+  "challenge": [
+   "Secure answer includes: the unusual arrangement does not affect your own health; if you are a woman, each pregnancy has about a 10% (1 in 10) chance of a baby with Down's syndrome, so 9 out of 10 pregnancies would not be affected; if you are a man there is no increased risk; options include testing during pregnancy, support if a baby does have Down's syndrome, and talking it over as a couple; the decision is yours and we can help you with more information. Credit a kind, honest tone and correct probability language.",
+   "More common because tests are cheaper and faster, more disorders can be found, and early treatment works better. Against testing every baby for everything: cost; worry for families over conditions that may never develop or have no treatment; results that are only probabilities; privacy of genetic information."
+  ],
+  "exit": ["A person's DNA (the sequence of a gene) or their chromosomes.", "1/4 and 0.25.", "Explains test results simply; works out and explains the probability of passing a condition on; explains the options (any one)."],
+  "my_thinking": "Open answer. Either view with a reason: knowing helps planning and lifestyle changes; not knowing avoids worry about something that may never happen and cannot be prevented."
+ }
+}

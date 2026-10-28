@@ -1,0 +1,145 @@
+{
+ "id": "9C_L02",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 2,
+ "n_lessons": 7,
+ "title": "Immunity and vaccination",
+ "title_cn": "免疫与疫苗接种",
+ "slug": "Immunity_and_vaccination",
+ "book": {"pages": "39 to 41", "spread": "9Ca Diseases (Immunity); 9Ca Veterinary science (STEM)"},
+ "workbook": {"pages": "29 to 30"},
+ "oak": [
+  {"unit": "Disease and drugs, Year 9", "lesson": "Differences between infectious and non-infectious disease", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/differences-between-infectious-and-non-infectious-disease"},
+  {"unit": "Defences against pathogens, the human immune system and vaccination (KS4, for teacher background)", "lesson": "Immunity and vaccination", "url": "https://www.thenational.academy/teachers/programmes/combined-science-secondary-ks4-higher-aqa/units/defences-against-pathogens-the-human-immune-system-and-vaccination/lessons/immunity-and-vaccination"}
+ ],
+ "big_idea": "White blood cells destroy pathogens, and memory cells mean the second attack by the same pathogen is beaten before you feel ill: that is immunity, and vaccines give it without the disease.",
+ "goals": [
+  "I can describe how phagocytes and lymphocytes destroy microorganisms in the body.",
+  "I can explain why you only get many infectious diseases once, and how vaccination protects people and communities."
+ ],
+ "keywords": [
+  {"en": "white blood cell", "cn": "白细胞", "meaning": "a blood cell that fights pathogens"},
+  {"en": "phagocyte", "cn": "吞噬细胞", "meaning": "a white blood cell that surrounds, ingests and digests microorganisms"},
+  {"en": "lymphocyte", "cn": "淋巴细胞", "meaning": "a white blood cell that makes antibodies"},
+  {"en": "antibody", "cn": "抗体", "meaning": "a protein that sticks to one type of pathogen"},
+  {"en": "specific", "cn": "特异性的", "meaning": "fits only one type of pathogen"},
+  {"en": "memory cell", "cn": "记忆细胞", "meaning": "a lymphocyte that stays in the body ready to make antibodies quickly"},
+  {"en": "immune", "cn": "免疫的", "meaning": "protected against a disease, so you do not become ill with it"},
+  {"en": "vaccine", "cn": "疫苗", "meaning": "a substance containing parts of a pathogen, given to make a person immune"},
+  {"en": "virus", "cn": "病毒", "meaning": "a very small pathogen that can only copy itself inside a cell"},
+  {"en": "dose", "cn": "剂量", "meaning": "the amount of a medicine given at one time"},
+  {"en": "half-life", "cn": "半衰期", "meaning": "the time for the amount of a medicine in the body to fall by half"}
+ ],
+ "misconceptions": [
+  "Antibodies kill all pathogens in the same way. Each antibody is specific: it fits the surface of one type of pathogen, so immunity to measles gives no protection against chickenpox.",
+  "A vaccine gives you a mild case of the disease. A vaccine contains parts of a pathogen's surface (or a dead or weakened form) that cannot cause the disease, but still make lymphocytes produce antibodies and memory cells.",
+  "Antibiotics treat any infection. Antibiotics kill bacteria; they do nothing to viruses (this lesson's Think task and Lesson 4)."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)", "Calculators for the Challenge half-life question"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Chickenpox recall: why do you not get it twice? Takes ideas without confirming.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Shows the phagocyte about to engulf bacteria. 'What happens next?'", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches phagocytes and lymphocytes, specific antibodies, why you are ill first, memory cells and immunity, vaccines. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Circulates: checks the gap fill and the true or false table; supports the half-life calculation in Challenge.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Community protection: why are the unvaccinated 5% also protected?", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (nerves and hormones).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Gap fill on phagocytes, lymphocytes and antibodies; match the key words; true or false on antibodies, vaccines and memory cells.",
+  "stretch": "Explain why having had measles does not protect against chickenpox; explain how a vaccine protects a child; explain why viruses are not living organisms.",
+  "challenge": "Define dose and half-life and calculate when a ball python needs its next antibiotic dose; explain how vaccinating most of a community protects those who cannot be vaccinated."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How does your body beat a pathogen, and how can a vaccine make you immune without the disease?", "image": "phagocyte_bacteria",
+   "notes": "Lesson 2 of 9C. Last lesson: what causes disease. Today: what the body does about it, and how vaccines use the same system. The Challenge links to the Veterinary science STEM pages."},
+  {"type": "donow", "title": "Do Now: once is enough", "minutes": 4,
+   "prompt": ["Many people had chickenpox as a small child.", "If a friend has it now, they will almost certainly not catch it again.", "1. Suggest why you only get chickenpox once.", "2. What is a pathogen? (last lesson)", "3. Name two things your body does to fight an infection."],
+   "notes": "Four minutes, in books. Do not confirm answers yet; collect ideas on the board (white blood cells, antibodies, 'the body remembers'). A pathogen is a microorganism that causes disease. Q3: any sensible idea: white blood cells, raised temperature, skin as a barrier, coughing and sneezing."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
+  {"type": "hook", "title": "Caught in the act", "question": "This white blood cell (a phagocyte) is about to eat the bacteria next to it. What do you think happens next?", "image": "phagocyte_bacteria", "caption": "A phagocyte engulfing bacteria (electron micrograph, coloured)",
+   "text": ["Talk to a partner: what does your body do in the days after a pathogen gets in?"],
+   "notes": "The phagocyte surrounds the bacteria, takes them inside itself (ingests them) and digests them with enzymes. Phagocytes work on any pathogen. The other kind of white blood cell, lymphocytes, are more particular, as we will see."},
+  {"type": "diagram", "title": "Two kinds of white blood cell", "image": "diagram:immune_response", "text": "Your blood carries two main types of white blood cell that attack pathogens in different ways.",
+   "key_idea": "Phagocytes ingest pathogens. Lymphocytes make antibodies that fit the surface of one type of pathogen.",
+   "notes": "Left: a phagocyte surrounds and ingests a microorganism, then digests it. Right: a lymphocyte makes antibodies, proteins that stick to the outside of the pathogen. Antibodies can make pathogens burst, stick together in clumps, or be easier for phagocytes to ingest. Point out the memory cells box: we come back to it."},
+  {"type": "learn", "title": "Why you are ill before you get better", "image": "lymphocyte", "caption": "A lymphocyte (electron micrograph)", "vocab": ["lymphocyte", "antibody", "specific"],
+   "text": ["Each type of pathogen has a different surface, so it needs a different antibody.", "Lymphocytes must make new, specific antibodies for each new pathogen.", "This takes days. Meanwhile the pathogen multiplies and you feel ill.", "Once there are enough antibodies, the pathogens are destroyed and you recover."],
+   "key_idea": "Antibodies are specific: each type fits only one type of pathogen.",
+   "notes": "Use a key and lock: one antibody fits one pathogen. Ask: if you are immune to measles, are you immune to chickenpox? No: different surface, different antibody needed. That is why a child can have measles and still get chickenpox."},
+  {"type": "diagram", "title": "Memory cells make you immune", "image": "diagram:antibody_response", "text": "After an infection, some lymphocytes stay in the body as memory cells.",
+   "key_idea": "The second time the same pathogen gets in, memory cells make antibodies fast and in large numbers: the pathogen is destroyed before you feel ill. You are immune.",
+   "notes": "Compare the two curves: the first response is slow and small, so you are ill for days. The second is fast and large, so the pathogen never gets a chance to multiply. This is why you only get measles once. Ask: where could a vaccine fit on this graph? (It gives the first response without the disease.)"},
+  {"type": "learn", "title": "Vaccines", "image": "vaccination", "caption": "A vaccination", "vocab": ["vaccine", "immune", "virus"],
+   "text": ["A vaccine contains parts of the surface coating of a pathogen (or a dead or weakened form).", "Lymphocytes make antibodies and memory cells against it, without you having the disease.", "If most people in a community are vaccinated, the pathogen cannot spread, which also protects people who cannot be vaccinated.", "Viruses are not living: they can only copy themselves inside a cell."],
+   "key_idea": "Vaccination makes you immune without being ill.",
+   "notes": "The vaccine cannot cause the disease because it does not contain a working pathogen, but the surface parts are enough for lymphocytes to make the right antibody and memory cells. Community protection: a pathogen needs a chain of people to pass through; vaccinated people break the chain. Antibiotics do not work on viruses (Lesson 4)."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Which type of white blood cell ingests (eats) microorganisms?", "What do lymphocytes make?", "Why do you only get measles once?", "Does a measles vaccine protect you against chickenpox? Yes or no, and why.", "What does a vaccine contain?"],
+   "notes": "Answers: phagocytes; antibodies (proteins that stick to pathogens); memory cells stay ready and make the right antibodies very quickly the second time, so you are immune; no, antibodies are specific and chickenpox has a different surface; parts of the pathogen's surface coating (or a dead or weakened pathogen)."},
+  {"type": "steps", "title": "Your turn: fighting infection", "minutes": 14,
+   "steps": ["Core: complete the gap fill with the word bank, match the key words, then decide true or false.", "Stretch: measles and chickenpox; how a vaccine protects a child; why viruses are not living.", "Challenge: a vet's antibiotic dose. Use the half-life to work out when the ball python needs its next dose.", "Finished? Answer the My thinking question about flu vaccines."],
+   "footer": "Use the words phagocyte, lymphocyte, antibody and memory cell correctly: they are not the same thing.",
+   "notes": "Half-life hint for Challenge: 10 mg/kg falls to 5 after one half-life (64 hours), then to 2.5 after two (128 hours). 128 hours is about 5.3 days, so a new dose is needed by day 5. Circulate and check the gap fill first."},
+  {"type": "think", "title": "Protecting the whole community", "prompt": "In a town, 95% of children are vaccinated against measles. The other 5% cannot be: some are babies, some are too ill. Why are those 5% also protected?",
+   "frames": ["A pathogen spreads when ___.", "Vaccinated people cannot ___, so the pathogen ___.", "The unvaccinated 5% are protected because ___."],
+   "notes": "Expected: measles spreads from person to person; vaccinated people do not become ill or pass it on, so the chain of infection is broken and the virus rarely reaches an unvaccinated person. This only works when most people are vaccinated. Link to the polio story from Lesson 1."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Name the two types of white blood cell and say what each one does.", "Why do you only get measles once?", "What does a vaccine contain, and why does it not give you the disease?"],
+   "notes": "Answers: phagocytes ingest and digest microorganisms, lymphocytes make antibodies; memory cells remain after the first infection and make the specific antibodies very quickly next time; parts of the pathogen's surface coating (or a dead or weakened pathogen) that cannot cause the disease but still trigger antibodies and memory cells."},
+  {"type": "summary", "title": "What we learned", "next": "Control systems: how nerves and hormones carry messages around the body, and why polio and chickenpox viruses attack nerve cells.",
+   "points": ["Phagocytes ingest and digest pathogens; lymphocytes make specific antibodies.", "Making antibodies for a new pathogen takes days, which is why you are ill before you get better.", "Memory cells make the second response fast and large: you are immune.", "Vaccines contain parts of a pathogen and make you immune without the disease; vaccinating most of a community protects everyone."],
+   "notes": "Homework: Workbook pages 29 and 30 (9Ca Diseases; Veterinary science). The model of half-life on page 30 can be designed at home and tried in a later lesson if time allows."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Complete the text using words from the word bank. Some words are used more than once.", "gap_lines": ["When you are infected by a ____________, white blood cells start to attack.", "____________ ingest some of the microorganisms, while ____________ start to produce", "____________ that stick to the outside of the microorganisms. These proteins may cause the", "____________ to burst open, or cause several microorganisms to ____________ together,", "which makes it easier for them to be ____________."]},
+   {"q": "Match each key word to its meaning. Draw a line.", "match": {"left": ["phagocyte", "lymphocyte", "antibody", "memory cell", "vaccine"], "right": ["a lymphocyte that stays in the body, ready to make antibodies quickly", "a protein that sticks to one type of pathogen", "a white blood cell that ingests and digests microorganisms", "contains parts of a pathogen and makes a person immune", "a white blood cell that makes antibodies"]}},
+   {"q": "Tick one box in each row to show whether the statement is true or false.", "table": {"headers": ["Statement", "True", "False"], "widths": [6400, 1700, 1700], "rows": [["You are ill before you get better because new antibodies take days to make.", "", ""], ["One type of antibody fits every type of pathogen.", "", ""], ["A vaccine gives you a mild case of the disease.", "", ""], ["Memory cells make the second response faster and larger.", "", ""], ["Vaccinating most people can stop a disease spreading in a community.", "", ""]]}}
+  ],
+  "stretch": [
+   {"q": "A child who has had measles is immune to measles but not to chickenpox. Explain why.", "lines": 3},
+   {"q": "Explain how vaccination against measles protects a child from becoming ill with measles.", "lines": 4},
+   {"q": "Viruses cause diseases such as chickenpox and polio, but they are not classed as living organisms. Suggest why.", "lines": 2}
+  ],
+  "challenge": [
+   {"q": "A vet uses an antibiotic called ceftiofur. The table gives the dose and the half-life for some animals. The half-life is the time for the amount of antibiotic in the animal's body to fall by half.",
+    "table": {"headers": ["Species", "Dose (mg of antibiotic per kg of animal)", "Half-life (hours)"], "widths": [3200, 3800, 2800], "rows": [["alpaca", "6.6", "45"], ["American black duck", "6.6", "32"], ["ball python", "10", "64"], ["goat", "15", "37"]]},
+    "parts": [
+     {"text": "State what is meant by the dose of a medicine.", "lines": 1},
+     {"text": "To be effective, the concentration of ceftiofur in a ball python must stay above 2.5 mg/kg. Calculate how many days after the first dose a second dose is needed. Show your working.", "lines": 4},
+     {"text": "Calculate the dose, in mg, for a 15 kg goat.", "lines": 1}
+    ]},
+   {"q": "Explain how vaccinating most of the people in a community protects people who cannot be vaccinated, such as newborn babies.", "lines": 4}
+  ],
+  "my_thinking": "A flu vaccine has to be given every year, but one course of polio vaccine protects for life. What might be different about the flu virus?",
+  "word_bank": ["pathogen", "phagocytes", "lymphocytes", "antibodies", "stick", "ingested", "memory cell", "immune", "vaccine", "specific"],
+  "exit": ["Name the two types of white blood cell and say what each one does.", "Why do you only get measles once?", "What does a vaccine contain, and why does it not give you the disease?"],
+  "exit_lines": [2, 2, 2]
+ },
+ "answers": {
+  "core": [
+   "pathogen; Phagocytes, lymphocytes; antibodies; pathogen (or microorganisms), stick; ingested.",
+   "phagocyte: ingests and digests microorganisms; lymphocyte: makes antibodies; antibody: protein that sticks to one type of pathogen; memory cell: stays ready to make antibodies quickly; vaccine: contains parts of a pathogen and makes a person immune.",
+   "True; False; False; True; True."
+  ],
+  "stretch": [
+   "Secure answer: antibodies are specific. The measles virus and the chickenpox virus have different surfaces, so the antibodies and memory cells made against measles do not fit the chickenpox virus. Lymphocytes would have to make a new antibody from the start, so the child can still become ill with chickenpox.",
+   "Secure answer: the vaccine contains parts of the surface coating of the measles virus (or a weakened form) that cannot cause the disease. Lymphocytes make antibodies that fit the measles virus, and memory cells are formed. If the real virus later infects the child, the memory cells make large amounts of the right antibody very quickly, so the virus is destroyed before the child becomes ill.",
+   "Viruses cannot carry out life processes on their own: they do not respire, grow, feed or move, and they can only copy themselves (reproduce) inside a living cell."
+  ],
+  "challenge": [
+   "a) The amount of medicine given at one time (here, in mg of antibiotic for each kg of the animal's mass). b) 10 mg/kg falls to 5 mg/kg after one half-life (64 hours) and to 2.5 mg/kg after two half-lives (128 hours). 128 hours = 5.3 days, so a second dose is needed by day 5 (accept 5 to 5.3 days). c) 15 mg/kg x 15 kg = 225 mg.",
+   "Secure answer: a pathogen spreads from one person to the next. Vaccinated people are immune, so they do not become ill and do not pass the pathogen on. When most people are vaccinated, the chain of infection is broken and the pathogen rarely reaches an unvaccinated person, so babies and ill people are protected as well. This only works if a high percentage of the community is vaccinated."
+  ],
+  "exit": [
+   "Phagocytes ingest (surround and digest) microorganisms; lymphocytes make antibodies.",
+   "After the first infection, memory cells remain and make the specific antibodies very quickly and in large numbers the next time, so the virus is destroyed before you become ill (you are immune).",
+   "Parts of the pathogen's surface coating (or a dead or weakened pathogen); these cannot cause the disease but lymphocytes still make antibodies and memory cells against them."
+  ],
+  "my_thinking": "Open answer. Good answers suggest that the flu virus changes its surface coating from year to year, so last year's antibodies and memory cells no longer fit and a new vaccine is needed; the polio virus does not change in this way."
+ }
+}

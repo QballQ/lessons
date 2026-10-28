@@ -30,6 +30,7 @@ Stage 3 (complete): all content written (Weeks 1 to 10, all years), assessment p
 | `design/brand-board.html` | Draft brand board (programme mark, series, colours, type, icons, templates) |
 | `design/assets/` | HIK \| SVS logo files |
 | `design/paste-kit.html` | Every paste-ready block for Claude Design (rebuild with `python3 design/build_paste_kit.py`) |
+| `Y9_Exploring_Science/` | Year 9 mainstream science, Exploring Science International 9 biology units 9A, 9B and 9C (21 lessons): branded PowerPoints, standard and Chinese-key-word worksheets (greyscale), teacher guides with answer keys, the teaching plan, and an image register with a check sheet. See its own `README.md` |
 
 ## Series
 

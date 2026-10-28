@@ -1,0 +1,159 @@
+{
+ "id": "9A_L02",
+ "unit": "9A",
+ "unit_title": "Genetics and evolution",
+ "lesson": 2,
+ "n_lessons": 7,
+ "title": "Inherited variation",
+ "title_cn": "遗传变异",
+ "slug": "Inherited_variation",
+ "book": {"pages": "8 to 9", "spread": "9Ab Inherited variation"},
+ "workbook": {"pages": "5 to 6"},
+ "oak": [
+  {"unit": "Heredity and DNA, Year 7", "lesson": "Heredity and genetic material", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/heredity-and-genetic-material"},
+  {"unit": "Variation (differences within species), Year 8", "lesson": "Continuous variation: data handling and analysis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/variation-differences-within-species/lessons/continuous-variation-data-handling-and-analysis"},
+  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Heritable variation", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/heritable-variation"}
+ ],
+ "big_idea": "Offspring inherit a mixture of characteristics from two parents because two different gametes fuse at fertilisation; inherited variation can be continuous or discontinuous.",
+ "goals": [
+  "I can give examples of inherited variation and explain how sexual reproduction causes it.",
+  "I can sort inherited variation into continuous and discontinuous, and recognise a normal distribution."
+ ],
+ "keywords": [
+  {"en": "inherited variation", "cn": "遗传变异", "meaning": "differences in characteristics that are passed on from parents to offspring"},
+  {"en": "offspring", "cn": "后代", "meaning": "the young produced by parents"},
+  {"en": "genetic information", "cn": "遗传信息", "meaning": "the instructions for inherited characteristics, stored in the nucleus"},
+  {"en": "gene", "cn": "基因", "meaning": "a section of DNA that carries the instructions for one characteristic"},
+  {"en": "nucleus", "cn": "细胞核", "meaning": "the part of a cell that contains the genetic information"},
+  {"en": "gamete", "cn": "配子", "meaning": "a sex cell (a sperm cell or an egg cell)"},
+  {"en": "fertilisation", "cn": "受精", "meaning": "when a male gamete and a female gamete fuse (join together)"},
+  {"en": "zygote", "cn": "受精卵", "meaning": "the fertilised egg cell"},
+  {"en": "continuous variation", "cn": "连续变异", "meaning": "variation that can have any value between two points"},
+  {"en": "discontinuous variation", "cn": "不连续变异", "meaning": "variation with only a limited set of possible values"},
+  {"en": "normal distribution", "cn": "正态分布", "meaning": "the bell shape you get when grouped continuous data are plotted"}
+ ],
+ "misconceptions": [
+  "Offspring inherit all their features from one parent (often the mother). Both gametes carry genetic information, so offspring have some characteristics of each parent.",
+  "Features caused by the environment or lifestyle can be inherited. Only characteristics controlled by genetic information are passed on; a scar or a learned language is not.",
+  "Continuous variation is only caused by genes. Height and skin colour are inherited but are also affected by diet and sunlight, so they are caused by both."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules. Keep the class survey to tongue rolling, ear lobes and hand span; avoid body mass or anything a student may find sensitive.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Rulers (30 cm) for hand span, one per pair", "Mini whiteboards for the quick check (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows the litter of kittens; asks how they vary and which differences came from the parents.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points to the key words box on the worksheet.", "students": "Listen; find the key words.", "resource": "Slide 3"},
+  {"phase": "Hook", "min": 3, "teacher": "Dragon fruit: three examples of inherited variation; which could a grower change?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches inherited variation, gametes and the zygote, continuous and discontinuous inherited variation, the normal distribution. Runs the quick check.", "students": "Follow the diagram; answer the quick check.", "resource": "Slides 5 to 10"},
+  {"phase": "Do", "min": 13, "teacher": "Runs the class survey (tongue rolling, ear lobes, hand span) and sets the worksheet.", "students": "Collect class data; Core, then Stretch, then Challenge.", "resource": "Slide 11, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Tall parents, short child: takes explanations with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
+  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 13"},
+  {"phase": "Summary", "min": 2, "teacher": "Recaps; previews probability (Lesson 3).", "students": "Tick the goals they met.", "resource": "Slide 14"}
+ ],
+ "tiers": {
+  "core": "Gap fill on gametes, fertilisation and the zygote; sort characteristics by cause (genes, environment, both); record the class survey and say whether it is continuous or discontinuous.",
+  "stretch": "Read the blood group bar chart (percentages and a calculation); explain foot length versus shoe size; explain why brothers and sisters differ.",
+  "challenge": "A tomato characteristic caused by both genes and environment; interpret the height histogram and the normal distribution."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "Why do offspring look like their parents, and why are brothers and sisters not identical?", "image": "dragon_fruit",
+   "notes": "Last lesson: variation caused by the environment. Today: variation that is inherited, where it comes from, and how we plot it."},
+  {"type": "donow", "title": "Do Now: a litter of kittens", "minutes": 4, "image": "kittens_litter", "caption": "Kittens from one litter",
+   "prompt": ["1. Give two ways these kittens vary from each other.", "2. Which of these differences did they inherit from their parents?", "3. From last lesson: is a scar inherited or environmental variation?"],
+   "notes": "Expected: coat colour and pattern, size, eye colour. Coat colour and pattern are inherited; size is partly inherited and partly how much they have eaten. A scar is environmental. Four minutes, in books."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out that six of today's key words are about how inherited variation is passed on: genetic information, gene, nucleus, gamete, fertilisation, zygote."},
+  {"type": "hook", "title": "Dragon fruit", "question": "Dragon fruit come in different skin colours, flesh colours and sizes. Give three examples of inherited variation in dragon fruit.", "image": "dragon_fruit", "caption": "Dragon fruit (pitaya) varieties",
+   "text": ["Then decide: which of these could a grower change by giving the plants more water or light?"],
+   "notes": "Skin colour (pink or yellow), flesh colour (white, red), seed pattern and shape are inherited. Size and sweetness can be changed by the environment (water, light, warmth), so they are caused by both. Collect answers in one minute."},
+  {"type": "learn", "title": "Inherited variation", "image": "kittens_litter", "caption": "Kittens inherit coat colour from both parents", "vocab": ["inherited variation", "offspring"],
+   "text": ["Offspring get a mixture of characteristics from their parents. We say they inherit them.", "Inherited variation: natural eye colour, dimpled chin, blood group.", "Environmental variation (a scar, a hairstyle) is not inherited.", "Some characteristics are caused by both: tall parents have tall children only if the children eat well."],
+   "key_idea": "Inherited characteristics are passed on in genetic information from both parents.",
+   "notes": "Ask for three inherited characteristics of their own. Push on 'both': height, skin colour and body mass are inherited and affected by the environment. A learned skill such as speaking Chinese is environmental only."},
+  {"type": "learn", "title": "Where inherited variation comes from", "image": "diagram:gametes_zygote", "vocab": ["genetic information", "gene", "nucleus", "gamete", "fertilisation", "zygote"],
+   "text": ["Genetic information is stored in genes, in the nucleus of each cell.", "In sexual reproduction two gametes (one male, one female) fuse at fertilisation to make a zygote.", "The zygote has genetic information from both parents.", "Every gamete is slightly different, so brothers and sisters are not identical."],
+   "key_idea": "Two different gametes fuse, so each offspring gets its own mixture of the parents' genetic information.",
+   "notes": "Walk through the diagram left to right: sperm cell, egg cell, fertilisation, zygote, cell division. Ask: why can two children of the same parents have different eye colours? Because each gamete carries a different selection of the parent's genetic information."},
+  {"type": "compare", "title": "Inherited variation can be continuous or discontinuous", "vocab": ["continuous variation", "discontinuous variation"],
+   "left": {"heading": "Discontinuous (inherited)", "points": ["Blood group: A, B, AB or O. Nothing in between.", "Dimpled chin: yes or no.", "Tongue rolling, attached ear lobes.", "Usually caused by genes only.", "Bar chart with gaps."]},
+   "right": {"heading": "Continuous (inherited and environment)", "points": ["Height, hand span, skin colour.", "Any value between two points.", "Affected by genes and by diet, sunlight or exercise.", "Group the data; bars touch.", "Often a bell shape."]},
+   "key_idea": "Discontinuous: a limited set of values. Continuous: any value, and usually many genes plus the environment.",
+   "notes": "Shoe size is a good trap: feet show continuous variation, but shoes only come in certain sizes, so shoe size is discontinuous. Students meet this on the worksheet."},
+  {"type": "chart", "title": "Discontinuous data: blood groups", "vocab": ["discontinuous variation"],
+   "chart": {"type": "bar", "title": "Blood groups in a sample of 5000 people in Scotland", "categories": ["O", "A", "B", "AB"], "series": [{"name": "Number of people", "values": [2550, 1750, 550, 150]}], "x_title": "Blood group", "y_title": "Number of people"},
+   "text": ["Only four possible values, so the bars have gaps.", "Which blood group is most common?", "Roughly what percentage of this sample has group A?", "Could anyone be 'between' A and B?"],
+   "key_idea": "Discontinuous data go on a bar chart with gaps between the bars.",
+   "notes": "Answers: group O; 1750 out of 5000 is 35%; no, blood group has a limited set of values. The Scotland figures are typical of the UK population."},
+  {"type": "chart", "title": "Continuous data: a normal distribution", "vocab": ["continuous variation", "normal distribution"],
+   "chart": {"type": "bar", "gap": 0, "title": "Heights of 200 Year 9 students", "categories": ["140 to 144", "145 to 149", "150 to 154", "155 to 159", "160 to 164", "165 to 169", "170 to 174", "175 to 179", "180 to 184"], "series": [{"name": "Number of students", "values": [3, 9, 22, 41, 52, 38, 23, 9, 3]}], "x_title": "Height (cm)", "y_title": "Number of students"},
+   "text": ["Heights are grouped, so the bars touch.", "Join the tops of the bars: a bell shape. This is a normal distribution.", "Most students are near the middle; very tall and very short students are rare."],
+   "key_idea": "Grouped continuous data often give a bell-shaped normal distribution.",
+   "notes": "Ask which group holds the most students (160 to 164 cm) and how many students are 175 cm or taller (12). Students draw a curve like this on the worksheet Challenge."},
+  {"type": "check", "title": "Quick check", "instruction": "Genes, environment, or both? Then continuous or discontinuous?",
+   "questions": ["Natural eye colour", "Being able to speak Chinese", "A dimpled chin", "Human height", "Blood group"],
+   "notes": "Answers: eye colour: genes, discontinuous; speaking Chinese: environment, discontinuous (learned); dimpled chin: genes, discontinuous; height: both, continuous; blood group: genes, discontinuous."},
+  {"type": "steps", "title": "Your turn: class survey and worksheet", "minutes": 13,
+   "steps": ["Class survey: hands up for tongue rolling (can or cannot) and ear lobes (attached or free). Record the totals in the Core tally table.", "In pairs, measure your hand span to the nearest 0.5 cm; the teacher collects the class list for the Stretch grid.", "Core: gap fill, the cause of each characteristic, the survey.", "Stretch: blood group bar chart; foot length and shoe size; why brothers and sisters differ.", "Challenge: tomatoes, and the height histogram."],
+   "footer": "Use the key words. Chinese answers are fine for the reasons; use the English key words.",
+   "notes": "Run the survey fast: count hands for each category and write the totals on the board. Write the hand spans on the board as students call them out, so the Stretch plot has real class data. If the class is small, use the sample data on the worksheet."},
+  {"type": "think", "title": "Tall parents, short child?", "prompt": "Two tall parents have a child who is shorter than both of them. Use the words genetic information, gametes and environment to explain how this can happen.",
+   "frames": ["The child inherited genetic information from ___, but each gamete carries ___.", "Height is also affected by ___, for example ___.", "So the child could be shorter because ___."],
+   "notes": "Expected: each gamete carries a different selection of the parents' genetic information, so the child may inherit instructions for shorter height; height is also affected by the environment (diet, illness, exercise). Praise answers that use both ideas."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 3,
+   "questions": ["Where in a cell is genetic information stored?", "Name the cell formed when two gametes fuse.", "Blood group: is it continuous or discontinuous, and inherited or environmental?"],
+   "notes": "Answers: in the nucleus (in genes); a zygote; discontinuous and inherited. Students who get Q3 wrong need the 'limited set of values' idea again in Lesson 3."},
+  {"type": "summary", "title": "What we learned", "next": "Probability: how we use statistics and probability to describe variation and predict inherited conditions.",
+   "points": ["Offspring inherit a mixture of characteristics because two different gametes fuse at fertilisation.", "Genetic information is stored in genes in the nucleus; the zygote has information from both parents.", "Inherited variation can be discontinuous (blood group) or continuous (height, which the environment also affects).", "Grouped continuous data give a bell shape: a normal distribution."],
+   "notes": "Homework: Workbook pages 5 and 6 (9Ab Inherited variation and More variation)."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Complete the sentences using words from the box. Use each word once.", "gap_lines": [
+     "**Word box:**  characteristics   fertilisation   fuse   genetic   inherited   offspring   parents   zygote",
+     "The nucleus of a cell contains the __________ information that controls __________ characteristics.",
+     "When two gametes __________ (join together) during __________, they produce a __________ (fertilised egg cell).",
+     "The fertilised egg cell contains genetic information from both __________, so it has instructions for inherited",
+     "__________ from both parents. The __________ will have some characteristics of each parent."]},
+   {"q": "Tick one box in each row to show what causes the variation: genes, the environment, or both.", "table": {"headers": ["Characteristic", "Genes", "Environment", "Both"], "widths": [4600, 1700, 1800, 1700], "rows": [["being able to speak more than one language", "", "", ""], ["length of hair", "", "", ""], ["human height", "", "", ""], ["natural eye colour", "", "", ""], ["blood group", "", "", ""], ["a scar", "", "", ""]]}},
+   {"q": "Class survey. Record the class totals in the table.", "parts": [
+     {"text": "Complete the table using the class results.", "table": {"headers": ["Characteristic", "Group", "Number of students"], "widths": [3600, 3600, 2600], "rows": [["tongue rolling", "can roll", ""], ["", "cannot roll", ""], ["ear lobes", "attached", ""], ["", "free (hanging)", ""]]}},
+     {"text": "Is tongue rolling continuous or discontinuous variation? Give a reason.", "lines": 2}]}
+  ],
+  "stretch": [
+   {"q": "The bar chart shows the blood groups of people in Saudi Arabia.", "image": "diagram:blood_group_bars", "image_w": 420, "image_h": 220, "parts": [
+     {"text": "What percentage of people have blood group A?", "lines": 1},
+     {"text": "In a group of 300 people from Saudi Arabia, how many would you expect to have blood group AB? Show your working.", "lines": 2},
+     {"text": "Tick the boxes that describe this type of variation.", "mcq": ["continuous", "discontinuous", "environmental", "inherited"]}]},
+   {"q": "Explain why foot length is an example of continuous variation but shoe size is discontinuous.", "lines": 3},
+   {"q": "Explain why brothers and sisters do not look exactly the same, even though they have the same parents.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "Suggest a variation in tomatoes that is caused by both genetic information and environmental factors. Explain your reasoning.", "lines": 3},
+   {"q": "The chart shows the heights of 200 Year 9 students.", "image": "diagram:height_histogram", "image_w": 420, "image_h": 220, "parts": [
+     {"text": "Describe the shape of the chart and name this type of distribution.", "lines": 2},
+     {"text": "Explain why height gives this shape but blood group cannot.", "lines": 3},
+     {"text": "Suggest one other characteristic that you would expect to show a normal distribution.", "lines": 1}]}
+  ],
+  "my_thinking": "Identical twins have exactly the same genetic information. Suggest how two identical twins could still look a little different from each other.",
+  "word_bank": ["inherited variation", "offspring", "genetic information", "gene", "nucleus", "gamete", "fertilisation", "zygote", "continuous variation", "discontinuous variation"],
+  "exit": ["Where in a cell is genetic information stored?", "Name the cell formed when two gametes fuse.", "Blood group: is it continuous or discontinuous, and inherited or environmental?"],
+  "exit_lines": [1, 1, 1]
+ },
+ "answers": {
+  "core": [
+   "genetic; inherited; fuse; fertilisation; zygote; parents; characteristics; offspring.",
+   "Speaking more than one language: environment. Length of hair: environment. Human height: both. Natural eye colour: genes. Blood group: genes. A scar: environment.",
+   "a) Class totals. b) Discontinuous, because there are only two possible values (can roll or cannot roll); nothing in between."
+  ],
+  "stretch": [
+   "a) 24%. b) 7% of 300 = 0.07 x 300 = 21 people. c) discontinuous and inherited.",
+   "Foot length can take any value between the shortest and longest foot (for example 24.3 cm), so it is continuous. Shoes are only made in certain sizes (for example 37, 38, 39), so shoe size can only take a limited set of values: discontinuous.",
+   "Secure answer: each parent makes gametes that carry slightly different selections of their genetic information; no two gametes are identical. Each child comes from a different sperm cell and egg cell fusing at fertilisation, so each child gets a different mixture of genetic information from the two parents, and they also grow up in slightly different environments."
+  ],
+  "challenge": [
+   "e.g. fruit size or sweetness. The variety (genetic information) sets how big or sweet the tomatoes can be, but the amount of water, light, warmth and mineral salts the plant gets changes how big and sweet they actually grow. Accept mass, number of fruits or plant height with the same reasoning.",
+   "a) A bell shape: most students are in the middle groups (155 to 169 cm) and few are very short or very tall. This is a normal distribution. b) Height is continuous (any value) and is controlled by many genes plus the environment, so the values spread smoothly around a middle value; blood group has only four possible values, so its chart has separate bars with gaps and no curve. c) e.g. hand span, foot length, body mass, leaf length."
+  ],
+  "exit": ["In the nucleus (in the genes).", "A zygote (fertilised egg cell).", "Discontinuous; inherited."],
+  "my_thinking": "Their environments are not identical: one may eat more, exercise more, get a scar, cut or style their hair differently, or get more sun. These are environmental variation, which does not depend on genetic information."
+ }
+}

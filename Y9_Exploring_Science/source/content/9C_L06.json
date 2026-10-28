@@ -1,0 +1,158 @@
+{
+ "id": "9C_L06",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 6,
+ "n_lessons": 7,
+ "title": "Ecology: abundance and distribution",
+ "title_cn": "生态学：丰度与分布",
+ "slug": "Ecology_abundance_and_distribution",
+ "book": {"pages": "48 to 49", "spread": "9Cd Ecology"},
+ "workbook": {"pages": "34 to 35"},
+ "oak": [
+  {"unit": "Biodiversity, Year 8", "lesson": "Ecological sampling of living organisms", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/biodiversity/lessons/ecological-sampling-of-living-organisms"},
+  {"unit": "Biodiversity, Year 8", "lesson": "Ecological sampling using a quadrat", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/biodiversity/lessons/ecological-sampling-using-a-quadrat"}
+ ],
+ "big_idea": "You can rarely count every organism, so ecologists take random samples to estimate how many there are (abundance) and how they are spread out (distribution).",
+ "goals": [
+  "I can choose suitable apparatus for measuring the abundance and distribution of organisms.",
+  "I can use data from a sample to estimate a population size and say how accurate the estimate is."
+ ],
+ "keywords": [
+  {"en": "abundance", "cn": "丰度", "meaning": "how common a species is in a habitat"},
+  {"en": "distribution", "cn": "分布", "meaning": "how organisms are spread out in an area"},
+  {"en": "population", "cn": "种群", "meaning": "all the organisms of one species in an area"},
+  {"en": "sample", "cn": "样本", "meaning": "a small selected part of the total number"},
+  {"en": "estimate", "cn": "估算", "meaning": "an approximate calculation of something"},
+  {"en": "quadrat", "cn": "样方", "meaning": "a square frame used to sample plants or slow-moving animals"},
+  {"en": "transect", "cn": "样线", "meaning": "a line along which samples are taken"},
+  {"en": "pitfall trap", "cn": "陷阱", "meaning": "a container sunk into the ground to catch small ground animals"},
+  {"en": "sweep net", "cn": "捕虫网", "meaning": "a net swept through long grass to catch insects"},
+  {"en": "random", "cn": "随机的", "meaning": "chosen by chance, not by the person"},
+  {"en": "biodiversity", "cn": "生物多样性", "meaning": "the number of different species in an area"}
+ ],
+ "misconceptions": [
+  "Quadrats are only for plants in a field. They sample any organism that does not move much: limpets and barnacles on a rocky shore, snails, daisies on a lawn.",
+  "You should put the quadrat where there are most organisms. That gives a biased estimate; quadrats must be placed at random.",
+  "An estimate is a guess. An estimate is a calculation from a sample; the bigger and more random the sample, the closer it is to the true value."
+ ],
+ "safety": "Outdoors: stay inside the marked area, watch for uneven ground and insects, wash hands after handling soil or plants. Indoors paper field: no hazards.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "0.5 m x 0.5 m quadrats (or string squares of 0.25 m2), one per group", "Two 10 m tape measures or marked ropes", "Dice or random number tables", "Printed paper 'fields' with dots and a card quadrat, for the indoor version", "Calculators"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Disease outbreak: why estimate? How would you estimate dandelions on the field?", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Lions move in: what happens to the gazelles, and how could you find out?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 8, "teacher": "Teaches abundance, sampling methods, the population formula, accuracy and random placement, and the three distributions. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 16, "teacher": "Runs the quadrat sampling (9 minutes, outdoors or paper field), then the worksheet.", "students": "Sample with quadrats, record and calculate; then Core, Stretch, Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Gannet island: describe the distribution; how to estimate the colony.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (surface area and osmosis).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Match the ecology words; choose the sampling method for each organism; estimate the snail population from quadrat data; record and calculate the class quadrat results.",
+  "stretch": "Explain why quadrats are used, how to place them and how clumped organisms affect the estimate.",
+  "challenge": "Plan a fair transect comparison of bird biodiversity in rainforest and oil palm; plan how to find the most abundant of four grass species."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How do scientists count what cannot be counted?", "image": "quadrat",
+   "notes": "Lesson 6 of 9C. The book links ecology to disease: during an outbreak, scientists estimate the number of cases from samples in the same way ecologists estimate populations. Today is practical: quadrats on the field, or the paper field indoors if the weather is bad."},
+  {"type": "donow", "title": "Do Now: counting the uncountable", "minutes": 4,
+   "prompt": ["During a disease outbreak, scientists cannot count every infected person, so they estimate.", "1. What does 'estimate' mean?", "2. Suggest how you could estimate the number of dandelions on the school field without counting them all.", "3. Name one abiotic and one biotic factor that could affect how many dandelions there are."],
+   "notes": "Four minutes, in books. Estimate: an approximate calculation. Count a few small areas and scale up: that is today's method. Abiotic: rainfall, temperature, light, soil. Biotic: competition from grass, being eaten, being mown (a human activity)."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
+  {"type": "hook", "title": "The lions move in", "question": "Some lions move into an area where gazelles live. What will happen to the gazelle population, and how could an ecologist find out how many gazelles are left?", "image": "lion_gazelle", "caption": "Predation is a biotic factor",
+   "text": ["Talk to a partner: you cannot count every gazelle. What could you do instead?"],
+   "notes": "The factor is predation (biotic); the gazelle population is likely to fall, at least at first. Counting: sample areas from a vehicle or drone, count the gazelles in each, scale up to the whole area. Ecologists do exactly this, and so do doctors estimating cases in an outbreak."},
+  {"type": "learn", "title": "Abundance and sampling", "image": "quadrat", "caption": "A quadrat used to sample plants", "vocab": ["abundance", "sample", "quadrat", "pitfall trap", "sweep net"],
+   "text": ["Abundance is how common a species is in a habitat. It depends on abiotic factors (temperature, rainfall) and biotic factors (predation, competition).", "You can rarely count every organism, so you take samples to estimate the population size.", "Quadrat: plants and slow-moving animals. Pitfall trap: ground beetles. Sweep net: insects in long grass. Pooter: small insects."],
+   "key_idea": "Choose the method that suits the organism, then sample.",
+   "notes": "A quadrat is a square frame, often 0.5 m by 0.5 m (area 0.25 m2). A pitfall trap is a cup sunk level with the soil. A pooter sucks small insects into a tube. Ask: which method for limpets on a rocky shore? (Quadrat: they hardly move.)"},
+  {"type": "diagram", "title": "Estimating population size", "image": "diagram:sampling_formula", "text": "Count the organisms in several quadrats, then scale up to the whole area.",
+   "key_idea": "population size = number counted in the sample x total area of the habitat / area sampled",
+   "notes": "Work the example on the diagram: 12 snails in 8 quadrats, 8 x 0.25 = 2 m2 sampled, field 750 m2, so 12 x 750 / 2 = 4500 snails. Then the book's crab example: 3 crabs in one 0.25 m2 quadrat on rocks 60 m by 10 m (600 m2): 3 x 600 / 0.25 = 7200 crabs. Compare with an estimated 7000 limpets: the crabs are slightly more abundant."},
+  {"type": "learn", "title": "How accurate is the estimate?", "image": "limpets", "caption": "Limpets on a rocky shore", "vocab": ["estimate", "random"],
+   "text": ["Accuracy is how close the estimate is to the true value if every organism were counted.", "Estimates are more accurate when the sample is larger (but this takes longer), the organisms are easy to find, and they are spread out rather than clumped.", "Place quadrats at random, not where you expect to find most. Choosing the spots yourself causes bias."],
+   "key_idea": "Random sampling avoids bias.",
+   "notes": "Random placement: use random numbers as coordinates along two tape measures, or throw a quadrat over your shoulder with your eyes shut (less reliable). If the crabs were all in a few rock pools, a quadrat might land on none or on a whole group, so the estimate could be far too low or too high."},
+  {"type": "diagram", "title": "Distribution: how organisms are spread out", "image": "diagram:distribution_patterns", "text": "Distribution can be random, regular or clumped. When it is hard to see, scientists sample along a line: a transect.",
+   "key_idea": "In a transect survey, an evenly distributed organism appears in every sample; a clumped one appears in only some.",
+   "notes": "Examples: dandelions on a lawn (random), gannets nesting the same distance apart (regular), crabs in rock pools (clumped). Counting the number of different species in a survey also tells you the biodiversity of the area."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["What is abundance?", "Which method would you use to sample ground beetles?", "3 crabs in a 0.25 m2 quadrat; the rocks cover 600 m2. Estimate the crab population.", "How should you decide where to put your quadrats?", "What word describes organisms that gather in groups?"],
+   "notes": "Answers: how common a species is in a habitat; a pitfall trap; 3 x 600 / 0.25 = 7200 crabs; at random, e.g. with random number coordinates; clumped."},
+  {"type": "practical", "title": "Quadrat sampling", "aim": "Estimate the population of one plant species (e.g. dandelion, daisy or clover) in a 10 m by 10 m area of the field.",
+   "equipment": ["quadrat 0.5 m x 0.5 m (area 0.25 m2)", "two tape measures laid along two edges of the area", "dice or random number table", "worksheet table (Core 4)", "indoor version: printed paper field and a card quadrat"],
+   "method": ["Lay the tape measures along two sides of the 10 m by 10 m area.", "Generate two random numbers from 0 to 9 for the coordinates. Place the quadrat there.", "Count the plants of your species inside the quadrat. Record the count.", "Repeat for 8 quadrats in total.", "Calculate: total counted x 100 m2 / (8 x 0.25 m2).", "Compare your estimate with another group's. Why are they different?"],
+   "safety": "Stay inside the marked area; watch for uneven ground; wash hands afterwards.",
+   "notes": "Nine minutes. Indoors: the paper field has 100 squares; drop the card quadrat using random coordinates and count dots. Groups' estimates will differ because samples are random and small: that is the point of the comparison. Ask how the estimate could be made more accurate (more quadrats)."},
+  {"type": "think", "title": "Gannet island", "prompt": "Gannets nest on a small island, each pair the same distance from its neighbours. Describe their distribution. How could you estimate the number of gannets nesting on the island?", "image": "gannet_colony", "caption": "A gannet colony",
+   "frames": ["The gannets show a ___ distribution because ___.", "To estimate the number, I would ___ and then ___.", "The estimate would be more accurate if ___."],
+   "notes": "Expected: regular distribution (evenly spaced nests). Photograph the island from the air, count the nests in several sample squares of the photo and scale up to the whole area, or count one section and multiply. More accurate with more sample squares and a clear photo."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Why do ecologists take samples instead of counting every organism?", "5 daisies were found in one 0.25 m2 quadrat. The lawn is 40 m2. Estimate the daisy population.", "Give one reason why quadrats should be placed at random."],
+   "notes": "Answers: it is impossible or takes too long to find and count every organism; 5 x 40 / 0.25 = 800 daisies; to avoid bias (choosing spots where you expect many or few organisms makes the estimate too high or too low)."},
+  {"type": "summary", "title": "What we learned", "next": "In and out: why surface area matters for cells and organisms, and how water moves by osmosis.",
+   "points": ["Abundance is how common a species is; you estimate it from samples with the right method: quadrat, pitfall trap, sweep net, pooter.", "Population size = number in sample x total area / area sampled.", "Estimates are more accurate with larger, random samples of organisms that are easy to find.", "Distribution can be random, regular or clumped; a transect shows distribution along a line."],
+   "notes": "Homework: Workbook pages 34 and 35 (9Cd Ecology). The rainforest and oil palm transect question matches the Challenge."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each word to its definition. Draw a line.", "match": {"left": ["abundance", "distribution", "sample", "estimate", "biodiversity"], "right": ["an approximate calculation of something", "the number of different species in an area", "how common a species is in a habitat", "a small selected part of the total number", "how organisms are spread out in an area"]}},
+   {"q": "Tick one box in each row to show the best method for sampling each organism.", "table": {"headers": ["Organism", "pitfall trap", "sweep net", "quadrat", "pooter"], "widths": [3800, 1500, 1500, 1500, 1500], "rows": [["ground beetles", "", "", "", ""], ["insects in long grass", "", "", "", ""], ["daisies on a lawn", "", "", "", ""], ["tiny insects on a leaf", "", "", "", ""], ["limpets on a rocky shore", "", "", "", ""]]}},
+   {"q": "Students counted one species of snail in eight quadrats placed at random in a field 30 m by 25 m. Each quadrat was 0.5 m by 0.5 m.",
+    "table": {"headers": ["Quadrat", "1", "2", "3", "4", "5", "6", "7", "8"], "widths": [2600, 900, 900, 900, 900, 900, 900, 900, 900], "rows": [["Number of snails", "3", "1", "0", "2", "4", "1", "2", "3"]]},
+    "parts": [
+     {"text": "Calculate the total number of snails counted.", "lines": 1},
+     {"text": "Calculate the total area sampled by the eight quadrats, in m2.", "lines": 1},
+     {"text": "Calculate the area of the whole field, in m2.", "lines": 1},
+     {"text": "Estimate the population of this snail species in the whole field. Show your working.", "lines": 2}
+    ]},
+   {"q": "Record your own quadrat results, then estimate the population of your plant in the 10 m by 10 m area.",
+    "parts": [
+     {"text": "Complete the table.", "table": {"headers": ["Quadrat", "Coordinates", "Number of plants"], "widths": [2000, 3000, 3000], "rows": [["1", "", ""], ["2", "", ""], ["3", "", ""], ["4", "", ""], ["5", "", ""], ["6", "", ""], ["7", "", ""], ["8", "", ""], ["total", "", ""]]}},
+     {"text": "Estimate the population: total x 100 m2 / 2 m2. Show your working.", "lines": 2}
+    ]}
+  ],
+  "stretch": [
+   {"q": "Give one reason for using quadrats to estimate a population size rather than counting all the snails.", "lines": 2},
+   {"q": "Suggest the best way to decide where to place the eight quadrats in the field. Explain your answer.", "lines": 3},
+   {"q": "Snails of another species in the field gather in groups during the day. Explain how this could affect an estimate of their population size made with the same method.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "Ecologists compared the biodiversity of birds in rainforest and in oil palm plantations that replaced some of the forest. They walked along transects through each area, recording every bird they saw or heard.",
+    "parts": [
+     {"text": "Suggest why the scientists used transects rather than quadrats.", "lines": 2},
+     {"text": "Give two things the scientists should keep the same so that the results from the two areas can be compared fairly.", "lines": 2},
+     {"text": "Oil palm plantations have trees planted in rows, all the same age; rainforest has many kinds of trees of different sizes. Predict in which area the birds would show a more regular distribution, and give a reason.", "lines": 3}
+    ]},
+   {"q": "There are many types of grass, each with slightly different leaf shapes. Describe how you would find out which of four species was the most abundant in a large field.", "lines": 4}
+  ],
+  "my_thinking": "During an outbreak, scientists estimate the number of infected people from samples. Suggest one reason why the estimate might be too low, and one reason why it might be too high.",
+  "word_bank": ["abundance", "distribution", "sample", "estimate", "quadrat", "transect", "pitfall trap", "sweep net", "random", "clumped", "biodiversity"],
+  "exit": ["Why do ecologists take samples instead of counting every organism?", "5 daisies were found in one 0.25 m2 quadrat. The lawn is 40 m2. Estimate the daisy population.", "Give one reason why quadrats should be placed at random."],
+  "exit_lines": [1, 2, 1]
+ },
+ "answers": {
+  "core": [
+   "abundance: how common a species is in a habitat; distribution: how organisms are spread out in an area; sample: a small selected part of the total number; estimate: an approximate calculation; biodiversity: the number of different species in an area.",
+   "ground beetles: pitfall trap; insects in long grass: sweep net; daisies: quadrat; tiny insects on a leaf: pooter; limpets: quadrat.",
+   "a) 3 + 1 + 0 + 2 + 4 + 1 + 2 + 3 = 16 snails. b) 8 x 0.25 = 2 m2. c) 30 x 25 = 750 m2. d) 16 x 750 / 2 = 6000 snails.",
+   "Student results. Check the calculation: total counted x 100 / 2 = total x 50."
+  ],
+  "stretch": [
+   "It would take far too long to find and count every snail in the field (and some would be missed or counted twice); sampling gives a good estimate quickly.",
+   "Secure answer: place them at random, e.g. use random numbers as coordinates along two tape measures. If the students chose the places themselves they might pick spots where snails are easy to see or expected, which would bias the estimate.",
+   "Secure answer: if the snails are clumped, a random quadrat might land on a group (giving a very high count) or on an empty area (giving zero). The estimate could then be much too high or too low, so it would be less accurate. More quadrats would be needed."
+  ],
+  "challenge": [
+   "a) Birds move and fly, so they cannot be counted in a quadrat; walking a line through the trees lets the scientists record birds seen or heard over a large area, and shows how the birds are distributed. b) Any two of: the same length of transect; the same time of day and season; the same walking speed and time spent; the same number of observers; the same weather. c) Secure answer: the oil palm plantation, because the trees are evenly spaced and all alike, so food and nesting places are spread evenly and the birds would be spaced more regularly; the rainforest has varied trees, so birds would be clumped where their food plants are.",
+   "Secure answer: use a key to identify the four species by leaf shape. Place a quadrat at random (random number coordinates) many times across the field. In each quadrat count the plants of each species (or estimate the percentage of the quadrat each covers). Add up the totals for each species; the species with the highest total is the most abundant."
+  ],
+  "exit": [
+   "It is impossible or would take far too long to find and count every organism.",
+   "5 x 40 / 0.25 = 800 daisies.",
+   "To avoid bias: if the sampler chooses the spots, they may pick places with unusually many or few organisms, making the estimate too high or too low."
+  ],
+  "my_thinking": "Too low: people with mild symptoms are never tested or counted; some areas cannot be sampled. Too high: samples are taken only in hospitals or in the worst-affected areas, where the proportion infected is higher than average."
+ }
+}

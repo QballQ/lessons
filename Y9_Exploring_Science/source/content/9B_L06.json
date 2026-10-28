@@ -1,0 +1,155 @@
+{
+ "id": "9B_L06",
+ "unit": "9B",
+ "unit_title": "Plant growth",
+ "lesson": 6,
+ "n_lessons": 7,
+ "title": "Farming problems and the carbon cycle",
+ "title_cn": "农业问题与碳循环",
+ "slug": "Farming_problems_and_the_carbon_cycle",
+ "book": {"pages": "32 to 33", "spread": "9Be Farming problems"},
+ "workbook": {"pages": "23 to 24"},
+ "oak": [
+  {"unit": "Carbon cycle and climate change, Year 9", "lesson": "The carbon cycle", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/carbon-cycle-and-climate-change/lessons/the-carbon-cycle"},
+  {"unit": "Ecosystems, Year 7", "lesson": "Bioaccumulation", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/ecosystems/lessons/bioaccumulation"},
+  {"unit": "Climate change and biodiversity, Year 9", "lesson": "Agriculture and habitat loss", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/climate-change-and-biodiversity/lessons/agriculture-and-habitat-loss"}
+ ],
+ "big_idea": "The same chemicals and methods that raise yield can damage rivers, food webs and the atmosphere, so farming has to be made sustainable.",
+ "goals": [
+  "I can explain how fertilisers, pesticides and clearing land can harm wild organisms, including eutrophication and bioaccumulation.",
+  "I can use the carbon cycle to explain how farming and burning fuels change the carbon dioxide in the air, and suggest ways to farm more sustainably."
+ ],
+ "keywords": [
+  {"en": "habitat", "cn": "栖息地", "meaning": "the place where an organism lives"},
+  {"en": "eutrophication", "cn": "富营养化", "meaning": "a very rich supply of nutrients in water, which leads to fast plant growth and then death of fish"},
+  {"en": "algae", "cn": "藻类", "meaning": "simple plant-like organisms that photosynthesise in water"},
+  {"en": "decomposer", "cn": "分解者", "meaning": "a microorganism that breaks down dead material, using oxygen"},
+  {"en": "persistent", "cn": "持久性的", "meaning": "does not break down in the environment"},
+  {"en": "bioaccumulation", "cn": "生物富集", "meaning": "the build-up of a substance in organisms along a food chain"},
+  {"en": "food web", "cn": "食物网", "meaning": "a diagram of linked food chains showing what eats what"},
+  {"en": "biodiversity", "cn": "生物多样性", "meaning": "the number of different species in an area"},
+  {"en": "carbon cycle", "cn": "碳循环", "meaning": "the processes that move carbon between the air, living things and the Earth"},
+  {"en": "combustion", "cn": "燃烧", "meaning": "burning, which releases carbon dioxide"},
+  {"en": "global warming", "cn": "全球变暖", "meaning": "the rise in the Earth's average temperature"},
+  {"en": "sustainable development", "cn": "可持续发展", "meaning": "making the things we need without destroying habitats for the future"}
+ ],
+ "misconceptions": [
+  "Fertiliser in a river poisons the fish directly. The fertiliser feeds algae; it is the decomposers using up oxygen afterwards that kills the fish.",
+  "Carbon atoms are made or destroyed in the cycle. The amount of carbon is constant; the processes move it between the air, organisms and fossil fuels.",
+  "A pesticide only harms the pest it was sprayed on. Persistent pesticides stay in the environment and build up along food chains, harming top predators most."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)", "Optional: a jar of pond water left in sunlight for a week to show algal growth"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows the dead fish photo and the three questions.", "students": "Answer in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "The green pond: nobody poisoned it, so what happened? Collects ideas.", "students": "Pair talk, share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches eutrophication, pesticide problems, the hedge food web, land clearing and single varieties, the carbon cycle. Quick check.", "students": "Follow the eutrophication chain; answer the quick check.", "resource": "Slides 5 to 10"},
+  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Checks the eutrophication order and the food web predictions.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 11, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Should farmers stop using fertilisers? Takes both sides with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook pages 23 to 24.", "students": "Complete the exit ticket alone.", "resource": "Slides 13 to 14, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Put the eutrophication steps in order; use the hedge food web to predict the effect of an insecticide; match carbon cycle processes.",
+  "stretch": "Explain why bacteria reduce fish populations; why nitrates make algae grow; how deforestation raises carbon dioxide.",
+  "challenge": "Explain the Irish potato famine in terms of varieties and biodiversity; explain bioaccumulation and the neonicotinoid ban."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "If fertilisers and pesticides raise the yield, what is the cost?", "image": "algal_bloom",
+   "notes": "Lesson 6 of 9B. Last lesson: how farmers raise yield. This lesson: the damage those methods can do, and how the carbon cycle links farming to the whole planet."},
+  {"type": "donow", "title": "Do Now: the dead fish", "minutes": 4, "image": "dead_fish", "caption": "Fish killed in a lake",
+   "prompt": ["1. What do fish need from the water for respiration?", "2. Name one farm chemical that rain can wash into a river or lake.", "3. Suggest how these fish died."],
+   "notes": "Answers: oxygen (dissolved in the water); fertiliser (or pesticide, manure); most students will say 'poisoned': keep that idea for the hook, because the real chain is longer and more interesting."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the carbon cycle key words; students met photosynthesis and respiration in Lesson 1."},
+  {"type": "hook", "title": "Nobody poisoned the pond", "image": "algal_bloom", "caption": "An algal bloom",
+   "question": "After a wet spring, a pond next to a farm turned bright green. Within two weeks the fish were dead. Nobody poisoned the pond. What happened?",
+   "text": ["Talk to a partner: what made the water green, and why would that kill fish?"],
+   "notes": "Collect ideas. The green is algae, fed by fertiliser washed off the field. The fish died of a lack of oxygen, not poison. The next slide gives the full chain."},
+  {"type": "diagram", "title": "Eutrophication", "image": "diagram:eutrophication_flow", "vocab": ["eutrophication", "algae", "decomposer"],
+   "text": "A very rich supply of nutrients in the water sets off a chain that ends with no oxygen for the fish.",
+   "key_idea": "Fertiliser feeds the algae; the decomposers that break down the dead plants use up the oxygen; the fish suffocate.",
+   "notes": "Walk through the six steps and have students repeat the chain back in pairs. Manure causes the same problem and can also carry harmful microorganisms. Core 1 on the worksheet asks them to put the steps in order."},
+  {"type": "learn", "title": "Pesticide problems", "image": "bee_rapeseed", "caption": "A bee on rapeseed", "vocab": ["persistent", "bioaccumulation"],
+   "text": ["Insecticides can kill helpful insects: the ones that pollinate crops and the ones that eat pests.", "Some insecticides are persistent: they do not break down in the environment.", "Predators eat many animals that each contain a little insecticide, so the top predator gets a large amount. This is bioaccumulation.", "In 2014 the EU banned some neonicotinoid insecticides on flowering crops because they made nectar and pollen poisonous to bees.", "Selective herbicides also kill the broad-leaved plants in hedges."],
+   "key_idea": "A persistent pesticide does not stay where it was sprayed: it travels up the food chain.",
+   "notes": "Why rapeseed and not wheat? Rapeseed flowers and is visited by bees; wheat is wind-pollinated, so bees do not collect from it. Bioaccumulation is why top predators such as birds of prey were harmed by DDT in the 1950s and 1960s."},
+  {"type": "diagram", "title": "A food web from a hedge next to a wheat field", "image": "diagram:food_web_hedge", "vocab": ["food web"],
+   "text": "What happens to each population if the farmer sprays the wheat with a general insecticide? With a selective herbicide?",
+   "key_idea": "Remove one link in a food web and the effects spread to organisms that were never sprayed.",
+   "notes": "General insecticide: aphids and caterpillars fall; sparrows have less food and fall; sparrowhawks fall; dormice may rise a little (less competition for hazel) but sparrowhawks hunt them more. Selective herbicide: broad-leaved hedge plants and the hazel suffer, so caterpillars and dormice fall, and so on up the web. Core 2 on the worksheet."},
+  {"type": "learn", "title": "Clearing land and single varieties", "image": "deforestation", "caption": "Forest cleared for farmland", "vocab": ["habitat", "biodiversity"],
+   "text": ["Clearing land for crops or machines destroys habitats, so populations of wild organisms fall.", "Farmers often plant one variety over a huge area. All the plants are identical, so if one gets a disease, all of them do.", "In 19th century Ireland most people lived on one potato variety. Between 1845 and 1852 a disease wiped it out and over a million people starved.", "A single variety reduces biodiversity: the food webs are smaller and the area takes longer to recover after a disaster."],
+   "key_idea": "Low biodiversity is fragile. One disease, one pest or one drought can take everything.",
+   "notes": "Link back to Lesson 5: selective breeding makes varieties uniform, which is exactly what makes them vulnerable. A huge area of wheat for many years also uses up the same mineral salts, which is the workbook's rapeseed question."},
+  {"type": "diagram", "title": "The carbon cycle", "image": "diagram:carbon_cycle", "vocab": ["carbon cycle", "combustion", "global warming"],
+   "text": "Photosynthesis removes carbon dioxide from the air. Respiration, decomposers and combustion put it back.",
+   "key_idea": "Burning fossil fuels and cutting down forests have raised carbon dioxide in the air for 200 years, which is thought to cause global warming.",
+   "notes": "Trace one carbon atom: in the air, into a wheat plant by photosynthesis, into a person who eats bread, back to the air by respiration. Carbon is stored in trees for a long time; in crops it returns quickly when they are eaten or burnt. Cutting forests removes a store and stops photosynthesis; burning them adds carbon dioxide at once."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Which organisms use up the oxygen in a lake after an algal bloom?", "What does persistent mean for a pesticide?", "Which process removes carbon dioxide from the air?", "Name two processes that release carbon dioxide into the air.", "Why is planting one variety over a huge area risky?"],
+   "notes": "Answers: decomposers (bacteria); it does not break down in the environment; photosynthesis; respiration, combustion (also decomposition); if one plant gets a disease, all the identical plants do."},
+  {"type": "steps", "title": "Your turn", "minutes": 14,
+   "steps": ["Core: number the eutrophication steps, predict the changes in the hedge food web, match the carbon cycle processes.", "Stretch: bacteria and fish; nitrates and algae; deforestation and carbon dioxide.", "Challenge: the Irish potato famine; bioaccumulation and the neonicotinoid ban.", "Finished? The My thinking question is about cement."],
+   "footer": "Every explanation should be a chain: this happens, so this happens, so this happens.",
+   "notes": "Model a chain answer on the board for the fish: fertiliser in the water, so algae grow fast, so light is blocked, so plants die, so decomposers use oxygen, so fish die. Insist on 'so' or 'because' links in every Stretch answer."},
+  {"type": "think", "title": "Should farmers stop using fertilisers?", "prompt": "Fertilisers raise yields and feed people, but they can wash into rivers. Should farmers stop using them? Give one point for each side, then decide.",
+   "frames": ["One reason to keep using fertilisers is ___.", "One problem is ___, because ___.", "A sustainable solution could be ___."],
+   "notes": "Expected: for: higher yields, more food, cheaper food; against: eutrophication, cost; sustainable solutions: use less and only when the crop needs it, keep a strip of unploughed land by rivers, use manure carefully, grow clover to add nitrates. This is the idea of sustainable development: meeting our needs without destroying habitats."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["What does eutrophication mean?", "Name two processes that release carbon dioxide into the air.", "Why is it risky to plant one variety of crop over a very large area?"],
+   "notes": "Answers: a very rich supply of nutrients in water, causing fast growth of algae and plants (leading to fish deaths); respiration, combustion, decomposition (any two); all the plants are identical, so one disease can kill the whole crop. Collect the strips."},
+  {"type": "summary", "title": "What we learned", "next": "Bias and validity: can we trust a graph, and is organic farming better?",
+   "points": ["Fertiliser washed into water causes eutrophication: algae grow, plants die, decomposers use the oxygen, fish die.", "Persistent pesticides build up along food chains (bioaccumulation) and can kill pollinators and pest predators.", "Clearing land and growing single varieties reduce biodiversity and make food webs fragile.", "Photosynthesis removes carbon dioxide; respiration, decomposers and combustion return it. Fossil fuels and deforestation are raising it.", "Sustainable development means producing what we need without destroying habitats."],
+   "notes": "Homework: Workbook pages 23 and 24. The carbon cycle on page 24 uses the same diagram letters as the book."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Number the statements 1 to 6 to show how using fertiliser can lead to the death of fish. The first and last have been done for you.",
+    "table": {"headers": ["Order", "Statement"], "widths": [1400, 8400], "rows": [["1", "Nutrients from the fertiliser dissolve in soil water."], ["", "Decomposers break down the dead plants, using oxygen from the water."], ["", "Extra nutrients in the water cause rapid growth of algae and water plants."], ["", "Soil water with extra nutrients leaks into a nearby stream or river."], ["", "Algae and water plants at the surface block the light, so deeper plants die."], ["6", "Fish die because there is too little oxygen in the water."]]}},
+   {"q": "The diagram shows a food web from a hedge next to a wheat field.", "image": "diagram:food_web_hedge", "image_w": 400, "image_h": 200,
+    "parts": [
+     {"text": "Name one producer in this food web.", "lines": 1},
+     {"text": "Name two animals that eat caterpillars.", "lines": 1},
+     {"text": "The farmer sprays the wheat with a general insecticide, which kills all insects. Tick one box in each row to show what happens to each population.", "table": {"headers": ["Population", "Increases", "Decreases", "No change"], "widths": [3400, 2100, 2100, 2200], "rows": [["aphids", "", "", ""], ["caterpillars", "", "", ""], ["sparrows", "", "", ""], ["sparrowhawks", "", "", ""]]}}
+    ]},
+   {"q": "Match each process in the carbon cycle to what it does. Draw a line.", "match": {"left": ["photosynthesis", "respiration", "combustion", "decomposers feeding", "animals feeding"], "right": ["releases carbon dioxide when fuels or wood burn", "passes carbon compounds from plants to animals", "removes carbon dioxide from the air", "releases carbon dioxide from dead plants and animals", "releases carbon dioxide from living cells, day and night"]}}
+  ],
+  "stretch": [
+   {"q": "Explain why an increase in bacteria in a lake can reduce the population of fish.", "lines": 3},
+   {"q": "Explain why extra nitrates in a lake make algae and water plants grow quickly. (Hint: think about what plants use nitrates for.)", "lines": 3},
+   {"q": "Explain two different ways in which cutting down a forest can increase the carbon dioxide concentration in the air.", "lines": 4}
+  ],
+  "challenge": [
+   {"q": "In 19th century Ireland, most people survived by growing and eating one variety of potato, called the lumper. Between 1845 and 1852 more than a million people starved. Suggest why, using the words variety, disease and biodiversity.", "lines": 4},
+   {"q": "A persistent insecticide was sprayed on crops next to a river for many years. Years later, fish-eating birds at the top of the river food chain were found to contain large amounts of the insecticide.",
+    "parts": [{"text": "Explain how the insecticide reached the birds and why they contained so much of it.", "lines": 3}, {"text": "In 2014 the EU banned some neonicotinoid insecticides on rapeseed, which flowers, but not on wheat. Suggest why.", "lines": 2}]}
+  ],
+  "my_thinking": "Limestone is mainly calcium carbonate. To make cement, limestone is heated to make calcium oxide and carbon dioxide gas, using fuel for the heating. Explain two ways cement production adds carbon dioxide to the air.",
+  "word_bank": ["eutrophication", "algae", "decomposer", "oxygen", "persistent", "bioaccumulation", "food web", "biodiversity", "habitat", "photosynthesis", "respiration", "combustion"],
+  "exit": ["What does eutrophication mean?", "Name two processes that release carbon dioxide into the air.", "Why is it risky to plant one variety of crop over a very large area?"],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "1 Nutrients dissolve in soil water; 2 Soil water with extra nutrients leaks into a stream or river; 3 Extra nutrients cause rapid growth of algae and water plants; 4 Algae and plants at the surface block the light, so deeper plants die; 5 Decomposers break down the dead plants, using oxygen; 6 Fish die because there is too little oxygen.",
+   "a) wheat or hazel tree. b) sparrows and dormice (accept sparrows only if the student reads dormice as eating hazel). c) aphids: decreases; caterpillars: decreases; sparrows: decreases (less food); sparrowhawks: decreases (fewer sparrows). Accept 'no change at first' for sparrowhawks with a reason.",
+   "photosynthesis: removes carbon dioxide from the air; respiration: releases carbon dioxide from living cells; combustion: releases carbon dioxide when fuels or wood burn; decomposers feeding: releases carbon dioxide from dead plants and animals; animals feeding: passes carbon compounds from plants to animals."
+  ],
+  "stretch": [
+   "Secure answer: the bacteria are decomposers that break down dead plants and algae. Decomposers respire, which uses up the oxygen dissolved in the water. Fish need this oxygen for their own respiration, so with less oxygen the fish cannot release enough energy and they die.",
+   "Secure answer: nitrates supply nitrogen for making amino acids and proteins, which plants and algae need to build new cells and enzymes. Normally the amount of nitrate in a lake limits growth; with extra nitrates this limiting factor is removed, so the algae and water plants can grow and reproduce much faster.",
+   "Secure answer: 1) Trees remove carbon dioxide from the air by photosynthesis; fewer trees means less carbon dioxide is removed, so it builds up. 2) When the cut trees are burnt, combustion releases the carbon stored in the wood as carbon dioxide; if they are left to rot, decomposers release it by respiration."
+  ],
+  "challenge": [
+   "Secure answer: all the potato plants were the same variety, so they were genetically identical. When a disease (potato blight) arrived, every plant was equally unable to resist it, so the whole crop died in field after field. With such low biodiversity (one variety, one crop) there was nothing else to eat, and the harvest could not recover quickly, so people starved.",
+   "a) The insecticide washed into the river and was taken in by tiny organisms and plants; small fish ate many of them, bigger fish ate many small fish, and the birds ate many big fish. Because the insecticide is persistent it is not broken down, so at each step the amount in each animal is larger: it bioaccumulates, and the top predator ends up with the most. b) Rapeseed flowers and is visited by bees, so the insecticide in its nectar and pollen poisons the bees; wheat is pollinated by the wind, so bees do not feed on it."
+  ],
+  "exit": [
+   "A very rich supply of nutrients (e.g. from fertiliser) in water, which causes rapid growth of algae and plants and ends with fish dying from a lack of oxygen.",
+   "Any two of: respiration, combustion (burning), decomposition by decomposers.",
+   "All the plants are identical, so if one gets a disease they all do and the whole crop can be wiped out."
+  ],
+  "my_thinking": "1) The chemical reaction itself releases carbon dioxide: calcium carbonate turns into calcium oxide and carbon dioxide. 2) Heating the limestone needs a lot of energy, usually from burning fossil fuels, and combustion releases more carbon dioxide."
+ }
+}

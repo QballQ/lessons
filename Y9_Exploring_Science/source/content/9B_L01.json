@@ -1,0 +1,158 @@
+{
+ "id": "9B_L01",
+ "unit": "9B",
+ "unit_title": "Plant growth",
+ "lesson": 1,
+ "n_lessons": 7,
+ "title": "Reactions in plants",
+ "title_cn": "植物中的化学反应",
+ "slug": "Reactions_in_plants",
+ "book": {"pages": "21 to 23", "spread": "9Ba On a farm; 9Ba Reactions in plants"},
+ "workbook": {"pages": "15 to 16"},
+ "oak": [
+  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Plant nutrition", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/plant-nutrition"},
+  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Photosynthesis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/photosynthesis"}
+ ],
+ "big_idea": "Plants make their own food by photosynthesis and release the energy stored in it by aerobic respiration; a farmer's harvest depends on both.",
+ "goals": [
+  "I can write the word and symbol equations for photosynthesis and aerobic respiration, and say where and when each happens in a plant.",
+  "I can explain how limiting factors slow photosynthesis and why roots need oxygen."
+ ],
+ "keywords": [
+  {"en": "photosynthesis", "cn": "光合作用", "meaning": "the process plants use to make glucose from carbon dioxide and water, using light"},
+  {"en": "aerobic respiration", "cn": "有氧呼吸", "meaning": "the reaction in every living cell that releases energy from glucose using oxygen"},
+  {"en": "chlorophyll", "cn": "叶绿素", "meaning": "the green substance that captures energy from light"},
+  {"en": "chloroplast", "cn": "叶绿体", "meaning": "the part of a plant cell where photosynthesis happens"},
+  {"en": "glucose", "cn": "葡萄糖", "meaning": "the sugar made in photosynthesis"},
+  {"en": "reactant", "cn": "反应物", "meaning": "a substance used up in a chemical reaction"},
+  {"en": "product", "cn": "产物", "meaning": "a substance made in a chemical reaction"},
+  {"en": "limiting factor", "cn": "限制因素", "meaning": "a variable that slows down the rate of photosynthesis"},
+  {"en": "phloem", "cn": "韧皮部", "meaning": "tubes made of living cells that carry sugar solution around a plant"},
+  {"en": "yield", "cn": "产量", "meaning": "the amount of useful product a farmer gets from a crop"}
+ ],
+ "misconceptions": [
+  "Plants take in food from the soil. Water and mineral salts are not food: plants are producers that make their own food (glucose) by photosynthesis.",
+  "Light is a reactant that is turned into food. Light supplies the energy; the substances that react are carbon dioxide and water.",
+  "Plants photosynthesise instead of respiring. Every living plant cell respires all the time; photosynthesis only happens in the light in cells with chloroplasts."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)", "A pot plant and a potted plant kept in a dark cupboard for a week, to compare (optional demonstration)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows the harvest photo and the three questions. Takes answers.", "students": "Answer in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Van Helmont's willow: where did 74 kg come from? Collects ideas without confirming.", "students": "Pair talk, vote: soil, water, air, light.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches the photosynthesis equation, chlorophyll and limiting factors, the respiration equation, the pondweed gas graph and transport in the phloem. Quick check.", "students": "Copy both word equations; answer the quick check.", "resource": "Slides 5 to 10"},
+  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Checks equations and the van Helmont calculation.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 11, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Flooded field: why may the wheat die? Takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook pages 15 to 16.", "students": "Complete the exit ticket alone.", "resource": "Slides 13 to 14, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Complete both word equations; sort statements about photosynthesis and respiration; match key words; calculate the mass changes in van Helmont's experiment.",
+  "stretch": "Read the pondweed gas graph; explain three limiting factors; explain why flooding harms crops.",
+  "challenge": "Draw a flow chart for energy from the Sun to a plant; evaluate the claim that the willow's extra mass came from water."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How does a wheat plant turn air, water and light into a harvest?", "image": "wheat_harvest",
+   "notes": "Welcome to 9B, Plant growth. We start on a farm: a farmer's yield depends on two chemical reactions inside every plant. Today we meet both of them."},
+  {"type": "donow", "title": "Do Now: on a farm", "minutes": 4, "image": "wheat_harvest", "caption": "Harvesting wheat",
+   "prompt": ["Farmers want as much useful product (yield) from their crops as possible.", "1. What process do wheat plants use to make their own food?", "2. Name the gas that plants take in for this process.", "3. Suggest the effect of a very cloudy year on the wheat harvest."],
+   "notes": "Four minutes in books. Answers: photosynthesis; carbon dioxide; less light means less photosynthesis, so less glucose, less growth and a smaller harvest. This recaps Year 8 and tells you who remembers the word equation."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet; students with the Chinese key words sheet have the same words with Chinese beside them."},
+  {"type": "hook", "title": "Where did the tree come from?", "image": "diagram:van_helmont", "caption": "Van Helmont's experiment, 1640s",
+   "question": "Aristotle thought roots sucked up soil for plants to eat. Van Helmont grew a willow for five years, adding only rainwater. The soil lost 0.06 kg. The tree gained over 74 kg. Where did the extra mass come from?",
+   "text": ["Vote with a partner: soil, water, air or light?"],
+   "notes": "Do not confirm yet. Most of the mass came from carbon dioxide in the air (carbon atoms in glucose, starch and cellulose) plus water. The experiment disproves Aristotle but van Helmont himself wrongly concluded it was all water. Students evaluate that claim in Challenge 2."},
+  {"type": "diagram", "title": "Photosynthesis", "image": "diagram:photosynthesis_eq", "vocab": ["photosynthesis", "reactant", "product", "glucose"],
+   "text": "Plants make their own food: glucose. The reactants are carbon dioxide and water; the products are glucose and oxygen.",
+   "key_idea": "Light supplies the energy and chlorophyll captures it, but light is not a substance, so it is not a reactant.",
+   "notes": "Students copy the word equation and the symbol equation. Say it aloud: carbon dioxide plus water makes glucose plus oxygen. Point out 6CO2 and 6H2O on the left, C6H12O6 and 6O2 on the right: the atoms are the same on both sides."},
+  {"type": "learn", "title": "Light, chlorophyll and limiting factors", "image": "elodea_bubbles", "caption": "Pondweed gives off oxygen bubbles in the light", "vocab": ["chlorophyll", "chloroplast", "limiting factor"],
+   "text": ["Chlorophyll, inside chloroplasts, captures the energy transferred by light.", "That energy is stored in the glucose.", "Less light, or too little carbon dioxide or water, slows photosynthesis.", "A variable that slows the rate is a limiting factor.", "More oxygen bubbles from pondweed means faster photosynthesis."],
+   "key_idea": "Rate of photosynthesis is limited by light, carbon dioxide, water and temperature.",
+   "notes": "Ask: a farmer in a greenhouse adds lamps and pumps in carbon dioxide. Why? Answer: to remove limiting factors so the crop grows faster. Counting bubbles from pondweed is the standard way to measure the rate; the book's question 6 asks for three limiting factors."},
+  {"type": "diagram", "title": "Aerobic respiration", "image": "diagram:respiration_eq", "vocab": ["aerobic respiration"],
+   "text": "Every living cell needs energy. Aerobic respiration releases the energy stored in glucose, using oxygen.",
+   "key_idea": "Photosynthesis only in the light, in cells with chloroplasts. Respiration in every cell, all day and all night.",
+   "notes": "Copy the word equation. Respiration is the reverse of photosynthesis. The energy released is transferred to ATP molecules, which store it until the cell needs it. Ask: does a root cell photosynthesise? No, no chloroplasts, no light. Does it respire? Yes."},
+  {"type": "diagram", "title": "Gases around pondweed over 18 hours", "image": "diagram:pond_gas_graph",
+   "text": "Which line is oxygen, X or Y? Why does X rise during the day and fall after dark?",
+   "key_idea": "In daylight a plant makes more oxygen than it uses, so oxygen is given off. At night it only respires, so oxygen falls and carbon dioxide rises.",
+   "notes": "X is oxygen: it rises while the plant photosynthesises in the light and falls at night when only respiration happens. Y is carbon dioxide: used up in the day, released at night. The crossing point is when photosynthesis and respiration are equal."},
+  {"type": "learn", "title": "Moving sugar, and roots that breathe", "vocab": ["phloem", "yield"],
+   "text": ["Glucose is turned into sugars that dissolve in water.", "Phloem vessels, chains of living cells, carry the sugar solution to every part of the plant.", "Root cells use this sugar for respiration. They get oxygen from air spaces in the soil.", "Waterlogged soil has no air, so roots cannot respire and the plant can die."],
+   "key_idea": "Roots do not photosynthesise, but they respire, so they need sugar from the phloem and oxygen from the soil.",
+   "notes": "Link to yield: a flooded field means dead roots and a lost harvest. Next lesson looks at how roots, stems and leaves are adapted. Workbook page 16 has the variegated leaf question: photosynthesis only in the green parts, respiration in all cells."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Name the two reactants of photosynthesis.", "Where in a plant cell does photosynthesis happen?", "Does respiration happen in the light, in the dark, or both?", "A plant in a dim room grows slowly. Name the limiting factor.", "Which tissue carries sugar solution around a plant?"],
+   "notes": "Answers: carbon dioxide and water; in the chloroplasts; both (all the time); light; phloem. Ask a student to say the respiration equation from memory."},
+  {"type": "steps", "title": "Your turn", "minutes": 14,
+   "steps": ["Core: complete both word equations, sort the statements, match the key words, then do the van Helmont calculations.", "Stretch: read the pondweed graph, explain the limiting factors and the flooded roots.", "Challenge: the energy flow chart and the water claim.", "Finished? Write a question for the class in the My thinking box."],
+   "footer": "Use the key words box. Check your equations with a partner before Stretch.",
+   "notes": "Circulate and check the equations first: a wrong equation now will be copied into every later lesson. Core 4: soil change 0.06 kg, tree change 74.47 kg."},
+  {"type": "think", "title": "The flooded field", "prompt": "A farmer's wheat field floods for two weeks in spring. Explain why the wheat plants may die. Use the words roots, oxygen and respiration.",
+   "frames": ["Roots need ___ for ___.", "When the soil is flooded, ___ because ___.", "Without energy from respiration, the root cells ___."],
+   "notes": "Expected: roots need oxygen for aerobic respiration to release energy; flooded soil has no air spaces so no oxygen reaches the roots; root cells cannot release energy, so they stop working and die, and the plant dies. Praise students who add that the leaves still photosynthesise but the sugar cannot be used in the roots."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Write the word equation for photosynthesis.", "Where in a plant cell does photosynthesis happen?", "Why do plants in a field only photosynthesise during the day?"],
+   "notes": "Answers: carbon dioxide + water makes glucose + oxygen; in the chloroplasts; photosynthesis needs light, which is only available in the day. Collect the strips."},
+  {"type": "summary", "title": "What we learned", "next": "How roots, stems and leaves are adapted to get water, mineral salts, light and carbon dioxide.",
+   "points": ["Photosynthesis: carbon dioxide + water makes glucose + oxygen, using light energy captured by chlorophyll.", "Aerobic respiration: glucose + oxygen makes carbon dioxide + water, releasing energy, in every living cell all the time.", "A limiting factor (light, carbon dioxide, water, temperature) slows the rate of photosynthesis.", "Phloem carries sugar solution to the roots, which also need oxygen from the soil."],
+   "notes": "Homework: Workbook pages 15 and 16. Remind students that the word equations will be used in every lesson of this unit."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Complete the word equations. Use the word bank.",
+    "gap_lines": ["Photosynthesis:   ____________ + water   makes   ____________ + oxygen", "Aerobic respiration:   glucose + ____________   makes   carbon dioxide + ____________   (+ energy released)"]},
+   {"q": "Tick one box in each row to show whether the statement is about photosynthesis or aerobic respiration.", "table": {"headers": ["Statement", "Photosynthesis", "Respiration"], "widths": [5600, 2100, 2100], "rows": [["happens only when there is light", "", ""], ["happens all the time, day and night", "", ""], ["takes in carbon dioxide", "", ""], ["releases energy from glucose", "", ""], ["happens in chloroplasts", "", ""], ["happens in every living cell", "", ""]]}},
+   {"q": "Match each key word to its meaning. Draw a line.", "match": {"left": ["chlorophyll", "chloroplast", "limiting factor", "phloem", "glucose"], "right": ["tubes of living cells that carry sugar solution around the plant", "the sugar made in photosynthesis", "the green substance that captures energy from light", "a variable that slows down the rate of photosynthesis", "the part of a plant cell where photosynthesis happens"]}},
+   {"q": "Van Helmont grew a willow tree in a pot of dry soil for five years. He added only rainwater. The table shows his results.",
+    "table": {"headers": ["", "At the start", "After five years"], "widths": [3400, 3200, 3200], "rows": [["mass of dry soil (kg)", "90.72", "90.66"], ["mass of tree (kg)", "2.27", "76.74"]]},
+    "parts": [
+     {"text": "Calculate the change in the mass of the soil.", "lines": 1},
+     {"text": "Calculate the change in the mass of the tree.", "lines": 1},
+     {"text": "Aristotle thought that roots sucked up soil for the plant to eat. Explain how these results show that Aristotle was wrong.", "lines": 2}
+    ]}
+  ],
+  "stretch": [
+   {"q": "The graph shows the concentrations of two gases dissolved in the water around pondweed over 18 hours.", "image": "diagram:pond_gas_graph", "image_w": 440, "image_h": 220,
+    "parts": [
+     {"text": "Which line shows oxygen, X or Y? Give a reason.", "lines": 2},
+     {"text": "Explain why line X falls after it gets dark.", "lines": 2}
+    ]},
+   {"q": "A student counts the oxygen bubbles from pondweed. Explain how three different limiting factors could stop the number of bubbles increasing.", "lines": 3},
+   {"q": "Root cells cannot photosynthesise. Explain where root cells get the glucose and the oxygen they need, and why flooding a field can kill crops.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "Draw a flow chart to show how energy from the Sun becomes stored in a plant. Use the words light, chlorophyll, chloroplast and glucose.", "box": 1400},
+   {"q": "After his experiment, van Helmont concluded that all the extra mass of the tree came from the water he added. Evaluate this conclusion. Use the word equation for photosynthesis in your answer.", "lines": 3}
+  ],
+  "my_thinking": "Plants give out oxygen. Do they also take in oxygen? If so, when, and why?",
+  "word_bank": ["carbon dioxide", "glucose", "oxygen", "water", "photosynthesis", "aerobic respiration", "chlorophyll", "chloroplast", "limiting factor", "phloem"],
+  "exit": ["Write the word equation for photosynthesis.", "Where in a plant cell does photosynthesis happen?", "Why do plants in a field only photosynthesise during the day?"],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "Photosynthesis: carbon dioxide + water makes glucose + oxygen. Aerobic respiration: glucose + oxygen makes carbon dioxide + water (+ energy released).",
+   "Photosynthesis: only in light; takes in carbon dioxide; happens in chloroplasts. Respiration: all the time; releases energy from glucose; in every living cell.",
+   "chlorophyll: the green substance that captures energy from light; chloroplast: the part of a plant cell where photosynthesis happens; limiting factor: a variable that slows the rate; phloem: tubes of living cells carrying sugar solution; glucose: the sugar made in photosynthesis.",
+   "a) 90.72 - 90.66 = 0.06 kg lost. b) 76.74 - 2.27 = 74.47 kg gained. c) The tree gained over 74 kg but the soil lost only 0.06 kg, so the extra mass of the tree could not have come from the soil; the plant did not 'eat' soil."
+  ],
+  "stretch": [
+   "a) X is oxygen: it rises during daylight because the plant makes oxygen by photosynthesis faster than it uses it. b) After dark there is no light, so photosynthesis stops; the plant keeps respiring, which uses up oxygen, so the concentration falls.",
+   "Secure answer: light: if the lamp is dim, chlorophyll captures less energy, so the rate cannot rise. Carbon dioxide: if the water has little dissolved carbon dioxide, there is not enough reactant. Temperature: if the water is cold the reactions are slow. (Also accept water shortage.) Each factor can be the one that limits the rate, so adding more of the others does not help.",
+   "Secure answer: glucose is made in the leaves and carried to the roots as sugar solution in the phloem. Oxygen comes from air spaces in the soil. When a field floods, water fills the air spaces, so the roots get no oxygen, cannot respire to release energy, and die; without roots the crop dies."
+  ],
+  "challenge": [
+   "Light from the Sun -> energy captured by chlorophyll in chloroplasts -> energy used to make glucose from carbon dioxide and water (photosynthesis) -> energy stored in glucose (and in starch made from glucose).",
+   "Secure answer: van Helmont was right that the mass did not come from the soil, but wrong that it was all water. The word equation shows that glucose is made from carbon dioxide and water, so much of the carbon in the tree came from carbon dioxide in the air. He could not have known this because carbon dioxide had not been discovered. A valid conclusion would say the mass came from water and something else that was not the soil."
+  ],
+  "exit": [
+   "carbon dioxide + water makes glucose + oxygen",
+   "In the chloroplasts.",
+   "Photosynthesis needs light (energy captured by chlorophyll), and in a field light is only available in the day."
+  ],
+  "my_thinking": "Yes: plants respire all the time and take in oxygen for aerobic respiration. At night, when there is no photosynthesis, a plant takes in more oxygen than it gives out."
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "id": "9C_L01",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 1,
+ "n_lessons": 7,
+ "title": "Threat from disease",
+ "title_cn": "疾病的威胁",
+ "slug": "Threat_from_disease",
+ "book": {"pages": "37 to 38", "spread": "9Ca Threat from disease; 9Ca Diseases (types of disease)"},
+ "workbook": {"pages": "27 to 28"},
+ "oak": [
+  {"unit": "Disease and drugs, Year 9", "lesson": "Differences between infectious and non-infectious disease", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/differences-between-infectious-and-non-infectious-disease"},
+  {"unit": "Disease and drugs, Year 9", "lesson": "Lifestyle diseases", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/lifestyle-diseases"}
+ ],
+ "big_idea": "People live much longer than they did 180 years ago because we understand what causes disease: pathogens, missing nutrients, faulty genes, lifestyle and the body's own immune system.",
+ "goals": [
+  "I can explain how hygiene, diet, immunisation and medicines have helped people live longer.",
+  "I can give examples of the five types of disease and say which ones can be passed from person to person."
+ ],
+ "keywords": [
+  {"en": "disease", "cn": "疾病", "meaning": "something that makes you ill"},
+  {"en": "pathogen", "cn": "病原体", "meaning": "a microorganism that causes disease"},
+  {"en": "infectious disease", "cn": "传染病", "meaning": "a disease caused by a pathogen that can pass from person to person (communicable)"},
+  {"en": "non-communicable", "cn": "非传染性的", "meaning": "cannot be passed from person to person"},
+  {"en": "deficiency disease", "cn": "营养缺乏病", "meaning": "a disease caused by a lack of a nutrient in the diet"},
+  {"en": "genetic disease", "cn": "遗传病", "meaning": "a disease caused by a fault in the DNA"},
+  {"en": "lifestyle disease", "cn": "生活方式病", "meaning": "a disease made more likely by the way we live, e.g. smoking"},
+  {"en": "autoimmune disease", "cn": "自身免疫病", "meaning": "a disease in which the body's own white blood cells attack it"},
+  {"en": "symptom", "cn": "症状", "meaning": "an obvious effect of a disease, e.g. a rash"},
+  {"en": "hygiene", "cn": "卫生", "meaning": "keeping things clean so pathogens do not spread"},
+  {"en": "immunisation", "cn": "免疫接种", "meaning": "giving a vaccine to protect against a disease"}
+ ],
+ "misconceptions": [
+  "Non-infectious diseases such as heart disease can be 'caught' from someone. Only diseases caused by pathogens can spread from person to person.",
+  "'Germs' are one kind of thing. Pathogens come from several kingdoms: bacteria, fungi, protoctists, and viruses (which are not living organisms).",
+  "A lifestyle factor means the person will certainly get the disease. A risk factor raises the chance; it does not make the disease certain. Treat these examples with care in class."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the quick check (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows the 1840s and today median ages of death. Takes reasons for the change.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Tells the Broad Street cholera story (1854). Asks how water could make people ill.", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches why we live longer, the five types of disease, pathogens and symptoms. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 8"},
+  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Circulates: checks the disease type match and the communicable table.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 9, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Asks why most deaths in richer countries are now from non-communicable diseases.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 10"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (immunity).", "students": "Complete the exit ticket alone.", "resource": "Slide 11, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Match each type of disease to an example; sort diseases into communicable and non-communicable; complete a gap fill on hygiene, immunisation and symptoms; identify anaemia as a deficiency disease.",
+  "stretch": "Define pathogen, hygiene and immunisation; explain why nerve damage from polio stops muscles working; explain what an estimate is.",
+  "challenge": "Explain why deaths in richer countries are now mostly from non-communicable diseases; explain how medicines enter cells by diffusion."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "What makes us ill, and why do we live so much longer than people did 180 years ago?", "image": "broad_street_pump",
+   "notes": "Welcome to 9C, Threat from disease. This unit covers what causes disease, how the body fights it, how we treat it, and the ecology and cell biology that explain outbreaks. Today: the big picture of disease."},
+  {"type": "donow", "title": "Do Now: living longer", "minutes": 4,
+   "prompt": ["In England and Wales in the 1840s, the median age of death was 46. Today it is 83.", "1. Suggest two reasons why people live longer today.", "2. Name one disease caused by a microorganism.", "3. What is a microorganism?"],
+   "notes": "Four minutes, in books. Expected reasons: clean water and sewers, better food, vaccines, medicines such as antibiotics, hospitals. A microorganism is a living thing too small to see without a microscope. Accept flu, cholera, chickenpox, malaria, Covid-19 and so on."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. Students with the Chinese key words sheet have the same words with Chinese beside them."},
+  {"type": "hook", "title": "The Broad Street pump, 1854", "question": "In one London street, hundreds of people died of cholera in a few days. Dr John Snow mapped every death. Almost all the victims drank from one water pump. What did he suspect?", "image": "broad_street_pump", "caption": "A replica of the Broad Street pump, London",
+   "text": ["Talk to a partner: how could water make people ill?"],
+   "notes": "Snow suspected the water carried the disease. The pump's well was next to a leaking cesspit, so sewage with cholera bacteria got into the drinking water. The handle was removed and the outbreak stopped. This is hygiene: keeping drinking water separate from sewage."},
+  {"type": "learn", "title": "Why do we live longer?", "image": "polio_vaccine", "caption": "Oral polio vaccine being given to a child", "vocab": ["hygiene", "pathogen", "immunisation"],
+   "text": ["Hygiene keeps drinking water separate from sewage, which contains pathogens (cholera, typhoid).", "Better diet: healthier bodies fight disease better.", "Immunisation protects against particular diseases. Polio paralysed or killed about half a million people a year in the 1940s; today there are a few hundred cases.", "Medicines, including antibiotics for bacterial diseases."],
+   "key_idea": "Hygiene, diet, immunisation and medicines have cut deaths from infectious diseases.",
+   "notes": "Polio is caused by a virus that attacks the nervous system, so signals cannot reach muscles and the person cannot move. An international immunisation programme has almost wiped it out. Ask: which of these four changes could a single family do for itself, and which need a whole town?"},
+  {"type": "diagram", "title": "Five types of disease", "image": "diagram:disease_types", "text": "A disease is something that makes you ill. Diseases have many different causes.",
+   "key_idea": "Only infectious diseases can be passed from person to person. The other four types are non-communicable.",
+   "notes": "Go through each row: infectious (a pathogen gets in), deficiency (a nutrient is missing), genetic (a fault in the DNA, present from birth), lifestyle (smoking, poor diet, too little exercise raise the risk), autoimmune (the immune system attacks the body, e.g. type 1 diabetes). Ask students to name one more example for the first two rows."},
+  {"type": "learn", "title": "Pathogens and symptoms", "image": "chickenpox", "caption": "The rash of chickenpox, caused by a virus", "vocab": ["pathogen", "symptom", "infectious disease"],
+   "text": ["Pathogens are microorganisms that get into the body and change how it works.", "They include bacteria, fungi, protoctists and viruses.", "The obvious effects of a disease are its symptoms: a rash, a raised temperature, a cough.", "In richer countries, most deaths are now from changes inside the body, not from infections."],
+   "key_idea": "A pathogen is a microorganism that causes disease.",
+   "notes": "Bacteria, fungi and protoctists are three kingdoms of living organisms. Viruses are not classed as living: they cannot do anything on their own and must get inside a cell to copy themselves. Chickenpox is a virus; athlete's foot is a fungus; malaria is a protoctist carried by mosquitoes; cholera is a bacterium."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Scurvy is caused by too little vitamin C. Which type of disease is it?", "Flu is caused by a virus. Which type of disease is it?", "Can you catch type 1 diabetes from a friend? Yes or no.", "Name one kingdom of organisms that includes pathogens.", "Give one symptom of chickenpox."],
+   "notes": "Answers: deficiency; infectious (communicable); no, it is autoimmune and non-communicable; bacteria, fungi or protoctists (viruses are not a kingdom of living things); a rash or spots, itching, a raised temperature."},
+  {"type": "steps", "title": "Your turn: sorting diseases", "minutes": 14,
+   "steps": ["Core: match each type of disease to its example, then tick communicable or non-communicable.", "Core: fill the gaps using the word bank; decide what type of disease anaemia is.", "Stretch: write definitions; explain why polio stops muscles working.", "Challenge: why are most deaths in richer countries now non-communicable? How do medicines get into cells?", "Finished? Answer the My thinking question."],
+   "footer": "Use the key words box. Write the type of disease, not just the name of the disease.",
+   "notes": "The match question has one example for each type. Common error: calling cardiovascular disease infectious because it is common. Circulate and ask students to say the cause of each disease out loud."},
+  {"type": "think", "title": "A changing threat", "prompt": "In richer countries, the main causes of death are now non-communicable diseases such as heart disease and cancer, not infections. Why has this changed over the last 180 years?",
+   "frames": ["Fewer people die from infections because ___.", "More people now die from ___ because they live long enough to ___.", "One thing we could do about lifestyle diseases is ___."],
+   "notes": "Expected: hygiene, vaccines and antibiotics have cut deaths from infectious diseases, so people live longer, and diseases of older age (heart disease, cancer) become the main causes of death; lifestyle factors (smoking, diet, exercise) also matter. Keep the discussion factual and avoid singling out anyone's family habits."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["What is a pathogen?", "Give one example of a non-communicable disease and explain why it is non-communicable.", "Name two types of microorganism that can be pathogens."],
+   "notes": "Answers: a microorganism that causes disease; e.g. scurvy (lack of vitamin C) or sickle cell disease (faulty gene) or type 1 diabetes (immune system attacks the body): none is caused by a pathogen, so it cannot pass from person to person; bacteria, viruses, fungi, protoctists. Collect the strips before students leave."},
+  {"type": "summary", "title": "What we learned", "next": "Immunity and vaccination: how white blood cells destroy pathogens, and why you only get measles once.",
+   "points": ["People live longer because of hygiene, better diet, immunisation and medicines.", "Pathogens are microorganisms (bacteria, viruses, fungi, protoctists) that cause infectious diseases.", "Deficiency, genetic, lifestyle and autoimmune diseases are non-communicable: they cannot be passed on.", "Symptoms are the obvious effects of a disease."],
+   "notes": "Homework: Workbook pages 27 and 28 (9Ca Threat from disease; Diseases). Students with the Chinese key words sheet may answer in either language but should use the English key words."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each type of disease to its example. Draw a line.", "match": {"left": ["deficiency disease", "infectious disease", "lifestyle disease", "genetic disease", "autoimmune disease"], "right": ["type 1 diabetes: white blood cells destroy cells in the pancreas", "flu, caused by the flu virus", "scurvy, caused by a lack of vitamin C in the diet", "lung cancer linked to smoking tobacco", "sickle cell disease, inherited from the parents"]}},
+   {"q": "Tick one box in each row to show whether the disease is communicable (can be passed on) or non-communicable.", "table": {"headers": ["Disease", "Communicable", "Non-communicable"], "widths": [5000, 2400, 2400], "rows": [["cholera (bacterium in dirty water)", "", ""], ["anaemia (too little iron in the diet)", "", ""], ["chickenpox (virus)", "", ""], ["cardiovascular disease (heart and blood vessels)", "", ""], ["malaria (protoctist carried by mosquitoes)", "", ""], ["haemophilia (inherited)", "", ""]]}},
+   {"q": "Complete the sentences using words from the word bank.", "gap_lines": ["Pathogens are ____________ that cause disease.", "Keeping drinking water separate from ____________ is an example of good ____________.", "____________ with a vaccine protects a person against a particular disease.", "The obvious effects of a disease, such as a rash, are its ____________."]},
+   {"q": "Anaemia is a disease caused by food that does not contain enough iron. Tick the type of disease that anaemia is.", "mcq": ["A  deficiency disease", "B  infectious disease", "C  lifestyle disease", "D  genetic disease"]}
+  ],
+  "stretch": [
+   {"q": "Define each word in one sentence.", "parts": [{"text": "pathogen", "lines": 1}, {"text": "hygiene", "lines": 1}, {"text": "immunisation", "lines": 1}]},
+   {"q": "The polio virus damages nerves that carry signals to muscles. Explain why this can stop a person moving their legs.", "lines": 3},
+   {"q": "The text says polio affected 'an estimated half a million people' a year. Explain what 'estimated' means here and why an exact number was not possible.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "In richer countries, most deaths are now caused by non-communicable diseases rather than by infections. Explain why this has changed since the 1840s. Use the words hygiene, immunisation and lifestyle in your answer.", "lines": 5},
+   {"q": "Medicines taken by mouth are absorbed into the blood and then enter cells by diffusion. Explain how diffusion happens, using ideas about particles.", "lines": 4}
+  ],
+  "my_thinking": "Which has saved more lives: clean water or medicines? What information would you need to decide?",
+  "word_bank": ["pathogen", "microorganisms", "sewage", "hygiene", "immunisation", "symptoms", "infectious", "non-communicable", "deficiency", "lifestyle"],
+  "exit": ["What is a pathogen?", "Give one example of a non-communicable disease and explain why it is non-communicable.", "Name two types of microorganism that can be pathogens."],
+  "exit_lines": [1, 2, 1]
+ },
+ "answers": {
+  "core": [
+   "deficiency: scurvy; infectious: flu; lifestyle: lung cancer linked to smoking; genetic: sickle cell disease; autoimmune: type 1 diabetes.",
+   "Communicable: cholera, chickenpox, malaria. Non-communicable: anaemia, cardiovascular disease, haemophilia.",
+   "microorganisms; sewage, hygiene; Immunisation; symptoms.",
+   "A, deficiency disease."
+  ],
+  "stretch": [
+   "Pathogen: a microorganism that causes disease. Hygiene: keeping things clean (e.g. drinking water separate from sewage) so pathogens do not spread. Immunisation: giving a vaccine so the body becomes protected (immune) against a particular disease.",
+   "Secure answer: muscles only contract when they receive electrical impulses along nerves from the brain and spinal cord. If the virus damages those nerves, the impulses cannot reach the leg muscles, so the muscles do not contract and the person cannot move their legs (paralysis).",
+   "Estimated means the number is an approximate calculation, not an exact count. It was not possible to count every case because many countries did not record every patient, some people were never diagnosed, and data from many areas could not be collected."
+  ],
+  "challenge": [
+   "Secure answer: in the 1840s many people died young from infectious diseases such as cholera and typhoid. Hygiene (clean water, sewers), immunisation (vaccines against polio, measles and so on) and antibiotics mean that far fewer people now die from infections. People therefore live much longer, and diseases that develop inside the body over a lifetime, such as heart disease and cancer, become the main causes of death. Lifestyle factors (smoking, unhealthy diet, too little exercise) increase the risk of these non-communicable diseases.",
+   "Secure answer: the medicine dissolves, so its particles are moving randomly all the time. There are more medicine particles in the blood than inside the cells, so there is a concentration gradient. More particles move from the blood (higher concentration) into the cells (lower concentration) than move the other way, so overall the medicine spreads into the cells. Diffusion does not need energy from the cell."
+  ],
+  "exit": [
+   "A microorganism that causes disease.",
+   "e.g. scurvy (caused by a lack of vitamin C), sickle cell disease (a faulty gene) or type 1 diabetes (the immune system attacks the pancreas): it is not caused by a pathogen, so it cannot be passed from person to person.",
+   "Any two of: bacteria, viruses, fungi, protoctists."
+  ],
+  "my_thinking": "Open answer. A good answer names the information needed: numbers of deaths from water-borne diseases before and after clean water supplies, numbers of deaths prevented by antibiotics and vaccines, and the dates when each change happened in different countries. Historians generally credit clean water and sewers with the biggest early fall in deaths."
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "id": "9A_L04",
+ "unit": "9A",
+ "unit_title": "Genetics and evolution",
+ "lesson": 4,
+ "n_lessons": 7,
+ "title": "DNA, chromosomes and genes",
+ "title_cn": "DNA、染色体与基因",
+ "slug": "DNA_chromosomes_and_genes",
+ "book": {"pages": "12 to 13", "spread": "9Ac DNA"},
+ "workbook": {"pages": "8 to 9"},
+ "oak": [
+  {"unit": "Heredity and DNA, Year 7", "lesson": "The discovery of the structure of DNA", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/the-discovery-of-the-structure-of-dna"},
+  {"unit": "Heredity and DNA, Year 7", "lesson": "DNA, chromosomes, genes and the genome", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/heredity-and-dna/lessons/dna-chromosomes-genes-and-the-genome"}
+ ],
+ "big_idea": "Genetic information is stored in genes, which are sections of the long DNA molecules that make up the chromosomes in the nucleus; the structure of DNA was worked out in 1953 by scientists sharing evidence.",
+ "goals": [
+  "I can outline how the structure of DNA was discovered and say what each scientist did.",
+  "I can describe how DNA, chromosomes, genes and genetic information are linked, and give the number of chromosomes in body cells and gametes."
+ ],
+ "keywords": [
+  {"en": "DNA", "cn": "DNA（脱氧核糖核酸）", "meaning": "the very long molecule that stores genetic information"},
+  {"en": "double helix", "cn": "双螺旋", "meaning": "the shape of a DNA molecule: two strands twisted into a spiral"},
+  {"en": "chromosome", "cn": "染色体", "meaning": "a structure in the nucleus made of one long DNA molecule"},
+  {"en": "gene", "cn": "基因", "meaning": "a section of DNA that carries the instructions for one characteristic"},
+  {"en": "genetic information", "cn": "遗传信息", "meaning": "the instructions for inherited characteristics"},
+  {"en": "nucleus", "cn": "细胞核", "meaning": "the part of a cell that contains the chromosomes"},
+  {"en": "sex chromosomes", "cn": "性染色体", "meaning": "the pair of chromosomes that decides sex: XX (female) or XY (male)"},
+  {"en": "gamete", "cn": "配子", "meaning": "a sex cell (sperm or egg) with 23 chromosomes"},
+  {"en": "zygote", "cn": "受精卵", "meaning": "the fertilised egg cell, with 46 chromosomes"},
+  {"en": "X-ray", "cn": "X射线", "meaning": "a type of radiation used to make images, including of molecules"},
+  {"en": "model", "cn": "模型", "meaning": "a simpler representation of something that scientists test against evidence"}
+ ],
+ "misconceptions": [
+  "DNA was discovered by Watson and Crick. DNA itself was discovered in 1869; in 1953 Watson and Crick worked out its structure using X-ray evidence from Franklin and Wilkins.",
+  "Genes and DNA are the same thing. A gene is a section of a DNA molecule; one chromosome holds one DNA molecule with many genes along it.",
+  "Every cell has a different number of chromosomes. All human body cells have 46 (identical copies); only gametes have 23."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Optional: a pipe-cleaner or paper strip for a quick double helix twist demonstration", "Mini whiteboards (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "The Cambridge pub story: what had they discovered?", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points to the key words.", "students": "Listen; find the key words.", "resource": "Slide 3"},
+  {"phase": "Hook", "min": 3, "teacher": "Rosalind Franklin and the X-ray photo: why did seeing it matter?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Tells the discovery story and who did what; teaches cell to nucleus to chromosome to DNA to gene; chromosome numbers and sex chromosomes. Quick check.", "students": "Follow the diagram and the karyotype; answer the quick check.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 13, "teacher": "Sets the worksheet; circulates to check the number questions and the bar chart order.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Should it be called Watson and Crick's discovery? Takes views with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 12"},
+  {"phase": "Summary", "min": 2, "teacher": "Recaps; previews genetic counselling (Lesson 5).", "students": "Tick the goals they met.", "resource": "Slide 13"}
+ ],
+ "tiers": {
+  "core": "Match each scientist to what they did; write chromosome and gene numbers; order cell, nucleus, chromosome and gene by size; read a karyotype.",
+  "stretch": "Plot chromosome numbers for five animals in a logical order; explain why the numbers are even; judge a conclusion about birds and mammals; explain two copies of each gene.",
+  "challenge": "Draw a diagram linking DNA, chromosomes, genes and genetic information; explain how scientists share data and why publishing matters."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How is genetic information stored?", "image": "dna_helix",
+   "notes": "Today the students meet the molecule behind inherited variation. The story of 1953 shows how scientists share evidence and test models; the second half gives the cell to gene hierarchy they need for the rest of the unit."},
+  {"type": "donow", "title": "Do Now: the secret of life", "minutes": 4,
+   "prompt": ["28 February 1953, Cambridge. Two men interrupt people eating lunch: 'We have discovered the secret of life!'", "1. What do you think they had discovered?", "2. Where in a cell is genetic information stored?", "3. Guess: how many chromosomes are in one human body cell?"],
+   "notes": "The men were James Watson and Francis Crick; they had built a cardboard model of DNA. Genetic information is in the nucleus. Human body cells have 46 chromosomes. Four minutes, in books."},
+  {"type": "today", "title": "Today",
+   "notes": "Read the goals. The names Franklin, Wilkins, Watson and Crick come up all lesson; write them on the board."},
+  {"type": "hook", "title": "A blurry X", "question": "In 1952 Rosalind Franklin took an X-ray photo of DNA. It looked like a blurry X. When James Watson saw it, he knew at once that DNA must be a spiral. Why was seeing another scientist's data so important?", "image": "rosalind_franklin", "caption": "Rosalind Franklin",
+   "text": ["Talk to a partner: what could Watson and Crick do with the photo that they could not do without it?"],
+   "notes": "Only spiral (helix) molecules make an X pattern in an X-ray photo. The photo gave Watson and Crick the evidence they needed to finish their model. Scientists build on each other's data; the question of whether the photo should have been shown without Franklin's permission comes back in Think and Reflect."},
+  {"type": "learn", "title": "Discovering the structure of DNA", "image": "dna_helix", "caption": "The double helix: two strands twisted into a spiral", "vocab": ["DNA", "double helix", "X-ray", "model"],
+   "text": ["Watson and Crick used their own data and other scientists' data to build a model of DNA.", "Franklin told them their first model was wrong.", "Franklin and Wilkins took X-ray photos of DNA; Wilkins showed one to Watson in 1953.", "Watson and Crick published the double helix model in Nature on 25 April 1953. Wilkins then spent years testing and correcting it."],
+   "key_idea": "A scientific model is built from evidence, shared, tested and corrected.",
+   "notes": "Stress the sequence: model, told it was wrong, new evidence, better model, published, tested. If you have a pipe-cleaner, twist two strands together to show a double helix."},
+  {"type": "table", "title": "Who did what", "vocab": ["X-ray", "model"],
+   "table": {"headers": ["Scientist", "What they did"], "colW": [2.6, 5.0], "rows": [["Rosalind Franklin", "Took very clear X-ray photos of DNA; told Watson and Crick their first model was wrong"], ["Maurice Wilkins", "Took X-ray photos; showed Franklin's photo to Watson; tested and corrected the model for years"], ["James Watson", "Saw from the photo that DNA was a spiral; built the double helix model with Crick"], ["Francis Crick", "Built the model with Watson; worked out the shape from the X-ray evidence"]]},
+   "text": ["All four published their work in the same edition of Nature.", "Watson, Crick and Wilkins shared the Nobel Prize in 1962.", "Franklin had died in 1958. Nobel Prizes are not given after death."],
+   "key_idea": "Discoveries are usually made by groups of scientists sharing evidence.",
+   "notes": "Students fill in a matching question on this at Core. The Think and Reflect slide asks whether the discovery should carry only Watson and Crick's names."},
+  {"type": "learn", "title": "From cell to gene", "image": "diagram:dna_chromosome_gene", "vocab": ["nucleus", "chromosome", "DNA", "gene", "genetic information"],
+   "text": ["DNA is found in chromosomes, inside the nucleus of a cell.", "Each chromosome contains one enormously long DNA molecule.", "Genes are sections of a DNA molecule. Genetic information is stored in genes.", "Genes control inherited characteristics. A few (ABO blood group) depend on one gene; most depend on many genes."],
+   "key_idea": "cell > nucleus > chromosome > DNA > gene",
+   "notes": "Say the chain out loud together, biggest to smallest. Check: which is bigger, a gene or a chromosome? (A chromosome: it holds thousands of genes along its DNA.)"},
+  {"type": "learn", "title": "Counting chromosomes", "image": "karyotype", "caption": "The chromosomes of one human cell, sorted into pairs", "vocab": ["sex chromosomes", "gamete", "zygote"],
+   "text": ["Most human cells contain 23 pairs of chromosomes: 46 in all.", "Both chromosomes in a pair carry the same genes and are the same size, except the sex chromosomes: XX (female), XY (male). Y is much smaller.", "Gametes contain only 23 chromosomes. When two gametes fuse, the zygote has 46.", "Cell division then copies the 46 chromosomes into every new cell."],
+   "key_idea": "Body cells: 46 (23 pairs). Gametes: 23. Zygote: 23 + 23 = 46.",
+   "notes": "Point to pair 23 on the karyotype: is this cell from a male or a female? (If X and a smaller Y are shown, male.) Each gene therefore has two copies in a body cell, one on each chromosome of the pair."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. Short answers.",
+   "questions": ["How many chromosomes are in a human sperm cell?", "How many chromosomes are in a human heart muscle cell?", "What long molecule does a chromosome contain?", "Who took the X-ray photos of DNA?", "A cell has an X and a Y chromosome. Male or female?"],
+   "notes": "Answers: 23; 46; DNA; Rosalind Franklin (and Maurice Wilkins); male."},
+  {"type": "steps", "title": "Your turn: DNA and chromosomes", "minutes": 13,
+   "steps": ["Core: match the scientists; write the numbers; order cell, nucleus, chromosome and gene by size; read the karyotype.", "Stretch: plot the chromosome numbers of five animals in a logical order, then judge the conclusion about birds and mammals.", "Challenge: draw the links between DNA, chromosomes, genes and genetic information; explain how scientists share data.", "Use the key words box: DNA, chromosome, gene, nucleus."],
+   "footer": "Numbers to remember: 46 in a body cell, 23 in a gamete, 1 DNA molecule per chromosome.",
+   "notes": "Common errors: ordering the bar chart randomly (ask for ascending order or grouped by animal type); saying a gamete has 46 chromosomes. The conclusion question (one bird in the data) is about sample size: one chicken cannot tell you about all birds."},
+  {"type": "think", "title": "Whose discovery?", "prompt": "Textbooks often call the double helix 'Watson and Crick's model'. Franklin's X-ray photo was shown to Watson without her permission, and she died before the Nobel Prize. Should the discovery carry only two names?",
+   "frames": ["I think the discovery should be called ___ because ___.", "The evidence that mattered most was ___, which came from ___.", "Today, scientists should share data by ___."],
+   "notes": "There is no single right answer; expect students to say that all four contributed and that the X-ray evidence was essential. Today data are shared openly through published papers with named authors, and using someone's unpublished data without permission is not acceptable."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 3,
+   "questions": ["Where in a cell is DNA found?", "How many chromosomes are there in a human body cell, and in a human gamete?", "What is a gene?"],
+   "notes": "Answers: in the chromosomes in the nucleus; 46 and 23; a section of DNA that carries the instructions (genetic information) for a characteristic."},
+  {"type": "summary", "title": "What we learned", "next": "Genetic counselling: how genetic tests work and how a counsellor explains probabilities to a family.",
+   "points": ["The double helix structure of DNA was worked out in 1953 by Watson and Crick, using X-ray evidence from Franklin and Wilkins.", "DNA is in the chromosomes in the nucleus; each chromosome is one long DNA molecule; genes are sections of DNA that carry genetic information.", "Human body cells have 23 pairs (46) of chromosomes; gametes have 23; a zygote has 46.", "The sex chromosomes are XX in females and XY in males."],
+   "notes": "Homework: Workbook pages 8 and 9 (9Ac DNA)."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each scientist to one thing they did to help discover the structure of DNA. Draw a line.", "match": {"left": ["Francis Crick", "Rosalind Franklin", "James Watson", "Maurice Wilkins"], "right": ["took very clear X-ray photos of DNA and said the first model was wrong", "tested the model and made corrections to it over several years", "saw from a photo that DNA was a spiral and helped build the model", "helped to build the double helix model in 1953"]}},
+   {"q": "Answer each question by writing a number.", "parts": [
+     {"text": "The number of DNA molecules in one chromosome.", "lines": 1},
+     {"text": "The number of Y chromosomes in a body cell from a male.", "lines": 1},
+     {"text": "The number of copies of each gene in a body cell from a female.", "lines": 1},
+     {"text": "The number of chromosomes in a human gamete.", "lines": 1},
+     {"text": "The number of chromosomes in a zygote.", "lines": 1}]},
+   {"q": "Number these items in order of size. Give the biggest a 1 and the smallest a 4.", "gap_lines": ["____ cell          ____ chromosome          ____ gene          ____ nucleus"]},
+   {"q": "The photo shows the chromosomes from one human body cell, sorted into pairs.", "image": "karyotype", "image_w": 380, "image_h": 260, "parts": [
+     {"text": "State whether the cell is from a male or a female. Give a reason.", "lines": 2},
+     {"text": "How many pairs of chromosomes does the cell contain?", "lines": 1}]}
+  ],
+  "stretch": [
+   {"q": "The table shows the number of chromosomes in the body cells of some animals.", "parts": [
+     {"text": "Plot the data on the grid as a bar chart. Put the animals in a logical order and label both axes.", "table": {"headers": ["Animal", "lion", "elephant", "chicken", "rabbit", "horse"], "widths": [2800, 1400, 1400, 1400, 1400, 1400], "rows": [["Number of chromosomes", "38", "56", "78", "44", "64"]]}, "grid": true},
+     {"text": "Give the reason why the number of chromosomes in each species is an even number.", "lines": 2},
+     {"text": "A student says: 'This data shows that birds have more chromosomes in their cells than mammals.' Explain whether this is a good conclusion.", "lines": 3}]},
+   {"q": "Explain why a body cell contains two copies of each gene, but a gamete contains only one copy.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "Draw a labelled diagram to show how DNA, chromosomes, genes, genetic information and the nucleus are linked. Use arrows or nested shapes.", "box": 3400},
+   {"q": "Watson and Crick used data from other scientists to build their model.", "parts": [
+     {"text": "Suggest how they were able to find other scientists' data in 1953.", "lines": 2},
+     {"text": "Explain why scientists publish their work in journals such as Nature, and why it mattered that Franklin and Wilkins published in the same edition.", "lines": 3}]}
+  ],
+  "my_thinking": "Franklin's X-ray photo was shown to Watson without her permission. Was that fair? What rules should scientists follow when sharing data today?",
+  "word_bank": ["DNA", "double helix", "chromosome", "gene", "genetic information", "nucleus", "sex chromosomes", "gamete", "zygote", "X-ray"],
+  "exit": ["Where in a cell is DNA found?", "How many chromosomes are there in a human body cell, and in a human gamete?", "What is a gene?"],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "Crick: helped to build the double helix model in 1953. Franklin: took very clear X-ray photos and said the first model was wrong. Watson: saw from a photo that DNA was a spiral and helped build the model. Wilkins: tested the model and made corrections over several years.",
+   "a) 1  b) 1  c) 2  d) 23  e) 46.",
+   "cell 1, nucleus 2, chromosome 3, gene 4.",
+   "a) Depends on the karyotype shown; if pair 23 is one X and one much smaller Y, male; if two X chromosomes of the same size, female. The reason must refer to the sex chromosomes. b) 23 pairs."
+  ],
+  "stretch": [
+   "a) Bars with gaps (each animal is a separate category), in ascending order (lion 38, rabbit 44, elephant 56, horse 64, chicken 78) or grouped as mammals then bird; axes labelled 'Animal' and 'Number of chromosomes'. b) Chromosomes come in pairs: one of each pair from each parent's gamete, so the total is always 2 x the number in a gamete. c) Not a good conclusion: only one bird (the chicken) is in the data, so it is a sample of one; some mammals (e.g. dogs, 78) have as many as chickens, and you would need many bird and mammal species to compare.",
+   "Secure answer: body cells have 23 pairs of chromosomes; the two chromosomes in a pair carry the same genes, one copy from the mother's egg cell and one from the father's sperm cell, so each gene is present twice. A gamete has only one chromosome from each pair (23 in total), so it has one copy of each gene."
+  ],
+  "challenge": [
+   "A nested diagram: cell contains nucleus; nucleus contains 46 chromosomes (23 pairs); each chromosome is one long coiled DNA molecule; genes are sections of the DNA; genetic information is stored in the genes and controls inherited characteristics. Credit a clear hierarchy with labels and arrows.",
+   "a) By reading papers in scientific journals, going to lectures and conferences, writing letters and talking to other scientists (Wilkins showed them Franklin's photo). b) Publishing lets other scientists check, test and build on the work, and records who did what; publishing in the same edition showed that the X-ray evidence from Franklin and Wilkins supported the model and gave them credit for it."
+  ],
+  "exit": ["In the chromosomes, inside the nucleus.", "46 (23 pairs) in a body cell; 23 in a gamete.", "A section of a DNA molecule that carries the genetic information (instructions) for a characteristic."],
+  "my_thinking": "Open answer. Many will say it was unfair because she did not agree and did not get the credit. Today scientists should ask permission, name the people whose data they use, and share data openly once it is published."
+ }
+}

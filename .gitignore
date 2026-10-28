@@ -6,3 +6,7 @@ design/export_tools/ready.json
 __pycache__/
 00_Teacher_Guide/One_pagers/source/fontcache/
 00_Teacher_Guide/One_pagers/source/html/
+Y9_Exploring_Science/source/images_grey/
+Y9_Exploring_Science/source/diagrams_grey/
+Y9_Exploring_Science/source/*.log
+Y9_Exploring_Science/source/node_modules/

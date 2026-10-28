@@ -1,0 +1,147 @@
+{
+ "id": "9C_L03",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 3,
+ "n_lessons": 7,
+ "title": "Control systems: nerves and hormones",
+ "title_cn": "控制系统：神经与激素",
+ "slug": "Control_systems_nerves_and_hormones",
+ "book": {"pages": "42 to 43", "spread": "9Cb Control systems"},
+ "workbook": {"pages": "31"},
+ "oak": [
+  {"unit": "Disease and drugs, Year 9", "lesson": "Differences between infectious and non-infectious disease", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/disease-and-drugs/lessons/differences-between-infectious-and-non-infectious-disease"}
+ ],
+ "big_idea": "The body has two control systems: the nervous system sends fast electrical impulses along nerves, and the hormonal system sends slower chemical messengers in the blood.",
+ "goals": [
+  "I can describe how the nervous system detects a stimulus and produces a response.",
+  "I can describe how hormones affect the body and compare the nervous and hormonal systems."
+ ],
+ "keywords": [
+  {"en": "nervous system", "cn": "神经系统", "meaning": "the organ system that senses changes and makes the body respond rapidly"},
+  {"en": "central nervous system", "cn": "中枢神经系统", "meaning": "the brain and spinal cord (CNS)"},
+  {"en": "nerve", "cn": "神经", "meaning": "an organ that carries impulses between the CNS and the rest of the body"},
+  {"en": "stimulus", "cn": "刺激", "meaning": "a change that can be detected, e.g. light, sound, touch"},
+  {"en": "receptor", "cn": "感受器", "meaning": "a cell in a sense organ that detects a stimulus"},
+  {"en": "impulse", "cn": "神经冲动", "meaning": "an electrical signal that travels along a nerve"},
+  {"en": "effector", "cn": "效应器", "meaning": "a muscle or gland that carries out a response"},
+  {"en": "hormone", "cn": "激素", "meaning": "a chemical messenger made in a gland and carried in the blood"},
+  {"en": "gland", "cn": "腺体", "meaning": "an organ that makes and releases a substance, e.g. a hormone"},
+  {"en": "target organ", "cn": "靶器官", "meaning": "an organ that responds to a particular hormone"},
+  {"en": "insulin", "cn": "胰岛素", "meaning": "a hormone from the pancreas that makes cells take up glucose from the blood"}
+ ],
+ "misconceptions": [
+  "Nerves and hormones are the same kind of message. Nerves carry electrical impulses along fixed paths; hormones are chemicals carried everywhere by the blood and act only on their target organs.",
+  "Hormones are only about puberty. Hormones control growth, heart rate, blood glucose and the rate of many body processes, all through life.",
+  "The response to a stimulus happens in the sense organ. The receptor detects the stimulus; the brain or spinal cord processes it; a separate effector (muscle or gland) produces the response."
+ ],
+ "safety": "Reaction time test: students stay seated; rulers are dropped between the fingers, not thrown; keep feet clear of falling rulers.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "30 cm rulers, one per pair", "Mini whiteboards for the quick check (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Hot pan scenario: which organ detects, which moves, which connects.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Fast messages and slow changes: why two kinds of messenger?", "students": "Pair talk: one fast response, one slow change.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 9, "teacher": "Teaches the nervous pathway, the pen example, hormones and glands, and the comparison table. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 15, "teacher": "Runs the ruler-drop reaction time test (7 minutes), then the worksheet (8 minutes). Circulates: checks the pathway ordering.", "students": "Measure reaction time in pairs; record in the Core table; then Core, Stretch, Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Treading on something sharp: which system is better? Takes answers with frames.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (treating diseases).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Match sense organs to stimuli; gap fill on hormones; record and average reaction time results; put the pen pick-up pathway in order.",
+  "stretch": "Name the organ that makes insulin and its effect; complete a comparison table of the two systems; explain how adrenaline prepares the body for danger.",
+  "challenge": "Decide which system responds best to treading on something sharp; suggest which glands were affected in the tallest and shortest men."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How does your body know what is happening around it, and how does it respond?", "image": "neuron",
+   "notes": "Lesson 3 of 9C. Link from Lesson 1: the polio virus attacks the nervous system, and the chickenpox virus hides in nerve cells. Today: how the nervous and hormonal systems control the body."},
+  {"type": "donow", "title": "Do Now: the hot pan", "minutes": 4,
+   "prompt": ["You touch a hot pan and pull your hand away before you even feel the pain.", "1. Which organ detected the heat?", "2. Which organ moved your hand?", "3. Which organ system connects them?"],
+   "notes": "Four minutes, in books. Skin (the receptor cells in it) detects the heat; muscles in the arm move the hand; the nervous system connects them. Some students will say 'brain' for Q3: accept it and build on it."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
+  {"type": "hook", "title": "Fast and slow messages", "question": "A message along a nerve can travel at over 100 metres per second. The message that makes a child grow taller takes years. Why does the body need two different kinds of messenger?", "image": "nervous_system", "caption": "The human nervous system",
+   "text": ["Talk to a partner: name one fast response and one slow change in your body."],
+   "notes": "Fast responses: blinking, pulling away from heat, catching a ball. Slow changes: growing, puberty, digesting a meal, feeling nervous for an hour before a test. Fast needs a direct wire (nerves); slow and widespread needs a chemical that reaches many organs (hormones)."},
+  {"type": "learn", "title": "The nervous system", "image": "neuron", "caption": "A nerve cell (neurone)", "vocab": ["central nervous system", "receptor", "impulse", "effector"],
+   "text": ["Organs: the brain and spinal cord (the central nervous system, CNS) and the nerves.", "Receptor cells in sense organs (eyes, ears, skin) detect stimuli.", "A receptor produces electrical impulses that travel along nerves to the CNS.", "The brain processes the information and sends impulses to effectors: muscles contract, glands release substances."],
+   "key_idea": "stimulus, receptor, nerve, CNS, nerve, effector, response.",
+   "notes": "All these organs are made of nerve tissue, built from nerve cells. A stimulus is any change the body can detect. Ask students to name the sense organ for light (eye), sound (ear), temperature and touch (skin), chemicals in food (tongue) and in the air (nose)."},
+  {"type": "diagram", "title": "Picking up a pen", "image": "diagram:nervous_pathway", "text": "Touch receptors in your fingers detect the pen; impulses travel to the CNS and back out to the muscles that lift your hand.",
+   "key_idea": "Impulses are electrical signals. They travel along nerves, usually to the brain via the spinal cord, and back out to an effector.",
+   "notes": "Walk through the boxes left to right with the pen example. Students complete the same pathway in order on the worksheet (Core question 4). Point out that the hormone line at the bottom of the diagram is the second system, coming next."},
+  {"type": "learn", "title": "Hormones: chemical messengers", "image": "endocrine_glands", "caption": "Glands that make hormones", "vocab": ["hormone", "gland", "target organ", "insulin"],
+   "text": ["Hormones are chemicals made in glands and released into the blood.", "Target organs respond to a hormone by changing what they do.", "Adrenaline (adrenal glands) increases heart rate and breathing rate.", "Insulin (pancreas) makes muscle and liver cells take up glucose from the blood.", "Growth hormone (pituitary gland) controls growth; thyroxine (thyroid) controls the rate of many body processes."],
+   "key_idea": "Hormones travel in the blood and act on target organs.",
+   "notes": "The blood carries a hormone everywhere, but only target cells respond to it. One hormone can trigger another: a hormone from the ovaries (oestrogen) makes the pituitary release the hormone that triggers ovulation. Keep this slide brisk; the table on the next slide does the comparing."},
+  {"type": "table", "title": "Comparing the two systems",
+   "table": {"headers": ["", "Nervous system", "Hormonal system"], "colW": [1.6, 3.0, 3.0], "rows": [["messenger", "electrical impulses along nerves", "chemical messengers (hormones) in the blood"], ["speed", "short, rapid response", "longer, slower response"], ["acts on", "only the effector connected to the nerve", "many target organs at the same time"], ["example", "pulling your hand from a hot pan", "adrenaline preparing the body for danger"]]},
+   "text": ["Nerves: fast and local.", "Hormones: slower, longer lasting and widespread.", "Having both means we can respond in different ways to different stimuli."],
+   "key_idea": "Two control systems let the body respond in different ways.",
+   "notes": "Ask: which system would you use to catch a falling ruler? (Nervous.) Which keeps blood glucose steady after lunch? (Hormonal: insulin.) Students meet this table again on the worksheet (Stretch 2) and in the Think task."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Which sense organ detects light?", "Name the two organs of the central nervous system.", "Where are hormones made?", "Which hormone makes cells take up glucose from the blood?", "Which system gives the faster response: nervous or hormonal?"],
+   "notes": "Answers: the eye; the brain and the spinal cord; in glands; insulin; the nervous system."},
+  {"type": "practical", "title": "Reaction time: the ruler drop", "aim": "Measure how quickly your nervous system responds to a stimulus.",
+   "equipment": ["30 cm ruler", "a partner", "the results table on your worksheet (Core 3)"],
+   "method": ["Rest your forearm on the desk with your hand over the edge, thumb and finger open about 3 cm apart.", "Your partner holds the ruler so the 0 cm mark is level with the top of your thumb.", "Without warning, your partner lets go. Catch the ruler as fast as you can.", "Read the distance (cm) at the top of your thumb and record it.", "Repeat five times, then calculate the mean. Swap over.", "Which part of the pathway was the receptor, the CNS and the effector?"],
+   "safety": "Stay seated. Drop the ruler between the fingers, never throw it. Keep feet clear.",
+   "notes": "Seven minutes, then the worksheet. A shorter distance means a faster reaction. The eye is the receptor, the brain and spinal cord process, the hand muscles are the effector. Extension: does the reaction get faster with practice? Does talking to your partner slow it down?"},
+  {"type": "think", "title": "Which system is best?", "prompt": "You tread on something sharp. Suggest which control system is better for responding to this stimulus, and explain why.",
+   "frames": ["The ___ system is better because the response needs to be ___.", "The receptors in the ___ send impulses along ___ to the ___.", "The ___ system would be too ___ because ___."],
+   "notes": "Expected: the nervous system, because the response (lifting the foot) must be rapid and only involves one effector; impulses travel from receptors in the skin along nerves to the spinal cord and back to the leg muscles. Hormones would be too slow and would act on many organs."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Name the two organs of the central nervous system.", "What is a hormone, and how does it travel round the body?", "Give one difference between a nervous response and a hormonal response."],
+   "notes": "Answers: brain and spinal cord; a chemical messenger made in a gland, carried in the blood to target organs; nervous responses are faster and act on one effector, hormonal responses are slower, longer lasting and act on many target organs."},
+  {"type": "summary", "title": "What we learned", "next": "Treating diseases: antibiotics, antivirals and how transgenic bacteria make human insulin.",
+   "points": ["Receptors detect stimuli and send impulses along nerves to the brain and spinal cord (the CNS).", "The CNS sends impulses to effectors: muscles contract, glands release substances.", "Hormones are chemical messengers made in glands, carried in the blood to target organs.", "Nervous responses are fast and local; hormonal responses are slower, longer and widespread."],
+   "notes": "Homework: Workbook page 31 (9Cb Control systems). Students who did not finish the reaction time mean can complete it at home with a family member."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each sense organ to the stimulus it detects. Draw a line.", "match": {"left": ["eye", "ear", "skin", "tongue", "nose"], "right": ["chemicals in the air", "light", "chemicals in food", "sound", "temperature and touch"]}},
+   {"q": "Complete the text using words from the word bank.", "gap_lines": ["The chemical messengers in our body are called ____________. They are made in ____________", "and released into the ____________ to travel round the body. They cause ____________ organs", "to change what they are doing."]},
+   {"q": "Ruler drop: record the distance the ruler fell before you caught it. Then calculate the mean.",
+    "parts": [
+     {"text": "Complete the table.", "table": {"headers": ["Try", "Distance the ruler fell (cm)"], "widths": [2400, 5000], "rows": [["1", ""], ["2", ""], ["3", ""], ["4", ""], ["5", ""], ["mean", ""]]}},
+     {"text": "Which control system did you use to catch the ruler? Give a reason.", "lines": 2}
+    ]},
+   {"q": "Number the statements 1 to 6 to show the path that impulses take when you pick up a pen.", "table": {"headers": ["Statement", "Order"], "widths": [7800, 2000], "rows": [["the brain processes the information", ""], ["touch receptors in the skin of the fingers detect the pen", ""], ["impulses travel along a nerve to the spinal cord and brain", ""], ["the muscles contract and lift the hand", ""], ["impulses travel along a nerve to the muscles in the arm", ""], ["the pen touches the fingers (the stimulus)", ""]]}}
+  ],
+  "stretch": [
+   {"q": "Name the organ that makes insulin and describe the effect insulin has on muscle cells.", "lines": 2},
+   {"q": "Complete the table to compare the two control systems.", "table": {"headers": ["", "Nervous system", "Hormonal system"], "widths": [2400, 3700, 3700], "rows": [["type of messenger", "", ""], ["speed of response", "", ""], ["acts on", "", ""]], "row_h": 600}},
+   {"q": "When we see something dangerous, adrenaline is released into the blood. Explain how this response prepares the body for dealing with danger.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "You tread on something sharp. Suggest which control system is better for responding to this stimulus. Explain your answer, naming the receptor, the parts of the nervous system and the effector involved.", "lines": 5},
+   {"q": "Sultan Kosen grew to 251 cm tall. Chandra Dangi was 55 cm tall as an adult. Suggest which two glands may not have been working normally in these men, and explain your reasoning.", "lines": 4}
+  ],
+  "my_thinking": "The chickenpox virus can hide inside nerve cells for many years and later cause shingles. Why might white blood cells find it hard to destroy a virus hiding inside a cell?",
+  "word_bank": ["stimulus", "receptor", "impulse", "nerve", "spinal cord", "brain", "effector", "hormones", "glands", "blood", "target"],
+  "exit": ["Name the two organs of the central nervous system.", "What is a hormone, and how does it travel round the body?", "Give one difference between a nervous response and a hormonal response."],
+  "exit_lines": [1, 2, 2]
+ },
+ "answers": {
+  "core": [
+   "eye: light; ear: sound; skin: temperature and touch; tongue: chemicals in food; nose: chemicals in the air.",
+   "hormones; glands; blood; target.",
+   "a) Student results; a typical mean is 10 to 20 cm. b) The nervous system, because the response had to be very fast (a fraction of a second) and only one effector (the hand muscles) was needed.",
+   "Order: the pen touches the fingers (1); touch receptors detect the pen (2); impulses travel along a nerve to the spinal cord and brain (3); the brain processes the information (4); impulses travel along a nerve to the muscles in the arm (5); the muscles contract and lift the hand (6)."
+  ],
+  "stretch": [
+   "The pancreas. Insulin makes muscle cells (and liver cells) take up glucose from the blood, so the blood glucose level falls.",
+   "Nervous: electrical impulses along nerves; short, rapid response; acts only on the effector connected to the nerve. Hormonal: chemical messengers (hormones) in the blood; longer, slower response; acts on many target organs at the same time.",
+   "Secure answer: adrenaline is carried in the blood to many target organs, including the heart and lungs. It increases heart rate and breathing rate, so more oxygen and glucose reach the muscles for respiration, releasing more energy. The body is ready to run away or fight."
+  ],
+  "challenge": [
+   "Secure answer: the nervous system is better. Receptors in the skin of the foot detect the sharp object and produce impulses that travel along a nerve to the spinal cord and brain (the CNS). The CNS sends impulses along another nerve to the leg muscles (the effector), which contract and lift the foot. This takes a fraction of a second; a hormone released into the blood would be far too slow and would act on many organs, not just the leg.",
+   "Secure answer: the pituitary gland makes growth hormone, which controls the normal growth of children, so it is likely that Sultan Kosen's pituitary produced too much growth hormone and Chandra Dangi's produced too little. The thyroid gland (thyroxine controls the rate of many body processes) may also have been involved. Accept either gland with a clear reason."
+  ],
+  "exit": [
+   "The brain and the spinal cord.",
+   "A chemical messenger made in a gland; it is released into the blood, which carries it to its target organs.",
+   "Any one: nervous responses are faster; nervous responses are shorter; a nervous response acts only on the effector connected to the nerve, a hormone acts on many target organs; nerves use electrical impulses, hormones are chemicals in the blood."
+  ],
+  "my_thinking": "Open answer. Good answers note that antibodies and phagocytes work on pathogens outside cells, in the blood and tissues; a virus inside a nerve cell is hidden from them, so it can stay there until it comes out again years later."
+ }
+}

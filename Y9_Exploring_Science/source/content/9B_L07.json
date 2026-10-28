@@ -1,0 +1,155 @@
+{
+ "id": "9B_L07",
+ "unit": "9B",
+ "unit_title": "Plant growth",
+ "lesson": 7,
+ "n_lessons": 7,
+ "title": "Bias, validity and organic farming",
+ "title_cn": "偏差、有效性与有机农业",
+ "slug": "Bias_validity_and_organic_farming",
+ "book": {"pages": "34 to 36", "spread": "9Be Bias and validity (WS); 9Be Organic farming"},
+ "workbook": {"pages": "25 to 26"},
+ "oak": [
+  {"unit": "Ecosystems, Year 7", "lesson": "Using chemicals in farming", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/ecosystems/lessons/using-chemicals-in-farming"},
+  {"unit": "Biodiversity, Year 8", "lesson": "Ecological sampling using a quadrat", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/biodiversity/lessons/ecological-sampling-using-a-quadrat"}
+ ],
+ "big_idea": "Before we believe a graph or an argument about farming we check it for bias and ask whether the conclusion is valid.",
+ "goals": [
+  "I can identify bias in graphs and arguments, explain where accidental bias comes from, and say whether a conclusion is valid.",
+  "I can compare organic and intensive farming and explain biological control."
+ ],
+ "keywords": [
+  {"en": "bias", "cn": "偏差", "meaning": "a shift away from the true meaning or value, on purpose or by mistake"},
+  {"en": "balanced", "cn": "客观全面的", "meaning": "considering the points for and against something equally"},
+  {"en": "systematic error", "cn": "系统误差", "meaning": "an error that shifts every reading by the same amount, e.g. a wrongly printed scale"},
+  {"en": "random error", "cn": "随机误差", "meaning": "an error that changes from one reading to the next, e.g. stopping a clock late once"},
+  {"en": "sample", "cn": "样本", "meaning": "a small part of a whole that is measured to estimate the whole"},
+  {"en": "valid", "cn": "有效的", "meaning": "does what it is supposed to do; a valid conclusion uses only the results"},
+  {"en": "conclusion", "cn": "结论", "meaning": "what the results of an investigation show"},
+  {"en": "organic farming", "cn": "有机农业", "meaning": "farming with natural fertilisers, very few pesticides and crop rotation"},
+  {"en": "intensive farming", "cn": "集约农业", "meaning": "farming with artificial fertilisers, pesticides and large fields to get the biggest yield"},
+  {"en": "biological control", "cn": "生物防治", "meaning": "using living organisms to reduce the number of pests"},
+  {"en": "crop rotation", "cn": "轮作", "meaning": "growing different crops in a field in different years"}
+ ],
+ "misconceptions": [
+  "Bias is always deliberate. A thermometer with a wrong scale or a badly chosen sample biases results without anyone intending it.",
+  "If a graph shows a pattern, the conclusion is valid. A valid conclusion uses all the results and only the results; a selected part of the data can show a pattern that is not there.",
+  "Organic food is proven to be healthier. There is little evidence for this; the clearer differences are in biodiversity, land use and cost."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Mini whiteboards for the unit review quiz", "Optional: two thermometers, one with its scale deliberately offset (tape over the top and relabel), to show a systematic error"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Monarch butterflies and milkweed: three questions.", "students": "Answer in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Shows graph B and graph C of the same data. What is graph C trying to make you believe?", "students": "Pair talk, share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 9, "teacher": "Teaches intentional bias, accidental bias (systematic error, sampling), validity, organic and intensive farming, biological control.", "students": "Note the two kinds of bias; compare the farming table.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 13, "teacher": "Sets the worksheet. Checks the valid conclusion choice (Core 1) and the balanced paragraph.", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 3, "teacher": "A farmer's report to the council: how would you check it for bias? Takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Unit review and exit ticket", "min": 7, "teacher": "Runs the 9B review quiz on whiteboards (4 minutes), then collects exit tickets and sets Workbook pages 25 to 26.", "students": "Answer the eight quiz questions; complete the exit ticket alone.", "resource": "Slides 12 to 14, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Choose and justify the valid conclusion for the fertiliser data; match the kinds of error and bias to examples; sort statements into organic or intensive farming.",
+  "stretch": "Explain why the German insect study conclusion may not be valid; explain how graph C is biased and who might draw it; explain which farm attracts more insect-eating birds.",
+  "challenge": "Write a balanced paragraph about HT soybean; compare the yields of organic and intensive farms and explain why people still choose organic food."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "Can you trust this graph? Is organic farming really better?", "image": "monarch_milkweed",
+   "notes": "Last lesson of 9B. Two things today: the working scientifically skills of spotting bias and judging validity, and the organic versus intensive farming debate, which is where those skills get used. The lesson ends with a review quiz of the whole unit."},
+  {"type": "donow", "title": "Do Now: monarchs and milkweed", "minutes": 4, "image": "monarch_milkweed", "caption": "A monarch butterfly on milkweed",
+   "prompt": ["Monarch butterflies lay their eggs only on milkweed plants. HT soybean is a variety that is not killed by the herbicide glyphosate, which kills milkweed.", "1. Predict what happens to milkweed where HT soybean is grown.", "2. Predict the effect on monarch butterflies.", "3. Suggest one other reason why monarch numbers could fall."],
+   "notes": "Answers: farmers can spray glyphosate on the whole field, so milkweed is killed; fewer places to lay eggs, so fewer monarchs; other reasons: deforestation in Mexico where they spend the winter, new weather patterns, disease. The point: more than one cause is possible, which matters for validity later."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. This lesson's key words are mostly about how scientists think, not about plants."},
+  {"type": "hook", "title": "Two graphs, one set of data", "image": "diagram:monarch_bias", "caption": "Graph B shows every year; graph C shows four of them",
+   "question": "Both graphs come from the same counts of monarch butterflies in Mexico. What is graph C trying to make you believe? How did its author do it?",
+   "text": ["Talk to a partner. Which figures from graph B would you pick to show a steady fall?"],
+   "notes": "Graph C picks 1997, 1999, 2001 and 2003, leaving out the years that went up, so it shows a steady decrease that the full data do not support. Someone who wants to blame HT soybean might draw it; so might someone selling a different herbicide. That is intentional bias."},
+  {"type": "learn", "title": "Bias on purpose", "vocab": ["bias", "balanced"],
+   "text": ["Bias is a shift away from the true meaning or value. It can be deliberate or accidental.", "Intentional bias: choosing only the data that support your idea, like graph C.", "A balanced account considers the points for and against something equally.", "Bias also appears in words: an advert that lists only advantages is not balanced.", "Ask: who made this, and what do they want me to think?"],
+   "key_idea": "Selected data can show a pattern that the full data do not. Always ask what was left out.",
+   "notes": "Use the HT soybean table in the book: advantages (easier weed control, fewer sprayings, glyphosate is not persistent) and disadvantages (expensive, glyphosate-resistant weeds, HT soybean growing as a weed). The cartoon farmer who only quotes the advantages is biased. Challenge 1 asks for a balanced paragraph."},
+  {"type": "compare", "title": "Bias by accident", "vocab": ["systematic error", "random error", "sample"],
+   "left": {"heading": "Systematic error", "points": ["Every reading is shifted by the same amount.", "A thermometer with a wrongly printed scale reads 1 °C too high every time.", "A mass balance not set to zero.", "Repeating the readings does not remove it."]},
+   "right": {"heading": "Sampling bias", "points": ["Samples must be taken at random.", "Choosing 'interesting' areas, or areas likely to give the expected result, biases the estimate.", "Counting butterflies only on the parts of trunks you can reach misses the ones higher up.", "The Mexican scientists used a computer to choose sample areas at random."]},
+   "key_idea": "A random error changes from reading to reading; a systematic error is the same every time, so it hides inside the mean.",
+   "notes": "Show the two thermometers if you have them: one reads high every time; averaging does not help. Contrast with a random error, such as pressing the stopwatch late once: repeating and taking a mean reduces it."},
+  {"type": "learn", "title": "Is it valid?", "vocab": ["valid", "conclusion"],
+   "text": ["Something is valid if it does what it is supposed to do.", "A fair test is valid because only the independent variable affects the results.", "Results are valid if they measure what they were supposed to measure.", "A valid conclusion uses only the results of the investigation, and all of them.", "'More HT soybean, fewer monarchs' is not a valid conclusion: the percentage planted tells us nothing about milkweed, and other causes were not ruled out."],
+   "key_idea": "Valid conclusion = all the results, only the results, and no causes that were never tested.",
+   "notes": "Core 1 uses the bean plant data from Lesson 5 with 10 drops added: the valid conclusion is the one that describes the whole pattern (growth rises up to a point, then falls), not 'more fertiliser gives more growth'. Stretch 1 is the German insect study: traps a metre above the ground miss insects that live higher or lower, and 24 years of one method may not represent all of Germany."},
+  {"type": "table", "title": "Organic or intensive?", "vocab": ["organic farming", "intensive farming", "crop rotation"],
+   "table": {"headers": ["", "Organic farming", "Intensive farming"], "colW": [2.2, 3.4, 3.4], "rows": [["fertiliser", "natural: manure, clover in the rotation", "artificial fertilisers"], ["pesticides", "a few natural ones (sulfur, copper sulfate), biological control", "many artificial pesticides"], ["fields", "small, with hedges and trees around them", "large, for big machines"], ["biodiversity", "higher", "lower"], ["yield per field", "lower; needs more land for the same food", "higher"], ["cost of food", "higher", "lower"]]},
+   "key_idea": "Organic farms have more biodiversity; intensive farms grow more food on less land. Neither is simply better.",
+   "notes": "Students copy the table (Core 3 sorts statements the same way). Organic farmers rotate crops so one crop, such as clover, adds nitrates to the soil. Some people buy organic food because they think it is healthier; the book says there is little evidence for that."},
+  {"type": "learn", "title": "Biological control", "image": "hoverfly_larva", "caption": "A hoverfly larva eating aphids", "vocab": ["biological control"],
+   "text": ["Biological control uses other organisms to reduce pests.", "Hoverfly larvae eat aphids. Ladybirds do too.", "Hedges and trees give these helpful predators somewhere to live, and give insect-eating birds a home.", "No pesticide means no harm to pollinators and no bioaccumulation.", "But it is slower, and the pests are never removed completely."],
+   "key_idea": "A hedge is not wasted land: it houses the predators that protect the crop for free.",
+   "notes": "Stretch 3 asks which type of farm attracts more insect-eating birds: the organic one, because hedges and trees give nesting places and there are more insects to eat. Link to Lesson 6: a general insecticide would kill the hoverfly larvae as well as the aphids."},
+  {"type": "steps", "title": "Your turn", "minutes": 13,
+   "steps": ["Core: choose the valid conclusion for the bean plant data and give your reason; match the kinds of error and bias; sort the farming statements.", "Stretch: the German insect study; how graph C is biased and who might draw it; insect-eating birds.", "Challenge: a balanced paragraph about HT soybean; organic versus intensive yields.", "Finished? The My thinking question is about a website claim."],
+   "footer": "A balanced paragraph has at least two points for and two against, then a decision.",
+   "notes": "Check Core 1 early: the common wrong choice is 'seedling height increases as the amount of fertiliser increases', which ignores the fall at 8 and 10 drops."},
+  {"type": "think", "title": "The farmer's report", "prompt": "A farmer wants permission to plough a wild meadow. The report to the council has a graph showing profits rising every year, and a list of benefits. How would you check this report for bias and validity?",
+   "frames": ["I would check whether ___, because ___.", "The report might be biased because ___.", "A balanced report would also include ___."],
+   "notes": "Expected: check whether all the years are on the graph; who wrote it and what they gain; whether the disadvantages (habitat loss, species in the meadow, eutrophication risk) are included; whether the profit data measure what they claim. This is the ecological audit from Lesson 5 seen from the other side."},
+  {"type": "check", "title": "9B unit review quiz", "instruction": "Mini whiteboards. Eight questions from the whole unit, then we check and you tick your gaps.",
+   "questions": ["Write the word equation for photosynthesis.", "Which cells open and close the stomata?", "Name the mineral salt plants need to make proteins.", "What colour does iodine solution turn with starch?", "What is the difference between an insecticide and a herbicide?", "Put these in order: algae grow, fish die, fertiliser washes into the lake, decomposers use oxygen.", "Name two processes that release carbon dioxide into the air.", "What makes a conclusion valid?"],
+   "notes": "Answers: carbon dioxide + water makes glucose + oxygen; guard cells; nitrates; blue-black; insecticide kills insects, herbicide kills weeds (both pesticides); fertiliser washes in, algae grow, decomposers use oxygen, fish die; respiration and combustion (or decomposition); it uses all the results and only the results. Students note any question they got wrong as a revision target."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 3,
+   "questions": ["What is bias?", "Give one example of a systematic error.", "Give one difference between organic farming and intensive farming."],
+   "notes": "Answers: a shift away from the true meaning or value, deliberate or accidental; e.g. a thermometer with a wrongly printed scale, a balance not set to zero; e.g. organic uses natural fertilisers and few pesticides, intensive uses artificial fertilisers and many pesticides. Collect the strips and the quiz gaps."},
+  {"type": "summary", "title": "What we learned in 9B", "next": "9C Threat from disease: pathogens, immunity and how the body is controlled.",
+   "points": ["Bias is a shift from the truth: intentional (selected data) or accidental (systematic error, poor sampling).", "A valid conclusion uses all the results and only the results, and does not claim causes that were never tested.", "Organic farms: natural fertilisers, few pesticides, biological control, more biodiversity, lower yield per field.", "Intensive farms: artificial fertilisers and pesticides, large fields, higher yield, more risk to rivers and food webs.", "Across 9B: plants make glucose by photosynthesis and build everything else from it; farming is about supplying what plants need without wrecking what else lives there."],
+   "notes": "Homework: Workbook pages 25 and 26, and the review quiz gaps. Page 26 asks students to write one new fact for each topic from the start of the unit."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Students added different numbers of drops of liquid fertiliser to bean seedlings and measured the mean increase in height after a week.",
+    "table": {"headers": ["Number of drops of liquid fertiliser", "2", "4", "6", "8", "10"], "widths": [4300, 1100, 1100, 1100, 1100, 1100], "rows": [["Mean increase in height of seedlings (cm)", "4.6", "6.3", "7.8", "7.5", "7.2"]]},
+    "parts": [
+     {"text": "Tick one box to show a valid conclusion for this experiment.", "mcq": ["A  Seedling height increases as the amount of fertiliser increases.", "B  Too little or too much fertiliser can harm seedlings.", "C  The more fertiliser that is added, the smaller the increase in growth.", "D  Growth increases with more fertiliser up to a point, beyond which the amount of growth falls."]},
+     {"text": "Give a reason for your choice.", "lines": 2},
+     {"text": "State two variables that should be controlled to make this experiment valid.", "lines": 1}
+    ]},
+   {"q": "Match each scientific term to the correct example. Draw a line.", "match": {"left": ["systematic error", "random error", "valid experiment", "intentional bias"], "right": ["the stop clock was stopped late in one test during an experiment", "only data that support a particular view are quoted", "a mass balance is not set to zero before the experiment", "all other variables are controlled, so the dependent variable is only affected by the independent variable"]}},
+   {"q": "Tick one box in each row to show whether the statement describes organic farming or intensive farming.", "table": {"headers": ["Statement", "Organic", "Intensive"], "widths": [6000, 1900, 1900], "rows": [["mostly natural fertilisers such as manure", "", ""], ["many artificial pesticides", "", ""], ["large fields to make it easy to use big machines", "", ""], ["small fields with hedges and trees for predators of pests to live in", "", ""], ["crops are rotated so that clover adds nitrates to the soil", "", ""], ["the biggest yield from each field", "", ""]]}}
+  ],
+  "stretch": [
+   {"q": "A report in 2017 concluded that the mass of insects in Germany had decreased by 78% in 24 years. The data had been collected using traps that catch insects flying about a metre above the ground. Give two reasons why this conclusion may not be valid.", "lines": 4},
+   {"q": "Look at graph C on the slide (or page 34 of your book), which shows the monarch butterfly counts for 1997, 1999, 2001 and 2003 only.",
+    "parts": [{"text": "Explain how this graph is biased.", "lines": 2}, {"text": "Suggest who might create a graph like this, and explain your reasoning.", "lines": 2}]},
+   {"q": "Suggest which type of farm, organic or intensive, attracts more insect-eating birds. Explain your answer.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "HT soybean is not killed by the herbicide glyphosate. Advantages: easier management of weeds; fewer sprayings needed than with other herbicides; glyphosate is not persistent. Disadvantages: expensive seed; with time, weeds unaffected by glyphosate become more common, so other herbicides may be needed; HT soybean may grow as a weed in other crops. Write a balanced paragraph to help a farmer decide whether to plant HT soybean.", "lines": 6},
+   {"q": "Two farms have the same area. One is organic and one is intensive.",
+    "parts": [{"text": "Which farm produces the greater amount of crop? Explain your answer.", "lines": 2}, {"text": "Explain why some people still choose to buy organic food, and state what the evidence says about whether organic food is healthier.", "lines": 3}]}
+  ],
+  "my_thinking": "A website says: 'Scientists prove that organic food is healthier.' What would you want to know about the study before you believed this claim?",
+  "word_bank": ["bias", "balanced", "systematic error", "random error", "sample", "valid", "conclusion", "organic farming", "intensive farming", "biological control", "crop rotation"],
+  "exit": ["What is bias?", "Give one example of a systematic error.", "Give one difference between organic farming and intensive farming."],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "a) D. b) The results show growth rising from 2 to 6 drops and then falling at 8 and 10 drops; D describes the whole pattern, A ignores the fall, B mentions harm from too little fertiliser (not tested) and C is the opposite of the first three results. c) Any two of: same type of seedling, same amount of water, same light, same temperature, same type of soil and pot, same time (one week).",
+   "systematic error: a mass balance not set to zero; random error: the stop clock stopped late in one test; valid experiment: all other variables controlled; intentional bias: only data supporting a view are quoted.",
+   "Organic: natural fertilisers; small fields with hedges; crop rotation with clover. Intensive: many artificial pesticides; large fields for big machines; the biggest yield from each field."
+  ],
+  "stretch": [
+   "Secure answer, any two: the traps only catch insects flying at about one metre, so insects that live on the ground, in the soil or high in trees were never counted, and the sample does not represent all insects; the traps were in particular places, which may not represent the whole of Germany; a change in mass may be due to a few large species, not insects in general; the method or the places may have changed over 24 years.",
+   "a) It uses only four of the years (1997, 1999, 2001, 2003), leaving out the years when the numbers rose, so it shows a steady fall that the full data do not show. b) e.g. someone who wants to blame HT soybean or glyphosate for the fall in monarchs, such as a group campaigning against herbicides, or a company selling a rival product, because the selected data support their view.",
+   "Secure answer: the organic farm, because its small fields are surrounded by hedges and trees where birds can nest and shelter, and because it uses few pesticides, so there are many more insects for the birds to eat; the intensive farm's large open fields and insecticides mean fewer nesting places and less food."
+  ],
+  "challenge": [
+   "Secure answer: a paragraph that gives at least two advantages (easier weed control; fewer sprayings; glyphosate breaks down and is not persistent) and at least two disadvantages (expensive seed; glyphosate-resistant weeds become common so other herbicides are needed; HT soybean becoming a weed in other crops), treats them equally, and ends with a decision that depends on the farmer's situation (e.g. worth it on a large weedy farm for a few years, less so for a small farm).",
+   "a) The intensive farm, because artificial fertilisers and pesticides give a higher yield from every field, while the organic farm needs much more space to grow the same amount of food. b) People choose organic food because they think it is healthier, because they do not want artificial substances on their food, or because organic farms cause less environmental damage and have more biodiversity. The evidence that organic food is healthier is weak (there is little evidence); the evidence for higher biodiversity on organic farms is strong."
+  ],
+  "exit": [
+   "A shift away from the true meaning or value, either on purpose or by mistake.",
+   "e.g. a thermometer with a wrongly printed scale that always reads 1 °C too high; a mass balance not set to zero.",
+   "e.g. organic farms use natural fertilisers and very few pesticides; intensive farms use artificial fertilisers and many artificial pesticides (also: field size, biodiversity, yield, cost)."
+  ],
+  "my_thinking": "e.g. who paid for the study and whether they sell organic food (bias); how many people were studied and how they were chosen (sampling); what 'healthier' was measured as and whether other differences between the groups were controlled (validity); whether all the results are reported or only the ones that fit; whether other scientists have checked the work."
+ }
+}

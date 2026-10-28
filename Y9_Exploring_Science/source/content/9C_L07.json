@@ -1,0 +1,149 @@
+{
+ "id": "9C_L07",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 7,
+ "n_lessons": 7,
+ "title": "In and out: surface area, diffusion and osmosis",
+ "title_cn": "进与出：表面积、扩散与渗透",
+ "slug": "In_and_out_surface_area_diffusion_and_osmosis",
+ "book": {"pages": "50 to 52", "spread": "9Ce In and out; 9Ce Combatting pandemics"},
+ "workbook": {"pages": "36 to 38"},
+ "oak": [
+  {"unit": "Diffusion, Year 7", "lesson": "Diffusion through the cell membrane", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/diffusion/lessons/diffusion-through-the-cell-membrane"},
+  {"unit": "Diffusion, Year 7", "lesson": "Diffusion through a selectively-permeable membrane: practical", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/diffusion/lessons/diffusion-through-a-selectively-permeable-membrane-practical"}
+ ],
+ "big_idea": "Substances get into and out of organisms by diffusion and osmosis, and that only works fast enough when the surface area is large compared with the volume.",
+ "goals": [
+  "I can calculate a surface area : volume ratio and explain why it matters for cells and organisms.",
+  "I can describe how osmosis happens through a partially permeable membrane and use it to explain what I see."
+ ],
+ "keywords": [
+  {"en": "surface area", "cn": "表面积", "meaning": "the total area of the outside of an object"},
+  {"en": "volume", "cn": "体积", "meaning": "the amount of space an object takes up"},
+  {"en": "ratio", "cn": "比", "meaning": "one quantity compared with another, e.g. 6 : 1"},
+  {"en": "diffusion", "cn": "扩散", "meaning": "the overall movement of particles from where they are more concentrated to where they are less concentrated"},
+  {"en": "concentration gradient", "cn": "浓度梯度", "meaning": "a difference in concentration between two places"},
+  {"en": "osmosis", "cn": "渗透", "meaning": "the diffusion of water molecules through a partially permeable membrane"},
+  {"en": "partially permeable membrane", "cn": "半透膜", "meaning": "a membrane with tiny holes that let small molecules through but not large ones"},
+  {"en": "cell membrane", "cn": "细胞膜", "meaning": "the partially permeable layer around a cell"},
+  {"en": "unicellular", "cn": "单细胞的", "meaning": "made of one cell"},
+  {"en": "villi", "cn": "绒毛", "meaning": "finger-like folds that give the small intestine a large surface area"},
+  {"en": "pandemic", "cn": "大流行病", "meaning": "an outbreak of a disease across the whole world"}
+ ],
+ "misconceptions": [
+  "Particles stop moving when diffusion is finished. Particles keep moving randomly; once they are evenly spread there is no overall (net) movement.",
+  "Osmosis is the movement of the sugar or salt. Osmosis is the movement of the solvent (water) through the membrane; the large sugar molecules cannot pass.",
+  "Bigger organisms have a bigger surface area : volume ratio. The surface area grows more slowly than the volume, so the ratio gets smaller as things get bigger."
+ ],
+ "safety": "Potato strips: cut with a cork borer or knife on a board, or use strips prepared by the teacher. Salt solution is harmless but slippery if spilt: wipe up spills at once. Wash hands after the practical.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Per group: two potato strips of equal size (about 50 mm x 10 mm x 10 mm), two boiling tubes or small beakers, labels", "Pure (distilled) water and strong salt solution (about 10%)", "Rulers (mm), paper towels, optional balance", "Calculators"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "1 cm cube: surface area, volume; which gas diffuses in for respiration. Sets up the potato strips if possible.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Tropical sprue: why would a flatter intestine lining be deadly?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 8, "teacher": "Teaches SA:V ratio, why it matters, diffusion recap, osmosis.", "students": "Follow the diagrams; answer questions in the notes.", "resource": "Slides 5 to 8"},
+  {"phase": "Do", "min": 13, "teacher": "Safety, then the potato osmosis practical (set up, worksheet while waiting, measure at the end).", "students": "Measure strips, set up, Core and Stretch while waiting, measure again, explain.", "resource": "Slides 9 to 10, worksheet"},
+  {"phase": "Review quiz", "min": 3, "teacher": "Combatting pandemics: six quick questions covering the unit.", "students": "Answer on whiteboards; correct any errors with the Student Book.", "resource": "Slide 11"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Why does rapid international travel make a pandemic more likely?", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 12"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; closes the unit.", "students": "Complete the exit ticket alone.", "resource": "Slide 13, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Gap fill on diffusion; complete the cube SA:V table; record the potato results and explain them with osmosis.",
+  "stretch": "Calculate and compare SA:V ratios for two cuboids; explain why diffusion out of a leaf is faster on a hot day and a windy day.",
+  "challenge": "Calculate ants eaten per gram for two anteaters and explain the difference with SA:V; explain osmosis in Paramecium and in tropical sprue."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How do substances get into and out of cells, and why does size matter?", "image": "villi",
+   "notes": "Last lesson of 9C. It brings together diffusion (Year 7), surface area and osmosis, and ends with the Combatting pandemics review. If you can, cut and measure the potato strips and put them into the two liquids right after the Do Now, so they have 25 minutes to change."},
+  {"type": "donow", "title": "Do Now: a 1 cm cube", "minutes": 4,
+   "prompt": ["A cube has sides of 1 cm.", "1. Calculate its surface area. (It has 6 faces.)", "2. Calculate its volume.", "3. Which gas diffuses into cells so they can respire?"],
+   "notes": "Four minutes, in books. Surface area 6 x 1 cm2 = 6 cm2; volume 1 cm3; oxygen. If strips are being set up now, one student per group measures the length of each strip (mm) and records it in Core 3 before the strips go into the liquids."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
+  {"type": "hook", "title": "A deadly flat surface", "question": "In the Second World War, one in six Allied soldiers who died in the tropics was killed by tropical sprue, a disease that flattens the lining of the small intestine. Why would a flatter lining be deadly?", "image": "villi", "caption": "Villi give the small intestine a huge surface area",
+   "text": ["Talk to a partner: what does the small intestine do, and how does a flat lining stop it?"],
+   "notes": "The small intestine absorbs digested food into the blood by diffusion. Villi (finger-like folds) give it a large surface area. Tropical sprue flattens them, so far less food and fewer vitamins diffuse into the blood: the soldiers developed deficiency diseases such as anaemia (too little vitamin B12)."},
+  {"type": "diagram", "title": "Surface area : volume ratio", "image": "diagram:sa_v_cubes", "text": "Surface area / volume gives the SA:V ratio. Compare the three cubes.",
+   "key_idea": "As an object gets bigger, its surface area : volume ratio gets smaller.",
+   "notes": "1 cm cube: 6 cm2 / 1 cm3 = 6:1. 2 cm cube: 24 / 8 = 3:1. 3 cm cube: 54 / 27 = 2:1. The volume grows faster than the surface. Ask: which cube has the most surface for each cm3 inside? (The smallest.) Cuboid formula for the worksheet: SA = 2(l x h) + 2(l x w) + 2(w x h); V = l x w x h."},
+  {"type": "learn", "title": "Why the ratio matters", "image": "giant_anteater", "caption": "A giant anteater (about 40 kg)", "vocab": ["unicellular", "villi", "surface area"],
+   "text": ["A unicellular organism has enough surface for diffusion to supply its whole volume.", "Large organisms have too little outside surface, so they have organs with large surface areas (villi, lungs, leaves) and transport systems.", "Small animals have a larger SA:V ratio, so they lose energy (cool down) faster and must eat more for their size.", "A silky anteater (under 400 g) eats up to 5000 ants a day; a giant anteater (40 kg) eats 30 000."],
+   "key_idea": "Large surface area : volume ratio = fast exchange with the surroundings.",
+   "notes": "Many unicellular organisms split in two when they reach a certain size, because their SA:V ratio would otherwise become too small for diffusion to supply the inside. The anteater calculation is in the Challenge: ants per gram of body mass."},
+  {"type": "diagram", "title": "Diffusion: a reminder", "image": "diagram:diffusion_gradient", "text": "All particles move randomly. Where there is a concentration gradient, more particles move from the higher concentration to the lower than the other way.",
+   "key_idea": "Diffusion is faster when it is warmer and when the concentration difference is bigger.",
+   "notes": "Particles never stop moving; once they are evenly spread there is no net movement, but diffusion of individual particles continues. Link: oxygen diffuses out of a leaf faster on a hot day (faster particles) and a windy day (the wind removes oxygen from outside the leaf, keeping the concentration gradient steep)."},
+  {"type": "diagram", "title": "Osmosis", "image": "diagram:osmosis_membrane", "text": "Some membranes have tiny holes that let small molecules (water) through but not large ones (sugar). They are partially permeable.",
+   "key_idea": "Osmosis is the diffusion of water molecules through a partially permeable membrane, from where there are more water molecules to where there are fewer.",
+   "notes": "Side X is dilute (more water molecules), side Y is concentrated. Water moves both ways, but more goes from X to Y, so the level on Y rises. Like diffusion, osmosis is faster when warmer and with a bigger concentration difference. Cell membranes are partially permeable: a cell in pure water gains water; a cell in strong salt solution loses it (the potato practical)."},
+  {"type": "safety", "title": "Safety: potato strips", "lines": ["Cut potato with a cork borer or knife on a board, cutting away from your fingers, or use the strips your teacher has prepared.", "Salt solution is harmless to touch but slippery on the floor. Wipe up spills at once.", "Do not eat the potato. Wash your hands at the end."],
+   "notes": "Read the three lines aloud. Groups that are not confident with knives use pre-cut strips. Keep the tubes labelled W (water) and S (salt)."},
+  {"type": "practical", "title": "Osmosis in potato strips", "aim": "Find out what happens to potato tissue in pure water and in strong salt solution.",
+   "equipment": ["two potato strips of equal size", "two tubes or beakers, labelled W and S", "pure water and strong salt solution", "ruler (mm), paper towel, optional balance"],
+   "method": ["Measure the length of each strip to the nearest mm (and the mass, if you have a balance). Record in Core 3.", "Put strip A into water (W) and strip B into salt solution (S). Note the time.", "Work on the worksheet while you wait (at least 15 minutes).", "Take the strips out, blot them gently and measure again.", "Calculate the change in length (and mass). Feel each strip: firm or floppy?", "Explain the changes using osmosis and the words partially permeable membrane."],
+   "safety": "Knives on a board, cutting away from fingers. Wipe up spills. Wash hands.",
+   "notes": "Expected: the strip in water gets slightly longer, heavier and firmer (water enters the cells by osmosis); the strip in salt solution gets shorter, lighter and floppy (water leaves the cells). If time is short, measure at the start of the exit ticket. The plasmolysis photo on the worksheet shows the same thing in cells."},
+  {"type": "check", "title": "Combatting pandemics: unit review", "instruction": "Mini whiteboards. Choose A, B, C or D. Then check any wrong answers with the Student Book.",
+   "questions": ["Which disease is caused by a pathogen? A measles  B type 1 diabetes  C cardiovascular disease  D lung cancer", "Which cells give immunity to a repeat infection? A phagocytes  B red blood cells  C platelets  D memory lymphocytes", "Which part of the nervous system contains receptor cells? A brain  B sense organ  C spinal cord  D effector", "Which word describes a chemical messenger in the body? A enzyme  B hormone  C carbohydrate  D lipid", "Which word describes an organism containing a gene from another species? A mutant  B hybrid  C transgenic  D pathogen", "A cell is placed in pure water. In which direction does water flow? A from cell into water  B in both directions equally  C from water into cell  D no flow"],
+   "notes": "Answers: A, D, B, B, C, C. These are the six questions on Workbook page 38. Students correct any errors using the Student Book and their notes, then explain the correction to a partner."},
+  {"type": "think", "title": "Why pandemics spread faster now", "prompt": "In 1918 a flu pandemic took months to cross the world. In 2020 a new virus reached every continent within weeks. Explain why rapid international travel makes a pandemic more likely.", "image": "airport_crowd", "caption": "A busy airport terminal",
+   "frames": ["A pandemic is ___.", "An infected person can ___ before they ___, so ___.", "To slow a pandemic, countries could ___."],
+   "notes": "Expected: a pandemic is a disease spreading across the whole world. An infected person can fly to another country before symptoms appear, so the pathogen reaches many countries and millions of people within days; the chain of infection is long and fast. Slowing it: testing travellers, quarantine, vaccination, hygiene, reducing travel during outbreaks."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["What is osmosis?", "A 2 cm cube has a surface area of 24 cm2 and a volume of 8 cm3. State its surface area : volume ratio.", "Give one reason why rapid international travel makes a pandemic more likely."],
+   "notes": "Answers: the diffusion of water molecules through a partially permeable membrane from where there are more water molecules to where there are fewer; 24 : 8 = 3 : 1; an infected person can travel to another country before they know they are ill, carrying the pathogen with them."},
+  {"type": "summary", "title": "What we learned in 9C", "next": "End of 9C. Revise the unit with Workbook pages 27 to 38 and the key words boxes on your worksheets.",
+   "points": ["Surface area : volume ratio gets smaller as organisms get bigger, so large organisms need organs with big surfaces and transport systems.", "Diffusion is the net movement of particles down a concentration gradient; faster when warmer and when the gradient is steeper.", "Osmosis is the diffusion of water through a partially permeable membrane.", "Unit review: pathogens, immunity, nerves and hormones, treatments, statistics and ecology all help us understand and fight disease."],
+   "notes": "Homework: Workbook pages 36 to 38 (9Ce In and out; Combatting pandemics). Collect the potato results if they were measured late."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Complete the text using words from the word bank.", "gap_lines": ["The movement of all particles is ____________. Where there is a concentration ____________,", "more particles move out from a region of ____________ concentration than from a region of", "____________ concentration. This spreading out is known as ____________."]},
+   {"q": "Complete the table for three cubes.", "table": {"headers": ["Cube", "Surface area (cm2)", "Volume (cm3)", "Surface area : volume ratio"], "widths": [2000, 2600, 2400, 2800], "rows": [["sides 1 cm", "6", "1", "6 : 1"], ["sides 2 cm", "", "8", ""], ["sides 3 cm", "54", "", ""]], "row_h": 480}},
+   {"q": "Potato strips in water and salt solution.",
+    "parts": [
+     {"text": "Record your results.", "table": {"headers": ["Strip", "Liquid", "Length at start (mm)", "Length at end (mm)", "Change (mm)", "Firm or floppy?"], "widths": [1000, 1700, 1800, 1800, 1500, 1800], "rows": [["A", "pure water", "", "", "", ""], ["B", "salt solution", "", "", "", ""]], "row_h": 520}},
+     {"text": "Tick the strip that gained water.", "mcq": ["A  strip A (water)", "B  strip B (salt solution)"]},
+     {"text": "Explain your results using the word osmosis.", "lines": 3}
+    ]}
+  ],
+  "stretch": [
+   {"q": "A cuboid has length 3 cm, width 2 cm and height 1 cm. Surface area = 2(l x h) + 2(l x w) + 2(w x h). Volume = l x w x h.",
+    "parts": [{"text": "Calculate the surface area : volume ratio of this cuboid. Show all your working.", "lines": 3}, {"text": "Compare it with the surface area : volume ratio of a cuboid with l = 6 cm, w = 4 cm and h = 2 cm.", "lines": 3}]},
+   {"q": "Oxygen diffuses out of the stomata of a leaf during the day.",
+    "parts": [{"text": "Explain why oxygen diffuses out of a leaf more rapidly on a hot day than on a cold day.", "lines": 2}, {"text": "Explain why oxygen diffuses out of a leaf more rapidly on a windy day than on a still day. (Hint: think about the concentration gradient.)", "lines": 2}]}
+  ],
+  "challenge": [
+   {"q": "A silky anteater has a mass of about 400 g and eats up to 5000 ants a day. A giant anteater has a mass of about 40 kg and eats up to 30 000 ants a day.",
+    "parts": [{"text": "Calculate the number of ants eaten per gram of body mass for each anteater.", "lines": 2}, {"text": "Suggest a reason for the difference, using ideas about surface area : volume ratio.", "lines": 3}]},
+   {"q": "Osmosis in living things.",
+    "parts": [{"text": "Paramecium is a unicellular organism that lives in fresh water. It has a contractile vacuole that collects water from the cytoplasm and pumps it out. Explain why Paramecium needs to remove water from its cytoplasm.", "lines": 3}, {"text": "Tropical sprue stops food being digested properly, so undigested food stays dissolved inside the small intestine. Explain how this can cause diarrhoea (watery faeces) by osmosis.", "lines": 3}]}
+  ],
+  "my_thinking": "An elephant and a mouse: which one loses heat faster for its size, and how does this affect how much each must eat? Use the words surface area and volume.",
+  "word_bank": ["random", "gradient", "higher", "lower", "diffusion", "osmosis", "partially permeable", "surface area", "volume", "ratio"],
+  "exit": ["What is osmosis?", "A 2 cm cube has a surface area of 24 cm2 and a volume of 8 cm3. State its surface area : volume ratio.", "Give one reason why rapid international travel makes a pandemic more likely."],
+  "exit_lines": [2, 1, 1]
+ },
+ "answers": {
+  "core": [
+   "random; gradient; higher; lower; diffusion.",
+   "2 cm cube: surface area 24 cm2, volume 8 cm3, ratio 3 : 1. 3 cm cube: surface area 54 cm2, volume 27 cm3, ratio 2 : 1.",
+   "a) Typical: strip A in water gains 1 to 3 mm and becomes firm; strip B in salt solution loses 1 to 4 mm and becomes floppy. b) Strip A (water). c) Secure answer: the cell membranes are partially permeable. In pure water there are more water molecules outside the cells than inside, so water moves into the cells by osmosis and the strip swells and becomes firm. In strong salt solution there are fewer water molecules outside than inside, so water leaves the cells by osmosis and the strip shrinks and becomes floppy."
+  ],
+  "stretch": [
+   "a) Surface area = 2(3 x 1) + 2(3 x 2) + 2(2 x 1) = 6 + 12 + 4 = 22 cm2. Volume = 3 x 2 x 1 = 6 cm3. Ratio = 22 / 6 = 3.7 : 1. b) Surface area = 2(6 x 2) + 2(6 x 4) + 2(4 x 2) = 24 + 48 + 16 = 88 cm2. Volume = 6 x 4 x 2 = 48 cm3. Ratio = 88 / 48 = 1.8 : 1. The larger cuboid has a smaller surface area : volume ratio (about half).",
+   "a) On a hot day the oxygen particles have more energy and move faster, so diffusion out of the leaf is faster. b) On a windy day the wind blows away the oxygen outside the leaf, keeping the concentration outside low. The concentration difference (gradient) between inside and outside stays large, so diffusion is faster."
+  ],
+  "challenge": [
+   "a) Silky anteater: 5000 / 400 = 12.5 ants per gram. Giant anteater: 30 000 / 40 000 = 0.75 ants per gram. b) Secure answer: the small silky anteater has a much larger surface area : volume ratio, so it transfers energy (heat) to its surroundings much faster for its size. It needs more food per gram of body mass to release enough energy by respiration to stay warm.",
+   "a) Secure answer: the pond water contains more water molecules than the cytoplasm, so water constantly enters the cell by osmosis through the partially permeable cell membrane. If it were not pumped out, the cell would swell and could burst. b) Secure answer: the undigested food makes the liquid inside the intestine concentrated (fewer water molecules than in the cells and blood). Water moves out of the body's cells into the intestine by osmosis, so the faeces contain a lot of water: diarrhoea."
+  ],
+  "exit": [
+   "The diffusion of water molecules through a partially permeable membrane, from where there are more water molecules to where there are fewer.",
+   "24 : 8 = 3 : 1.",
+   "An infected person can travel to another country before they know they are ill, carrying the pathogen with them, so the disease reaches many countries very quickly."
+  ],
+  "my_thinking": "The mouse loses heat faster for its size because it has a much larger surface area : volume ratio; it must eat a large amount of food for its mass (several times a day) to release enough energy to stay warm, while the elephant eats far less per kilogram of body mass."
+ }
+}

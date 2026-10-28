@@ -1,0 +1,148 @@
+{
+ "id": "9A_L03",
+ "unit": "9A",
+ "unit_title": "Genetics and evolution",
+ "lesson": 3,
+ "n_lessons": 7,
+ "title": "Probability and statistics",
+ "title_cn": "概率与统计",
+ "slug": "Probability_and_statistics",
+ "book": {"pages": "10 to 11", "spread": "9Ab Probability (Working Scientifically)"},
+ "workbook": {"pages": "7"},
+ "oak": [
+  {"unit": "Variation (differences within species), Year 8", "lesson": "Discontinuous variation: data handling and analysis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/variation-differences-within-species/lessons/discontinuous-variation-data-handling-and-analysis"},
+  {"unit": "Variation (differences within species), Year 8", "lesson": "Continuous variation: data handling and analysis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/variation-differences-within-species/lessons/continuous-variation-data-handling-and-analysis"}
+ ],
+ "big_idea": "Scientists use statistics to collect, analyse and present data, and probability (as a percentage, fraction or decimal) to say how likely something is, including inheriting a condition.",
+ "goals": [
+  "I can explain what probability is and write a probability as a percentage, a fraction and a decimal.",
+  "I can calculate an experimental probability from results and compare it with a theoretical probability."
+ ],
+ "keywords": [
+  {"en": "statistics", "cn": "统计", "meaning": "collecting, analysing and presenting data"},
+  {"en": "sample", "cn": "样本", "meaning": "a small part of a group that is measured to estimate the whole group"},
+  {"en": "mean", "cn": "平均数", "meaning": "the sum of the values divided by the number of values"},
+  {"en": "median", "cn": "中位数", "meaning": "the middle value when the values are in order"},
+  {"en": "mode", "cn": "众数", "meaning": "the most common value in a set"},
+  {"en": "probability", "cn": "概率", "meaning": "the chance of something happening"},
+  {"en": "percentage", "cn": "百分比", "meaning": "a number out of 100, shown with the % sign"},
+  {"en": "fraction", "cn": "分数", "meaning": "a part of a whole, written as one number over another, e.g. 1/4"},
+  {"en": "decimal", "cn": "小数", "meaning": "a number written with a decimal point, e.g. 0.25"},
+  {"en": "experimental probability", "cn": "实验概率", "meaning": "a probability worked out from the results of an experiment"},
+  {"en": "theoretical probability", "cn": "理论概率", "meaning": "a probability worked out by reasoning about all the possible outcomes"}
+ ],
+ "misconceptions": [
+  "'A 76% chance of rain' means it rains for 76% of the time. It means that if that hour happened 100 times, it would rain on about 76 of them.",
+  "After three sixes in a row, a six is 'due' or 'used up'. Each throw is independent: the theoretical probability stays 1/6.",
+  "A 50% chance of inheriting a condition means that in a family of two children exactly one will have it. Each child has a 50% chance; two, one or neither may have it."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules. Dice stay on the desks.",
+ "equipment": ["Two dice per pair (or a dice app on the teacher's device for a class demonstration)", "Worksheets (standard and Chinese key words versions)", "Calculators (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Weather forecast: what does 76% mean? Takes answers.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the goals; points out that mean, median and mode are revision from maths.", "students": "Listen; find the key words.", "resource": "Slide 3"},
+  {"phase": "Hook", "min": 3, "teacher": "The dinosaur survey: why ask 113,867 people?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 9, "teacher": "Teaches what statistics is for; the probability scale and the three ways to write a probability; experimental versus theoretical; the sleeve-length normal distribution. Quick check.", "students": "Convert between %, fraction and decimal; answer the quick check.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 15, "teacher": "Runs the two-dice investigation; circulates to check tallies and conversions.", "students": "Throw two dice 50 times, tally the scores, calculate experimental probabilities; Stretch and Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 3, "teacher": "Achondroplasia: is the third child certain to inherit it?", "students": "Pair discussion with the frames.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 3, "teacher": "Collects exit tickets.", "students": "Complete the exit ticket alone.", "resource": "Slide 12"},
+  {"phase": "Summary", "min": 2, "teacher": "Recaps; previews DNA (Lesson 4).", "students": "Tick the goals they met.", "resource": "Slide 13"}
+ ],
+ "tiers": {
+  "core": "Match the averages and probability to their meanings; complete the probability scale; tally the dice scores and write each experimental probability as a fraction, decimal and percentage.",
+  "stretch": "Interpret a 5% chance of rain; bead probabilities in three forms; compare experimental and theoretical probability for a score of 7.",
+  "challenge": "Theoretical probabilities for achondroplasia and independent events; why 100 throws are more reliable than 10."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How do scientists use statistics and probability?", "image": "dice",
+   "notes": "A Working Scientifically lesson. The maths is revision; the science is using it to describe variation and to predict inherited conditions, which leads into genetic counselling in Lesson 5."},
+  {"type": "donow", "title": "Do Now: chance of rain", "minutes": 4,
+   "prompt": ["A weather app says there is a 76% chance of rain between 11:00 and 12:00 tomorrow.", "1. What do you think 76% means here?", "2. Write 76% as a fraction and as a decimal.", "3. Is rain certain? How do you know?"],
+   "notes": "Expected: if that hour happened 100 times over, it would rain on about 76 occasions; 76/100 (or 19/25) and 0.76; not certain, because certain would be 100%. Four minutes, in books."},
+  {"type": "today", "title": "Today",
+   "notes": "Read the goals. Mean, median and mode are maths words the students know; today they are used on science data."},
+  {"type": "hook", "title": "Are you interested in dinosaurs?", "question": "A company asked 113,867 people in Japan how interested they were in dinosaurs. 25% said 'interested' and 10% said 'uninterested'. Why ask so many people, and what could the company do with the answers?",
+   "text": ["Talk to a partner. Would 20 people have been enough?"],
+   "notes": "The sample is large so that the results represent the whole population; the findings could decide whether to use dinosaurs in an advert. Twenty people might all be from one school or one age group. This is statistics: collecting, analysing and presenting data to draw conclusions and make predictions."},
+  {"type": "learn", "title": "What statistics is for", "vocab": ["statistics", "sample", "mean", "median", "mode"],
+   "text": ["Statistics is collecting, analysing and presenting data.", "Collect data: use a sample to estimate values for a whole population.", "Draw conclusions: calculate averages (mean, median, mode); find patterns with graphs.", "Present findings and make predictions.", "Example: sleeve lengths of 12 men: 86, 88, 90, 90, 91, 92 cm. Mode 90, median 90, mean 89.5."],
+   "key_idea": "Mean: add up and divide. Median: middle value in order. Mode: most common value.",
+   "notes": "Work the example on the board (the list is six values for speed: mean = 537 divided by 6 = 89.5). A clothing company uses this to decide how many shirts of each size to make."},
+  {"type": "learn", "title": "Probability", "image": "diagram:probability_scale", "vocab": ["probability", "percentage", "fraction", "decimal"],
+   "text": ["Probability is the chance of something happening.", "0% (0) is impossible; 100% (1) is certain; 50% (1/2, 0.5) is an even chance.", "To change a percentage to a decimal: write it over 100 and divide. 52% = 52/100 = 0.52.", "With one dice: probability of a 1 is 1/6; of 'not 1' is 5/6."],
+   "key_idea": "The same probability can be written as a percentage, a fraction or a decimal.",
+   "notes": "Point along the scale. Ask for the probability of the Sun rising tomorrow (certain) and of finding a live dinosaur (impossible). Check conversions: 25% = 1/4 = 0.25."},
+  {"type": "compare", "title": "Experimental or theoretical?", "vocab": ["experimental probability", "theoretical probability"],
+   "left": {"heading": "Experimental probability", "points": ["Worked out from results.", "Flip a coin 100 times: 52 heads, so 52/100 = 52%.", "Gets closer to the true value with more trials.", "Used when we cannot reason out every outcome, e.g. weather."]},
+   "right": {"heading": "Theoretical probability", "points": ["Worked out by reasoning about all the outcomes.", "A fair coin: 1/2. One dice: 1/6 for each number.", "Inheritance: if one parent has achondroplasia, each child has a 50% chance.", "Does not change because of earlier results."]},
+   "key_idea": "Experimental comes from doing it; theoretical comes from thinking about it. With many trials they get close.",
+   "notes": "Achondroplasia is an inherited condition in which people do not grow very tall (up to about 130 cm). Neither parent: 0.003%; one parent: 50%; both parents: 75%. The worksheet Challenge uses these numbers."},
+  {"type": "chart", "title": "Probability from a normal distribution", "vocab": ["normal distribution", "mean", "median", "mode"],
+   "chart": {"type": "bar", "gap": 0, "title": "Shirt sleeve lengths needed by a sample of 102 men", "categories": ["80", "85", "90", "95", "100"], "series": [{"name": "Number of men", "values": [4, 18, 55, 20, 5]}], "x_title": "Sleeve length (cm)", "y_title": "Number of men"},
+   "text": ["A shopper picked at random is much more likely to need 90 cm sleeves than 95 cm.", "Probability of needing 95 cm: 20 out of 102, about 20%.", "In a normal distribution the mean, median and mode are the same value."],
+   "key_idea": "A bell-shaped graph tells you how likely each value is.",
+   "notes": "Ask: is a random shopper more likely to need 85 cm or 95 cm sleeves? (About the same: 18 and 20.) Which value is the mean, median and mode here? (90 cm.)"},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. Write the answer, then we check.",
+   "questions": ["Write 25% as a fraction.", "Write 0.75 as a percentage.", "What is the theoretical probability of rolling a 6 with one dice?", "Write 'impossible' as a decimal.", "A coin landed heads 48 times in 100 flips. What is the experimental probability of heads?"],
+   "notes": "Answers: 1/4; 75%; 1/6 (about 17%); 0; 48/100 = 0.48 = 48%."},
+  {"type": "practical", "title": "Investigation: two dice", "aim": "Find the experimental probability of each score (2 to 12) when two dice are thrown and added.",
+   "equipment": ["Two dice", "Worksheet tally table (Core question 3)", "Calculator (optional)"],
+   "method": ["Throw both dice and add the two numbers to get the score.", "Record a tally mark next to that score. Repeat until you have 50 throws.", "Count the tallies to find the frequency of each score.", "Experimental probability = frequency divided by 50. Write it as a fraction, a decimal and a percentage.", "Compare your result for a score of 7 with the theoretical probability 6/36 (about 17%)."],
+   "safety": "No hazards. Keep dice on the desk; share the throwing and the recording.",
+   "notes": "Fifteen minutes. Pairs: one throws, one records, swap at 25 throws. If time is short, stop at 30 throws and divide by 30. Pool the class results on the board for a bigger sample: the experimental probabilities get closer to the theoretical values."},
+  {"type": "think", "title": "Is the third child certain?", "prompt": "If one parent has achondroplasia, each child has a 50% chance of inheriting it. A couple already has two children without it. Is their third child certain to have it?",
+   "frames": ["The probability for the third child is still ___ because ___.", "Each child is a separate event, like ___.", "'Certain' would mean a probability of ___."],
+   "notes": "Expected: still 50%; each fertilisation is a separate event, like a new coin flip; certain would be 100%. Link to Lesson 5: a genetic counsellor explains these probabilities to families."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 3,
+   "questions": ["What is probability?", "Write 5% as a decimal.", "A bag has 20 red, 10 green, 5 blue and 15 yellow beads. Bilal takes one bead. Give the probability that it is blue as a fraction and as a percentage."],
+   "notes": "Answers: the chance of something happening; 0.05; 5/50 = 1/10 = 10%."},
+  {"type": "summary", "title": "What we learned", "next": "DNA: how the structure of DNA was discovered, and how DNA, chromosomes and genes fit together.",
+   "points": ["Statistics means collecting, analysing and presenting data; a large random sample represents the population.", "Probability is the chance of something happening: 0 (impossible) to 1 (certain), written as a percentage, fraction or decimal.", "Experimental probability comes from results; theoretical probability from reasoning about the outcomes.", "In a normal distribution the mean, median and mode are the same, and values near the middle are most likely."],
+   "notes": "Homework: Workbook page 7 (9Ab Probability)."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each scientific term to its definition. Draw a line.", "match": {"left": ["mean", "median", "mode", "probability"], "right": ["the most common value in a set", "the chance of something happening", "the sum of the values divided by the number of values", "the middle value in a set of values in order"]}},
+   {"q": "Complete the probability scale. Fill in the missing values.", "table": {"headers": ["Percentage", "Fraction", "Decimal", "Word"], "widths": [2400, 2400, 2400, 2600], "rows": [["0%", "0", "0", "impossible"], ["25%", "1/4", "", ""], ["50%", "", "0.5", "even chance"], ["75%", "", "", "likely"], ["100%", "1", "", "certain"]]}},
+   {"q": "Two dice investigation. Throw two dice, add the numbers, and tally the score. Do 50 throws.", "parts": [
+     {"text": "Complete the table. Experimental probability = frequency divided by 50.", "table": {"headers": ["Score", "Tally", "Frequency", "Fraction (out of 50)", "Decimal", "Percentage"], "widths": [1100, 2500, 1500, 1900, 1400, 1400], "rows": [["2", "", "", "", "", ""], ["3", "", "", "", "", ""], ["4", "", "", "", "", ""], ["5", "", "", "", "", ""], ["6", "", "", "", "", ""], ["7", "", "", "", "", ""], ["8", "", "", "", "", ""], ["9", "", "", "", "", ""], ["10", "", "", "", "", ""], ["11", "", "", "", "", ""], ["12", "", "", "", "", ""]]}},
+     {"text": "Which score was the mode (the most common) in your results?", "lines": 1}]}
+  ],
+  "stretch": [
+   {"q": "A weather forecast says there is a 5% chance of rain in your area between 11:00 and 12:00. Tick the box that gives the correct meaning.", "mcq": ["A  Rain is predicted to fall for 5% of the time between 11:00 and 12:00.", "B  If that hour happened 100 times, it would rain on about five of them.", "C  Rain is predicted to fall at five different times between 11:00 and 12:00.", "D  5% of the rain predicted for tomorrow will fall between 11:00 and 12:00."]},
+   {"q": "A bag contains 50 beads: 20 red, 10 green, 5 blue and 15 yellow. Bilal takes one bead without looking.", "parts": [
+     {"text": "Give the probability that the bead is blue as a fraction, a decimal and a percentage.", "lines": 2},
+     {"text": "Calculate the probability that the bead is not red. Give your answer as a percentage.", "lines": 2}]},
+   {"q": "The theoretical probability of a score of 7 with two dice is 6/36, which is about 17%. Compare this with your experimental probability for 7. Suggest a reason for any difference.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "Achondroplasia is an inherited condition. If neither parent has it, the theoretical probability of a child having it is 0.003%. If one parent has it, the probability is 50%. If both parents have it, the probability is 75%.", "parts": [
+     {"text": "Write the probability for a child with one affected parent as a decimal and as a fraction.", "lines": 1},
+     {"text": "A couple (one parent affected) has two children without the condition. Explain whether their third child is more likely to have it.", "lines": 3},
+     {"text": "Explain why these are theoretical probabilities and not experimental probabilities.", "lines": 2}]},
+   {"q": "Calculate the theoretical probability of throwing a number less than three with one dice. Give your answer as a fraction, a decimal and a percentage. Then explain why an experimental probability from 100 throws is more reliable than one from 10 throws.", "lines": 4}
+  ],
+  "my_thinking": "A friend says: 'I rolled a six three times in a row, so the next roll will definitely not be a six.' Do you agree? Explain your thinking.",
+  "word_bank": ["statistics", "sample", "mean", "median", "mode", "probability", "percentage", "fraction", "decimal", "experimental probability", "theoretical probability"],
+  "exit": ["What is probability?", "Write 5% as a decimal.", "A bag has 20 red, 10 green, 5 blue and 15 yellow beads. Give the probability of taking a blue bead as a fraction and as a percentage."],
+  "exit_lines": [1, 1, 1]
+ },
+ "answers": {
+  "core": [
+   "mean: the sum of the values divided by the number of values; median: the middle value in a set of values in order; mode: the most common value in a set; probability: the chance of something happening.",
+   "25%: 1/4, 0.25, unlikely (accept 'more unlikely'); 50%: 1/2; 75%: 3/4, 0.75; 100%: 1.0 (1).",
+   "a) Frequencies add up to 50; each fraction is frequency/50, the decimal is frequency divided by 50, the percentage is the decimal times 100 (e.g. 8/50 = 0.16 = 16%). b) Usually 7 (theoretically the most common score), but accept whatever the data show."
+  ],
+  "stretch": [
+   "B.",
+   "a) 5/50 = 1/10 = 0.1 = 10%. b) Not red: 30/50 = 0.6 = 60%.",
+   "Secure answer: the class values will be close to but not exactly 17%, e.g. 9/50 = 18%. Fifty throws is a small sample, so chance makes the experimental value differ from the theoretical one; with more throws (pooling the class results) the experimental probability gets closer to 17%."
+  ],
+  "challenge": [
+   "a) 0.5 and 1/2. b) No. Each child is a separate event (a different fertilisation), so the probability is still 50% for the third child; earlier children do not change it. c) They are worked out by reasoning about how the condition is inherited (the genetic information in the gametes), not by counting results from an experiment.",
+   "Numbers less than three: 1 and 2, so 2/6 = 1/3 = 0.33 (0.333...) = 33%. One hundred throws is a larger sample, so a run of lucky or unlucky throws has less effect and the experimental probability is closer to the theoretical value; with 10 throws one unusual throw changes the result by 10%."
+  ],
+  "exit": ["The chance of something happening.", "0.05.", "5/50 = 1/10; 10%."],
+  "my_thinking": "Disagree. Each throw is independent: the dice has no memory, so the theoretical probability of a six is still 1/6 on every throw. Three sixes in a row is unlikely (1/216) but it has already happened and does not change the next throw."
+ }
+}

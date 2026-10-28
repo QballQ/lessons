@@ -1,0 +1,149 @@
+{
+ "id": "9C_L05",
+ "unit": "9C",
+ "unit_title": "Threat from disease",
+ "lesson": 5,
+ "n_lessons": 7,
+ "title": "Medians and quartiles",
+ "title_cn": "中位数与四分位数",
+ "slug": "Medians_and_quartiles",
+ "book": {"pages": "46 to 47", "spread": "9Cc Medians and quartiles (Working Scientifically)"},
+ "workbook": {"pages": "33"},
+ "oak": [
+  {"unit": "Variation (differences within species), Year 8", "lesson": "Continuous variation: data handling and analysis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/variation-differences-within-species/lessons/continuous-variation-data-handling-and-analysis"}
+ ],
+ "big_idea": "The median and quartiles split an ordered set of data into halves and quarters, so scientists can compare groups in a clinical trial and measure variation without extreme values getting in the way.",
+ "goals": [
+  "I can find the median, the lower and upper quartiles and the interquartile range of a simple data set.",
+  "I can use quartiles to compare the variation in two groups and to interpret the results of a medicine trial."
+ ],
+ "keywords": [
+  {"en": "median", "cn": "中位数", "meaning": "the middle value when the values are written in order"},
+  {"en": "mean", "cn": "平均数", "meaning": "the total of the values divided by the number of values"},
+  {"en": "range", "cn": "极差", "meaning": "the largest value minus the smallest value"},
+  {"en": "quartile", "cn": "四分位数", "meaning": "a value one quarter or three quarters of the way through the ordered data"},
+  {"en": "lower quartile", "cn": "下四分位数", "meaning": "the value one quarter of the way through the ordered data (LQ)"},
+  {"en": "upper quartile", "cn": "上四分位数", "meaning": "the value three quarters of the way through the ordered data (UQ)"},
+  {"en": "interquartile range", "cn": "四分位距", "meaning": "UQ minus LQ: the spread of the middle 50% of the data"},
+  {"en": "normal distribution", "cn": "正态分布", "meaning": "the bell-shaped curve seen when a continuous variable is plotted for a population"},
+  {"en": "continuous variation", "cn": "连续变异", "meaning": "variation that can take any value in a range, e.g. height"},
+  {"en": "clinical trial", "cn": "临床试验", "meaning": "a test of a medicine on groups of people"}
+ ],
+ "misconceptions": [
+  "The median is the middle number as written. The values must be put in order first; the median is the middle of the ordered list.",
+  "Range and interquartile range are the same thing. The range uses the two extreme values; the interquartile range uses the middle 50% and ignores extremes.",
+  "A bar chart of continuous data needs gaps between the bars. Grouped continuous data are plotted with the bars touching (as in 9A)."
+ ],
+ "safety": "No practical hazards. Measure hand spans gently; do not stretch the hand painfully.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "30 cm rulers, one per pair", "Board space for the class hand span data", "Mini whiteboards for the quick check (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Nine pulse rates: order them, find the middle one and the range.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Two headlines about statins: how can scientists tell who a drug helps?", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 9, "teacher": "Teaches median and quartiles, the interquartile range, the leaf length comparison and the statin quartiles. Runs the quick check.", "students": "Answer the quick check on whiteboards.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 15, "teacher": "Collects the class hand span data on the board (6 minutes), then sets the worksheet. Circulates: checks ordering before median.", "students": "Measure hand spans; Core (foot length data), Stretch (15-value data set, class data), Challenge (statins).", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Which statin headline is fairer? Takes answers with frames.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (ecology).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Order a small data set and find the median and range; group the foot length data, plot a bar chart and identify the median group.",
+  "stretch": "Find the median, quartiles and interquartile range of a 15-value data set and of the class hand span data.",
+  "challenge": "Interpret the statin trial quartiles; explain why the interquartile range is better than the range for comparing two groups."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "How do scientists tell which patients a medicine really helps?", "image": "diagram:median_quartiles",
+   "notes": "Lesson 5 of 9C, a Working Scientifically lesson. It uses the clinical trial idea from Lesson 4 and the continuous variation and normal distribution ideas from 9A. Students need rulers for the hand span data."},
+  {"type": "donow", "title": "Do Now: nine pulse rates", "minutes": 4,
+   "prompt": ["Resting pulse rates (beats per minute) of nine students: 72, 65, 80, 58, 90, 66, 75, 61, 70.", "1. Write the values in order, smallest first.", "2. Which value is in the middle?", "3. Calculate the range (largest minus smallest)."],
+   "notes": "Four minutes, in books. Ordered: 58, 61, 65, 66, 70, 72, 75, 80, 90. Middle value (the median) 70. Range 90 minus 58 = 32. Ask: why order them first? Because the middle of the unordered list (90) tells you nothing."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. The Chinese key words version has the same words with Chinese beside them."},
+  {"type": "hook", "title": "Wonder drug or health scare?", "question": "'Statins are a new wonder drug.' 'Statins in new health scare.' Two headlines about the same medicine. Trials showed statins protect most people from heart attacks, but a few may be harmed. How can scientists tell which patients a drug helps?",
+   "text": ["Talk to a partner: what would you need to measure, and how would you compare the patients?"],
+   "notes": "Expected: measure something about each patient (pulse rate, cholesterol, age), split them into groups, and compare how the drug worked in each group. Splitting a large group fairly needs the median and quartiles: that is today's lesson."},
+  {"type": "diagram", "title": "Median and quartiles", "image": "diagram:median_quartiles", "text": "In a clinical trial, scientists often divide the people into groups, e.g. pulse rate above or below the median. Write the values in order first.",
+   "key_idea": "Median = middle value. Quartiles = one quarter and three quarters of the way through. Interquartile range = UQ minus LQ.",
+   "notes": "Work through the 11 values. Median is the 6th of 11. The lower quartile is the middle of the lower half (3rd value), the upper quartile the middle of the upper half (9th value). With an even number of values the median is halfway between the two middle values. Interquartile range here is 7 minus 3 = 4."},
+  {"type": "learn", "title": "Why use the interquartile range?", "image": "diagram:height_histogram", "vocab": ["normal distribution", "interquartile range", "range"],
+   "text": ["Height shows continuous variation: a bell-shaped normal distribution.", "The interquartile range is the spread of the middle 50% of the data.", "It ignores extreme values, so it is better than the range for comparing two groups.", "Small interquartile range: little variation. Large: a lot of variation."],
+   "key_idea": "The interquartile range measures variation without being biased by extreme values.",
+   "notes": "One very tall student makes the range huge but barely changes the interquartile range. On a normal distribution, the median is in the middle of the bell and the quartiles sit either side of it. Point out that most people are near the median and few are far from it."},
+  {"type": "chart", "title": "Leaves on two trees of the same species",
+   "chart": {"type": "bar", "gap": 0, "title": "Number of leaves of each length", "categories": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"], "series": [{"name": "Tree A", "values": [0, 1, 3, 8, 13, 8, 3, 1, 0, 0]}, {"name": "Tree B", "values": [1, 2, 4, 6, 7, 6, 4, 3, 2, 1]}], "x_title": "Length of leaf (cm)", "y_title": "Number of leaves"},
+   "text": ["Tree A: narrow interquartile range. Most leaves are about the same length.", "Tree B: wide interquartile range. A lot of variation.", "On which tree would you find leaves much shorter or longer than the others?"],
+   "key_idea": "A wide interquartile range means more variation in the population.",
+   "notes": "Both trees have the same median (about 5 cm) but Tree B has far more variation. Answer: Tree B, because its distribution is wider, so more leaves are far from the median. This is the book's diagram E in chart form."},
+  {"type": "chart", "title": "Statins: who does the drug help?",
+   "chart": {"type": "bar", "title": "Change in risk of heart attack after taking statins (%)", "categories": ["lowest quartile", "lower middle quartile", "upper middle quartile", "top quartile"], "series": [{"name": "change in risk (%)", "values": [-37.7, -34.3, -24.7, 16.6]}], "x_title": "Quartile of cholesterol absorption", "y_title": "Change in risk (%)"},
+   "text": ["Patients were measured for how well they absorb cholesterol and split into quartiles (boundaries 107, 126, 148).", "In three quartiles the risk fell. In the top quartile it rose.", "Splitting the data shows the drug helps most people, but not everyone."],
+   "key_idea": "Quartiles let scientists compare groups inside a large set of data.",
+   "notes": "Interquartile range of the cholesterol absorption index: 148 minus 107 = 41. Both headlines in the Hook contain some truth: the drug lowers risk for about three quarters of patients but may raise it for the top quartile. This is why doctors test patients before prescribing."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Find the median of 3, 9, 4, 7, 5.", "In the ordered set 1 2 3 3 4 5 6 7 7 8 9, what is the lower quartile?", "UQ is 7 and LQ is 3. What is the interquartile range?", "Does the interquartile range use the smallest and largest values? Yes or no.", "What shape is a normal distribution?"],
+   "notes": "Answers: order to 3 4 5 7 9, median 5; 3 (the 3rd value); 4; no, it uses the middle 50% only; a bell shape, symmetrical about the median."},
+  {"type": "practical", "title": "Class data: hand span", "aim": "Collect the hand spans of the class and find the median, quartiles and interquartile range.",
+   "equipment": ["30 cm ruler", "the class table on the board", "Stretch 2 on your worksheet"],
+   "method": ["Spread one hand flat on the desk. Measure from the tip of the thumb to the tip of the little finger in cm, to one decimal place.", "Write your value on the board.", "Copy the class values on to your worksheet in order, smallest first.", "Find the median, then the lower and upper quartiles.", "Calculate the interquartile range. Is the class data roughly a normal distribution?"],
+   "safety": "No hazards. Measure gently; do not stretch the hand.",
+   "notes": "Six minutes for the data collection, then the worksheet. With 30 values the median is halfway between the 15th and 16th; the quartiles are near the 8th and 23rd values. Accept small differences in method for the quartiles; the idea of quarters matters more than the exact rule at this stage."},
+  {"type": "think", "title": "Which headline is fairer?", "prompt": "'Statins are a new wonder drug' and 'Statins in new health scare' both describe the same trial. Using the quartile results, which headline is fairer? Could both be true?",
+   "frames": ["The results show that for ___ of the patients the risk ___.", "The headline '___' is fairer because ___.", "Both could be partly true because ___."],
+   "notes": "Expected: for three quarters of the patients the risk of a heart attack fell by 25 to 38%, so 'wonder drug' describes most patients; the top quartile's risk rose by 16.6%, so 'health scare' describes a minority. A fair report would give both. Link back to bias from 9B if the class has done it."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Write these values in order and give the median: 12, 5, 9, 20, 7.", "The upper quartile is 30 and the lower quartile is 18. Calculate the interquartile range.", "What does a small interquartile range tell you about a population?"],
+   "notes": "Answers: 5, 7, 9, 12, 20, median 9; 12; the individuals show little variation (the middle 50% of values are close together)."},
+  {"type": "summary", "title": "What we learned", "next": "Ecology: how scientists estimate how many organisms live in an area, and how they are spread out.",
+   "points": ["Order the values first. The median is the middle value.", "Quartiles are one quarter and three quarters of the way through; interquartile range = UQ minus LQ.", "The interquartile range measures the variation in the middle 50% and ignores extreme values.", "Splitting trial data into quartiles shows who a medicine helps and who it does not."],
+   "notes": "Homework: Workbook page 33 (9Cc Medians and quartiles). Students who did not finish the foot length bar chart complete it for homework."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Nine ladybirds were counted for spots: 7, 2, 9, 4, 7, 5, 2, 8, 6.", "parts": [{"text": "Write the values in order, smallest first.", "lines": 1}, {"text": "State the median.", "lines": 1}, {"text": "Calculate the range.", "lines": 1}]},
+   {"q": "The foot lengths (cm) of 36 male students were: 25.7, 29.1, 26.4, 26.5, 28.2, 27.9, 27.9, 28.1, 26.9, 27.3, 27.2, 28.8, 27.9, 27.4, 28.2, 26.6, 27.3, 27.8, 26.3, 27.3, 28.0, 26.6, 27.1, 26.6, 26.4, 25.9, 27.3, 25.1, 28.5, 26.7, 28.8, 26.6, 28.6, 29.0, 25.7, 28.9.",
+    "parts": [
+     {"text": "Complete the table by counting the number of students in each group. Tick off each value as you use it.", "table": {"headers": ["Foot length (cm)", "25.1 to 25.5", "25.6 to 26.0", "26.1 to 26.5", "26.6 to 27.0", "27.1 to 27.5", "27.6 to 28.0", "28.1 to 28.5", "28.6 to 29.0", "29.1 to 29.5"], "widths": [1760, 890, 890, 890, 890, 890, 890, 890, 890, 890], "rows": [["Number of students", "", "", "", "", "", "", "", "", ""]], "row_h": 500}},
+     {"text": "Plot a bar chart of the grouped data on the grid. The bars should touch. Label both axes.", "grid": true},
+     {"text": "Identify the group that contains the median foot length.", "lines": 1},
+     {"text": "Does your bar chart show a normal distribution? Explain your answer.", "lines": 2}
+    ]}
+  ],
+  "stretch": [
+   {"q": "Here is a data set: 28, 13, 4, 25, 21, 14, 6, 19, 35, 17, 22, 34, 11, 16, 8.", "parts": [{"text": "Write the values in order.", "lines": 1}, {"text": "Find the median value.", "lines": 1}, {"text": "Find the lower quartile and the upper quartile.", "lines": 1}, {"text": "Calculate the interquartile range.", "lines": 1}]},
+   {"q": "Class data: copy the class hand span values in order. Then find the median, the quartiles and the interquartile range.", "box": 1000}
+  ],
+  "challenge": [
+   {"q": "In a statin trial, patients were measured for their ability to absorb cholesterol and split into quartiles. The table shows the change in their risk of a heart attack after taking statins.",
+    "table": {"headers": ["Quartile of cholesterol absorption", "lowest", "lower middle", "upper middle", "top"], "widths": [3400, 1600, 1600, 1600, 1600], "rows": [["Change in risk of heart attack (%)", "-37.7", "-34.3", "-24.7", "+16.6"]]},
+    "parts": [
+     {"text": "Explain why the data for cholesterol absorption were split into quartiles.", "lines": 2},
+     {"text": "The quartile boundaries of the cholesterol absorption index were 107, 126 and 148. Calculate the interquartile range.", "lines": 1},
+     {"text": "Explain what the results show about the effect of cholesterol absorption on how well statins reduce the risk of a heart attack.", "lines": 3}
+    ]},
+   {"q": "Explain why the interquartile range is more useful than the range for comparing the variation in two different groups.", "lines": 2}
+  ],
+  "my_thinking": "A newspaper says 'the average family has 1.7 children'. Which kind of average is this, and why can no family have 1.7 children? When would the median be more useful than the mean?",
+  "word_bank": ["median", "mean", "mode", "range", "lower quartile", "upper quartile", "interquartile range", "normal distribution", "order", "clinical trial"],
+  "exit": ["Write these values in order and give the median: 12, 5, 9, 20, 7.", "The upper quartile is 30 and the lower quartile is 18. Calculate the interquartile range.", "What does a small interquartile range tell you about a population?"],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "a) 2, 2, 4, 5, 6, 7, 7, 8, 9. b) Median 6. c) Range 9 minus 2 = 7.",
+   "a) 25.1 to 25.5: 1; 25.6 to 26.0: 3; 26.1 to 26.5: 4; 26.6 to 27.0: 6; 27.1 to 27.5: 7; 27.6 to 28.0: 5; 28.1 to 28.5: 4; 28.6 to 29.0: 5; 29.1 to 29.5: 1 (total 36). b) Bars touching, x-axis foot length (cm) in groups, y-axis number of students. c) 36 values: the median lies between the 18th and 19th values, which are both in the 27.1 to 27.5 group. d) Roughly, yes: the bars rise to a peak in the middle group and fall away on both sides (a bell shape), although the 28.6 to 29.0 group is a little higher than a perfect bell."
+  ],
+  "stretch": [
+   "a) 4, 6, 8, 11, 13, 14, 16, 17, 19, 21, 22, 25, 28, 34, 35. b) Median = 17 (the 8th of 15 values). c) LQ = 11 (4th value), UQ = 25 (12th value). d) Interquartile range = 25 minus 11 = 14.",
+   "Class results. Check that the values were ordered first and that the median is the middle value (halfway between the two middle values for an even number)."
+  ],
+  "challenge": [
+   "a) To divide the patients into four equal-sized groups by their cholesterol absorption, so the effect of the drug could be compared between people who absorb little and people who absorb a lot. b) 148 minus 107 = 41. c) Secure answer: statins reduced the risk of a heart attack for patients in the lowest three quartiles (by 37.7%, 34.3% and 24.7%), and the benefit got smaller as cholesterol absorption increased. For the top quartile the risk rose by 16.6%, so the drug helped most patients but may harm those who absorb the most cholesterol.",
+   "Secure answer: the range uses only the two extreme values, so one unusually large or small value changes it a lot and can bias the comparison. The interquartile range shows the spread of the middle 50% of the data, which is not affected by extreme values, so it gives a fairer comparison of the variation in the two groups."
+  ],
+  "exit": [
+   "5, 7, 9, 12, 20; median 9.",
+   "30 minus 18 = 12.",
+   "The individuals show little variation: the middle 50% of values are close together."
+  ],
+  "my_thinking": "It is the mean (total children divided by number of families); children come in whole numbers, so a mean of 1.7 does not describe any real family. The median is more useful when a few extreme values would pull the mean away from a typical value, e.g. incomes or house prices."
+ }
+}

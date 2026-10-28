@@ -1,0 +1,148 @@
+{
+ "id": "9A_L01",
+ "unit": "9A",
+ "unit_title": "Genetics and evolution",
+ "lesson": 1,
+ "n_lessons": 7,
+ "title": "Environmental variation",
+ "title_cn": "环境变异",
+ "slug": "Environmental_variation",
+ "book": {"pages": "5 to 7", "spread": "9Aa Monsters and myth; 9Aa Environmental variation"},
+ "workbook": {"pages": "3 to 4"},
+ "oak": [
+  {"unit": "Variation (differences within species), Year 8", "lesson": "Variation within species", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/variation-differences-within-species/lessons/variation-within-species"},
+  {"unit": "Adaptations, competition, natural selection and evolution, Year 9", "lesson": "Heritable variation", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/adaptations-competition-natural-selection-and-evolution/lessons/heritable-variation"}
+ ],
+ "big_idea": "The surroundings of an organism (its environment) can change its characteristics, and this environmental variation can be continuous or discontinuous.",
+ "goals": [
+  "I can describe abiotic and biotic environmental factors and give examples of environmental variation.",
+  "I can tell continuous variation from discontinuous variation, and explain why environmental variation can make classification difficult."
+ ],
+ "keywords": [
+  {"en": "species", "cn": "物种", "meaning": "a group of organisms that can breed together to produce offspring that can also breed"},
+  {"en": "extinct", "cn": "灭绝的", "meaning": "a species with no living members left"},
+  {"en": "environment", "cn": "环境", "meaning": "the surroundings of an organism"},
+  {"en": "abiotic factor", "cn": "非生物因素", "meaning": "a physical (non-living) part of the environment, e.g. temperature"},
+  {"en": "biotic factor", "cn": "生物因素", "meaning": "the activities of other organisms, e.g. predation, disease"},
+  {"en": "characteristic", "cn": "特征", "meaning": "a feature of an organism"},
+  {"en": "variation", "cn": "变异", "meaning": "the differences between the characteristics of organisms"},
+  {"en": "environmental variation", "cn": "环境变异", "meaning": "variation caused by an organism's environment"},
+  {"en": "continuous variation", "cn": "连续变异", "meaning": "variation that can have any value between two points"},
+  {"en": "discontinuous variation", "cn": "不连续变异", "meaning": "variation with only a limited set of possible values"},
+  {"en": "classification", "cn": "分类", "meaning": "sorting organisms into groups"}
+ ],
+ "misconceptions": [
+  "'Variation' only means big differences. Any difference in a characteristic, however small, is variation.",
+  "Students often think all variation can be passed on to offspring. Environmental variation (a scar, a hairstyle, a wind-bent tree) is not inherited. Lesson 2 builds on this.",
+  "Continuous means 'keeps happening'. Here it means the measurement can take any value in a range (height), unlike discontinuous (blood group)."
+ ],
+ "safety": "No practical hazards beyond normal classroom rules.",
+ "equipment": ["Worksheets (standard and Chinese key words versions)", "Rulers for the hand span mini-survey (optional)", "Mini whiteboards for the quick check (optional)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows the 'dragon bones'. Takes answers; asks what 'extinct' means.", "students": "Answer the three questions in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals and points to the key words.", "students": "Listen; find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "Giant pumpkins: 'Why so big?' Collects ideas: light, water, warmth, mineral salts, no competition.", "students": "Pair talk, then share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 10, "teacher": "Teaches environmental factors (abiotic, biotic), environmental variation, continuous and discontinuous, species and classification. Runs the quick check.", "students": "Answer the quick check on whiteboards or with fingers.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 14, "teacher": "Sets the worksheet. Circulates: checks tally charts and bar charts (no gaps for grouped continuous data).", "students": "Core, then Stretch, then Challenge.", "resource": "Slide 10, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Seashore plant puzzle: takes answers with the sentence frames.", "students": "Discuss in pairs, share with a frame.", "resource": "Slide 11"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; previews next lesson (inherited variation).", "students": "Complete the exit ticket alone.", "resource": "Slide 12, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Match key words to meanings; sort abiotic and biotic factors; tally and plot the potato mass data; say why the variation is continuous.",
+  "stretch": "Give examples of environmental variation with their causes; classify characteristics as continuous or discontinuous; explain why potatoes of one variety vary in mass.",
+  "challenge": "Use the seashore plant evidence to explain how environmental variation can make identifying species difficult; evaluate the Flores Island hypotheses."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "Why do the same kind of organism come in so many sizes, shapes and colours?", "image": "giant_pumpkin",
+   "notes": "Welcome to 9A, Genetics and evolution. This unit asks where variation comes from, how it is passed on, and how it drives evolution. Today: variation caused by the environment."},
+  {"type": "donow", "title": "Do Now: the dragon of Krakow", "minutes": 4, "image": "wawel_dragon_bones", "caption": "The 'dragon bones' outside Wawel Cathedral, Krakow",
+   "prompt": ["A story says these bones are from a fire-breathing dragon killed by Krak, a shoemaker's apprentice.", "1. What animals could the bones really be from?", "2. What does 'extinct' mean?", "3. Name one species that is extinct."],
+   "notes": "Four minutes, in books. The bones are probably from a whale and a mammoth. Myths often started when people found bones of extinct animals they could not explain. Extinct: no living members of the species are left. Take examples: dinosaurs, dodo, mammoth, thylacine."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the key words box on the worksheet. Students with the Chinese key words sheet have the same words with Chinese beside them."},
+  {"type": "hook", "title": "Monster pumpkins", "question": "These pumpkins can have a mass of over 1000 kg. They did not get this big by chance. What did the growers give the plants?", "image": "giant_pumpkin", "caption": "Giant pumpkins at a weigh-off",
+   "text": ["Talk to a partner for one minute. Make a list."],
+   "notes": "Expected: extra light, water, warmth, mineral salts (fertiliser), space, no weeds or pests. Everything on the list is part of the plant's environment. Keep the list on the board for the next slide."},
+  {"type": "learn", "title": "Environmental factors", "image": "diagram:env_factors", "vocab": ["environment", "abiotic factor", "biotic factor"],
+   "text": ["An organism's surroundings are its environment.", "Environmental factors can change an organism.", "Abiotic (physical) factors are non-living: temperature, light, water, mineral salts.", "Biotic factors are the activities of other organisms: competition, predation, infectious disease."],
+   "key_idea": "Abiotic = non-living parts of the surroundings. Biotic = caused by other living things.",
+   "notes": "Go back to the pumpkin list: sort it into abiotic (light, water, warmth, mineral salts) and biotic (no weeds competing, no pests, the grower's care). Ask: what abiotic and biotic factors are in this classroom right now?"},
+  {"type": "learn", "title": "Environmental variation", "image": "flag_tree", "caption": "A tree shaped by the wind", "vocab": ["characteristic", "variation", "environmental variation"],
+   "text": ["The features of an organism are its characteristics.", "Variation is the difference between the characteristics of organisms.", "Environmental variation is caused by the environment.", "Examples: a scar (caused by a sharp object), a hairstyle (fashion), a tree bent by the wind, a pale plant grown in the dark."],
+   "key_idea": "Environmental variation is not passed on to offspring.",
+   "notes": "A scar is caused by a physical factor; a hairstyle by other people (a biotic factor). Ask students for two more examples each. Stress: the wind-bent tree's seeds will grow into straight trees in a sheltered place."},
+  {"type": "compare", "title": "Continuous or discontinuous?", "vocab": ["continuous variation", "discontinuous variation"],
+   "left": {"heading": "Continuous variation", "points": ["Can have any value between two points.", "Examples: height, mass, leaf length, pumpkin size.", "Put the measurements into groups.", "Bar chart with no gaps between the bars.", "Often gives a bell shape (a normal distribution)."]},
+   "right": {"heading": "Discontinuous variation", "points": ["Only a limited set of values.", "Examples: blood group, scar or no scar, number of petals.", "Count how many in each group.", "Bar chart with gaps between the bars."]},
+   "key_idea": "Ask: could the value be anything in between? If yes, it is continuous.",
+   "notes": "Pumpkin mass can be any value from tiny to enormous: continuous. Whether a plant has a scar on its stem is yes or no: discontinuous. Show the chart shapes on the worksheet when students plot the potato data."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards or fingers. One answer each, then we check.",
+   "questions": ["Temperature: abiotic or biotic factor?", "A scar on your hand: environmental or inherited variation?", "Hand span: continuous or discontinuous variation?", "Whether a person can roll their tongue: continuous or discontinuous?", "Predation: abiotic or biotic factor?"],
+   "notes": "Answers: abiotic; environmental; continuous; discontinuous; biotic. Ask a student to give a reason for Q3 and Q4 using 'any value' or 'limited set of values'."},
+  {"type": "learn", "title": "Species and classification", "image": "homo_floresiensis", "caption": "A skull from Flores Island, Indonesia", "vocab": ["species", "classification"],
+   "text": ["Classification is sorting organisms into groups. The smallest group is the species.", "Members of a species can reproduce together, and their offspring can also reproduce.", "Environmental variation can make classification difficult.", "Flores Island, 2003: adult human bones just over 1 m tall. Our species with a poor diet (no iodine), or a different, extinct species?"],
+   "key_idea": "Same species = can breed together and the offspring can breed too.",
+   "notes": "Some scientists think the Flores people were our species but did not grow tall because their diet lacked iodine (an environmental factor). Others think they were a separate species, now extinct. Ask: what evidence would help decide? (DNA from the bones, more skeletons, teeth and bone structure.)"},
+  {"type": "steps", "title": "Your turn: the potato data", "minutes": 14,
+   "steps": ["Core: match the key words, sort the factors, then tally and plot the potato masses on the grid.", "Grouped continuous data: the bars touch. Label both axes and give the chart a title.", "Stretch: examples of environmental variation; continuous or discontinuous; why do the potatoes vary?", "Challenge: the seashore plants and the Flores Island bones.", "Finished? Write a question for the class in the My thinking box."],
+   "footer": "Work alone first. Check your bar chart with a partner before Stretch.",
+   "notes": "The potato data are on the worksheet. Common errors: leaving gaps between bars for grouped continuous data; forgetting units (g) on the axis label. Circulate and check tallies add up to 20."},
+  {"type": "think", "title": "Same species or not?", "prompt": "Seashore plants: 10 cm tall with pink flowers. On a nearby island: over 50 cm tall with dark purple flowers. Seeds from both were grown in a laboratory. They all grew to look the same. What does this tell you?",
+   "frames": ["The plants from the two areas are probably ___ because ___.", "The differences in height and colour were caused by ___.", "This makes it difficult to ___ because ___."],
+   "notes": "Expected: the plants are the same species. The differences were environmental variation (wind, soil, light, salt). This makes it difficult to identify species from how plants look in the wild. Link back to the Flores bones."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Give one abiotic factor and one biotic factor in a pond.", "Is a scar an example of inherited or environmental variation?", "Is foot length continuous or discontinuous variation? Give a reason."],
+   "notes": "Answers: e.g. temperature or light (abiotic) and predation or competition (biotic); environmental; continuous, because foot length can be any value between two points. Collect the strips: they show who has the continuous/discontinuous idea before Lesson 2 adds inherited variation."},
+  {"type": "summary", "title": "What we learned", "next": "Inherited variation: why offspring look like their parents, and why brothers and sisters are not identical.",
+   "points": ["Environmental factors are abiotic (non-living) or biotic (other organisms).", "Environmental variation is caused by the surroundings and is not inherited.", "Continuous variation can take any value; discontinuous variation has a limited set of values.", "A species is a group that can breed together; environmental variation can make classifying organisms difficult."],
+   "notes": "Homework: Workbook pages 3 and 4 (9Aa). Students with the Chinese key words sheet may answer in either language but should use the English key words."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Match each key word to its meaning. Draw a line.", "match": {"left": ["species", "extinct", "environment", "abiotic factor", "biotic factor"], "right": ["the surroundings of an organism", "a non-living factor, e.g. temperature or light", "a species with no living members left", "a group of organisms that can breed together to produce offspring that can also breed", "the activities of other organisms, e.g. predation or disease"]}},
+   {"q": "Tick one box in each row to show whether the factor is abiotic or biotic.", "table": {"headers": ["Environmental factor", "Abiotic", "Biotic"], "widths": [5000, 2400, 2400], "rows": [["temperature", "", ""], ["predation (being hunted)", "", ""], ["amount of light", "", ""], ["competition for food", "", ""], ["rainfall", "", ""], ["infectious disease", "", ""]]}},
+   {"q": "Twenty potatoes of the same variety were weighed. Their masses in grams were:  142, 118, 165, 151, 137, 174, 129, 158, 146, 183, 121, 160, 149, 133, 171, 155, 140, 127, 163, 148.",
+    "parts": [
+     {"text": "Complete the tally chart.", "table": {"headers": ["Mass range (g)", "Tally", "Number of potatoes"], "widths": [3200, 3800, 2800], "rows": [["110 to 129", "", ""], ["130 to 149", "", ""], ["150 to 169", "", ""], ["170 to 189", "", ""]]}},
+     {"text": "Plot a bar chart of the number of potatoes in each mass range on the grid below. Label both axes.", "grid": true},
+     {"text": "Is potato mass continuous or discontinuous variation? Give a reason.", "lines": 2}
+    ]}
+  ],
+  "stretch": [
+   {"q": "Describe two examples of environmental variation in humans and state the environmental factor that causes each one.", "table": {"headers": ["Example of environmental variation", "Environmental factor that causes it"], "widths": [4900, 4900], "empty_rows": 2, "row_h": 600}},
+   {"q": "Tick one box in each row to show whether the variation is continuous or discontinuous.", "table": {"headers": ["Characteristic", "Continuous", "Discontinuous"], "widths": [5000, 2400, 2400], "rows": [["height", "", ""], ["blood group", "", ""], ["hand span", "", ""], ["number of fingers", "", ""], ["length of a leaf", "", ""], ["able to roll the tongue (yes or no)", "", ""]]}},
+   {"q": "The twenty potatoes in question 3 were all the same variety. Explain why they still varied in mass.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "A plant on a seashore has pink flowers and is 10 cm tall. On a nearby island, similar plants are over 50 cm tall with dark purple flowers. Scientists grew seeds from both places in the same laboratory. All the plants grew to look the same.",
+    "parts": [{"text": "What does this tell you about the plants from the two areas?", "lines": 2}, {"text": "Use this example to explain how environmental variation can make it difficult to identify plant species.", "lines": 3}]},
+   {"q": "In 2003, bones of adult humans just over 1 m tall were found on Flores Island. Some scientists think they were our species but had too little iodine in their diet; others think they were a different species that is now extinct. Suggest what evidence would help scientists decide, and explain your reasoning.", "lines": 4}
+  ],
+  "my_thinking": "A classmate says: 'All variation is caused by the environment.' Do you agree? Explain why, or give an example that shows they are wrong.",
+  "word_bank": ["abiotic factor", "biotic factor", "environment", "environmental variation", "continuous variation", "discontinuous variation", "species", "classification"],
+  "exit": ["Give one abiotic factor and one biotic factor in a pond.", "Is a scar an example of inherited or environmental variation?", "Is foot length continuous or discontinuous variation? Give a reason."],
+  "exit_lines": [1, 1, 2]
+ },
+ "answers": {
+  "core": [
+   "species: a group of organisms that can breed together to produce offspring that can also breed; extinct: a species with no living members left; environment: the surroundings of an organism; abiotic factor: a non-living factor; biotic factor: the activities of other organisms.",
+   "Abiotic: temperature, amount of light, rainfall. Biotic: predation, competition for food, infectious disease.",
+   "a) 110 to 129: 4 (118, 129, 121, 127); 130 to 149: 7 (142, 137, 146, 149, 133, 140, 148); 150 to 169: 6 (165, 151, 158, 160, 155, 163); 170 to 189: 3 (174, 183, 171). Total 20. b) Bars touch (grouped continuous data), x-axis 'Mass range (g)', y-axis 'Number of potatoes', title. c) Continuous, because mass can take any value between the smallest and largest."
+  ],
+  "stretch": [
+   "e.g. a scar (caused by a sharp object or fire, a physical factor); a hairstyle or dyed hair (fashion, caused by other people); a suntan (sunlight); a broken bone that healed crooked (an accident).",
+   "Continuous: height, hand span, length of a leaf. Discontinuous: blood group, number of fingers, tongue rolling.",
+   "Secure answer: the potatoes grew in slightly different environments: different amounts of water, light, mineral salts and space, or were attacked by pests or disease. These environmental factors caused environmental variation in mass even with the same variety (the same genetic information)."
+  ],
+  "challenge": [
+   "a) The plants from both areas are the same species: when the environment was the same they all looked the same, so the differences were environmental variation. b) In the wild, the environment (wind, salt, soil, light) changes how a plant looks, so two groups of the same species can look like different species and a scientist could classify them wrongly. Growing them in the same conditions, or breeding them together, shows whether they are one species.",
+   "e.g. test DNA from the bones and compare with modern humans; look for signs of iodine deficiency in the bones and teeth; find more skeletons to see whether all adults were small; compare bone and skull shape with our species. Reasoning: if the DNA matches ours and the bones show poor nutrition, the short height was environmental; if the DNA and bone structure are different, they were a separate species."
+  ],
+  "exit": [
+   "Abiotic: e.g. temperature, light, oxygen in the water. Biotic: e.g. predation, competition, disease.",
+   "Environmental.",
+   "Continuous, because foot length can take any value between two points (any measurement, not a limited set)."
+  ],
+  "my_thinking": "Disagree: some variation is inherited (passed on from parents in genetic information), e.g. natural eye colour or blood group, which do not change with the environment. Accept any correct example. This leads into Lesson 2."
+ }
+}

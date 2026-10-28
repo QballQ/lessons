@@ -1,0 +1,152 @@
+{
+ "id": "9B_L04",
+ "unit": "9B",
+ "unit_title": "Plant growth",
+ "lesson": 4,
+ "n_lessons": 7,
+ "title": "Plant products: starch, lipids and proteins",
+ "title_cn": "植物产物：淀粉、脂质和蛋白质",
+ "slug": "Plant_products",
+ "book": {"pages": "26 to 27", "spread": "9Bc Plant products"},
+ "workbook": {"pages": "19"},
+ "oak": [
+  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Photosynthesis", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/photosynthesis"},
+  {"unit": "Plant nutrition and photosynthesis, Year 9", "lesson": "Plant nutrition", "url": "https://www.thenational.academy/teachers/programmes/science-secondary-ks3/units/plant-nutrition-and-photosynthesis/lessons/plant-nutrition"}
+ ],
+ "big_idea": "Every substance in a plant is built from the glucose made in photosynthesis, plus mineral salts such as nitrates.",
+ "goals": [
+  "I can describe how plants use glucose to make starch, cellulose, lipids and proteins, and explain why nitrates are needed.",
+  "I can test a leaf for starch and explain what happens when a seed germinates."
+ ],
+ "keywords": [
+  {"en": "starch", "cn": "淀粉", "meaning": "a polymer made of many glucose molecules joined together; a plant's energy store"},
+  {"en": "polymer", "cn": "聚合物", "meaning": "a long molecule made of many small molecules joined in a chain"},
+  {"en": "cellulose", "cn": "纤维素", "meaning": "a polymer of glucose used to make plant cell walls"},
+  {"en": "lipid", "cn": "脂质", "meaning": "a fat or oil; insoluble in water"},
+  {"en": "protein", "cn": "蛋白质", "meaning": "a polymer made of amino acids; enzymes are proteins"},
+  {"en": "amino acid", "cn": "氨基酸", "meaning": "a small molecule that proteins are built from; needs nitrogen"},
+  {"en": "enzyme", "cn": "酶", "meaning": "a protein that speeds up a reaction in a living thing"},
+  {"en": "nitrate", "cn": "硝酸盐", "meaning": "a mineral salt that supplies nitrogen for making amino acids"},
+  {"en": "germination", "cn": "发芽", "meaning": "when a seed starts to grow into a seedling"},
+  {"en": "iodine solution", "cn": "碘液", "meaning": "an orange-brown liquid that turns blue-black with starch"},
+  {"en": "Benedict's solution", "cn": "本尼迪克特试剂", "meaning": "a blue liquid that turns orange-red when heated with glucose"}
+ ],
+ "misconceptions": [
+  "Starch and glucose are the same thing. Glucose is a small sugar molecule; starch is a polymer of many glucose molecules, insoluble, so it is a good store.",
+  "Plants get protein from the soil. Plants build proteins themselves from amino acids; the soil only supplies the nitrogen (as nitrates).",
+  "A seed is dead until it is planted. A seed is alive and respiring slowly; water and warmth start the enzymes that digest its food store."
+ ],
+ "safety": "Hot water from a kettle: do not boil in the room with ethanol. Ethanol is flammable: heat only in a water bath, never near a flame. Iodine solution stains skin and clothes and is an irritant: goggles on, wash splashes. Forceps for the hot leaf.",
+ "equipment": ["Per pair: variegated leaf (geranium or spider plant) kept in bright light for 24 hours, 250 cm³ beaker of hot water (from a kettle), boiling tube, about 20 cm³ ethanol, forceps, white tile, iodine solution in a dropper bottle, goggles", "Teacher: kettle, prepared destarched leaf with a foil stencil as a demonstration (optional), potato slice for the Do Now", "Worksheets (standard and Chinese key words versions)"],
+ "timeline": [
+  {"phase": "Do Now", "min": 4, "teacher": "Shows a potato slice and iodine; asks the three questions.", "students": "Answer in their books.", "resource": "Slide 2"},
+  {"phase": "Today", "min": 1, "teacher": "Reads the two goals; points to the key words. Warns that today has a practical with hot water and ethanol.", "students": "Find the key words box on the worksheet.", "resource": "Slide 3, worksheet header"},
+  {"phase": "Hook", "min": 3, "teacher": "One sugar becomes wood, oil and protein: how? Collects ideas.", "students": "Pair talk, share.", "resource": "Slide 4"},
+  {"phase": "Learn", "min": 8, "teacher": "Teaches carbohydrates (starch, cellulose), lipids and proteins, germination, and the two food tests. Quick check.", "students": "Answer the quick check.", "resource": "Slides 5 to 9"},
+  {"phase": "Do", "min": 16, "teacher": "Safety slide, then the starch test on a variegated leaf. Circulates: ethanol tubes in the hot water, never near a flame. Worksheet Core while the leaf decolourises.", "students": "Test a leaf for starch; record the result; Core, then Stretch, then Challenge.", "resource": "Slides 10 to 11, worksheet"},
+  {"phase": "Think and Reflect", "min": 4, "teacher": "Nitrates: why can a plant that photosynthesises well still grow badly? Takes answers with the frames.", "students": "Pair discussion, share with a frame.", "resource": "Slide 12"},
+  {"phase": "Exit ticket", "min": 4, "teacher": "Collects exit tickets; summary; sets Workbook page 19.", "students": "Complete the exit ticket alone.", "resource": "Slides 13 to 14, worksheet strip"}
+ ],
+ "tiers": {
+  "core": "Record the starch test result and explain it; gap fill on starch and cellulose; match the plant products to their uses.",
+  "stretch": "Explain germination with enzymes and respiration; describe the Benedict's test; explain why nitrates are needed for growth.",
+  "challenge": "Explain destarching and predict the foil stencil result; explain the two reasons plants put lipids in fruit and seeds."
+ },
+ "slides": [
+  {"type": "title", "subtitle": "Wood, oil, protein, starch: how can one sugar become all of them?", "image": "potato_iodine",
+   "notes": "Lesson 4 of 9B. Photosynthesis makes glucose; this lesson follows what the plant builds from it, and we test a leaf for starch."},
+  {"type": "donow", "title": "Do Now: potato and iodine", "minutes": 4, "image": "potato_iodine", "caption": "A potato slice with iodine solution",
+   "prompt": ["1. What colour change would you see if you added iodine solution to a slice of potato?", "2. Which substance in the potato causes this change?", "3. Which substance made in photosynthesis was used to make it?"],
+   "notes": "Answers: orange-brown to blue-black; starch; glucose. Show the real thing if you have a potato: it takes ten seconds and every student remembers it."},
+  {"type": "today", "title": "Today",
+   "notes": "Read each goal aloud. Point out the safety slide later: hot water and ethanol."},
+  {"type": "hook", "title": "One sugar, a whole plant", "image": "germination", "caption": "A bean seed germinating",
+   "question": "The wood of a tree, the oil in a sunflower seed, the protein in a bean, the starch in a potato: all of it was built from glucose made in photosynthesis. How can one sugar become so many different things?",
+   "text": ["Talk to a partner: what else does the plant need, apart from glucose?"],
+   "notes": "Expected ideas: the plant joins glucose molecules into long chains (polymers), changes them into other substances, and adds elements from mineral salts, especially nitrogen from nitrates for proteins. All life on Earth depends on this: photosynthetic organisms also keep the balance of carbon dioxide and oxygen in the air."},
+  {"type": "learn", "title": "Carbohydrates: starch and cellulose", "image": "potato_iodine", "caption": "A potato is a store of starch", "vocab": ["starch", "polymer", "cellulose"],
+   "text": ["Glucose molecules are linked together to form starch, a polymer.", "Starch stays in the chloroplasts until photosynthesis stops, then it is broken down into sugars and carried in the phloem.", "In storage organs such as potatoes, and in seeds, sugars are turned back into starch.", "Sugars are also used to make cellulose, the polymer that builds cell walls."],
+   "key_idea": "Starch is insoluble, so it is a good store; sugars are soluble, so they can be transported.",
+   "notes": "Ask: when is starch broken down in the chloroplasts, day or night? At night, when photosynthesis has stopped and the sugar is needed elsewhere. Starch does not dissolve, so it does not draw water into the cell; that is why plants store starch rather than glucose."},
+  {"type": "learn", "title": "Lipids and proteins", "vocab": ["lipid", "protein", "amino acid", "enzyme", "nitrate"],
+   "text": ["Lipids are fats and oils. They do not dissolve in water.", "Plants use lipids for the waterproof cuticle, for cell membranes, and as energy stores in seeds and in fruits such as avocado.", "Proteins are polymers: long chains of amino acids.", "To make amino acids a plant needs nitrogen, which comes from nitrates in the soil.", "All enzymes are proteins, including the enzymes for photosynthesis and respiration."],
+   "key_idea": "No nitrates, no amino acids, no proteins, no enzymes: the plant cannot grow.",
+   "notes": "Humans use plant lipids too: cooking oil, margarine, biodiesel. Why do fruits contain oils? To encourage animals to eat the fruit and spread the seeds. Seeds store lipids and protein to supply the seedling before its leaves open."},
+  {"type": "diagram", "title": "A seed germinates", "image": "diagram:germination", "vocab": ["germination", "enzyme"],
+   "text": "A seed stores starch and protein. What has to happen before the embryo can use the store?",
+   "key_idea": "Water starts everything: enzymes digest the starch to glucose, the embryo respires and grows. Enzymes work faster when it is warm.",
+   "notes": "Walk through the five steps. Ask: why do gardeners sow seeds in spring, not winter? Warmth makes the enzymes work faster. Why does a seed need oxygen? For aerobic respiration to release energy for growth."},
+  {"type": "learn", "title": "Testing for starch and glucose", "image": "iodine_starch_leaf", "caption": "A variegated leaf after the starch test", "vocab": ["iodine solution", "Benedict's solution"],
+   "text": ["Iodine solution turns from orange-brown to blue-black with starch.", "Only the green parts of a variegated leaf go blue-black: starch is made where there is chlorophyll.", "Benedict's solution is blue. Heated with glucose it turns green, then orange-red.", "Both tests are used to check what a seed or a leaf contains."],
+   "key_idea": "Starch: iodine, blue-black. Glucose: Benedict's, heated, orange-red.",
+   "notes": "Explain the practical they are about to do: the leaf is boiled briefly to kill it, the chlorophyll is removed with warm ethanol so the colour change shows, then iodine is added. Benedict's must be heated in a water bath; it is on the Stretch questions, not done today."},
+  {"type": "check", "title": "Quick check", "instruction": "Mini whiteboards. One answer each, then we check.",
+   "questions": ["Which polymer do plants make from glucose as an energy store?", "Which polymer builds plant cell walls?", "What are proteins made of?", "Which mineral salt supplies the nitrogen for amino acids?", "What colour does iodine solution turn with starch?"],
+   "notes": "Answers: starch; cellulose; amino acids; nitrates; blue-black. Then the safety slide."},
+  {"type": "safety", "title": "Safety: testing a leaf for starch", "lines": ["Goggles on for the whole practical. Iodine stains skin and clothes and irritates eyes.", "Hot water comes from the kettle. Carry the beaker with two hands and keep it on the bench.", "Ethanol is flammable. Heat it ONLY by standing the boiling tube in the hot water. No Bunsen burners in the room today.", "Use forceps to move the leaf. Do not touch the hot leaf or the hot tube.", "Wash your hands at the end and report any spill at once."],
+   "notes": "Read every line aloud. Check there are no flames anywhere in the room before any ethanol is poured. Fill the beakers with hot (not boiling) water yourself."},
+  {"type": "practical", "title": "Testing a variegated leaf for starch", "aim": "To find out which parts of a variegated leaf contain starch.",
+   "equipment": ["variegated leaf from a plant kept in bright light", "beaker of hot water", "boiling tube with about 2 cm depth of ethanol", "forceps", "white tile", "iodine solution and dropper", "goggles", "worksheet"],
+   "method": ["Draw the leaf on the worksheet. Mark which parts are green and which are white.", "Hold the leaf with forceps and dip it in the hot water for 30 seconds. This kills the leaf and softens it.", "Put the leaf in the boiling tube of ethanol. Stand the tube in the beaker of hot water for about 5 minutes, until the leaf is pale and the ethanol is green.", "Take the leaf out with forceps and dip it in the hot water again to soften it.", "Spread the leaf on the white tile. Cover it with drops of iodine solution.", "Wait one minute. Draw the result and label where it went blue-black."],
+   "safety": "Goggles on. Ethanol only in the water bath, never near a flame. Forceps for the leaf.",
+   "notes": "Expected result: the parts that were green turn blue-black (starch present); the white parts stay orange-brown (no chlorophyll, no photosynthesis, no starch). While tubes stand in the hot water, students do Core 2 and 3. Everything in the tray at the end; ethanol back in the labelled container."},
+  {"type": "think", "title": "Plenty of light, still not growing", "prompt": "A tomato plant in a greenhouse gets lots of light, water and carbon dioxide, but the soil has very few nitrates. Explain why it grows badly even though it photosynthesises well.",
+   "frames": ["The plant can make ___ by photosynthesis, but ___.", "Without nitrates it cannot make ___, so it cannot make ___.", "Enzymes are ___, so ___."],
+   "notes": "Expected: it can make glucose, but glucose is not enough to build new cells; without nitrates it cannot make amino acids, so no proteins; enzymes are proteins, so even photosynthesis and respiration slow down. This is why farmers add nitrate fertiliser, which is next lesson."},
+  {"type": "exit", "title": "Exit ticket", "minutes": 4,
+   "questions": ["Which solution tests for starch, and what colour does it turn?", "Why do seeds need a store of starch?", "What are enzymes made of, and which mineral salt do plants need to make them?"],
+   "notes": "Answers: iodine solution, blue-black; the starch is digested to glucose for respiration and growth until the seedling's leaves can photosynthesise; enzymes are proteins, made from amino acids, which need nitrogen from nitrates. Collect the strips."},
+  {"type": "summary", "title": "What we learned", "next": "Growing crops: how farmers use fertilisers, pesticides and new varieties to get a bigger yield.",
+   "points": ["Glucose is joined into starch (an energy store) and cellulose (cell walls); sugars are moved in the phloem.", "Lipids make the cuticle, cell membranes and energy stores in seeds and fruits.", "Proteins are chains of amino acids, which need nitrogen from nitrates; all enzymes are proteins.", "A germinating seed uses water, enzymes and respiration to turn its stored starch into growth.", "Iodine tests for starch (blue-black); Benedict's tests for glucose (orange-red when heated)."],
+   "notes": "Homework: Workbook page 19. Remind students to finish the leaf drawing with labels."}
+ ],
+ "worksheet": {
+  "core": [
+   {"q": "Practical: testing a variegated leaf for starch.",
+    "parts": [
+     {"text": "Draw the leaf before the test and after adding iodine. Label the green and white parts on the first drawing, and the blue-black parts on the second.", "table": {"headers": ["Before the test", "After adding iodine"], "widths": [4900, 4900], "empty_rows": 1, "row_h": 2200}},
+     {"text": "Name the solution used to test for starch and the colour it turns when starch is present.", "lines": 1},
+     {"text": "Explain why only some parts of the leaf changed colour.", "lines": 2}
+    ]},
+   {"q": "Complete the sentences. Use the word bank.",
+    "gap_lines": ["Glucose molecules made in photosynthesis are joined together to make a polymer called ____________.", "Starch is an energy store. It is found in the chloroplasts, in storage organs such as ____________, and in seeds.", "Sugars are also used to make ____________, which builds plant cell walls, and ____________ such as the oils in seeds."]},
+   {"q": "Match each substance to one of its uses in a plant. Draw a line.", "match": {"left": ["starch", "cellulose", "lipids", "proteins", "enzymes"], "right": ["speed up reactions such as photosynthesis and respiration", "energy store in seeds and potatoes", "build cell walls", "built from amino acids using nitrogen from nitrates", "make the waterproof cuticle and cell membranes"]}}
+  ],
+  "stretch": [
+   {"q": "Seeds contain a store of starch. Describe what happens when a seed germinates. Use the words water, enzymes, glucose, respiration and warm.", "lines": 4},
+   {"q": "Describe a test that would show that glucose is produced in a germinating seed. Include the colour change and one safety precaution.", "lines": 3},
+   {"q": "Explain why plants do not grow well when there is a lack of nitrates in the soil.", "lines": 3}
+  ],
+  "challenge": [
+   {"q": "A plant was left in the dark for 24 hours. A metal foil stencil was then attached to one leaf and the plant was left in bright light for a day. The leaf was then tested for starch.",
+    "parts": [{"text": "Explain why the plant was left in the dark first.", "lines": 2}, {"text": "Predict the result of the starch test and explain it.", "lines": 2}, {"text": "Explain why a metal foil stencil was used and not a clear plastic one.", "lines": 1}]},
+   {"q": "Avocado fruit flesh is rich in lipids. Avocado seeds also contain lipids. Explain why the plant puts lipids in each place. The two reasons are different.", "lines": 4}
+  ],
+  "my_thinking": "A potato is a store of starch made by the plant in summer. When does the potato plant use this store, and why does it store starch rather than glucose?",
+  "word_bank": ["starch", "polymer", "cellulose", "lipids", "potatoes", "protein", "amino acid", "enzyme", "nitrate", "germination", "iodine solution"],
+  "exit": ["Which solution tests for starch, and what colour does it turn?", "Why do seeds need a store of starch?", "What are enzymes made of, and which mineral salt do plants need to make them?"],
+  "exit_lines": [1, 2, 2]
+ },
+ "answers": {
+  "core": [
+   "a) Drawings with the green parts labelled on the first and the blue-black parts (matching the green parts) on the second. b) Iodine solution; orange-brown to blue-black. c) Only the green parts contain chlorophyll, so only they can photosynthesise and make glucose, which is stored as starch; the white parts have no chlorophyll, so no starch.",
+   "starch; potatoes; cellulose; lipids.",
+   "starch: energy store in seeds and potatoes; cellulose: build cell walls; lipids: cuticle and cell membranes; proteins: built from amino acids using nitrogen from nitrates; enzymes: speed up reactions."
+  ],
+  "stretch": [
+   "Secure answer: water enters the seed, so molecules can move and reactions can start; water also triggers the release of enzymes. The enzymes digest the starch store into glucose (faster when it is warm). The glucose goes to the embryo, which uses it in aerobic respiration (oxygen also enters) to release energy for growth, until the first leaves open and photosynthesise.",
+   "Secure answer: crush the germinating seeds in a little water, put the liquid in a test tube with Benedict's solution and heat the tube in a hot water bath (never over a flame) for a few minutes. If glucose is present the blue solution turns green, then orange-red. Safety: goggles, water bath, do not point the tube at anyone.",
+   "Secure answer: nitrates supply nitrogen, which plants need to make amino acids. Without amino acids the plant cannot make proteins, so it cannot build new cells or make enzymes, and all its reactions slow down; the plant grows slowly and stays small (yellow older leaves)."
+  ],
+  "challenge": [
+   "a) To use up (destarch) the starch already in the leaves, so any starch found afterwards must have been made during the test. b) Only the parts of the leaf exposed to light turn blue-black; the parts under the foil stay orange-brown, because without light there is no photosynthesis and no new starch. c) Clear plastic lets light through, so the covered part would still photosynthesise and the test would show nothing.",
+   "Secure answer: in the fruit flesh, lipids make the fruit rich and attractive, so animals eat it and carry the seeds away in their droppings (seed dispersal). In the seed, lipids are an energy store that the embryo respires to grow before it can photosynthesise. Fruit lipids are for other organisms; seed lipids are for the plant's own offspring."
+  ],
+  "exit": [
+   "Iodine solution; it turns blue-black.",
+   "The stored starch is digested to glucose, which the embryo respires for energy and uses to grow until its leaves can photosynthesise.",
+   "Enzymes are proteins (chains of amino acids); plants need nitrates to supply the nitrogen."
+  ],
+  "my_thinking": "The store is used when the plant starts to grow again (new shoots in spring, or when the potato is planted) and at night when there is no photosynthesis. Starch is insoluble, so it does not dissolve and draw water into the cells, and a lot of energy can be packed into a small space; glucose is soluble and would be lost or upset the water balance."
+ }
+}
