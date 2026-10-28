@@ -11,6 +11,7 @@ os.makedirs(OUT, exist_ok=True)
 
 NAVY, PLUM, TINT, PAGE, INK, MUTED, HI, RULE, BLUE = '#0F2A5F', '#7B3A8E', '#F1E5F4', '#EEF1F5', '#141B26', '#5B6574', '#F2CE3E', '#D5DBE3', '#1E7DB0'
 FONT = "Liberation Sans, Arial, Helvetica, sans-serif"
+TEXT_SCALE = 1.25  # larger labels for projection
 
 class SVG:
     def __init__(self, w, h, bg='#FFFFFF'):
@@ -24,6 +25,7 @@ class SVG:
     def ellipse(self, cx, cy, rx, ry, fill='#FFFFFF', stroke=INK, sw=3):
         self.p.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="{fill}" stroke="{stroke}" stroke-width="{sw}"/>')
     def text(self, x, y, s, size=28, anchor='middle', weight='normal', fill=INK, italic=False, rotate=None):
+        size = round(size * TEXT_SCALE)
         st = ' font-style="italic"' if italic else ''
         tr = f' transform="rotate({rotate} {x} {y})"' if rotate is not None else ''
         s = s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
@@ -95,18 +97,18 @@ def cont_discont():
     s.save('cont_discont')
 
 def gametes_zygote():
-    s = SVG(1600, 760)
+    s = SVG(1660, 760)
     s.text(800, 60, 'Sexual reproduction: two gametes fuse to make a zygote', 34, weight='bold', fill=NAVY)
     # sperm
     s.ellipse(230, 330, 70, 50, PAGE); s.path('M 300 330 C 380 300, 400 380, 480 330', 'none', INK, 5)
-    s.text(230, 338, '23', 30, weight='bold'); s.text(230, 440, 'sperm cell (male gamete)', 24); s.text(230, 475, '23 chromosomes', 24, fill=MUTED)
+    s.text(230, 338, '23', 30, weight='bold'); s.text(230, 440, 'sperm cell (male gamete)', 22); s.text(230, 475, '23 chromosomes', 20, fill=MUTED)
     s.text(560, 345, '+', 60, weight='bold', fill=PLUM)
-    s.circle(720, 330, 90, TINT); s.text(720, 340, '23', 30, weight='bold'); s.text(720, 470, 'egg cell (female gamete)', 24); s.text(720, 505, '23 chromosomes', 24, fill=MUTED)
+    s.circle(720, 330, 90, TINT); s.text(720, 340, '23', 30, weight='bold'); s.text(720, 470, 'egg cell (female gamete)', 22); s.text(720, 505, '23 chromosomes', 20, fill=MUTED)
     s.arrow(840, 330, 960, 330, PLUM, 6); s.text(900, 300, 'fertilisation', 24, fill=PLUM)
-    s.circle(1100, 330, 100, PAGE); s.text(1100, 340, '46', 34, weight='bold'); s.text(1100, 470, 'zygote (fertilised egg)', 24); s.text(1100, 505, '23 pairs = 46 chromosomes', 24, fill=MUTED)
+    s.circle(1100, 330, 100, PAGE); s.text(1100, 340, '46', 34, weight='bold'); s.text(1100, 470, 'zygote (fertilised egg)', 22); s.text(1100, 505, '23 pairs = 46 chromosomes', 20, fill=MUTED)
     s.arrow(1220, 330, 1310, 330, PLUM, 6); s.text(1265, 300, 'cell division', 22, fill=PLUM)
     for (cx, cy) in [(1400, 290), (1460, 290), (1400, 360), (1460, 360), (1430, 325)]: s.circle(cx, cy, 32, PAGE)
-    s.text(1440, 470, 'ball of cells', 24); s.text(1440, 505, 'each with 46 chromosomes', 24, fill=MUTED)
+    s.text(1460, 470, 'ball of cells', 22); s.text(1460, 505, 'each with 46 chromosomes', 20, fill=MUTED)
     s.text(800, 640, 'Every gamete carries slightly different genetic information, so brothers and sisters are not identical.', 26, italic=True, fill=PLUM)
     s.save('gametes_zygote')
 
@@ -159,7 +161,7 @@ def probability_scale():
         s.text(x, y - 45, pc, 30, weight='bold', fill=NAVY)
         s.text(x, y + 70, 'fraction ' + fr, 24); s.text(x, y + 105, 'decimal ' + dec, 24)
         s.text(x, y + 160, word, 28, weight='bold', fill=PLUM)
-    s.text(160, 540, 'e.g. finding a live dinosaur', 24, fill=MUTED); s.text(800, 540, 'e.g. a coin landing heads', 24, fill=MUTED); s.text(1440, 540, 'e.g. the Sun rising tomorrow', 24, fill=MUTED)
+    s.text(40, 540, 'e.g. finding a live dinosaur', 22, 'start', fill=MUTED); s.text(800, 540, 'e.g. a coin landing heads', 22, fill=MUTED); s.text(1560, 540, 'e.g. the Sun rising tomorrow', 22, 'end', fill=MUTED)
     s.save('probability_scale')
 
 def natural_selection_moths():
@@ -172,7 +174,7 @@ def natural_selection_moths():
     for i, (h, l1, l2, f) in enumerate(steps):
         x = 60 + i * 380
         s.rect(x, 110, 340, 560, PAGE if i % 2 == 0 else TINT, INK, 3, 14)
-        s.text(x + 170, 160, h, 28, weight='bold', fill=PLUM)
+        s.text(x + 170, 160, h, 23, weight='bold', fill=PLUM)
         # tree trunk
         trunk = '#C9B99A' if i == 0 else '#3A3A3A'
         s.rect(x + 120, 200, 100, 300, trunk, INK, 2, 6)
@@ -185,7 +187,7 @@ def natural_selection_moths():
                 s.text(mx, my + 10, 'x', 34, weight='bold', fill='#B00000')
             else:
                 s.ellipse(mx, my, 22, 14, '#FFFFFF' if k == 'p' else '#111111', INK, 2)
-        s.text(x + 170, 560, l1, 22); s.text(x + 170, 590, l2, 22)
+        s.text(x + 170, 560, l1, 18); s.text(x + 170, 590, l2, 18)
     s.text(800, 740, 'The environment "selects" the moths whose inherited characteristics help them survive and reproduce.', 26, italic=True, fill=PLUM)
     s.save('natural_selection_moths')
 
@@ -204,9 +206,9 @@ def tilapia_graph():
             pts.append((x, y))
         s.path('M ' + ' L '.join(f'{x:.0f},{y:.0f}' for x, y in pts), 'none', col, 6, dash)
     bell(450, 400, NAVY); bell(800, 400, PLUM, '14,10'); bell(1150, 400, BLUE, '4,8')
-    s.text(450, 170, '1  fresh water:', 24, weight='bold', fill=NAVY); s.text(450, 200, 'most fish suit low salt', 22, fill=NAVY)
-    s.text(800, 170, '2  saltier: by chance some fish', 24, weight='bold', fill=PLUM); s.text(800, 200, 'had genes to cope; they survived', 22, fill=PLUM)
-    s.text(1150, 170, '3  very salty today:', 24, weight='bold', fill=BLUE); s.text(1150, 200, 'all the fish cope with salt', 22, fill=BLUE)
+    s.text(400, 150, '1  fresh water:', 20, weight='bold', fill=NAVY); s.text(400, 178, 'most fish suit low salt', 18, fill=NAVY)
+    s.text(800, 110, '2  saltier: by chance some fish', 20, weight='bold', fill=PLUM); s.text(800, 138, 'had genes to cope; they survived', 18, fill=PLUM)
+    s.text(1200, 150, '3  very salty today:', 20, weight='bold', fill=BLUE); s.text(1200, 178, 'all the fish cope with salt', 18, fill=BLUE)
     s.arrow(560, 330, 690, 330, MUTED, 4); s.arrow(910, 330, 1040, 330, MUTED, 4)
     s.text(625, 310, 'generations', 20, fill=MUTED); s.text(975, 310, 'generations', 20, fill=MUTED)
     s.save('tilapia_graph')
@@ -238,12 +240,12 @@ def respiration_eq():
     s.box(1280, 180, 250, 110, ['water'], 30, PAGE)
     s.text(1200, 400, '(+ energy released)', 26, weight='bold', fill=PLUM)
     s.text(245, 350, 'C6H12O6', 34, weight='bold'); s.text(410, 350, '+', 34); s.text(560, 350, '6O2', 34, weight='bold'); s.arrow(700, 340, 850, 340, INK, 5)
-    s.text(1035, 350, '6CO2', 34, weight='bold'); s.text(1240, 350, '+', 34); s.text(1300, 350, '6H2O', 34, weight='bold')
+    s.text(1035, 350, '6CO2', 34, weight='bold'); s.text(1240, 350, '+', 34); s.text(1405, 350, '6H2O', 34, weight='bold')
     s.text(800, 460, 'Respiration is the opposite of photosynthesis: it releases the energy stored in glucose.', 26, italic=True, fill=PLUM)
     s.save('respiration_eq')
 
 def leaf_section():
-    s = SVG(1600, 900)
+    s = SVG(1900, 900)
     s.text(800, 50, 'Inside a leaf (cross-section)', 34, weight='bold', fill=NAVY)
     x0, w = 250, 900
     # cuticle + upper epidermis
@@ -348,7 +350,7 @@ def eutrophication_flow():
         x, y = 80 + col * 500, 130 + row * 330
         s.rect(x, y, 440, 230, TINT if i % 2 else PAGE, INK, 3, 14)
         s.circle(x + 50, y + 50, 30, PLUM, PLUM); s.text(x + 50, y + 61, n, 30, weight='bold', fill='#FFFFFF')
-        s.text(x + 250, y + 130, a, 26); s.text(x + 250, y + 165, b, 26)
+        s.text(x + 250, y + 130, a, 22); s.text(x + 250, y + 165, b, 22)
         if col < 2: s.arrow(x + 445, y + 115, x + 495, y + 115, PLUM, 6)
     s.arrow(1300, 365, 1300, 420, PLUM, 6)
     s.path('M 1300 420 L 1300 445 L 300 445 L 300 455', 'none', PLUM, 6); s.arrow(300, 445, 300, 458, PLUM, 6)
@@ -358,9 +360,9 @@ def carbon_cycle():
     s = SVG(1600, 900)
     s.text(800, 50, 'The carbon cycle', 34, weight='bold', fill=NAVY)
     s.box(560, 90, 480, 110, ['carbon dioxide in the air'], 30, PAGE, NAVY, 'bold')
-    s.box(80, 400, 360, 120, ['carbon compounds', 'in plants'], 26, '#DDEFD8')
-    s.box(620, 400, 360, 120, ['carbon compounds', 'in animals'], 26, TINT)
-    s.box(1160, 400, 360, 120, ['carbon compounds', 'in decomposers'], 26, PAGE)
+    s.box(80, 400, 360, 120, ['carbon compounds', 'in plants'], 23, '#DDEFD8')
+    s.box(620, 400, 360, 120, ['carbon compounds', 'in animals'], 23, TINT)
+    s.box(1130, 400, 390, 120, ['carbon compounds', 'in decomposers'], 23, PAGE)
     s.box(620, 700, 360, 110, ['fossil fuels', '(coal, oil, gas)'], 26, '#E9DFCB')
     # arrows
     s.arrow(640, 180, 300, 400, '#2E7D32', 6); s.text(400, 270, 'photosynthesis', 26, weight='bold', fill='#2E7D32'); s.text(400, 300, '(CO2 taken in)', 22, fill='#2E7D32')
@@ -371,8 +373,8 @@ def carbon_cycle():
     s.arrow(980, 460, 1160, 460, PLUM, 6); s.text(1070, 445, 'death and', 22, fill=PLUM); s.text(1070, 500, 'waste', 22, fill=PLUM)
     s.path('M 260 520 L 260 620 L 1340 620 L 1340 520', 'none', PLUM, 5); s.arrow(1340, 560, 1340, 522, PLUM, 5); s.text(800, 650, 'death (dead plants are broken down by decomposers)', 22, fill=PLUM)
     s.path('M 300 520 L 300 760 L 620 760', 'none', MUTED, 4, '12,10'); s.text(450, 790, 'over millions of years', 20, fill=MUTED); s.text(450, 740, 'some remains become', 20, fill=MUTED)
-    s.arrow(1000, 755, 1200, 755, '#B00000', 6); s.path('M 1200 755 L 1450 755 L 1450 150 L 1045 150', 'none', '#B00000', 6); s.arrow(1100, 150, 1045, 150, '#B00000', 6)
-    s.text(1480, 450, 'combustion (burning)', 24, weight='bold', fill='#B00000', rotate=-90)
+    s.arrow(1000, 755, 1200, 755, '#B00000', 6); s.path('M 1200 755 L 1530 755 L 1530 150 L 1045 150', 'none', '#B00000', 6); s.arrow(1100, 150, 1045, 150, '#B00000', 6)
+    s.text(1560, 450, 'combustion (burning)', 22, weight='bold', fill='#B00000', rotate=-90)
     s.save('carbon_cycle')
 
 def immune_response():
@@ -425,7 +427,7 @@ def antibody_response():
     s.arrow(x0 + 60, 120, x0 + 60, y0 - 10, MUTED, 4); s.text(x0 + 60, 105, '1st infection (or vaccine)', 22, fill=MUTED)
     s.arrow(x0 + 700, 120, x0 + 700, y0 - 10, MUTED, 4); s.text(x0 + 700, 105, '2nd infection', 22, fill=MUTED)
     s.text(x0 + 320, 380, 'slow, small response:', 24, fill=PLUM); s.text(x0 + 320, 410, 'you feel ill for days', 22, fill=MUTED)
-    s.text(x0 + 1050, 160, 'fast, large response from memory cells:', 24, fill=PLUM); s.text(x0 + 1050, 190, 'the pathogen is destroyed before you feel ill', 22, fill=MUTED)
+    s.text(1570, 125, 'fast, large response from memory cells:', 22, 'end', fill=PLUM); s.text(1570, 153, 'the pathogen is destroyed before you feel ill', 20, 'end', fill=MUTED)
     s.save('antibody_response')
 
 def nervous_pathway():
@@ -434,8 +436,8 @@ def nervous_pathway():
     items = [('stimulus', 'e.g. a sharp pin'), ('receptor cells', 'in a sense organ (skin)'), ('nerve', 'impulses travel along'), ('spinal cord', 'and brain (CNS)'), ('nerve', 'impulses travel along'), ('effector', 'muscle or gland'), ('response', 'muscle contracts')]
     for i, (a, b) in enumerate(items):
         x = 40 + i * 222
-        s.box(x, 160, 200, 150, [a], 26, TINT if i in (1, 3, 5) else PAGE, INK, 'bold')
-        s.text(x + 100, 350, b, 20, fill=MUTED)
+        s.box(x, 160, 200, 150, [a], 21, TINT if i in (1, 3, 5) else PAGE, INK, 'bold')
+        s.text(x + 100, 350, b, 15, fill=MUTED)
         if i < 6: s.arrow(x + 203, 235, x + 220, 235, PLUM, 5)
     s.text(800, 450, 'Impulses are electrical signals. The brain processes the information and sends impulses out to effectors.', 26, italic=True, fill=PLUM)
     s.text(800, 500, 'Hormones are chemical messengers: made in glands, carried in the blood, slower but longer lasting.', 24, fill=MUTED)
@@ -518,7 +520,7 @@ def sa_v_cubes():
         s.poly([(x, y), (x + d, y - d), (x + size + d, y - d), (x + size, y)], TINT, INK, 3, True)
         s.poly([(x + size, y), (x + size + d, y - d), (x + size + d, y + size - d), (x + size, y + size)], '#DCD2E3', INK, 3, True)
         s.text(x + size / 2, y + size + 40, label, 24)
-    cube(140, 300, 80, '1 cm cube'); cube(520, 240, 160, '2 cm cube'); cube(1050, 160, 240, '3 cm cube')
+    cube(140, 330, 80, '1 cm cube'); cube(520, 280, 160, '2 cm cube'); cube(1050, 210, 220, '3 cm cube')
     rows = [('surface area', '6 cm²', '24 cm²', '54 cm²'), ('volume', '1 cm³', '8 cm³', '27 cm³'), ('SA : V ratio', '6 : 1', '3 : 1', '2 : 1')]
     for r, (lab, a, b, c) in enumerate(rows):
         y = 540 + r * 50
@@ -539,8 +541,8 @@ def osmosis_membrane():
     for _ in range(14): s.circle(random.randint(830, 1270), random.randint(150, 530), 9, '#FFFFFF', BLUE, 3)
     for _ in range(14): s.circle(random.randint(830, 1270), random.randint(150, 530), 22, TINT, PLUM, 3)
     for _ in range(3): s.circle(random.randint(330, 770), random.randint(150, 530), 22, TINT, PLUM, 3)
-    s.text(550, 100, 'X: dilute (more water molecules)', 24, fill=NAVY); s.text(1050, 100, 'Y: concentrated (fewer water molecules)', 24, fill=NAVY)
-    s.arrow(760, 345, 900, 345, '#B00000', 8); s.text(830, 320, 'overall movement of water', 22, fill='#B00000')
+    s.text(520, 100, 'X: dilute (more water molecules)', 20, fill=NAVY); s.text(1080, 100, 'Y: concentrated (fewer water molecules)', 20, fill=NAVY)
+    s.rect(690, 296, 290, 36, '#FFFFFF', '#FFFFFF', 0, 6); s.arrow(760, 345, 900, 345, '#B00000', 8); s.text(830, 322, 'overall movement of water', 22, fill='#B00000')
     s.circle(360, 650, 9, '#FFFFFF', BLUE, 3); s.text(390, 658, 'water molecule', 22, 'start')
     s.circle(620, 650, 22, TINT, PLUM, 3); s.text(660, 658, 'sugar molecule (too big to pass)', 22, 'start')
     s.save('osmosis_membrane')
@@ -634,7 +636,7 @@ def pond_gas_graph():
         s.path('M ' + ' L '.join(f'{x:.0f},{y:.0f}' for x, y in pts), 'none', col, 6, dash)
     curve(lambda i: y0 - 120 - 260 * math.sin(math.pi * min(max(i, 0), 900) / 900) ** 1.2 if i < 900 else y0 - 120 - 20 * (1250 - i) / 350, PLUM)
     curve(lambda i: y0 - 320 + 220 * math.sin(math.pi * min(i, 900) / 900) ** 1.2 if i < 900 else y0 - 320 + 30 * (1250 - i) / 350 - 30, BLUE, '14,10')
-    s.text(480, 205, 'oxygen (X)', 24, fill=PLUM, weight='bold'); s.text(620, 470, 'carbon dioxide (Y)', 24, fill=BLUE, weight='bold')
+    s.text(330, 165, 'oxygen (X)', 22, fill=PLUM, weight='bold'); s.text(900, 510, 'carbon dioxide (Y)', 22, fill=BLUE, weight='bold')
     s.rect(x0, 120, 900, 440, 'none', HI, 0); s.text(950, 150, 'daylight', 22, fill='#C9A227'); s.text(1300, 150, 'dark', 22, fill=MUTED)
     s.line(x0 + 900, 120, x0 + 900, 560, MUTED, 2, '8,8')
     s.save('pond_gas_graph')
@@ -656,12 +658,12 @@ def food_web_hedge():
 def van_helmont():
     s = SVG(1600, 700)
     s.text(800, 50, "Van Helmont's willow tree experiment (1640s)", 32, weight='bold', fill=NAVY)
-    for i, (title, tree_h, soil, tree) in enumerate([('Start', 120, '90.72 kg of dry soil', 'tree: 2.27 kg'), ('After 5 years (only water added)', 230, '90.66 kg of dry soil', 'tree: 76.74 kg')]):
+    for i, (title, tree_h, soil, tree) in enumerate([('Start', 120, '90.72 kg of dry soil', 'tree: 2.27 kg'), ('After 5 years (only water added)', 180, '90.66 kg of dry soil', 'tree: 76.74 kg')]):
         cx = 400 + i * 800
         s.text(cx, 120, title, 28, weight='bold', fill=PLUM)
         s.path(f'M {cx-180} 560 L {cx-150} 420 L {cx+150} 420 L {cx+180} 560 Z', '#E9DFCB', INK, 3)
         s.line(cx, 420, cx, 420 - tree_h, '#6B4F2A', 10)
-        s.circle(cx, 420 - tree_h - 30, 30 + tree_h / 4, '#DDEFD8', INK, 3)
+        s.circle(cx, 420 - tree_h - 25, 25 + tree_h / 5, '#DDEFD8', INK, 3)
         s.text(cx, 600, soil, 24); s.text(cx, 640, tree, 24, weight='bold')
     s.arrow(620, 350, 980, 350, MUTED, 5); s.text(800, 330, 'rainwater only', 22, fill=MUTED)
     s.text(800, 690, 'The soil lost only 0.06 kg, so the extra mass of the tree did not come from the soil.', 24, italic=True, fill=NAVY)
@@ -695,11 +697,11 @@ def disease_types():
             ('genetic (inherited)', 'a fault in the DNA', 'sickle cell disease, haemophilia', TINT),
             ('lifestyle', 'how we live raises the risk', 'lung cancer (smoking), heart disease', PAGE),
             ('autoimmune', 'white blood cells attack the body', 'type 1 diabetes', TINT)]
-    s.text(330, 125, 'type', 26, weight='bold', fill=PLUM); s.text(800, 125, 'cause', 26, weight='bold', fill=PLUM); s.text(1270, 125, 'examples', 26, weight='bold', fill=PLUM)
+    s.text(300, 125, 'type', 24, weight='bold', fill=PLUM); s.text(770, 125, 'cause', 24, weight='bold', fill=PLUM); s.text(1290, 125, 'examples', 24, weight='bold', fill=PLUM)
     for i, (a, b, c, f) in enumerate(rows):
         y = 150 + i * 120
         s.rect(80, y, 1440, 105, f, INK, 2, 12)
-        s.text(330, y + 62, a, 26, weight='bold'); s.text(800, y + 62, b, 24); s.text(1270, y + 62, c, 22)
+        s.text(300, y + 62, a, 23, weight='bold'); s.text(770, y + 62, b, 20); s.text(1290, y + 62, c, 18)
     s.text(800, 790, 'Only infectious diseases can be passed from person to person. The others are non-communicable.', 24, italic=True, fill=NAVY)
     s.save('disease_types')
 

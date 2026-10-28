@@ -88,12 +88,12 @@ function build(lesson, outFile) {
     objects: [
       { image: { path: LOGO_WHITE, x: 0.6, y: 6.25, w: 2.2, h: 0.91 } },
       { placeholder: { options: { name: 'title', type: 'title', x: 0.6, y: 2.3, w: 11.5, h: 1.6, fontSize: 44, bold: true, color: WHITE, valign: 'bottom', margin: 0 } } },
-      { placeholder: { options: { name: 'body', type: 'body', x: 0.6, y: 4.0, w: 11.5, h: 1.0, fontSize: 20, color: WHITE, valign: 'top', margin: 0 } } },
+      { placeholder: { options: { name: 'body', type: 'body', x: 0.6, y: 4.0, w: 11.5, h: 1.2, fontSize: 24, color: WHITE, valign: 'top', margin: 0 } } },
     ],
   });
   const contentObjects = (bg) => ([
     { placeholder: { options: { name: 'title', type: 'title', x: 0.6, y: 0.32, w: 9.9, h: 0.95, fontSize: 30, bold: true, color: NAVY, valign: 'middle', margin: 0 } } },
-    { text: { text: footerText, options: { x: 0.6, y: 7.02, w: 8.5, h: 0.3, fontSize: 9, color: MUTED, margin: 0, valign: 'middle' } } },
+    { text: { text: footerText, options: { x: 0.6, y: 7.02, w: 8.5, h: 0.3, fontSize: 10, color: MUTED, margin: 0, valign: 'middle' } } },
     { image: { path: LOGO_NAVY, x: 11.55, y: 6.85, w: 1.25, h: 0.52 } },
   ]);
   pres.defineSlideMaster({ title: 'CONTENT', background: { color: WHITE }, objects: contentObjects(WHITE), slideNumber: { x: 10.65, y: 7.02, w: 0.7, h: 0.3, fontSize: 9, color: MUTED, align: 'right' } });
@@ -102,7 +102,7 @@ function build(lesson, outFile) {
   pres.defineSlideMaster({
     title: 'SAFETY', background: { color: HI },
     objects: [
-      { placeholder: { options: { name: 'title', type: 'title', x: 0.6, y: 0.32, w: 9.9, h: 0.95, fontSize: 30, bold: true, color: HI_INK, valign: 'middle', margin: 0 } } },
+      { placeholder: { options: { name: 'title', type: 'title', x: 0.6, y: 0.32, w: 9.9, h: 0.95, fontSize: 34, bold: true, color: HI_INK, valign: 'middle', margin: 0 } } },
       { text: { text: footerText, options: { x: 0.6, y: 7.02, w: 8.5, h: 0.3, fontSize: 9, color: HI_INK, margin: 0 } } },
     ],
   });
@@ -119,7 +119,7 @@ function build(lesson, outFile) {
   const vocabStrip = (slide, s) => {
     if (!s.vocab || !s.vocab.length) return;
     slide.addText([{ text: 'Key words  ', options: { bold: true, color: PLUM } }, { text: s.vocab.join('   ·   '), options: { color: PLUM } }],
-      { x: 0.6, y: 6.62, w: 10.5, h: 0.32, fontSize: 12, margin: 0, isTextBox: true, valign: 'middle' });
+      { x: 0.6, y: 6.6, w: 10.5, h: 0.34, fontSize: 14, margin: 0, isTextBox: true, valign: 'middle' });
   };
   const addImage = (slide, ref, box, opts = {}) => {
     const p = imagePath(ref);
@@ -132,16 +132,28 @@ function build(lesson, outFile) {
     slide.addImage({ path: p, x: f.x, y: f.y, w: f.w, h: f.h });
     const cap = opts.caption, cred = imageCredit(ref);
     const lines = [];
-    if (cap) lines.push({ text: cap, options: { color: INK, fontSize: 11 } });
-    if (cred) lines.push({ text: (cap ? '\n' : '') + cred, options: { color: MUTED, fontSize: 8 } });
-    if (lines.length) slide.addText(lines, { x: box.x, y: f.y + f.h + 0.05, w: box.w, h: 0.55, fontSize: 11, margin: 0, isTextBox: true, valign: 'top', align: opts.align || 'left' });
+    if (cap) lines.push({ text: cap, options: { color: INK, fontSize: 13 } });
+    if (cred) lines.push({ text: (cap ? '\n' : '') + cred, options: { color: MUTED, fontSize: 9 } });
+    if (lines.length) slide.addText(lines, { x: box.x, y: f.y + f.h + 0.05, w: box.w, h: 0.6, fontSize: 13, margin: 0, isTextBox: true, valign: 'top', align: opts.align || 'left' });
   };
-  const bullets = (items, size) => items.map((t, i) => ({ text: t, options: { bullet: { indent: 18 }, breakLine: i < items.length - 1, paraSpaceAfter: 6, fontSize: size } }));
+  // Estimate whether lines of text fit a box at a font size; step the size down (never below minSize) until they do.
+  // Calibri averages about 0.5 em per character; line height about 1.2 em; paragraph spacing adds a little.
+  const fitSize = (lines, w, h, size, minSize = 14, extraPerPara = 0.25) => {
+    const texts = lines.map(t => String(t));
+    for (let fs = size; fs >= minSize; fs--) {
+      const charW = fs * 0.5 / 72, lineH = fs * 1.2 / 72;
+      let height = 0;
+      for (const t of texts) height += Math.max(1, Math.ceil(t.length * charW / Math.max(w - 0.3, 1))) * lineH + extraPerPara * lineH;
+      if (height <= h) return fs;
+    }
+    return minSize;
+  };
+  const bullets = (items, size) => items.map((t, i) => ({ text: t, options: { bullet: { indent: 24 }, breakLine: i < items.length - 1, paraSpaceAfter: 8, fontSize: size } }));
   const keyIdea = (slide, text, y = 6.05) => {
     if (!text) return;
     slide.addShape(pres.ShapeType.rect, { x: 0.6, y, w: W - 1.2, h: 0.62, fill: { color: TINT }, line: { color: TINT } });
     slide.addText([{ text: 'Key idea  ', options: { bold: true, color: PLUM } }, { text, options: { color: INK } }],
-      { x: 0.75, y, w: W - 1.5, h: 0.62, fontSize: 14, margin: 0, isTextBox: true, valign: 'middle', fit: 'shrink' });
+      { x: 0.75, y, w: W - 1.5, h: 0.62, fontSize: fitSize(['Key idea  ' + text], W - 1.5, 0.62, 17, 13, 0), margin: 0, isTextBox: true, valign: 'middle' });
   };
   const timer = (slide, minutes, x = W - 1.65, y = 1.0) => {
     if (!minutes) return;
@@ -156,11 +168,11 @@ function build(lesson, outFile) {
     if (type === 'title') {
       const slide = pres.addSlide({ masterName: 'TITLE' });
       slide.addText(`YEAR 9 SCIENCE  ·  ${lesson.unit.toUpperCase()} ${lesson.unit_title.toUpperCase()}  ·  LESSON ${lesson.lesson} OF ${lesson.n_lessons}`,
-        { x: 0.6, y: 1.5, w: 11.5, h: 0.5, fontSize: 13, color: HI, bold: true, charSpacing: 2, margin: 0, isTextBox: true });
+        { x: 0.6, y: 1.5, w: 11.5, h: 0.5, fontSize: 14, color: HI, bold: true, charSpacing: 2, margin: 0, isTextBox: true });
       slide.addText(lesson.title, { placeholder: 'title' });
       slide.addText(s.subtitle || lesson.big_idea || '', { placeholder: 'body' });
       slide.addText(`Exploring Science International 9  ·  Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`,
-        { x: 0.6, y: 5.55, w: 11.5, h: 0.4, fontSize: 12, color: 'C9D3E6', margin: 0, isTextBox: true });
+        { x: 0.6, y: 5.55, w: 11.5, h: 0.4, fontSize: 14, color: 'C9D3E6', margin: 0, isTextBox: true });
       if (s.image) {
         const p = imagePath(s.image);
         if (p) { const f = fitImage(p, { x: 9.3, y: 5.0, w: 3.6, h: 2.0 }); slide.addImage({ path: p, x: f.x, y: f.y, w: f.w, h: f.h }); }
@@ -170,23 +182,33 @@ function build(lesson, outFile) {
     if (type === 'today') {
       const slide = pres.addSlide({ masterName: 'CONTENT' });
       slide.addText(s.title || 'Today', { placeholder: 'title' }); tag(slide, 'today');
-      slide.addText('Today I can ...', { x: 0.6, y: 1.45, w: 6.2, h: 0.5, fontSize: 20, bold: true, color: PLUM, margin: 0, isTextBox: true });
-      let y = 2.05;
+      slide.addText('Today I can ...', { x: 0.6, y: 1.4, w: 6, h: 0.45, fontSize: 22, bold: true, color: PLUM, margin: 0, isTextBox: true });
+      let y = 1.9;
+      const gh = Math.min(0.95, 2.0 / lesson.goals.length);
       for (const g of lesson.goals) {
-        slide.addShape(pres.ShapeType.rect, { x: 0.65, y: y + 0.08, w: 0.32, h: 0.32, fill: { color: WHITE }, line: { color: NAVY, width: 1.5 } });
-        slide.addText(g, { x: 1.15, y, w: 5.6, h: 0.95, fontSize: 16, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
-        y += 1.05;
+        slide.addShape(pres.ShapeType.rect, { x: 0.65, y: y + 0.08, w: 0.34, h: 0.34, fill: { color: WHITE }, line: { color: NAVY, width: 1.5 } });
+        slide.addText(g, { x: 1.2, y, w: 11.3, h: gh, fontSize: fitSize([g], 11.3, gh, 20, 15, 0), color: INK, margin: 0, isTextBox: true, valign: 'top' });
+        y += gh;
       }
-      slide.addText('Key words today', { x: 7.2, y: 1.45, w: 5.5, h: 0.5, fontSize: 20, bold: true, color: PLUM, margin: 0, isTextBox: true });
-      const kws = lesson.keywords.map((k, i) => ([{ text: k.en, options: { bold: true, color: NAVY } }, { text: '  ' + k.meaning, options: { color: INK, breakLine: i < lesson.keywords.length - 1 } }])).flat();
-      slide.addText(kws, { x: 7.2, y: 2.05, w: 5.5, h: 4.4, fontSize: 13, margin: 0, isTextBox: true, valign: 'top', paraSpaceAfter: 5, fit: 'shrink' });
-      if (s.question) slide.addText(s.question, { x: 0.6, y: 4.6, w: 6.2, h: 1.6, fontSize: 15, italic: true, color: MUTED, margin: 0, isTextBox: true, valign: 'top' });
+      const ky = y + 0.15;
+      slide.addText('Key words today', { x: 0.6, y: ky, w: 6, h: 0.45, fontSize: 22, bold: true, color: PLUM, margin: 0, isTextBox: true });
+      const ncol = lesson.keywords.length > 8 ? 3 : 2;
+      const per = Math.ceil(lesson.keywords.length / ncol);
+      const colW = (W - 1.2 - 0.3 * (ncol - 1)) / ncol;
+      const colH = 6.55 - (ky + 0.5);
+      for (let i = 0; i < ncol; i++) {
+        const c = lesson.keywords.slice(i * per, (i + 1) * per);
+        if (!c.length) continue;
+        const runs = c.map((k, j) => ({ text: k.en, options: { bold: true, color: NAVY, breakLine: j < c.length - 1, bullet: { indent: 24 } } }));
+        slide.addText(runs, { x: 0.6 + i * (colW + 0.3), y: ky + 0.5, w: colW, h: colH, fontSize: fitSize(c.map(k => k.en), colW, colH, 22, 16, 0.5), margin: 0, isTextBox: true, valign: 'top', paraSpaceAfter: 6 });
+      }
+      slide.addText('Meanings are in the key words box on your worksheet.', { x: 0.6, y: 6.6, w: 11.9, h: 0.35, fontSize: 14, italic: true, color: MUTED, margin: 0, isTextBox: true });
       notes(slide, s); continue;
     }
     if (type === 'safety') {
       const slide = pres.addSlide({ masterName: 'SAFETY' });
       slide.addText(s.title || 'Safety', { placeholder: 'title' }); tag(slide, 'safety');
-      slide.addText(bullets(s.lines, 20), { x: 0.6, y: 1.5, w: 11.9, h: 5.0, fontSize: 20, color: HI_INK, margin: 0, isTextBox: true, valign: 'top' });
+      slide.addText(bullets(s.lines, fitSize(s.lines, 11.9, 5.0, 26, 18)), { x: 0.6, y: 1.5, w: 11.9, h: 5.0, fontSize: 26, color: HI_INK, margin: 0, isTextBox: true, valign: 'top' });
       notes(slide, s); continue;
     }
     const master = (type === 'think' || type === 'summary') ? 'TINT' : (type === 'exit' || type === 'check' ? 'PAGE' : 'CONTENT');
@@ -199,16 +221,17 @@ function build(lesson, outFile) {
       timer(slide, s.minutes);
       const hasImg = !!s.image;
       const tw = hasImg ? 6.6 : (s.minutes ? 10.6 : 11.9);
-      slide.addText(s.prompt.map((t, i) => ({ text: t, options: { breakLine: i < s.prompt.length - 1, paraSpaceAfter: 10 } })),
-        { x: 0.6, y: 1.5, w: tw, h: 4.9, fontSize: 20, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      slide.addText(s.prompt.map((t, i) => ({ text: t, options: { breakLine: i < s.prompt.length - 1, paraSpaceAfter: 12 } })),
+        { x: 0.6, y: 1.5, w: tw, h: 4.9, fontSize: fitSize(s.prompt, tw, 4.9, 24, 18, 0.4), color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, { x: 7.5, y: 1.5, w: 5.2, h: 4.3 }, { caption: s.caption });
     } else if (type === 'hook') {
       const hasImg = !!s.image;
       const wide = hasImg && s.image.startsWith('diagram:');
       const tw = hasImg ? (wide ? 4.7 : 5.9) : 11.9;
-      slide.addText(s.question, { x: 0.6, y: 1.5, w: tw, h: 2.6, fontSize: wide ? 24 : 28, bold: true, color: NAVY, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      const qh = (s.text && s.text.length) ? 2.9 : 4.6;
+      slide.addText(s.question, { x: 0.6, y: 1.5, w: tw, h: qh, fontSize: fitSize([s.question], tw, qh, wide ? 26 : 30, 20, 0), bold: true, color: NAVY, margin: 0, isTextBox: true, valign: 'top' });
       if (s.text && s.text.length) slide.addText(s.text.map((t, i) => ({ text: t, options: { breakLine: i < s.text.length - 1, paraSpaceAfter: 8 } })),
-        { x: 0.6, y: 4.15, w: tw, h: 2.3, fontSize: 16, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+        { x: 0.6, y: 4.5, w: tw, h: 2.0, fontSize: fitSize(s.text, tw, 2.0, 20, 16), color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, wide ? { x: 5.5, y: 1.4, w: 7.2, h: 4.6 } : { x: 6.9, y: 1.4, w: 5.8, h: 4.6 }, { caption: s.caption });
     } else if (type === 'learn') {
       const hasImg = !!s.image;
@@ -217,12 +240,13 @@ function build(lesson, outFile) {
       const tw = hasImg ? (wide ? 4.7 : 6.3) : 11.9;
       const bottom = s.key_idea ? 5.9 : 6.55;
       const items = s.text || [];
-      slide.addText(bullets(items, items.length > 5 ? 15 : (wide ? 16 : 17)), { x: 0.6, y: 1.45, w: tw, h: bottom - 1.45, fontSize: 17, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      const lfs = fitSize(items, tw, bottom - 1.45, 20, 15, 0.45);
+      slide.addText(bullets(items, lfs), { x: 0.6, y: 1.45, w: tw, h: bottom - 1.45, fontSize: lfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, wide ? { x: 5.5, y: 1.4, w: 7.2, h: bottom - 1.9 } : { x: 7.2, y: 1.4, w: 5.5, h: bottom - 1.9 }, { caption: s.caption });
       keyIdea(slide, s.key_idea);
     } else if (type === 'diagram') {
       // a full-width diagram with a short line of text above it
-      if (s.text) slide.addText(s.text, { x: 0.6, y: 1.35, w: 11.9, h: 0.5, fontSize: 16, color: INK, margin: 0, isTextBox: true, valign: 'middle' });
+      if (s.text) slide.addText(s.text, { x: 0.6, y: 1.35, w: 11.9, h: 0.5, fontSize: fitSize([s.text], 11.9, 0.5, 18, 14, 0), color: INK, margin: 0, isTextBox: true, valign: 'middle' });
       const bottom = s.key_idea ? 5.95 : 6.6;
       addImage(slide, s.image, { x: 0.6, y: s.text ? 1.9 : 1.4, w: 11.9, h: bottom - (s.text ? 1.95 : 1.45) }, { caption: s.caption, align: 'center' });
       keyIdea(slide, s.key_idea);
@@ -233,8 +257,9 @@ function build(lesson, outFile) {
       cards.forEach((c, i) => {
         const x = x0 + i * (cw + gap);
         slide.addShape(pres.ShapeType.roundRect, { x, y: 1.45, w: cw, h: bottom - 1.45, fill: { color: i === 0 ? PAGE : TINT }, line: { color: RULE, width: 1 }, rectRadius: 0.12 });
-        slide.addText(c.heading, { x: x + 0.3, y: 1.6, w: cw - 0.6, h: 0.55, fontSize: 20, bold: true, color: NAVY, margin: 0, isTextBox: true });
-        slide.addText(bullets(c.points, 15), { x: x + 0.3, y: 2.2, w: cw - 0.6, h: bottom - 2.4, fontSize: 15, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+        slide.addText(c.heading, { x: x + 0.3, y: 1.6, w: cw - 0.6, h: 0.55, fontSize: 22, bold: true, color: NAVY, margin: 0, isTextBox: true });
+        const cfs = fitSize(c.points, cw - 0.6, bottom - 2.4, 18, 14, 0.45);
+        slide.addText(bullets(c.points, cfs), { x: x + 0.3, y: 2.2, w: cw - 0.6, h: bottom - 2.4, fontSize: cfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       });
       keyIdea(slide, s.key_idea);
     } else if (type === 'steps' || type === 'do') {
@@ -246,21 +271,23 @@ function build(lesson, outFile) {
       s.steps.forEach((st, i) => {
         slide.addShape(pres.ShapeType.ellipse, { x: 0.6, y: y + 0.05, w: 0.5, h: 0.5, fill: { color: PLUM }, line: { color: PLUM } });
         slide.addText(String(i + 1), { x: 0.6, y: y + 0.05, w: 0.5, h: 0.5, fontSize: 15, bold: true, color: WHITE, align: 'center', valign: 'middle', margin: 0, isTextBox: true });
-        slide.addText(st, { x: 1.3, y, w: tw - 0.7, h: stepH, fontSize: s.steps.length > 5 ? 15 : 17, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+        slide.addText(st, { x: 1.3, y, w: tw - 0.7, h: stepH, fontSize: fitSize([st], tw - 0.7, stepH - 0.05, 20, 14, 0), color: INK, margin: 0, isTextBox: true, valign: 'top' });
         y += stepH;
       });
       if (hasImg) addImage(slide, s.image, { x: 7.5, y: 1.5, w: 5.2, h: 4.3 }, { caption: s.caption });
-      if (s.footer) slide.addText(s.footer, { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: 13, italic: true, color: MUTED, margin: 0, isTextBox: true });
+      if (s.footer) slide.addText(s.footer, { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: 15, italic: true, color: MUTED, margin: 0, isTextBox: true });
     } else if (type === 'practical') {
-      if (s.aim) slide.addText([{ text: 'Aim  ', options: { bold: true, color: PLUM } }, { text: s.aim, options: { color: INK } }], { x: 0.6, y: 1.4, w: 11.9, h: 0.5, fontSize: 15, margin: 0, isTextBox: true, valign: 'middle' });
-      slide.addText('Equipment', { x: 0.6, y: 2.0, w: 4.4, h: 0.4, fontSize: 16, bold: true, color: NAVY, margin: 0, isTextBox: true });
-      slide.addText(bullets(s.equipment, 13), { x: 0.6, y: 2.45, w: 4.4, h: 3.5, fontSize: 13, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
-      slide.addText('Method', { x: 5.4, y: 2.0, w: 7.3, h: 0.4, fontSize: 16, bold: true, color: NAVY, margin: 0, isTextBox: true });
-      slide.addText(s.method.map((m, i) => ({ text: m, options: { bullet: { type: 'number' }, breakLine: i < s.method.length - 1, paraSpaceAfter: 5 } })),
-        { x: 5.4, y: 2.45, w: 7.3, h: 3.5, fontSize: 13, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      if (s.aim) slide.addText([{ text: 'Aim  ', options: { bold: true, color: PLUM } }, { text: s.aim, options: { color: INK } }], { x: 0.6, y: 1.4, w: 11.9, h: 0.5, fontSize: 18, margin: 0, isTextBox: true, valign: 'middle' });
+      slide.addText('Equipment', { x: 0.6, y: 2.0, w: 4.4, h: 0.4, fontSize: 18, bold: true, color: NAVY, margin: 0, isTextBox: true });
+      const efs = fitSize(s.equipment, 4.4, 3.5, 16, 12, 0.4);
+      slide.addText(bullets(s.equipment, efs), { x: 0.6, y: 2.45, w: 4.4, h: 3.5, fontSize: efs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
+      slide.addText('Method', { x: 5.4, y: 2.0, w: 7.3, h: 0.4, fontSize: 18, bold: true, color: NAVY, margin: 0, isTextBox: true });
+      const mfs = fitSize(s.method, 7.0, 3.5, 16, 12, 0.4);
+      slide.addText(s.method.map((m, i) => ({ text: m, options: { bullet: { type: 'number' }, breakLine: i < s.method.length - 1, paraSpaceAfter: 6 } })),
+        { x: 5.4, y: 2.45, w: 7.3, h: 3.5, fontSize: mfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (s.safety) {
         slide.addShape(pres.ShapeType.rect, { x: 0.6, y: 6.05, w: 11.9, h: 0.55, fill: { color: HI }, line: { color: HI } });
-        slide.addText([{ text: 'Safety  ', options: { bold: true } }, { text: s.safety }], { x: 0.75, y: 6.05, w: 11.6, h: 0.55, fontSize: 13, color: HI_INK, margin: 0, isTextBox: true, valign: 'middle', fit: 'shrink' });
+        slide.addText([{ text: 'Safety  ', options: { bold: true } }, { text: s.safety }], { x: 0.75, y: 6.05, w: 11.6, h: 0.55, fontSize: fitSize(['Safety  ' + s.safety], 11.6, 0.55, 15, 11, 0), color: HI_INK, margin: 0, isTextBox: true, valign: 'middle' });
       }
     } else if (type === 'chart') {
       const ch = s.chart;
@@ -270,59 +297,61 @@ function build(lesson, outFile) {
       const data = ch.series.map(se => ({ name: se.name, labels: ch.categories, values: se.values }));
       slide.addChart(ctype, data, {
         x: 0.6, y: 1.45, w: cw, h: 4.9, barDir: 'col', barGapWidthPct: ch.gap === 0 ? 0 : 60,
-        chartColors: ch.series.length > 1 ? [PLUM, BLUE, NAVY] : [PLUM], showLegend: ch.series.length > 1, legendPos: 'b', legendFontSize: 11, legendFontFace: '+mn-lt',
-        showValue: ch.type !== 'line', dataLabelPosition: 'outEnd', dataLabelFontSize: 10, dataLabelFontFace: '+mn-lt', dataLabelColor: INK,
+        chartColors: ch.series.length > 1 ? [PLUM, BLUE, NAVY] : [PLUM], showLegend: ch.series.length > 1, legendPos: 'b', legendFontSize: 13, legendFontFace: '+mn-lt',
+        showValue: ch.type !== 'line', dataLabelPosition: 'outEnd', dataLabelFontSize: 12, dataLabelFontFace: '+mn-lt', dataLabelColor: INK,
         dataLabelFormatCode: ch.label_format || (ch.series.some(se => se.values.some(v => !Number.isInteger(v))) ? '0.0' : '0'),
-        showTitle: !!ch.title, title: ch.title || '', titleFontSize: 14, titleFontFace: '+mj-lt', titleColor: NAVY,
-        catAxisTitle: ch.x_title || '', showCatAxisTitle: !!ch.x_title, catAxisTitleFontSize: 11, catAxisTitleFontFace: '+mn-lt', catAxisTitleColor: INK,
-        valAxisTitle: ch.y_title || '', showValAxisTitle: !!ch.y_title, valAxisTitleFontSize: 11, valAxisTitleFontFace: '+mn-lt', valAxisTitleColor: INK,
-        catAxisLabelFontSize: 11, valAxisLabelFontSize: 11, catAxisLabelFontFace: '+mn-lt', valAxisLabelFontFace: '+mn-lt', catAxisLabelColor: INK, valAxisLabelColor: INK,
+        showTitle: !!ch.title, title: ch.title || '', titleFontSize: 16, titleFontFace: '+mj-lt', titleColor: NAVY,
+        catAxisTitle: ch.x_title || '', showCatAxisTitle: !!ch.x_title, catAxisTitleFontSize: 13, catAxisTitleFontFace: '+mn-lt', catAxisTitleColor: INK,
+        valAxisTitle: ch.y_title || '', showValAxisTitle: !!ch.y_title, valAxisTitleFontSize: 13, valAxisTitleFontFace: '+mn-lt', valAxisTitleColor: INK,
+        catAxisLabelFontSize: 13, valAxisLabelFontSize: 13, catAxisLabelFontFace: '+mn-lt', valAxisLabelFontFace: '+mn-lt', catAxisLabelColor: INK, valAxisLabelColor: INK,
         valGridLine: { color: RULE, size: 0.5 }, catGridLine: { style: 'none' }, lineDataSymbol: 'none', lineSize: 2,
       });
-      if (hasText) slide.addText(bullets(s.text, 15), { x: 7.9, y: 1.5, w: 4.8, h: 4.8, fontSize: 15, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      if (hasText) { const tfs = fitSize(s.text, 4.8, 4.8, 18, 14, 0.45); slide.addText(bullets(s.text, tfs), { x: 7.9, y: 1.5, w: 4.8, h: 4.8, fontSize: tfs, color: INK, margin: 0, isTextBox: true, valign: 'top' }); }
       keyIdea(slide, s.key_idea, 6.4);
     } else if (type === 'table') {
-      const rows = [s.table.headers.map(h => ({ text: h, options: { bold: true, color: WHITE, fill: { color: NAVY }, fontSize: 13 } }))]
-        .concat(s.table.rows.map(r => r.map(c => ({ text: String(c), options: { fontSize: 13, color: INK } }))));
+      const tfs = s.table.rows.length > 5 ? 13 : 15;
+      const rows = [s.table.headers.map(h => ({ text: h, options: { bold: true, color: WHITE, fill: { color: NAVY }, fontSize: tfs } }))]
+        .concat(s.table.rows.map(r => r.map(c => ({ text: String(c), options: { fontSize: tfs, color: INK } }))));
       const hasText = s.text && s.text.length;
       slide.addTable(rows, { x: 0.6, y: 1.5, w: hasText ? 7.6 : 11.9, colW: s.table.colW, border: { type: 'solid', color: RULE, pt: 1 }, fontFace: 'Calibri', autoPage: false, rowH: 0.42, valign: 'middle', margin: 0.06 });
-      if (hasText) slide.addText(bullets(s.text, 15), { x: 8.5, y: 1.5, w: 4.2, h: 4.8, fontSize: 15, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      if (hasText) { const xfs = fitSize(s.text, 4.2, 4.8, 18, 14, 0.45); slide.addText(bullets(s.text, xfs), { x: 8.5, y: 1.5, w: 4.2, h: 4.8, fontSize: xfs, color: INK, margin: 0, isTextBox: true, valign: 'top' }); }
       keyIdea(slide, s.key_idea);
     } else if (type === 'check') {
-      slide.addText(s.instruction || 'Mini whiteboards or fingers. Answer each question, then we check together.', { x: 0.6, y: 1.4, w: 11.9, h: 0.45, fontSize: 14, italic: true, color: MUTED, margin: 0, isTextBox: true });
+      slide.addText(s.instruction || 'Mini whiteboards or fingers. Answer each question, then we check together.', { x: 0.6, y: 1.4, w: 11.9, h: 0.45, fontSize: 16, italic: true, color: MUTED, margin: 0, isTextBox: true });
       let y = 1.95; const qh = Math.min(1.05, 4.5 / s.questions.length);
       s.questions.forEach((q, i) => {
         slide.addShape(pres.ShapeType.roundRect, { x: 0.6, y, w: 11.9, h: qh - 0.12, fill: { color: WHITE }, line: { color: RULE, width: 1 }, rectRadius: 0.08 });
-        slide.addText([{ text: `Q${i + 1}  `, options: { bold: true, color: PLUM } }, { text: q, options: { color: INK } }], { x: 0.8, y, w: 11.5, h: qh - 0.12, fontSize: 16, margin: 0, isTextBox: true, valign: 'middle', fit: 'shrink' });
+        slide.addText([{ text: `Q${i + 1}  `, options: { bold: true, color: PLUM } }, { text: q, options: { color: INK } }], { x: 0.8, y, w: 11.5, h: qh - 0.12, fontSize: fitSize(['Q0  ' + q], 11.5, qh - 0.2, 20, 14, 0), margin: 0, isTextBox: true, valign: 'middle' });
         y += qh;
       });
     } else if (type === 'think') {
       const hasImg = !!s.image;
-      slide.addText(s.prompt, { x: 0.6, y: 1.45, w: hasImg ? 6.4 : 11.9, h: 2.1, fontSize: 22, bold: true, color: NAVY, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      slide.addText(s.prompt, { x: 0.6, y: 1.45, w: hasImg ? 6.4 : 11.9, h: 2.1, fontSize: fitSize([s.prompt], hasImg ? 6.4 : 11.9, 2.1, 26, 18, 0), bold: true, color: NAVY, margin: 0, isTextBox: true, valign: 'top' });
       if (s.frames && s.frames.length) {
         slide.addShape(pres.ShapeType.roundRect, { x: 0.6, y: 3.7, w: hasImg ? 6.4 : 11.9, h: 2.6, fill: { color: WHITE }, line: { color: PLUM, width: 1, dashType: 'dash' }, rectRadius: 0.1 });
         slide.addText([{ text: 'Sentence frames', options: { bold: true, color: PLUM, breakLine: true, paraSpaceAfter: 6 } }]
           .concat(s.frames.map((f, i) => ({ text: f, options: { color: INK, breakLine: i < s.frames.length - 1, paraSpaceAfter: 6 } }))),
-          { x: 0.85, y: 3.85, w: (hasImg ? 6.4 : 11.9) - 0.5, h: 2.35, fontSize: 15, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+          { x: 0.85, y: 3.85, w: (hasImg ? 6.4 : 11.9) - 0.5, h: 2.35, fontSize: fitSize(['Sentence frames'].concat(s.frames), (hasImg ? 6.4 : 11.9) - 0.5, 2.35, 18, 14, 0.3), margin: 0, isTextBox: true, valign: 'top' });
       }
       if (hasImg) addImage(slide, s.image, { x: 7.4, y: 1.45, w: 5.3, h: 4.6 }, { caption: s.caption });
     } else if (type === 'exit') {
-      slide.addText(s.instruction || 'On your worksheet exit ticket. Work alone. Hand it in as you leave.', { x: 0.6, y: 1.4, w: 11.9, h: 0.45, fontSize: 14, italic: true, color: MUTED, margin: 0, isTextBox: true });
+      slide.addText(s.instruction || 'On your worksheet exit ticket. Work alone. Hand it in as you leave.', { x: 0.6, y: 1.4, w: 11.9, h: 0.45, fontSize: 16, italic: true, color: MUTED, margin: 0, isTextBox: true });
       let y = 2.0; const qh = Math.min(1.3, 4.4 / s.questions.length);
       s.questions.forEach((q, i) => {
-        slide.addText([{ text: `${i + 1}.  `, options: { bold: true, color: PLUM } }, { text: q, options: { color: INK } }], { x: 0.6, y, w: 11.9, h: qh, fontSize: 18, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+        slide.addText([{ text: `${i + 1}.  `, options: { bold: true, color: PLUM } }, { text: q, options: { color: INK } }], { x: 0.6, y, w: 10.6, h: qh, fontSize: fitSize(['1.  ' + q], 10.6, qh - 0.1, 22, 16, 0), margin: 0, isTextBox: true, valign: 'top' });
         y += qh;
       });
       timer(slide, s.minutes);
     } else if (type === 'summary') {
-      const pts = s.points.map((p, i) => ({ text: p, options: { bullet: { code: '2713' }, breakLine: i < s.points.length - 1, paraSpaceAfter: 10 } }));
       const hasImg = !!s.image;
-      slide.addText(pts, { x: 0.6, y: 1.5, w: hasImg ? 6.6 : 11.9, h: 4.9, fontSize: 17, color: INK, margin: 0, isTextBox: true, valign: 'top', fit: 'shrink' });
+      const sfs = fitSize(s.points, hasImg ? 6.6 : 11.9, 4.5, 20, 15, 0.5);
+      const pts = s.points.map((p, i) => ({ text: p, options: { bullet: { code: '2713' }, breakLine: i < s.points.length - 1, paraSpaceAfter: 12, fontSize: sfs } }));
+      slide.addText(pts, { x: 0.6, y: 1.5, w: hasImg ? 6.6 : 11.9, h: 4.5, fontSize: sfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, { x: 7.5, y: 1.5, w: 5.2, h: 4.3 }, { caption: s.caption });
-      if (s.next) slide.addText([{ text: 'Next lesson  ', options: { bold: true, color: PLUM } }, { text: s.next, options: { color: INK } }], { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: 13, margin: 0, isTextBox: true });
+      if (s.next) slide.addText([{ text: 'Next lesson  ', options: { bold: true, color: PLUM } }, { text: s.next, options: { color: INK } }], { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: fitSize(['Next lesson  ' + s.next], 11.9, 0.45, 15, 12, 0), margin: 0, isTextBox: true });
     } else if (type === 'image') {
       addImage(slide, s.image, { x: 0.6, y: 1.4, w: 11.9, h: 4.6 }, { caption: s.caption, align: 'center' });
-      if (s.text) slide.addText(s.text, { x: 0.6, y: 6.1, w: 11.9, h: 0.5, fontSize: 15, color: INK, margin: 0, isTextBox: true, align: 'center' });
+      if (s.text) slide.addText(s.text, { x: 0.6, y: 6.1, w: 11.9, h: 0.5, fontSize: 18, color: INK, margin: 0, isTextBox: true, align: 'center' });
     } else {
       slide.addText(`Unknown slide type: ${type}`, { x: 1, y: 2, w: 8, h: 1, fontSize: 14, color: 'FF0000', isTextBox: true });
     }
