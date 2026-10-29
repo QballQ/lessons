@@ -1156,14 +1156,32 @@ def demo_data(seed=2026):
     return out, flagged
 
 
+# ---------------------------------------------------------------- larger type for the screen sheets
+def enlarge(ws, factor=1.3):
+    """Scale fonts, row heights and column widths on a sheet meant to be read on a screen or projected."""
+    from copy import copy
+    for row in ws.iter_rows():
+        for c in row:
+            if c.font is not None and c.value is not None:
+                f = copy(c.font)
+                f.size = round((f.size or 10) * factor)
+                c.font = f
+    for r, d in ws.row_dimensions.items():
+        if d.height:
+            d.height = round(d.height * factor)
+    for k, d in ws.column_dimensions.items():
+        if d.width:
+            d.width = round(d.width * (1 if d.width <= 2 else 1.22), 1)
+
+
 # ---------------------------------------------------------------- main
 def build(path, demo=False):
     wb = Workbook()
     wb.remove(wb.active)
     data, flagged = demo_data() if demo else ({}, [])
     build_howto(wb, demo)
-    build_dashboard(wb, demo)
-    build_levels(wb, demo)
+    enlarge(build_dashboard(wb, demo))
+    enlarge(build_levels(wb, demo))
     for y in YEARS:
         build_year(wb, y, data.get(y))
     build_lists(wb)
