@@ -108,12 +108,22 @@ YEARS = {
              intro='Now turn to Part B, on page 4. You will hear a talk by a scientist, Professor Zhou Lan, about the '
                    'climate of cities. You will hear it two times. First, you have one minute to read questions 9 '
                    'to 16.')]),
+    12: dict(kind='parts', announcer=M1, fixed_speed=FIXED_SPEED, parts=[
+        dict(name='A', voices={'Li Na': F1, 'Chen Yu': M2}, default=F1, finish=60,
+             intro='Turn to the Listening page. There are two parts. In Part A, you will hear a phone conversation '
+                   'between Li Na, a school student, and her cousin Chen Yu, who is at university. You will hear it '
+                   'two times. First, you have one minute to read questions 1 to 8.'),
+        dict(name='B', voices={}, default=M2, finish=60,
+             intro='Now turn to Part B, on page 4. You will hear a talk by an engineer, Dr Wang Hao, about turning '
+                   'seawater into drinking water. You will hear it two times. First, you have one minute to read '
+                   'questions 9 to 16.')]),
 }
 
 # Spellings that help the voice say names and titles close to how they are said. The printed papers are unchanged.
 SAY = {'Dr ': 'Doctor ', 'Mr ': 'Mister ', 'Ms ': 'Miz ', 'Liu Yan': 'Lyo Yen', 'Liu': 'Lyo', 'Zhou Lan': 'Joe Lan',
        'Zhou': 'Joe', 'Zhang': 'Jahng', 'Shenzhen': 'Shen-jen', 'Hangzhou': 'Hahng-joe', 'Fujian': 'Foo-jen',
-       'Shennong': 'Shun-nong', 'Lu Yu': 'Loo Yoo', 'Namib': 'Nah-mib', 'Chen': 'Chun'}
+       'Shennong': 'Shun-nong', 'Lu Yu': 'Loo Yoo', 'Namib': 'Nah-mib', 'Chen Yu': 'Chun Yoo', 'Chen': 'Chun',
+       'Wang Hao': 'Wahng How'}
 
 
 # Names the voice says wrongly unless they are respelled (checked with a speech recogniser); whole words only.
