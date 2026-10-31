@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <title>Three test tubes in a rack, each holding the same depth of dilute acid and a small piece of metal. The tubes are labelled magnesium, zinc and iron. Bubbles rise from the metal in each tube: many in the magnesium tube, some in the zinc tube and few in the iron tube.</title>
+  <!-- rack -->
+  <rect x="14" y="150" width="272" height="10" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+  <rect x="24" y="160" width="10" height="40" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+  <rect x="266" y="160" width="10" height="40" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+  <!-- tubes: x centres 60, 150, 240; width 40 -->
+  <g fill="#fff" stroke="#111" stroke-width="2.2">
+    <path d="M 40 20 L 40 160 Q 40 180 60 180 Q 80 180 80 160 L 80 20"/>
+    <path d="M 130 20 L 130 160 Q 130 180 150 180 Q 170 180 170 160 L 170 20"/>
+    <path d="M 220 20 L 220 160 Q 220 180 240 180 Q 260 180 260 160 L 260 20"/>
+  </g>
+  <!-- acid: same depth in each, from y 80 -->
+  <g fill="#e6e6e6" stroke="none">
+    <path d="M 42 80 L 42 160 Q 42 178 60 178 Q 78 178 78 160 L 78 80 Z"/>
+    <path d="M 132 80 L 132 160 Q 132 178 150 178 Q 168 178 168 160 L 168 80 Z"/>
+    <path d="M 222 80 L 222 160 Q 222 178 240 178 Q 258 178 258 160 L 258 80 Z"/>
+  </g>
+  <g stroke="#111" stroke-width="1.4">
+    <line x1="42" y1="80" x2="78" y2="80"/><line x1="132" y1="80" x2="168" y2="80"/><line x1="222" y1="80" x2="258" y2="80"/>
+  </g>
+  <!-- metal pieces -->
+  <g fill="#7a7a7a" stroke="#111" stroke-width="1.5">
+    <rect x="50" y="160" width="20" height="10" rx="2"/>
+    <rect x="140" y="160" width="20" height="10" rx="2"/>
+    <rect x="230" y="160" width="20" height="10" rx="2"/>
+  </g>
+  <!-- bubbles -->
+  <g fill="#fff" stroke="#111" stroke-width="1.3">
+    <circle cx="52" cy="150" r="3"/><circle cx="66" cy="146" r="3"/><circle cx="58" cy="136" r="3"/><circle cx="70" cy="128" r="3"/><circle cx="50" cy="122" r="3"/><circle cx="62" cy="112" r="3"/><circle cx="54" cy="100" r="3"/><circle cx="68" cy="96" r="3"/><circle cx="58" cy="88" r="3"/>
+    <circle cx="146" cy="150" r="3"/><circle cx="158" cy="140" r="3"/><circle cx="150" cy="124" r="3"/><circle cx="160" cy="108" r="3"/>
+    <circle cx="238" cy="150" r="3"/>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" fill="#111" text-anchor="middle">
+    <text x="60" y="214">magnesium</text>
+    <text x="150" y="214">zinc</text>
+    <text x="240" y="214">iron</text>
+  </g>
+</svg>

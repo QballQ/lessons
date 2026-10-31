@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 190" width="330" height="190">
+  <title>A drawing of a cheek cell: an irregular oval with a nucleus near the centre. A dimension line under the cell shows the length of the drawing as 30 mm. The words Not drawn accurately are printed.</title>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker>
+  </defs>
+  <path d="M 50 80 C 60 30 150 22 220 36 C 290 50 300 100 270 122 C 230 150 120 150 70 126 C 40 112 42 96 50 80 Z" fill="#f4f4f4" stroke="#111" stroke-width="2.5"/>
+  <circle cx="168" cy="86" r="22" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <circle cx="168" cy="86" r="5" fill="#111"/>
+  <line x1="46" y1="166" x2="296" y2="166" stroke="#111" stroke-width="2" marker-end="url(#ah)"/>
+  <line x1="296" y1="166" x2="46" y2="166" stroke="#111" stroke-width="2" marker-end="url(#ah)"/>
+  <line x1="46" y1="150" x2="46" y2="182" stroke="#111" stroke-width="1.5"/>
+  <line x1="296" y1="150" x2="296" y2="182" stroke="#111" stroke-width="1.5"/>
+  <rect x="140" y="152" width="64" height="26" fill="#fff"/>
+  <text x="172" y="172" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#111">30 mm</text>
+  <text x="320" y="26" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="13" fill="#111" text-anchor="end">Not drawn accurately</text>
+</svg>

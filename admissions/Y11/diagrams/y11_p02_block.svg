@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 200" width="380" height="200">
+  <title>A metal block drawn as a cuboid. Its edges are labelled 10 cm long, 5 cm wide and 2 cm high. A label says mass 270 g.</title>
+  <!-- front face -->
+  <polygon points="80,150 280,150 280,110 80,110" fill="#e6e6e6" stroke="#111" stroke-width="2.4"/>
+  <!-- top face -->
+  <polygon points="80,110 280,110 340,70 140,70" fill="#fff" stroke="#111" stroke-width="2.4"/>
+  <!-- side face -->
+  <polygon points="280,150 340,110 340,70 280,110" fill="#bdbdbd" stroke="#111" stroke-width="2.4"/>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">
+    <text x="180" y="178" text-anchor="middle">10 cm</text>
+    <text x="322" y="142">5 cm</text>
+    <text x="72" y="136" text-anchor="end">2 cm</text>
+  </g>
+  <text x="210" y="40" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" fill="#111" text-anchor="middle">mass = 270 g</text>
+  <text x="200" y="196" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="13" fill="#111" text-anchor="middle">Not drawn to scale</text>
+</svg>

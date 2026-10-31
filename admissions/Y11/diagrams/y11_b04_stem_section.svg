@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250">
+  <title>On the left, a cross-section of a plant stem: a circle with six vascular bundles arranged in a ring. On the right, one vascular bundle is drawn larger. It has two tissues: X, the inner tissue with large round cells (towards the centre of the stem), and Y, the outer tissue with small cells (towards the outside of the stem).</title>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker>
+  </defs>
+  <!-- stem section -->
+  <circle cx="120" cy="125" r="100" fill="#f4f4f4" stroke="#111" stroke-width="3"/>
+  <circle cx="120" cy="125" r="92" fill="none" stroke="#111" stroke-width="1.2"/>
+  <g fill="#bdbdbd" stroke="#111" stroke-width="1.6">
+    <ellipse cx="120" cy="58" rx="16" ry="12"/>
+    <ellipse cx="178" cy="91" rx="16" ry="12" transform="rotate(60 178 91)"/>
+    <ellipse cx="178" cy="159" rx="16" ry="12" transform="rotate(120 178 159)"/>
+    <ellipse cx="120" cy="192" rx="16" ry="12"/>
+    <ellipse cx="62" cy="159" rx="16" ry="12" transform="rotate(60 62 159)"/>
+    <ellipse cx="62" cy="91" rx="16" ry="12" transform="rotate(120 62 91)"/>
+  </g>
+  <text x="120" y="242" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">cross-section of a stem</text>
+  <!-- magnifying lines -->
+  <line x1="196" y1="83" x2="290" y2="40" stroke="#111" stroke-width="1.3" stroke-dasharray="5 4"/>
+  <line x1="196" y1="99" x2="290" y2="206" stroke="#111" stroke-width="1.3" stroke-dasharray="5 4"/>
+  <!-- enlarged bundle -->
+  <path d="M 290 40 L 400 40 Q 436 40 436 76 L 436 170 Q 436 206 400 206 L 290 206 Z" fill="#fff" stroke="#111" stroke-width="2.4"/>
+  <line x1="372" y1="40" x2="372" y2="206" stroke="#111" stroke-width="1.6"/>
+  <!-- X: large cells (inner side, left) -->
+  <g fill="#e6e6e6" stroke="#111" stroke-width="1.8">
+    <circle cx="316" cy="70" r="17"/><circle cx="350" cy="76" r="14"/>
+    <circle cx="314" cy="112" r="18"/><circle cx="350" cy="118" r="15"/>
+    <circle cx="316" cy="158" r="17"/><circle cx="350" cy="162" r="14"/>
+    <circle cx="332" cy="190" r="12"/>
+  </g>
+  <!-- Y: small cells (outer side, right) -->
+  <g fill="#fff" stroke="#111" stroke-width="1.4">
+    <circle cx="388" cy="60" r="7"/><circle cx="410" cy="68" r="7"/><circle cx="392" cy="86" r="7"/><circle cx="414" cy="96" r="7"/>
+    <circle cx="390" cy="112" r="7"/><circle cx="412" cy="124" r="7"/><circle cx="392" cy="140" r="7"/><circle cx="414" cy="152" r="7"/>
+    <circle cx="390" cy="168" r="7"/><circle cx="410" cy="180" r="7"/><circle cx="394" cy="194" r="7"/>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="20" font-weight="700" fill="#111">
+    <text x="322" y="234" text-anchor="middle">X</text>
+    <text x="400" y="234" text-anchor="middle">Y</text>
+  </g>
+  <text x="258" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" fill="#111" text-anchor="middle">centre of stem</text>
+  <line x1="276" y1="40" x2="276" y2="206" stroke="#111" stroke-width="1" stroke-dasharray="2 3"/>
+  <text x="445" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" fill="#111" text-anchor="end">outside</text>
+</svg>

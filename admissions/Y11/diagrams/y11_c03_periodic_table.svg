@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 190" width="580" height="190">
+  <title>An outline of the periodic table, periods 1 to 4, with the groups numbered 1, 2, 3, 4, 5, 6, 7 and 0 along the top. Four elements are marked with letters: W in Group 1, period 2; X in Group 2, period 3; Y in Group 7, period 3; Z in Group 0, period 2.</title>
+  <!-- cells are 28 wide, 30 high; column c at x = 20 + 28*(c-1); row r at y = 40 + 30*(r-1) -->
+  <g fill="#fff" stroke="#111" stroke-width="1.5">
+    <!-- period 1 -->
+    <rect x="20" y="40" width="28" height="30"/><rect x="496" y="40" width="28" height="30"/>
+    <!-- periods 2 and 3, groups 1 and 2 -->
+    <rect x="20" y="70" width="28" height="30"/><rect x="48" y="70" width="28" height="30"/>
+    <rect x="20" y="100" width="28" height="30"/><rect x="48" y="100" width="28" height="30"/>
+    <!-- periods 2 and 3, groups 3 to 0 (columns 13 to 18) -->
+    <rect x="356" y="70" width="28" height="30"/><rect x="384" y="70" width="28" height="30"/><rect x="412" y="70" width="28" height="30"/><rect x="440" y="70" width="28" height="30"/><rect x="468" y="70" width="28" height="30"/><rect x="496" y="70" width="28" height="30"/>
+    <rect x="356" y="100" width="28" height="30"/><rect x="384" y="100" width="28" height="30"/><rect x="412" y="100" width="28" height="30"/><rect x="440" y="100" width="28" height="30"/><rect x="468" y="100" width="28" height="30"/><rect x="496" y="100" width="28" height="30"/>
+    <!-- period 4, all 18 columns -->
+    <rect x="20" y="130" width="28" height="30"/><rect x="48" y="130" width="28" height="30"/>
+    <rect x="76" y="130" width="28" height="30"/><rect x="104" y="130" width="28" height="30"/><rect x="132" y="130" width="28" height="30"/><rect x="160" y="130" width="28" height="30"/><rect x="188" y="130" width="28" height="30"/><rect x="216" y="130" width="28" height="30"/><rect x="244" y="130" width="28" height="30"/><rect x="272" y="130" width="28" height="30"/><rect x="300" y="130" width="28" height="30"/><rect x="328" y="130" width="28" height="30"/>
+    <rect x="356" y="130" width="28" height="30"/><rect x="384" y="130" width="28" height="30"/><rect x="412" y="130" width="28" height="30"/><rect x="440" y="130" width="28" height="30"/><rect x="468" y="130" width="28" height="30"/><rect x="496" y="130" width="28" height="30"/>
+  </g>
+  <!-- shaded marked cells -->
+  <g fill="#e6e6e6" stroke="#111" stroke-width="1.5">
+    <rect x="20" y="70" width="28" height="30"/>
+    <rect x="48" y="100" width="28" height="30"/>
+    <rect x="468" y="100" width="28" height="30"/>
+    <rect x="496" y="70" width="28" height="30"/>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="34" y="92">W</text>
+    <text x="62" y="122">X</text>
+    <text x="482" y="122">Y</text>
+    <text x="510" y="92">Z</text>
+  </g>
+  <!-- group numbers -->
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111" text-anchor="middle">
+    <text x="34" y="30">1</text><text x="62" y="30">2</text>
+    <text x="370" y="30">3</text><text x="398" y="30">4</text><text x="426" y="30">5</text><text x="454" y="30">6</text><text x="482" y="30">7</text><text x="510" y="30">0</text>
+  </g>
+  <text x="200" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111" text-anchor="middle">Group</text>
+  <rect x="140" y="138" width="124" height="16" fill="#fff"/>
+  <text x="202" y="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="12" fill="#111" text-anchor="middle">transition elements</text>
+  </svg>

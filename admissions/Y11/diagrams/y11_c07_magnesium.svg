@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 270" width="300" height="270">
+  <title>A crucible with a lid sits on a pipe-clay triangle on a tripod. A Bunsen burner flame heats it from below. A label shows magnesium ribbon inside the crucible.</title>
+  <!-- bunsen -->
+  <rect x="120" y="222" width="60" height="10" fill="#7a7a7a" stroke="#111" stroke-width="1.6"/>
+  <rect x="144" y="166" width="12" height="56" fill="#bdbdbd" stroke="#111" stroke-width="1.6"/>
+  <path d="M 150 110 C 136 130 134 150 150 166 C 166 150 164 130 150 110 Z" fill="#e6e6e6" stroke="#111" stroke-width="1.6"/>
+  <path d="M 150 132 C 144 142 144 154 150 162 C 156 154 156 142 150 132 Z" fill="#fff" stroke="#111" stroke-width="1.2"/>
+  <!-- tripod -->
+  <g stroke="#111" stroke-width="3" fill="none">
+    <line x1="70" y1="100" x2="56" y2="232"/>
+    <line x1="230" y1="100" x2="244" y2="232"/>
+    <line x1="70" y1="100" x2="230" y2="100"/>
+  </g>
+  <!-- pipe-clay triangle -->
+  <g stroke="#111" stroke-width="2" fill="none">
+    <line x1="100" y1="100" x2="200" y2="100"/>
+    <line x1="100" y1="100" x2="150" y2="118"/>
+    <line x1="200" y1="100" x2="150" y2="118"/>
+  </g>
+  <!-- crucible -->
+  <path d="M 112 48 L 122 108 Q 150 118 178 108 L 188 48 Z" fill="#fff" stroke="#111" stroke-width="2.4"/>
+  <rect x="104" y="40" width="92" height="9" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <!-- magnesium ribbon inside -->
+  <path d="M 128 98 L 142 80 L 156 98 L 170 82" fill="none" stroke="#111" stroke-width="3"/>
+  <!-- labels -->
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" fill="#111">
+    <text x="206" y="36">lid</text>
+    <text x="206" y="68">crucible</text>
+    <text x="246" y="156">tripod</text>
+    <text x="186" y="240">Bunsen burner</text>
+    <text x="8" y="80">magnesium</text>
+    <text x="8" y="97">ribbon</text>
+  </g>
+  <g stroke="#111" stroke-width="1.3">
+    <line x1="203" y1="40" x2="196" y2="44"/>
+    <line x1="203" y1="64" x2="186" y2="64"/>
+        <line x1="80" y1="88" x2="130" y2="92"/>
+  </g>
+</svg>
