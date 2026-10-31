@@ -1,4 +1,4 @@
-Listening recordings, Years 1 to 10, version 3.1
+Listening recordings, Years 1 to 12, version 3.1
 
 One recording for every year group, made from the scripts in the assessor instructions, so that every
 candidate hears the same voices, pace and pauses. Each year folder has its own READ_ME_FIRST.txt with the
@@ -7,7 +7,7 @@ tracks, how to use them and (Years 1 to 3) the start time of every item.
 The voice speed is the same for every year group (normal speed); the younger the student, the longer the pauses
 between sentences.
 
-Words a minute: "voice" is the speed while the voice is speaking; "with pauses" counts the pauses too (Years 4 to 10).
+Words a minute: "voice" is the speed while the voice is speaking; "with pauses" counts the pauses too (Years 4 to 12).
 
 Year   Play this track                          Length   Voice  With pauses  Other tracks
 -----  ---------------------------------------  -------  -----  -----------  --------------------------
@@ -21,8 +21,10 @@ Year   Play this track                          Length   Voice  With pauses  Oth
 8      Y08_Listening_Full_v3.1.mp3              14:19    195    140          Part_A, Part_B
 9      Y09_Listening_Full_v3.1.mp3              13:57    195    140          Part_A, Part_B
 10     Y10_Listening_Full_v3.1.mp3              14:55    210    155          Part_A, Part_B
+11     Y11_Listening_Full_v3.1.mp3              16:07    185    145          Part_A, Part_B
+12     Y12_Listening_Full_v3.1.mp3              17:25    185    140          Part_A, Part_B
 
-Years 7 to 10 also have Part A and Part B as separate tracks: use them if you may need to stop after Part A.
+Years 7 to 12 also have Part A and Part B as separate tracks: use them if you may need to stop after Part A.
 Years 1 to 6 have one track.
 
 The voices are offline text-to-speech (British English). Play the recording on a speaker in a quiet room and

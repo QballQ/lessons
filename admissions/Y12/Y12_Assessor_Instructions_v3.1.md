@@ -32,7 +32,7 @@ footer: Year 12 Admission Assessment v3.1 | Assessor instructions
 <colgroup><col style="width:6%"><col style="width:26%"><col style="width:9%"><col style="width:20%"><col style="width:23%"><col style="width:16%"></colgroup>
 <thead><tr><th>Order</th><th>Task</th><th>Minutes</th><th>Who leads</th><th>Materials</th><th>Print</th></tr></thead>
 <tr><td>1</td><td>Welcome</td><td>2</td><td>Assessor</td><td></td><td>These instructions</td></tr>
-<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 15<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
+<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 17<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
 <tr><td>3</td><td>Reading paper: Parts A and B (16 marks)</td><td>15</td><td>Student works alone</td><td>Student paper pages 6 to 10</td><td></td></tr>
 <tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student works alone</td><td>Student paper pages 11 to 12</td><td></td></tr>
 <tr><td>5</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
@@ -42,7 +42,7 @@ footer: Year 12 Admission Assessment v3.1 | Assessor instructions
 <tr><td>9</td><td>Cognitive ability screen: non-verbal 12, quantitative 12, verbal 12, processing speed (90 seconds, out of 60); strictly timed</td><td>25</td><td>Assessor gives it from the guide; a small group is fine</td><td>The screen booklet (one per student); pencil; a stopwatch; no calculator</td><td>Screen booklet; its guide (once)</td></tr>
 <tr><td>10</td><td>Optional sciences: Biology, Chemistry, Physics (15 marks each); only the sciences the student will take; a short break after two</td><td>15 each</td><td>Student works alone; the assessor may read any question aloud</td><td>The optional sciences paper; scientific calculator allowed</td><td>Optional sciences paper; its mark scheme (once)</td></tr>
 <tr><td>11</td><td>Interview, opening with the Graded Sentence Reading Screen at <b>Level 9</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card (laminated); a plain card to cover sentences</td><td>Reading front sheet; Interview sheet (Years 11 and 12)</td></tr>
-<tr><td></td><td><b>Total</b></td><td><b>about 125</b><br>(core)</td><td></td><td>A clock or timer</td><td>Final mark sheet</td></tr>
+<tr><td></td><td><b>Total</b></td><td><b>about 122</b><br>(core; allow 125)</td><td></td><td>A clock or timer</td><td>Final mark sheet</td></tr>
 </table>
 
 **A long day.** The core (tasks 1 to 9) takes about two hours (allow 125 minutes); with two optional sciences the day is about 2 hours 35 minutes, and with three about 2 hours 50 minutes. The booklet names are in the list below. If the student is taking two or three optional sciences, the optional sciences and the interview **may be given on a second visit**: say so to the family when the date is booked, and record on the grading sheet which parts were taken on which day. The parent conversation runs alongside.
@@ -112,7 +112,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and each is played or read twice. **Part A** is everyday listening: a phone conversation between a school student and her cousin, a university student. **Part B** is a short lesson-style talk with subject vocabulary, statistics, a correction and an implied opinion: the listening that A Level lessons need, at the level of a fluent speaker of 16 to 17.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y12/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the pace in Section 2: one reading of Part A takes about 2 minutes and of Part B about 3 minutes, with the pauses. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y12/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace: one reading of Part A takes about 2 minutes 24 seconds and of Part B about 3 minutes 27 seconds, with the pauses; use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a phone conversation between Li Na, a school student, and her cousin Chen Yu, who is at university. I will play it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Play or read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Play or read it again. Then give the student one more minute to finish.
 
@@ -120,7 +120,7 @@ There are two parts, and each is played or read twice. **Part A** is everyday li
 
 **Read both scripts twice at the steady pace in Section 2.** In Part A, say each speaker's name before their line, a little more quietly, both times. In Part B, read as a teacher gives a short lesson, without slowing down for the numbers or the subject words. At each [pause], stop for about 3 seconds. Do not repeat lines or explain anything.
 
-**Timing.** The recording takes about 15 minutes (Part A about 6 minutes 30 seconds, Part B about 8 minutes 30 seconds), including the minute to read each set of questions, the 10-second gaps and the minute to finish each part. **Allow about 15 minutes.**
+**Timing.** The recording takes about 17 minutes: Part A about 7 minutes 42 seconds and Part B about 9 minutes 41 seconds, with one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part. **Allow about 17 minutes** for the listening.
 
 [[passage]]
 #### Script, Part A: a phone call to a cousin at university

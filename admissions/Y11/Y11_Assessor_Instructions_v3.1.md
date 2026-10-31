@@ -33,7 +33,7 @@ footer: Year 11 Admission Assessment v3.1 | Assessor instructions
 <colgroup><col style="width:6%"><col style="width:27%"><col style="width:9%"><col style="width:20%"><col style="width:22%"><col style="width:16%"></colgroup>
 <thead><tr><th>Order</th><th>Task</th><th>Minutes</th><th>Who leads</th><th>Materials</th><th>Print</th></tr></thead>
 <tr><td>1</td><td>Welcome</td><td>2</td><td>Assessor</td><td></td><td>These instructions</td></tr>
-<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 15<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
+<tr><td>2</td><td>Listening: Part A (questions 1 to 8) and Part B (questions 9 to 16), 16 marks</td><td>about 16<br>(the recording)</td><td>Assessor plays the recording, or reads both scripts (Section 3.1); a small group is fine</td><td>Student paper pages 2 to 5; pencil; the recording</td><td>Student paper; grading sheet</td></tr>
 <tr><td>3</td><td>Reading paper: Parts A and B (16 marks)</td><td>15</td><td>Student works alone</td><td>Student paper pages 6 to 10</td><td></td></tr>
 <tr><td>4</td><td>Writing: one task from two (16 marks)</td><td>10</td><td>Student works alone</td><td>Student paper pages 11 to 12</td><td></td></tr>
 <tr><td>5</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
@@ -43,7 +43,7 @@ footer: Year 11 Admission Assessment v3.1 | Assessor instructions
 <tr><td>9</td><td><b>Cognitive ability screen</b>: three reasoning parts (12 items each) and processing speed (90 seconds); strict timing</td><td>25</td><td>Assessor, from <code>shared/Cognitive_Ability_Screen_Guide</code>; a small group is fine</td><td><code>shared/Cognitive_Ability_Screen_Y11_Y12</code> booklet; pencil; a stopwatch; no calculator</td><td>The screen booklet; its guide (print once)</td></tr>
 <tr><td>10</td><td><b>Optional sciences</b>: Biology, Chemistry, Physics, 15 marks each; only those the student will take (a short break after two)</td><td>15 each</td><td>Assessor, from <code>Y11/Y11_Optional_Sciences_Mark_Scheme_v3.1</code></td><td><code>Y11/Y11_Optional_Sciences_v3.1</code> booklet; pencil, ruler, scientific calculator</td><td>The optional sciences booklet; its mark scheme (print once)</td></tr>
 <tr><td>11</td><td>Interview, opening with the Graded Sentence Reading Screen at <b>Level 9</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card (laminated); a plain card to cover sentences</td><td>Reading front sheet; Interview sheet for Years 11 and 12</td></tr>
-<tr><td></td><td><b>Total</b>: core about 2 hours; with two optional sciences about 2 hours 35 minutes; with three about 2 hours 50 minutes</td><td><b>about 120</b><br>(allow 125)</td><td></td><td>A clock or timer</td><td>Final mark sheet</td></tr>
+<tr><td></td><td><b>Total</b>: core about 2 hours; with two optional sciences about 2 hours 35 minutes; with three about 2 hours 50 minutes</td><td><b>about 121</b><br>(allow 125)</td><td></td><td>A clock or timer</td><td>Final mark sheet</td></tr>
 </table>
 
 **A long day.** The core paper, the break and the cognitive screen take about two hours. **The optional sciences and the interview may be given on a second visit** if the day is too long for the student or the timetable: arrange it with the family when the assessment is booked, and record on the grading sheet which parts were done on which day.
@@ -114,7 +114,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and each is played or read twice. **Part A** is an everyday conversation between a student and a receptionist at a sports centre: two voices. **Part B** is a short lesson-style talk by an engineer, with subject vocabulary, numbers, a correction and an implied opinion: the listening that IGCSE lessons need, at the level of a fluent speaker of 15 to 16.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y11/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. If you read live, use the pace in Section 2 and, for Part A, change your voice slightly for the two speakers. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in `audio/v3.1/Y11/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. If you read live, use the recording's pace (one reading of Part A takes about 2 minutes 7 seconds and of Part B about 3 minutes 6 seconds, with the pauses) and, for Part A, change your voice slightly for the two speakers. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a conversation between a student, Li Na, and a receptionist at a sports centre. You will hear it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Play or read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Play or read it again. Then give the student one more minute to finish.
 
@@ -122,7 +122,7 @@ There are two parts, and each is played or read twice. **Part A** is an everyday
 
 **Read both scripts twice at the steady pace in Section 2.** At each [pause], stop for about 3 seconds. Do not slow down for key words, repeat sentences or explain anything. Read Part B at the same pace as Part A: it is meant to sound like a lesson.
 
-**Timing.** One reading of Part A takes about 2 minutes and of Part B about 3 minutes, with the pauses. With one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part, the listening takes about 15 minutes. **Allow about 15 minutes.**
+**Timing.** The recording takes about 16 minutes: Part A about 7 minutes 6 seconds and Part B about 8 minutes 58 seconds, with one minute to read each set of questions, the 10-second gaps between the two readings and one minute to finish each part. **Allow about 16 minutes** for the listening.
 
 [[passage]]
 #### Script, Part A: At the sports centre
