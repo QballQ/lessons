@@ -62,10 +62,10 @@ for i, line in enumerate([
         ('/F2', 16, f'Scene map table cover: {W_MM / 10:.1f} x {H_MM / 10:.1f} cm on {cols * rows} A3 sheets ({cols} across, {rows} down)'),
         ('/F1', 10.5, 'Print every sheet on A3 at Actual size (100%). Never "Fit to page", or the sheets will not line up.'),
         ('/F1', 10.5, 'Each sheet is labelled in its bottom margin (A1 is top left). The red boxes above show where each sheet goes.'),
-        ('/F1', 10.5, '1. Trim the white margin off all four sides of every sheet, cutting on the small corner marks.'),
+        ('/F1', 10.5, f'1. Cut only on the dashed lines: the left edge of every sheet except column A, and the top edge of every sheet except row 1 ({(cols - 1) * rows + cols * (rows - 1)} cuts). Leave all other margins.'),
         ('/F1', 10.5, '2. Build row 1 from left to right: lay A1, then lay B1 on top of A1\'s grey glue strip so the pictures match. Glue on the strip only.'),
         ('/F1', 10.5, '3. Build rows 2 and 3 the same way, then lay row 2 over the bottom glue strip of row 1, and row 3 over row 2.'),
-        ('/F1', 10.5, f'The grey strips ({OVER} mm) are covered by the next sheet, so they never show. Tape the back of the joins for strength.'),
+        ('/F1', 10.5, f'The grey strips ({OVER} mm) and the uncut margins are covered by the next sheet. The outside margins stay as a white border. Tape the back of the joins.'),
         ('/F1', 10.5, f'The map keeps its proportions, so it is {W_MM / 10:.1f} cm wide: on a 180 x 120 cm table this leaves about {(1800 - W_MM) / 20:.0f} cm spare at each end.')]):
     f, size, t = line
     ops += text(20 * MM, (L - i * 7.5 - (2 if i else 0)) * MM, size, t, f, 0 if i == 0 else 0.15)
@@ -102,13 +102,14 @@ for r in range(rows):
         if not last_r:
             ops += f'q 1 1 1 rg {m + w * MM / 2 - 45:.2f} {PH - m - CH * MM + 1:.2f} 90 9 re f Q\n'
             ops += text(m + w * MM / 2 - 41, PH - m - CH * MM + 3.2, 6.5, f'GLUE: {COLS[c]}{r + 2} covers this', '/F2', 0.2)
-        # corner trim marks in the margin
+        # cut lines: only the left edge (if a sheet is to the left) and the top edge (if a sheet is above)
         x1, y1, x2, y2 = m, PH - m - h * MM, m + w * MM, PH - m
-        ops += '0 G 0.4 w\n'
-        for (x, y) in ((x1, y1), (x1, y2), (x2, y1), (x2, y2)):
-            dx = -1 if x == x1 else 1
-            dy = -1 if y == y1 else 1
-            ops += f'{x:.2f} {y + dy * 2:.2f} m {x:.2f} {y + dy * (m - 2):.2f} l S {x + dx * 2:.2f} {y:.2f} m {x + dx * (m - 2):.2f} {y:.2f} l S\n'
+        if c:
+            ops += f'q 0 G 0.6 w [4 3] 0 d {x1:.2f} {y1 - m + 2:.2f} m {x1:.2f} {PH - 2:.2f} l S Q\n'
+            ops += f'q 0 1 -1 0 {x1 - 3:.2f} {PH / 2 - 30:.2f} cm ' + text(0, 0, 7, 'CUT ON THIS LINE', '/F2', 0) + 'Q\n'
+        if r:
+            ops += f'q 0 G 0.6 w [4 3] 0 d 2 {y2:.2f} m {x2 + m - 2:.2f} {y2:.2f} l S Q\n'
+            ops += text(m + w * MM / 2 - 32, y2 + 6, 7, 'CUT ON THIS LINE', '/F2', 0)
         label = f'{COLS[c]}{r + 1}   (row {r + 1}, column {COLS[c]})   sheet {r * cols + c + 1} of {rows * cols}'
         nxt = []
         if c: nxt.append(f'lies on top of {COLS[c - 1]}{r + 1}')
