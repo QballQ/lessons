@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250">
+  <title>A transformer. An iron core in the shape of a rectangular ring. On the left limb is the primary coil with 1100 turns, connected to a 220 V a.c. input. On the right limb is the secondary coil with 60 turns, connected to the output.</title>
+  <path d="M 150 40 L 310 40 L 310 200 L 150 200 Z M 190 80 L 190 160 L 270 160 L 270 80 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.2" fill-rule="evenodd"/>
+  <g fill="none" stroke="#111" stroke-width="2">
+    <ellipse cx="170" cy="62" rx="28" ry="5"/><ellipse cx="170" cy="74" rx="28" ry="5"/><ellipse cx="170" cy="86" rx="28" ry="5"/><ellipse cx="170" cy="98" rx="28" ry="5"/>
+    <ellipse cx="170" cy="110" rx="28" ry="5"/><ellipse cx="170" cy="122" rx="28" ry="5"/><ellipse cx="170" cy="134" rx="28" ry="5"/><ellipse cx="170" cy="146" rx="28" ry="5"/>
+    <ellipse cx="170" cy="158" rx="28" ry="5"/><ellipse cx="170" cy="170" rx="28" ry="5"/><ellipse cx="170" cy="182" rx="28" ry="5"/>
+    <ellipse cx="290" cy="96" rx="28" ry="5"/><ellipse cx="290" cy="116" rx="28" ry="5"/><ellipse cx="290" cy="136" rx="28" ry="5"/><ellipse cx="290" cy="156" rx="28" ry="5"/>
+  </g>
+  <g stroke="#111" stroke-width="2" fill="#fff">
+    <line x1="142" y1="60" x2="70" y2="60"/><line x1="142" y1="184" x2="70" y2="184"/>
+    <circle cx="70" cy="60" r="4"/><circle cx="70" cy="184" r="4"/>
+    <line x1="318" y1="94" x2="390" y2="94"/><line x1="318" y1="158" x2="390" y2="158"/>
+    <circle cx="390" cy="94" r="4"/><circle cx="390" cy="158" r="4"/>
+  </g>
+  <text x="62" y="118" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#111">220 V a.c.</text>
+  <text x="62" y="138" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">input</text>
+  <text x="400" y="132" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">output</text>
+  <text x="170" y="26" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">primary coil, 1100 turns</text>
+  <text x="290" y="226" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">secondary coil, 60 turns</text>
+  <line x1="300" y1="44" x2="318" y2="32" stroke="#111" stroke-width="1.4"/>
+  <text x="322" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">iron core</text>
+</svg>

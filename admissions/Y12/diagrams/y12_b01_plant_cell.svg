@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 275" width="460" height="275">
+  <title>A plant cell seen under a microscope. Four parts are labelled with letters: A the cell wall (the thick outer layer), B the nucleus (the round dark structure at the bottom left), C a chloroplast (one of the small oval structures), D the vacuole (the large central space).</title>
+  <rect x="30" y="30" width="260" height="200" rx="18" fill="#e6e6e6" stroke="#111" stroke-width="4"/>
+  <rect x="38" y="38" width="244" height="184" rx="14" fill="#fff" stroke="#111" stroke-width="1.8"/>
+  <rect x="112" y="60" width="138" height="140" rx="30" fill="#f4f4f4" stroke="#111" stroke-width="1.8"/>
+  <circle cx="70" cy="180" r="26" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <circle cx="70" cy="180" r="7" fill="#7a7a7a" stroke="none"/>
+  <ellipse cx="78" cy="68" rx="18" ry="9" fill="#7a7a7a" stroke="#111" stroke-width="1.8" transform="rotate(-20 78 68)"/>
+  <ellipse cx="75" cy="112" rx="9" ry="16" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+  <ellipse cx="266" cy="120" rx="9" ry="16" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+  <ellipse cx="180" cy="211" rx="18" ry="8" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+  <ellipse cx="230" cy="48" rx="16" ry="7" fill="#7a7a7a" stroke="#111" stroke-width="1.8"/>
+  <line x1="330" y1="42" x2="289" y2="50" stroke="#111" stroke-width="1.6"/>
+  <text x="338" y="48" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" font-weight="700" fill="#111">A</text>
+  <line x1="330" y1="88" x2="236" y2="94" stroke="#111" stroke-width="1.6"/>
+  <text x="338" y="94" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" font-weight="700" fill="#111">D</text>
+  <line x1="330" y1="124" x2="276" y2="120" stroke="#111" stroke-width="1.6"/>
+  <text x="338" y="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" font-weight="700" fill="#111">C</text>
+  <line x1="70" y1="248" x2="70" y2="208" stroke="#111" stroke-width="1.6"/>
+  <text x="70" y="268" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#111">B</text>
+</svg>

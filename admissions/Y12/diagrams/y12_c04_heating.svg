@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 270" width="340" height="270">
+  <title>A crucible containing calcium carbonate stands on a tripod and is heated strongly from below by a Bunsen burner.</title>
+  <g transform="translate(-22 0)">
+    <g stroke="#111" stroke-width="2.2" stroke-linejoin="round">
+      <rect x="160" y="240" width="90" height="12" fill="#bdbdbd"/>
+      <rect x="195" y="150" width="20" height="90" fill="#bdbdbd"/>
+      <path d="M 196 150 C 192 125 200 110 205 95 C 210 110 218 125 214 150 Z" fill="#e6e6e6"/>
+      <path d="M 200 150 C 199 135 203 125 205 115 C 207 125 211 135 210 150 Z" fill="#fff" stroke="none"/>
+      <line x1="140" y1="252" x2="158" y2="70"/>
+      <line x1="270" y1="252" x2="252" y2="70"/>
+      <line x1="140" y1="70" x2="270" y2="70" stroke-width="3"/>
+      <path d="M 170 30 L 240 30 L 230 68 L 180 68 Z" fill="#e6e6e6"/>
+      <path d="M 176 52 L 234 52 L 230 68 L 180 68 Z" fill="#7a7a7a"/>
+    </g>
+    <line x1="242" y1="40" x2="258" y2="40" stroke="#111" stroke-width="1.5"/>
+    <text x="264" y="45" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">crucible</text>
+    <line x1="178" y1="60" x2="164" y2="60" stroke="#111" stroke-width="1.5"/>
+    <text x="158" y="65" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">calcium carbonate</text>
+    <line x1="150" y1="150" x2="130" y2="150" stroke="#111" stroke-width="1.5"/>
+    <text x="124" y="155" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">tripod</text>
+    <line x1="216" y1="200" x2="240" y2="200" stroke="#111" stroke-width="1.5"/>
+    <text x="246" y="205" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">burner</text>
+    <text x="205" y="267" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">heat strongly</text>
+  </g>
+</svg>

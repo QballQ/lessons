@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 190" width="330" height="190">
+  <title>The box for sodium from the periodic table. The mass number 23 is at the top, the symbol Na in the middle and the atomic number 11 at the bottom. Labels point to the mass number and the atomic number.</title>
+  <rect x="40" y="20" width="130" height="150" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="105" y="58" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="24" text-anchor="middle" fill="#111">23</text>
+  <text x="105" y="112" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#111">Na</text>
+  <text x="105" y="132" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="middle" fill="#111">sodium</text>
+  <text x="105" y="160" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="24" text-anchor="middle" fill="#111">11</text>
+  <line x1="172" y1="50" x2="196" y2="50" stroke="#111" stroke-width="1.6"/>
+  <text x="202" y="56" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">mass number</text>
+  <line x1="172" y1="152" x2="196" y2="152" stroke="#111" stroke-width="1.6"/>
+  <text x="202" y="158" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">atomic number</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 200" width="330" height="200">
+  <title>Five beakers of sucrose solution, each with a potato cylinder standing in it. The concentrations are 0.0, 0.2, 0.4, 0.6 and 0.8 mol per dm cubed.</title>
+  <g stroke="#111" stroke-width="2" stroke-linejoin="round">
+    <path d="M 8 56 L 8 142 Q 8 150 16 150 L 56 150 Q 64 150 64 142 L 64 56" fill="#fff"/>
+    <rect x="10" y="80" width="52" height="68" fill="#e6e6e6" stroke="none"/>
+    <rect x="29" y="90" width="14" height="54" rx="3" fill="#bdbdbd"/>
+    <path d="M 72 56 L 72 142 Q 72 150 80 150 L 120 150 Q 128 150 128 142 L 128 56" fill="#fff"/>
+    <rect x="74" y="80" width="52" height="68" fill="#e6e6e6" stroke="none"/>
+    <rect x="93" y="90" width="14" height="54" rx="3" fill="#bdbdbd"/>
+    <path d="M 136 56 L 136 142 Q 136 150 144 150 L 184 150 Q 192 150 192 142 L 192 56" fill="#fff"/>
+    <rect x="138" y="80" width="52" height="68" fill="#e6e6e6" stroke="none"/>
+    <rect x="157" y="90" width="14" height="54" rx="3" fill="#bdbdbd"/>
+    <path d="M 200 56 L 200 142 Q 200 150 208 150 L 248 150 Q 256 150 256 142 L 256 56" fill="#fff"/>
+    <rect x="202" y="80" width="52" height="68" fill="#e6e6e6" stroke="none"/>
+    <rect x="221" y="90" width="14" height="54" rx="3" fill="#bdbdbd"/>
+    <path d="M 264 56 L 264 142 Q 264 150 272 150 L 312 150 Q 320 150 320 142 L 320 56" fill="#fff"/>
+    <rect x="266" y="80" width="52" height="68" fill="#e6e6e6" stroke="none"/>
+    <rect x="285" y="90" width="14" height="54" rx="3" fill="#bdbdbd"/>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">
+    <text x="36" y="172">0.0</text><text x="100" y="172">0.2</text><text x="164" y="172">0.4</text><text x="228" y="172">0.6</text><text x="292" y="172">0.8</text>
+  </g>
+  <g font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="middle" fill="#111">
+    <text x="36" y="191">mol/dm³</text><text x="100" y="191">mol/dm³</text><text x="164" y="191">mol/dm³</text><text x="228" y="191">mol/dm³</text><text x="292" y="191">mol/dm³</text>
+  </g>
+  <text x="8" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">potato cylinder</text>
+  <line x1="36" y1="36" x2="36" y2="88" stroke="#111" stroke-width="1.5"/>
+  <text x="176" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">sucrose solution</text>
+  <line x1="240" y1="36" x2="240" y2="96" stroke="#111" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 225" width="460" height="225">
+  <title>A series circuit. A 12 V battery is connected to a 4 ohm resistor and a 2 ohm resistor in series, with an ammeter in the circuit.</title>
+  <g stroke="#111" stroke-width="2.2" fill="none">
+    <polyline points="60,92 60,40 215,40"/>
+    <polyline points="245,40 400,40 400,80"/>
+    <polyline points="400,130 400,180 255,180"/>
+    <polyline points="205,180 60,180 60,128"/>
+  </g>
+  <line x1="222" y1="26" x2="222" y2="54" stroke="#111" stroke-width="2.5"/>
+  <line x1="238" y1="33" x2="238" y2="47" stroke="#111" stroke-width="6"/>
+  <line x1="215" y1="40" x2="222" y2="40" stroke="#111" stroke-width="2.2"/>
+  <line x1="238" y1="40" x2="245" y2="40" stroke="#111" stroke-width="2.2"/>
+  <text x="230" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#111">12 V</text>
+  <rect x="386" y="80" width="28" height="50" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <text x="424" y="111" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" fill="#111">4 Ω</text>
+  <rect x="205" y="166" width="50" height="28" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <text x="230" y="216" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#111">2 Ω</text>
+  <circle cx="60" cy="110" r="18" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <text x="60" y="117" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#111">A</text>
+</svg>

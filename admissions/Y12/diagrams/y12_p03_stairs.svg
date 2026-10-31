@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 236" width="460" height="236">
+  <title>A person stands at the bottom of a staircase. The top of the stairs is 5 m above the floor, shown by a vertical arrow labelled 5 m.</title>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker>
+  </defs>
+  <line x1="20" y1="210" x2="440" y2="210" stroke="#111" stroke-width="2.5"/>
+  <path d="M 130 210 L 175 210 L 175 180 L 220 180 L 220 150 L 265 150 L 265 120 L 310 120 L 310 90 L 355 90 L 355 60 L 400 60 L 400 210 Z" fill="#e6e6e6" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="85" cy="128" r="12" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <g stroke="#111" stroke-width="2.6" stroke-linecap="round" fill="none">
+    <line x1="85" y1="140" x2="85" y2="182"/>
+    <line x1="85" y1="182" x2="72" y2="210"/><line x1="85" y1="182" x2="98" y2="210"/>
+    <line x1="85" y1="150" x2="70" y2="170"/><line x1="85" y1="150" x2="102" y2="166"/>
+  </g>
+  <text x="85" y="106" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">Zhang Wei</text>
+  <text x="85" y="84" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111">mass 60 kg</text>
+  <line x1="400" y1="60" x2="424" y2="60" stroke="#111" stroke-width="1.3" stroke-dasharray="5 4"/>
+  <line x1="416" y1="62" x2="416" y2="208" stroke="#111" stroke-width="1.8" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <text x="424" y="141" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" fill="#111">5 m</text>
+  <text x="440" y="232" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="end" fill="#111">floor</text>
+</svg>
