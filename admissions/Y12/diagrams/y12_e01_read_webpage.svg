@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 640" width="690" height="640">
+  <title>A web page for Harbour Summer Academy: two-week courses for students aged 16 to 18. Dates: Session 1, 6 to 17 July; Session 2, 20 to 31 July. Courses: Engineering Design, university campus, 6800 yuan; Creative Writing, city library, 4500 yuan; Marine Biology, coastal field centre, 7200 yuan; Debating and Public Speaking, university campus, 4500 yuan. Fees include lunch and materials. Accommodation in a shared room costs 2400 yuan extra for students who do not live in the city. How to apply: 1 complete the online form; 2 upload a letter from a teacher; 3 pay a deposit of 500 yuan by 15 May. Places are limited to 20 on each course. Scholarships: ten full scholarships for students whose families cannot pay the fee; write 300 words on why you want to attend; deadline 30 April. Note: students on the Marine Biology course must be able to swim 50 metres.</title>
+  <rect x="1.5" y="1.5" width="687" height="637" rx="8" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <rect x="1.5" y="1.5" width="687" height="40" rx="8" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  <rect x="1.5" y="30" width="687" height="12" fill="#bdbdbd"/>
+  <circle cx="22" cy="21" r="6" fill="#fff" stroke="#111" stroke-width="1.5"/><circle cx="42" cy="21" r="6" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <rect x="64" y="9" width="520" height="24" rx="12" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <text x="78" y="26" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="start" fill="#111">harboursummeracademy.example/courses</text>
+  <rect x="1.5" y="42" width="687" height="62" fill="#e6e6e6" stroke="#111" stroke-width="1.5"/>
+  <text x="20" y="70" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="24" text-anchor="start" font-weight="700" fill="#111">Harbour Summer Academy</text>
+  <text x="20" y="94" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" font-style="italic" fill="#111">Two-week courses for students aged 16 to 18</text>
+  <text x="20" y="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="start" font-weight="700" fill="#111">Dates</text>
+  <text x="20" y="154" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Session 1: 6 to 17 July</text>
+  <text x="340" y="154" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Session 2: 20 to 31 July</text>
+  <text x="20" y="190" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="start" font-weight="700" fill="#111">Courses and fees</text>
+  <rect x="20" y="200" width="650" height="30" fill="#e6e6e6" stroke="#111" stroke-width="1.5"/>
+  <rect x="20" y="230" width="650" height="30" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <rect x="20" y="260" width="650" height="30" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <rect x="20" y="290" width="650" height="30" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <rect x="20" y="320" width="650" height="30" fill="#fff" stroke="#111" stroke-width="1.5"/>
+  <line x1="300" y1="200" x2="300" y2="350" stroke="#111" stroke-width="1.5"/>
+  <line x1="560" y1="200" x2="560" y2="350" stroke="#111" stroke-width="1.5"/>
+  <text x="30" y="221" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" font-weight="700" fill="#111">Course</text>
+  <text x="310" y="221" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" font-weight="700" fill="#111">Where</text>
+  <text x="660" y="221" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" font-weight="700" fill="#111">Fee</text>
+  <text x="30" y="251" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Engineering Design</text>
+  <text x="310" y="251" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">University campus</text>
+  <text x="660" y="251" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111">¥6 800</text>
+  <text x="30" y="281" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Creative Writing</text>
+  <text x="310" y="281" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">City library</text>
+  <text x="660" y="281" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111">¥4 500</text>
+  <text x="30" y="311" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Marine Biology</text>
+  <text x="310" y="311" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Coastal field centre</text>
+  <text x="660" y="311" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111">¥7 200</text>
+  <text x="30" y="341" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">Debating and Public Speaking</text>
+  <text x="310" y="341" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" fill="#111">University campus</text>
+  <text x="660" y="341" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111">¥4 500</text>
+  <text x="20" y="378" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">Fees include lunch and all materials. Accommodation (a shared room) costs ¥2 400 extra</text>
+  <text x="20" y="398" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">for students who do not live in the city.</text>
+  <rect x="20" y="414" width="318" height="150" rx="6" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="32" y="440" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="start" font-weight="700" fill="#111">How to apply</text>
+  <text x="32" y="466" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">1  Complete the online form.</text>
+  <text x="32" y="490" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">2  Upload a letter from a teacher.</text>
+  <text x="32" y="514" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">3  Pay a deposit of ¥500 by 15 May.</text>
+  <text x="32" y="546" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-style="italic" fill="#111">Places are limited to 20 on each course.</text>
+  <rect x="352" y="414" width="318" height="150" rx="6" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="364" y="440" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="19" text-anchor="start" font-weight="700" fill="#111">Scholarships</text>
+  <text x="364" y="466" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">Ten full scholarships for students</text>
+  <text x="364" y="488" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">whose families cannot pay the fee.</text>
+  <text x="364" y="512" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">Write 300 words on why you want</text>
+  <text x="364" y="534" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">to attend. Deadline: 30 April.</text>
+  <rect x="20" y="578" width="650" height="46" rx="6" fill="#fff" stroke="#111" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="32" y="598" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="start" font-weight="700" fill="#111">Note</text>
+  <text x="84" y="598" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" fill="#111">Students on the Marine Biology course must be able to swim 50 metres.</text>
+  <text x="32" y="618" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="start" fill="#111">Questions? Email: hello@harboursummeracademy.example</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 230" width="330" height="230">
+  <title>A beaker of white powder labelled magnesium oxide, MgO, standing on a digital balance. The balance reads 10.0 g.</title>
+  <rect x="40" y="150" width="250" height="50" rx="6" fill="#bdbdbd" stroke="#111" stroke-width="2.5"/>
+  <rect x="170" y="162" width="100" height="28" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="220" y="183" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">10.0 g</text>
+  <rect x="60" y="142" width="130" height="10" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 80 60 L 80 142 L 170 142 L 170 60" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <path d="M 76 60 L 174 60" stroke="#111" stroke-width="2.5"/>
+  <rect x="82" y="100" width="86" height="40" fill="#e6e6e6" stroke="none"/>
+  <path d="M 82 100 q 10 -6 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="125" y="40" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">magnesium oxide</text>
+  <text x="125" y="56" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">MgO</text>
+</svg>

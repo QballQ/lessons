@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
+  <title>Five plant pots in a row, each with a young plant. The labels under the pots read 0, 1, 2, 3 and 4 grams of fertiliser per litre of water. Not drawn to scale.</title>
+  <path d="M 36 120 L 44 172 L 96 172 L 104 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="32" y="112" width="76" height="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="70" y1="112" x2="70" y2="64" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 70 95 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 70 83 q -10 -14 -22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 70 71 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="70" y="194" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">0 g per litre</text>
+  <path d="M 151 120 L 159 172 L 211 172 L 219 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="147" y="112" width="76" height="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="185" y1="112" x2="185" y2="52" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 185 91 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 185 76 q -10 -14 -22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 185 61 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="185" y="194" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">1 g per litre</text>
+  <path d="M 266 120 L 274 172 L 326 172 L 334 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="262" y="112" width="76" height="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="300" y1="112" x2="300" y2="36" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 300 85 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 300 66 q -10 -14 -22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 300 47 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="300" y="194" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">2 g per litre</text>
+  <path d="M 381 120 L 389 172 L 441 172 L 449 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="377" y="112" width="76" height="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="415" y1="112" x2="415" y2="40" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 415 87 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 415 69 q -10 -14 -22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 415 51 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="415" y="194" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">3 g per litre</text>
+  <path d="M 496 120 L 504 172 L 556 172 L 564 120 Z" fill="#bdbdbd" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="492" y="112" width="76" height="12" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <line x1="530" y1="112" x2="530" y2="72" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 530 98 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 530 88 q -10 -14 -22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <path d="M 530 78 q 10 -14 22 -4 q -8 10 -22 4 Z" fill="#e6e6e6" stroke="#111" stroke-width="2"/>
+  <text x="530" y="194" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">4 g per litre</text>
+</svg>

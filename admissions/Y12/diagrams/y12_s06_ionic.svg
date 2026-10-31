@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 210" width="420" height="210">
+  <title>Two ions. On the left a sodium ion, Na+, with two electron shells holding 2 and 8 electrons. On the right a chloride ion, Cl-, with three electron shells holding 2, 8 and 8 electrons.</title>
+  <circle cx="100" cy="90" r="22" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="100.0" cy="68.0" r="4" fill="#111"/>
+  <circle cx="100.0" cy="112.0" r="4" fill="#111"/>
+  <circle cx="100" cy="90" r="42" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="100.0" cy="48.0" r="4" fill="#111"/>
+  <circle cx="129.7" cy="60.3" r="4" fill="#111"/>
+  <circle cx="142.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="129.7" cy="119.7" r="4" fill="#111"/>
+  <circle cx="100.0" cy="132.0" r="4" fill="#111"/>
+  <circle cx="70.3" cy="119.7" r="4" fill="#111"/>
+  <circle cx="58.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="70.3" cy="60.3" r="4" fill="#111"/>
+  <circle cx="100" cy="90" r="10" fill="#bdbdbd" stroke="#111" stroke-width="1.8"/>
+  <text x="100" y="180" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">sodium ion, Na⁺</text>
+  <rect x="138" y="28" width="30" height="26" rx="4" fill="#fff" stroke="#111" stroke-width="1.8"/>
+  <text x="153" y="47" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">+</text>
+  <circle cx="300" cy="90" r="22" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="300.0" cy="68.0" r="4" fill="#111"/>
+  <circle cx="300.0" cy="112.0" r="4" fill="#111"/>
+  <circle cx="300" cy="90" r="42" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="300.0" cy="48.0" r="4" fill="#111"/>
+  <circle cx="329.7" cy="60.3" r="4" fill="#111"/>
+  <circle cx="342.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="329.7" cy="119.7" r="4" fill="#111"/>
+  <circle cx="300.0" cy="132.0" r="4" fill="#111"/>
+  <circle cx="270.3" cy="119.7" r="4" fill="#111"/>
+  <circle cx="258.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="270.3" cy="60.3" r="4" fill="#111"/>
+  <circle cx="300" cy="90" r="62" fill="none" stroke="#111" stroke-width="1.8"/>
+  <circle cx="300.0" cy="28.0" r="4" fill="#111"/>
+  <circle cx="343.8" cy="46.2" r="4" fill="#111"/>
+  <circle cx="362.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="343.8" cy="133.8" r="4" fill="#111"/>
+  <circle cx="300.0" cy="152.0" r="4" fill="#111"/>
+  <circle cx="256.2" cy="133.8" r="4" fill="#111"/>
+  <circle cx="238.0" cy="90.0" r="4" fill="#111"/>
+  <circle cx="256.2" cy="46.2" r="4" fill="#111"/>
+  <circle cx="300" cy="90" r="10" fill="#bdbdbd" stroke="#111" stroke-width="1.8"/>
+  <text x="300" y="180" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">chloride ion, Cl⁻</text>
+  <rect x="358" y="8" width="30" height="26" rx="4" fill="#fff" stroke="#111" stroke-width="1.8"/>
+  <text x="373" y="27" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">−</text>
+</svg>

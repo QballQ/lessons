@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250">
+  <title>A probability tree diagram for two matches. First match: Win 0.6, Lose 0.4. Second match after a win: Win 0.7, Lose with an empty box. Second match after a loss: Win 0.4, Lose with an empty box.</title>
+  <text x="130" y="22" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">First match</text>
+  <text x="330" y="22" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">Second match</text>
+  <line x1="40" y1="125" x2="190" y2="70" stroke="#111" stroke-width="2.4"/>
+  <line x1="40" y1="125" x2="190" y2="180" stroke="#111" stroke-width="2.4"/>
+  <line x1="190" y1="70" x2="350" y2="38" stroke="#111" stroke-width="2.4"/>
+  <line x1="190" y1="70" x2="350" y2="102" stroke="#111" stroke-width="2.4"/>
+  <line x1="190" y1="180" x2="350" y2="148" stroke="#111" stroke-width="2.4"/>
+  <line x1="190" y1="180" x2="350" y2="212" stroke="#111" stroke-width="2.4"/>
+  <text x="198" y="75" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Win</text>
+  <text x="198" y="185" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Lose</text>
+  <text x="105" y="88" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">0.6</text>
+  <text x="105" y="168" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">0.4</text>
+  <text x="358" y="43" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Win</text>
+  <text x="358" y="107" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Lose</text>
+  <text x="358" y="153" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Win</text>
+  <text x="358" y="217" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="start" font-weight="700" fill="#111">Lose</text>
+  <text x="272" y="48" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">0.7</text>
+  <text x="272" y="158" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" fill="#111">0.4</text>
+  <rect x="256" y="80" width="40" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+  <rect x="256" y="190" width="40" height="26" rx="3" fill="#fff" stroke="#111" stroke-width="2"/>
+</svg>

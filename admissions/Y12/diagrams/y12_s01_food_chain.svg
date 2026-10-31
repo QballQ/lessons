@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" width="640" height="150">
+  <title>A food chain of four organisms joined by arrows: grass, then grasshopper, then frog, then snake.</title>
+  <rect x="18" y="30" width="124" height="60" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <text x="80" y="67" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">grass</text>
+  <rect x="178" y="30" width="124" height="60" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <text x="240" y="67" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">grasshopper</text>
+  <rect x="338" y="30" width="124" height="60" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <text x="400" y="67" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">frog</text>
+  <rect x="498" y="30" width="124" height="60" rx="8" fill="#e6e6e6" stroke="#111" stroke-width="2.5"/>
+  <text x="560" y="67" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">snake</text>
+  <line x1="148" y1="60" x2="164" y2="60" stroke="#111" stroke-width="3"/>
+  <path d="M 162 50 L 174 60 L 162 70 Z" fill="#111"/>
+  <line x1="308" y1="60" x2="324" y2="60" stroke="#111" stroke-width="3"/>
+  <path d="M 322 50 L 334 60 L 322 70 Z" fill="#111"/>
+  <line x1="468" y1="60" x2="484" y2="60" stroke="#111" stroke-width="3"/>
+  <path d="M 482 50 L 494 60 L 482 70 Z" fill="#111"/>
+  <text x="320" y="128" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-style="italic" fill="#111">The arrows show the direction of energy flow.</text>
+</svg>

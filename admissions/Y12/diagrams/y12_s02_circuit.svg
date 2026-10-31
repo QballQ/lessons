@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <title>A series circuit. A 6 V battery is connected to an ammeter A, a 4 ohm resistor and an 8 ohm resistor in one loop.</title>
+  <g stroke="#111" stroke-width="2.5" fill="none">
+    <path d="M 60 60 L 60 170 L 340 170 L 340 60 L 230 60 M 170 60 L 60 60"/>
+  </g>
+  <line x1="180" y1="44" x2="180" y2="76" stroke="#111" stroke-width="4"/>
+  <line x1="192" y1="52" x2="192" y2="68" stroke="#111" stroke-width="2.5"/>
+  <line x1="208" y1="44" x2="208" y2="76" stroke="#111" stroke-width="4"/>
+  <line x1="220" y1="52" x2="220" y2="68" stroke="#111" stroke-width="2.5"/>
+  <line x1="170" y1="60" x2="180" y2="60" stroke="#111" stroke-width="2.5"/><line x1="192" y1="60" x2="208" y2="60" stroke="#111" stroke-width="2.5"/><line x1="220" y1="60" x2="230" y2="60" stroke="#111" stroke-width="2.5"/>
+  <text x="200" y="30" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">6 V</text>
+  <circle cx="60" cy="115" r="18" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="60" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="700" fill="#111">A</text>
+  <rect x="110" y="158" width="70" height="24" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <rect x="230" y="158" width="70" height="24" fill="#fff" stroke="#111" stroke-width="2.5"/>
+  <text x="145" y="206" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">4 Ω</text>
+  <text x="265" y="206" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">8 Ω</text>
+</svg>
