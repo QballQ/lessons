@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 214" width="640" height="214">
+  <title>Matrix. Row 1: white circle, grey square, black triangle. Row 2: black square, white triangle, grey circle. Row 3: grey triangle, black circle, empty cell. Options A to E: white square, grey square, black square, white circle, white triangle.</title>
+  <rect x="2" y="2" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <circle cx="35.0" cy="35.0" r="18.0" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <rect x="72" y="2" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <rect x="91.5" y="21.5" width="27.0" height="27.0" fill="#bdbdbd" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="142" y="2" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <polygon points="175.0,17.9 192.1,47.6 157.9,47.6" fill="#111" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="2" y="72" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <rect x="21.5" y="91.5" width="27.0" height="27.0" fill="#111" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="72" y="72" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <polygon points="105.0,87.9 122.1,117.6 87.9,117.6" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="142" y="72" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <circle cx="175.0" cy="105.0" r="18.0" fill="#bdbdbd" stroke="#111" stroke-width="2.2"/>
+  <rect x="2" y="142" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <polygon points="35.0,157.9 52.1,187.6 17.9,187.6" fill="#bdbdbd" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="72" y="142" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <circle cx="105.0" cy="175.0" r="18.0" fill="#111" stroke="#111" stroke-width="2.2"/>
+  <rect x="142" y="142" width="66" height="66" rx="4" fill="none" stroke="#111" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="175.0" y="185.8" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#777">?</text>
+  <rect x="232.0" y="54.0" width="78" height="78" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <rect x="257.5" y="79.5" width="27.0" height="27.0" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="271.0" y="154.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">A</text>
+  <rect x="314.5" y="54.0" width="78" height="78" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <rect x="340.0" y="79.5" width="27.0" height="27.0" fill="#bdbdbd" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="353.5" y="154.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">B</text>
+  <rect x="397.0" y="54.0" width="78" height="78" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <rect x="422.5" y="79.5" width="27.0" height="27.0" fill="#111" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="436.0" y="154.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">C</text>
+  <rect x="479.5" y="54.0" width="78" height="78" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <circle cx="518.5" cy="93.0" r="18.0" fill="#fff" stroke="#111" stroke-width="2.2"/>
+  <text x="518.5" y="154.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">D</text>
+  <rect x="562.0" y="54.0" width="78" height="78" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <polygon points="601.0,75.9 618.1,105.6 583.9,105.6" fill="#fff" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="601.0" y="154.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">E</text>
+</svg>

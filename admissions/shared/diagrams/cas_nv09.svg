@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 134" width="640" height="134">
+  <title>Odd one out. Five flag figures: a rod with a grey triangular flag at one end and a black ball at the other. B, C, D and E are the same figure turned by 0, 90, 180 and 270 degrees. A is the mirror image: with the ball at the bottom, its flag points left instead of right.</title>
+  <rect x="20.0" y="2" width="96" height="96" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <g transform="translate(68.0 50.0) rotate(0)"><line x1="0" y1="-28.0" x2="0" y2="28.0" stroke="#111" stroke-width="3" stroke-linecap="round"/><polygon points="0,-28.0 -25.2,-15.4 0,-2.8" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="28.0" r="6" fill="#111"/></g>
+  <text x="68.0" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">A</text>
+  <rect x="146.0" y="2" width="96" height="96" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <g transform="translate(194.0 50.0) rotate(90)"><line x1="0" y1="-28.0" x2="0" y2="28.0" stroke="#111" stroke-width="3" stroke-linecap="round"/><polygon points="0,-28.0 25.2,-15.4 0,-2.8" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="28.0" r="6" fill="#111"/></g>
+  <text x="194.0" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">B</text>
+  <rect x="272.0" y="2" width="96" height="96" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <g transform="translate(320.0 50.0) rotate(0)"><line x1="0" y1="-28.0" x2="0" y2="28.0" stroke="#111" stroke-width="3" stroke-linecap="round"/><polygon points="0,-28.0 25.2,-15.4 0,-2.8" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="28.0" r="6" fill="#111"/></g>
+  <text x="320.0" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">C</text>
+  <rect x="398.0" y="2" width="96" height="96" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <g transform="translate(446.0 50.0) rotate(270)"><line x1="0" y1="-28.0" x2="0" y2="28.0" stroke="#111" stroke-width="3" stroke-linecap="round"/><polygon points="0,-28.0 25.2,-15.4 0,-2.8" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="28.0" r="6" fill="#111"/></g>
+  <text x="446.0" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">D</text>
+  <rect x="524.0" y="2" width="96" height="96" rx="4" fill="none" stroke="#111" stroke-width="1.6"/>
+  <g transform="translate(572.0 50.0) rotate(180)"><line x1="0" y1="-28.0" x2="0" y2="28.0" stroke="#111" stroke-width="3" stroke-linecap="round"/><polygon points="0,-28.0 25.2,-15.4 0,-2.8" fill="#bdbdbd" stroke="#111" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="28.0" r="6" fill="#111"/></g>
+  <text x="572.0" y="122" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#111">E</text>
+</svg>

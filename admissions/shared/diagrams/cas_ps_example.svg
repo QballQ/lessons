@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 100" width="132" height="100">
+  <title>Example: a circle with 1 written under it, and a plus sign with 4 written under it.</title>
+  <rect x="10" y="6" width="56" height="42" fill="#f2f2f2" stroke="#111" stroke-width="1.4"/>
+  <circle cx="38.0" cy="27.0" r="11.0" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="10" y="48" width="56" height="46" fill="#fff" stroke="#111" stroke-width="1.4"/>
+  <text x="38.0" y="81.12" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#111">1</text>
+  <rect x="66" y="6" width="56" height="42" fill="#f2f2f2" stroke="#111" stroke-width="1.4"/>
+  <path d="M 94.0 16.0 V 38.0 M 83.0 27.0 H 105.0" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="66" y="48" width="56" height="46" fill="#fff" stroke="#111" stroke-width="1.4"/>
+  <text x="94.0" y="81.12" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#111">4</text>
+</svg>
