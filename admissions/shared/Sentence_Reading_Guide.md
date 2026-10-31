@@ -5,16 +5,16 @@ footer: Graded Sentence Reading Screen | Interviewer guide
 ---
 # Graded Sentence Reading Screen: interviewer guide
 
-**What it is.** A quick 1:1 read-aloud screen for every candidate from Year 1 to Year 10. The student reads sentences that get harder, from a reading age of about 5 to adult level, until they can no longer read them. It gives an **indicative reading age**, an accuracy profile, a **fluency** rating and an **understanding** check. It takes 2 to 6 minutes. In Years 1 to 3 it follows the Early Reading Screen; from Year 4 it opens the interview.
+**What it is.** A quick 1:1 read-aloud screen for every candidate from Year 1 to Year 12. The student reads sentences that get harder, from a reading age of about 5 to adult level, until they can no longer read them. It gives an **indicative reading age**, an accuracy profile, a **fluency** rating and an **understanding** check. It takes 2 to 6 minutes. In Years 1 to 3 it follows the Early Reading Screen; from Year 4 it opens the interview.
 
 **You need:** the student card (`Sentence_Reading_Card`), this guide (the sentences are in Section 5), the **Reading front sheet** (`forms/Reading_Front_Sheet`), a pencil, and a plain card or sheet of paper to cover the sentences the student has not reached yet (this stops a page of text looking frightening). This guide is reusable: nothing is written on it. Write every point, meaning mark, total and result on the Reading front sheet.
 
 ## 1. Start, carry on, stop
 
-| Year applied for | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Start at level | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| First sentence | 1 | 1 | 4 | 7 | 10 | 13 | 16 | 19 | 22 | 25 |
+| Year applied for | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Start at level | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 9 | 9 |
+| First sentence | 1 | 1 | 4 | 7 | 10 | 13 | 16 | 19 | 22 | 25 | 25 | 25 |
 
 - If you already know the student is new to English, start at Level 1 whatever their age.
 - **Going back (basal).** If the student scores 6 out of 6 on the start level, give full credit (6 points) for every level below it. If they score less than 6, go back one level at a time until they score 6 out of 6 on a level (or you reach Level 1). Then carry on upwards from the level after the start level.
@@ -251,9 +251,9 @@ The student reads from the card (`Sentence_Reading_Card`). Follow this copy as t
 
 **This screen is not standardised.** The reading ages come from the way the sentences were built (how common the words are, the spelling patterns in the English National Curriculum word lists for each year, and the length and structure of the sentences). Treat a reading age as a range of about 6 months either side. Once 30 to 50 students have taken it, compare their reading ages with the reading paper and with how they get on in class, and adjust the guide below if needed.
 
-**The reading band.** In Years 1 to 3 the reading band comes from the Early Reading Screen; in Years 4 to 10 from the reading paper. This screen confirms the band. Use the table as a guide; if this screen and the main reading result differ by more than one band, look for the reason (below).
+**The reading band.** In Years 1 to 3 the reading band comes from the Early Reading Screen; in Years 4 to 12 from the reading paper. This screen confirms the band. Use the table as a guide; if this screen and the main reading result differ by more than one band, look for the reason (below).
 
-| Reading age compared with actual age | Years 3 to 5 | Years 6 to 10 |
+| Reading age compared with actual age | Years 3 to 5 | Years 6 to 12 |
 |---|---|---|
 | At or above actual age, or close below it | up to 6 months below: **E** | up to 12 months below: **E** |
 | Below | 7 to 12 months below: **D** | 13 to 24 months below: **D** |
