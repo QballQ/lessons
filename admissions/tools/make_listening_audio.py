@@ -41,8 +41,8 @@ F1, F2, M1, M2 = 'bf_emma', 'bf_isabella', 'bm_george', 'bm_fable'
 # The voice speed is the same for every year group (1.0: ITEM_SPEED for Years 1 to 3, FIXED_SPEED for Years 4 to 10). What
 # changes with the year group is the pause: GAP is the pause after each sentence in seconds (a turn in a conversation gets
 # twice as much), longer for younger students. (Slower voice speeds, 0.6 to 0.9, were tried and judged too slow.)
-PACE = {1: 120, 2: 120, 3: 120, 4: None, 5: None, 6: None, 7: None, 8: None, 9: None, 10: None}   # only Years 1 to 3 use it, for the pause inside an instruction
-GAP = {1: 1.0, 2: 1.0, 3: 0.9, 4: 0.8, 5: 0.7, 6: 0.65, 7: 0.55, 8: 0.5, 9: 0.45, 10: 0.45}
+PACE = {1: 120, 2: 120, 3: 120, 4: None, 5: None, 6: None, 7: None, 8: None, 9: None, 10: None, 11: None, 12: None}   # only Years 1 to 3 use it, for the pause inside an instruction
+GAP = {1: 1.0, 2: 1.0, 3: 0.9, 4: 0.8, 5: 0.7, 6: 0.65, 7: 0.55, 8: 0.5, 9: 0.45, 10: 0.45, 11: 0.45, 12: 0.45}
 ITEM_TIME = {1: 1.25, 2: 1.15, 3: 1.0}   # multiplier on the time given to respond to each instruction
 
 TITLE = 'Year {n} Admission Assessment, version 3.1. Listening.'

@@ -116,21 +116,19 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 | Step | Minutes | Section | The student | You | Record on |
 |---|---|---|---|---|---|
 | 1 | 2 | Welcome | Listens | Say the welcome script (instructions, Section 2) | |
-| 2 | about 15 (recording) | Listening, Parts A and B | Reads the questions for a minute, then answers while listening | **Play the Full recording** (do not pause it). Use Part A and Part B as two tracks if you may stop after Part A | Student paper mark boxes |
+| 2 | about 15 (recording) | Listening, Parts A and B | Reads the questions for a minute, then answers while listening | **Play the Full recording** (do not pause it); Part A and Part B as two tracks if you may stop after Part A | Student paper mark boxes |
 | 3 | 15 | Reading paper (Parts A and B) | Works alone | Time it; two-minute warning; do not read the texts or explain words | Student paper; Reading front sheet, Part 1 |
 | 4 | 10 | Writing (one task of two) | Works alone | Time it | Grading sheet |
 | 5 | 5 | Break | | | |
-| 6 | 25 | Maths (A fluency, B word questions, C applied) | Works alone | May read any question aloud. NT and L as above. No calculator in Sections A and B; a scientific calculator in Section C | Student paper; grading sheet |
+| 6 | 25 | Maths (A fluency, B word questions, C applied) | Works alone | May read any question aloud. NT and L as above. Calculator in Section C only | Student paper; grading sheet |
 | 7 | 8 | Core science | Works alone | As for maths | Student paper; grading sheet |
 | 8 | 5 | Break | | | |
-| 9 | 25 | Cognitive ability screen (four timed parts) | Works alone, strictly timed | `Cognitive_Ability_Screen_Guide`: say the script for each part, time each part exactly, no calculator, no Chinese. It is for planning support, never for selection | Grading sheet, cognitive screen rows |
-| 10 | 15 each | Optional sciences: only the sciences the student will take (Biology, Chemistry, Physics) | Works alone | `YNN_Optional_Sciences_Mark_Scheme_v3.1`: say which sections to do; 15 minutes each; a short break after two. Read-aloud, NT and L as for maths | Grading sheet, optional sciences rows |
-| 11 | 15 | Interview, opening with sentence reading (Level 9 in Years 11 and 12) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y11_Y12`. The written parts can be sat in a small group; the interview is always 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
+| 9 | 25 | Cognitive ability screen (four timed parts) | Works alone | `Cognitive_Ability_Screen_Guide`: say the script, time each part exactly, no calculator, no Chinese. For planning support, never for selection | Grading sheet, cognitive screen row |
+| 10 | 15 each | Optional sciences: only those the student will take | Works alone | `YNN_Optional_Sciences_Mark_Scheme_v3.1`: say which sections; a short break after two; read-aloud, NT and L as for maths | Grading sheet, optional sciences rows |
+| 11 | 15 | Interview, opening with sentence reading (Level 9) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y11_Y12`. Written parts may be in a small group; the interview is 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
 | | **About 120 for the core (allow 125); 150 with two sciences; 165 with three** | | | | |
 
-Years 11 and 12: if the day is too long for the student or the timetable, the optional sciences and the interview may be on a second visit. The readiness judgement (joining the second year of IGCSE in Year 11; A Level in Year 12) is in Section 6 of the year's assessor instructions and on the grading sheet.
-
-[[pagebreak]]
+If the day is too long, the optional sciences and the interview may be on a second visit (note it on the grading sheet). Readiness (Year 11: joining IGCSE a year in; Year 12: A Level) is Section 6 of the year's instructions and the box on the grading sheet.
 
 ## 4. The listening recordings
 
@@ -155,7 +153,7 @@ Every year group has a recording made from the scripts, so that every candidate 
 3. Mark the paper after the recording. Years 1 to 3: mark each item 1 or 0 as you go.
 4. If the recording cannot be played, read the script live from the assessor instructions, at the pace for the year group in Section 3. Never mix the two in one test.
 
-**The pauses are longer for younger students.** The voice speed is the same for every year group (the voice's normal speed). The pause after each sentence is about a second in Years 1 to 3, about three quarters of a second in Years 4 to 6 and about half a second in Years 7 to 10. The voices are offline text-to-speech in British English. In two-person scripts the speakers have different voices, so the recording does not say their names.
+**The pauses are longer for younger students.** The voice speed is the same for every year group (the voice's normal speed). The pause after each sentence is about a second in Years 1 to 3, about three quarters of a second in Years 4 to 6 and about half a second in Years 7 to 12. The voices are offline text-to-speech in British English. In two-person scripts the speakers have different voices, so the recording does not say their names.
 
 ## 5. Handing over to the interviewer
 
@@ -228,5 +226,7 @@ The tracker holds children's personal data: keep it in the secure admissions fol
 | 8 | 20 | 2 | 2 | 2 | 3 | 3 | 2 | **36** | 52 | 26 |
 | 9 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 54 | 24 |
 | 10 | 21 | 2 | 2 | 2 | 3 | 3 | 2 | **38** | 58 | 28 |
+| 11 | 22 (+ 14 screen + 11 sciences) | 2 | 2 | 2 | 3 | 3 | 2 | **64**† | new | 46 |
+| 12 | 22 (+ 14 screen + 13 sciences) | 2 | 2 | 2 | 3 | 3 | 2 | **66**† | new | 48 |
 
-\* Years 1 to 3: includes the Early Reading Screen record (18 pages): print only the sheets you expect to use. Every part starts on a new sheet (a blank page is added after a part with an odd number of pages), so print the pack double-sided and separate the parts. The staff pages for each candidate (everything except the student paper and, in Years 1 to 3, the Early Reading Screen record) are now about 16 instead of about 32, and they include the result cover.
+\* Years 1 to 3: includes the Early Reading Screen record (18 pages): print only the sheets you expect to use. † Years 11 and 12: includes the cognitive screen booklet and the optional sciences paper (print only the sciences the student will take). Every part starts on a new sheet, so print double-sided and separate the parts. Staff pages per candidate: about 16, down from about 32.

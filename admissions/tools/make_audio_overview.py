@@ -21,13 +21,13 @@ def minutes(path):
 
 
 def main():
-    L = ['Listening recordings, Years 1 to 10, version 3.1', '',
+    L = ['Listening recordings, Years 1 to 12, version 3.1', '',
          'One recording for every year group, made from the scripts in the assessor instructions, so that every',
          'candidate hears the same voices, pace and pauses. Each year folder has its own READ_ME_FIRST.txt with the',
          'tracks, how to use them and (Years 1 to 3) the start time of every item.', '',
          'The voice speed is the same for every year group (normal speed); the younger the student, the longer the pauses',
          'between sentences.', '',
-         'Words a minute: "voice" is the speed while the voice is speaking; "with pauses" counts the pauses too (Years 4 to 10).',
+         'Words a minute: "voice" is the speed while the voice is speaking; "with pauses" counts the pauses too (Years 4 to 12).',
          '',
          'Year   Play this track                          Length   Voice  With pauses  Other tracks',
          '-----  ---------------------------------------  -------  -----  -----------  --------------------------']
@@ -40,7 +40,7 @@ def main():
         others = [os.path.basename(f) for f in sorted(glob.glob(os.path.join(d, '*Part_*.mp3')))]
         L.append(f'{n:<6d} {full:<40s} {minutes(os.path.join(d, full)):<8s} {m.group(1) if m else "":<6s} {o.group(1) if o else "":<12s} '
                  + (', '.join(o.replace(f"Y{n:02d}_Listening_", "").replace("_v3.1.mp3", "") for o in others) or 'none'))
-    L += ['', 'Years 7 to 10 also have Part A and Part B as separate tracks: use them if you may need to stop after Part A.',
+    L += ['', 'Years 7 to 12 also have Part A and Part B as separate tracks: use them if you may need to stop after Part A.',
           'Years 1 to 6 have one track.', '',
           'The voices are offline text-to-speech (British English). Play the recording on a speaker in a quiet room and',
           'check the volume before the student arrives. Do not pause a recording, except to repeat an item in Years 1 to 3',

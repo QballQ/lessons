@@ -16,7 +16,7 @@ Papers are split into **reusable instructions** (printed once, no student name, 
 - **Once for the room:** `pdf/Print_Once/Year_05_Assessor_Folder_v3.1.pdf` has the assessor instructions, the interviewer guide for the phase, the sentence reading guide and (Years 1 to 3) the Early Reading Screen guide. `pdf/Print_Once/Reading_Cards_to_Laminate.pdf` has the cards students read from.
 - **Sent before the visit:** the homeroom teacher reference (`pdf/forms/`).
 - **Listening recordings:** `audio/v3.1/YNN/` has a recording for every year group (nothing to print).
-- Packs of earlier versions (v1, v2 and v3) are in `pdf/Candidate_Packs/superseded/`, for reference only. `download/` has the zips: `Admissions_Pack_v3.1.zip` (all the PDFs, organised for the admissions team) the tracker in `7_ADMISSIONS_TRACKER`, and three listening downloads (`Listening_Audio_Years_1_to_6_v3.1.zip`, `Listening_Audio_Years_7_to_8_v3.1.zip` and `Listening_Audio_Years_9_to_10_v3.1.zip`).
+- Packs of earlier versions (v1, v2 and v3) are in `pdf/Candidate_Packs/superseded/`, for reference only. `download/` has the zips: `Admissions_Pack_v3.1.zip` (all the PDFs, organised for the admissions team) the tracker in `7_ADMISSIONS_TRACKER`, and four listening downloads (`Listening_Audio_Years_1_to_6_v3.1.zip`, `Listening_Audio_Years_7_to_8_v3.1.zip`, `Listening_Audio_Years_9_to_10_v3.1.zip` and `Listening_Audio_Years_11_to_12_v3.1.zip`).
 
 | Folder | Contents |
 |---|---|

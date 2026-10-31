@@ -201,9 +201,9 @@ Start with the **overall English band** and the **year group**, then adjust for 
 
 **For each candidate** (the candidate pack, `pdf/Candidate_Packs/Year_NN_Candidate_Pack_v3.1.pdf`, double-sided)
 
-| Years 1 to 3 | Years 4 to 10 |
+| Years 1 to 3 | Years 4 to 12 |
 |---|---|
-| Student booklet for the year (print in colour if possible) | Student paper for the year |
+| Student booklet for the year (print in colour if possible) | Student paper for the year (Years 11 and 12: also the cognitive ability screen booklet and the optional sciences paper, only the sciences the student will take) |
 | Grading sheet | Grading sheet |
 | Early Reading Screen record sheets (print only the passage sheets you expect to use) | Reading front sheet |
 | Reading front sheet | Interview sheet for the phase |
@@ -215,9 +215,9 @@ Start with the **overall English band** and the **year group**, then adjust for 
 
 **Once for the room** (`pdf/Print_Once/`; no name, nothing is written on them)
 
-| Years 1 to 3 | Years 4 to 10 |
+| Years 1 to 3 | Years 4 to 12 |
 |---|---|
-| Assessor instructions for the year | Assessor instructions for the year |
+| Assessor instructions for the year | Assessor instructions for the year (Years 11 and 12: also the optional sciences mark scheme and the cognitive ability screen guide) |
 | Interviewer guide for the phase | Interviewer guide for the phase |
 | Sentence reading guide | Sentence reading guide |
 | Early Reading Screen guide | |
