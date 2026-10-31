@@ -11,7 +11,7 @@ footer: Admissions Assessment | Overview for review
 
 | Folder | What is in it | Who uses it | Print? |
 |---|---|---|---|
-| `01_Start_Here` | The admissions team pack (8 pages) and three one-page day sheets, for Years 1 to 3, 4 to 6 and 7 to 10 | Admissions team, assessors | Once. Pin up the day sheet |
+| `01_Start_Here` | The admissions team pack and four one-page day sheets, for Years 1 to 3, 4 to 6, 7 to 10, and 11 and 12 | Admissions team, assessors | Once. Pin up the day sheet |
 | `02_Print_For_Each_Candidate` | One PDF for each year group with everything for one candidate | Admissions | Yes: one for every candidate, double-sided |
 | `03_Print_Once_Assessor_Folders` | **The detailed back-up:** the assessor instructions (scripts, answers, mark schemes, band guides), the interviewer guide and the sentence reading guide, one folder for each year group; the reading cards | Assessors, the principal as interviewer | Once, kept in a folder. Laminate the cards |
 | `04_Listening_Recordings` | A recording for every year group, with a read-me | Assessors | No: play on a laptop or phone |

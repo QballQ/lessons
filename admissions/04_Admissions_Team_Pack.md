@@ -111,6 +111,27 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 
 [[pagebreak]]
 
+### Years 11 and 12 (about 2 hours for the core; up to about 2 hours 50 minutes with three optional sciences)
+
+| Step | Minutes | Section | The student | You | Record on |
+|---|---|---|---|---|---|
+| 1 | 2 | Welcome | Listens | Say the welcome script (instructions, Section 2) | |
+| 2 | about 15 (recording) | Listening, Parts A and B | Reads the questions for a minute, then answers while listening | **Play the Full recording** (do not pause it). Use Part A and Part B as two tracks if you may stop after Part A | Student paper mark boxes |
+| 3 | 15 | Reading paper (Parts A and B) | Works alone | Time it; two-minute warning; do not read the texts or explain words | Student paper; Reading front sheet, Part 1 |
+| 4 | 10 | Writing (one task of two) | Works alone | Time it | Grading sheet |
+| 5 | 5 | Break | | | |
+| 6 | 25 | Maths (A fluency, B word questions, C applied) | Works alone | May read any question aloud. NT and L as above. No calculator in Sections A and B; a scientific calculator in Section C | Student paper; grading sheet |
+| 7 | 8 | Core science | Works alone | As for maths | Student paper; grading sheet |
+| 8 | 5 | Break | | | |
+| 9 | 25 | Cognitive ability screen (four timed parts) | Works alone, strictly timed | `Cognitive_Ability_Screen_Guide`: say the script for each part, time each part exactly, no calculator, no Chinese. It is for planning support, never for selection | Grading sheet, cognitive screen rows |
+| 10 | 15 each | Optional sciences: only the sciences the student will take (Biology, Chemistry, Physics) | Works alone | `YNN_Optional_Sciences_Mark_Scheme_v3.1`: say which sections to do; 15 minutes each; a short break after two. Read-aloud, NT and L as for maths | Grading sheet, optional sciences rows |
+| 11 | 15 | Interview, opening with sentence reading (Level 9 in Years 11 and 12) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y11_Y12`. The written parts can be sat in a small group; the interview is always 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
+| | **About 120 for the core (allow 125); 150 with two sciences; 165 with three** | | | | |
+
+Years 11 and 12: if the day is too long for the student or the timetable, the optional sciences and the interview may be on a second visit. The readiness judgement (joining the second year of IGCSE in Year 11; A Level in Year 12) is in Section 6 of the year's assessor instructions and on the grading sheet.
+
+[[pagebreak]]
+
 ## 4. The listening recordings
 
 Every year group has a recording made from the scripts, so that every candidate hears the same voices, pace and pauses. It replaces the assessor reading the script. Play it on a speaker (not headphones) in a quiet room. Do the volume check before the student arrives. The files are in `audio/v3.1/YNN/`; each folder has a `READ_ME_FIRST.txt` with the tracks and, for Years 1 to 3, the start time of every item.

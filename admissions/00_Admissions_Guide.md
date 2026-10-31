@@ -12,7 +12,9 @@ This pack assesses students applying to the international programme from **Year 
 3. **Who they are**: interests, learning habits, wellbeing, and their **future plans and aspirations**.
 4. **Suitability**: whether the programme is right for the student and the family, and what support the student will need from the first day.
 
-Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes in Years 5 and 6, and about 94 minutes in Years 7 to 10** (version 3.1), plus a 15-minute conversation with the parents.
+Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes in Years 5 and 6, about 94 minutes in Years 7 to 10, and about 2 hours in Years 11 and 12** (the core; up to about 2 hours 50 minutes with three optional sciences), version 3.1, plus a 15-minute conversation with the parents.
+
+**Years 11 and 12 (added 31 October 2026).** Entrants to the second year of IGCSE (Year 11) and the first year of A Level (Year 12) sit the same core as Years 7 to 10 (listening, reading, writing, maths, core science, interview), plus a **cognitive ability screen** (`shared/Cognitive_Ability_Screen_Y11_Y12`: non-verbal, quantitative and verbal reasoning and processing speed; for planning learning support, never for selection; not standardised) and **optional science papers** (`YNN_Optional_Sciences_v3.1`: Biology, Chemistry and Physics at IGCSE level, 15 marks each; the student sits only the sciences they will take). Section 6 of each year's assessor instructions says how to read the results together for joining IGCSE a year in (Year 11) and for A Level readiness (Year 12).
 
 **Running a visit? Start with `04_Admissions_Team_Pack`.** It is the short pack for the admissions team and assessors: the day sheets with the minutes for every section, the handover to the interviewer, what to print and where every mark goes. This guide is the full background: the principles, the proficiency bands, the research on students from Chinese schools, the decision guide and the record keeping. Keep it as the evidence behind the pack.
 

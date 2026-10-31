@@ -11,11 +11,13 @@ Which version of the papers each year group uses, and what each version contains
 
 | Year group | Version | Candidate pack to print (`pdf/Candidate_Packs/`) |
 |---|---|---|
-| Years 1 to 10 | **v3.1** | `Year_NN_Candidate_Pack_v3.1.pdf` |
+| Years 1 to 12 | **v3.1** | `Year_NN_Candidate_Pack_v3.1.pdf` |
 
 Earlier packs are in `pdf/Candidate_Packs/superseded/`, one folder per version, for reference only.
 
 **Document set, 21 October 2026.** The v3.1 assessor booklet has been split so that less is printed for each candidate: the **assessor instructions** (reusable, no student name) and a **grading sheet** for each student; the sentence reading record and the interview record are replaced by the **Reading front sheet**, the **Interview sheet** and reusable guides; the candidate summary is now the **final mark sheet**. The questions, mark schemes, marks and band guides are unchanged, so these documents keep the version number v3.1 and are used with the v3.1 student papers. The combined v3.1 assessor booklet and candidate packs printed on 20 October are withdrawn. Listening recordings for every year group are in `audio/v3.1/`, with longer pauses for younger students.
+
+**Years 11 and 12, 31 October 2026.** The pack extends to Year 11 (joining the second year of IGCSE) and Year 12 (joining A Level) at version 3.1: `Y11/` and `Y12/` hold the student paper, assessor instructions and grading sheet, plus `YNN_Optional_Sciences_v3.1` (Biology, Chemistry, Physics, 15 marks each, sat only for the sciences the student will take) with its mark scheme; `shared/Cognitive_Ability_Screen_Y11_Y12` and its guide are shared by both years (for planning support, never for selection; not standardised). Interview documents: `forms/Interviewer_Guide_Y11_Y12` and `forms/Interview_Sheet_Y11_Y12`. Sentence reading starts at Level 9. Listening recordings in `audio/v3.1/Y11/` and `Y12/`. The tracker gains Year 11 and Year 12 sheets with columns for the optional sciences and the cognitive screen. Nothing changes for Years 1 to 10.
 
 **Admissions tracker, 27 October 2026.** `tracker/Admissions_Tracker_v3.1.xlsx` (and a `_DEMO` copy with fictional candidates) records each candidate on a sheet for their year group and feeds a dashboard of stages, levels, decisions and support. It is set up for the v3.1 papers: the maximum marks in row 3 of each year sheet are copied from the v3.1 grading sheets. If a later version changes a maximum mark, change row 3 on that year's sheet and `MAXES` in `tools/make_tracker.py`.
 

@@ -4,7 +4,7 @@
     python3 tools/make_tracker.py --recalc   # writes tracker/Admissions_Tracker_v3.1.xlsx and ..._DEMO.xlsx
     python3 tools/make_tracker.py --out DIR  # somewhere else (without --recalc the formulas have no stored values)
 
-One sheet per year group (Year 1 to Year 10, identical columns, one row per candidate), a Dashboard
+One sheet per year group (Year 1 to Year 12, identical columns, one row per candidate), a Dashboard
 and a Levels_Detail sheet that count the year sheets with plain COUNTIF/SUMPRODUCT formulas, a
 How_To_Use sheet and a Lists sheet for the drop-downs. The DEMO copy holds fictional candidates so
 that the Dashboard can be seen working. Use --recalc so that every formula carries a stored value.
@@ -33,7 +33,7 @@ OUT_DEFAULT = HERE.parent / "tracker"
 
 FIRST, LAST = 6, 305          # data rows on every year sheet
 RLAST = 1005                  # the Dashboard counts down to here, so extra rows copied down are included
-YEARS = list(range(1, 11))
+YEARS = list(range(1, 13))
 VERSION = "v3.1"
 
 FONT = "Arial"
@@ -53,7 +53,7 @@ BOOKBANDS = ["Not yet Pink", "Pink", "Red", "Yellow", "Light Blue", "Green", "Or
 BARRIER = ["Yes", "No", "Unsure"]
 
 # Maximum marks, copied from the grading sheet of each year (YNN_Grading_Sheet_v3.1).
-# lis listening, read reading paper (Years 4 to 10), wr writing, ma maths, maw maths word problems, sc science (Years 5 to 10)
+# lis listening, read reading paper (Years 4 to 12), wr writing, ma maths, maw maths word problems, sc science (Years 5 to 12)
 MAXES = {
     1: dict(lis=10, read=None, wr=16, ma=15, maw=3, sc=None),
     2: dict(lis=10, read=None, wr=16, ma=20, maw=5, sc=None),
@@ -65,7 +65,11 @@ MAXES = {
     8: dict(lis=16, read=16, wr=16, ma=30, maw=8, sc=10),
     9: dict(lis=16, read=16, wr=16, ma=30, maw=8, sc=10),
     10: dict(lis=16, read=16, wr=16, ma=30, maw=8, sc=10),
+    11: dict(lis=16, read=16, wr=16, ma=30, maw=8, sc=10),
+    12: dict(lis=16, read=16, wr=16, ma=30, maw=8, sc=10),
 }
+# Years 11 and 12 only: the optional sciences (each out of 15) and the cognitive ability screen (raw scores).
+OPT_MAX = dict(bio=15, chem=15, phys=15, nv=12, qr=12, vr=12, ps=60)
 
 # key, header, group, width, kind, max key
 COLS = [
@@ -97,6 +101,16 @@ COLS = [
     ("ma_bar", "English barrier in maths?", "Maths and science", 11, "barrier", None),
     ("sc_s", "Science score", "Maths and science", 9, "score", "sc"),
     ("sc_b", "Science band (1 to 4)", "Maths and science", 9, "band4", None),
+    ("bio_s", "Biology score (optional, Years 11 and 12)", "Optional sciences and cognitive screen", 10, "score", "bio"),
+    ("bio_b", "Biology band (1 to 4)", "Optional sciences and cognitive screen", 9, "band4", None),
+    ("chem_s", "Chemistry score (optional)", "Optional sciences and cognitive screen", 10, "score", "chem"),
+    ("chem_b", "Chemistry band (1 to 4)", "Optional sciences and cognitive screen", 9, "band4", None),
+    ("phys_s", "Physics score (optional)", "Optional sciences and cognitive screen", 10, "score", "phys"),
+    ("phys_b", "Physics band (1 to 4)", "Optional sciences and cognitive screen", 9, "band4", None),
+    ("nv", "Cognitive screen: non-verbal (of 12)", "Optional sciences and cognitive screen", 10, "score", "nv"),
+    ("qr", "Cognitive screen: quantitative (of 12)", "Optional sciences and cognitive screen", 10, "score", "qr"),
+    ("vr", "Cognitive screen: verbal (of 12)", "Optional sciences and cognitive screen", 10, "score", "vr"),
+    ("ps", "Cognitive screen: processing speed (of 60)", "Optional sciences and cognitive screen", 10, "score", "ps"),
     ("suit", "Lowest suitability rating (1 to 4)", "Interview and follow-up", 11, "suit", None),
     ("sen", "Learning needs follow-up (Y)", "Interview and follow-up", 10, "yn", None),
     ("well", "Wellbeing follow-up (Y)", "Interview and follow-up", 10, "yn", None),
@@ -141,6 +155,8 @@ def unused_keys(y):
         u.add("read_s")
     if y <= 4:
         u |= {"sc_s", "sc_b"}
+    if y <= 10:
+        u |= {"bio_s", "bio_b", "chem_s", "chem_b", "phys_s", "phys_b", "nv", "qr", "vr", "ps"}
     return u
 
 
@@ -174,7 +190,7 @@ def build_year(wb, y, demo_rows=None):
     mx = MAXES[y]
     unused = unused_keys(y)
     maxkey = {"lis": mx["lis"], "read": mx["read"], "wr": mx["wr"], "ma": mx["ma"], "maw": mx["maw"],
-              "sc": mx["sc"], "sr": 72}
+              "sc": mx["sc"], "sr": 72, **OPT_MAX}
 
     ws["A1"] = f"Year {y} admissions tracker"
     ws["A1"].font = font(size=14, bold=True, color=NAVY)
@@ -322,7 +338,7 @@ def build_year(wb, y, demo_rows=None):
     for key in ("lis_b", "spk_b", "read_b", "ra_b", "wr_b", "eng_b"):
         for b, colr in band5.items():
             ws.conditional_formatting.add(rrange(key), CellIsRule(operator="equal", formula=[f'"{b}"'], fill=fill(colr)))
-    for key in ("ma_b", "sc_b"):
+    for key in ("ma_b", "sc_b", "bio_b", "chem_b", "phys_b"):
         if key in unused:
             continue
         for b, colr in band4.items():
@@ -466,12 +482,12 @@ def build_dashboard(wb, demo):
     for c in range(3, 13):
         ws.column_dimensions[CL(c)].width = 12.5
     ws.column_dimensions["M"].width = 12.5
-    title_block(ws, "Admissions dashboard, Years 1 to 10",
-                f"Assessment pack {VERSION}. Every figure is counted from the Year 1 to Year 10 sheets and updates by itself. "
+    title_block(ws, "Admissions dashboard, Years 1 to 12",
+                f"Assessment pack {VERSION}. Every figure is counted from the Year 1 to Year 12 sheets and updates by itself. "
                 "Do not type on this sheet.", demo)
 
     # --- section positions (computed so that tiles can point at totals)
-    PIPE, ENG, DEC, MATH, SCI, READ, SUP = 15, 30, 46, 62, 78, 90, 106
+    PIPE, ENG, DEC, MATH, SCI, READ, SUP = 15, 33, 51, 69, 87, 105, 123
 
     # ---- 1. pipeline
     section(ws, PIPE - 2, "1. Where candidates are in the process",
@@ -573,8 +589,8 @@ def build_dashboard(wb, demo):
     add_chart(ws, f"N{MATH - 2}", MATH, m0, ml, 3, 6, "Maths band, share of each year group",
               ["C6DBF5", "85B0E8", "2A78D6", "123F75"], percent=True)
 
-    # ---- 5. science (Years 5 to 10)
-    section(ws, SCI - 2, "5. Science band (Years 5 to 10)", None)
+    # ---- 5. science (Years 5 to 12)
+    section(ws, SCI - 2, "5. Science band (Years 5 to 12)", None)
     sheads = ["1", "2", "3", "4", "Banded", "3 or 4 (share)"]
 
     def sci_year(y, col, r, h):
@@ -590,7 +606,7 @@ def build_dashboard(wb, demo):
         if j == 5:
             return f'=IF(G{rt}=0,"",(E{rt}+F{rt})/G{rt})'
         return f"=SUM({col}{r0}:{col}{rl})"
-    table(ws, SCI, "Year group", sheads, sci_year, sci_total, years=list(range(5, 11)), fmts={5: "0%"}, widths_row=24)
+    table(ws, SCI, "Year group", sheads, sci_year, sci_total, years=list(range(5, 13)), fmts={5: "0%"}, widths_row=24)
     for j in range(4):
         ws.cell(row=SCI, column=3 + j).value = j + 1
 
@@ -706,7 +722,7 @@ def build_levels(wb, demo):
     ws.column_dimensions["B"].width = 15
     for c in range(3, 13):
         ws.column_dimensions[CL(c)].width = 12.5
-    title_block(ws, "Levels in detail, Years 1 to 10",
+    title_block(ws, "Levels in detail, Years 1 to 12",
                 "Each English skill by year group, and average scores. Counted from the Year sheets; do not type on this sheet.", demo)
 
     skills = [("lis_b", "Listening"), ("spk_b", "Speaking"), ("read_b", "Reading"), ("ra_b", "Reading aloud (indicative)"),
@@ -835,8 +851,18 @@ HELP = {
     "ma_b": ("3", "Maths band 1 to 4.", "Grading sheet; final mark sheet, Section 2"),
     "ma_w": ("3", "Score on the word problems only (the sub-score on the grading sheet).", "Grading sheet"),
     "ma_bar": ("No", "Yes, No or Unsure: is poor English the likely reason for a weaker word problem score?", "Grading sheet"),
-    "sc_s": ("6", "Years 5 to 10 only: science score out of 10.", "Grading sheet"),
-    "sc_b": ("3", "Years 5 to 10 only: science band 1 to 4.", "Grading sheet"),
+    "sc_s": ("6", "Years 5 to 12 only: science score out of 10.", "Grading sheet"),
+    "sc_b": ("3", "Years 5 to 12 only: science band 1 to 4.", "Grading sheet"),
+    "bio_s": ("", "Years 11 and 12 only, if taken: biology score out of 15. Leave blank if not taken.", "Optional sciences mark scheme; grading sheet"),
+    "bio_b": ("", "Biology band 1 to 4, if taken.", "Grading sheet"),
+    "chem_s": ("", "Chemistry score out of 15, if taken.", "Grading sheet"),
+    "chem_b": ("", "Chemistry band 1 to 4, if taken.", "Grading sheet"),
+    "phys_s": ("", "Physics score out of 15, if taken.", "Grading sheet"),
+    "phys_b": ("", "Physics band 1 to 4, if taken.", "Grading sheet"),
+    "nv": ("", "Years 11 and 12: cognitive ability screen, non-verbal reasoning raw score out of 12.", "Cognitive screen guide; grading sheet"),
+    "qr": ("", "Quantitative reasoning raw score out of 12.", "Grading sheet"),
+    "vr": ("", "Verbal reasoning raw score out of 12 (English-dependent: read with the English bands).", "Grading sheet"),
+    "ps": ("", "Processing speed: correct in 90 seconds, out of 60.", "Grading sheet"),
     "suit": ("3", "The lowest of the strand ratings on the Interview sheet (1 Concern, 2 Some concern, 3 Good, 4 Strong).", "Interview sheet; final mark sheet, Section 3"),
     "sen": ("N", "Y if the final mark sheet records a follow-up on learning needs. Record Y only: no detail here.", "Final mark sheet, Section 3"),
     "well": ("N", "Y if a wellbeing follow-up is recorded. Y only: no detail here.", "Final mark sheet, Section 3"),
@@ -861,7 +887,7 @@ def build_howto(wb, demo):
     ws.sheet_properties.tabColor = "C00000"
     for col, w in zip("ABCDEF", (2, 34, 26, 62, 38, 2)):
         ws.column_dimensions[col].width = w
-    ws["B1"] = "Admissions tracker, Years 1 to 10"
+    ws["B1"] = "Admissions tracker, Years 1 to 12"
     ws["B1"].font = font(size=18, bold=True, color=NAVY)
     ws["B2"] = f"For the admission assessments of pack {VERSION}. One workbook for the whole admissions team."
     ws["B2"].font = font(size=10, color="595959")
@@ -892,7 +918,7 @@ def build_howto(wb, demo):
         r += 1
 
     head("What it does")
-    para("Each year group has its own sheet (Year 1 to Year 10) with one row for each candidate. The Dashboard and Levels_Detail sheets count those rows "
+    para("Each year group has its own sheet (Year 1 to Year 12) with one row for each candidate. The Dashboard and Levels_Detail sheets count those rows "
          "and show where candidates are in the process, their English, maths and science levels, decisions, offers and support needs. You only ever type on the Year sheets.")
 
     head("Using it, step by step")
@@ -999,7 +1025,7 @@ def build_howto(wb, demo):
 
 
 # ---------------------------------------------------------------- demo data
-DEMO_N = {1: 6, 2: 7, 3: 8, 4: 8, 5: 9, 6: 9, 7: 9, 8: 8, 9: 8, 10: 8}
+DEMO_N = {1: 6, 2: 7, 3: 8, 4: 8, 5: 9, 6: 9, 7: 9, 8: 8, 9: 8, 10: 8, 11: 6, 12: 6}
 BANDS = "ABCDE"
 
 
@@ -1096,6 +1122,17 @@ def demo_data(seed=2026):
                 ps2 = clip(0.5 + 0.15 * m + 0.06 * e + rnd.gauss(0, 0.07), 0.05, 1.0)
                 row["sc_s"] = round(mx["sc"] * ps2)
                 row["sc_b"] = band4(ps2)
+            if y >= 11:
+                for key, mxv in (("bio", 15), ("chem", 15), ("phys", 15)):
+                    if rnd.random() < 0.6:
+                        pv = clip(0.55 + 0.15 * m + 0.05 * e + rnd.gauss(0, 0.1), 0.05, 1.0)
+                        row[key + "_s"] = round(mxv * pv)
+                        row[key + "_b"] = 1 + sum(row[key + "_s"] >= t for t in (5, 8, 12))
+                base = clip(0.6 + 0.12 * m + rnd.gauss(0, 0.1), 0.1, 1.0)
+                row["nv"] = round(12 * clip(base + rnd.gauss(0, 0.08), 0, 1))
+                row["qr"] = round(12 * clip(base + 0.05 + rnd.gauss(0, 0.08), 0, 1))
+                row["vr"] = round(12 * clip(base - 0.15 + 0.1 * e + rnd.gauss(0, 0.08), 0, 1))
+                row["ps"] = round(60 * clip(0.55 + 0.1 * m + rnd.gauss(0, 0.12), 0.1, 1.0))
             row["suit"] = rnd.choices([4, 3, 2, 1], [0.25, 0.55, 0.15, 0.05])[0]
             if rnd.random() < 0.08:
                 row["sen"] = "Y"

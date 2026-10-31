@@ -15,7 +15,7 @@ footer: Final Mark Sheet | Candidate summary and decision
 |---|---|---|
 | Listening | Grading sheet: ___ / ___ ; listening in conversation (Interview sheet) | [[scale:A,B,C,D,E]] |
 | Speaking | Interview sheet (and picture talk on the grading sheet, Years 1 to 3) | [[scale:A,B,C,D,E]] |
-| Reading | Reading front sheet. Years 1 to 3: book band ______ accuracy ___% questions ___ ; phonics ___ / 40 ; letters ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 6: paper ___ / 24. Years 7 to 10: paper ___ / 16 | [[scale:A,B,C,D,E]] |
+| Reading | Reading front sheet. Years 1 to 3: book band ______ accuracy ___% questions ___ ; phonics ___ / 40 ; letters ___ / 26 and ___ / 18 ; tricky words ___ / 20. Years 4 to 6: paper ___ / 24. Years 7 to 12: paper ___ / 16 | [[scale:A,B,C,D,E]] |
 | Reading aloud | Sentence reading (Reading front sheet): points ___ / 72 ; reading age ______ ; actual age ______ ; meaning checks ___ ; fluency ___ | indicative [[scale:A,B,C,D,E]] |
 | Writing | Grading sheet: ___ / 16 | [[scale:A,B,C,D,E]] |
 | **Overall English** | The band most of the four skills sit in. If one skill is two or more bands below the others, say which. | [[scale:A,B,C,D,E]] |
@@ -24,14 +24,16 @@ footer: Final Mark Sheet | Candidate summary and decision
 
 ## 2. Maths and science
 
-| | Score | Band | Number problems (Years 7 to 10: fluency) / word problems (word questions) / applied (Years 7 to 10) | Not yet taught (NT) and language support (L) |
+| | Score | Band | Number problems (Years 7 to 12: fluency) / word problems (word questions) / applied (Years 7 to 12) | Not yet taught (NT) and language support (L) |
 |---|---|---|---|---|
 | Maths | ___ / ___ | [[scale:1,2,3,4]] | ___ / ___ &nbsp; ___ / ___ &nbsp; ___ / 12 | |
 | Science (Years 5 to 10) | ___ / ___ | [[scale:1,2,3,4]] | | |
 
-**1** Well below expected (Years 7 to 10: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The Years 7 to 10 papers are harder, so their boundaries are lower. Strong number problems with weak word problems may be an English barrier, not a maths difficulty. Years 7 to 10: strong fluency and word questions with weak applied problems means teaching in problem solving, not more content. NT questions score 0: say whether the student is likely to reach the expected band once taught.
+**1** Well below expected (Years 7 to 12: below expected), **2** Working towards, **3** Expected, **4** Greater depth. The Years 7 to 12 papers are harder, so their boundaries are lower. Strong number problems with weak word problems may be an English barrier, not a maths difficulty. Years 7 to 12: strong fluency and word questions with weak applied problems means teaching in problem solving, not more content. NT questions score 0: say whether the student is likely to reach the expected band once taught.
 
-**Year 10 only: readiness for IGCSE** (grading sheet; Year 10 instructions, Section 6). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet.
+**Years 10 and 11: readiness for IGCSE** (grading sheet; Section 6 of the year's instructions). English course: [[tick]] First Language [[tick]] English as a Second Language [[tick]] to decide. Maths tier: [[tick]] Extended [[tick]] Core [[tick]] to decide. Overall: [[tick]] Ready [[tick]] Ready with support [[tick]] Not yet [[tick]] (Year 11) start in Year 10.
+
+**Years 11 and 12: optional sciences and cognitive ability screen** (grading sheet). Biology ___ / 15 band ___ &nbsp; Chemistry ___ / 15 band ___ &nbsp; Physics ___ / 15 band ___ (blank if not taken). Cognitive screen: non-verbal ___ / 12 &nbsp; quantitative ___ / 12 &nbsp; verbal ___ / 12 &nbsp; processing speed ___ / 60. Profile note: ____________________ (for planning support, never for selection). **Year 12: readiness for A Level** (Section 6 of the Year 12 instructions): [[tick]] Ready [[tick]] Ready with support [[tick]] Pre-A Level year advised [[tick]] Not yet.
 
 ## 3. Suitability
 
