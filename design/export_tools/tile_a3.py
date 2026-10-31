@@ -1,5 +1,5 @@
 """Tile a one-page vector map onto A3 portrait sheets with glue strips, plus an assembly guide page.
-Usage: python3 tile.py src.pdf out.pdf HEIGHT_MM"""
+Usage: python3 tile_a3.py src.pdf out.pdf HEIGHT_MM [MARGIN_MM]"""
 import sys, math
 import pikepdf
 from pikepdf import Name, Dictionary, Array
@@ -7,7 +7,7 @@ from pikepdf import Name, Dictionary, Array
 src_path, out_path, H_MM = sys.argv[1], sys.argv[2], float(sys.argv[3])
 MM = 72 / 25.4
 A3W, A3H = 297, 420           # portrait sheet, mm
-MARGIN = 7.5                  # white border the printer leaves; trimmed off
+MARGIN = float(sys.argv[4]) if len(sys.argv) > 4 else 7.5   # white border the printer leaves; trimmed off
 OVER = 12                     # glue strip, mm
 CW, CH = A3W - 2 * MARGIN, A3H - 2 * MARGIN   # printed map area per sheet
 SX, SY = CW - OVER, CH - OVER                 # step between sheets
@@ -66,7 +66,7 @@ for i, line in enumerate([
         ('/F1', 10.5, '2. Build row 1 from left to right: lay A1, then lay B1 on top of A1\'s grey glue strip so the pictures match. Glue on the strip only.'),
         ('/F1', 10.5, '3. Build rows 2 and 3 the same way, then lay row 2 over the bottom glue strip of row 1, and row 3 over row 2.'),
         ('/F1', 10.5, f'The grey strips ({OVER} mm) are covered by the next sheet, so they never show. Tape the back of the joins for strength.'),
-        ('/F1', 10.5, f'The map keeps its proportions, so it is {W_MM / 10:.1f} cm wide: on a 175 cm table this leaves about {(1750 - W_MM) / 20:.0f} cm spare at each end.')]):
+        ('/F1', 10.5, f'The map keeps its proportions, so it is {W_MM / 10:.1f} cm wide: on a 180 x 120 cm table this leaves about {(1800 - W_MM) / 20:.0f} cm spare at each end.')]):
     f, size, t = line
     ops += text(20 * MM, (L - i * 7.5 - (2 if i else 0)) * MM, size, t, f, 0 if i == 0 else 0.15)
 add_page(GW, GH, ops)
