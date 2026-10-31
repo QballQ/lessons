@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 230" width="400" height="230">
+  <title>A boiling tube held at an angle in a clamp, with white powder labelled calcium carbonate at its closed end. A Bunsen burner flame heats the end of the tube. Gas leaves the open end of the tube, shown by three small arrows labelled carbon dioxide.</title>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker></defs>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 60 150 L 220 60 L 232 78 L 86 162 Q 68 170 60 150 Z" fill="#fff"/>
+    <path d="M 70 152 L 100 136 L 112 156 L 84 162 Q 70 166 70 152 Z" fill="#bdbdbd" stroke-width="1.5"/>
+    <rect x="150" y="84" width="44" height="14" rx="3" transform="rotate(-30 172 91)" fill="#e6e6e6"/>
+    <line x1="172" y1="102" x2="172" y2="210" stroke-width="4"/>
+    <rect x="130" y="210" width="90" height="12" fill="#7a7a7a"/>
+    <path d="M 70 210 L 90 210 L 90 180 L 70 180 Z" fill="#7a7a7a"/>
+    <path d="M 60 210 L 100 210 L 100 218 L 60 218 Z" fill="#bdbdbd"/>
+    <path d="M 68 180 Q 80 150 92 180 Z" fill="#e6e6e6" stroke-width="1.8"/>
+    <path d="M 74 180 Q 80 164 86 180 Z" fill="#7a7a7a" stroke-width="1"/>
+  </g>
+  <line x1="238" y1="60" x2="276" y2="40" stroke="#111" stroke-width="1.8" marker-end="url(#ah)"/>
+  <line x1="244" y1="72" x2="284" y2="56" stroke="#111" stroke-width="1.8" marker-end="url(#ah)"/>
+  <line x1="246" y1="84" x2="286" y2="74" stroke="#111" stroke-width="1.8" marker-end="url(#ah)"/>
+  <text x="292" y="52" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">carbon dioxide</text>
+  <text x="292" y="72" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">gas</text>
+  <text x="20" y="130" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">calcium</text>
+  <text x="20" y="148" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">carbonate</text>
+  <line x1="78" y1="140" x2="88" y2="146" stroke="#111" stroke-width="1.5"/>
+  <text x="110" y="200" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">heat</text>
+  <text x="300" y="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" fill="#111">clamp</text>
+  <line x1="296" y1="146" x2="196" y2="92" stroke="#111" stroke-width="1.2"/>
+</svg>

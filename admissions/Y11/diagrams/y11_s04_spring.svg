@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 230" width="330" height="230">
+  <title>Two springs hanging from a bar. The left spring has no load. The right spring has a weight hanging from it and is longer. A dimension line beside the right spring is labelled extension. A ruler is drawn beside the springs.</title>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker></defs>
+  <rect x="20" y="10" width="290" height="12" fill="#7a7a7a" stroke="#111" stroke-width="2"/>
+  <path d="M 90 22 L 90 34 L 78 40 L 102 46 L 78 52 L 102 58 L 78 64 L 102 70 L 78 76 L 102 82 L 78 88 L 102 94 L 78 100 L 90 106 L 90 118" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 200 22 L 200 34 L 188 44 L 212 54 L 188 64 L 212 74 L 188 84 L 212 94 L 188 104 L 212 114 L 188 124 L 212 134 L 188 144 L 200 154 L 200 166" fill="none" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="182" y="166" width="36" height="30" rx="3" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="200" y="186" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#111">load</text>
+  <line x1="90" y1="118" x2="260" y2="118" stroke="#111" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="200" y1="166" x2="260" y2="166" stroke="#111" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="250" y1="118" x2="250" y2="166" stroke="#111" stroke-width="2" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <text x="258" y="146" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" font-weight="700" fill="#111">extension</text>
+  <text x="90" y="216" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">no load</text>
+  <text x="200" y="216" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">with a load</text>
+</svg>

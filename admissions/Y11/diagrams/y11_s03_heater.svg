@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <title>A beaker of water with an electric heater and a thermometer in it. A label says 0.5 kg of water. The thermometer reading changes from 20 degrees Celsius to 40 degrees Celsius.</title>
+  <g stroke="#111" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M 60 40 L 60 170 Q 60 184 74 184 L 206 184 Q 220 184 220 170 L 220 40" fill="#fff"/>
+    <path d="M 62 80 L 218 80 L 218 170 Q 218 182 206 182 L 74 182 Q 62 182 62 170 Z" fill="#e6e6e6" stroke="none"/>
+    <line x1="62" y1="80" x2="218" y2="80" stroke-width="1.5"/>
+    <rect x="94" y="14" width="22" height="150" rx="6" fill="#bdbdbd"/>
+    <path d="M 100 30 L 110 30 M 100 44 L 110 44 M 100 58 L 110 58 M 100 72 L 110 72" stroke-width="1.5"/>
+    <line x1="105" y1="14" x2="105" y2="0" stroke-width="3"/>
+    <rect x="166" y="20" width="12" height="140" rx="6" fill="#fff" stroke-width="2"/>
+    <rect x="169" y="100" width="6" height="56" fill="#7a7a7a" stroke="none"/>
+    <circle cx="172" cy="158" r="8" fill="#7a7a7a"/>
+  </g>
+  <text x="140" y="210" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#111">0.5 kg of water</text>
+  <text x="250" y="60" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">heater</text>
+  <line x1="246" y1="56" x2="118" y2="52" stroke="#111" stroke-width="1.2"/>
+  <text x="250" y="110" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" fill="#111">thermometer</text>
+  <line x1="246" y1="106" x2="180" y2="100" stroke="#111" stroke-width="1.2"/>
+  <text x="250" y="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#111">20 °C to 40 °C</text>
+</svg>

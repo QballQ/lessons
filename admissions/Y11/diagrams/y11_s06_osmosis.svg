@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 190" width="660" height="190">
+  <title>Five beakers in a row, each holding a sugar solution and one piece of potato of the same size. The beakers are labelled 0%, 5%, 10%, 15% and 20% sugar.</title>
+  <path d="M 30 30 L 30 130 Q 30 140 40 140 L 110 140 Q 120 140 120 130 L 120 30" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 32 60 L 118 60 L 118 130 Q 118 138 110 138 L 40 138 Q 32 138 32 130 Z" fill="#e6e6e6" stroke="none"/>
+  <line x1="32" y1="60" x2="118" y2="60" stroke="#111" stroke-width="1.5"/>
+  <rect x="58" y="98" width="34" height="34" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="75" y="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">0% sugar</text>
+  <path d="M 158 30 L 158 130 Q 158 140 168 140 L 238 140 Q 248 140 248 130 L 248 30" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 160 60 L 246 60 L 246 130 Q 246 138 238 138 L 168 138 Q 160 138 160 130 Z" fill="#e6e6e6" stroke="none"/>
+  <line x1="160" y1="60" x2="246" y2="60" stroke="#111" stroke-width="1.5"/>
+  <rect x="186" y="98" width="34" height="34" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="203" y="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">5% sugar</text>
+  <path d="M 286 30 L 286 130 Q 286 140 296 140 L 366 140 Q 376 140 376 130 L 376 30" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 288 60 L 374 60 L 374 130 Q 374 138 366 138 L 296 138 Q 288 138 288 130 Z" fill="#e6e6e6" stroke="none"/>
+  <line x1="288" y1="60" x2="374" y2="60" stroke="#111" stroke-width="1.5"/>
+  <rect x="314" y="98" width="34" height="34" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="331" y="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">10% sugar</text>
+  <path d="M 414 30 L 414 130 Q 414 140 424 140 L 494 140 Q 504 140 504 130 L 504 30" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 416 60 L 502 60 L 502 130 Q 502 138 494 138 L 424 138 Q 416 138 416 130 Z" fill="#e6e6e6" stroke="none"/>
+  <line x1="416" y1="60" x2="502" y2="60" stroke="#111" stroke-width="1.5"/>
+  <rect x="442" y="98" width="34" height="34" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="459" y="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">15% sugar</text>
+  <path d="M 542 30 L 542 130 Q 542 140 552 140 L 622 140 Q 632 140 632 130 L 632 30" fill="#fff" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 544 60 L 630 60 L 630 130 Q 630 138 622 138 L 552 138 Q 544 138 544 130 Z" fill="#e6e6e6" stroke="none"/>
+  <line x1="544" y1="60" x2="630" y2="60" stroke="#111" stroke-width="1.5"/>
+  <rect x="570" y="98" width="34" height="34" rx="4" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+  <text x="587" y="170" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">20% sugar</text>
+  <text x="650" y="22" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="end" fill="#111">potato piece in each beaker</text>
+</svg>

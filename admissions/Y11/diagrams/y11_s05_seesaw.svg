@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 190" width="460" height="190">
+  <title>A seesaw balanced on a pivot at its centre. Jun sits on the left, 1.5 metres from the pivot, with his weight 400 N shown by a downward arrow. Mei sits on the right, 2 metres from the pivot, with her weight shown by a downward arrow labelled F. Not drawn accurately.</title>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#111"/></marker></defs>
+  <rect x="40" y="100" width="380" height="10" fill="#e6e6e6" stroke="#111" stroke-width="2.2"/>
+  <path d="M 210 110 L 230 110 L 220 140 Z" fill="#7a7a7a" stroke="#111" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="20" y1="140" x2="440" y2="140" stroke="#111" stroke-width="2"/>
+  <g stroke="#111" stroke-width="2.2" stroke-linecap="round">
+    <circle cx="100" cy="58" r="10" fill="#fff"/>
+    <path d="M 100 68 L 100 92 M 100 76 L 86 86 M 100 76 L 114 86 M 100 92 L 90 100 M 100 92 L 110 100" fill="none"/>
+    <circle cx="380" cy="58" r="10" fill="#fff"/>
+    <path d="M 380 68 L 380 92 M 380 76 L 366 86 M 380 76 L 394 86 M 380 92 L 370 100 M 380 92 L 390 100" fill="none"/>
+  </g>
+  <text x="100" y="40" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">Jun</text>
+  <text x="380" y="40" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" fill="#111">Mei</text>
+  <line x1="130" y1="104" x2="130" y2="132" stroke="#111" stroke-width="2.2" marker-end="url(#ah)"/>
+  <text x="138" y="128" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="16" font-weight="700" fill="#111">400 N</text>
+  <line x1="350" y1="104" x2="350" y2="132" stroke="#111" stroke-width="2.2" marker-end="url(#ah)"/>
+  <text x="358" y="128" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" font-weight="700" font-style="italic" fill="#111">F</text>
+  <line x1="100" y1="160" x2="220" y2="160" stroke="#111" stroke-width="1.8" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <line x1="220" y1="160" x2="380" y2="160" stroke="#111" stroke-width="1.8" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <line x1="220" y1="150" x2="220" y2="170" stroke="#111" stroke-width="1.2"/>
+  <line x1="100" y1="150" x2="100" y2="170" stroke="#111" stroke-width="1.2"/>
+  <line x1="380" y1="150" x2="380" y2="170" stroke="#111" stroke-width="1.2"/>
+  <text x="160" y="182" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">1.5 m</text>
+  <text x="300" y="182" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="700" fill="#111">2 m</text>
+  <text x="8" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="13" font-style="italic" fill="#111">Not drawn accurately</text>
+</svg>

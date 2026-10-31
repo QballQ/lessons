@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 300" width="340" height="300">
+  <title>A circle with centre O. Points A, B, C and D lie on the circle. B is on the major arc and D is on the minor arc, so ABCD is a cyclic quadrilateral. Straight lines join O to A and O to C, and the angle AOC is marked 136 degrees. Lines join A to B, B to C, C to D and D to A. Not drawn accurately.</title>
+  <circle cx="170" cy="158" r="118" fill="none" stroke="#111" stroke-width="2.2"/>
+  <line x1="104.0" y1="255.8" x2="85.1" y2="76.0" stroke="#111" stroke-width="2"/>
+  <line x1="85.1" y1="76.0" x2="285.4" y2="133.5" stroke="#111" stroke-width="2"/>
+  <line x1="285.4" y1="133.5" x2="221.7" y2="264.1" stroke="#111" stroke-width="2"/>
+  <line x1="221.7" y1="264.1" x2="104.0" y2="255.8" stroke="#111" stroke-width="2"/>
+  <line x1="170.0" y1="158.0" x2="104.0" y2="255.8" stroke="#111" stroke-width="1.8"/>
+  <line x1="170.0" y1="158.0" x2="285.4" y2="133.5" stroke="#111" stroke-width="1.8"/>
+  <path d="M 155.5 179.6 A 26 26 0 0 0 195.4 152.6" fill="none" stroke="#111" stroke-width="1.6"/>
+  <text x="196.8" y="203.8" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" font-weight="700" fill="#111">136°</text>
+  <circle cx="170" cy="158" r="3" fill="#111"/>
+  <text x="164" y="150" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="end" fill="#111" font-style="italic">O</text>
+  <circle cx="104.0" cy="255.8" r="3" fill="#111"/>
+  <text x="88.0" y="265.8" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111" font-style="italic">A</text>
+  <circle cx="85.1" cy="76.0" r="3" fill="#111"/>
+  <text x="71.1" y="70.0" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111" font-style="italic">B</text>
+  <circle cx="285.4" cy="133.5" r="3" fill="#111"/>
+  <text x="301.4" y="137.5" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111" font-style="italic">C</text>
+  <circle cx="221.7" cy="264.1" r="3" fill="#111"/>
+  <text x="229.7" y="286.1" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="17" text-anchor="middle" fill="#111" font-style="italic">D</text>
+  <text x="8" y="18" font-family="Atkinson Hyperlegible, Noto Sans, sans-serif" font-size="14" text-anchor="start" fill="#111" font-style="italic">Not drawn accurately</text>
+</svg>

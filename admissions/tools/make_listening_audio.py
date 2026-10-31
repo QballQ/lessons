@@ -108,6 +108,14 @@ YEARS = {
              intro='Now turn to Part B, on page 4. You will hear a talk by a scientist, Professor Zhou Lan, about the '
                    'climate of cities. You will hear it two times. First, you have one minute to read questions 9 '
                    'to 16.')]),
+    11: dict(kind='parts', announcer=M1, fixed_speed=FIXED_SPEED, parts=[
+        dict(name='A', voices={'Li Na': F1, 'Receptionist': M2}, default=F1, finish=60,
+             intro='Turn to the Listening page. There are two parts. In Part A, you will hear a conversation between a '
+                   'student, Li Na, and a receptionist at a sports centre. You will hear it two times. First, you have '
+                   'one minute to read questions 1 to 8.'),
+        dict(name='B', voices={}, default=M2, finish=60,
+             intro='Now turn to Part B, on page 4. You will hear a talk by an engineer, Dr Lin Feng, about a building '
+                   'material. You will hear it two times. First, you have one minute to read questions 9 to 16.')]),
     12: dict(kind='parts', announcer=M1, fixed_speed=FIXED_SPEED, parts=[
         dict(name='A', voices={'Li Na': F1, 'Chen Yu': M2}, default=F1, finish=60,
              intro='Turn to the Listening page. There are two parts. In Part A, you will hear a phone conversation '
@@ -123,7 +131,7 @@ YEARS = {
 SAY = {'Dr ': 'Doctor ', 'Mr ': 'Mister ', 'Ms ': 'Miz ', 'Liu Yan': 'Lyo Yen', 'Liu': 'Lyo', 'Zhou Lan': 'Joe Lan',
        'Zhou': 'Joe', 'Zhang': 'Jahng', 'Shenzhen': 'Shen-jen', 'Hangzhou': 'Hahng-joe', 'Fujian': 'Foo-jen',
        'Shennong': 'Shun-nong', 'Lu Yu': 'Loo Yoo', 'Namib': 'Nah-mib', 'Chen Yu': 'Chun Yoo', 'Chen': 'Chun',
-       'Wang Hao': 'Wahng How'}
+       'Wang Hao': 'Wahng How', 'Lin Feng': 'Lin Fung'}
 
 
 # Names the voice says wrongly unless they are respelled (checked with a speech recogniser); whole words only.
