@@ -3,12 +3,14 @@
 Usage:  python3 build_all.py            # everything
         python3 build_all.py 9A_L01 9A_L02   # some lessons
         python3 build_all.py --no-pdf    # skip LibreOffice (faster while editing)
+        python3 build_all.py --cards     # only the exercise-book cards (and their PDFs)
 Needs:  node with pptxgenjs, docx and sharp (NODE_PATH or node_modules next to this file), python3 with Pillow,
         LibreOffice (soffice) for the PDFs. The pptx skill folder gives validate.py and apply_theme.js
         (PPTX_SKILL_DIR, defaulting to the path in build_pptx.js).
 """
 import json, os, re, subprocess, sys, glob, shutil
 from PIL import Image, ImageOps
+from pypdf import PdfReader
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, '..')
@@ -39,32 +41,56 @@ def grey_copies():
             im = ImageOps.autocontrast(im, cutoff=1)
             im.save(out, 'PNG', optimize=True)
 
-def build_lesson(path, pdf=True):
+def build_lesson(path, pdf=True, cards_only=False):
     lesson = json.load(open(path, encoding='utf-8'))
     unit_dir = os.path.join(ROOT, UNIT_DIR[lesson['unit']])
     os.makedirs(unit_dir, exist_ok=True)
     base = f"{lesson['id']}_{lesson['slug']}"
     pptx = os.path.join(unit_dir, base + '.pptx')
-    run(['node', os.path.join(HERE, 'build_pptx.js'), path, pptx])
-    if os.path.exists(VALIDATE):
-        r = subprocess.run([sys.executable, VALIDATE, pptx], text=True, capture_output=True)
-        tail = (r.stdout + r.stderr).strip().splitlines()[-1:]
-        print('validate:', tail[0] if tail else r.returncode)
-        if r.returncode != 0:
-            print(r.stdout[-3000:]); raise SystemExit('pptx validation failed: ' + pptx)
     docs = []
-    for suffix, flag in [('_Worksheet', []), ('_Worksheet_CN', ['--cn'])]:
+    if not cards_only:
+        run(['node', os.path.join(HERE, 'build_pptx.js'), path, pptx])
+        if os.path.exists(VALIDATE):
+            r = subprocess.run([sys.executable, VALIDATE, pptx], text=True, capture_output=True)
+            tail = (r.stdout + r.stderr).strip().splitlines()[-1:]
+            print('validate:', tail[0] if tail else r.returncode)
+            if r.returncode != 0:
+                print(r.stdout[-3000:]); raise SystemExit('pptx validation failed: ' + pptx)
+        for suffix, flag in [('_Worksheet', []), ('_Worksheet_CN', ['--cn'])]:
+            docx = os.path.join(unit_dir, base + suffix + '.docx')
+            run(['node', os.path.join(HERE, 'build_worksheet.js'), path, docx] + flag)
+            docs.append(docx)
+    cards = []
+    for suffix, flag in [('_Cards', []), ('_Cards_CN', ['--cn'])]:
         docx = os.path.join(unit_dir, base + suffix + '.docx')
-        run(['node', os.path.join(HERE, 'build_worksheet.js'), path, docx] + flag)
-        docs.append(docx)
+        n = card_count(run(['node', os.path.join(HERE, 'build_cards.js'), path, docx] + flag))
+        if pdf:
+            # every card must fit its page: if LibreOffice needs more pages than there are cards, pack less per card and try again
+            for scale in (0.95, 0.9, 0.85, 0.75):
+                run([sys.executable, SOFFICE, '--headless', '--convert-to', 'pdf', '--outdir', unit_dir, docx])
+                pages = len(PdfReader(docx[:-5] + '.pdf').pages)
+                if pages == n: break
+                print(f'  {os.path.basename(docx)}: {n} cards but {pages} pages, repacking at {scale}')
+                n = card_count(run(['node', os.path.join(HERE, 'build_cards.js'), path, docx, f'--budget={scale}'] + flag))
+            else:
+                run([sys.executable, SOFFICE, '--headless', '--convert-to', 'pdf', '--outdir', unit_dir, docx])
+                pages = len(PdfReader(docx[:-5] + '.pdf').pages)
+                if pages != n: raise SystemExit(f'card overflow not fixed: {docx} ({n} cards, {pages} pages)')
+            run([sys.executable, os.path.join(HERE, 'twoup.py'), docx[:-5] + '.pdf', docx[:-5] + '_A4.pdf'])   # two A5 cards per A4 sheet
+        cards.append(docx)
     if pdf:
         for d in docs:
             run([sys.executable, SOFFICE, '--headless', '--convert-to', 'pdf', '--outdir', unit_dir, d])
-    return pptx, docs
+    return pptx, docs + cards
+
+def card_count(stdout):
+    m = re.search(r'(\d+) cards', stdout)
+    return int(m.group(1)) if m else -1
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     pdf = '--no-pdf' not in sys.argv
+    cards_only = '--cards' in sys.argv
     if '--diagrams' in sys.argv or not os.path.isdir(os.path.join(HERE, 'diagrams')):
         run([sys.executable, os.path.join(HERE, 'make_diagrams.py')])
         run(['node', os.path.join(HERE, 'svg2png.js')])
@@ -73,7 +99,7 @@ def main():
     if args: files = [f for f in files if os.path.splitext(os.path.basename(f))[0] in args]
     for f in files:
         print('=== ', os.path.basename(f))
-        build_lesson(f, pdf)
+        build_lesson(f, pdf, cards_only)
     print('done', len(files), 'lessons')
 
 if __name__ == '__main__':

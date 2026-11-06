@@ -1,6 +1,6 @@
 # Year 9 Science: Biology teaching plan (9A, 9B, 9C)
 
-Exploring Science International 9 | Built 28 October 2026 | Chinese text status: draft, needs native-speaker check
+Exploring Science International 9 | Built 06 November 2026 | Chinese text status: draft, needs native-speaker check
 
 ## 1. Overview
 
@@ -183,7 +183,8 @@ The content follows the Student Book spread by spread, so students can read the 
 
 ## Files and how to rebuild
 
-- `9A_Genetics_and_evolution/`, `9B_Plant_growth/`, `9C_Threat_from_disease/`: for each lesson `9X_L0n_Title.pptx`, `..._Worksheet.docx` and `.pdf`, `..._Worksheet_CN.docx` and `.pdf`; plus `9X_Teacher_Guide.docx` and `.md`.
+- `9A_Genetics_and_evolution/`, `9B_Plant_growth/`, `9C_Threat_from_disease/`: for each lesson `9X_L0n_Title.pptx`; the exercise-book cards `..._Cards_A4.pdf` (two A5 cards per A4 sheet, ready to print and cut; `_Cards_CN_A4.pdf` with the Chinese vocabulary column; `.docx` and single-card `.pdf` alongside); the full worksheets `..._Worksheet.docx` and `.pdf`, `..._Worksheet_CN.docx` and `.pdf`; plus `9X_Teacher_Guide.docx` and `.md`.
+- The cards are the default for the exercise book: 01 Lesson (date, the two goals, what happens today, a "what I learned" band), 02 Key vocabulary, 03 Quick review (the Do Now), then Core, Challenge and the Exit ticket, each with grey writing bands. Stretch tasks are only on the full worksheet.
 - `00_Teaching_Plan/`: this plan as `.docx` and `.md`.
 - `images/`: every photograph used, with `Image_Register.md` (source, author, licence) and `Image_Check_Sheet.pdf` (one row per picture with a box to tick once it has been checked for clarity on the classroom screen). Diagrams drawn for the lessons are in `source/diagrams/`.
 - `source/`: the lesson content (`content/9X_L0n.json`), the builders (`build_all.py`, `build_pptx.js`, `build_worksheet.js`, `build_docs.py`, `make_diagrams.py`), the Chinese glossary and the command words list. To change a lesson, edit its JSON file and run `python3 source/build_all.py 9X_L0n` (needs node with pptxgenjs, docx and sharp, python3 with Pillow and python-docx, and LibreOffice for the PDFs).
