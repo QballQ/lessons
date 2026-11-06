@@ -1,9 +1,10 @@
-/* Build a pack of A5 landscape cards for exercise books from a lesson content JSON (.docx, greyscale).
-   Usage: node build_cards.js content/9A_L01.json out.docx [--cn] [--budget=0.85]
+/* Build a pack of A6 landscape cards for exercise books from a lesson content JSON (.docx, greyscale).
+   Usage: node build_cards.js content/9A_L01.json out.docx [--cn] [--size=a5] [--budget=0.85]
    Cards: 01 Lesson (date, goals, what happens today) · 02 Key vocabulary · 03 Quick review (the Do Now)
           · Core tasks · Challenge tasks · Exit ticket.  Each card is its own page with a card number footer.
    --cn adds the 中文 column to the vocabulary card and glosses the command words.
-   Print two cards per A4 portrait sheet with twoup.py (it stacks the A5 landscape pages).
+   --size=a5 builds the larger A5 landscape cards instead (default a6: 14.8 x 10.5 cm, four per A4 sheet).
+   Print with twoup.py, which lays the cards out on A4 sheets (four A6 cards per landscape sheet).
 */
 const fs = require('fs');
 const path = require('path');
@@ -16,12 +17,27 @@ const COMMAND_WORDS = JSON.parse(fs.readFileSync(path.join(HERE, 'command_words.
 
 const FONT = { ascii: 'Arial', hAnsi: 'Arial', cs: 'Arial', eastAsia: 'Microsoft YaHei' };
 const DARK = '333333', MID = '777777', BAND = 'EDEDED', ROW = 'F4F4F4';
-// A5 landscape: 21.0 x 14.8 cm; margins 1.0 cm
-const PAGE_W = 11906, PAGE_H = 8391, MARGIN = 567;
-const CW = PAGE_W - 2 * MARGIN;   // 10772 DXA = 19 cm
-const BODY = 22, SMALL = 20, TBL = 18, CAP = 15;   // half-points: 11, 10, 9, 7.5 pt
-const LINE_H = 440;                 // twips: height of one handwriting line in a band (0.78 cm)
-const BUDGET = 10.4;                // cm of content a card holds between its title block and the footer (measured; scaled by --budget=0.85 if a pack still overflows)
+// Card sizes. Lengths in DXA (twentieths of a point), font sizes in half-points, heights in cm (measured on the LibreOffice render).
+const SIZES = {
+  // A6 landscape: 14.8 x 10.5 cm, margins 0.6 cm, 8 pt text; four cards per A4 landscape sheet
+  a6: { page_w: 8391, page_h: 5953, margin: 340, bottom: 300, footer: 120, border_space: 4,
+        body: 17, small: 16, tbl: 14, cap: 12, title: 28, kicker: 12, sub: 14, foot: 11, check: 19,
+        line_h: 400, budget: 7.7, cpl: 84, txt: 0.38, band_fixed: 0.52, band_pad: 60, spacer: 120, wlines: [2, 2, 3, 4],
+        row: 0.5, mcq: 0.42, gap: 0.55, img_w: 230, img_h: 130, grid_w: 330, grid_h: 150, box_max: 5, review_lines: 1 },
+  // A5 landscape: 21.0 x 14.8 cm, margins 1.0 cm, 10 pt text; two cards per A4 portrait sheet
+  a5: { page_w: 11906, page_h: 8391, margin: 567, bottom: 520, footer: 708, border_space: 12,
+        body: 22, small: 20, tbl: 18, cap: 15, title: 40, kicker: 16, sub: 18, foot: 14, check: 24,
+        line_h: 440, budget: 10.4, cpl: 112, txt: 0.46, band_fixed: 0.7, band_pad: 80, spacer: 180, wlines: [2, 3, 4, 5],
+        row: 0.52, mcq: 0.55, gap: 0.7, img_w: 300, img_h: 190, grid_w: 440, grid_h: 200, box_max: 7, review_lines: 2 },
+};
+let SZ, PAGE_W, PAGE_H, MARGIN, CW, BODY, SMALL, TBL, CAP, LINE_H, BUDGET;
+function setSize(name) {
+  SZ = SIZES[name] || SIZES.a6;
+  PAGE_W = SZ.page_w; PAGE_H = SZ.page_h; MARGIN = SZ.margin; CW = PAGE_W - 2 * MARGIN;
+  BODY = SZ.body; SMALL = SZ.small; TBL = SZ.tbl; CAP = SZ.cap; LINE_H = SZ.line_h;
+  BUDGET = SZ.budget;   // cm of content a card holds between its title block and the footer (scaled by --budget=0.85 if a pack still overflows)
+}
+setSize('a6');
 const FLEX = 1.03;                  // a short last unit may overrun the budget by this factor rather than start a near-empty card
 
 const none = { style: BorderStyle.NONE, size: 0, color: 'FFFFFF' };
@@ -59,21 +75,21 @@ function credit(ref) {
 // --- card chrome ---
 function cardHead(kicker, title, subtitle) {
   const out = [];
-  out.push(para([run(kicker.toUpperCase(), { size: 16, color: MID, spacing: 40 })], { after: 20 }));
-  out.push(para([run(title, { bold: true, size: 40 })], { after: subtitle ? 0 : 100 }));
-  if (subtitle) out.push(para([run(subtitle, { size: 18, italics: true, color: MID })], { after: 100 }));
+  out.push(para([run(kicker.toUpperCase(), { size: SZ.kicker, color: MID, spacing: 40 })], { after: 20 }));
+  out.push(para([run(title, { bold: true, size: SZ.title })], { after: subtitle ? 0 : 80 }));
+  if (subtitle) out.push(para([run(subtitle, { size: SZ.sub, italics: true, color: MID })], { after: 80 }));
   return out;
 }
 const badge = (n) => run(` ${n} `, { bold: true, size: SMALL, color: 'FFFFFF', shade: DARK });
-const writingLines = (lines) => lines >= 4 ? 5 : lines === 3 ? 4 : lines === 2 ? 3 : 2;
+const writingLines = (lines) => SZ.wlines[Math.min(Math.max(lines || 1, 1), 4) - 1];   // writing lines in a band for a question that asks for 1, 2, 3 or 4+ lines
 // a grey band holding a question and writing space (blank lines inside the band)
 function band(out, runs, lines) {
   const kids = [para(runs, { after: 0, keepNext: true, shade: BAND, line: 276 })];
-  for (let i = 0; i < lines; i++) kids.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, shading: { type: ShadingType.CLEAR, fill: BAND, color: 'auto' } }));   // exact: a writing line is 0.78 cm in Word and LibreOffice alike
-  out.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(kids, CW, { shade: BAND, pad: 80 })] })], width: { size: CW, type: WidthType.DXA }, columnWidths: [CW], borders: noBorders, layout: docx.TableLayoutType.FIXED }));
-  out.push(para(' ', { after: 0, line: 180 }));
+  for (let i = 0; i < lines; i++) kids.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, shading: { type: ShadingType.CLEAR, fill: BAND, color: 'auto' } }));   // exact: a writing line is the same height in Word and LibreOffice
+  out.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(kids, CW, { shade: BAND, pad: SZ.band_pad })] })], width: { size: CW, type: WidthType.DXA }, columnWidths: [CW], borders: noBorders, layout: docx.TableLayoutType.FIXED }));
+  out.push(para(' ', { after: 0, line: SZ.spacer }));
 }
-const emptyRowH = (t) => Math.min(Math.max(t.row_h || 400, 400), 3000);   // twips; a drawing row can be up to 5.3 cm
+const emptyRowH = (t) => Math.min(Math.max(t.row_h || 400, 400), SZ === SIZES.a6 ? 2000 : 3000);   // twips; a drawing row can be up to 3.5 cm (A6) or 5.3 cm (A5)
 function dataTable(t, width) {
   const ncol = t.headers.length;
   const total = width - 60;
@@ -99,39 +115,51 @@ const hasPieces = (p) => !!(p.table || p.match || p.mcq || p.gap_lines || p.grid
 // pieces of a task that are not plain writing: tables, matching, images, mcq, gap fill, grid, box
 function pieces(q, out, cn) {
   if (q.image) {
-    const ir = imgRun(q.image, q.image_w ? Math.min(q.image_w, 330) : 300, 190);
+    const ir = imgRun(q.image, q.image_w ? Math.min(q.image_w, SZ.img_w * 1.1) : SZ.img_w, SZ.img_h);
     if (ir) {
       out.push(new Paragraph({ children: [ir], alignment: AlignmentType.CENTER, spacing: { after: 10 }, keepNext: true }));
       const c = credit(q.image); const caps = [];
       if (q.caption) caps.push(run(q.caption, { size: CAP, italics: true }));
-      if (c) caps.push(run((q.caption ? '  ' : '') + c, { size: 12, color: MID }));
+      if (c) caps.push(run((q.caption ? '  ' : '') + c, { size: CAP - 2, color: MID }));
       if (caps.length) out.push(para(caps, { align: AlignmentType.CENTER, after: 40 }));
     }
   }
   if (q.mcq) for (const opt of q.mcq) out.push(para([run('☐  ', { size: BODY }), run(opt, { size: SMALL })], { indent: { left: 300 }, after: 30 }));
-  if (q.table) { out.push(dataTable(q.table, CW)); out.push(para(' ', { after: 0, line: 180 })); }
-  if (q.match) { out.push(matchTable(q.match)); out.push(para(' ', { after: 0, line: 180 })); }
+  if (q.table) { out.push(dataTable(q.table, CW)); out.push(para(' ', { after: 0, line: SZ.spacer })); }
+  if (q.match) { out.push(matchTable(q.match)); out.push(para(' ', { after: 0, line: SZ.spacer })); }
   if (q.gap_lines) for (const g of q.gap_lines) out.push(para(markup(g.replace(/_{6,}/g, '__________'), SMALL), { indent: { left: 200 }, after: 50, line: 360 }));
   if (q.grid) {
-    const ir = imgRun('diagram:graph_grid', 440, 200);
+    const ir = imgRun('diagram:graph_grid', SZ.grid_w, SZ.grid_h);
     if (ir) out.push(new Paragraph({ children: [ir], alignment: AlignmentType.CENTER, spacing: { after: 40 } }));
   }
-  if (q.box) band(out, [run(cn ? 'Draw here.  画在这里。' : 'Draw here.', { size: CAP, italics: true, color: MID })], Math.max(3, Math.round(q.box / 520)));
+  if (q.box) band(out, [run(cn ? 'Draw here.  画在这里。' : 'Draw here.', { size: CAP, italics: true, color: MID })], boxLines(q.box));
 }
 // --- units: a task is split into packable units so a long task can continue on the next card ---
-const lineCount = (t) => Math.max(1, Math.ceil(String(t || '').length / 112));   // 10 pt Arial across 19 cm
-const TXT = 0.46;                                                                  // cm per line of question text
-const rawBandHeight = (n) => 0.7 + (LINE_H / 567) * n;                      // cell padding, question line gap and the spacer after the band, plus n writing lines
+const lineCount = (t) => Math.max(1, Math.ceil(String(t || '').length / SZ.cpl));   // characters per line at the card's text size
+const TXT = () => SZ.txt;                                                              // cm per line of question text
+const boxLines = (box) => Math.min(SZ.box_max, Math.max(3, Math.round(box / 520)));   // writing lines in a drawing box
+const rawBandHeight = (n) => SZ.band_fixed + (LINE_H / 567) * n;             // cell padding, question line gap and the spacer after the band, plus n writing lines
 const bandHeight = (lines) => rawBandHeight(writingLines(lines));
+// height of a table row whose cells may wrap: shares are each column's fraction of the card width
+const rowHeight = (cells, shares) => SZ.row + (SZ.txt - 0.05) * (Math.max(1, ...cells.map((c, i) => Math.ceil(String(c || '').length / Math.max(8, SZ.cpl * (SMALL / TBL) * shares[i])))) - 1);   // table text is smaller than body text
 function pieceHeight(p) {
   let s = 0;
-  if (p.table) s += 0.52 * ((p.table.rows || []).length + 1) + (p.table.empty_rows || 0) * Math.max(0.52, emptyRowH(p.table) / 567 + 0.16) + 0.35;   // measured: 0.5 to 0.55 cm a text row
-  if (p.match) s += 0.55 * Math.max(p.match.left.length, p.match.right.length) + 0.35;
-  if (p.mcq) s += 0.55 * p.mcq.length;
-  if (p.gap_lines) s += 0.7 * p.gap_lines.length;
-  if (p.grid) s += 5.6;
-  if (p.image) s += 5.3 + (p.caption || credit(p.image) ? 0.45 : 0);
-  if (p.box) s += rawBandHeight(Math.max(3, Math.round(p.box / 520)));
+  if (p.table) {
+    const t = p.table, n = t.headers.length;
+    const tot = t.widths ? t.widths.reduce((a, b) => a + b, 0) : n;
+    const shares = t.headers.map((h, i) => (t.widths ? t.widths[i] / tot : 1 / n) * 0.9);
+    s += rowHeight(t.headers, shares) + (t.rows || []).reduce((a, r) => a + rowHeight(r, shares), 0) + (t.empty_rows || 0) * Math.max(SZ.row, emptyRowH(t) / 567 + 0.16) + 0.3;
+  }
+  if (p.match) {
+    const m = p.match, n = Math.max(m.left.length, m.right.length);
+    for (let i = 0; i < n; i++) s += rowHeight([m.left[i], m.right[i]], [0.4, 0.42]);
+    s += 0.3;
+  }
+  if (p.mcq) s += p.mcq.reduce((a, o) => a + SZ.mcq * Math.ceil(String(o).length / (SZ.cpl * 0.9)), 0);          // options can wrap
+  if (p.gap_lines) s += p.gap_lines.reduce((a, g) => a + SZ.gap * Math.ceil(String(g).length / (SZ.cpl * 0.9)), 0);   // so can gap-fill sentences
+  if (p.grid) s += SZ.grid_h / 37.8 + 0.3;                                       // pixels at 96 dpi to cm
+  if (p.image) s += SZ.img_h / 37.8 + 0.3 + (p.caption || credit(p.image) ? SZ.txt : 0);
+  if (p.box) s += rawBandHeight(boxLines(p.box));
   return s;
 }
 function taskUnits(q, label, cn) {
@@ -139,10 +167,10 @@ function taskUnits(q, label, cn) {
   const units = [];
   const simple = !hasPieces(q) && !q.parts;
   if (simple) {
-    units.push({ h: TXT * lineCount(q.q) + bandHeight(q.lines || 1), render: (out) => band(out, [badge(label), run('  '), ...markup(q.q, SMALL)], writingLines(q.lines || 1)) });
+    units.push({ h: TXT() * lineCount(q.q) + bandHeight(q.lines || 1), render: (out) => band(out, [badge(label), run('  '), ...markup(q.q, SMALL)], writingLines(q.lines || 1)) });
     return units;
   }
-  const stemH = TXT * lineCount(q.q) + 0.25 + pieceHeight(q) + (!q.parts && q.lines ? bandHeight(q.lines) : 0);
+  const stemH = TXT() * lineCount(q.q) + 0.25 + pieceHeight(q) + (!q.parts && q.lines ? bandHeight(q.lines) : 0);
   const stem = (out) => {
     out.push(para([badge(label), run('  '), ...markup(q.q, SMALL)], { after: 50, keepNext: true }));
     pieces(q, out, cn);
@@ -151,7 +179,7 @@ function taskUnits(q, label, cn) {
   const parts = (q.parts || []).map((p, i) => {
     const lab = (p.label || String.fromCharCode(97 + i)) + ')';
     const pieceful = hasPieces(p);
-    const h = pieceful ? TXT * lineCount(p.text) + 0.25 + pieceHeight(p) + (p.lines ? bandHeight(p.lines) : 0) : TXT * lineCount(p.text) + bandHeight(p.lines || 1);
+    const h = pieceful ? TXT() * lineCount(p.text) + 0.25 + pieceHeight(p) + (p.lines ? bandHeight(p.lines) : 0) : TXT() * lineCount(p.text) + bandHeight(p.lines || 1);
     const render = (out) => {
       if (!pieceful) { band(out, [run(lab + '  ', { bold: true, size: SMALL }), ...markup(p.text, SMALL)], writingLines(p.lines || 1)); return; }
       out.push(para([run(lab + '  ', { bold: true, size: SMALL }), ...markup(p.text, SMALL)], { indent: { left: 200 }, after: 40, keepNext: true }));
@@ -187,7 +215,8 @@ function packUnits(tasks, budget) {
   return cards;
 }
 
-function build(lesson, outFile, cn, budgetScale = 1) {
+function build(lesson, outFile, cn, budgetScale = 1, size = 'a6') {
+  setSize(size);
   const ws = lesson.worksheet;
   const budget = BUDGET * budgetScale;
   const code = `${lesson.unit} L${lesson.lesson}`;
@@ -198,17 +227,17 @@ function build(lesson, outFile, cn, budgetScale = 1) {
   const prac = lesson.slides.find(s => s.type === 'practical');
   const flow = [
     'Do Now: ' + (donow ? donow.title.replace(/^Do Now:\s*/i, '') : 'quick review'),
-    'Learn: ' + learnTitles.slice(0, 3).join(' · ') + (learnTitles.length > 3 ? ' · and more' : ''),
+    'Learn: ' + learnTitles.slice(0, SZ === SIZES.a6 ? 2 : 3).join(' · ') + (learnTitles.length > (SZ === SIZES.a6 ? 2 : 3) ? ' · and more' : ''),
     prac ? 'Practical: ' + prac.title : 'Core tasks',
     'Challenge, then the exit ticket',
   ];
   const l1 = [];
-  l1.push(para([run('Date  ______________________', { size: SMALL }), run('        Class  __________', { size: SMALL })], { after: 120 }));
+  l1.push(para([run('Date  ______________________', { size: SMALL }), run('        Class  __________', { size: SMALL })], { after: 80 }));
   l1.push(para([run(cn ? 'Today I can  今天我能' : 'Today I can', { bold: true, size: BODY })], { after: 40 }));
-  for (const g of lesson.goals) l1.push(para([run('☐  ', { size: 24 }), run(g, { size: SMALL })], { indent: { left: 200 }, after: 40 }));
-  l1.push(para([run('What happens today', { bold: true, size: BODY })], { before: 120, after: 40 }));
-  flow.forEach((f, i) => l1.push(para([badge(i + 1), run('  ' + f, { size: SMALL })], { indent: { left: 200 }, after: 40 })));
-  l1.push(para([run(`Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`, { size: CAP, color: MID })], { before: 80, after: 100 }));
+  for (const g of lesson.goals) l1.push(para([run('☐  ', { size: SZ.check }), run(g, { size: SMALL })], { indent: { left: 200 }, after: 30 }));
+  l1.push(para([run('What happens today', { bold: true, size: BODY })], { before: 80, after: 30 }));
+  flow.forEach((f, i) => l1.push(para([badge(i + 1), run('  ' + f, { size: SMALL })], { indent: { left: 200 }, after: 30 })));
+  l1.push(para([run(`Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`, { size: CAP, color: MID })], { before: 60, after: 80 }));
   band(l1, [run(cn ? 'What I learned today (one or two sentences)  今天我学到了：' : 'What I learned today (one or two sentences)', { bold: true, size: SMALL })], 2);
   cards.push({ kicker: 'Lesson', title: lesson.title, subtitle: `${lesson.unit} ${lesson.unit_title} · Lesson ${lesson.lesson} of ${lesson.n_lessons}`, label: 'LESSON', body: l1 });
   // 02 key vocabulary
@@ -216,11 +245,12 @@ function build(lesson, outFile, cn, budgetScale = 1) {
   const vw = cn ? [Math.floor(CW * 0.27), Math.floor(CW * 0.17), 0] : [Math.floor(CW * 0.3), 0];
   if (cn) vw[2] = CW - vw[0] - vw[1]; else vw[1] = CW - vw[0];
   const vh = cn ? ['Term', '中文', 'Definition'] : ['Term', 'Definition'];
-  const vsize = kw.length > 10 ? 17 : kw.length > 8 ? 18 : 19;
+  const vsize = kw.length > 10 ? TBL - 1 : kw.length > 8 ? TBL : TBL + 1;
+  const vpad = SZ === SIZES.a6 ? (kw.length > 9 ? 18 : 28) : (kw.length > 9 ? 30 : 42);
   const vrows = [new TableRow({ tableHeader: true, cantSplit: true, children: vh.map((h, i) => cell(para([run(h, { bold: true, size: TBL, color: 'FFFFFF' })], { after: 0, align: AlignmentType.CENTER }), vw[i], { shade: DARK, pad: 45 })) })];
   kw.forEach((k, j) => {
     const cells = cn ? [[k.en, true], [k.cn, false], [k.meaning, false]] : [[k.en, true], [k.meaning, false]];
-    vrows.push(new TableRow({ cantSplit: true, children: cells.map(([t, b], i) => cell(para([run(t, { bold: b, size: vsize })], { after: 0 }), vw[i], { shade: j % 2 ? ROW : undefined, pad: kw.length > 9 ? 30 : 42 })) }));
+    vrows.push(new TableRow({ cantSplit: true, children: cells.map(([t, b], i) => cell(para([run(t, { bold: b, size: vsize })], { after: 0 }), vw[i], { shade: j % 2 ? ROW : undefined, pad: vpad })) }));
   });
   const v = [new Table({ rows: vrows, width: { size: CW, type: WidthType.DXA }, columnWidths: vw, borders: noBorders, layout: docx.TableLayoutType.FIXED })];
   if (cn) {
@@ -228,7 +258,7 @@ function build(lesson, outFile, cn, budgetScale = 1) {
     const scan = (q) => { findCommandWords(q.q || '').forEach(x => used.add(x)); (q.parts || []).forEach(p => findCommandWords(p.text || '').forEach(x => used.add(x))); };
     (ws.core || []).forEach(scan); (ws.challenge || []).forEach(scan); (ws.exit || []).forEach(q => findCommandWords(q).forEach(x => used.add(x)));
     const cws = COMMAND_WORDS.filter(c => used.has(c.en));
-    if (cws.length) v.push(para([run('Command words 指令词:  ', { bold: true, size: 16 })].concat(cws.map((c, i) => run(`${c.en} ${c.cn}${i < cws.length - 1 ? '  ·  ' : ''}`, { size: 16 }))), { before: 100, after: 0, line: 260 }));
+    if (cws.length) v.push(para([run('Command words 指令词:  ', { bold: true, size: CAP + 1 })].concat(cws.map((c, i) => run(`${c.en} ${c.cn}${i < cws.length - 1 ? '  ·  ' : ''}`, { size: CAP + 1 }))), { before: 80, after: 0, line: 260 }));
   }
   cards.push({ kicker: 'Key vocabulary', title: 'Key Vocabulary', subtitle: null, label: 'VOCABULARY', body: v });
   // 03 quick review (the Do Now)
@@ -237,7 +267,7 @@ function build(lesson, outFile, cn, budgetScale = 1) {
     const intro = donow.prompt.filter(p => !/^\d+\./.test(p.trim()));
     const r = [];
     if (intro.length) r.push(para(intro.map((t, i) => run(t + (i < intro.length - 1 ? ' ' : ''), { size: SMALL })), { after: 80 }));
-    qs.forEach((q, i) => band(r, [badge(i + 1), run('  ' + q.replace(/^\d+\.\s*/, ''), { size: SMALL })], qs.length > 3 ? 1 : 2));
+    qs.forEach((q, i) => band(r, [badge(i + 1), run('  ' + q.replace(/^\d+\.\s*/, ''), { size: SMALL })], qs.length > 3 ? 1 : SZ.review_lines));
     cards.push({ kicker: 'Quick review', title: 'Quick Review', subtitle: donow.title.replace(/^Do Now:\s*/i, ''), label: 'REVIEW', body: r });
   }
   // core and challenge cards
@@ -257,7 +287,7 @@ function build(lesson, outFile, cn, budgetScale = 1) {
     const e = [];
     e.push(para([run('Name  ______________________________', { size: SMALL })], { after: 80 }));
     ws.exit.forEach((q, i) => band(e, [badge(i + 1), run('  '), ...markup(q, SMALL)], writingLines((ws.exit_lines && ws.exit_lines[i]) || 1) - 1));
-    e.push(para([run('Today I can:  ', { bold: true, size: 18 })].concat(lesson.goals.map((g, i) => run(`Goal ${i + 1} ☐    `, { size: 18 }))), { before: 40, after: 0 }));
+    e.push(para([run('Today I can:  ', { bold: true, size: TBL })].concat(lesson.goals.map((g, i) => run(`Goal ${i + 1} ☐    `, { size: TBL }))), { before: 40, after: 0 }));
     cards.push({ kicker: 'Exit ticket', title: 'Exit Ticket', subtitle: 'Hand this card in at the end of the lesson.', label: 'EXIT', body: e });
   }
 
@@ -267,11 +297,11 @@ function build(lesson, outFile, cn, budgetScale = 1) {
     const children = cardHead(`${n} · ${c.kicker}`, c.title, c.subtitle).concat(c.body);
     return {
       properties: {
-        page: { size: { width: PAGE_H, height: PAGE_W, orientation: PageOrientation.LANDSCAPE }, margin: { top: MARGIN, bottom: 520, left: MARGIN, right: MARGIN },
-          borders: { pageBorderTop: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: 12 }, pageBorderBottom: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: 12 }, pageBorderLeft: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: 12 }, pageBorderRight: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: 12 } } },
+        page: { size: { width: PAGE_H, height: PAGE_W, orientation: PageOrientation.LANDSCAPE }, margin: { top: MARGIN, bottom: SZ.bottom, left: MARGIN, right: MARGIN, footer: SZ.footer },
+          borders: { pageBorderTop: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: SZ.border_space }, pageBorderBottom: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: SZ.border_space }, pageBorderLeft: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: SZ.border_space }, pageBorderRight: { style: BorderStyle.SINGLE, size: 6, color: DARK, space: SZ.border_space } } },
         type: i === 0 ? undefined : docx.SectionType.NEXT_PAGE,
       },
-      footers: { default: new Footer({ children: [new Paragraph({ tabStops: [{ type: TabStopType.CENTER, position: CW / 2 }, { type: TabStopType.RIGHT, position: CW }], children: [run(`${n} / ${String(total).padStart(2, '0')}`, { size: 14, color: MID, spacing: 30 }), run(`\t${code} · ${lesson.title}`, { size: 14, color: MID }), run(`\t${c.label}`, { size: 14, color: MID, spacing: 40 })] })] }) },
+      footers: { default: new Footer({ children: [new Paragraph({ tabStops: [{ type: TabStopType.CENTER, position: CW / 2 }, { type: TabStopType.RIGHT, position: CW }], children: [run(`${n} / ${String(total).padStart(2, '0')}`, { size: SZ.foot, color: MID, spacing: 30 }), run(`\t${code} · ${lesson.title}`, { size: SZ.foot, color: MID }), run(`\t${c.label}`, { size: SZ.foot, color: MID, spacing: 40 })] })] }) },
       children,
     };
   });
@@ -304,8 +334,10 @@ if (require.main === module) {
   const cn = args.includes('--cn');
   const bArg = args.find(a => a.startsWith('--budget='));
   const budgetScale = bArg ? parseFloat(bArg.split('=')[1]) : 1;   // e.g. --budget=0.85 packs less on each card
+  const sArg = args.find(a => a.startsWith('--size='));
+  const size = sArg ? sArg.split('=')[1].toLowerCase() : 'a6';
   const [src, outFile] = args.filter(a => !a.startsWith('--'));
   const lesson = JSON.parse(fs.readFileSync(src, 'utf8'));
-  build(lesson, outFile, cn, budgetScale).then(r => console.log('wrote', r.file, r.cards, 'cards')).catch(e => { console.error(e); process.exit(1); });
+  build(lesson, outFile, cn, budgetScale, size).then(r => console.log('wrote', r.file, r.cards, 'cards')).catch(e => { console.error(e); process.exit(1); });
 }
 module.exports = { build };

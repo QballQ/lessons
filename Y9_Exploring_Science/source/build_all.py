@@ -1,4 +1,4 @@
-"""Build every Year 9 lesson: PowerPoint, two worksheets (.docx and .pdf) and greyscale image copies.
+"""Build every Year 9 lesson: PowerPoint, two worksheets, two exercise-book card packs (.docx and .pdf, A6 cards four to an A4 sheet) and greyscale image copies.
 
 Usage:  python3 build_all.py            # everything
         python3 build_all.py 9A_L01 9A_L02   # some lessons
@@ -76,7 +76,7 @@ def build_lesson(path, pdf=True, cards_only=False):
                 run([sys.executable, SOFFICE, '--headless', '--convert-to', 'pdf', '--outdir', unit_dir, docx])
                 pages = len(PdfReader(docx[:-5] + '.pdf').pages)
                 if pages != n: raise SystemExit(f'card overflow not fixed: {docx} ({n} cards, {pages} pages)')
-            run([sys.executable, os.path.join(HERE, 'twoup.py'), docx[:-5] + '.pdf', docx[:-5] + '_A4.pdf'])   # two A5 cards per A4 sheet
+            run([sys.executable, os.path.join(HERE, 'twoup.py'), docx[:-5] + '.pdf', docx[:-5] + '_A4.pdf'])   # four A6 cards per A4 sheet
         cards.append(docx)
     if pdf:
         for d in docs:
