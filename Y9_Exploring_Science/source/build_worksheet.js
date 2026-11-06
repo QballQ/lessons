@@ -90,8 +90,9 @@ function renderGrid(out) {
 function credit(ref) {
   if (ref.startsWith('diagram:')) return null;
   const r = REG[ref]; if (!r || r.status !== 'ok') return null;
-  return `Image: ${(r.author || '').trim()}${r.author ? ', ' : ''}${r.licence}, via Wikimedia Commons`;
+  return `Image: ${(r.author || '').trim()}${r.author ? ', ' : ''}${r.licence}, via ${creditHost(r)}`;
 }
+const creditHost = (r) => { const p = r.source_page || ''; return /wikimedia|wikipedia/i.test(p) ? 'Wikimedia Commons' : /flickr/i.test(p) ? 'Flickr' : p ? p.replace(/^https?:\/\/(www\.)?/, '').split('/')[0] : 'an open licence'; };
 
 function renderQuestion(q, numLabel, cn, out) {
   // q: {q, lines, parts, gap, mcq, table, match, image, caption, grid, box}

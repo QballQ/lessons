@@ -705,10 +705,185 @@ def disease_types():
     s.text(800, 790, 'Only infectious diseases can be passed from person to person. The others are non-communicable.', 24, italic=True, fill=NAVY)
     s.save('disease_types')
 
+# ---------- revision guide diagrams: cells and microscopy, atoms and the periodic table ----------
+def microscope():
+    s = SVG(2200, 1000)
+    s.text(1100, 50, 'The light microscope', 34, weight='bold', fill=NAVY)
+    ox = 320
+    s.rect(ox + 380, 860, 560, 70, PAGE, INK, 3, 14)                        # base
+    s.path(f'M {ox + 880} 860 L {ox + 880} 420 Q {ox + 880} 330 {ox + 790} 300 L {ox + 700} 280', 'none', INK, 26)   # arm
+    s.rect(ox + 430, 620, 420, 26, '#FFFFFF', INK, 3, 4)                   # stage
+    s.rect(ox + 500, 606, 280, 14, '#FFFFFF', INK, 2, 2)                   # slide
+    s.rect(ox + 560, 598, 160, 8, '#DDEFD8', INK, 2, 2)                    # cover slip over the specimen
+    s.rect(ox + 455, 596, 50, 10, PAGE, INK, 2, 2); s.rect(ox + 775, 596, 50, 10, PAGE, INK, 2, 2)   # clips
+    s.circle(ox + 640, 760, 46, HI, INK, 3); s.text(ox + 640, 768, 'light', 22, weight='bold')
+    s.poly([(ox + 610, 690), (ox + 670, 690), (ox + 660, 646), (ox + 620, 646)], PAGE, INK, 2, True)
+    s.rect(ox + 600, 150, 80, 150, '#FFFFFF', INK, 3, 6)                   # eyepiece tube
+    s.rect(ox + 585, 100, 110, 55, PAGE, INK, 3, 8)                        # eyepiece
+    s.rect(ox + 560, 300, 160, 140, '#FFFFFF', INK, 3, 8)                  # body tube
+    s.poly([(ox + 540, 440), (ox + 740, 440), (ox + 720, 480), (ox + 560, 480)], PAGE, INK, 3, True)   # nosepiece
+    for x, h, lab in [(590, 70, 'x4'), (640, 100, 'x10'), (700, 125, 'x40')]:
+        s.rect(ox + x - 18, 480, 36, h, '#FFFFFF', INK, 3, 4); s.text(ox + x, 480 + h + 24, lab, 19, fill=MUTED)
+    s.circle(ox + 880, 560, 44, PAGE, INK, 3); s.circle(ox + 880, 560, 20, '#FFFFFF', INK, 2)
+    LX = ox + 1120
+    L = [(ox + 695, 128, 110, 'eyepiece lens (x10): you look through here'),
+         (ox + 720, 370, 250, 'body tube: keeps the lenses the right distance apart'),
+         (ox + 720, 500, 390, 'objective lenses (x4, x10, x40): turn to change'),
+         (ox + 924, 548, 520, 'coarse focus knob: moves the stage a lot'),
+         (ox + 900, 580, 580, 'fine focus knob: small moves to sharpen the image'),
+         (ox + 850, 633, 660, 'stage: the slide rests here, held by the clips'),
+         (ox + 686, 760, 760, 'light source (or mirror): lights the specimen from below'),
+         (ox + 940, 895, 895, 'base: keeps the microscope steady')]
+    for x1, y1, y2, t in L:
+        s.line(x1, y1, LX - 15, y2, PLUM, 2); s.circle(x1, y1, 6, PLUM, PLUM, 1)
+        s.text(LX, y2 + 8, t, 22, 'start')
+    s.lines(ox + 290, 430, ['arm: carry the microscope', 'by the arm, with your', 'other hand under the base'], 22, 'end', 28)
+    s.line(ox + 300, 450, ox + 868, 450, PLUM, 2); s.circle(ox + 868, 450, 6, PLUM, PLUM, 1)
+    s.text(ox + 290, 614, 'slide with cover slip', 22, 'end'); s.line(ox + 300, 612, ox + 500, 612, PLUM, 2); s.circle(ox + 500, 612, 6, PLUM, PLUM, 1)
+    s.text(1100, 975, 'Total magnification = eyepiece lens magnification x objective lens magnification, e.g. x10 x x40 = x400', 24, italic=True, fill=NAVY)
+    s.save('microscope')
+
+def animal_plant_cells():
+    s = SVG(2050, 840)
+    s.text(1025, 50, 'An animal cell and a plant cell', 34, weight='bold', fill=NAVY)
+    def label(ax, ay, lx, ly, lines):
+        s.circle(ax, ay, 6, PLUM, PLUM, 1); s.line(ax, ay, lx - 12, ly, PLUM, 2)
+        s.lines(lx, ly - 4, lines, 20, 'start', 26)
+    # animal cell: centre (330, 420), labels in the column from x = 560
+    s.text(330, 110, 'Animal cell (e.g. cheek cell)', 28, weight='bold')
+    s.path('M 130 420 Q 110 250 260 200 Q 420 140 500 230 Q 600 330 540 500 Q 470 640 310 630 Q 150 620 130 420 Z', '#FFFFFF', INK, 4)
+    s.circle(330, 410, 75, PAGE, INK, 3); s.circle(330, 410, 18, MUTED, INK, 1)
+    for cx, cy in [(420, 290), (250, 540), (230, 300)]: s.ellipse(cx, cy, 34, 18, '#F6E3D1', INK, 2)
+    for cx, cy in [(230, 450), (470, 420)]: s.circle(cx, cy, 9, '#FFFFFF', INK, 2)
+    label(452, 290, 580, 270, ['mitochondria: where respiration', 'releases energy from glucose'])
+    label(405, 410, 580, 380, ['nucleus: controls the cell and', 'holds the genetic information (DNA)'])
+    label(556, 470, 580, 480, ['cell membrane: controls what', 'goes in and out of the cell'])
+    label(440, 560, 580, 580, ['cytoplasm: a jelly where the', "cell's chemical reactions happen"])
+    # plant cell: rectangle 1060..1520 x 160..640, labels in the column from x = 1560
+    s.text(1290, 110, 'Plant cell (e.g. leaf cell)', 28, weight='bold')
+    s.rect(1060, 160, 460, 480, '#E4EFDA', INK, 8, 24)           # cell wall
+    s.rect(1082, 182, 416, 436, '#FFFFFF', INK, 3, 18)           # cell membrane
+    s.rect(1170, 300, 250, 200, '#EAF2FA', INK, 2, 30)           # vacuole
+    s.text(1295, 408, 'vacuole', 20, fill=MUTED)
+    s.circle(1150, 250, 52, PAGE, INK, 3); s.circle(1150, 250, 12, MUTED, INK, 1)
+    for cx, cy in [(1120, 560), (1220, 585), (1400, 545), (1460, 330), (1470, 455)]:
+        s.ellipse(cx, cy, 34, 21, '#CDE6C2', INK, 2)
+        for dx in (-13, 0, 13): s.circle(cx + dx, cy, 5, '#3C8F3C', INK, 1)
+    for cx, cy in [(1330, 575), (1320, 230)]: s.ellipse(cx, cy, 30, 16, '#F6E3D1', INK, 2)
+    label(1520, 200, 1580, 200, ['cell wall (cellulose): supports the', 'cell and gives it its shape'])
+    label(1202, 250, 1580, 300, ['nucleus: controls the cell and', 'holds the genetic information (DNA)'])
+    label(1420, 380, 1580, 400, ['vacuole: full of cell sap,', 'keeps the cell firm'])
+    label(1500, 455, 1580, 500, ['chloroplasts: contain chlorophyll,', 'which traps light for photosynthesis'])
+    label(1360, 575, 1580, 600, ['mitochondria: where respiration', 'releases energy'])
+    label(1498, 600, 1580, 690, ['cell membrane and cytoplasm:', 'the same jobs as in the animal cell'])
+    s.text(1025, 810, 'Both cells: nucleus, cytoplasm, cell membrane, mitochondria.   Plant cells only: cell wall, chloroplasts, a large vacuole.', 24, italic=True, fill=NAVY)
+    s.save('animal_plant_cells')
+
+def atom_structure():
+    s = SVG(1900, 900)
+    s.text(950, 50, 'Inside an atom: lithium (Li), atomic number 3, mass number 7', 32, weight='bold', fill=NAVY)
+    cx, cy = 480, 450
+    s.circle(cx, cy, 290, 'none', MUTED, 2); s.circle(cx, cy, 150, 'none', MUTED, 2)
+    for dx, dy, lab, f in [(-32, -20, '+', HI), (32, -20, 'n', PAGE), (0, 18, '+', HI), (-34, 36, 'n', PAGE), (34, 36, '+', HI), (0, -46, 'n', PAGE), (0, 62, 'n', PAGE)]:
+        s.circle(cx + dx, cy + dy, 24, f, INK, 2); s.text(cx + dx, cy + dy + 9, lab, 24, weight='bold')
+    for ex, ey in [(cx, cy - 150), (cx, cy + 150), (cx + 290, cy)]:
+        s.circle(ex, ey, 14, '#FFFFFF', INK, 3); s.text(ex, ey + 7, '-', 24, weight='bold')
+    s.text(cx + 320, cy - 230, 'electron shells', 24, 'start', fill=MUTED); s.line(cx + 315, cy - 222, cx + 205, cy - 205, MUTED, 2)
+    s.text(cx + 320, cy + 8, 'electron (-)', 24, 'start')
+    s.text(cx - 320, cy - 10, 'nucleus:', 24, 'end', weight='bold', fill=PLUM); s.text(cx - 320, cy + 20, '3 protons (+)', 22, 'end', fill=PLUM); s.text(cx - 320, cy + 48, '4 neutrons (n)', 22, 'end', fill=PLUM)
+    s.line(cx - 310, cy + 10, cx - 60, cy + 10, PLUM, 2); s.circle(cx - 60, cy + 10, 5, PLUM, PLUM, 1)
+    s.text(cx, cy + 335, 'electron configuration 2,1', 26, weight='bold', fill=NAVY)
+    x0, y0 = 1000, 150
+    cols = [('Particle', 180), ('Where', 170), ('Relative mass', 260), ('Relative charge', 230)]
+    x = x0
+    for h, w in cols:
+        s.rect(x, y0, w, 60, NAVY, NAVY, 1, 0); s.text(x + w / 2, y0 + 38, h, 20, weight='bold', fill='#FFFFFF'); x += w
+    rows = [('proton', 'nucleus', '1', '+1'), ('neutron', 'nucleus', '1', '0'), ('electron', 'shells', 'almost 0 (1/1840)', '-1')]
+    for i, r in enumerate(rows):
+        y = y0 + 60 + i * 64; x = x0
+        for (h, w), v in zip(cols, r):
+            s.rect(x, y, w, 64, PAGE if i % 2 else '#FFFFFF', INK, 1, 0); s.text(x + w / 2, y + 40, v, 21); x += w
+    s.lines(1000, 460, ['atomic number = number of protons', '(in an atom this also equals the number of electrons)', 'mass number = protons + neutrons',
+                        'neutrons = mass number - atomic number', 'lithium: 7 - 3 = 4 neutrons'], 22, 'start', 36)
+    s.rect(1000, 680, 840, 150, TINT, PLUM, 2, 14)
+    s.lines(1420, 728, ['Atoms are neutral: the number of electrons (-) equals', 'the number of protons (+).', 'Nearly all the mass is in the nucleus.'], 22, 'middle', 34)
+    s.save('atom_structure')
+
+def electron_shells():
+    s = SVG(1900, 780)
+    s.text(950, 50, 'Electron configuration: fill the shells in order, 2 then 8 then 8', 32, weight='bold', fill=NAVY)
+    atoms = [('helium', 'He', 2, [2]), ('carbon', 'C', 6, [2, 4]), ('sodium', 'Na', 11, [2, 8, 1]), ('chlorine', 'Cl', 17, [2, 8, 7]), ('calcium', 'Ca', 20, [2, 8, 8, 2])]
+    for i, (name, sym, z, cfg) in enumerate(atoms):
+        cx, cy = 200 + i * 375, 350
+        s.circle(cx, cy, 34, HI, INK, 2); s.text(cx, cy + 9, sym, 24, weight='bold')
+        for k, n in enumerate(cfg):
+            r = 68 + k * 42
+            s.circle(cx, cy, r, 'none', MUTED, 2)
+            for j in range(n):
+                a = -math.pi / 2 + j * 2 * math.pi / n
+                s.circle(cx + r * math.cos(a), cy + r * math.sin(a), 9, INK, INK, 1)
+        s.text(cx, 590, f'{name}, atomic number {z}', 21)
+        s.text(cx, 628, ','.join(str(c) for c in cfg), 30, weight='bold', fill=PLUM)
+    s.lines(950, 690, ['Atomic number = number of electrons.   The outer shell decides the group: Na (1 outer electron) is in group 1,',
+                       'Cl (7 outer electrons) is in group 7, and He (full shell) is in group 0.   The number of shells = the period: Na and Cl are in period 3.'],
+            21, 'middle', 34, fill=NAVY)
+    s.save('electron_shells')
+
+def periodic_table_20():
+    s = SVG(1800, 980)
+    s.text(900, 50, 'The periodic table: the first 20 elements', 34, weight='bold', fill=NAVY)
+    E = {1: ('H', 'hydrogen', 1), 2: ('He', 'helium', 4), 3: ('Li', 'lithium', 7), 4: ('Be', 'beryllium', 9), 5: ('B', 'boron', 11), 6: ('C', 'carbon', 12),
+         7: ('N', 'nitrogen', 14), 8: ('O', 'oxygen', 16), 9: ('F', 'fluorine', 19), 10: ('Ne', 'neon', 20), 11: ('Na', 'sodium', 23), 12: ('Mg', 'magnesium', 24),
+         13: ('Al', 'aluminium', 27), 14: ('Si', 'silicon', 28), 15: ('P', 'phosphorus', 31), 16: ('S', 'sulfur', 32), 17: ('Cl', 'chlorine', 35.5), 18: ('Ar', 'argon', 40),
+         19: ('K', 'potassium', 39), 20: ('Ca', 'calcium', 40)}
+    metals = {3, 4, 11, 12, 13, 19, 20}
+    pos = {1: (0, 0), 2: (7, 0), 3: (0, 1), 4: (1, 1), 5: (2, 1), 6: (3, 1), 7: (4, 1), 8: (5, 1), 9: (6, 1), 10: (7, 1),
+           11: (0, 2), 12: (1, 2), 13: (2, 2), 14: (3, 2), 15: (4, 2), 16: (5, 2), 17: (6, 2), 18: (7, 2), 19: (0, 3), 20: (1, 3)}
+    x0, y0, cw, ch, gapx = 250, 170, 150, 150, 70
+    colx = lambda c: x0 + c * cw + (gapx if c >= 2 else 0)
+    for g, c in zip(['1', '2', '3', '4', '5', '6', '7', '0'], range(8)):
+        s.text(colx(c) + cw / 2, y0 - 20, f'group {g}', 22, weight='bold', fill=PLUM)
+    for p in range(4): s.text(x0 - 30, y0 + p * ch + ch / 2 + 8, f'period {p + 1}', 22, 'end', weight='bold', fill=PLUM)
+    for z, (sym, name, ar) in E.items():
+        c, r = pos[z]; x, y = colx(c), y0 + r * ch
+        s.rect(x, y, cw, ch, '#DDE3EC' if z in metals else '#FFFFFF', INK, 2, 6)
+        s.text(x + 14, y + 32, str(z), 20, 'start', fill=MUTED)
+        s.text(x + cw - 14, y + 32, str(ar), 20, 'end', fill=MUTED)
+        s.text(x + cw / 2, y + 95, sym, 40, weight='bold')
+        s.text(x + cw / 2, y + 132, name, 18)
+    s.poly([(colx(2), y0 + ch), (colx(2), y0 + 2 * ch), (colx(3), y0 + 2 * ch), (colx(3), y0 + 3 * ch)], 'none', PLUM, 6)
+    s.text(colx(2) + 20, y0 + 3 * ch + 40, 'metals (shaded) to the left of the stepped line, non-metals to the right', 22, 'start', fill=PLUM)
+    # how to read a square: in the empty space of period 1
+    lx, ly, lw = colx(3) + 40, y0 - 10, 230
+    s.rect(lx, ly, lw, ch, '#FFFFFF', INK, 2, 6)
+    s.text(lx + 12, ly + 30, 'atomic number', 16, 'start', fill=MUTED); s.text(lx + lw - 12, ly + 30, 'relative', 16, 'end', fill=MUTED); s.text(lx + lw - 12, ly + 50, 'atomic mass', 16, 'end', fill=MUTED)
+    s.text(lx + lw / 2, ly + 100, 'symbol', 26, weight='bold'); s.text(lx + lw / 2, ly + 132, 'name', 18)
+    s.text(lx + lw + 20, ly + 70, 'how to read a square', 20, 'start', italic=True, fill=MUTED)
+    s.lines(250, 810, ['Group 1: alkali metals (very reactive metals).   Group 7: halogens (reactive non-metals).   Group 0: noble gases (unreactive).',
+                       'Elements in the same group have the same number of outer electrons, so they react in similar ways.',
+                       'Across a period the atomic number goes up by one each time; a new period starts when a new shell starts to fill.'], 22, 'start', 36, fill=NAVY)
+    s.save('periodic_table_20')
+
+def magnification_formula():
+    s = SVG(1600, 600)
+    s.text(800, 50, 'Magnification', 34, weight='bold', fill=NAVY)
+    s.box(80, 100, 760, 110, ['total magnification =', 'eyepiece magnification x objective magnification'], 24, PAGE, INK, 'bold')
+    s.text(80, 260, 'e.g. eyepiece x10 and objective x40:  10 x 40 = x400', 24, 'start')
+    s.lines(80, 340, ['magnification = image size / actual size', 'actual size = image size / magnification',
+                      'e.g. a cell drawn 40 mm wide at x400:', 'actual size = 40 / 400 = 0.1 mm (100 micrometres)'], 24, 'start', 42)
+    cx, cy = 1230, 300
+    s.poly([(cx, cy - 190), (cx - 250, cy + 130), (cx + 250, cy + 130)], '#FFFFFF', INK, 4, True)
+    s.line(cx - 150, cy + 0, cx + 150, cy + 0, INK, 3); s.line(cx, cy + 0, cx, cy + 130, INK, 3)
+    s.text(cx, cy - 55, 'image size', 22, weight='bold'); s.text(cx - 85, cy + 80, 'actual', 20, weight='bold'); s.text(cx - 85, cy + 106, 'size', 20, weight='bold')
+    s.text(cx + 85, cy + 80, 'magnifi-', 20, weight='bold'); s.text(cx + 85, cy + 106, 'cation', 20, weight='bold')
+    s.text(cx, cy + 185, 'Cover the one you want. Use the same units for both sizes.', 22, italic=True, fill=NAVY)
+    s.save('magnification_formula')
+
 if __name__ == '__main__':
     for f in [env_factors, cont_discont, gametes_zygote, dna_chromosome_gene, probability_scale, natural_selection_moths, tilapia_graph,
               photosynthesis_eq, respiration_eq, leaf_section, stoma_open_closed, water_route, germination, selective_breeding,
               eutrophication_flow, carbon_cycle, immune_response, antibody_response, nervous_pathway, fermenter, median_quartiles,
               sampling_formula, distribution_patterns, sa_v_cubes, osmosis_membrane, diffusion_gradient, half_life_graph, graph_grid,
-              blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types]:
+              blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types,
+              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula]:
         f()

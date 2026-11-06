@@ -8,6 +8,7 @@ Built 28 October 2026. Chinese text status: draft, needs native-speaker check.
 
 | Folder or file | Contents |
 |---|---|
+| `00_Revision/Y9_Revision_Guide_1.docx` and `.pdf` (and `_CN`) | Student revision guide (added 6 November 2026): 9A lessons 1, 2, 3 and 6 (environmental and inherited variation, probability and statistics, adaptation and extinction), cells and the microscope (cell parts, setting up and focusing a microscope, making a slide, drawing and labelling cells, magnification), and atoms and the periodic table (atomic structure, atomic number and mass number, relative atomic mass, electron configuration of the first 20 elements, groups and periods). Each section has Key ideas, diagrams, Remember and Common mistakes boxes, worked examples, Key words and Test yourself questions with marks; answers are at the back and an "I can" checklist on the cover. The `_CN` version adds the 中文 column to the Key words tables. Content lives in `source/revision/revision_guide_1.json`; `python3 source/build_docs.py` rebuilds it |
 | `00_Teaching_Plan/Y9_Biology_Teaching_Plan.docx` (and `.md`) | The scheme of work: lesson sequence for each unit with Student Book and Workbook pages, the matching Oak National Academy lessons, learning goals, key words (English and Chinese), practicals, safety, language access, assessment, homework |
 | `9A_Genetics_and_evolution/`, `9B_Plant_growth/`, `9C_Threat_from_disease/` | Seven lessons per unit. For each lesson: `9X_L0n_Title.pptx` (slides, English, speaker notes on every slide); **exercise-book cards** `..._Cards_A4.pdf` (A6 landscape cards, four per A4 landscape sheet, print and cut along the card borders; `..._Cards_CN_A4.pdf` adds the 中文 column to the vocabulary card; `.docx` and single-card `.pdf` alongside); the full worksheets `..._Worksheet.docx` and `.pdf` (standard) and `..._Worksheet_CN.docx` and `.pdf` (key vocabulary in Chinese at the top right, command words glossed). Plus `9X_Teacher_Guide.docx` (and `.md`): lesson plans, misconceptions, safety and equipment, slide-by-slide notes and the full answer key |
 
@@ -21,7 +22,7 @@ Built 28 October 2026. Chinese text status: draft, needs native-speaker check.
 - **Slides** use the school navy and the Year 9 plum from the Think Like a Scientist brand, Cambria headings and Calibri body, the school logo, a phase tag on every slide and a key idea band on Learn slides. Every on-slide question has its answer in the speaker notes.
 - **Worksheets** print in greyscale on A4: header with the two goals, key words box, Core (everyone), Stretch, Challenge, My thinking box, word bank, and a cut-off exit ticket strip with a self-check of the two goals. The CN version adds Chinese to the key words and command words only; the science and the questions are identical, so both are marked the same way.
 - **Content** follows the Student Book spread by spread and uses the book's own examples and data; Workbook pages are set as homework. Lesson structure, key learning points, keywords and misconceptions were cross-checked against the matching Oak National Academy KS3 lessons (Open Government Licence v3.0), linked in each lesson plan.
-- **Diagrams** (`source/diagrams/`) were drawn for these lessons and are original. **Photographs** come from Wikimedia Commons and Openverse (Flickr and other CC sources), public domain, CC0, CC BY or CC BY-SA only; each slide shows the credit line. Check each picture on the classroom screen before first use (`images/Image_Check_Sheet.pdf`); replace any that is unclear by editing its entry in `source/image_manifest.json`, running `python3 source/fetch_openverse.py <key>` and rebuilding.
+- **Diagrams** (`source/diagrams/`) were drawn for these lessons and are original. **Photographs** come from Openverse (mostly Flickr, a few other CC sources) and Wikimedia Commons, public domain, CC0, CC BY or CC BY-SA only; each slide, worksheet, card and guide shows the credit line with the author, licence and source site (`images/Image_Register.md` has the links). Check each picture on the classroom screen before first use (`images/Image_Check_Sheet.pdf`); replace any that is unclear by editing its entry in `source/image_manifest.json`, running `python3 source/fetch_openverse.py <key>` and rebuilding.
 
 ## Rebuilding
 
@@ -31,12 +32,12 @@ npm install pptxgenjs docx sharp          # once (or set NODE_PATH to a folder t
 python3 make_diagrams.py && node svg2png.js   # diagrams
 python3 build_all.py                      # all lessons: pptx, docx, pdf (LibreOffice needed for the PDFs)
 python3 build_all.py 9A_L03 --no-pdf      # one lesson, no PDFs
-python3 build_docs.py                     # teaching plan, teacher guides, image register and check sheet
+python3 build_docs.py                     # teaching plan, teacher guides, image register and check sheet, revision guides
 ```
 
 Needs node 18+, python3 with Pillow and python-docx, LibreOffice (`soffice`), and the pptx skill scripts (`apply_theme.js`, `validate.py`, `soffice.py`) at the path in `build_pptx.js` and `build_all.py` (set `PPTX_SKILL_DIR` to point elsewhere).
 
-To change a lesson, edit its JSON file in `source/content/` and rebuild it. Chinese terms come from `source/glossary_cn.json` (one Chinese term per English term across all three units); change the glossary first if a term changes, then the lesson files that use it.
+To change a lesson, edit its JSON file in `source/content/` and rebuild it. To change a revision guide, edit its file in `source/revision/` (blocks: ideas, image, table, remember, example, mistakes, steps, keywords, test) and run `build_docs.py`. Chinese terms come from `source/glossary_cn.json` (one Chinese term per English term across all three units, plus a Revision block for the cells and atoms terms); change the glossary first if a term changes, then the lesson or guide files that use it.
 
 ## Status and next steps
 

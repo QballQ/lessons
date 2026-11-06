@@ -301,6 +301,22 @@ def image_docs(lessons):
         pages[0].save(os.path.join(ROOT, 'images', 'Image_Check_Sheet.pdf'), save_all=True, append_images=pages[1:], resolution=100)
     print('image register:', len(rows), 'entries;', sum(1 for r in rows if r[1] == 'ok'), 'fetched')
 
+def revision_docs():
+    """Student revision guides: source/revision/*.json -> 00_Revision/<id>.docx and .pdf (and _CN with the Chinese key words)."""
+    import subprocess, sys, glob, json
+    rev_dir = os.path.join(HERE, 'revision'); out_dir = os.path.join(ROOT, '00_Revision'); os.makedirs(out_dir, exist_ok=True)
+    skill = os.environ.get('PPTX_SKILL_DIR', '/root/.claude/skills/synced/f06b7bea-4409-4beb-89a6-75febf1b2f2b_c8489965-e177-412d-a52c-32d98e76e412/pptx')
+    soffice = os.path.join(skill, 'scripts', 'office', 'soffice.py')
+    for src in sorted(glob.glob(os.path.join(rev_dir, '*.json'))):
+        gid = json.load(open(src, encoding='utf-8'))['id']
+        for suffix, flag in [('', []), ('_CN', ['--cn'])]:
+            docx = os.path.join(out_dir, gid + suffix + '.docx')
+            r = subprocess.run(['node', os.path.join(HERE, 'build_revision.js'), src, docx] + flag, text=True, capture_output=True)
+            if r.returncode != 0: print(r.stdout[-2000:], r.stderr[-2000:]); raise SystemExit('revision guide failed: ' + src)
+            if os.path.exists(soffice):
+                subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, docx], text=True, capture_output=True)
+        print('revision guide', gid)
+
 def main():
     lessons = load_lessons()
     os.makedirs(os.path.join(ROOT, '00_Teaching_Plan'), exist_ok=True)
@@ -312,6 +328,7 @@ def main():
         guide_docx(u, Ls, os.path.join(d, f'{u}_Teacher_Guide.docx'))
         print('teacher guide', u, len(Ls), 'lessons')
     image_docs(lessons)
+    revision_docs()
 
 if __name__ == '__main__':
     main()

@@ -52,8 +52,10 @@ function imageCredit(ref) {
   if (!r || r.status !== 'ok') return null;
   const author = (r.author || '').replace(/\s+/g, ' ').trim();
   const lic = r.licence || '';
-  return `Image: ${author ? author + ', ' : ''}${lic}, via Wikimedia Commons`;
+  return `Image: ${author ? author + ', ' : ''}${lic}, via ${creditHost(r)}`;
 }
+// where the photo came from: most are Flickr photos found through Openverse, a few are on Wikimedia Commons
+const creditHost = (r) => { const p = r.source_page || ''; return /wikimedia|wikipedia/i.test(p) ? 'Wikimedia Commons' : /flickr/i.test(p) ? 'Flickr' : p ? p.replace(/^https?:\/\/(www\.)?/, '').split('/')[0] : 'an open licence'; };
 function imageSize(p) {
   // read PNG/JPEG dimensions without extra deps
   const buf = fs.readFileSync(p);
