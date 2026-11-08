@@ -1,6 +1,6 @@
 # Year 9 Science: Biology teaching plan (9A, 9B, 9C)
 
-Exploring Science International 9 | Built 06 November 2026 | Chinese text status: draft, needs native-speaker check
+Exploring Science International 9 | Built 08 November 2026 | Chinese text status: draft, needs native-speaker check
 
 ## 1. Overview
 

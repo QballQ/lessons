@@ -1,6 +1,6 @@
 # 9B Plant growth: Teacher Guide
 
-Year 9 Science | Exploring Science International 9 | Built 06 November 2026 | Chinese text status: draft, needs native-speaker check
+Year 9 Science | Exploring Science International 9 | Built 08 November 2026 | Chinese text status: draft, needs native-speaker check
 
 
 ---

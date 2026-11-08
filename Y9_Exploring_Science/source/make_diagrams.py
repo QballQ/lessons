@@ -879,11 +879,32 @@ def magnification_formula():
     s.text(cx, cy + 185, 'Cover the one you want. Use the same units for both sizes.', 22, italic=True, fill=NAVY)
     s.save('magnification_formula')
 
+def plant_cell_blank():
+    """A plant cell with lettered label lines for a test question (no names)."""
+    s = SVG(1400, 760)
+    s.rect(300, 90, 620, 520, '#E4EFDA', INK, 8, 24)            # cell wall
+    s.rect(322, 112, 576, 476, '#FFFFFF', INK, 3, 18)           # cell membrane
+    s.rect(450, 250, 330, 230, '#EAF2FA', INK, 2, 30)           # vacuole
+    s.circle(420, 200, 60, PAGE, INK, 3); s.circle(420, 200, 14, MUTED, INK, 1)   # nucleus
+    for cx, cy in [(380, 520), (500, 555), (780, 540), (820, 190), (640, 170), (840, 400)]:
+        s.ellipse(cx, cy, 36, 22, '#CDE6C2', INK, 2)
+        for dx in (-14, 0, 14): s.circle(cx + dx, cy, 5, '#3C8F3C', INK, 1)
+    for cx, cy in [(700, 560), (560, 540)]: s.ellipse(cx, cy, 30, 16, '#F6E3D1', INK, 2)
+    def tag(ax, ay, lx, ly, letter):
+        s.circle(ax, ay, 7, PLUM, PLUM, 1); s.line(ax, ay, lx, ly, PLUM, 3)
+        s.circle(lx + (34 if lx > ax else -34), ly, 30, '#FFFFFF', INK, 3); s.text(lx + (34 if lx > ax else -34), ly + 11, letter, 30, weight='bold')
+    tag(302, 330, 150, 330, 'A')     # cell wall
+    tag(420, 200, 150, 150, 'B')     # nucleus
+    tag(840, 400, 1080, 330, 'C')    # chloroplast
+    tag(615, 365, 1080, 560, 'D')    # vacuole
+    s.text(700, 700, 'A plant cell seen through a microscope (not to scale)', 24, italic=True, fill=MUTED)
+    s.save('plant_cell_blank')
+
 if __name__ == '__main__':
     for f in [env_factors, cont_discont, gametes_zygote, dna_chromosome_gene, probability_scale, natural_selection_moths, tilapia_graph,
               photosynthesis_eq, respiration_eq, leaf_section, stoma_open_closed, water_route, germination, selective_breeding,
               eutrophication_flow, carbon_cycle, immune_response, antibody_response, nervous_pathway, fermenter, median_quartiles,
               sampling_formula, distribution_patterns, sa_v_cubes, osmosis_membrane, diffusion_gradient, half_life_graph, graph_grid,
               blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types,
-              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula]:
+              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula, plant_cell_blank]:
         f()

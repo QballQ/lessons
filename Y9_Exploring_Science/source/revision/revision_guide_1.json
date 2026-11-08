@@ -1,420 +1,1192 @@
 {
-  "id": "Y9_Revision_Guide_1",
-  "title": "Year 9 Science Revision Guide 1",
-  "subtitle": "Variation and inheritance · Probability · Adaptation and extinction · Cells and the microscope · Atoms and the periodic table",
-  "built": "November 2026",
-  "how_to_use": [
-    "Read one section at a time. Cover the Key ideas and say them out loud, or write them from memory, then check.",
-    "Learn the key words: cover the meaning, say it, check. The Chinese column is there to help you understand, but answer in English.",
-    "Do the Test yourself questions in your exercise book without looking back. Mark them with the answers at the back.",
-    "Tick the checklist on this page only when you can answer the questions without help. Come back to anything you got wrong."
-  ],
-  "checklist": [
-    {"topic": "1  Environmental variation", "items": [
-      "I can describe abiotic and biotic factors and give examples of environmental variation.",
-      "I can tell continuous variation from discontinuous variation, and explain why environmental variation can make classification difficult."]},
-    {"topic": "2  Inherited variation", "items": [
-      "I can give examples of inherited variation and explain how sexual reproduction causes it.",
-      "I can sort inherited variation into continuous and discontinuous, and recognise a normal distribution."]},
-    {"topic": "3  Probability and statistics", "items": [
-      "I can find the mean, median and mode, and write a probability as a percentage, a fraction and a decimal.",
-      "I can calculate an experimental probability from results and compare it with a theoretical probability."]},
-    {"topic": "4  Genes, adaptation and extinction", "items": [
-      "I can explain how changes in abiotic and biotic factors can make a species endangered or extinct, using the idea of adaptations.",
-      "I can describe ways of preserving biodiversity: nature reserves, breeding programmes and gene banks."]},
-    {"topic": "5  Cells and the microscope", "items": [
-      "I can label an animal cell and a plant cell and give the job of each part.",
-      "I can set up and focus a microscope, make a slide, and draw and label cells correctly.",
-      "I can calculate total magnification and the actual size of a cell."]},
-    {"topic": "6  Atoms and the periodic table", "items": [
-      "I can describe the structure of an atom and use the atomic number and mass number.",
-      "I can write the electron configuration of the first 20 elements.",
-      "I can explain how the periodic table is arranged in groups and periods."]}
-  ],
-  "sections": [
+ "id": "Y9_Revision_Guide_1",
+ "title": "Year 9 Science Revision Guide 1",
+ "subtitle": "Variation and inheritance · Adaptation and extinction · Cells and the microscope · Atoms and the periodic table",
+ "built": "November 2026",
+ "how_to_use": [
+  "Read one section at a time. Cover the Key ideas and say them out loud, or write them from memory, then check.",
+  "Learn the key words: cover the meaning, say it, check. The Chinese column is there to help you understand, but answer in English.",
+  "Do the Test yourself questions in your exercise book without looking back. Mark them with the answers at the back.",
+  "Tick the checklist on this page only when you can answer the questions without help. Come back to anything you got wrong."
+ ],
+ "checklist": [
+  {
+   "topic": "1  Environmental variation",
+   "items": [
+    "I can describe abiotic and biotic factors and give examples of environmental variation.",
+    "I can tell continuous variation from discontinuous variation, and explain why environmental variation can make classification difficult."
+   ]
+  },
+  {
+   "topic": "2  Inherited variation",
+   "items": [
+    "I can give examples of inherited variation and explain how sexual reproduction causes it.",
+    "I can sort inherited variation into continuous and discontinuous, and recognise a normal distribution."
+   ]
+  },
+  {
+   "topic": "3  Genes, adaptation and extinction",
+   "items": [
+    "I can explain how changes in abiotic and biotic factors can make a species endangered or extinct, using the idea of adaptations.",
+    "I can describe ways of preserving biodiversity: nature reserves, breeding programmes and gene banks."
+   ]
+  },
+  {
+   "topic": "4  Cells and the microscope",
+   "items": [
+    "I can label an animal cell and a plant cell and give the job of each part.",
+    "I can set up and focus a microscope, make a slide, and draw and label cells correctly.",
+    "I can calculate total magnification and the actual size of a cell."
+   ]
+  },
+  {
+   "topic": "5  Atoms and the periodic table",
+   "items": [
+    "I can describe the structure of an atom and use the atomic number and mass number.",
+    "I can write the electron configuration of the first 20 elements.",
+    "I can explain how the periodic table is arranged in groups and periods."
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "n": 1,
+   "title": "Environmental variation",
+   "source": "Exploring Science 9A, Lesson 1 (Student Book pages 5 to 7)",
+   "blocks": [
     {
-      "n": 1, "title": "Environmental variation",
-      "source": "Exploring Science 9A, Lesson 1 (Student Book pages 5 to 7)",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "An organism's surroundings are its **environment**. Environmental factors can change an organism.",
-          "**Abiotic factors** are the non-living (physical) parts of the environment: temperature, light, water, mineral salts in the soil, wind.",
-          "**Biotic factors** are caused by other organisms: competition for food or light, predation (being hunted), infectious disease.",
-          "A **characteristic** is a feature of an organism. **Variation** is the differences between the characteristics of organisms. Even a small difference is variation.",
-          "**Environmental variation** is caused by the surroundings: a scar, a hairstyle, a suntan, a tree bent by the wind, a pale plant grown in the dark. It is **not** passed on to offspring.",
-          "**Continuous variation** can take any value between two points: height, mass, hand span, leaf length. Put the measurements into groups; the bars of the chart touch; the shape is often a bell.",
-          "**Discontinuous variation** has only a limited set of values: blood group (A, B, AB or O), scar or no scar, number of petals. Count how many in each group; the bars have gaps.",
-          "**Classification** is sorting organisms into groups. The smallest group is the **species**: organisms that can breed together to produce offspring that can also breed.",
-          "Environmental variation can make classification difficult. Bones found on Flores Island in 2003 came from adults just over 1 m tall. Were they our species with a poor diet (too little iodine), or a different, extinct species?"
-        ]},
-        {"type": "image", "ref": "diagram:env_factors", "w": 520, "h": 300, "caption": "Abiotic factors are non-living; biotic factors come from other living things."},
-        {"type": "table", "title": "Abiotic or biotic? Examples for a pond", "headers": ["Abiotic (non-living) factors", "Biotic (living) factors"], "widths": [5000, 5000], "rows": [
-          ["water temperature", "predation: herons eating fish"],
-          ["amount of light reaching the water", "competition between plants for light"],
-          ["oxygen dissolved in the water", "infectious disease spreading between fish"],
-          ["mineral salts in the mud", "plants shading other plants"]]},
-        {"type": "table", "title": "Continuous or discontinuous?", "headers": ["", "Continuous variation", "Discontinuous variation"], "widths": [2400, 3900, 3900], "rows": [
-          ["Values", "any value between two points", "a limited set of values"],
-          ["Examples", "height, mass, foot length, pumpkin size", "blood group, tongue rolling, number of petals"],
-          ["Recording", "measure, then put the values into groups", "count how many in each group"],
-          ["Chart", "bar chart with the bars touching; often a bell shape", "bar chart with gaps between the bars"]]},
-        {"type": "image", "ref": "flag_tree", "w": 300, "h": 220, "caption": "A tree bent and stunted by the wind: environmental variation. Its seeds would grow straight in a sheltered place."},
-        {"type": "remember", "text": "To decide if variation is continuous, ask: could the value be anything in between? Hand span could be 18.5 cm, 18.6 cm or 18.65 cm, so it is continuous. Blood group cannot be 'between A and B', so it is discontinuous."},
-        {"type": "mistakes", "points": [
-          "'Variation' only means big differences. Any difference in a characteristic, however small, is variation.",
-          "All variation can be passed on. Environmental variation (a scar, a wind-bent tree) is not inherited.",
-          "'Continuous' means 'keeps happening'. In science it means the measurement can take any value in a range."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "species", "cn": "物种", "meaning": "a group of organisms that can breed together to produce offspring that can also breed"},
-          {"en": "extinct", "cn": "灭绝的", "meaning": "a species with no living members left"},
-          {"en": "environment", "cn": "环境", "meaning": "the surroundings of an organism"},
-          {"en": "abiotic factor", "cn": "非生物因素", "meaning": "a physical (non-living) part of the environment, e.g. temperature"},
-          {"en": "biotic factor", "cn": "生物因素", "meaning": "the activities of other organisms, e.g. predation, disease"},
-          {"en": "characteristic", "cn": "特征", "meaning": "a feature of an organism"},
-          {"en": "variation", "cn": "变异", "meaning": "the differences between the characteristics of organisms"},
-          {"en": "environmental variation", "cn": "环境变异", "meaning": "variation caused by an organism's environment"},
-          {"en": "continuous variation", "cn": "连续变异", "meaning": "variation that can have any value between two points"},
-          {"en": "discontinuous variation", "cn": "不连续变异", "meaning": "variation with only a limited set of possible values"},
-          {"en": "classification", "cn": "分类", "meaning": "sorting organisms into groups"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "Give one abiotic factor and one biotic factor that affect a plant growing in a field.", "marks": 2, "a": "Abiotic: any one of temperature, light, water (rainfall), mineral salts, wind. Biotic: any one of competition from other plants, being eaten by animals (grazing or insects), disease."},
-          {"q": "A tree growing on a windy cliff is short and bent. Is this environmental or inherited variation? Explain your answer.", "marks": 2, "a": "Environmental variation (1). It was caused by the wind, a factor in the environment, not by the tree's genes, so its seeds would grow straight in a sheltered place (1)."},
-          {"q": "Sort these into continuous and discontinuous variation: shoe size, hand span, blood group, mass, tongue rolling, leaf length.", "marks": 3, "a": "Continuous: hand span, mass, leaf length. Discontinuous: shoe size, blood group, tongue rolling. (1 mark for each correct pair.)"},
-          {"q": "What is a species?", "marks": 2, "a": "A group of organisms that can breed together (1) to produce offspring that can also breed (1)."},
-          {"q": "Explain why environmental variation can make it hard to decide whether two organisms belong to the same species.", "marks": 2, "a": "Two organisms of the same species can look different because of their environment, for example diet or wind (1), so you cannot tell from their appearance alone whether the difference is inherited or environmental (1)."},
-          {"q": "Students measured the heights of 50 bean plants. What type of chart should they draw, and should the bars touch? Give a reason.", "marks": 2, "a": "A bar chart of grouped heights (a histogram) with the bars touching (1), because height is continuous variation and the groups run on from each other with no gaps (1)."}
-        ]}
-      ]
+     "type": "ideas",
+     "points": [
+      "An organism's surroundings are its **environment**. Environmental factors can change an organism.",
+      "**Abiotic factors** are the non-living (physical) parts of the environment: temperature, light, water, mineral salts in the soil, wind.",
+      "**Biotic factors** are caused by other organisms: competition for food or light, predation (being hunted), infectious disease.",
+      "A **characteristic** is a feature of an organism. **Variation** is the differences between the characteristics of organisms. Even a small difference is variation.",
+      "**Environmental variation** is caused by the surroundings: a scar, a hairstyle, a suntan, a tree bent by the wind, a pale plant grown in the dark. It is **not** passed on to offspring.",
+      "**Continuous variation** can take any value between two points: height, mass, hand span, leaf length. Put the measurements into groups; the bars of the chart touch; the shape is often a bell.",
+      "**Discontinuous variation** has only a limited set of values: blood group (A, B, AB or O), scar or no scar, number of petals. Count how many in each group; the bars have gaps.",
+      "**Classification** is sorting organisms into groups. The smallest group is the **species**: organisms that can breed together to produce offspring that can also breed.",
+      "Environmental variation can make classification difficult. Bones found on Flores Island in 2003 came from adults just over 1 m tall. Were they our species with a poor diet (too little iodine), or a different, extinct species?"
+     ]
     },
     {
-      "n": 2, "title": "Inherited variation",
-      "source": "Exploring Science 9A, Lesson 2 (Student Book pages 8 to 9)",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "**Offspring** get a mixture of characteristics from their parents. We say they **inherit** them. Examples of **inherited variation**: natural eye colour, a dimpled chin, blood group, attached ear lobes.",
-          "**Genetic information** is the set of instructions for inherited characteristics. It is stored in **genes**, in the **nucleus** of every cell. A gene is a section of DNA that carries the instructions for one characteristic.",
-          "In sexual reproduction a male **gamete** (a sperm cell, or a pollen cell in plants) and a female gamete (an egg cell) fuse at **fertilisation** to make a **zygote**. The zygote has genetic information from both parents.",
-          "Every gamete carries a slightly different mixture of its parent's genetic information. That is why brothers and sisters are not identical (only identical twins, who grew from the same zygote, share all their genes).",
-          "Inherited variation can be **discontinuous** (blood group, dimpled chin, tongue rolling: usually caused by genes only) or **continuous** (height, hand span, skin colour: caused by genes **and** the environment).",
-          "Some characteristics depend on both. Tall parents usually have tall children, but only if the children eat well. Skin colour is inherited but also changes with sunlight.",
-          "Grouped continuous data usually give a bell-shaped chart called a **normal distribution**: most values are near the middle and very large or very small values are rare."
-        ]},
-        {"type": "image", "ref": "diagram:gametes_zygote", "w": 520, "h": 300, "caption": "Two different gametes fuse at fertilisation, so each zygote gets its own mixture of the parents' genetic information."},
-        {"type": "table", "title": "Genes, environment, or both?", "headers": ["Characteristic", "Caused by", "Type of variation"], "widths": [3400, 3400, 3400], "rows": [
-          ["natural eye colour", "genes", "discontinuous"],
-          ["blood group", "genes", "discontinuous"],
-          ["a scar", "environment", "discontinuous"],
-          ["the language you speak", "environment", "discontinuous"],
-          ["height", "genes and environment (diet)", "continuous"],
-          ["skin colour", "genes and environment (sunlight)", "continuous"]]},
-        {"type": "image", "ref": "diagram:height_histogram", "w": 440, "h": 280, "caption": "Heights of 200 students: grouped continuous data, bars touching, a bell shape. This is a normal distribution."},
-        {"type": "image", "ref": "kittens_litter", "w": 300, "h": 220, "caption": "Kittens in one litter inherit coat colour from both parents, but each gets a different mixture, so they are not identical."},
-        {"type": "remember", "text": "Both gametes carry genetic information, so offspring have some characteristics of each parent. Only characteristics controlled by genes are passed on: a scar or a learned language is not."},
-        {"type": "mistakes", "points": [
-          "Offspring inherit everything from one parent (often the mother). Both gametes carry genetic information.",
-          "Features caused by lifestyle can be inherited. A scar, a hairstyle or a learned skill is not passed on.",
-          "Continuous variation is caused by genes only. Height and skin colour are inherited but are also affected by diet and sunlight."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "inherited variation", "cn": "遗传变异", "meaning": "differences in characteristics that are passed on from parents to offspring"},
-          {"en": "offspring", "cn": "后代", "meaning": "the young produced by parents"},
-          {"en": "genetic information", "cn": "遗传信息", "meaning": "the instructions for inherited characteristics, stored in the nucleus"},
-          {"en": "gene", "cn": "基因", "meaning": "a section of DNA that carries the instructions for one characteristic"},
-          {"en": "nucleus", "cn": "细胞核", "meaning": "the part of a cell that contains the genetic information"},
-          {"en": "gamete", "cn": "配子", "meaning": "a sex cell (a sperm cell or an egg cell)"},
-          {"en": "fertilisation", "cn": "受精", "meaning": "when a male gamete and a female gamete fuse (join together)"},
-          {"en": "zygote", "cn": "受精卵", "meaning": "the fertilised egg cell"},
-          {"en": "normal distribution", "cn": "正态分布", "meaning": "the bell shape you get when grouped continuous data are plotted"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "Where in a cell is genetic information stored?", "marks": 1, "a": "In the nucleus (in the genes, which are sections of DNA)."},
-          {"q": "Name the two human gametes and the cell that is formed when they fuse.", "marks": 3, "a": "Sperm cell (1), egg cell (1); they fuse to form a zygote (1)."},
-          {"q": "Explain why brothers and sisters are not identical.", "marks": 2, "a": "Each gamete carries a different mixture of the parent's genetic information (1), so each zygote, and each child, gets a different combination of genes from the two parents (1)."},
-          {"q": "Two tall parents have a child who is shorter than both of them. Explain how this is possible.", "marks": 3, "a": "The child inherited genetic information from both parents, but each gamete carries only a mixture of a parent's genes (1), so the child may not have inherited the genes for being tall (1). Height is also affected by the environment, for example diet, so poor food can make a child shorter (1)."},
-          {"q": "Blood group: is it continuous or discontinuous, and inherited or environmental?", "marks": 2, "a": "Discontinuous (1) and inherited (1)."},
-          {"q": "Describe the shape of a chart showing the heights of 200 students, and name this shape.", "marks": 2, "a": "A bell shape: most students near the middle height, with few very short or very tall (1). It is a normal distribution (1)."}
-        ]}
-      ]
+     "type": "image",
+     "ref": "diagram:env_factors",
+     "w": 520,
+     "h": 300,
+     "caption": "Abiotic factors are non-living; biotic factors come from other living things."
     },
     {
-      "n": 3, "title": "Probability and statistics",
-      "source": "Exploring Science 9A, Lesson 3 (Student Book pages 10 to 11)",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "**Statistics** is collecting, analysing and presenting data. A **sample** is a small part of a group that is measured to estimate the whole group. A large, random sample represents the whole group best.",
-          "Averages: the **mean** is the sum of the values divided by the number of values. The **median** is the middle value when the values are in order (with an even number of values, halfway between the two middle ones). The **mode** is the most common value.",
-          "**Probability** is the chance of something happening. It runs from 0 (impossible) to 1 (certain). 0.5 is an even chance.",
-          "The same probability can be written as a **percentage**, a **fraction** or a **decimal**: 25% = 1/4 = 0.25. To change a percentage to a decimal, divide by 100. To change a fraction to a percentage, divide the top by the bottom and multiply by 100.",
-          "**Theoretical probability** is worked out by reasoning about all the possible outcomes: a fair dice gives 1/6 for each number. **Experimental probability** is worked out from results: frequency divided by the number of trials. The more trials, the closer the experimental value gets to the theoretical value.",
-          "Each throw, flip or birth is a separate event. After three sixes in a row, the chance of a six is still 1/6. If each child has a 50% chance of inheriting a condition, two children may both have it, one may, or neither.",
-          "In a normal distribution the mean, median and mode are the same value, and a value near the middle is the most likely one to be picked at random."
-        ]},
-        {"type": "image", "ref": "diagram:probability_scale", "w": 520, "h": 260, "caption": "The probability scale: 0 (impossible) to 1 (certain), with the same values as percentages, fractions and decimals."},
-        {"type": "table", "title": "The same probability, written four ways", "headers": ["Words", "Percentage", "Fraction", "Decimal"], "widths": [2550, 2550, 2550, 2550], "rows": [
-          ["impossible", "0%", "0", "0"],
-          ["unlikely", "25%", "1/4", "0.25"],
-          ["even chance", "50%", "1/2", "0.5"],
-          ["likely", "75%", "3/4", "0.75"],
-          ["certain", "100%", "1", "1"]]},
-        {"type": "example", "title": "Worked example 1: mean, median and mode", "lines": [
-          "Sleeve lengths of six men (cm): 86, 88, 90, 90, 91, 92.",
-          "Mode: the most common value is 90 cm.",
-          "Median: the values are already in order; the two middle values are 90 and 90, so the median is 90 cm.",
-          "Mean: 86 + 88 + 90 + 90 + 91 + 92 = 537. 537 / 6 = 89.5 cm."
-        ]},
-        {"type": "example", "title": "Worked example 2: theoretical and experimental probability", "lines": [
-          "Theoretical: two dice are thrown and the scores added. There are 36 equally likely outcomes and 6 of them give a score of 7 (1+6, 2+5, 3+4, 4+3, 5+2, 6+1). Probability of 7 = 6/36 = 1/6 = 0.17 = 17%.",
-          "Experimental: a class threw two dice 50 times and scored 7 on 9 throws. Experimental probability = 9/50 = 0.18 = 18%.",
-          "The two values are close. With 500 throws they would be closer still."
-        ]},
-        {"type": "example", "title": "Worked example 3: probability from a bag of beads", "lines": [
-          "A bag holds 20 red, 10 green, 5 blue and 15 yellow beads: 50 beads in total.",
-          "Probability of taking a blue bead = 5/50 = 1/10 = 0.1 = 10%.",
-          "Probability of not taking a blue bead = 45/50 = 9/10 = 0.9 = 90%."
-        ]},
-        {"type": "remember", "text": "Mean: add up and divide. Median: middle value in order. Mode: most common. Experimental probability comes from doing it; theoretical probability comes from thinking about all the outcomes."},
-        {"type": "mistakes", "points": [
-          "'A 76% chance of rain' means it rains for 76% of the time. It means that if that hour happened 100 times, it would rain on about 76 of them.",
-          "After three sixes a six is 'due' or 'used up'. Each throw is independent; the probability stays 1/6.",
-          "A 50% chance means exactly one child in two will have the condition. Each child has its own 50% chance."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "statistics", "cn": "统计", "meaning": "collecting, analysing and presenting data"},
-          {"en": "sample", "cn": "样本", "meaning": "a small part of a group that is measured to estimate the whole group"},
-          {"en": "mean", "cn": "平均数", "meaning": "the sum of the values divided by the number of values"},
-          {"en": "median", "cn": "中位数", "meaning": "the middle value when the values are in order"},
-          {"en": "mode", "cn": "众数", "meaning": "the most common value in a set"},
-          {"en": "probability", "cn": "概率", "meaning": "the chance of something happening"},
-          {"en": "percentage", "cn": "百分比", "meaning": "a number out of 100, shown with the % sign"},
-          {"en": "fraction", "cn": "分数", "meaning": "a part of a whole, written as one number over another, e.g. 1/4"},
-          {"en": "decimal", "cn": "小数", "meaning": "a number written with a decimal point, e.g. 0.25"},
-          {"en": "experimental probability", "cn": "实验概率", "meaning": "a probability worked out from the results of an experiment"},
-          {"en": "theoretical probability", "cn": "理论概率", "meaning": "a probability worked out by reasoning about all the possible outcomes"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "Write 5% as a decimal and as a fraction.", "marks": 2, "a": "0.05 (1) and 5/100 = 1/20 (1)."},
-          {"q": "Find the mean, median and mode of 3, 5, 5, 6, 8, 9.", "marks": 3, "a": "Mean = 36 / 6 = 6 (1). Median: the middle values are 5 and 6, so 5.5 (1). Mode = 5 (1)."},
-          {"q": "What is the theoretical probability of rolling a 4 with a fair dice? Write it as a fraction, a decimal (to 2 decimal places) and a percentage.", "marks": 3, "a": "1/6 (1) = 0.17 (1) = 17% (1)."},
-          {"q": "A coin landed heads 56 times in 100 flips. (a) What is the experimental probability of heads? (b) What is the theoretical probability? (c) Why are they different?", "marks": 3, "a": "(a) 56/100 = 0.56 = 56% (1). (b) 1/2 = 0.5 = 50% (1). (c) Results vary by chance in a small number of trials; with more flips the experimental value would get closer to 50% (1)."},
-          {"q": "If one parent has achondroplasia, each child has a 50% chance of inheriting it. A couple's first two children do not have it. What is the chance that their third child has it? Explain.", "marks": 2, "a": "Still 50% (1). Each child is a separate event; the earlier children do not change the probability for the next (1)."},
-          {"q": "Why is a sample of 1000 people better than a sample of 10 for estimating the percentage of people with blood group O?", "marks": 1, "a": "A larger sample is more likely to represent the whole population, so the estimate is closer to the true value (chance differences matter less)."}
-        ]}
+     "type": "table",
+     "title": "Abiotic or biotic? Examples for a pond",
+     "headers": [
+      "Abiotic (non-living) factors",
+      "Biotic (living) factors"
+     ],
+     "widths": [
+      5000,
+      5000
+     ],
+     "rows": [
+      [
+       "water temperature",
+       "predation: herons eating fish"
+      ],
+      [
+       "amount of light reaching the water",
+       "competition between plants for light"
+      ],
+      [
+       "oxygen dissolved in the water",
+       "infectious disease spreading between fish"
+      ],
+      [
+       "mineral salts in the mud",
+       "plants shading other plants"
       ]
+     ]
     },
     {
-      "n": 4, "title": "Genes, adaptation and extinction",
-      "source": "Exploring Science 9A, Lesson 6 (Student Book pages 16 to 17)",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "An **adaptation** is a characteristic that helps an organism survive in its habitat. Adaptations are caused by genes. A sand cat has sand-coloured fur (camouflage) and furry feet for hot sand.",
-          "If the ecosystem changes, a species may no longer be well adapted to the new conditions. Its numbers fall: it becomes **endangered**, and it may become **extinct**.",
-          "Changes in **abiotic factors**: rainfall, temperature, light. Changes in **biotic factors**: new competitors, disease, predators, and human activities such as hunting, clearing habitats and using poisons.",
-          "An organism cannot choose to change its genes. Only the individuals that already have helpful characteristics survive and reproduce.",
-          "**Competition** is when organisms need the same limited resource: food, water, light, space or mates. Red squirrels are a **native species** in the UK. Grey squirrels, brought from the USA in the 1870s, store more body fat, can digest unripe acorns (so they eat them first) and carry squirrel pox, which kills reds. Reds still do well in conifer forests, where their lighter bodies suit the thin branches.",
-          "**Biodiversity** is the number of different species in an area or on Earth. Extinctions upset ecosystems and food webs, and we lose species we could use for food or medicines.",
-          "Preserving biodiversity: banning hunting of certain animals, setting up **nature reserves** (protecting the habitat), running **breeding programmes** (breeding endangered species in captivity, then releasing them), and storing seeds, gametes or cells cold in **gene banks** so a species can be grown again."
-        ]},
-        {"type": "image", "ref": "sand_cat", "w": 300, "h": 220, "caption": "A sand cat: fur that matches the sand and furry feet are adaptations to a hot desert."},
-        {"type": "image", "ref": "grey_squirrel", "w": 300, "h": 220, "caption": "The grey squirrel out-competes the red squirrel for food and carries squirrel pox."},
-        {"type": "table", "title": "Ways of preserving biodiversity", "headers": ["Method", "How it works", "Limitation"], "widths": [2600, 4400, 3200], "rows": [
-          ["hunting ban", "stops people killing the animals, so numbers can recover", "needs enforcing; does not protect the habitat"],
-          ["nature reserve", "protects the habitat, so the species keeps its food and shelter", "takes land; animals may move outside it"],
-          ["breeding programme", "endangered animals or plants are bred in captivity to increase numbers, then released", "slow and expensive; released animals need a suitable habitat"],
-          ["gene bank", "seeds, gametes or cells are stored at low temperature so the species can be produced again", "cannot replace a lost habitat; stored genes are not a living population"]]},
-        {"type": "remember", "text": "A good explanation of an extinction says: what changed (the abiotic or biotic factor), why the species was no longer well adapted, and what happened to its numbers."},
-        {"type": "mistakes", "points": [
-          "Animals compete only by fighting. Most competition is for food, water, space, light or mates; the grey squirrel wins by eating the acorns first.",
-          "Organisms choose to adapt when the environment changes. Adaptations come from genes, and an individual cannot change its genes.",
-          "Conservation only happens in big wild places. Gene banks, zoos and small local reserves also preserve biodiversity."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "adaptation", "cn": "适应性特征", "meaning": "a characteristic that helps an organism survive in its habitat"},
-          {"en": "endangered", "cn": "濒危的", "meaning": "a species in danger of becoming extinct"},
-          {"en": "extinct", "cn": "灭绝的", "meaning": "a species with no living members left"},
-          {"en": "competition", "cn": "竞争", "meaning": "when organisms need the same limited resource, e.g. food or light"},
-          {"en": "native species", "cn": "本地物种", "meaning": "a species that is naturally found in a part of the world"},
-          {"en": "biodiversity", "cn": "生物多样性", "meaning": "the number of different species in an area or on Earth"},
-          {"en": "nature reserve", "cn": "自然保护区", "meaning": "an area where habitats and species are protected"},
-          {"en": "breeding programme", "cn": "繁育计划", "meaning": "breeding endangered animals or plants in captivity to increase their numbers"},
-          {"en": "gene bank", "cn": "基因库", "meaning": "a store of seeds, gametes or cells kept cold so a species can be grown again"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "What is an adaptation? Give one adaptation of a sand cat.", "marks": 2, "a": "A characteristic that helps an organism survive in its habitat (1). Sand-coloured fur for camouflage, or furry feet for walking on hot sand (1)."},
-          {"q": "What does it mean if a species is endangered?", "marks": 1, "a": "It is in danger of becoming extinct (its numbers are very low or falling fast)."},
-          {"q": "Give two reasons why grey squirrels have replaced red squirrels in most of the UK.", "marks": 2, "a": "Any two of: greys store more fat so more survive the winter; greys can digest unripe acorns and eat them before the reds; greys carry squirrel pox, which kills reds but not greys."},
-          {"q": "Polar bears hunt seals from the sea ice. The ice is melting earlier each year. Predict the effect on the polar bear population and explain your reasoning.", "marks": 3, "a": "The population will fall (1). The changing abiotic factor is temperature (the ice melting earlier) (1). Polar bears are adapted to hunting from ice; with less ice they cannot catch enough seals, so fewer survive and reproduce (1)."},
-          {"q": "Explain how a gene bank helps to preserve biodiversity, and give one thing a gene bank cannot do.", "marks": 2, "a": "It stores seeds, gametes or cells at low temperature so a species can be grown or bred again if it becomes extinct in the wild (1). It cannot replace a lost habitat, or keep a living population in the wild (1)."},
-          {"q": "Why can losing one species affect other species?", "marks": 2, "a": "Species are linked in food webs (1); if one is lost, its predators lose food and the organisms it ate may increase, so the whole ecosystem changes (1)."}
-        ]}
+     "type": "table",
+     "title": "Continuous or discontinuous?",
+     "headers": [
+      "",
+      "Continuous variation",
+      "Discontinuous variation"
+     ],
+     "widths": [
+      2400,
+      3900,
+      3900
+     ],
+     "rows": [
+      [
+       "Values",
+       "any value between two points",
+       "a limited set of values"
+      ],
+      [
+       "Examples",
+       "height, mass, foot length, pumpkin size",
+       "blood group, tongue rolling, number of petals"
+      ],
+      [
+       "Recording",
+       "measure, then put the values into groups",
+       "count how many in each group"
+      ],
+      [
+       "Chart",
+       "bar chart with the bars touching; often a bell shape",
+       "bar chart with gaps between the bars"
       ]
+     ]
     },
     {
-      "n": 5, "title": "Cells and the microscope",
-      "source": "Revisits earlier work on cells, microscopes and scientific drawing",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "All living things are made of **cells**. Cells are too small to see without a **microscope**, which magnifies them (makes them look bigger).",
-          "Parts found in **both** animal and plant cells: the **nucleus** (controls the cell and holds the genetic information), the **cytoplasm** (a jelly where chemical reactions happen), the **cell membrane** (controls what goes in and out) and **mitochondria** (where respiration releases energy).",
-          "Parts found **only in plant cells**: the **cell wall** (made of cellulose; supports the cell and gives it shape), **chloroplasts** (contain chlorophyll, which traps light for photosynthesis) and a large **vacuole** (full of cell sap; keeps the cell firm).",
-          "A light microscope has an **eyepiece lens** (usually x10) and **objective lenses** (x4, x10, x40) on a turning nosepiece. The **stage** holds the slide; light comes from below; the coarse and fine **focus** knobs move the stage to make the image sharp.",
-          "**Total magnification = eyepiece magnification x objective magnification.** With a x10 eyepiece and a x40 objective the image is x400."
-        ]},
-        {"type": "image", "ref": "diagram:animal_plant_cells", "w": 640, "h": 290, "caption": "An animal cell and a plant cell. Learn the parts and the job of each."},
-        {"type": "table", "title": "Cell parts and their jobs", "headers": ["Part", "Job", "Animal cell", "Plant cell"], "widths": [2200, 5000, 1500, 1500], "rows": [
-          ["nucleus", "controls the cell; contains the genetic information (DNA)", "yes", "yes"],
-          ["cytoplasm", "jelly where the chemical reactions of the cell happen", "yes", "yes"],
-          ["cell membrane", "controls what goes into and out of the cell", "yes", "yes"],
-          ["mitochondria", "where aerobic respiration releases energy from glucose", "yes", "yes"],
-          ["cell wall", "made of cellulose; supports the cell and gives it its shape", "no", "yes"],
-          ["chloroplasts", "contain chlorophyll; trap light energy for photosynthesis", "no", "yes"],
-          ["vacuole", "a bag of cell sap; keeps the cell firm and stores substances", "no", "yes (large)"]]},
-        {"type": "image", "ref": "diagram:microscope", "w": 640, "h": 300, "caption": "The parts of a light microscope and what each one does."},
-        {"type": "steps", "title": "How to set up and use a microscope", "steps": [
-          "Carry the microscope with one hand on the arm and the other under the base. Put it on a flat bench, away from the edge.",
-          "Turn the nosepiece so the lowest-power objective lens (x4) clicks into place.",
-          "Put the slide on the stage with the specimen over the hole, and hold it with the clips. Switch on the light (or angle the mirror towards the light).",
-          "Looking from the side (not through the eyepiece), turn the coarse focus knob to bring the objective lens close to the slide, without touching it.",
-          "Look through the eyepiece. Turn the coarse focus knob slowly to move the lens away from the slide until the specimen comes into view.",
-          "Turn the fine focus knob to make the image sharp.",
-          "To see more detail, turn the nosepiece to a higher-power objective (x10, then x40) and refocus with the fine focus knob only. Never use the coarse focus on high power: the lens can hit and break the slide.",
-          "Work out the total magnification: eyepiece x objective. Write it next to your drawing."
-        ]},
-        {"type": "steps", "title": "How to make a slide (onion skin or cheek cells)", "steps": [
-          "Put a drop of water (or stain) in the middle of a clean slide.",
-          "Peel a thin layer of onion skin (one cell thick) with forceps and lay it flat in the drop. For cheek cells, gently scrape the inside of your cheek with a clean cotton bud and smear it on the slide.",
-          "Add a drop of stain so the parts show up: iodine solution for onion cells (it stains the nucleus brown), methylene blue for cheek cells.",
-          "Lower a cover slip onto the drop at an angle, using a mounted needle, so that no air bubbles are trapped.",
-          "Blot any extra liquid from around the cover slip with paper towel. Handle slides and cover slips by the edges; put broken glass in the sharps bin."
-        ]},
-        {"type": "steps", "title": "Rules for drawing and labelling cells", "steps": [
-          "Use a sharp HB pencil and plain paper. Make the drawing large: at least half the space available.",
-          "Draw only what you see, usually two or three cells, with smooth, clear, single outlines. No sketchy lines, no shading, no colouring.",
-          "Keep the proportions right: a nucleus that is one fifth of the cell's width in the eyepiece should be one fifth of the cell's width in your drawing.",
-          "Label the parts with straight lines drawn with a ruler. The lines must not cross each other, and each line must end exactly on the part it labels. Write the labels horizontally.",
-          "Give the drawing a title that says what it is, the stain used and the total magnification, for example 'Onion skin cells, iodine stain, x100'."
-        ]},
-        {"type": "image", "ref": "diagram:magnification_formula", "w": 560, "h": 220, "caption": "Magnification calculations. Use the same units for the image size and the actual size."},
-        {"type": "example", "title": "Worked example: how big is the cell really?", "lines": [
-          "A student uses a x10 eyepiece and a x40 objective. Total magnification = 10 x 40 = x400.",
-          "In the drawing a cell is 40 mm wide. Actual size = image size / magnification = 40 / 400 = 0.1 mm.",
-          "0.1 mm = 100 micrometres (there are 1000 micrometres in 1 mm)."
-        ]},
-        {"type": "mistakes", "points": [
-          "All cells have a cell wall. Only plant cells (and some other organisms such as bacteria and fungi) have one; animal cells do not.",
-          "Chloroplasts are found in every plant cell. Root cells are underground, get no light and have no chloroplasts.",
-          "Focus with the coarse knob on high power. On x40 use the fine focus only, or the lens can smash the slide.",
-          "Shading and colouring make a better drawing. Scientific drawings use clear single lines and labels, no shading."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "cell", "cn": "细胞", "meaning": "the basic unit that all living things are made of"},
-          {"en": "nucleus", "cn": "细胞核", "meaning": "controls the cell and contains the genetic information"},
-          {"en": "cytoplasm", "cn": "细胞质", "meaning": "the jelly inside a cell where chemical reactions happen"},
-          {"en": "cell membrane", "cn": "细胞膜", "meaning": "the thin layer around a cell that controls what goes in and out"},
-          {"en": "mitochondria", "cn": "线粒体", "meaning": "the parts of a cell where respiration releases energy"},
-          {"en": "cell wall", "cn": "细胞壁", "meaning": "the tough outer layer of a plant cell, made of cellulose, that supports it"},
-          {"en": "chloroplast", "cn": "叶绿体", "meaning": "the part of a plant cell that contains chlorophyll and carries out photosynthesis"},
-          {"en": "vacuole", "cn": "液泡", "meaning": "a space in a plant cell filled with cell sap that keeps the cell firm"},
-          {"en": "microscope", "cn": "显微镜", "meaning": "an instrument that magnifies very small objects"},
-          {"en": "magnification", "cn": "放大倍数", "meaning": "how many times bigger the image is than the real object"},
-          {"en": "eyepiece lens", "cn": "目镜", "meaning": "the lens you look through at the top of the microscope"},
-          {"en": "objective lens", "cn": "物镜", "meaning": "the lens just above the specimen; usually x4, x10 or x40"},
-          {"en": "stage", "cn": "载物台", "meaning": "the flat part of the microscope that the slide rests on"},
-          {"en": "focus", "cn": "调焦", "meaning": "to make the image sharp by moving the lens and specimen closer or further apart"},
-          {"en": "specimen", "cn": "标本", "meaning": "the object being looked at under the microscope"},
-          {"en": "slide", "cn": "载玻片", "meaning": "the strip of glass that the specimen is put on"},
-          {"en": "cover slip", "cn": "盖玻片", "meaning": "the thin square of glass placed over the specimen"},
-          {"en": "stain", "cn": "染色剂", "meaning": "a dye that colours parts of a cell so they can be seen"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "Name three parts found in both animal cells and plant cells.", "marks": 3, "a": "Any three of: nucleus, cytoplasm, cell membrane, mitochondria."},
-          {"q": "Name three parts found only in plant cells and give the job of each.", "marks": 3, "a": "Cell wall: supports the cell and gives it shape. Chloroplasts: contain chlorophyll and trap light for photosynthesis. Vacuole: holds cell sap and keeps the cell firm. (1 mark for each part with its job.)"},
-          {"q": "Describe how to focus a microscope on a slide, starting on low power.", "marks": 4, "a": "Select the lowest-power objective (x4) (1). Looking from the side, use the coarse focus to bring the lens close to the slide without touching it (1). Look through the eyepiece and turn the coarse focus to move the lens away until the specimen appears (1). Use the fine focus to sharpen the image; on higher power use the fine focus only (1)."},
-          {"q": "Give three rules for a good scientific drawing of cells.", "marks": 3, "a": "Any three of: sharp pencil; large drawing; clear single outlines with no shading or colouring; draw only what you see; label lines drawn with a ruler, not crossing, ending on the part; a title with the specimen, stain and magnification."},
-          {"q": "A microscope has a x10 eyepiece and a x40 objective lens. What is the total magnification?", "marks": 1, "a": "10 x 40 = x400."},
-          {"q": "A cell is drawn 30 mm wide at a magnification of x100. What is its actual width in mm?", "marks": 2, "a": "Actual size = image size / magnification = 30 / 100 (1) = 0.3 mm (1)."},
-          {"q": "Why is the cover slip lowered onto the slide at an angle?", "marks": 1, "a": "So that air bubbles are not trapped under it (bubbles would get in the way of the specimen)."}
-        ]}
-      ]
+     "type": "image",
+     "ref": "flag_tree",
+     "w": 300,
+     "h": 220,
+     "caption": "A tree bent and stunted by the wind: environmental variation. Its seeds would grow straight in a sheltered place."
     },
     {
-      "n": 6, "title": "Atoms, atomic mass and the periodic table",
-      "source": "Revisits earlier work on atoms, elements and the periodic table",
-      "blocks": [
-        {"type": "ideas", "points": [
-          "Everything is made of **atoms**. An **element** is a substance made of only one type of atom. There are about 100 elements, each with a **symbol** of one or two letters, the first a capital: C for carbon, Cl for chlorine, Na for sodium.",
-          "An atom has a tiny central **nucleus** made of **protons** (charge +1) and **neutrons** (no charge). **Electrons** (charge -1) move around the nucleus in **electron shells**. Protons and neutrons each have a relative mass of 1; an electron's mass is almost nothing, so nearly all the mass of an atom is in its nucleus.",
-          "Atoms are neutral: the number of electrons equals the number of protons.",
-          "The **atomic number** is the number of protons in an atom. Every element has its own atomic number. The **mass number** is the number of protons plus neutrons. So: neutrons = mass number minus atomic number.",
-          "The **relative atomic mass** (the larger number in the periodic table square) is the average mass of an element's atoms compared with carbon. For most elements it is close to a whole number. Chlorine's is 35.5 because chlorine atoms come in two kinds, with 18 or 20 neutrons (**isotopes**: atoms of the same element with different numbers of neutrons), and 35.5 is the average.",
-          "**Electron configuration**: electrons fill the shells from the inside. The first shell holds up to 2 electrons, the second up to 8 and the third up to 8 (for the first 20 elements). Write the numbers in each shell separated by commas: sodium (11 electrons) is 2,8,1.",
-          "The **periodic table** lists the elements in order of atomic number. A row is a **period**: all its elements have the same number of shells. A column is a **group**: all its elements have the same number of electrons in the outer shell, so they react in similar ways. Group 0 elements have a full outer shell.",
-          "**Metals** are on the left and in the middle (most elements); **non-metals** are on the right. Group 1 is the **alkali metals** (very reactive), group 7 the **halogens** (reactive non-metals) and group 0 the **noble gases** (unreactive)."
-        ]},
-        {"type": "image", "ref": "diagram:atom_structure", "w": 640, "h": 300, "caption": "A lithium atom: 3 protons and 4 neutrons in the nucleus, 3 electrons in two shells (2,1)."},
-        {"type": "table", "title": "The three particles in an atom", "headers": ["Particle", "Where it is", "Relative mass", "Relative charge"], "widths": [2550, 2550, 2550, 2550], "rows": [
-          ["proton", "in the nucleus", "1", "+1"],
-          ["neutron", "in the nucleus", "1", "0"],
-          ["electron", "in shells around the nucleus", "almost 0 (about 1/1840)", "-1"]]},
-        {"type": "example", "title": "Worked example 1: using the atomic number and mass number", "lines": [
-          "Sodium: atomic number 11, mass number 23.",
-          "Protons = atomic number = 11.   Electrons = protons = 11 (the atom is neutral).",
-          "Neutrons = mass number - atomic number = 23 - 11 = 12."
-        ]},
-        {"type": "image", "ref": "diagram:electron_shells", "w": 640, "h": 260, "caption": "Fill the shells in order: 2, then 8, then 8. The outer shell tells you the group; the number of shells tells you the period."},
-        {"type": "example", "title": "Worked example 2: electron configuration", "lines": [
-          "Oxygen, atomic number 8: 8 electrons. First shell 2, second shell 6. Configuration 2,6. Period 2 (two shells), group 6 (six outer electrons).",
-          "Magnesium, atomic number 12: 2,8,2. Period 3, group 2.",
-          "Potassium, atomic number 19: 2,8,8,1. Period 4, group 1.",
-          "Argon, atomic number 18: 2,8,8. Full outer shell, so it is in group 0 and is unreactive."
-        ]},
-        {"type": "image", "ref": "diagram:periodic_table_20", "w": 640, "h": 350, "caption": "The first 20 elements. Metals are shaded; the stepped line separates metals from non-metals."},
-        {"type": "table", "title": "What the numbers in a periodic table square tell you", "headers": ["Number", "What it means", "Example: chlorine"], "widths": [2800, 4400, 3000], "rows": [
-          ["atomic number (smaller)", "number of protons, and the element's position in the table", "17: 17 protons, 17 electrons"],
-          ["relative atomic mass (larger)", "average mass of the atoms compared with carbon", "35.5"],
-          ["group (column)", "number of outer electrons", "group 7: 7 outer electrons"],
-          ["period (row)", "number of electron shells", "period 3: 3 shells, so 2,8,7"]]},
-        {"type": "remember", "text": "Atomic number = protons = electrons. Mass number = protons + neutrons. Shells fill 2, 8, 8. Group = outer electrons; period = number of shells."},
-        {"type": "mistakes", "points": [
-          "The atomic number is the number of neutrons. It is the number of protons. Neutrons = mass number minus atomic number.",
-          "Mass number and relative atomic mass are the same thing. The mass number belongs to one atom; the relative atomic mass is an average for the element, which is why chlorine's is 35.5.",
-          "Electrons have the same mass as protons. An electron's mass is about 1/1840 of a proton's; almost all the mass is in the nucleus.",
-          "The third shell always holds 18. For the first 20 elements, fill it to 8 and start the fourth shell (potassium is 2,8,8,1)."
-        ]},
-        {"type": "keywords", "words": [
-          {"en": "atom", "cn": "原子", "meaning": "the smallest particle of an element"},
-          {"en": "element", "cn": "元素", "meaning": "a substance made of only one type of atom"},
-          {"en": "symbol", "cn": "元素符号", "meaning": "the one or two letters that stand for an element, e.g. Na"},
-          {"en": "nucleus (of an atom)", "cn": "原子核", "meaning": "the tiny centre of an atom, made of protons and neutrons"},
-          {"en": "proton", "cn": "质子", "meaning": "a particle in the nucleus with a charge of +1 and a relative mass of 1"},
-          {"en": "neutron", "cn": "中子", "meaning": "a particle in the nucleus with no charge and a relative mass of 1"},
-          {"en": "electron", "cn": "电子", "meaning": "a particle with a charge of -1 and almost no mass, found in shells around the nucleus"},
-          {"en": "electron shell", "cn": "电子层", "meaning": "a level around the nucleus where electrons are found; the first holds 2, the next 8"},
-          {"en": "electron configuration", "cn": "电子排布", "meaning": "the number of electrons in each shell, e.g. 2,8,1"},
-          {"en": "atomic number", "cn": "原子序数", "meaning": "the number of protons in an atom"},
-          {"en": "mass number", "cn": "质量数", "meaning": "the number of protons plus neutrons in an atom"},
-          {"en": "relative atomic mass", "cn": "相对原子质量", "meaning": "the average mass of the atoms of an element compared with carbon"},
-          {"en": "isotope", "cn": "同位素", "meaning": "atoms of the same element with different numbers of neutrons"},
-          {"en": "periodic table", "cn": "元素周期表", "meaning": "the table of all the elements in order of atomic number"},
-          {"en": "group", "cn": "族", "meaning": "a column of the periodic table; elements with the same number of outer electrons"},
-          {"en": "period", "cn": "周期", "meaning": "a row of the periodic table; elements with the same number of shells"},
-          {"en": "metal", "cn": "金属", "meaning": "an element on the left of the periodic table; usually shiny and conducts electricity"},
-          {"en": "non-metal", "cn": "非金属", "meaning": "an element on the right of the periodic table"},
-          {"en": "alkali metal", "cn": "碱金属", "meaning": "a very reactive metal in group 1, e.g. sodium"},
-          {"en": "halogen", "cn": "卤素", "meaning": "a reactive non-metal in group 7, e.g. chlorine"},
-          {"en": "noble gas", "cn": "稀有气体", "meaning": "an unreactive gas in group 0, e.g. argon"}
-        ]},
-        {"type": "test", "questions": [
-          {"q": "Name the three particles in an atom. Give the charge of each and say where it is found.", "marks": 3, "a": "Proton: +1, in the nucleus (1). Neutron: 0, in the nucleus (1). Electron: -1, in shells around the nucleus (1)."},
-          {"q": "Magnesium has atomic number 12 and mass number 24. How many protons, neutrons and electrons does a magnesium atom have?", "marks": 3, "a": "12 protons (1), 24 - 12 = 12 neutrons (1), 12 electrons (1)."},
-          {"q": "Write the electron configuration of (a) nitrogen, atomic number 7, (b) aluminium, atomic number 13, (c) potassium, atomic number 19.", "marks": 3, "a": "(a) 2,5 (1). (b) 2,8,3 (1). (c) 2,8,8,1 (1)."},
-          {"q": "Fluorine has the electron configuration 2,7. Which group and which period is it in? Why does fluorine react in a similar way to chlorine?", "marks": 3, "a": "Group 7 (1), period 2 (1). Both have 7 electrons in the outer shell, and the outer electrons decide how an element reacts (1)."},
-          {"q": "What is the relative atomic mass of chlorine, and why is it not a whole number?", "marks": 2, "a": "35.5 (1). Chlorine has two isotopes (atoms with 18 or 20 neutrons), and 35.5 is the average mass of a chlorine atom (1)."},
-          {"q": "What is the name of the group 0 elements? Give one property they share and explain it.", "marks": 2, "a": "The noble gases (1). They are unreactive because their outer shell is full (1)."},
-          {"q": "Use the periodic table. Name the element with atomic number 16, write its electron configuration, and say whether it is a metal or a non-metal.", "marks": 3, "a": "Sulfur (1), 2,8,6 (1), a non-metal (1)."}
-        ]}
-      ]
+     "type": "remember",
+     "text": "To decide if variation is continuous, ask: could the value be anything in between? Hand span could be 18.5 cm, 18.6 cm or 18.65 cm, so it is continuous. Blood group cannot be 'between A and B', so it is discontinuous."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "'Variation' only means big differences. Any difference in a characteristic, however small, is variation.",
+      "All variation can be passed on. Environmental variation (a scar, a wind-bent tree) is not inherited.",
+      "'Continuous' means 'keeps happening'. In science it means the measurement can take any value in a range."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "species",
+       "cn": "物种",
+       "meaning": "a group of organisms that can breed together to produce offspring that can also breed"
+      },
+      {
+       "en": "extinct",
+       "cn": "灭绝的",
+       "meaning": "a species with no living members left"
+      },
+      {
+       "en": "environment",
+       "cn": "环境",
+       "meaning": "the surroundings of an organism"
+      },
+      {
+       "en": "abiotic factor",
+       "cn": "非生物因素",
+       "meaning": "a physical (non-living) part of the environment, e.g. temperature"
+      },
+      {
+       "en": "biotic factor",
+       "cn": "生物因素",
+       "meaning": "the activities of other organisms, e.g. predation, disease"
+      },
+      {
+       "en": "characteristic",
+       "cn": "特征",
+       "meaning": "a feature of an organism"
+      },
+      {
+       "en": "variation",
+       "cn": "变异",
+       "meaning": "the differences between the characteristics of organisms"
+      },
+      {
+       "en": "environmental variation",
+       "cn": "环境变异",
+       "meaning": "variation caused by an organism's environment"
+      },
+      {
+       "en": "continuous variation",
+       "cn": "连续变异",
+       "meaning": "variation that can have any value between two points"
+      },
+      {
+       "en": "discontinuous variation",
+       "cn": "不连续变异",
+       "meaning": "variation with only a limited set of possible values"
+      },
+      {
+       "en": "classification",
+       "cn": "分类",
+       "meaning": "sorting organisms into groups"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Give one abiotic factor and one biotic factor that affect a plant growing in a field.",
+       "marks": 2,
+       "a": "Abiotic: any one of temperature, light, water (rainfall), mineral salts, wind. Biotic: any one of competition from other plants, being eaten by animals (grazing or insects), disease."
+      },
+      {
+       "q": "A tree growing on a windy cliff is short and bent. Is this environmental or inherited variation? Explain your answer.",
+       "marks": 2,
+       "a": "Environmental variation (1). It was caused by the wind, a factor in the environment, not by the tree's genes, so its seeds would grow straight in a sheltered place (1)."
+      },
+      {
+       "q": "Sort these into continuous and discontinuous variation: shoe size, hand span, blood group, mass, tongue rolling, leaf length.",
+       "marks": 3,
+       "a": "Continuous: hand span, mass, leaf length. Discontinuous: shoe size, blood group, tongue rolling. (1 mark for each correct pair.)"
+      },
+      {
+       "q": "What is a species?",
+       "marks": 2,
+       "a": "A group of organisms that can breed together (1) to produce offspring that can also breed (1)."
+      },
+      {
+       "q": "Explain why environmental variation can make it hard to decide whether two organisms belong to the same species.",
+       "marks": 2,
+       "a": "Two organisms of the same species can look different because of their environment, for example diet or wind (1), so you cannot tell from their appearance alone whether the difference is inherited or environmental (1)."
+      },
+      {
+       "q": "Students measured the heights of 50 bean plants. What type of chart should they draw, and should the bars touch? Give a reason.",
+       "marks": 2,
+       "a": "A bar chart of grouped heights (a histogram) with the bars touching (1), because height is continuous variation and the groups run on from each other with no gaps (1)."
+      }
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Inherited variation",
+   "source": "Exploring Science 9A, Lesson 2 (Student Book pages 8 to 9)",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "**Offspring** get a mixture of characteristics from their parents. We say they **inherit** them. Examples of **inherited variation**: natural eye colour, a dimpled chin, blood group, attached ear lobes.",
+      "**Genetic information** is the set of instructions for inherited characteristics. It is stored in **genes**, in the **nucleus** of every cell. A gene is a section of DNA that carries the instructions for one characteristic.",
+      "In sexual reproduction a male **gamete** (a sperm cell, or a pollen cell in plants) and a female gamete (an egg cell) fuse at **fertilisation** to make a **zygote**. The zygote has genetic information from both parents.",
+      "Every gamete carries a slightly different mixture of its parent's genetic information. That is why brothers and sisters are not identical (only identical twins, who grew from the same zygote, share all their genes).",
+      "Inherited variation can be **discontinuous** (blood group, dimpled chin, tongue rolling: usually caused by genes only) or **continuous** (height, hand span, skin colour: caused by genes **and** the environment).",
+      "Some characteristics depend on both. Tall parents usually have tall children, but only if the children eat well. Skin colour is inherited but also changes with sunlight.",
+      "Grouped continuous data usually give a bell-shaped chart called a **normal distribution**: most values are near the middle and very large or very small values are rare."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:gametes_zygote",
+     "w": 520,
+     "h": 300,
+     "caption": "Two different gametes fuse at fertilisation, so each zygote gets its own mixture of the parents' genetic information."
+    },
+    {
+     "type": "table",
+     "title": "Genes, environment, or both?",
+     "headers": [
+      "Characteristic",
+      "Caused by",
+      "Type of variation"
+     ],
+     "widths": [
+      3400,
+      3400,
+      3400
+     ],
+     "rows": [
+      [
+       "natural eye colour",
+       "genes",
+       "discontinuous"
+      ],
+      [
+       "blood group",
+       "genes",
+       "discontinuous"
+      ],
+      [
+       "a scar",
+       "environment",
+       "discontinuous"
+      ],
+      [
+       "the language you speak",
+       "environment",
+       "discontinuous"
+      ],
+      [
+       "height",
+       "genes and environment (diet)",
+       "continuous"
+      ],
+      [
+       "skin colour",
+       "genes and environment (sunlight)",
+       "continuous"
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:height_histogram",
+     "w": 440,
+     "h": 280,
+     "caption": "Heights of 200 students: grouped continuous data, bars touching, a bell shape. This is a normal distribution."
+    },
+    {
+     "type": "image",
+     "ref": "kittens_litter",
+     "w": 300,
+     "h": 220,
+     "caption": "Kittens in one litter inherit coat colour from both parents, but each gets a different mixture, so they are not identical."
+    },
+    {
+     "type": "remember",
+     "text": "Both gametes carry genetic information, so offspring have some characteristics of each parent. Only characteristics controlled by genes are passed on: a scar or a learned language is not."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Offspring inherit everything from one parent (often the mother). Both gametes carry genetic information.",
+      "Features caused by lifestyle can be inherited. A scar, a hairstyle or a learned skill is not passed on.",
+      "Continuous variation is caused by genes only. Height and skin colour are inherited but are also affected by diet and sunlight."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "inherited variation",
+       "cn": "遗传变异",
+       "meaning": "differences in characteristics that are passed on from parents to offspring"
+      },
+      {
+       "en": "offspring",
+       "cn": "后代",
+       "meaning": "the young produced by parents"
+      },
+      {
+       "en": "genetic information",
+       "cn": "遗传信息",
+       "meaning": "the instructions for inherited characteristics, stored in the nucleus"
+      },
+      {
+       "en": "gene",
+       "cn": "基因",
+       "meaning": "a section of DNA that carries the instructions for one characteristic"
+      },
+      {
+       "en": "nucleus",
+       "cn": "细胞核",
+       "meaning": "the part of a cell that contains the genetic information"
+      },
+      {
+       "en": "gamete",
+       "cn": "配子",
+       "meaning": "a sex cell (a sperm cell or an egg cell)"
+      },
+      {
+       "en": "fertilisation",
+       "cn": "受精",
+       "meaning": "when a male gamete and a female gamete fuse (join together)"
+      },
+      {
+       "en": "zygote",
+       "cn": "受精卵",
+       "meaning": "the fertilised egg cell"
+      },
+      {
+       "en": "normal distribution",
+       "cn": "正态分布",
+       "meaning": "the bell shape you get when grouped continuous data are plotted"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Where in a cell is genetic information stored?",
+       "marks": 1,
+       "a": "In the nucleus (in the genes, which are sections of DNA)."
+      },
+      {
+       "q": "Name the two human gametes and the cell that is formed when they fuse.",
+       "marks": 3,
+       "a": "Sperm cell (1), egg cell (1); they fuse to form a zygote (1)."
+      },
+      {
+       "q": "Explain why brothers and sisters are not identical.",
+       "marks": 2,
+       "a": "Each gamete carries a different mixture of the parent's genetic information (1), so each zygote, and each child, gets a different combination of genes from the two parents (1)."
+      },
+      {
+       "q": "Two tall parents have a child who is shorter than both of them. Explain how this is possible.",
+       "marks": 3,
+       "a": "The child inherited genetic information from both parents, but each gamete carries only a mixture of a parent's genes (1), so the child may not have inherited the genes for being tall (1). Height is also affected by the environment, for example diet, so poor food can make a child shorter (1)."
+      },
+      {
+       "q": "Blood group: is it continuous or discontinuous, and inherited or environmental?",
+       "marks": 2,
+       "a": "Discontinuous (1) and inherited (1)."
+      },
+      {
+       "q": "Describe the shape of a chart showing the heights of 200 students, and name this shape.",
+       "marks": 2,
+       "a": "A bell shape: most students near the middle height, with few very short or very tall (1). It is a normal distribution (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Genes, adaptation and extinction",
+   "source": "Exploring Science 9A, Lesson 6 (Student Book pages 16 to 17)",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "An **adaptation** is a characteristic that helps an organism survive in its habitat. Adaptations are caused by genes. A sand cat has sand-coloured fur (camouflage) and furry feet for hot sand.",
+      "If the ecosystem changes, a species may no longer be well adapted to the new conditions. Its numbers fall: it becomes **endangered**, and it may become **extinct**.",
+      "Changes in **abiotic factors**: rainfall, temperature, light. Changes in **biotic factors**: new competitors, disease, predators, and human activities such as hunting, clearing habitats and using poisons.",
+      "An organism cannot choose to change its genes. Only the individuals that already have helpful characteristics survive and reproduce.",
+      "**Competition** is when organisms need the same limited resource: food, water, light, space or mates. Red squirrels are a **native species** in the UK. Grey squirrels, brought from the USA in the 1870s, store more body fat, can digest unripe acorns (so they eat them first) and carry squirrel pox, which kills reds. Reds still do well in conifer forests, where their lighter bodies suit the thin branches.",
+      "**Biodiversity** is the number of different species in an area or on Earth. Extinctions upset ecosystems and food webs, and we lose species we could use for food or medicines.",
+      "Preserving biodiversity: banning hunting of certain animals, setting up **nature reserves** (protecting the habitat), running **breeding programmes** (breeding endangered species in captivity, then releasing them), and storing seeds, gametes or cells cold in **gene banks** so a species can be grown again."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "sand_cat",
+     "w": 300,
+     "h": 220,
+     "caption": "A sand cat: fur that matches the sand and furry feet are adaptations to a hot desert."
+    },
+    {
+     "type": "image",
+     "ref": "grey_squirrel",
+     "w": 300,
+     "h": 220,
+     "caption": "The grey squirrel out-competes the red squirrel for food and carries squirrel pox."
+    },
+    {
+     "type": "table",
+     "title": "Ways of preserving biodiversity",
+     "headers": [
+      "Method",
+      "How it works",
+      "Limitation"
+     ],
+     "widths": [
+      2600,
+      4400,
+      3200
+     ],
+     "rows": [
+      [
+       "hunting ban",
+       "stops people killing the animals, so numbers can recover",
+       "needs enforcing; does not protect the habitat"
+      ],
+      [
+       "nature reserve",
+       "protects the habitat, so the species keeps its food and shelter",
+       "takes land; animals may move outside it"
+      ],
+      [
+       "breeding programme",
+       "endangered animals or plants are bred in captivity to increase numbers, then released",
+       "slow and expensive; released animals need a suitable habitat"
+      ],
+      [
+       "gene bank",
+       "seeds, gametes or cells are stored at low temperature so the species can be produced again",
+       "cannot replace a lost habitat; stored genes are not a living population"
+      ]
+     ]
+    },
+    {
+     "type": "remember",
+     "text": "A good explanation of an extinction says: what changed (the abiotic or biotic factor), why the species was no longer well adapted, and what happened to its numbers."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Animals compete only by fighting. Most competition is for food, water, space, light or mates; the grey squirrel wins by eating the acorns first.",
+      "Organisms choose to adapt when the environment changes. Adaptations come from genes, and an individual cannot change its genes.",
+      "Conservation only happens in big wild places. Gene banks, zoos and small local reserves also preserve biodiversity."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "adaptation",
+       "cn": "适应性特征",
+       "meaning": "a characteristic that helps an organism survive in its habitat"
+      },
+      {
+       "en": "endangered",
+       "cn": "濒危的",
+       "meaning": "a species in danger of becoming extinct"
+      },
+      {
+       "en": "extinct",
+       "cn": "灭绝的",
+       "meaning": "a species with no living members left"
+      },
+      {
+       "en": "competition",
+       "cn": "竞争",
+       "meaning": "when organisms need the same limited resource, e.g. food or light"
+      },
+      {
+       "en": "native species",
+       "cn": "本地物种",
+       "meaning": "a species that is naturally found in a part of the world"
+      },
+      {
+       "en": "biodiversity",
+       "cn": "生物多样性",
+       "meaning": "the number of different species in an area or on Earth"
+      },
+      {
+       "en": "nature reserve",
+       "cn": "自然保护区",
+       "meaning": "an area where habitats and species are protected"
+      },
+      {
+       "en": "breeding programme",
+       "cn": "繁育计划",
+       "meaning": "breeding endangered animals or plants in captivity to increase their numbers"
+      },
+      {
+       "en": "gene bank",
+       "cn": "基因库",
+       "meaning": "a store of seeds, gametes or cells kept cold so a species can be grown again"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "What is an adaptation? Give one adaptation of a sand cat.",
+       "marks": 2,
+       "a": "A characteristic that helps an organism survive in its habitat (1). Sand-coloured fur for camouflage, or furry feet for walking on hot sand (1)."
+      },
+      {
+       "q": "What does it mean if a species is endangered?",
+       "marks": 1,
+       "a": "It is in danger of becoming extinct (its numbers are very low or falling fast)."
+      },
+      {
+       "q": "Give two reasons why grey squirrels have replaced red squirrels in most of the UK.",
+       "marks": 2,
+       "a": "Any two of: greys store more fat so more survive the winter; greys can digest unripe acorns and eat them before the reds; greys carry squirrel pox, which kills reds but not greys."
+      },
+      {
+       "q": "Polar bears hunt seals from the sea ice. The ice is melting earlier each year. Predict the effect on the polar bear population and explain your reasoning.",
+       "marks": 3,
+       "a": "The population will fall (1). The changing abiotic factor is temperature (the ice melting earlier) (1). Polar bears are adapted to hunting from ice; with less ice they cannot catch enough seals, so fewer survive and reproduce (1)."
+      },
+      {
+       "q": "Explain how a gene bank helps to preserve biodiversity, and give one thing a gene bank cannot do.",
+       "marks": 2,
+       "a": "It stores seeds, gametes or cells at low temperature so a species can be grown or bred again if it becomes extinct in the wild (1). It cannot replace a lost habitat, or keep a living population in the wild (1)."
+      },
+      {
+       "q": "Why can losing one species affect other species?",
+       "marks": 2,
+       "a": "Species are linked in food webs (1); if one is lost, its predators lose food and the organisms it ate may increase, so the whole ecosystem changes (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Cells and the microscope",
+   "source": "Revisits earlier work on cells, microscopes and scientific drawing",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "All living things are made of **cells**. Cells are too small to see without a **microscope**, which magnifies them (makes them look bigger).",
+      "Parts found in **both** animal and plant cells: the **nucleus** (controls the cell and holds the genetic information), the **cytoplasm** (a jelly where chemical reactions happen), the **cell membrane** (controls what goes in and out) and **mitochondria** (where respiration releases energy).",
+      "Parts found **only in plant cells**: the **cell wall** (made of cellulose; supports the cell and gives it shape), **chloroplasts** (contain chlorophyll, which traps light for photosynthesis) and a large **vacuole** (full of cell sap; keeps the cell firm).",
+      "A light microscope has an **eyepiece lens** (usually x10) and **objective lenses** (x4, x10, x40) on a turning nosepiece. The **stage** holds the slide; light comes from below; the coarse and fine **focus** knobs move the stage to make the image sharp.",
+      "**Total magnification = eyepiece magnification x objective magnification.** With a x10 eyepiece and a x40 objective the image is x400."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:animal_plant_cells",
+     "w": 640,
+     "h": 290,
+     "caption": "An animal cell and a plant cell. Learn the parts and the job of each."
+    },
+    {
+     "type": "table",
+     "title": "Cell parts and their jobs",
+     "headers": [
+      "Part",
+      "Job",
+      "Animal cell",
+      "Plant cell"
+     ],
+     "widths": [
+      2200,
+      5000,
+      1500,
+      1500
+     ],
+     "rows": [
+      [
+       "nucleus",
+       "controls the cell; contains the genetic information (DNA)",
+       "yes",
+       "yes"
+      ],
+      [
+       "cytoplasm",
+       "jelly where the chemical reactions of the cell happen",
+       "yes",
+       "yes"
+      ],
+      [
+       "cell membrane",
+       "controls what goes into and out of the cell",
+       "yes",
+       "yes"
+      ],
+      [
+       "mitochondria",
+       "where aerobic respiration releases energy from glucose",
+       "yes",
+       "yes"
+      ],
+      [
+       "cell wall",
+       "made of cellulose; supports the cell and gives it its shape",
+       "no",
+       "yes"
+      ],
+      [
+       "chloroplasts",
+       "contain chlorophyll; trap light energy for photosynthesis",
+       "no",
+       "yes"
+      ],
+      [
+       "vacuole",
+       "a bag of cell sap; keeps the cell firm and stores substances",
+       "no",
+       "yes (large)"
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:microscope",
+     "w": 640,
+     "h": 300,
+     "caption": "The parts of a light microscope and what each one does."
+    },
+    {
+     "type": "steps",
+     "title": "How to set up and use a microscope",
+     "steps": [
+      "Carry the microscope with one hand on the arm and the other under the base. Put it on a flat bench, away from the edge.",
+      "Turn the nosepiece so the lowest-power objective lens (x4) clicks into place.",
+      "Put the slide on the stage with the specimen over the hole, and hold it with the clips. Switch on the light (or angle the mirror towards the light).",
+      "Looking from the side (not through the eyepiece), turn the coarse focus knob to bring the objective lens close to the slide, without touching it.",
+      "Look through the eyepiece. Turn the coarse focus knob slowly to move the lens away from the slide until the specimen comes into view.",
+      "Turn the fine focus knob to make the image sharp.",
+      "To see more detail, turn the nosepiece to a higher-power objective (x10, then x40) and refocus with the fine focus knob only. Never use the coarse focus on high power: the lens can hit and break the slide.",
+      "Work out the total magnification: eyepiece x objective. Write it next to your drawing."
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "How to make a slide (onion skin or cheek cells)",
+     "steps": [
+      "Put a drop of water (or stain) in the middle of a clean slide.",
+      "Peel a thin layer of onion skin (one cell thick) with forceps and lay it flat in the drop. For cheek cells, gently scrape the inside of your cheek with a clean cotton bud and smear it on the slide.",
+      "Add a drop of stain so the parts show up: iodine solution for onion cells (it stains the nucleus brown), methylene blue for cheek cells.",
+      "Lower a cover slip onto the drop at an angle, using a mounted needle, so that no air bubbles are trapped.",
+      "Blot any extra liquid from around the cover slip with paper towel. Handle slides and cover slips by the edges; put broken glass in the sharps bin."
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "Rules for drawing and labelling cells",
+     "steps": [
+      "Use a sharp HB pencil and plain paper. Make the drawing large: at least half the space available.",
+      "Draw only what you see, usually two or three cells, with smooth, clear, single outlines. No sketchy lines, no shading, no colouring.",
+      "Keep the proportions right: a nucleus that is one fifth of the cell's width in the eyepiece should be one fifth of the cell's width in your drawing.",
+      "Label the parts with straight lines drawn with a ruler. The lines must not cross each other, and each line must end exactly on the part it labels. Write the labels horizontally.",
+      "Give the drawing a title that says what it is, the stain used and the total magnification, for example 'Onion skin cells, iodine stain, x100'."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:magnification_formula",
+     "w": 560,
+     "h": 220,
+     "caption": "Magnification calculations. Use the same units for the image size and the actual size."
+    },
+    {
+     "type": "example",
+     "title": "Worked example: how big is the cell really?",
+     "lines": [
+      "A student uses a x10 eyepiece and a x40 objective. Total magnification = 10 x 40 = x400.",
+      "In the drawing a cell is 40 mm wide. Actual size = image size / magnification = 40 / 400 = 0.1 mm.",
+      "0.1 mm = 100 micrometres (there are 1000 micrometres in 1 mm)."
+     ]
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "All cells have a cell wall. Only plant cells (and some other organisms such as bacteria and fungi) have one; animal cells do not.",
+      "Chloroplasts are found in every plant cell. Root cells are underground, get no light and have no chloroplasts.",
+      "Focus with the coarse knob on high power. On x40 use the fine focus only, or the lens can smash the slide.",
+      "Shading and colouring make a better drawing. Scientific drawings use clear single lines and labels, no shading."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "cell",
+       "cn": "细胞",
+       "meaning": "the basic unit that all living things are made of"
+      },
+      {
+       "en": "nucleus",
+       "cn": "细胞核",
+       "meaning": "controls the cell and contains the genetic information"
+      },
+      {
+       "en": "cytoplasm",
+       "cn": "细胞质",
+       "meaning": "the jelly inside a cell where chemical reactions happen"
+      },
+      {
+       "en": "cell membrane",
+       "cn": "细胞膜",
+       "meaning": "the thin layer around a cell that controls what goes in and out"
+      },
+      {
+       "en": "mitochondria",
+       "cn": "线粒体",
+       "meaning": "the parts of a cell where respiration releases energy"
+      },
+      {
+       "en": "cell wall",
+       "cn": "细胞壁",
+       "meaning": "the tough outer layer of a plant cell, made of cellulose, that supports it"
+      },
+      {
+       "en": "chloroplast",
+       "cn": "叶绿体",
+       "meaning": "the part of a plant cell that contains chlorophyll and carries out photosynthesis"
+      },
+      {
+       "en": "vacuole",
+       "cn": "液泡",
+       "meaning": "a space in a plant cell filled with cell sap that keeps the cell firm"
+      },
+      {
+       "en": "microscope",
+       "cn": "显微镜",
+       "meaning": "an instrument that magnifies very small objects"
+      },
+      {
+       "en": "magnification",
+       "cn": "放大倍数",
+       "meaning": "how many times bigger the image is than the real object"
+      },
+      {
+       "en": "eyepiece lens",
+       "cn": "目镜",
+       "meaning": "the lens you look through at the top of the microscope"
+      },
+      {
+       "en": "objective lens",
+       "cn": "物镜",
+       "meaning": "the lens just above the specimen; usually x4, x10 or x40"
+      },
+      {
+       "en": "stage",
+       "cn": "载物台",
+       "meaning": "the flat part of the microscope that the slide rests on"
+      },
+      {
+       "en": "focus",
+       "cn": "调焦",
+       "meaning": "to make the image sharp by moving the lens and specimen closer or further apart"
+      },
+      {
+       "en": "specimen",
+       "cn": "标本",
+       "meaning": "the object being looked at under the microscope"
+      },
+      {
+       "en": "slide",
+       "cn": "载玻片",
+       "meaning": "the strip of glass that the specimen is put on"
+      },
+      {
+       "en": "cover slip",
+       "cn": "盖玻片",
+       "meaning": "the thin square of glass placed over the specimen"
+      },
+      {
+       "en": "stain",
+       "cn": "染色剂",
+       "meaning": "a dye that colours parts of a cell so they can be seen"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name three parts found in both animal cells and plant cells.",
+       "marks": 3,
+       "a": "Any three of: nucleus, cytoplasm, cell membrane, mitochondria."
+      },
+      {
+       "q": "Name three parts found only in plant cells and give the job of each.",
+       "marks": 3,
+       "a": "Cell wall: supports the cell and gives it shape. Chloroplasts: contain chlorophyll and trap light for photosynthesis. Vacuole: holds cell sap and keeps the cell firm. (1 mark for each part with its job.)"
+      },
+      {
+       "q": "Describe how to focus a microscope on a slide, starting on low power.",
+       "marks": 4,
+       "a": "Select the lowest-power objective (x4) (1). Looking from the side, use the coarse focus to bring the lens close to the slide without touching it (1). Look through the eyepiece and turn the coarse focus to move the lens away until the specimen appears (1). Use the fine focus to sharpen the image; on higher power use the fine focus only (1)."
+      },
+      {
+       "q": "Give three rules for a good scientific drawing of cells.",
+       "marks": 3,
+       "a": "Any three of: sharp pencil; large drawing; clear single outlines with no shading or colouring; draw only what you see; label lines drawn with a ruler, not crossing, ending on the part; a title with the specimen, stain and magnification."
+      },
+      {
+       "q": "A microscope has a x10 eyepiece and a x40 objective lens. What is the total magnification?",
+       "marks": 1,
+       "a": "10 x 40 = x400."
+      },
+      {
+       "q": "A cell is drawn 30 mm wide at a magnification of x100. What is its actual width in mm?",
+       "marks": 2,
+       "a": "Actual size = image size / magnification = 30 / 100 (1) = 0.3 mm (1)."
+      },
+      {
+       "q": "Why is the cover slip lowered onto the slide at an angle?",
+       "marks": 1,
+       "a": "So that air bubbles are not trapped under it (bubbles would get in the way of the specimen)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Atoms, atomic mass and the periodic table",
+   "source": "Revisits earlier work on atoms, elements and the periodic table",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "Everything is made of **atoms**. An **element** is a substance made of only one type of atom. There are about 100 elements, each with a **symbol** of one or two letters, the first a capital: C for carbon, Cl for chlorine, Na for sodium.",
+      "An atom has a tiny central **nucleus** made of **protons** (charge +1) and **neutrons** (no charge). **Electrons** (charge -1) move around the nucleus in **electron shells**. Protons and neutrons each have a relative mass of 1; an electron's mass is almost nothing, so nearly all the mass of an atom is in its nucleus.",
+      "Atoms are neutral: the number of electrons equals the number of protons.",
+      "The **atomic number** is the number of protons in an atom. Every element has its own atomic number. The **mass number** is the number of protons plus neutrons. So: neutrons = mass number minus atomic number.",
+      "The **relative atomic mass** (the larger number in the periodic table square) is the average mass of an element's atoms compared with carbon. For most elements it is close to a whole number. Chlorine's is 35.5 because chlorine atoms come in two kinds, with 18 or 20 neutrons (**isotopes**: atoms of the same element with different numbers of neutrons), and 35.5 is the average.",
+      "**Electron configuration**: electrons fill the shells from the inside. The first shell holds up to 2 electrons, the second up to 8 and the third up to 8 (for the first 20 elements). Write the numbers in each shell separated by commas: sodium (11 electrons) is 2,8,1.",
+      "The **periodic table** lists the elements in order of atomic number. A row is a **period**: all its elements have the same number of shells. A column is a **group**: all its elements have the same number of electrons in the outer shell, so they react in similar ways. Group 0 elements have a full outer shell.",
+      "**Metals** are on the left and in the middle (most elements); **non-metals** are on the right. Group 1 is the **alkali metals** (very reactive), group 7 the **halogens** (reactive non-metals) and group 0 the **noble gases** (unreactive)."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:atom_structure",
+     "w": 640,
+     "h": 300,
+     "caption": "A lithium atom: 3 protons and 4 neutrons in the nucleus, 3 electrons in two shells (2,1)."
+    },
+    {
+     "type": "table",
+     "title": "The three particles in an atom",
+     "headers": [
+      "Particle",
+      "Where it is",
+      "Relative mass",
+      "Relative charge"
+     ],
+     "widths": [
+      2550,
+      2550,
+      2550,
+      2550
+     ],
+     "rows": [
+      [
+       "proton",
+       "in the nucleus",
+       "1",
+       "+1"
+      ],
+      [
+       "neutron",
+       "in the nucleus",
+       "1",
+       "0"
+      ],
+      [
+       "electron",
+       "in shells around the nucleus",
+       "almost 0 (about 1/1840)",
+       "-1"
+      ]
+     ]
+    },
+    {
+     "type": "example",
+     "title": "Worked example 1: using the atomic number and mass number",
+     "lines": [
+      "Sodium: atomic number 11, mass number 23.",
+      "Protons = atomic number = 11.   Electrons = protons = 11 (the atom is neutral).",
+      "Neutrons = mass number - atomic number = 23 - 11 = 12."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:electron_shells",
+     "w": 640,
+     "h": 260,
+     "caption": "Fill the shells in order: 2, then 8, then 8. The outer shell tells you the group; the number of shells tells you the period."
+    },
+    {
+     "type": "example",
+     "title": "Worked example 2: electron configuration",
+     "lines": [
+      "Oxygen, atomic number 8: 8 electrons. First shell 2, second shell 6. Configuration 2,6. Period 2 (two shells), group 6 (six outer electrons).",
+      "Magnesium, atomic number 12: 2,8,2. Period 3, group 2.",
+      "Potassium, atomic number 19: 2,8,8,1. Period 4, group 1.",
+      "Argon, atomic number 18: 2,8,8. Full outer shell, so it is in group 0 and is unreactive."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:periodic_table_20",
+     "w": 640,
+     "h": 350,
+     "caption": "The first 20 elements. Metals are shaded; the stepped line separates metals from non-metals."
+    },
+    {
+     "type": "table",
+     "title": "What the numbers in a periodic table square tell you",
+     "headers": [
+      "Number",
+      "What it means",
+      "Example: chlorine"
+     ],
+     "widths": [
+      2800,
+      4400,
+      3000
+     ],
+     "rows": [
+      [
+       "atomic number (smaller)",
+       "number of protons, and the element's position in the table",
+       "17: 17 protons, 17 electrons"
+      ],
+      [
+       "relative atomic mass (larger)",
+       "average mass of the atoms compared with carbon",
+       "35.5"
+      ],
+      [
+       "group (column)",
+       "number of outer electrons",
+       "group 7: 7 outer electrons"
+      ],
+      [
+       "period (row)",
+       "number of electron shells",
+       "period 3: 3 shells, so 2,8,7"
+      ]
+     ]
+    },
+    {
+     "type": "remember",
+     "text": "Atomic number = protons = electrons. Mass number = protons + neutrons. Shells fill 2, 8, 8. Group = outer electrons; period = number of shells."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "The atomic number is the number of neutrons. It is the number of protons. Neutrons = mass number minus atomic number.",
+      "Mass number and relative atomic mass are the same thing. The mass number belongs to one atom; the relative atomic mass is an average for the element, which is why chlorine's is 35.5.",
+      "Electrons have the same mass as protons. An electron's mass is about 1/1840 of a proton's; almost all the mass is in the nucleus.",
+      "The third shell always holds 18. For the first 20 elements, fill it to 8 and start the fourth shell (potassium is 2,8,8,1)."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "atom",
+       "cn": "原子",
+       "meaning": "the smallest particle of an element"
+      },
+      {
+       "en": "element",
+       "cn": "元素",
+       "meaning": "a substance made of only one type of atom"
+      },
+      {
+       "en": "symbol",
+       "cn": "元素符号",
+       "meaning": "the one or two letters that stand for an element, e.g. Na"
+      },
+      {
+       "en": "nucleus (of an atom)",
+       "cn": "原子核",
+       "meaning": "the tiny centre of an atom, made of protons and neutrons"
+      },
+      {
+       "en": "proton",
+       "cn": "质子",
+       "meaning": "a particle in the nucleus with a charge of +1 and a relative mass of 1"
+      },
+      {
+       "en": "neutron",
+       "cn": "中子",
+       "meaning": "a particle in the nucleus with no charge and a relative mass of 1"
+      },
+      {
+       "en": "electron",
+       "cn": "电子",
+       "meaning": "a particle with a charge of -1 and almost no mass, found in shells around the nucleus"
+      },
+      {
+       "en": "electron shell",
+       "cn": "电子层",
+       "meaning": "a level around the nucleus where electrons are found; the first holds 2, the next 8"
+      },
+      {
+       "en": "electron configuration",
+       "cn": "电子排布",
+       "meaning": "the number of electrons in each shell, e.g. 2,8,1"
+      },
+      {
+       "en": "atomic number",
+       "cn": "原子序数",
+       "meaning": "the number of protons in an atom"
+      },
+      {
+       "en": "mass number",
+       "cn": "质量数",
+       "meaning": "the number of protons plus neutrons in an atom"
+      },
+      {
+       "en": "relative atomic mass",
+       "cn": "相对原子质量",
+       "meaning": "the average mass of the atoms of an element compared with carbon"
+      },
+      {
+       "en": "isotope",
+       "cn": "同位素",
+       "meaning": "atoms of the same element with different numbers of neutrons"
+      },
+      {
+       "en": "periodic table",
+       "cn": "元素周期表",
+       "meaning": "the table of all the elements in order of atomic number"
+      },
+      {
+       "en": "group",
+       "cn": "族",
+       "meaning": "a column of the periodic table; elements with the same number of outer electrons"
+      },
+      {
+       "en": "period",
+       "cn": "周期",
+       "meaning": "a row of the periodic table; elements with the same number of shells"
+      },
+      {
+       "en": "metal",
+       "cn": "金属",
+       "meaning": "an element on the left of the periodic table; usually shiny and conducts electricity"
+      },
+      {
+       "en": "non-metal",
+       "cn": "非金属",
+       "meaning": "an element on the right of the periodic table"
+      },
+      {
+       "en": "alkali metal",
+       "cn": "碱金属",
+       "meaning": "a very reactive metal in group 1, e.g. sodium"
+      },
+      {
+       "en": "halogen",
+       "cn": "卤素",
+       "meaning": "a reactive non-metal in group 7, e.g. chlorine"
+      },
+      {
+       "en": "noble gas",
+       "cn": "稀有气体",
+       "meaning": "an unreactive gas in group 0, e.g. argon"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name the three particles in an atom. Give the charge of each and say where it is found.",
+       "marks": 3,
+       "a": "Proton: +1, in the nucleus (1). Neutron: 0, in the nucleus (1). Electron: -1, in shells around the nucleus (1)."
+      },
+      {
+       "q": "Magnesium has atomic number 12 and mass number 24. How many protons, neutrons and electrons does a magnesium atom have?",
+       "marks": 3,
+       "a": "12 protons (1), 24 - 12 = 12 neutrons (1), 12 electrons (1)."
+      },
+      {
+       "q": "Write the electron configuration of (a) nitrogen, atomic number 7, (b) aluminium, atomic number 13, (c) potassium, atomic number 19.",
+       "marks": 3,
+       "a": "(a) 2,5 (1). (b) 2,8,3 (1). (c) 2,8,8,1 (1)."
+      },
+      {
+       "q": "Fluorine has the electron configuration 2,7. Which group and which period is it in? Why does fluorine react in a similar way to chlorine?",
+       "marks": 3,
+       "a": "Group 7 (1), period 2 (1). Both have 7 electrons in the outer shell, and the outer electrons decide how an element reacts (1)."
+      },
+      {
+       "q": "What is the relative atomic mass of chlorine, and why is it not a whole number?",
+       "marks": 2,
+       "a": "35.5 (1). Chlorine has two isotopes (atoms with 18 or 20 neutrons), and 35.5 is the average mass of a chlorine atom (1)."
+      },
+      {
+       "q": "What is the name of the group 0 elements? Give one property they share and explain it.",
+       "marks": 2,
+       "a": "The noble gases (1). They are unreactive because their outer shell is full (1)."
+      },
+      {
+       "q": "Use the periodic table. Name the element with atomic number 16, write its electron configuration, and say whether it is a metal or a non-metal.",
+       "marks": 3,
+       "a": "Sulfur (1), 2,8,6 (1), a non-metal (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

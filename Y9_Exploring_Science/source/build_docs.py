@@ -317,6 +317,23 @@ def revision_docs():
                 subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, docx], text=True, capture_output=True)
         print('revision guide', gid)
 
+def assessment_docs():
+    """Test papers: source/assessment/*.json -> 00_Assessment/<id>.docx and .pdf, the _CN paper and the _Mark_Scheme."""
+    import subprocess, sys, glob, json
+    src_dir = os.path.join(HERE, 'assessment'); out_dir = os.path.join(ROOT, '00_Assessment'); os.makedirs(out_dir, exist_ok=True)
+    skill = os.environ.get('PPTX_SKILL_DIR', '/root/.claude/skills/synced/f06b7bea-4409-4beb-89a6-75febf1b2f2b_c8489965-e177-412d-a52c-32d98e76e412/pptx')
+    soffice = os.path.join(skill, 'scripts', 'office', 'soffice.py')
+    for src in sorted(glob.glob(os.path.join(src_dir, '*.json'))):
+        tid = json.load(open(src, encoding='utf-8'))['id']
+        for suffix, flags in [('', []), ('_CN', ['--cn']), ('_Mark_Scheme', ['--mark-scheme'])]:
+            docx = os.path.join(out_dir, tid + suffix + '.docx')
+            r = subprocess.run(['node', os.path.join(HERE, 'build_exam.js'), src, docx] + flags, text=True, capture_output=True)
+            if r.returncode != 0: print(r.stdout[-2000:], r.stderr[-2000:]); raise SystemExit('test paper failed: ' + src)
+            if r.stderr.strip(): print(r.stderr.strip())
+            if os.path.exists(soffice):
+                subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, docx], text=True, capture_output=True)
+        print('test paper', tid)
+
 def main():
     lessons = load_lessons()
     os.makedirs(os.path.join(ROOT, '00_Teaching_Plan'), exist_ok=True)
@@ -329,6 +346,7 @@ def main():
         print('teacher guide', u, len(Ls), 'lessons')
     image_docs(lessons)
     revision_docs()
+    assessment_docs()
 
 if __name__ == '__main__':
     main()
