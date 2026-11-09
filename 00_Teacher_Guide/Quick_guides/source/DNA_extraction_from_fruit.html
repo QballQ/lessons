@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>DNA from fruit quick guide</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400..700&family=Noto+Sans:wght@300..700&family=Noto+Sans+SC:wght@300..700&display=swap">
+<style>
+@page { size: A4; margin: 0; }
+html, body { margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: 'Noto Sans', 'Noto Sans SC', sans-serif; color: #00235f; background: #fff; }
+.page { width: 794px; height: 1123px; box-sizing: border-box; overflow: hidden; position: relative; page-break-after: always; break-after: page; }
+.page:last-child { page-break-after: auto; break-after: auto; }
+.zh { font-family: 'Noto Sans SC', sans-serif; font-weight: 400; color: #4d658f; }
+.band { background: #00235f; color: #fff; padding: 14px 34px 11px; }
+.band .zh { color: #fff; opacity: .9; }
+.kick { font-size: 10px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.kick .zh { font-weight: 400; letter-spacing: 0; text-transform: none; }
+h1 { font-family: 'EB Garamond', Georgia, serif; font-weight: 500; font-size: 27px; line-height: 1.1; margin: 3px 0 0; }
+h1 .zh { font-weight: 300; font-size: 16px; margin-left: 10px; }
+.body { padding: 9px 34px 0; font-size: 9.6px; line-height: 1.32; }
+.oneline { font-size: 11.5px; font-weight: 600; margin: 0 0 6px; background: #eef1f7; border-radius: 4px; padding: 5px 9px; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+h2 { font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: #00235f; margin: 7px 0 3px; border-bottom: 1.5px solid #b7c2d3; padding-bottom: 2px; }
+h2 .zh { text-transform: none; letter-spacing: 0; font-weight: 500; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border-bottom: 1px solid #e3e8f0; padding: 2px 3px; vertical-align: top; text-align: left; }
+th { font-size: 8.6px; text-transform: uppercase; letter-spacing: .04em; color: #4d658f; font-weight: 700; }
+td.n { font-weight: 700; white-space: nowrap; width: 34px; }
+.why { color: #4d658f; display: block; }
+ul { margin: 1px 0 3px; padding-left: 14px; } li { margin: 1px 0; }
+.recipe { background: #eef1f7; border-radius: 4px; padding: 4px 8px; margin: 2px 0 3px; }
+.alc td:first-child { font-weight: 600; width: 44%; }
+.best { color: #0b6b3a; font-weight: 700; }
+.ok { color: #8a5000; font-weight: 700; }
+.no { color: #c8102e; font-weight: 700; }
+.safety { background: #fde6e8; border-left: 3px solid #c8102e; padding: 3px 8px 3px 6px; border-radius: 3px; }
+.safety li { margin: 2px 0; }
+.key { border: 2px solid #c8102e; border-radius: 4px; padding: 4px 8px; font-weight: 600; margin: 4px 0; }
+.task { display: flex; gap: 6px; margin: 1.5px 0; }
+.box { flex: 0 0 auto; width: 8px; height: 8px; border: 1.3px solid #00235f; border-radius: 2px; margin-top: 3px; }
+.when { font-weight: 700; margin: 4px 0 1px; font-size: 8.8px; text-transform: uppercase; letter-spacing: .04em; color: #4d658f; }
+.foot { position: absolute; left: 34px; right: 34px; bottom: 12px; display: flex; justify-content: space-between; color: #4d658f; font-size: 8px; }
+.small { font-size: 9px; }
+/* student cards: two per A4, cut along the dashed line */
+.card { height: 561.5px; box-sizing: border-box; padding: 20px 32px 14px; position: relative; }
+.card + .card { border-top: 1.5px dashed #8a99b5; }
+.card h1 { font-size: 25px; margin: 0; }
+.card h1 .zh { font-size: 17px; }
+.card .sub { font-size: 10px; color: #4d658f; margin: 2px 0 8px; }
+.card .warn { border: 2px solid #c8102e; border-radius: 5px; padding: 5px 10px; font-size: 12px; font-weight: 600; margin-bottom: 10px; }
+.card .warn .zh { color: #00235f; font-weight: 500; }
+.steps { display: grid; grid-template-columns: 1fr 1fr; gap: 0 22px; }
+.step { display: flex; gap: 9px; margin: 0 0 11px; font-size: 13.5px; line-height: 1.32; }
+.step .num { flex: 0 0 24px; height: 24px; border-radius: 50%; background: #00235f; color: #fff; font-weight: 700; font-size: 13px; display: flex; align-items: center; justify-content: center; }
+.step .zh { display: block; color: #00235f; font-weight: 400; font-size: 13px; }
+.step b { font-weight: 700; }
+.think { border-top: 1.5px solid #b7c2d3; margin-top: 2px; padding-top: 6px; font-size: 12.5px; }
+.think .t { font-weight: 700; text-transform: uppercase; letter-spacing: .05em; font-size: 10px; }
+.think ol { margin: 3px 0 0; padding-left: 18px; }
+.think .zh { color: #00235f; }
+.lines { color: #b7c2d3; }
+.cut { position: absolute; top: -9px; right: 32px; font-size: 9px; color: #8a99b5; background: #fff; padding: 0 4px; }
+</style>
+</head>
+<body>
+
+<!-- PAGE 1: teacher bench sheet -->
+<div class="page">
+<div class="band">
+<div class="kick">Think Like a Scientist <span class="zh">像科学家一样思考</span> · Quick teacher guide · standalone practical · 30 minutes hands-on</div>
+<h1>DNA from fruit<span class="zh">从水果中提取DNA</span></h1>
+</div>
+<div class="body">
+<p class="oneline">Squash the fruit in soapy, salty water, filter it, pour ice-cold alcohol on top, wait: white strands of DNA appear at the line between the layers.</p>
+<div class="cols">
+<div>
+<h2>Kit per group (3 or 4 students)</h2>
+<ul>
+<li><b>Half a ripe kiwi, peeled</b> (or a third of a ripe banana; strawberries work best of all)</li>
+<li><b>20 ml extraction liquid</b> (4 teaspoons)</li>
+<li>Zip-lock bag <span class="why" style="display:inline">(or cup and fork)</span></li>
+<li>Coffee filter <span class="why" style="display:inline">(or 2 sheets of kitchen paper, J-cloth, tea strainer)</span> in a funnel <span class="why" style="display:inline">(or cut-off bottle top)</span> over a clear cup</li>
+<li>Test tube <span class="why" style="display:inline">(or any narrow clear tube or small bottle: narrow shows the layers best)</span></li>
+<li><b>About 10 ml ice-cold alcohol</b>, handed out by you at step 6</li>
+<li>Wooden skewer or cocktail stick; teaspoon or 10 ml syringe (no needle); goggles each</li>
+</ul>
+<p class="small"><b>Class of 8 groups:</b> 4 kiwis plus 1 spare · 200 ml extraction liquid · about 150 ml alcohol.</p>
+
+<h2>Extraction liquid (8 groups, make on the day)</h2>
+<div class="recipe"><b>180 ml water</b> (tap is fine) + <b>20 ml washing-up liquid</b> (4 tsp) + <b>6 g salt</b> (1 level tsp). Stir gently, do not whisk: you want little froth. Label: Extraction liquid <span class="zh">提取液</span>.</div>
+
+<h2>The alcohol: strength matters more than type</h2>
+<table class="alc">
+<tr><td>95% ethanol <span class="zh">95%酒精</span> or anhydrous <span class="zh">无水乙醇</span></td><td><span class="best">Best.</span> Used in the Chinese senior-school practical <span class="zh">DNA的粗提取与鉴定</span>: ask the prep room first</td></tr>
+<tr><td>Isopropyl 90%+ <span class="zh">异丙醇</span></td><td><span class="best">Very good</span></td></tr>
+<tr><td>Methylated spirits / denatured</td><td><span class="best">Works.</span> Purple dye does not stop it</td></tr>
+<tr><td>75% medical alcohol <span class="zh">75%医用酒精</span>, 70% rubbing alcohol</td><td><span class="ok">Works, gives less.</span> Very cold, only 2 cm of fruit liquid, deeper alcohol layer, wait the full 5 min. <b>Trial run first</b></td></tr>
+<tr><td>Hand gel, glycerine, perfume, wipes, iodine <span class="zh">碘伏</span>, drinking spirits</td><td><span class="no">No</span></td></tr>
+</table>
+<p class="small"><b>Chill it:</b> 150 ml in a small, capped, labelled plastic bottle in the freezer for a few hours (it will not freeze; keep the cap tight, short time only). No freezer: bowl of ice water for 30 min. In the lesson, stand it in a cup of ice.</p>
+
+<h2>If it does not work</h2>
+<table>
+<tr><td><b>Nothing appears</b></td><td>Wait 5 to 10 min; trickle on more cold alcohol. Next time: stronger, colder, less liquid in the tube</td></tr>
+<tr><td><b>Cloudy all through</b></td><td>Poured too fast or shaken. Leave it still</td></tr>
+<tr><td><b>Thick froth</b></td><td>Squashed too hard. Leave the froth behind</td></tr>
+<tr><td><b>Pulp in the tube</b></td><td>Filter was squeezed. Let it settle, pour off</td></tr>
+<tr><td><b>Banana is gloopy</b></td><td>Starchy fruit. Use kiwi, or less banana</td></tr>
+</table>
+</div>
+
+<div>
+<h2>Method and what to say</h2>
+<table>
+<tr><th>Min</th><th>Do <span class="why" style="display:inline;text-transform:none;letter-spacing:0;font-weight:400">/ say (the why)</span></th></tr>
+<tr><td class="n">0 to 5</td><td><b>Goggles on, safety briefing.</b> Hook: "Is there DNA in your breakfast?"<span class="why">Fruit is made of cells; every cell has DNA, the instructions for building it.</span></td></tr>
+<tr><td class="n">5 to 9</td><td><b>1 to 3. Fruit + 20 ml liquid in the bag, air out, seal, squash gently 2 to 3 min.</b> No big lumps, little froth.<span class="why">Squashing breaks open the cell walls.</span></td></tr>
+<tr><td class="n">9 to 17</td><td><b>4. Pour into the filter, let it drip 5 min. Do not squeeze.</b><span class="why">Washing-up liquid breaks the oily membranes round the cell and nucleus (like grease on plates), so DNA comes out. Salt helps the strands clump. The filter removes solids: the DNA is in the liquid.</span></td></tr>
+<tr><td class="n">17 to 19</td><td><b>5. Filtered liquid into the tube, a quarter full (2 to 3 cm).</b></td></tr>
+<tr><td class="n">19 to 21</td><td><b>6 to 7. You hand out the alcohol. Tilt the tube, trickle it slowly down the side until the alcohol layer is twice as deep as the fruit layer. No shaking.</b><span class="why">Alcohol floats: it is less dense than water.</span></td></tr>
+<tr><td class="n">21 to 26</td><td><b>8. Hold still, watch the line for 3 to 5 min.</b><span class="why">DNA does not dissolve in alcohol, so it comes out as white strands where the layers meet. Cold gives more and slows the fruit's enzymes that chop DNA up.</span></td></tr>
+<tr><td class="n">26 to 31</td><td><b>9. Stick in at the line, twist slowly like spaghetti, lift out.</b></td></tr>
+<tr><td class="n">31 to 40</td><td><b>Look, explain, clean up.</b></td></tr>
+</table>
+
+<h2>What they are looking at</h2>
+<ul>
+<li><b>Millions of DNA strands clumped together</b>, with some protein and fruit pectin. A rough extract, not pure DNA.</li>
+<li><b>Not the double helix:</b> one molecule is about 2 nm wide, far too thin to see.</li>
+<li>Kiwi cells have 6 copies of each chromosome set, banana 3, strawberry 8: more copies, more DNA.</li>
+<li>The DNA in one human cell, stretched out, is about 2 m long.</li>
+<li>Watch for: "the alcohol makes the DNA" (no, it was already there); "fruit is not alive so has no DNA"; "DNA is only in the seeds".</li>
+</ul>
+
+<h2>Safety <span class="zh">注意安全</span></h2>
+<div class="safety">
+<ul>
+<li><b>Flammable:</b> no flames or heaters; you hand out small amounts; lid on; window open. <span class="zh">酒精易燃，附近不能有明火。</span></li>
+<li><b>Poisonous:</b> never drink or taste; nothing here is eaten. <span class="zh">不要喝，也不要尝。</span></li>
+<li><b>Eyes:</b> goggles; splash: rinse 10 min with water, tell the teacher. <span class="zh">请戴护目镜。</span></li>
+<li><b>Allergy:</b> check for kiwi, banana and latex; allergic students swap fruit or watch; no latex gloves. <span class="zh">课前确认过敏情况。</span></li>
+<li><b>Spills:</b> wipe up with paper towel at once, open a window.</li>
+</ul>
+</div>
+
+<h2>Prep</h2>
+<div class="key">Trial run with the exact alcohol you bought, a few days before (15 min).</div>
+<div class="when">A few days before</div>
+<div class="task"><span class="box"></span><span>Allergy list (kiwi, banana, latex) · get alcohol · buy ripe fruit (kiwi soft when pressed)</span></div>
+<div class="when">The day before</div>
+<div class="task"><span class="box"></span><span>Alcohol in freezer, labelled: Cold alcohol: flammable, do not drink <span class="zh">冷酒精：易燃，不可饮用</span></span></div>
+<div class="when">On the day, about 15 min</div>
+<div class="task"><span class="box"></span><span>Extraction liquid · peel and halve fruit · a tray per group · cup of ice on your desk</span></div>
+<div class="when">Clean-up</div>
+<div class="task"><span class="box"></span><span>Mush and filters bagged in the bin · used liquids down the sink with lots of water (check school rules) · spare alcohol in the flammables cupboard, not back in the stock bottle · wash hands · kept DNA stays in class</span></div>
+</div>
+</div>
+</div>
+<div class="foot"><span>Think Like a Scientist · DNA from fruit · quick teacher guide · full version: 00_Teacher_Guide/Quick_guides/DNA_extraction_from_fruit.md</span><span>Chinese: draft, needs native-speaker check</span></div>
+</div>
+
+<!-- PAGE 2: two student step cards -->
+<div class="page">
+<div class="card">
+<h1>DNA from fruit<span class="zh">从水果中提取DNA</span></h1>
+<div class="sub">Student step card <span class="zh">学生步骤卡</span> · one per group <span class="zh">每组一张</span></div>
+<div class="warn">Goggles on. Alcohol is flammable and poisonous: never drink or taste it. <span class="zh">戴上护目镜。酒精易燃、有毒：不要喝，也不要尝。</span></div>
+<div class="steps">
+<div>
+<div class="step"><span class="num">1</span><div>Put on your goggles.<span class="zh">戴上护目镜。</span></div></div>
+<div class="step"><span class="num">2</span><div>Put the fruit and <b>4 teaspoons</b> of extraction liquid in the bag. Squeeze out the air and seal it.<span class="zh">把水果和4茶匙提取液放进袋子里。挤出空气，封好袋子。</span></div></div>
+<div class="step"><span class="num">3</span><div>Gently squash the fruit for <b>2 minutes</b>. Try not to make bubbles.<span class="zh">轻轻挤压水果2分钟。尽量不要产生泡沫。</span></div></div>
+<div class="step"><span class="num">4</span><div>Pour it into the filter. Let it drip for <b>5 minutes</b>. Do not squeeze.<span class="zh">把它倒进滤纸里。让它滴5分钟。不要挤压。</span></div></div>
+<div class="step"><span class="num">5</span><div>Pour the liquid into the tube until it is <b>a quarter full</b>.<span class="zh">把滤出的液体倒进试管，到四分之一满。</span></div></div>
+</div>
+<div>
+<div class="step"><span class="num">6</span><div>Ask your teacher for the cold alcohol.<span class="zh">向老师领取冷酒精。</span></div></div>
+<div class="step"><span class="num">7</span><div>Tilt the tube. Pour the alcohol <b>slowly down the side</b>. Do not shake.<span class="zh">把试管倾斜。沿着管壁慢慢倒入酒精。不要摇晃。</span></div></div>
+<div class="step"><span class="num">8</span><div>Wait <b>3 to 5 minutes</b>. Watch the line between the two layers.<span class="zh">等3到5分钟。观察两层液体之间的分界线。</span></div></div>
+<div class="step"><span class="num">9</span><div>Twist the stick at the line and lift out the white strands. <b>This is DNA!</b><span class="zh">在分界线处慢慢转动小棍，把白色的丝挑出来。这就是DNA！</span></div></div>
+<div class="step"><span class="num">10</span><div>Clean up and wash your hands.<span class="zh">清理桌面，洗手。</span></div></div>
+</div>
+</div>
+<div class="think"><span class="t">Think</span> <span class="zh">想一想</span>
+<ol>
+<li>Why do we squash the fruit? <span class="zh">为什么要挤压水果？</span></li>
+<li>What does the washing-up liquid do? <span class="zh">洗洁精有什么作用？</span></li>
+<li>Why does the DNA appear where the alcohol is? <span class="zh">为什么DNA出现在酒精层？</span></li>
+</ol>
+</div>
+</div>
+
+<div class="card">
+<span class="cut">✂ cut here</span>
+<h1>DNA from fruit<span class="zh">从水果中提取DNA</span></h1>
+<div class="sub">Student step card <span class="zh">学生步骤卡</span> · one per group <span class="zh">每组一张</span></div>
+<div class="warn">Goggles on. Alcohol is flammable and poisonous: never drink or taste it. <span class="zh">戴上护目镜。酒精易燃、有毒：不要喝，也不要尝。</span></div>
+<div class="steps">
+<div>
+<div class="step"><span class="num">1</span><div>Put on your goggles.<span class="zh">戴上护目镜。</span></div></div>
+<div class="step"><span class="num">2</span><div>Put the fruit and <b>4 teaspoons</b> of extraction liquid in the bag. Squeeze out the air and seal it.<span class="zh">把水果和4茶匙提取液放进袋子里。挤出空气，封好袋子。</span></div></div>
+<div class="step"><span class="num">3</span><div>Gently squash the fruit for <b>2 minutes</b>. Try not to make bubbles.<span class="zh">轻轻挤压水果2分钟。尽量不要产生泡沫。</span></div></div>
+<div class="step"><span class="num">4</span><div>Pour it into the filter. Let it drip for <b>5 minutes</b>. Do not squeeze.<span class="zh">把它倒进滤纸里。让它滴5分钟。不要挤压。</span></div></div>
+<div class="step"><span class="num">5</span><div>Pour the liquid into the tube until it is <b>a quarter full</b>.<span class="zh">把滤出的液体倒进试管，到四分之一满。</span></div></div>
+</div>
+<div>
+<div class="step"><span class="num">6</span><div>Ask your teacher for the cold alcohol.<span class="zh">向老师领取冷酒精。</span></div></div>
+<div class="step"><span class="num">7</span><div>Tilt the tube. Pour the alcohol <b>slowly down the side</b>. Do not shake.<span class="zh">把试管倾斜。沿着管壁慢慢倒入酒精。不要摇晃。</span></div></div>
+<div class="step"><span class="num">8</span><div>Wait <b>3 to 5 minutes</b>. Watch the line between the two layers.<span class="zh">等3到5分钟。观察两层液体之间的分界线。</span></div></div>
+<div class="step"><span class="num">9</span><div>Twist the stick at the line and lift out the white strands. <b>This is DNA!</b><span class="zh">在分界线处慢慢转动小棍，把白色的丝挑出来。这就是DNA！</span></div></div>
+<div class="step"><span class="num">10</span><div>Clean up and wash your hands.<span class="zh">清理桌面，洗手。</span></div></div>
+</div>
+</div>
+<div class="think"><span class="t">Think</span> <span class="zh">想一想</span>
+<ol>
+<li>Why do we squash the fruit? <span class="zh">为什么要挤压水果？</span></li>
+<li>What does the washing-up liquid do? <span class="zh">洗洁精有什么作用？</span></li>
+<li>Why does the DNA appear where the alcohol is? <span class="zh">为什么DNA出现在酒精层？</span></li>
+</ol>
+</div>
+</div>
+</div>
+
+</body>
+</html>
