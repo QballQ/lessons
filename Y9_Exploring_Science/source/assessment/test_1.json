@@ -2,11 +2,11 @@
   "id": "Y9_Test_1_Core",
   "title": "Year 9 Science Test 1",
   "level": "Core",
-  "topics": "Variation and inheritance · Adaptation and extinction · Cells and the microscope · Atoms and the periodic table",
+  "topics": "Variation and inheritance · Adaptation, extinction and natural selection · Cells and the microscope · Atoms and the periodic table",
   "time_minutes": 40,
   "total_marks": 40,
   "instructions": [
-    "You have 40 minutes. Answer all the questions.",
+    "You have 40 minutes. Answer all the questions in Section A (30 marks), then try Section B (10 marks).",
     "Write your answers in the spaces on this paper. If you need more space, use the back of the page and write the question number.",
     "The marks for each part are shown in brackets, for example [2]. There are 40 marks in total.",
     "Read each question carefully. Use the science key words in your answers."
@@ -16,98 +16,137 @@
     {"en": "continuous variation", "cn": "连续变异"}, {"en": "discontinuous variation", "cn": "不连续变异"}, {"en": "species", "cn": "物种"},
     {"en": "inherited", "cn": "遗传的"}, {"en": "nucleus", "cn": "细胞核"}, {"en": "gamete", "cn": "配子"},
     {"en": "fertilisation", "cn": "受精"}, {"en": "zygote", "cn": "受精卵"}, {"en": "adaptation", "cn": "适应性特征"},
-    {"en": "native species", "cn": "本地物种"}, {"en": "nature reserve", "cn": "自然保护区"}, {"en": "breeding programme", "cn": "繁育计划"},
-    {"en": "gene bank", "cn": "基因库"}, {"en": "cell wall", "cn": "细胞壁"}, {"en": "chloroplast", "cn": "叶绿体"},
-    {"en": "vacuole", "cn": "液泡"}, {"en": "cell membrane", "cn": "细胞膜"}, {"en": "cytoplasm", "cn": "细胞质"},
-    {"en": "magnification", "cn": "放大倍数"}, {"en": "eyepiece lens", "cn": "目镜"}, {"en": "objective lens", "cn": "物镜"},
-    {"en": "proton", "cn": "质子"}, {"en": "neutron", "cn": "中子"}, {"en": "electron", "cn": "电子"},
-    {"en": "atomic number", "cn": "原子序数"}, {"en": "mass number", "cn": "质量数"}, {"en": "electron configuration", "cn": "电子排布"}
+    {"en": "nature reserve", "cn": "自然保护区"}, {"en": "breeding programme", "cn": "繁育计划"}, {"en": "gene bank", "cn": "基因库"},
+    {"en": "natural selection", "cn": "自然选择"}, {"en": "evolution", "cn": "进化"}, {"en": "generation", "cn": "世代"},
+    {"en": "hypothesis", "cn": "假说"}, {"en": "theory", "cn": "理论"}, {"en": "camouflage", "cn": "伪装"},
+    {"en": "cell wall", "cn": "细胞壁"}, {"en": "chloroplast", "cn": "叶绿体"}, {"en": "vacuole", "cn": "液泡"},
+    {"en": "cell membrane", "cn": "细胞膜"}, {"en": "magnification", "cn": "放大倍数"}, {"en": "eyepiece lens", "cn": "目镜"},
+    {"en": "objective lens", "cn": "物镜"}, {"en": "proton", "cn": "质子"}, {"en": "neutron", "cn": "中子"},
+    {"en": "electron", "cn": "电子"}, {"en": "atomic number", "cn": "原子序数"}, {"en": "mass number", "cn": "质量数"},
+    {"en": "electron configuration", "cn": "电子排布"}, {"en": "group", "cn": "族"}, {"en": "period", "cn": "周期"}
   ],
-  "questions": [
+  "sections": [
     {
-      "title": "Environmental variation",
-      "parts": [
-        {"label": "a", "text": "Put one tick in each row to show whether the factor is abiotic (non-living) or biotic (living).", "marks": 2,
-         "tick_table": {"headers": ["Factor", "Abiotic", "Biotic"], "widths": [4600, 2700, 2700], "rows": ["temperature", "predation (being hunted)", "amount of light", "infectious disease"]},
-         "answer": "temperature: abiotic; predation: biotic; amount of light: abiotic; infectious disease: biotic. All four correct = 2 marks; two or three correct = 1 mark."},
-        {"label": "b", "text": "A scar is caused by a cut. Complete the sentence.", "marks": 1,
-         "gaps": ["A scar is an example of ______________________ variation."],
-         "answer": "environmental"},
-        {"label": "c", "text": "Put one tick in each row to show whether the variation is continuous or discontinuous.", "marks": 2,
-         "tick_table": {"headers": ["Characteristic", "Continuous", "Discontinuous"], "widths": [4600, 2700, 2700], "rows": ["height", "blood group", "hand span", "tongue rolling (can or cannot)"]},
-         "answer": "height: continuous; blood group: discontinuous; hand span: continuous; tongue rolling: discontinuous. All four correct = 2 marks; two or three correct = 1 mark."},
-        {"label": "d", "text": "Some students measured the length of 40 leaves and drew a bar chart of their results. Should the bars touch each other? Tick one box and give a reason.", "marks": 2,
-         "mcq": ["Yes, the bars should touch.", "No, there should be gaps between the bars."], "lines": 2,
-         "answer": "Yes (1). Leaf length is continuous variation / the lengths were put into groups that run on from each other, so there are no gaps (1)."},
-        {"label": "e", "text": "What is a species?", "marks": 1, "lines": 2,
-         "answer": "A group of organisms that can breed together to produce offspring that can also breed (accept: organisms that can breed together to make fertile offspring)."}
+      "title": "Section A: Core",
+      "intro": "Answer all the questions. 30 marks.",
+      "questions": [
+        {
+          "title": "Environmental variation",
+          "parts": [
+            {"label": "a", "text": "Put one tick in each row to show whether the factor is abiotic (non-living) or biotic (living).", "marks": 2,
+             "tick_table": {"headers": ["Factor", "Abiotic", "Biotic"], "widths": [4600, 2700, 2700], "rows": ["temperature", "predation (being hunted)", "amount of light", "infectious disease"]},
+             "answer": "temperature: abiotic; predation: biotic; amount of light: abiotic; infectious disease: biotic. All four correct = 2 marks; two or three correct = 1 mark."},
+            {"label": "b", "text": "A scar is caused by a cut. Complete the sentence.", "marks": 1,
+             "gaps": ["A scar is an example of ______________________ variation."],
+             "answer": "environmental"},
+            {"label": "c", "text": "Put one tick in each row to show whether the variation is continuous or discontinuous.", "marks": 2,
+             "tick_table": {"headers": ["Characteristic", "Continuous", "Discontinuous"], "widths": [4600, 2700, 2700], "rows": ["height", "blood group", "hand span", "tongue rolling (can or cannot)"]},
+             "answer": "height: continuous; blood group: discontinuous; hand span: continuous; tongue rolling: discontinuous. All four correct = 2 marks; two or three correct = 1 mark."}
+          ]
+        },
+        {
+          "title": "Inherited variation",
+          "parts": [
+            {"label": "a", "text": "Complete the sentences using words from the box. Use each word once. One word is not needed.", "marks": 4,
+             "word_box": ["nucleus", "gametes", "fertilisation", "zygote", "environment"],
+             "gaps": ["Genetic information is stored in the ______________________ of a cell.",
+                      "A sperm cell and an egg cell are both ______________________.",
+                      "They join together at ______________________.",
+                      "The new cell that is made is called a ______________________."],
+             "answer": "nucleus (1), gametes (1), fertilisation (1), zygote (1)."},
+            {"label": "b", "text": "Tick the two characteristics that are inherited.", "marks": 1,
+             "mcq": ["natural eye colour", "a scar", "blood group", "being able to speak Chinese"],
+             "answer": "natural eye colour and blood group, both ticked and no others, for 1 mark."}
+          ]
+        },
+        {
+          "title": "Adaptation and extinction",
+          "parts": [
+            {"label": "a", "text": "What is an adaptation?", "marks": 1, "lines": 2,
+             "answer": "A characteristic (feature) that helps an organism survive in its habitat."},
+            {"label": "b", "text": "Draw one line from each way of protecting a species to how it works.", "marks": 3,
+             "match": {"left": ["nature reserve", "breeding programme", "gene bank"],
+                       "right": ["endangered animals are bred in captivity to increase their numbers", "seeds, gametes or cells are stored at a low temperature", "an area where the habitat and the species living in it are protected"]},
+             "answer": "nature reserve: an area where the habitat and the species living in it are protected (1); breeding programme: endangered animals are bred in captivity (1); gene bank: seeds, gametes or cells stored at a low temperature (1)."},
+            {"label": "c", "text": "Grey squirrels were brought to the UK from the USA. Red squirrels are now rare in most of the UK. Give one reason why grey squirrels have replaced red squirrels.", "marks": 1, "lines": 2,
+             "answer": "Any one of: greys can eat unripe acorns, so they eat the food before the reds do; greys store more body fat, so more survive the winter; greys carry squirrel pox, a disease that kills reds."}
+          ]
+        },
+        {
+          "title": "Natural selection and evolution",
+          "parts": [
+            {"label": "a", "text": "What causes inherited variation? Tick one box.", "marks": 1,
+             "mcq": ["the food an organism eats", "genes passed on from parents", "the weather", "exercise"],
+             "answer": "genes passed on from parents"},
+            {"label": "b", "text": "In the 1800s, black peppered moths became more common near Manchester. The sentences below explain why, but they are in the wrong order. Write 1, 2, 3 and 4 in the boxes to put them in the correct order.", "marks": 2,
+             "order_table": {"rows": ["Birds spotted and ate more pale moths than black moths.", "A few moths had genes that made them black.", "Each generation had more black moths than the one before.", "Soot from factories made the tree trunks black."]},
+             "answer": "Correct order: a few moths had genes that made them black (1); soot made the tree trunks black (2); birds ate more pale moths (3); each generation had more black moths (4). All four correct = 2 marks; first and last correct = 1 mark."},
+            {"label": "c", "text": "What is evolution?", "marks": 1, "lines": 2,
+             "answer": "A change over time in the characteristics of organisms (accept: a change in a species over many generations)."},
+            {"label": "d", "text": "Which word means a scientific explanation that has been tested many times and is supported by a lot of evidence? Tick one box.", "marks": 1,
+             "mcq": ["a guess", "a hypothesis", "a theory", "an observation"],
+             "answer": "a theory"}
+          ]
+        },
+        {
+          "title": "Cells and the microscope",
+          "parts": [
+            {"label": "a", "text": "The diagram shows a plant cell. Write the name of each labelled part.", "marks": 4,
+             "image": {"ref": "diagram:plant_cell_blank", "w": 380, "h": 210}, "label_lines": ["A", "B", "C", "D"],
+             "answer": "A cell wall (1), B nucleus (1), C chloroplast (1), D vacuole (1)."},
+            {"label": "b", "text": "A microscope has a x10 eyepiece lens and a x4 objective lens. Calculate the total magnification.", "marks": 1,
+             "inline": "Total magnification = x ______________",
+             "answer": "x40 (10 x 4)"}
+          ]
+        },
+        {
+          "title": "Atoms and the periodic table",
+          "parts": [
+            {"label": "a", "text": "Complete the table about the three particles in an atom. The first row has been done for you.", "marks": 2,
+             "table": {"headers": ["Particle", "Relative charge", "Where it is found"], "widths": [3000, 3300, 3800],
+                       "rows": [["proton", "+1", "in the nucleus"], ["neutron", "", ""], ["electron", "", ""]]},
+             "answer": "neutron: 0, in the nucleus; electron: -1, in shells around the nucleus. All four correct = 2 marks; two or three correct = 1 mark."},
+            {"label": "b", "text": "A sodium atom has atomic number 11 and mass number 23.", "marks": 2,
+             "sub": [{"text": "How many protons does the atom have?", "inline": "protons = ____________"},
+                     {"text": "How many neutrons does the atom have?", "inline": "neutrons = ____________"}],
+             "answer": "(i) 11 protons (1). (ii) 23 - 11 = 12 neutrons (1)."},
+            {"label": "c", "text": "A sodium atom has 11 electrons. Complete its electron configuration.", "marks": 1,
+             "inline": "2, 8, ______",
+             "answer": "2,8,1 (the missing number is 1)."}
+          ]
+        }
       ]
     },
     {
-      "title": "Inherited variation",
-      "parts": [
-        {"label": "a", "text": "Complete the sentences using words from the box. Use each word once. One word is not needed.", "marks": 4,
-         "word_box": ["nucleus", "gametes", "fertilisation", "zygote", "environment"],
-         "gaps": ["Genetic information is stored in the ______________________ of a cell.",
-                  "A sperm cell and an egg cell are both ______________________.",
-                  "They join together at ______________________.",
-                  "The new cell that is made is called a ______________________."],
-         "answer": "nucleus (1), gametes (1), fertilisation (1), zygote (1)."},
-        {"label": "b", "text": "Tick the two characteristics that are inherited.", "marks": 2,
-         "mcq": ["natural eye colour", "a scar", "blood group", "being able to speak Chinese"],
-         "answer": "natural eye colour (1) and blood group (1). If more than two boxes are ticked, take one mark off for each extra tick, to a minimum of 0."},
-        {"label": "c", "text": "Brothers and sisters have the same parents, but they are not identical. Explain why.", "marks": 2, "lines": 3,
-         "answer": "Each gamete (sperm or egg) carries a different mixture of the parent's genetic information (1), so each child gets a different combination of genes from the two parents (1). Accept: they inherit different genes from each parent."}
-      ]
-    },
-    {
-      "title": "Adaptation and extinction",
-      "parts": [
-        {"label": "a", "text": "What is an adaptation?", "marks": 1, "lines": 2,
-         "answer": "A characteristic (feature) that helps an organism survive in its habitat."},
-        {"label": "b", "text": "A sand cat lives in the desert. Its fur is the same colour as the sand. Explain how this helps the sand cat to survive.", "marks": 2, "lines": 3,
-         "answer": "The fur is camouflage: the cat is hard to see against the sand (1), so it can creep up on prey / is not seen by predators, and so catches more food or is not eaten (1)."},
-        {"label": "c", "text": "Grey squirrels were brought to the UK from the USA. Red squirrels are now rare in most of the UK. Give two reasons why grey squirrels have replaced red squirrels.", "marks": 2, "lines": 3,
-         "answer": "Any two of: greys can eat unripe acorns, so they eat the food before the reds do (compete better for food); greys store more body fat, so more survive the winter; greys carry squirrel pox, a disease that kills reds."},
-        {"label": "d", "text": "Draw one line from each way of protecting a species to how it works.", "marks": 3,
-         "match": {"left": ["nature reserve", "breeding programme", "gene bank"],
-                   "right": ["endangered animals are bred in captivity to increase their numbers", "seeds, gametes or cells are stored at a low temperature", "an area where the habitat and the species living in it are protected"]},
-         "answer": "nature reserve: an area where the habitat and the species living in it are protected (1); breeding programme: endangered animals are bred in captivity (1); gene bank: seeds, gametes or cells stored at a low temperature (1)."}
-      ]
-    },
-    {
-      "title": "Cells and the microscope",
-      "parts": [
-        {"label": "a", "text": "The diagram shows a plant cell. Write the name of each labelled part.", "marks": 4,
-         "image": {"ref": "diagram:plant_cell_blank", "w": 380, "h": 210}, "label_lines": ["A", "B", "C", "D"],
-         "answer": "A cell wall (1), B nucleus (1), C chloroplast (1), D vacuole (1)."},
-        {"label": "b", "text": "Which part of a cell controls what goes into and out of the cell? Tick one box.", "marks": 1,
-         "mcq": ["cell wall", "cell membrane", "cytoplasm", "nucleus"],
-         "answer": "cell membrane"},
-        {"label": "c", "text": "A microscope has a x10 eyepiece lens and a x4 objective lens. Calculate the total magnification.", "marks": 1,
-         "inline": "Total magnification = x ______________",
-         "answer": "x40 (10 x 4)"},
-        {"label": "d", "text": "Give two rules for a good scientific drawing of cells.", "marks": 2, "lines": 3,
-         "answer": "Any two of: use a sharp pencil; make the drawing large; use clear single lines with no shading or colouring; draw only what you see; draw label lines with a ruler so they do not cross and end on the part; add a title with the magnification."}
-      ]
-    },
-    {
-      "title": "Atoms and the periodic table",
-      "parts": [
-        {"label": "a", "text": "Complete the table about the three particles in an atom. The first row has been done for you.", "marks": 4,
-         "table": {"headers": ["Particle", "Relative charge", "Where it is found"], "widths": [3000, 3300, 3800],
-                   "rows": [["proton", "+1", "in the nucleus"], ["neutron", "", ""], ["electron", "", ""]]},
-         "answer": "neutron: 0 (1), in the nucleus (1). electron: -1 (1), in shells around the nucleus (1)."},
-        {"label": "b", "text": "A sodium atom has atomic number 11 and mass number 23.", "marks": 2,
-         "sub": [{"text": "How many protons does the atom have?", "inline": "protons = ____________"},
-                 {"text": "How many neutrons does the atom have?", "inline": "neutrons = ____________"}],
-         "answer": "(i) 11 protons (1). (ii) 23 - 11 = 12 neutrons (1)."},
-        {"label": "c", "text": "A sodium atom has 11 electrons. Complete its electron configuration.", "marks": 1,
-         "inline": "2, 8, ______",
-         "answer": "2,8,1 (the missing number is 1)."},
-        {"label": "d", "text": "A magnesium atom has atomic number 12. Write its electron configuration.", "marks": 1,
-         "inline": "______ , ______ , ______",
-         "answer": "2,8,2"}
+      "title": "Section B: Stretch and Challenge",
+      "intro": "Try these when you have finished Section A. 10 marks. Stretch questions need a longer explanation. The Challenge question links ideas together.",
+      "questions": [
+        {
+          "title": "Natural selection in the Salton Sea", "tier": "Stretch",
+          "parts": [
+            {"label": "a", "text": "The Salton Sea in California has become saltier and saltier since 1905. Most fish species died out, but tilapia still live there and can cope with very salty water. Explain how natural selection made the tilapia able to live in very salty water.", "marks": 3, "lines": 5,
+             "answer": "By chance, some tilapia had genes (inherited variation) that helped them cope with salt (1). As the water got saltier, more of these fish survived and reproduced than the others (1), so they passed on their genes and each generation had more salt-tolerant fish, until all of them could cope (1). Do not credit 'the fish changed so they could cope'."}
+          ]
+        },
+        {
+          "title": "The size of a cell", "tier": "Stretch",
+          "parts": [
+            {"label": "a", "text": "A microscope has a x10 eyepiece lens. A student uses the x40 objective lens and draws a cell that is 20 mm wide in the drawing.", "marks": 3,
+             "sub": [{"text": "Calculate the total magnification.", "inline": "Total magnification = x ____________"},
+                     {"text": "Calculate the actual width of the cell in millimetres. Show your working.", "lines": 2}],
+             "answer": "(i) 10 x 40 = x400 (1). (ii) actual size = image size / magnification = 20 / 400 (1) = 0.05 mm (1). Accept 50 micrometres."}
+          ]
+        },
+        {
+          "title": "Groups and periods", "tier": "Challenge",
+          "parts": [
+            {"label": "a", "text": "Fluorine (atomic number 9) and chlorine (atomic number 17) are both in group 7 of the periodic table and react in similar ways.", "marks": 4,
+             "sub": [{"text": "Write the electron configuration of a fluorine atom and of a chlorine atom.", "inline": "fluorine ____________________     chlorine ____________________"},
+                     {"text": "Use your answer to explain why fluorine and chlorine react in similar ways.", "lines": 2},
+                     {"text": "Potassium has atomic number 19. Explain why potassium is in period 4.", "lines": 2}],
+             "answer": "(i) fluorine 2,7 (1); chlorine 2,8,7 (1). (ii) Both have seven electrons in the outer shell, and the outer electrons decide how an element reacts (1). (iii) Potassium is 2,8,8,1: its electrons fill four shells, and the period number is the number of shells (1)."}
+          ]
+        }
       ]
     }
   ]

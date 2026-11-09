@@ -135,15 +135,17 @@ function renderBlock(b, out, cn, sec, answers) {
     }
     case 'test': {
       out.push(h2('Test yourself'));
-      out.push(para([run('Answer in your exercise book without looking back, then check your answers at the back of this guide.', { size: SMALL, italics: true, color: MID })], { after: 60, keepNext: true }));
+      const hasTier = b.questions.some(q => q.tier);
+      out.push(para([run('Answer in your exercise book without looking back, then check your answers at the back of this guide.' + (hasTier ? ' Stretch and Challenge questions are harder: try them once the others are secure.' : ''), { size: SMALL, italics: true, color: MID })], { after: 60, keepNext: true }));
       const marks = b.questions.reduce((a, q) => a + (q.marks || 0), 0);
       b.questions.forEach((q, i) => {
         const tabs = [{ type: TabStopType.RIGHT, position: CW - 60 }];
-        out.push(new Paragraph({ children: [run(`${i + 1}.  `, { bold: true, size: BODY }), ...markup(q.q, { size: BODY }), run(`\t[${q.marks}]`, { size: SMALL, color: MID })],
+        const tier = q.tier ? [run(q.tier === 'challenge' ? 'CHALLENGE  ' : 'STRETCH  ', { bold: true, size: 15, color: MID, spacing: 20 })] : [];   // harder questions are tagged
+        out.push(new Paragraph({ children: [run(`${i + 1}.  `, { bold: true, size: BODY }), ...tier, ...markup(q.q, { size: BODY }), run(`\t[${q.marks}]`, { size: SMALL, color: MID })],
           tabStops: tabs, indent: { left: 420, hanging: 300 }, spacing: { after: 70 }, keepLines: true, keepNext: true }));   // the questions and the Total line stay together
       });
       out.push(para([run(`Total: ${marks} marks`, { size: SMALL, color: MID })], { align: AlignmentType.RIGHT, after: 60 }));
-      answers.push({ n: sec.n, title: sec.title, items: b.questions.map(q => q.a) });
+      answers.push({ n: sec.n, title: sec.title, items: b.questions.map(q => q.a), tiers: b.questions.map(q => q.tier) });
       break;
     }
     default:
@@ -189,7 +191,7 @@ function build(guide, outFile, cn) {
   children.push(para([run('Give yourself the marks in brackets. Where a question says "explain", you need the reason as well as the fact.', { size: SMALL, italics: true, color: MID })], { after: 120 }));
   for (const a of answers) {
     children.push(para([run(`${a.n}  ${a.title}`, { bold: true, size: 24 })], { before: 120, after: 50, keepNext: true }));
-    a.items.forEach((t, i) => children.push(numbered(i + 1, markup(t, { size: SMALL }))));
+    a.items.forEach((t, i) => children.push(numbered(i + 1, (a.tiers[i] ? [run(a.tiers[i] === 'challenge' ? 'CHALLENGE  ' : 'STRETCH  ', { bold: true, size: 14, color: MID, spacing: 20 })] : []).concat(markup(t, { size: SMALL })))));
   }
   const header = new Header({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CW }], children: [run(guide.title, { size: 16, color: MID }), run(`\t${guide.subtitle.split('·')[0].trim()} and more${cn ? '  ·  中文关键词' : ''}`, { size: 16, color: MID })], spacing: { after: 0 }, border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: '999999', space: 2 } } })] });
   const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [run('Page ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 16, color: MID }), run(' of ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.TOTAL_PAGES], font: FONT, size: 16, color: MID })], spacing: { after: 0 } })] });

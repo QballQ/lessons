@@ -1,12 +1,12 @@
 {
  "id": "Y9_Revision_Guide_1",
  "title": "Year 9 Science Revision Guide 1",
- "subtitle": "Variation and inheritance · Adaptation and extinction · Cells and the microscope · Atoms and the periodic table",
+ "subtitle": "Variation and inheritance · Adaptation, extinction and natural selection · Cells and the microscope · Atoms and the periodic table",
  "built": "November 2026",
  "how_to_use": [
   "Read one section at a time. Cover the Key ideas and say them out loud, or write them from memory, then check.",
   "Learn the key words: cover the meaning, say it, check. The Chinese column is there to help you understand, but answer in English.",
-  "Do the Test yourself questions in your exercise book without looking back. Mark them with the answers at the back.",
+  "Do the Test yourself questions in your exercise book without looking back. Mark them with the answers at the back. Questions marked Stretch and Challenge are harder: try them once the others are secure.",
   "Tick the checklist on this page only when you can answer the questions without help. Come back to anything you got wrong."
  ],
  "checklist": [
@@ -32,7 +32,14 @@
    ]
   },
   {
-   "topic": "4  Cells and the microscope",
+   "topic": "4  Natural selection and evolution",
+   "items": [
+    "I can explain how natural selection works on inherited variation when the environment changes, using the peppered moth and the Salton Sea tilapia.",
+    "I can describe the theory of evolution by natural selection and explain how natural selection can produce a new species."
+   ]
+  },
+  {
+   "topic": "5  Cells and the microscope",
    "items": [
     "I can label an animal cell and a plant cell and give the job of each part.",
     "I can set up and focus a microscope, make a slide, and draw and label cells correctly.",
@@ -40,7 +47,7 @@
    ]
   },
   {
-   "topic": "5  Atoms and the periodic table",
+   "topic": "6  Atoms and the periodic table",
    "items": [
     "I can describe the structure of an atom and use the atomic number and mass number.",
     "I can write the electron configuration of the first 20 elements.",
@@ -252,6 +259,18 @@
        "q": "Students measured the heights of 50 bean plants. What type of chart should they draw, and should the bars touch? Give a reason.",
        "marks": 2,
        "a": "A bar chart of grouped heights (a histogram) with the bars touching (1), because height is continuous variation and the groups run on from each other with no gaps (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "Pumpkins grown from the seeds of one giant pumpkin varied in mass from 2 kg to 40 kg. Suggest two environmental factors that could explain this variation, and explain why the plants' genes alone cannot explain it.",
+       "marks": 3,
+       "a": "Any two of: amount of water, light, temperature, mineral salts in the soil, space or competition (1 each, max 2). The seeds came from the same parent, so the plants have similar genes; such a large difference must come from their different surroundings (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "On a seashore, plants are 10 cm tall with pink flowers. On a nearby island the same kind of plant is over 50 cm tall with dark purple flowers. Seeds from both places were grown in the same laboratory conditions and all the plants grew to look the same. Explain what this shows about the cause of the variation, and why variation like this makes classification difficult.",
+       "marks": 4,
+       "a": "The differences in height and colour were caused by the environment, not by genes (1), because when the environment was the same the differences disappeared (1). The plants are probably the same species (1). Organisms of one species can look different in different places, so appearance alone cannot tell you whether two organisms belong to the same species (1)."
       }
      ]
     }
@@ -435,6 +454,18 @@
        "q": "Describe the shape of a chart showing the heights of 200 students, and name this shape.",
        "marks": 2,
        "a": "A bell shape: most students near the middle height, with few very short or very tall (1). It is a normal distribution (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "Identical twins grow from one zygote that splits in two. Explain why identical twins always have the same blood group but can have different heights.",
+       "marks": 3,
+       "a": "Identical twins have exactly the same genetic information because they came from one zygote (1). Blood group is controlled by genes only, so it must be the same (1). Height is affected by genes and by the environment, such as diet and exercise, so it can differ (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Explain why height shows continuous variation with a normal distribution, while blood group shows discontinuous variation. Use the words genes and environment.",
+       "marks": 4,
+       "a": "Blood group is controlled by genes alone, with only a few possible versions, so there are only four groups and nothing in between (1). Height is controlled by many genes working together (1) and is also affected by the environment, such as diet (1), so it can take any value in a range; most people are near the middle and extremes are rare, giving the bell shape (1)."
       }
      ]
     }
@@ -601,6 +632,18 @@
        "q": "Why can losing one species affect other species?",
        "marks": 2,
        "a": "Species are linked in food webs (1); if one is lost, its predators lose food and the organisms it ate may increase, so the whole ecosystem changes (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "Red squirrels still do well in conifer forests even where grey squirrels live nearby. Explain why, using the idea of being better adapted.",
+       "marks": 3,
+       "a": "Red squirrels are lighter, so they can feed on the thin, flexible branches of conifers (1), and they eat the small conifer seeds (1). In that habitat they are the better adapted species, so they get enough food to survive and reproduce, while the heavier greys do less well (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Haast's eagle in New Zealand hunted the moa, a giant flightless bird. When people arrived about 700 years ago they hunted the moa to extinction. Explain why the eagle also became extinct, and why a gene bank could not have saved it.",
+       "marks": 4,
+       "a": "The eagle was adapted to hunting large prey and the moa was its main food, a biotic factor (1). When the moa died out the eagle had too little food, so fewer survived and reproduced until none were left (1). A gene bank only stores genetic material (seeds, gametes or cells) (1); it cannot replace the moa or the habitat the eagle needed, so an eagle bred from stored genes still could not survive in the wild (1)."
       }
      ]
     }
@@ -608,6 +651,233 @@
   },
   {
    "n": 4,
+   "title": "Natural selection and evolution",
+   "source": "Exploring Science 9A, Lesson 7 (Student Book pages 18 to 20)",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "**Natural selection**: organisms that are better adapted to their environment are more likely to survive, **reproduce** and pass on their **genes**. It works on **inherited variation** that is already in the population.",
+      "The four steps: (1) there is inherited variation; (2) the environment changes, or a resource runs short; (3) the better adapted individuals survive and reproduce more; (4) the next **generation** has more of the helpful variation. Repeated over many generations, the whole population changes.",
+      "**Peppered moths**: most are pale and speckled; a few have genes that make them black. In the 1800s soot from factories blackened the trees near Manchester. Birds spotted and ate more pale moths, so more black moths survived and reproduced. By 1895, 98% of the moths there were black. The moths did not change colour: the black ones were already there, and more of them survived.",
+      "**Salton Sea tilapia**: the sea got saltier and saltier after 1905 and most fish died out. By chance some tilapia had genes that helped them cope with salt. More of them survived and reproduced, so each generation coped better. Today all the Salton Sea tilapia live in very salty water.",
+      "**Evolution** is a change over time in the characteristics of organisms. Over very many generations natural selection can produce a new **species**, for example when two populations are separated and different variations are selected in each, until they can no longer breed together.",
+      "Charles Darwin and Alfred Russel Wallace had the **hypothesis** that natural selection causes evolution. It has been tested many times, with a great deal of evidence, so it is now the **theory** of evolution by natural selection. Many scientists think some dinosaurs evolved into birds over millions of years.",
+      "Changes made during an organism's life are not inherited. A wading bird that stretches its legs does not pass on longer legs (Lamarck's idea, not accepted). Birds with genes for longer legs got more fish, survived and reproduced, so long legs became common (Darwin's explanation).",
+      "**Cloning** makes a new organism with exactly the same genetic information as another. DNA survives in frozen mammoth remains, so a mammoth might one day be cloned; dinosaur DNA has not survived for millions of years, so a dinosaur cannot be."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:natural_selection_moths",
+     "w": 560,
+     "h": 300,
+     "caption": "Natural selection in the peppered moth: the environment selects the inherited variation that survives and is passed on."
+    },
+    {
+     "type": "table",
+     "title": "The four steps of natural selection, with the peppered moth",
+     "headers": [
+      "Step",
+      "What happens",
+      "Peppered moth example"
+     ],
+     "widths": [
+      2200,
+      3800,
+      4000
+     ],
+     "rows": [
+      [
+       "1  Variation",
+       "individuals differ because of their genes",
+       "a few moths have genes that make them black"
+      ],
+      [
+       "2  Change",
+       "the environment changes, or a resource runs short",
+       "soot from factories makes the trees black"
+      ],
+      [
+       "3  Selection",
+       "the better adapted survive and reproduce; the others are eaten or die",
+       "birds eat more pale moths; more black moths survive and breed"
+      ],
+      [
+       "4  Next generation",
+       "offspring inherit the helpful genes, so the variation becomes more common",
+       "each generation has more black moths; 98% by 1895"
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:tilapia_graph",
+     "w": 500,
+     "h": 280,
+     "caption": "The Salton Sea tilapia: as the water got saltier, generation by generation, the fish that could cope with salt became the whole population."
+    },
+    {
+     "type": "table",
+     "title": "Lamarck or Darwin? Why wading birds have long legs",
+     "headers": [
+      "Lamarck would say (not accepted)",
+      "Darwin would say"
+     ],
+     "widths": [
+      5000,
+      5000
+     ],
+     "bold_first": false,
+     "rows": [
+      [
+       "Birds stretched their legs to reach fish in deeper water.",
+       "Birds varied in leg length because of their genes."
+      ],
+      [
+       "The stretched legs were passed on to their offspring.",
+       "When fish were scarce, longer-legged birds waded deeper and got more fish."
+      ],
+      [
+       "Over time the legs got longer and longer.",
+       "More of them survived and reproduced, passing on the genes for long legs."
+      ],
+      [
+       "Problem: a change made during life is not inherited.",
+       "Each generation had more long-legged birds."
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "peppered_moth_light",
+     "w": 300,
+     "h": 220,
+     "caption": "A pale peppered moth on a lichen-covered tree: well camouflaged where the air is clean."
+    },
+    {
+     "type": "remember",
+     "text": "Never write 'the moths changed colour to survive'. Write 'more of the moths that were already dark survived and reproduced, so the next generation had more dark moths'. Natural selection changes a population over generations, not an individual."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Organisms change themselves to suit the environment. Changes made during a lifetime are not inherited; natural selection only works on inherited variation that is already in the population.",
+      "'Only a theory' means evolution is a guess. In science a theory is an explanation that has been tested many times and is supported by a great deal of evidence.",
+      "Natural selection always makes a species 'better'. It makes a population better adapted to its current environment; if the environment changes again, different variations are selected (pale moths increased again once the air was cleaner)."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "natural selection",
+       "cn": "自然选择",
+       "meaning": "organisms better adapted to their environment are more likely to survive, reproduce and pass on their genes"
+      },
+      {
+       "en": "evolution",
+       "cn": "进化",
+       "meaning": "a change over time in the characteristics of organisms, sometimes making a new species"
+      },
+      {
+       "en": "inherited variation",
+       "cn": "遗传变异",
+       "meaning": "differences between individuals caused by genes, passed on to offspring"
+      },
+      {
+       "en": "gene",
+       "cn": "基因",
+       "meaning": "a section of DNA that carries the instructions for one characteristic"
+      },
+      {
+       "en": "reproduce",
+       "cn": "繁殖",
+       "meaning": "to produce offspring"
+      },
+      {
+       "en": "generation",
+       "cn": "世代",
+       "meaning": "all the offspring born at about the same time; parents, children and grandchildren are three generations"
+      },
+      {
+       "en": "hypothesis",
+       "cn": "假说",
+       "meaning": "an idea, based on observations, that can be tested"
+      },
+      {
+       "en": "theory",
+       "cn": "理论",
+       "meaning": "an explanation that has been tested many times and is accepted by scientists"
+      },
+      {
+       "en": "species",
+       "cn": "物种",
+       "meaning": "a group of organisms that can breed together to produce offspring that can also breed"
+      },
+      {
+       "en": "camouflage",
+       "cn": "伪装",
+       "meaning": "colours or patterns that make an organism hard to see"
+      },
+      {
+       "en": "cloning",
+       "cn": "克隆",
+       "meaning": "making a new organism with exactly the same genetic information as another"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "What is natural selection?",
+       "marks": 2,
+       "a": "Organisms that are better adapted to their environment are more likely to survive and reproduce (1) and pass on their genes to the next generation (1)."
+      },
+      {
+       "q": "State what causes inherited variation.",
+       "marks": 1,
+       "a": "Genes (genetic information passed on from parents; a different mixture in each gamete)."
+      },
+      {
+       "q": "Explain why black peppered moths became more common near Manchester in the 1800s.",
+       "marks": 3,
+       "a": "A few moths already had genes that made them black (1). Soot blackened the trees, so birds spotted and ate more pale moths than black ones (1). More black moths survived and reproduced, passing on their genes, so each generation had more black moths (1)."
+      },
+      {
+       "q": "What is the difference between a hypothesis and a theory?",
+       "marks": 2,
+       "a": "A hypothesis is an idea based on observations that can be tested (1). A theory is an explanation that has been tested many times and is supported by a lot of evidence (1)."
+      },
+      {
+       "q": "Since the 1960s the air near Manchester has become cleaner and the trees are pale again. Predict what has happened to the numbers of pale and black moths, and explain why.",
+       "marks": 2,
+       "a": "Pale moths have increased and black moths have decreased (1), because pale moths are now better camouflaged, so birds eat more black moths and more pale moths survive and reproduce (1)."
+      },
+      {
+       "q": "What is evolution?",
+       "marks": 1,
+       "a": "A change over time in the characteristics of organisms (which can produce a new species)."
+      },
+      {
+       "tier": "stretch",
+       "q": "A student says that wading birds have long legs because they stretched their legs to reach fish and passed the longer legs on to their chicks. Explain what is wrong with this idea, and give the natural selection explanation.",
+       "marks": 4,
+       "a": "A change made during an animal's life, such as stretching, is not inherited; only genes are passed on (1). Birds varied in leg length because of their genes (1). When fish were scarce, longer-legged birds waded deeper, got more food and were more likely to survive and reproduce (1). They passed on the genes for long legs, so each generation had more long-legged birds (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Explain how natural selection can produce a new species when two populations of one species become separated, for example on two islands.",
+       "marks": 4,
+       "a": "The two islands have different environments, such as food, predators or climate (1), so different inherited variations are selected in each population (1). Over many generations the populations become more and more different (1). Eventually they are so different that they can no longer breed together to produce offspring that can breed, so they are two species (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
    "title": "Cells and the microscope",
    "source": "Revisits earlier work on cells, microscopes and scientific drawing",
    "blocks": [
@@ -888,13 +1158,25 @@
        "q": "Why is the cover slip lowered onto the slide at an angle?",
        "marks": 1,
        "a": "So that air bubbles are not trapped under it (bubbles would get in the way of the specimen)."
+      },
+      {
+       "tier": "stretch",
+       "q": "A student looks at onion cells with a total magnification of x40 and counts 20 cells across the field of view. She changes to a total magnification of x400. Predict how many cells she will see across the field of view, and explain your answer.",
+       "marks": 3,
+       "a": "About 2 cells (1). The magnification is 10 times greater, so each cell looks 10 times wider (1) and the field of view covers only one tenth as much of the slide (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Root hair cells are plant cells that have no chloroplasts and have a long, thin extension. Explain both of these features.",
+       "marks": 4,
+       "a": "Root hair cells are underground where there is no light (1), so chloroplasts, which trap light for photosynthesis, would be useless (1). The long, thin extension gives the cell a large surface area (1), so it can absorb water and mineral salts from the soil faster (1)."
       }
      ]
     }
    ]
   },
   {
-   "n": 5,
+   "n": 6,
    "title": "Atoms, atomic mass and the periodic table",
    "source": "Revisits earlier work on atoms, elements and the periodic table",
    "blocks": [
@@ -1183,6 +1465,18 @@
        "q": "Use the periodic table. Name the element with atomic number 16, write its electron configuration, and say whether it is a metal or a non-metal.",
        "marks": 3,
        "a": "Sulfur (1), 2,8,6 (1), a non-metal (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "Potassium (atomic number 19) reacts in a similar way to sodium (atomic number 11). Write the electron configuration of each atom and use them to explain the similarity.",
+       "marks": 3,
+       "a": "Sodium 2,8,1 (1); potassium 2,8,8,1 (1). Both have one electron in the outer shell, and the outer electrons decide how an element reacts, so both are in group 1 and react in similar ways (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Chlorine has two isotopes: chlorine-35 atoms have 18 neutrons and chlorine-37 atoms have 20 neutrons. Explain why both are atoms of chlorine, and why the relative atomic mass of chlorine is 35.5 rather than 36.",
+       "marks": 4,
+       "a": "Both have 17 protons, and the number of protons (the atomic number) decides which element an atom is (1); they differ only in neutrons (1). The relative atomic mass is an average of all the atoms (1); there are about three chlorine-35 atoms for every chlorine-37 atom, so the average is nearer 35 than 37 (1)."
       }
      ]
     }

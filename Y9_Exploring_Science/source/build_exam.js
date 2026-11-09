@@ -1,7 +1,8 @@
 /* Build a test paper (.docx, greyscale A4 portrait) and its mark scheme from an assessment content JSON.
    Usage: node build_exam.js assessment/test_1.json out.docx [--cn] [--mark-scheme]
    The paper: front block (name, class, date, score; instructions; on the CN version the key words with 中文 and the
-   command words glossed), then numbered questions with lettered parts and answer spaces: ruled lines, tick boxes,
+   command words glossed), then the sections (e.g. Section A: Core, Section B: Stretch and Challenge, each question
+   tagged with its tier) with numbered questions, lettered parts and answer spaces: ruled lines, tick boxes,
    tick tables, tables to complete, word boxes and gap sentences, matching lines, diagrams with label lines.
    --cn adds the Chinese key words block; the questions are identical, so both versions use the same mark scheme.
    --mark-scheme writes the mark scheme instead: one table per question (part, answer, marks) and the total.
@@ -43,7 +44,7 @@ const kpara = (children, o = {}) => para(children, { ...o, keepNext: true, keepL
 function ruledLines(n) {
   const out = [];
   // consecutive paragraphs with identical borders are merged into one box by Word and LibreOffice, so alternate the border
-  for (let i = 0; i < n; i++) out.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, indent: { left: IND },
+  for (let i = 0; i < n; i++) out.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, indent: { left: IND }, keepNext: i < n - 1,   // an answer space stays on one page
     border: { bottom: { style: BorderStyle.DOTTED, size: 6, color: i % 2 ? '777777' : '787878', space: i % 2 ? 1 : 2 } } }));
   out.push(para(' ', { after: 0, line: 120 }));
   return out;
@@ -113,16 +114,25 @@ function renderPart(p, out) {
     out.push(new Table({ rows, width: { size: W, type: WidthType.DXA }, columnWidths: [wl, wm, wr], borders: noBorders, layout: docx.TableLayoutType.FIXED, indent: { size: IND, type: WidthType.DXA } }));
     out.push(para(' ', { after: 0, line: 160 }));
   }
+  if (p.order_table) {
+    const W = CW - IND, wn = 1100, ws = W - wn;
+    const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: [cell(kpara([run('Order', { bold: true, size: TBL })], { after: 0, align: AlignmentType.CENTER }), wn, { shade: GREY, pad: 50 }), cell(kpara([run('Sentence', { bold: true, size: TBL })], { after: 0 }), ws, { shade: GREY, pad: 50 })] })];
+    p.order_table.rows.forEach((r, k) => { const P = k < p.order_table.rows.length - 1 ? kpara : para; rows.push(new TableRow({ cantSplit: true, height: { value: 520, rule: docx.HeightRule.ATLEAST }, children: [cell(P(' ', { after: 0 }), wn), cell(P([run(r, { size: TBL })], { after: 0 }), ws)] })); });
+    out.push(new Table({ rows, width: { size: W, type: WidthType.DXA }, columnWidths: [wn, ws], borders: gridBorders, layout: docx.TableLayoutType.FIXED, indent: { size: IND, type: WidthType.DXA } }));
+    out.push(para(' ', { after: 0, line: 160 }));
+  }
   if (p.label_lines) p.label_lines.forEach(L => out.push(para([run(L + '   ', { bold: true, size: BODY }), run('_______________________________', { size: BODY })], { indent: { left: IND + 200 }, after: 90, line: 360 })));
   if (p.sub) p.sub.forEach((s, i) => {
     out.push(para([run(`(${['i', 'ii', 'iii', 'iv'][i]})  `, { bold: true, size: BODY }), run(s.text, { size: BODY })], { indent: { left: IND + 200, hanging: 360 }, after: 40, keepNext: true }));
-    if (s.inline) out.push(para([run(s.inline, { size: BODY })], { indent: { left: IND + 560 }, after: 100, line: 400 }));
+    if (s.inline) out.push(para([run(s.inline, { size: BODY })], { indent: { left: IND + 560 }, after: 100, line: 400, keepNext: i < p.sub.length - 1 }));
     if (s.lines) out.push(...ruledLines(s.lines));
   });
   if (p.inline) out.push(para([run(p.inline, { size: BODY })], { indent: { left: IND + 200 }, after: 100, line: 400 }));
   if (p.lines) out.push(...ruledLines(p.lines));
 }
 
+// a paper is either a flat list of questions or sections (e.g. Section A: Core, Section B: Stretch and Challenge)
+const sectionsOf = (ex) => ex.sections || [{ title: null, intro: null, questions: ex.questions }];
 function buildPaper(ex, cn) {
   const children = [];
   children.push(para([run(ex.title, { bold: true, size: 40 }), run(`   ${ex.level} paper`, { size: 26, color: MID })], { after: 20 }));
@@ -152,16 +162,26 @@ function buildPaper(ex, cn) {
     children.push(para([run('Key words  关键词', { bold: true, size: SMALL })], { after: 40, keepNext: true }));
     children.push(new Table({ rows, width: { size: CW, type: WidthType.DXA }, columnWidths: widths, borders: gridBorders, layout: docx.TableLayoutType.FIXED }));
     const used = new Set();
-    ex.questions.forEach(q => q.parts.forEach(p => { findCommandWords(p.text).forEach(x => used.add(x)); (p.sub || []).forEach(s => findCommandWords(s.text).forEach(x => used.add(x))); }));
+    sectionsOf(ex).forEach(sec => sec.questions.forEach(q => q.parts.forEach(p => { findCommandWords(p.text).forEach(x => used.add(x)); (p.sub || []).forEach(s => findCommandWords(s.text).forEach(x => used.add(x))); })));
     const cws = COMMAND_WORDS.filter(c => used.has(c.en));
     if (cws.length) children.push(para([run('Command words 指令词:  ', { bold: true, size: 18 })].concat(cws.map((c, i) => run(`${c.en} ${c.cn}${i < cws.length - 1 ? '   ·   ' : ''}`, { size: 18 }))), { before: 60, after: 60, line: 276 }));
     children.push(para(' ', { after: 40 }));
   }
-  ex.questions.forEach((q, qi) => {
-    const qm = q.parts.reduce((a, p) => a + p.marks, 0);
-    children.push(para([run(`${qi + 1}   ${q.title}`, { bold: true, size: 26 }), run(`\t(${qm} marks)`, { size: SMALL, color: MID })], { before: qi ? 240 : 80, after: 80, keepNext: true, tabs,
-      border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: DARK, space: 3 } } }));
-    q.parts.forEach(p => renderPart(p, children));
+  let qn = 0;
+  sectionsOf(ex).forEach((sec, si) => {
+    if (sec.title) {
+      const sm = sec.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0);
+      children.push(para([run(sec.title, { bold: true, size: 28 }), run(`\t${sm} marks`, { size: SMALL, color: MID })], { before: si ? 320 : 60, after: 30, keepNext: true, tabs }));
+      if (sec.intro) children.push(para([run(sec.intro, { size: SMALL, italics: true, color: MID })], { after: 80, keepNext: true }));
+    }
+    sec.questions.forEach((q, qi) => {
+      qn += 1;
+      const qm = q.parts.reduce((a, p) => a + p.marks, 0);
+      const tier = q.tier ? [run(`   ${q.tier.toUpperCase()}`, { bold: true, size: 16, color: MID })] : [];
+      children.push(para([run(`${qn}   ${q.title}`, { bold: true, size: 26 }), ...tier, run(`\t(${qm} marks)`, { size: SMALL, color: MID })], { before: qi || sec.title ? 240 : 80, after: 80, keepNext: true, tabs,
+        border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: DARK, space: 3 } } }));
+      q.parts.forEach(p => renderPart(p, children));
+    });
   });
   children.push(para([run('END OF TEST', { bold: true, size: SMALL, color: MID })], { before: 200, align: AlignmentType.CENTER }));
   return children;
@@ -173,10 +193,14 @@ function buildMarkScheme(ex) {
   children.push(para([run(`${ex.topics}   ·   ${ex.time_minutes} minutes   ·   ${ex.total_marks} marks`, { size: SMALL, color: MID })], { after: 120 }));
   children.push(para([run('Give the marks shown. Accept any correct equivalent wording. Where a part says "all four correct = 2 marks", do not award half marks.', { size: SMALL, italics: true, color: MID })], { after: 120 }));
   const widths = [Math.floor(CW * 0.08), Math.floor(CW * 0.8), 0]; widths[2] = CW - widths[0] - widths[1];
-  let total = 0;
-  ex.questions.forEach((q, qi) => {
+  let total = 0, qn = 0;
+  const flat = [];
+  sectionsOf(ex).forEach(sec => sec.questions.forEach(q => flat.push({ q, sec })));
+  flat.forEach(({ q, sec }, fi) => {
+    qn += 1;
+    if (sec.title && (fi === 0 || flat[fi - 1].sec !== sec)) children.push(para([run(sec.title, { bold: true, size: 26 })], { before: 200, after: 40, keepNext: true }));
     const qm = q.parts.reduce((a, p) => a + p.marks, 0); total += qm;
-    children.push(para([run(`${qi + 1}   ${q.title}`, { bold: true, size: 24 }), run(`   (${qm} marks)`, { size: SMALL, color: MID })], { before: 160, after: 50, keepNext: true }));
+    children.push(para([run(`${qn}   ${q.title}`, { bold: true, size: 24 }), run(q.tier ? `   ${q.tier.toUpperCase()}` : '', { bold: true, size: 16, color: MID }), run(`   (${qm} marks)`, { size: SMALL, color: MID })], { before: 160, after: 50, keepNext: true }));
     const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: ['Part', 'Answer', 'Marks'].map((h, i) => cell(para([run(h, { bold: true, size: TBL })], { after: 0, align: i === 2 ? AlignmentType.CENTER : undefined }), widths[i], { shade: GREY, pad: 45 })) })];
     q.parts.forEach((p, k) => rows.push(new TableRow({ cantSplit: true, children: [
       cell(para([run(`(${p.label})`, { bold: true, size: TBL })], { after: 0 }), widths[0], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP }),
@@ -207,7 +231,7 @@ if (require.main === module) {
   const cn = args.includes('--cn'), ms = args.includes('--mark-scheme');
   const [src, outFile] = args.filter(a => !a.startsWith('--'));
   const ex = JSON.parse(fs.readFileSync(src, 'utf8'));
-  const total = ex.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0);
+  const total = sectionsOf(ex).reduce((t, sec) => t + sec.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0), 0);
   build(ex, outFile, cn, ms).then(r => console.log('wrote', r.file, `(${total} marks)`)).catch(e => { console.error(e); process.exit(1); });
 }
 module.exports = { build };
