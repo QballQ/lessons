@@ -308,6 +308,22 @@
   "non-metal": "非金属",
   "alkali metal": "碱金属",
   "halogen": "卤素",
-  "noble gas": "稀有气体"
+  "noble gas": "稀有气体",
+  "state of matter": "物态",
+  "particle": "粒子",
+  "particle model": "粒子模型",
+  "solid": "固体",
+  "liquid": "液体",
+  "gas": "气体",
+  "vibrate": "振动",
+  "compress": "压缩",
+  "flow": "流动",
+  "melting": "熔化",
+  "freezing": "凝固",
+  "evaporating": "蒸发",
+  "boiling": "沸腾",
+  "condensing": "液化",
+  "melting point": "熔点",
+  "boiling point": "沸点"
  }
 }

@@ -1,6 +1,6 @@
 # Image register
 
-Built 09 November 2026. Every photograph used in the Year 9 biology lessons, with its source and licence. Diagrams drawn for the lessons (source/diagrams/) are not listed; they are original.
+Built 12 November 2026. Every photograph used in the Year 9 biology lessons, with its source and licence. Diagrams drawn for the lessons (source/diagrams/) are not listed; they are original.
 
 Before a picture is used in class, open `Image_Check_Sheet.pdf` (or the slide) and tick the box once it has been checked on the classroom screen for clarity and suitability. Replace any picture that is unclear by changing its entry in `source/image_manifest.json` and running `python3 source/fetch_openverse.py <key>` then `python3 source/build_all.py`.
 

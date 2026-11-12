@@ -900,11 +900,74 @@ def plant_cell_blank():
     s.text(700, 700, 'A plant cell seen through a microscope (not to scale)', 24, italic=True, fill=MUTED)
     s.save('plant_cell_blank')
 
+# ---------- states of matter (revision guide and test) ----------
+PARTICLE = '#C9D3E3'
+def _solid_particles(s, x, y, w, h, r=28):
+    cols, rows = 6, 4
+    x0 = x + (w - cols * 2 * r) / 2 + r; y0 = y + h - r - 10
+    for j in range(rows):
+        for i in range(cols): s.circle(x0 + i * 2 * r, y0 - j * 2 * r, r, PARTICLE, INK, 2)
+def _liquid_particles(s, x, y, w, h, r=28):
+    import random
+    rnd = random.Random(7)
+    for j in range(4):
+        n = 6 if j < 3 else 4
+        for i in range(n):
+            if j == 3 and i == 1: continue        # an uneven surface
+            cx = x + 46 + i * 60 + (j % 2) * 30 + rnd.uniform(-3, 3) + (60 if j == 3 else 0)   # stays clear of the container walls
+            cy = y + h - r - 10 - j * 53 + rnd.uniform(-3, 3)
+            s.circle(cx, cy, r, PARTICLE, INK, 2)
+def _gas_particles(s, x, y, w, h, r=28, arrows=True):
+    pts = [(60, 70, 40), (200, 52, 160), (345, 95, 250), (110, 190, 300), (265, 175, 20), (365, 255, 120), (70, 300, 300), (215, 300, 200), (330, 150, 330)]
+    for px, py, ang in pts[:8]:
+        cx, cy = x + px, y + py
+        if arrows:
+            a = math.radians(ang); s.arrow(cx + (r + 2) * math.cos(a), cy + (r + 2) * math.sin(a), cx + (r + 40) * math.cos(a), cy + (r + 40) * math.sin(a), PLUM, 3)
+        s.circle(cx, cy, r, PARTICLE, INK, 2)
+
+def states_of_matter():
+    s = SVG(1900, 1040)
+    s.text(950, 50, 'States of matter: the particle model', 34, weight='bold', fill=NAVY)
+    W, H, Y = 420, 360, 130
+    notes = [('Solid', _solid_particles, ['particles close together', 'in a regular pattern;', 'they vibrate about fixed positions']),
+             ('Liquid', _liquid_particles, ['particles close together', 'with no regular pattern;', 'they slide past each other']),
+             ('Gas', _gas_particles, ['particles far apart;', 'they move quickly', 'in all directions'])]
+    for k, (name, draw, lines) in enumerate(notes):
+        x = 150 + k * 590
+        s.text(x + W / 2, Y - 22, name, 30, weight='bold')
+        s.rect(x, Y, W, H, '#FFFFFF', INK, 4, 14)
+        draw(s, x, Y, W, H)
+        s.lines(x + W / 2, Y + H + 42, lines, 22, 'middle', 32)
+    # changes of state
+    cy = 760
+    s.text(950, cy - 70, 'Changes of state', 28, weight='bold', fill=NAVY)
+    pills = [(330, 'SOLID'), (950, 'LIQUID'), (1570, 'GAS')]
+    for px, lab in pills: s.box(px - 110, cy - 38, 220, 76, [lab], 26, PAGE, INK, 'bold', 38)
+    for (x1, x2, top, bottom) in [(450, 830, 'melting', 'freezing'), (1070, 1450, 'evaporating or boiling', 'condensing')]:
+        s.arrow(x1, cy - 16, x2, cy - 16, PLUM, 4); s.text((x1 + x2) / 2, cy - 34, top, 24, weight='bold', fill=PLUM)
+        s.arrow(x2, cy + 16, x1, cy + 16, NAVY, 4); s.text((x1 + x2) / 2, cy + 52, bottom, 24, weight='bold', fill=NAVY)
+    s.arrow(330, cy + 130, 1570, cy + 130, PLUM, 4); s.text(950, cy + 112, 'heating: the particles gain energy and move faster', 22, fill=PLUM)
+    s.arrow(1570, cy + 200, 330, cy + 200, NAVY, 4); s.text(950, cy + 182, 'cooling: the particles lose energy and move more slowly', 22, fill=NAVY)
+    s.text(950, cy + 256, 'The particles themselves do not change, and none are lost, so the mass stays the same.', 22, italic=True, fill=NAVY)
+    s.save('states_of_matter')
+
+def states_blank():
+    """Three lettered particle diagrams for a test question: A gas, B solid, C liquid (no names)."""
+    s = SVG(1700, 520)
+    W, H, Y = 420, 360, 110
+    for k, (letter, draw) in enumerate([('A', lambda *a: _gas_particles(*a, arrows=False)), ('B', _solid_particles), ('C', _liquid_particles)]):
+        x = 120 + k * 520
+        s.circle(x + W / 2, Y - 50, 32, '#FFFFFF', INK, 3); s.text(x + W / 2, Y - 39, letter, 30, weight='bold')
+        s.rect(x, Y, W, H, '#FFFFFF', INK, 4, 14)
+        draw(s, x, Y, W, H)
+    s.save('states_blank')
+
 if __name__ == '__main__':
     for f in [env_factors, cont_discont, gametes_zygote, dna_chromosome_gene, probability_scale, natural_selection_moths, tilapia_graph,
               photosynthesis_eq, respiration_eq, leaf_section, stoma_open_closed, water_route, germination, selective_breeding,
               eutrophication_flow, carbon_cycle, immune_response, antibody_response, nervous_pathway, fermenter, median_quartiles,
               sampling_formula, distribution_patterns, sa_v_cubes, osmosis_membrane, diffusion_gradient, half_life_graph, graph_grid,
               blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types,
-              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula, plant_cell_blank]:
+              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula, plant_cell_blank,
+              states_of_matter, states_blank]:
         f()

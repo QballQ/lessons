@@ -1,7 +1,7 @@
 {
  "id": "Y9_Revision_Guide_1",
  "title": "Year 9 Science Revision Guide 1",
- "subtitle": "Variation and inheritance · Adaptation, extinction and natural selection · Cells and the microscope · Atoms and the periodic table",
+ "subtitle": "Variation and inheritance · Adaptation, extinction and natural selection · Cells and the microscope · States of matter · Atoms and the periodic table",
  "built": "November 2026",
  "how_to_use": [
   "Read one section at a time. Cover the Key ideas and say them out loud, or write them from memory, then check.",
@@ -47,7 +47,14 @@
    ]
   },
   {
-   "topic": "6  Atoms and the periodic table",
+   "topic": "6  States of matter",
+   "items": [
+    "I can describe how the particles are arranged and how they move in solids, liquids and gases, and use this to explain their properties.",
+    "I can name the changes of state and say what happens to the particles when a substance is heated or cooled."
+   ]
+  },
+  {
+   "topic": "7  Atoms and the periodic table",
    "items": [
     "I can describe the structure of an atom and use the atomic number and mass number.",
     "I can write the electron configuration of the first 20 elements.",
@@ -1177,6 +1184,268 @@
   },
   {
    "n": 6,
+   "title": "States of matter",
+   "source": "Revisits earlier work on solids, liquids and gases and the particle model",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "Everything is made of tiny **particles**. The three **states of matter** are **solid**, **liquid** and **gas**. The **particle model** explains their properties by how the particles are arranged and how they move.",
+      "**Solid**: the particles are close together in a regular pattern, held by strong forces. They **vibrate** about fixed positions. A solid has a fixed shape and a fixed volume, and it cannot be **compressed** (squashed).",
+      "**Liquid**: the particles are close together but not in a regular pattern, and they slide past each other. A liquid can **flow** and takes the shape of its container. It has a fixed volume and cannot be compressed.",
+      "**Gas**: the particles are far apart and move quickly in all directions. A gas spreads out to fill its container, has no fixed shape or volume, and can be compressed because there is space between its particles.",
+      "**Changes of state**: heating gives the particles more energy, so they move faster. **Melting** is solid to liquid. **Evaporating** or **boiling** is liquid to gas. Cooling takes energy away: **condensing** is gas to liquid and **freezing** is liquid to solid.",
+      "The **melting point** is the temperature at which a solid melts. The **boiling point** is the temperature at which a liquid boils. Pure water melts at 0 °C and boils at 100 °C.",
+      "Evaporation happens at the surface of a liquid at any temperature. Boiling happens all through the liquid, with bubbles, at the boiling point.",
+      "In a change of state the particles themselves do not change and none are lost. Only their arrangement and movement change, so the mass stays the same: 10 g of ice melts to make 10 g of water."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:states_of_matter",
+     "w": 640,
+     "h": 350,
+     "caption": "The particle model of a solid, a liquid and a gas, and the names of the changes of state."
+    },
+    {
+     "type": "table",
+     "title": "Solids, liquids and gases compared",
+     "headers": [
+      "",
+      "Solid",
+      "Liquid",
+      "Gas"
+     ],
+     "widths": [
+      2600,
+      2500,
+      2500,
+      2500
+     ],
+     "rows": [
+      [
+       "Arrangement of particles",
+       "close together, regular pattern",
+       "close together, no pattern",
+       "far apart, no pattern"
+      ],
+      [
+       "Movement of particles",
+       "vibrate about fixed positions",
+       "slide past each other",
+       "move quickly in all directions"
+      ],
+      [
+       "Shape",
+       "fixed",
+       "takes the shape of its container",
+       "fills its container"
+      ],
+      [
+       "Volume",
+       "fixed",
+       "fixed",
+       "not fixed"
+      ],
+      [
+       "Can it be compressed?",
+       "no",
+       "no",
+       "yes"
+      ],
+      [
+       "Can it flow?",
+       "no",
+       "yes",
+       "yes"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "The changes of state",
+     "headers": [
+      "Change",
+      "Name",
+      "Heating or cooling?"
+     ],
+     "widths": [
+      3400,
+      3600,
+      3200
+     ],
+     "rows": [
+      [
+       "solid to liquid",
+       "melting",
+       "heating"
+      ],
+      [
+       "liquid to gas",
+       "evaporating or boiling",
+       "heating"
+      ],
+      [
+       "gas to liquid",
+       "condensing",
+       "cooling"
+      ],
+      [
+       "liquid to solid",
+       "freezing",
+       "cooling"
+      ]
+     ]
+    },
+    {
+     "type": "remember",
+     "text": "Describe a state by two things: how the particles are **arranged** and how they **move**. When a substance is heated, its particles move faster; they do not get bigger, hotter or softer."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "The particles in a solid do not move. They vibrate about fixed positions.",
+      "The particles in a liquid are far apart. They are still touching each other; they are just not in a regular pattern, which is why a liquid cannot be compressed.",
+      "Particles melt, expand or get hot. The particles stay the same; only their movement and arrangement change.",
+      "The bubbles in boiling water are air. They are water in the gas state (steam)."
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "state of matter",
+       "cn": "物态",
+       "meaning": "one of the three forms a substance can be in: solid, liquid or gas"
+      },
+      {
+       "en": "particle",
+       "cn": "粒子",
+       "meaning": "one of the tiny pieces that all substances are made of"
+      },
+      {
+       "en": "particle model",
+       "cn": "粒子模型",
+       "meaning": "the idea that the arrangement and movement of particles explain how solids, liquids and gases behave"
+      },
+      {
+       "en": "solid",
+       "cn": "固体",
+       "meaning": "a state with a fixed shape and volume; particles close together in a regular pattern"
+      },
+      {
+       "en": "liquid",
+       "cn": "液体",
+       "meaning": "a state that flows and has a fixed volume; particles close together with no pattern"
+      },
+      {
+       "en": "gas",
+       "cn": "气体",
+       "meaning": "a state that fills its container; particles far apart and moving quickly"
+      },
+      {
+       "en": "vibrate",
+       "cn": "振动",
+       "meaning": "to move backwards and forwards about a fixed position"
+      },
+      {
+       "en": "compress",
+       "cn": "压缩",
+       "meaning": "to squash something into a smaller volume"
+      },
+      {
+       "en": "flow",
+       "cn": "流动",
+       "meaning": "to move from place to place, as liquids and gases do"
+      },
+      {
+       "en": "melting",
+       "cn": "熔化",
+       "meaning": "changing from a solid to a liquid"
+      },
+      {
+       "en": "freezing",
+       "cn": "凝固",
+       "meaning": "changing from a liquid to a solid"
+      },
+      {
+       "en": "evaporating",
+       "cn": "蒸发",
+       "meaning": "changing from a liquid to a gas at the surface of the liquid"
+      },
+      {
+       "en": "boiling",
+       "cn": "沸腾",
+       "meaning": "changing from a liquid to a gas all through the liquid, at the boiling point"
+      },
+      {
+       "en": "condensing",
+       "cn": "液化",
+       "meaning": "changing from a gas to a liquid"
+      },
+      {
+       "en": "melting point",
+       "cn": "熔点",
+       "meaning": "the temperature at which a solid melts; 0 °C for pure water"
+      },
+      {
+       "en": "boiling point",
+       "cn": "沸点",
+       "meaning": "the temperature at which a liquid boils; 100 °C for pure water"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name the three states of matter.",
+       "marks": 1,
+       "a": "Solid, liquid and gas (all three for the mark)."
+      },
+      {
+       "q": "Describe how the particles are arranged and how they move in a solid.",
+       "marks": 2,
+       "a": "They are close together in a regular pattern (1) and they vibrate about fixed positions (1)."
+      },
+      {
+       "q": "Explain why a gas can be compressed but a liquid cannot.",
+       "marks": 2,
+       "a": "In a gas the particles are far apart, so there is space for them to be pushed closer together (1). In a liquid the particles are already touching, so there is no space to push them closer (1)."
+      },
+      {
+       "q": "Name the change of state when (a) a solid becomes a liquid, (b) a gas becomes a liquid.",
+       "marks": 2,
+       "a": "(a) melting (1). (b) condensing (1)."
+      },
+      {
+       "q": "What are the melting point and the boiling point of pure water?",
+       "marks": 2,
+       "a": "Melting point 0 °C (1); boiling point 100 °C (1)."
+      },
+      {
+       "q": "20 g of ice melts. What is the mass of the water that is formed? Explain your answer.",
+       "marks": 2,
+       "a": "20 g (1). No particles are lost or gained when a substance changes state; only their arrangement and movement change (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "A puddle dries up on a cool day when the temperature is 15 °C, far below the boiling point of water. Use the idea of particles to explain how this happens.",
+       "marks": 3,
+       "a": "The water evaporates (1). Some particles at the surface have enough energy to escape from the liquid and move away into the air as a gas (1). Evaporation happens at any temperature, not only at the boiling point; it is just slower when it is cool (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "A solid iron bar gets slightly longer when it is heated, but its mass does not change. Use the particle model to explain both facts.",
+       "marks": 4,
+       "a": "Heating gives the particles more energy, so they vibrate more (1) and take up slightly more space, moving a little further apart, so the bar gets longer (1). The particles themselves do not get bigger (1). No particles are added or lost, so the mass stays the same (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
    "title": "Atoms, atomic mass and the periodic table",
    "source": "Revisits earlier work on atoms, elements and the periodic table",
    "blocks": [

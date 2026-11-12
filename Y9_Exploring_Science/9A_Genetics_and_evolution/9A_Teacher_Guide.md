@@ -1,6 +1,6 @@
 # 9A Genetics and evolution: Teacher Guide
 
-Year 9 Science | Exploring Science International 9 | Built 09 November 2026 | Chinese text status: draft, needs native-speaker check
+Year 9 Science | Exploring Science International 9 | Built 12 November 2026 | Chinese text status: draft, needs native-speaker check
 
 
 ---

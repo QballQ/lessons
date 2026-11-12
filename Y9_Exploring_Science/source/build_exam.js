@@ -76,9 +76,10 @@ function renderPart(p, out) {
     if (ir) out.push(new Paragraph({ children: [ir], alignment: AlignmentType.CENTER, spacing: { before: 40, after: 60 }, keepNext: true }));
   }
   if (p.word_box) {
-    out.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(para([run(p.word_box.join('        '), { size: BODY, bold: true })], { after: 0, align: AlignmentType.CENTER }), CW - IND, { borders: boxBorders, pad: 90 })] })],
-      width: { size: CW - IND, type: WidthType.DXA }, columnWidths: [CW - IND], borders: boxBorders, layout: docx.TableLayoutType.FIXED, indent: { size: IND, type: WidthType.DXA } }));
-    out.push(para(' ', { after: 0, line: 160, keepNext: true }));
+    // a bordered paragraph, not a table: a paragraph reliably stays with the sentences or table that follow it
+    const edge = { style: BorderStyle.SINGLE, size: 6, color: DARK, space: 6 };
+    out.push(new Paragraph({ children: [run(p.word_box.join('        '), { size: BODY, bold: true })], alignment: AlignmentType.CENTER, indent: { left: IND + 60, right: 60 },
+      keepNext: true, keepLines: true, spacing: { before: 80, after: 160 }, border: { top: edge, bottom: edge, left: edge, right: edge } }));
   }
   if (p.gaps) p.gaps.forEach(g => out.push(para([run(g, { size: BODY })], { indent: { left: IND }, after: 60, line: 420, keepNext: true })));
   if (p.mcq) p.mcq.forEach(o => out.push(para([run('☐   ', { size: 26 }), run(o, { size: BODY })], { indent: { left: IND + 200 }, after: 40, keepNext: true })));
