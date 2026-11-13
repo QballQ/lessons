@@ -1,135 +1,410 @@
 {
-  "id": "Y9_Test_1_Core",
-  "title": "Year 9 Science Test 1",
-  "level": "Core",
-  "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%)",
-  "time_minutes": 40,
-  "total_marks": 40,
-  "weighting_note": "Agreed with Albert, November 2026: the paper is split by time, 40% biology, 20% chemistry, 40% physics. At one mark a minute that is 16, 8 and 16 marks of the 40.",
-  "instructions": [
-    "You have 40 minutes. There are three parts: Biology (16 marks), Chemistry (8 marks) and Physics (16 marks). Answer all the questions.",
-    "Spend about one minute on each mark: 16 minutes on Biology, 8 minutes on Chemistry and 16 minutes on Physics.",
-    "The last question in each part is harder (Stretch and Challenge). Answer the other questions in that part first.",
-    "Write your answers in the spaces on this paper. The marks for each part of a question are shown in brackets, for example [2]."
-  ],
-  "keywords": [
-    {"en": "abiotic factor", "cn": "非生物因素"}, {"en": "biotic factor", "cn": "生物因素"}, {"en": "continuous variation", "cn": "连续变异"},
-    {"en": "genetic information", "cn": "遗传信息"}, {"en": "nucleus", "cn": "细胞核"}, {"en": "fertilisation", "cn": "受精"},
-    {"en": "zygote", "cn": "受精卵"}, {"en": "nature reserve", "cn": "自然保护区"}, {"en": "breeding programme", "cn": "繁育计划"},
-    {"en": "gene bank", "cn": "基因库"}, {"en": "natural selection", "cn": "自然选择"}, {"en": "gene", "cn": "基因"},
-    {"en": "generation", "cn": "世代"}, {"en": "cell wall", "cn": "细胞壁"}, {"en": "chloroplast", "cn": "叶绿体"},
-    {"en": "vacuole", "cn": "液泡"}, {"en": "magnification", "cn": "放大倍数"}, {"en": "eyepiece lens", "cn": "目镜"},
-    {"en": "objective lens", "cn": "物镜"}, {"en": "particle", "cn": "粒子"}, {"en": "solid", "cn": "固体"},
-    {"en": "liquid", "cn": "液体"}, {"en": "gas", "cn": "气体"}, {"en": "proton", "cn": "质子"},
-    {"en": "neutron", "cn": "中子"}, {"en": "electron", "cn": "电子"}, {"en": "atomic number", "cn": "原子序数"},
-    {"en": "mass number", "cn": "质量数"}, {"en": "electron configuration", "cn": "电子排布"}, {"en": "periodic table", "cn": "元素周期表"},
-    {"en": "group", "cn": "族"}
-  ],
-  "sections": [
+ "id": "Y9_Test_1_Core",
+ "title": "Year 9 Science Test 1",
+ "level": "Core",
+ "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%)",
+ "time_minutes": 40,
+ "total_marks": 40,
+ "weighting_note": "Agreed with Albert, November 2026: the paper is split by time, 40% biology, 20% chemistry, 40% physics. At one mark a minute that is 16, 8 and 16 marks of the 40.",
+ "instructions": [
+  "You have 40 minutes. There are three parts: Biology (16 marks), Chemistry (8 marks) and Physics (16 marks). Answer all the questions.",
+  "Spend about one minute on each mark: 16 minutes on Biology, 8 minutes on Chemistry and 16 minutes on Physics.",
+  "The last question in each part is harder (Stretch and Challenge). Answer the other questions in that part first.",
+  "Write your answers in the spaces on this paper. The marks for each part of a question are shown in brackets, for example [2]."
+ ],
+ "keywords": [
+  {
+   "en": "abiotic factor",
+   "cn": "非生物因素"
+  },
+  {
+   "en": "biotic factor",
+   "cn": "生物因素"
+  },
+  {
+   "en": "continuous variation",
+   "cn": "连续变异"
+  },
+  {
+   "en": "genetic information",
+   "cn": "遗传信息"
+  },
+  {
+   "en": "nucleus",
+   "cn": "细胞核"
+  },
+  {
+   "en": "fertilisation",
+   "cn": "受精"
+  },
+  {
+   "en": "zygote",
+   "cn": "受精卵"
+  },
+  {
+   "en": "nature reserve",
+   "cn": "自然保护区"
+  },
+  {
+   "en": "breeding programme",
+   "cn": "繁育计划"
+  },
+  {
+   "en": "gene bank",
+   "cn": "基因库"
+  },
+  {
+   "en": "natural selection",
+   "cn": "自然选择"
+  },
+  {
+   "en": "gene",
+   "cn": "基因"
+  },
+  {
+   "en": "generation",
+   "cn": "世代"
+  },
+  {
+   "en": "camouflage",
+   "cn": "伪装"
+  },
+  {
+   "en": "cell wall",
+   "cn": "细胞壁"
+  },
+  {
+   "en": "chloroplast",
+   "cn": "叶绿体"
+  },
+  {
+   "en": "vacuole",
+   "cn": "液泡"
+  },
+  {
+   "en": "magnification",
+   "cn": "放大倍数"
+  },
+  {
+   "en": "eyepiece lens",
+   "cn": "目镜"
+  },
+  {
+   "en": "objective lens",
+   "cn": "物镜"
+  },
+  {
+   "en": "particle",
+   "cn": "粒子"
+  },
+  {
+   "en": "solid",
+   "cn": "固体"
+  },
+  {
+   "en": "liquid",
+   "cn": "液体"
+  },
+  {
+   "en": "gas",
+   "cn": "气体"
+  },
+  {
+   "en": "proton",
+   "cn": "质子"
+  },
+  {
+   "en": "neutron",
+   "cn": "中子"
+  },
+  {
+   "en": "electron",
+   "cn": "电子"
+  },
+  {
+   "en": "atomic number",
+   "cn": "原子序数"
+  },
+  {
+   "en": "mass number",
+   "cn": "质量数"
+  },
+  {
+   "en": "electron configuration",
+   "cn": "电子排布"
+  },
+  {
+   "en": "periodic table",
+   "cn": "元素周期表"
+  },
+  {
+   "en": "group",
+   "cn": "族"
+  }
+ ],
+ "sections": [
+  {
+   "title": "Part 1: Biology",
+   "subject": "biology",
+   "minutes": 16,
+   "intro": "Questions 1 to 5 are Core. Question 6 is Stretch and Challenge.",
+   "questions": [
     {
-      "title": "Part 1: Biology", "subject": "biology", "minutes": 16,
-      "intro": "Questions 1 to 5 are Core. Question 6 is Stretch and Challenge.",
-      "questions": [
-        {
-          "title": "Environmental variation",
-          "parts": [
-            {"label": "a", "text": "Put one tick in each row to show whether the factor is abiotic (non-living) or biotic (living).", "marks": 2,
-             "tick_table": {"headers": ["Factor", "Abiotic", "Biotic"], "widths": [4600, 2700, 2700], "rows": ["temperature", "predation (being hunted)", "amount of light", "infectious disease"]},
-             "answer": "temperature: abiotic; predation: biotic; amount of light: abiotic; infectious disease: biotic. All four correct = 2 marks; two or three correct = 1 mark."},
-            {"label": "b", "text": "Which one of these shows continuous variation? Tick one box.", "marks": 1,
-             "mcq": ["blood group", "height", "tongue rolling (can or cannot)", "natural eye colour"],
-             "answer": "height"}
-          ]
-        },
-        {
-          "title": "Inherited variation",
-          "parts": [
-            {"label": "a", "text": "Complete the sentences using words from the box. One word is not needed.", "marks": 2,
-             "word_box": ["nucleus", "fertilisation", "environment"],
-             "gaps": ["Genetic information is stored in the ______________________ of a cell.",
-                      "A sperm cell and an egg cell join together at ______________________ to make a zygote."],
-             "answer": "nucleus (1), fertilisation (1)."}
-          ]
-        },
-        {
-          "title": "Adaptation and extinction",
-          "parts": [
-            {"label": "a", "text": "Draw one line from each way of protecting a species to how it works.", "marks": 2,
-             "match": {"left": ["nature reserve", "breeding programme", "gene bank"],
-                       "right": ["endangered animals are bred in captivity to increase their numbers", "seeds, gametes or cells are stored at a low temperature", "an area where the habitat and the species living in it are protected"]},
-             "answer": "nature reserve: an area where the habitat and the species living in it are protected; breeding programme: endangered animals are bred in captivity; gene bank: seeds, gametes or cells stored at a low temperature. All three correct = 2 marks; one correct = 1 mark."}
-          ]
-        },
-        {
-          "title": "Natural selection",
-          "parts": [
-            {"label": "a", "text": "In the 1800s, black peppered moths became more common near Manchester. The sentences below explain why, but they are in the wrong order. Write 1, 2, 3 and 4 in the boxes to put them in the correct order.", "marks": 2,
-             "order_table": {"rows": ["Birds spotted and ate more pale moths than black moths.", "A few moths had genes that made them black.", "Each generation had more black moths than the one before.", "Soot from factories made the tree trunks black."]},
-             "answer": "Correct order: a few moths had genes that made them black (1); soot made the tree trunks black (2); birds ate more pale moths (3); each generation had more black moths (4). All four correct = 2 marks; first and last correct = 1 mark."}
-          ]
-        },
-        {
-          "title": "Cells and the microscope",
-          "parts": [
-            {"label": "a", "text": "The diagram shows a plant cell. Write the name of each labelled part.", "marks": 2,
-             "image": {"ref": "diagram:plant_cell_blank", "w": 360, "h": 195}, "label_lines": ["A", "B", "C", "D"],
-             "answer": "A cell wall, B nucleus, C chloroplast, D vacuole. All four correct = 2 marks; two or three correct = 1 mark."},
-            {"label": "b", "text": "A microscope has a x10 eyepiece lens and a x4 objective lens. Calculate the total magnification.", "marks": 1,
-             "inline": "Total magnification = x ______________",
-             "answer": "x40 (10 x 4)"}
-          ]
-        },
-        {
-          "title": "Natural selection in the Salton Sea", "tier": "Stretch and Challenge",
-          "parts": [
-            {"label": "a", "text": "The Salton Sea in California has become saltier and saltier since 1905. Most fish species died out, but tilapia still live there and can cope with very salty water. Explain how natural selection made the tilapia able to live in very salty water.", "marks": 4, "lines": 6,
-             "answer": "By chance, some tilapia had genes (inherited variation) that helped them cope with salt (1). As the water got saltier, more of these fish survived than the others (1). They reproduced and passed on their genes (1), so each generation had more salt-tolerant fish, until all of them could cope (1). Do not credit 'the fish changed so they could cope'."}
-          ]
-        }
-      ]
+     "title": "Environmental variation",
+     "parts": [
+      {
+       "label": "a",
+       "text": "Put one tick in each row to show whether the factor is abiotic (non-living) or biotic (living).",
+       "marks": 2,
+       "tick_table": {
+        "headers": [
+         "Factor",
+         "Abiotic",
+         "Biotic"
+        ],
+        "widths": [
+         4600,
+         2700,
+         2700
+        ],
+        "rows": [
+         "temperature",
+         "predation (being hunted)",
+         "amount of light",
+         "infectious disease"
+        ]
+       },
+       "answer": "temperature: abiotic; predation: biotic; amount of light: abiotic; infectious disease: biotic. All four correct = 2 marks; two or three correct = 1 mark."
+      },
+      {
+       "label": "b",
+       "text": "Which one of these shows continuous variation? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "blood group",
+        "height",
+        "tongue rolling (can or cannot)",
+        "natural eye colour"
+       ],
+       "answer": "height"
+      }
+     ]
     },
     {
-      "title": "Part 2: Chemistry", "subject": "chemistry", "minutes": 8,
-      "intro": "Questions 7 and 8 are Core. Question 9 is Stretch and Challenge.",
-      "questions": [
-        {
-          "title": "States of matter",
-          "parts": [
-            {"label": "a", "text": "The diagrams show the particles in a solid, a liquid and a gas. Write solid, liquid or gas for each diagram.", "marks": 2,
-             "image": {"ref": "diagram:states_blank", "w": 470, "h": 145}, "label_lines": ["A", "B", "C"],
-             "answer": "A gas, B solid, C liquid. All three correct = 2 marks; one or two correct = 1 mark."}
-          ]
-        },
-        {
-          "title": "Atoms and the periodic table",
-          "parts": [
-            {"label": "a", "text": "A sodium atom has atomic number 11 and mass number 23.", "marks": 2,
-             "sub": [{"text": "How many protons does the atom have?", "inline": "protons = ____________"},
-                     {"text": "How many neutrons does the atom have?", "inline": "neutrons = ____________"}],
-             "answer": "(i) 11 protons (1). (ii) 23 - 11 = 12 neutrons (1)."},
-            {"label": "b", "text": "A sodium atom has 11 electrons. Complete its electron configuration.", "marks": 1,
-             "inline": "2, 8, ______",
-             "answer": "2,8,1 (the missing number is 1)."},
-            {"label": "c", "text": "Use your answer to part (b). Which group of the periodic table is sodium in? Tick one box.", "marks": 1,
-             "mcq": ["group 1", "group 2", "group 7", "group 0"],
-             "answer": "group 1 (one electron in the outer shell)."}
-          ]
-        },
-        {
-          "title": "Elements in the same group", "tier": "Stretch and Challenge",
-          "parts": [
-            {"label": "a", "text": "Fluorine (atomic number 9) and chlorine (atomic number 17) are both in group 7 of the periodic table.", "marks": 2,
-             "sub": [{"text": "Write the electron configuration of each atom.", "inline": "fluorine ____________________     chlorine ____________________"},
-                     {"text": "Explain why fluorine and chlorine react in similar ways.", "lines": 2}],
-             "answer": "(i) fluorine 2,7 and chlorine 2,8,7, both correct (1). (ii) Both have seven electrons in the outer shell, and the outer electrons decide how an element reacts (1)."}
-          ]
-        }
-      ]
+     "title": "Inherited variation",
+     "parts": [
+      {
+       "label": "a",
+       "text": "Complete the sentences using words from the box. One word is not needed.",
+       "marks": 2,
+       "word_box": [
+        "nucleus",
+        "fertilisation",
+        "environment"
+       ],
+       "gaps": [
+        "Genetic information is stored in the ______________________ of a cell.",
+        "A sperm cell and an egg cell join together at ______________________ to make a zygote."
+       ],
+       "answer": "nucleus (1), fertilisation (1)."
+      }
+     ]
     },
     {
-      "title": "Part 3: Physics", "subject": "physics", "minutes": 16,
-      "intro": "Questions from 10 onwards. The last question will be Stretch and Challenge.",
-      "pending": {"marks": 16, "note": "Physics questions to be added: 16 marks, about 16 minutes. Planned as 12 marks of Core questions and one 4-mark Stretch and Challenge question, matching Part 1. The topics taught in physics are needed before these can be written."}
+     "title": "Adaptation and extinction",
+     "parts": [
+      {
+       "label": "a",
+       "text": "Draw one line from each way of protecting a species to how it works.",
+       "marks": 2,
+       "match": {
+        "left": [
+         "nature reserve",
+         "breeding programme",
+         "gene bank"
+        ],
+        "right": [
+         "endangered animals are bred in captivity to increase their numbers",
+         "seeds, gametes or cells are stored at a low temperature",
+         "an area where the habitat and the species living in it are protected"
+        ]
+       },
+       "answer": "nature reserve: an area where the habitat and the species living in it are protected; breeding programme: endangered animals are bred in captivity; gene bank: seeds, gametes or cells stored at a low temperature. All three correct = 2 marks; one correct = 1 mark."
+      }
+     ]
+    },
+    {
+     "title": "Natural selection",
+     "parts": [
+      {
+       "label": "a",
+       "text": "In the 1800s, black peppered moths became more common near Manchester. The sentences below explain why, but they are in the wrong order. Write 1, 2, 3 and 4 in the boxes to put them in the correct order.",
+       "marks": 2,
+       "order_table": {
+        "rows": [
+         "Birds spotted and ate more pale moths than black moths.",
+         "A few moths had genes that made them black.",
+         "Each generation had more black moths than the one before.",
+         "Soot from factories made the tree trunks black."
+        ]
+       },
+       "answer": "Correct order: a few moths had genes that made them black (1); soot made the tree trunks black (2); birds ate more pale moths (3); each generation had more black moths (4). All four correct = 2 marks; first and last correct = 1 mark."
+      }
+     ]
+    },
+    {
+     "title": "Cells and the microscope",
+     "parts": [
+      {
+       "label": "a",
+       "text": "The diagram shows a plant cell. Write the name of each labelled part.",
+       "marks": 2,
+       "image": {
+        "ref": "diagram:plant_cell_blank",
+        "w": 360,
+        "h": 195
+       },
+       "label_lines": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "answer": "A cell wall, B nucleus, C chloroplast, D vacuole. All four correct = 2 marks; two or three correct = 1 mark."
+      },
+      {
+       "label": "b",
+       "text": "A microscope has a x10 eyepiece lens and a x4 objective lens. Calculate the total magnification.",
+       "marks": 1,
+       "inline": "Total magnification = x ______________",
+       "answer": "x40 (10 x 4)"
+      }
+     ]
+    },
+    {
+     "title": "Peppered moths today",
+     "tier": "Stretch and Challenge",
+     "parts": [
+      {
+       "label": "a",
+       "text": "By 1895 most peppered moths near Manchester were black, because soot from factories had made the tree trunks black. Since the 1960s the air has been much cleaner. There is very little soot, and the tree trunks are pale again.",
+       "marks": 4,
+       "sub": [
+        {
+         "text": "Predict what has happened to the numbers of black moths and pale moths near Manchester since the 1960s.",
+         "lines": 2
+        },
+        {
+         "text": "Explain your prediction. Use the idea of natural selection.",
+         "lines": 5
+        }
+       ],
+       "answer": "(i) The number of black moths has gone down and the number of pale moths has gone up (1). (ii) On pale tree trunks the pale moths are better camouflaged, so birds spot and eat more black moths (1). More pale moths survive and reproduce (1). They pass on their genes, so each generation has more pale moths (1). Do not credit 'the moths changed colour'."
+      }
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "title": "Part 2: Chemistry",
+   "subject": "chemistry",
+   "minutes": 8,
+   "intro": "Questions 7 and 8 are Core. Question 9 is Stretch and Challenge.",
+   "questions": [
+    {
+     "title": "States of matter",
+     "parts": [
+      {
+       "label": "a",
+       "text": "The diagrams show the particles in a solid, a liquid and a gas. Write solid, liquid or gas for each diagram.",
+       "marks": 2,
+       "image": {
+        "ref": "diagram:states_blank",
+        "w": 470,
+        "h": 145
+       },
+       "label_lines": [
+        "A",
+        "B",
+        "C"
+       ],
+       "answer": "A gas, B solid, C liquid. All three correct = 2 marks; one or two correct = 1 mark."
+      }
+     ]
+    },
+    {
+     "title": "Atoms and the periodic table",
+     "parts": [
+      {
+       "label": "a",
+       "text": "A sodium atom has atomic number 11 and mass number 23.",
+       "marks": 2,
+       "sub": [
+        {
+         "text": "How many protons does the atom have?",
+         "inline": "protons = ____________"
+        },
+        {
+         "text": "How many neutrons does the atom have?",
+         "inline": "neutrons = ____________"
+        }
+       ],
+       "answer": "(i) 11 protons (1). (ii) 23 - 11 = 12 neutrons (1)."
+      },
+      {
+       "label": "b",
+       "text": "A sodium atom has 11 electrons. Complete its electron configuration.",
+       "marks": 1,
+       "inline": "2, 8, ______",
+       "answer": "2,8,1 (the missing number is 1)."
+      },
+      {
+       "label": "c",
+       "text": "Use your answer to part (b). Which group of the periodic table is sodium in? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "group 1",
+        "group 2",
+        "group 7",
+        "group 0"
+       ],
+       "answer": "group 1 (one electron in the outer shell)."
+      }
+     ]
+    },
+    {
+     "title": "Elements in the same group",
+     "tier": "Stretch and Challenge",
+     "parts": [
+      {
+       "label": "a",
+       "text": "Fluorine (atomic number 9) and chlorine (atomic number 17) are both in group 7 of the periodic table.",
+       "marks": 2,
+       "sub": [
+        {
+         "text": "Write the electron configuration of each atom.",
+         "inline": "fluorine ____________________     chlorine ____________________"
+        },
+        {
+         "text": "Explain why fluorine and chlorine react in similar ways.",
+         "lines": 2
+        }
+       ],
+       "answer": "(i) fluorine 2,7 and chlorine 2,8,7, both correct (1). (ii) Both have seven electrons in the outer shell, and the outer electrons decide how an element reacts (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part 3: Physics",
+   "subject": "physics",
+   "minutes": 16,
+   "intro": "Questions from 10 onwards. The last question will be Stretch and Challenge.",
+   "pending": {
+    "marks": 16,
+    "note": "Physics questions to be added: 16 marks, about 16 minutes. Planned as 12 marks of Core questions and one 4-mark Stretch and Challenge question, matching Part 1. The topics taught in physics are needed before these can be written."
+   }
+  }
+ ]
 }
