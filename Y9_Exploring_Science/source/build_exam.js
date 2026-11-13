@@ -5,7 +5,9 @@
    tagged with its tier) with numbered questions, lettered parts and answer spaces: ruled lines, tick boxes,
    tick tables, tables to complete, word boxes and gap sentences, matching lines, diagrams with label lines.
    --cn adds the Chinese key words block; the questions are identical, so both versions use the same mark scheme.
-   --mark-scheme writes the mark scheme instead: one table per question (part, answer, marks) and the total.
+   --mark-scheme writes the mark scheme instead: the weighting of the parts, one table per question (part, answer, marks)
+   and the total. A section can carry minutes (suggested time) and pending: { marks, note } for a part that is reserved
+   but not written yet; the paper and mark scheme are then marked DRAFT.
 */
 const fs = require('fs');
 const path = require('path');
@@ -133,11 +135,22 @@ function renderPart(p, out) {
 }
 
 // a paper is either a flat list of questions or sections (e.g. Section A: Core, Section B: Stretch and Challenge)
-const sectionsOf = (ex) => ex.sections || [{ title: null, intro: null, questions: ex.questions }];
+const sectionsOf = (ex) => (ex.sections || [{ title: null, intro: null, questions: ex.questions }]).map(s => ({ ...s, questions: s.questions || [] }));
+// a part's marks: counted from its questions, or stated when the part is reserved (pending: { marks, note }) and not written yet
+const secMarks = (sec) => sec.pending ? sec.pending.marks : sec.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0);
+const secLabel = (sec) => `${secMarks(sec)} marks${sec.minutes ? `  ·  about ${sec.minutes} minutes` : ''}`;
+const isDraft = (ex) => sectionsOf(ex).some(s => s.pending);
+const draftNote = (ex) => {
+  const edge = { style: BorderStyle.SINGLE, size: 12, color: DARK, space: 6 };
+  const missing = sectionsOf(ex).filter(s => s.pending).map(s => `${s.title} (${s.pending.marks} marks)`).join(', ');
+  return new Paragraph({ children: [run('DRAFT  ', { bold: true, size: BODY }), run(`Not ready to print for students: ${missing} has not been added yet.`, { size: SMALL })],
+    spacing: { before: 60, after: 160 }, indent: { left: 60, right: 60 }, border: { top: edge, bottom: edge, left: edge, right: edge } });
+};
 function buildPaper(ex, cn) {
   const children = [];
   children.push(para([run(ex.title, { bold: true, size: 40 }), run(`   ${ex.level} paper`, { size: 26, color: MID })], { after: 20 }));
   children.push(para([run(ex.topics, { size: 22, color: MID })], { after: 140 }));
+  if (isDraft(ex)) children.push(draftNote(ex));
   const fw = [Math.floor(CW * 0.4), Math.floor(CW * 0.22), Math.floor(CW * 0.2), 0]; fw[3] = CW - fw[0] - fw[1] - fw[2];
   children.push(new Table({ rows: [new TableRow({ height: { value: 620, rule: docx.HeightRule.ATLEAST }, children: [
     cell(para([run('Name', { size: SMALL, color: MID })], { after: 0 }), fw[0], { borders: gridBorders, valign: VerticalAlign.TOP }),
@@ -171,9 +184,15 @@ function buildPaper(ex, cn) {
   let qn = 0;
   sectionsOf(ex).forEach((sec, si) => {
     if (sec.title) {
-      const sm = sec.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0);
-      children.push(para([run(sec.title, { bold: true, size: 28 }), run(`\t${sm} marks`, { size: SMALL, color: MID })], { before: si ? 320 : 60, after: 30, keepNext: true, tabs }));
+      // each part after the first starts a new page, so the subject parts can be separated for marking
+      children.push(para([run(sec.title, { bold: true, size: 30 }), run(`\t${secLabel(sec)}`, { size: SMALL, bold: true, color: MID })], { before: 60, after: 30, keepNext: true, tabs, pageBreakBefore: si > 0,
+        border: { top: { style: BorderStyle.SINGLE, size: 12, color: DARK, space: 6 } } }));
       if (sec.intro) children.push(para([run(sec.intro, { size: SMALL, italics: true, color: MID })], { after: 80, keepNext: true }));
+    }
+    if (sec.pending) {
+      const edge = { style: BorderStyle.DASHED, size: 8, color: '777777', space: 8 };
+      children.push(new Paragraph({ children: [run(sec.pending.note, { size: SMALL, italics: true })], spacing: { before: 120, after: 160 }, indent: { left: 80, right: 80 }, border: { top: edge, bottom: edge, left: edge, right: edge } }));
+      return;
     }
     sec.questions.forEach((q, qi) => {
       qn += 1;
@@ -192,31 +211,46 @@ function buildMarkScheme(ex) {
   const children = [];
   children.push(para([run(`${ex.title}: mark scheme`, { bold: true, size: 36 }), run(`   ${ex.level} paper`, { size: 24, color: MID })], { after: 20 }));
   children.push(para([run(`${ex.topics}   ·   ${ex.time_minutes} minutes   ·   ${ex.total_marks} marks`, { size: SMALL, color: MID })], { after: 120 }));
+  if (isDraft(ex)) children.push(draftNote(ex));
+  const secs = sectionsOf(ex);
+  // how the paper is weighted: one row per part
+  if (secs.some(sec => sec.title && (sec.minutes || sec.pending))) {
+    const ww = [Math.floor(CW * 0.4), Math.floor(CW * 0.2), Math.floor(CW * 0.2), 0]; ww[3] = CW - ww[0] - ww[1] - ww[2];
+    const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: ['Part', 'Marks', 'Share of the paper', 'Time'].map((h, i) => cell(para([run(h, { bold: true, size: TBL })], { after: 0, align: i ? AlignmentType.CENTER : undefined }), ww[i], { shade: GREY, pad: 45 })) })];
+    secs.forEach(sec => rows.push(new TableRow({ cantSplit: true, children: [
+      cell(para([run(sec.title + (sec.pending ? '  (to be added)' : ''), { size: TBL, bold: true })], { after: 0 }), ww[0]),
+      cell(para([run(String(secMarks(sec)), { size: TBL })], { after: 0, align: AlignmentType.CENTER }), ww[1]),
+      cell(para([run(`${Math.round(100 * secMarks(sec) / ex.total_marks)}%`, { size: TBL })], { after: 0, align: AlignmentType.CENTER }), ww[2]),
+      cell(para([run(sec.minutes ? `${sec.minutes} minutes` : '', { size: TBL })], { after: 0, align: AlignmentType.CENTER }), ww[3])] })));
+    children.push(new Table({ rows, width: { size: CW, type: WidthType.DXA }, columnWidths: ww, borders: gridBorders, layout: docx.TableLayoutType.FIXED }));
+    children.push(para(' ', { after: 60 }));
+  }
   children.push(para([run('Give the marks shown. Accept any correct equivalent wording. Where a part says "all four correct = 2 marks", do not award half marks.', { size: SMALL, italics: true, color: MID })], { after: 120 }));
   const widths = [Math.floor(CW * 0.08), Math.floor(CW * 0.8), 0]; widths[2] = CW - widths[0] - widths[1];
   let total = 0, qn = 0;
-  const flat = [];
-  sectionsOf(ex).forEach(sec => sec.questions.forEach(q => flat.push({ q, sec })));
-  flat.forEach(({ q, sec }, fi) => {
-    qn += 1;
-    if (sec.title && (fi === 0 || flat[fi - 1].sec !== sec)) children.push(para([run(sec.title, { bold: true, size: 26 })], { before: 200, after: 40, keepNext: true }));
-    const qm = q.parts.reduce((a, p) => a + p.marks, 0); total += qm;
-    children.push(para([run(`${qn}   ${q.title}`, { bold: true, size: 24 }), run(q.tier ? `   ${q.tier.toUpperCase()}` : '', { bold: true, size: 16, color: MID }), run(`   (${qm} marks)`, { size: SMALL, color: MID })], { before: 160, after: 50, keepNext: true }));
-    const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: ['Part', 'Answer', 'Marks'].map((h, i) => cell(para([run(h, { bold: true, size: TBL })], { after: 0, align: i === 2 ? AlignmentType.CENTER : undefined }), widths[i], { shade: GREY, pad: 45 })) })];
-    q.parts.forEach((p, k) => rows.push(new TableRow({ cantSplit: true, children: [
-      cell(para([run(`(${p.label})`, { bold: true, size: TBL })], { after: 0 }), widths[0], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP }),
-      cell(para([run(p.answer, { size: TBL })], { after: 0 }), widths[1], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP }),
-      cell(para([run(String(p.marks), { size: TBL })], { after: 0, align: AlignmentType.CENTER }), widths[2], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP })] })));
-    children.push(new Table({ rows, width: { size: CW, type: WidthType.DXA }, columnWidths: widths, borders: gridBorders, layout: docx.TableLayoutType.FIXED }));
+  secs.forEach(sec => {
+    total += secMarks(sec);
+    if (sec.title) children.push(para([run(sec.title, { bold: true, size: 26 }), run(`   ${secLabel(sec)}`, { size: SMALL, color: MID })], { before: 240, after: 40, keepNext: true }));
+    if (sec.pending) { children.push(para([run(sec.pending.note, { size: SMALL, italics: true })], { after: 80 })); return; }
+    sec.questions.forEach(q => {
+      qn += 1;
+      const qm = q.parts.reduce((a, p) => a + p.marks, 0);
+      children.push(para([run(`${qn}   ${q.title}`, { bold: true, size: 24 }), run(q.tier ? `   ${q.tier.toUpperCase()}` : '', { bold: true, size: 16, color: MID }), run(`   (${qm} marks)`, { size: SMALL, color: MID })], { before: 160, after: 50, keepNext: true }));
+      const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: ['Part', 'Answer', 'Marks'].map((h, i) => cell(para([run(h, { bold: true, size: TBL })], { after: 0, align: i === 2 ? AlignmentType.CENTER : undefined }), widths[i], { shade: GREY, pad: 45 })) })];
+      q.parts.forEach((p, k) => rows.push(new TableRow({ cantSplit: true, children: [
+        cell(para([run(`(${p.label})`, { bold: true, size: TBL })], { after: 0 }), widths[0], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP }),
+        cell(para([run(p.answer, { size: TBL })], { after: 0 }), widths[1], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP }),
+        cell(para([run(String(p.marks), { size: TBL })], { after: 0, align: AlignmentType.CENTER }), widths[2], { shade: k % 2 ? LIGHT : undefined, valign: VerticalAlign.TOP })] })));
+      children.push(new Table({ rows, width: { size: CW, type: WidthType.DXA }, columnWidths: widths, borders: gridBorders, layout: docx.TableLayoutType.FIXED }));
+    });
   });
   children.push(para([run(`Total: ${total} marks`, { bold: true, size: BODY })], { before: 160, align: AlignmentType.RIGHT }));
   if (total !== ex.total_marks) console.warn(`WARNING: parts add up to ${total} marks but total_marks is ${ex.total_marks}`);
   return children;
 }
-
 function build(ex, outFile, cn, markScheme) {
   const children = markScheme ? buildMarkScheme(ex) : buildPaper(ex, cn);
-  const header = new Header({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CW }], children: [run(`${ex.title} · ${ex.level}${markScheme ? ' · Mark scheme' : ''}`, { size: 16, color: MID }), run(`\t${ex.time_minutes} minutes · ${ex.total_marks} marks${cn ? '  ·  中文关键词' : ''}`, { size: 16, color: MID })], spacing: { after: 0 }, border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: '999999', space: 2 } } })] });
+  const header = new Header({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CW }], children: [run(`${ex.title} · ${ex.level}${markScheme ? ' · Mark scheme' : ''}${isDraft(ex) ? ' · DRAFT' : ''}`, { size: 16, color: MID }), run(`\t${ex.time_minutes} minutes · ${ex.total_marks} marks${cn ? '  ·  中文关键词' : ''}`, { size: 16, color: MID })], spacing: { after: 0 }, border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: '999999', space: 2 } } })] });
   const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [run('Page ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 16, color: MID }), run(' of ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.TOTAL_PAGES], font: FONT, size: 16, color: MID })], spacing: { after: 0 } })] });
   const doc = new Document({
     creator: 'Year 9 Science', title: `${ex.title} ${ex.level}${markScheme ? ' mark scheme' : ''}${cn ? ' (CN)' : ''}`,
@@ -232,7 +266,8 @@ if (require.main === module) {
   const cn = args.includes('--cn'), ms = args.includes('--mark-scheme');
   const [src, outFile] = args.filter(a => !a.startsWith('--'));
   const ex = JSON.parse(fs.readFileSync(src, 'utf8'));
-  const total = sectionsOf(ex).reduce((t, sec) => t + sec.questions.reduce((a, q) => a + q.parts.reduce((b, p) => b + p.marks, 0), 0), 0);
-  build(ex, outFile, cn, ms).then(r => console.log('wrote', r.file, `(${total} marks)`)).catch(e => { console.error(e); process.exit(1); });
+  const total = sectionsOf(ex).reduce((t, sec) => t + secMarks(sec), 0);
+  const pending = sectionsOf(ex).filter(sec => sec.pending).reduce((t, sec) => t + sec.pending.marks, 0);
+  build(ex, outFile, cn, ms).then(r => console.log('wrote', r.file, `(${total} marks${pending ? `, of which ${pending} still to be written` : ''})`)).catch(e => { console.error(e); process.exit(1); });
 }
 module.exports = { build };
