@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>DNA from fruit worksheet</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400..700&family=Noto+Sans:wght@300..700&family=Noto+Sans+SC:wght@300..700&display=swap">
+<style>
+@page { size: A4; margin: 0; }
+html, body { margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: 'Noto Sans', 'Noto Sans SC', sans-serif; color: #111; background: #fff; }
+.page { width: 794px; height: 1123px; box-sizing: border-box; padding: 26px 36px 0; overflow: hidden; position: relative; page-break-after: always; break-after: page; font-size: 12px; line-height: 1.35; }
+.page:last-child { page-break-after: auto; break-after: auto; }
+.zh { font-family: 'Noto Sans SC', sans-serif; font-weight: 400; color: #444; }
+b .zh, .zh b { font-weight: 600; }
+.top { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2.5px solid #111; padding-bottom: 6px; }
+.top .prog { font-size: 9.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.top .prog .zh { letter-spacing: 0; text-transform: none; }
+h1 { font-family: 'EB Garamond', Georgia, serif; font-weight: 500; font-size: 28px; line-height: 1.05; margin: 2px 0 0; }
+h1 .zh { font-weight: 300; font-size: 18px; margin-left: 8px; }
+.top > div:first-child { flex: 1; }
+.fields { flex: 0 0 300px; font-size: 11.5px; text-align: right; line-height: 2.3; }
+.fields i.bl { display: inline-block; border-bottom: 1px solid #111; width: 175px; margin-left: 4px; }
+.fields i.bl.s { width: 62px; }
+.goals { margin: 7px 0 0; font-size: 11.5px; }
+.goals .lab { font-weight: 700; }
+.goals ol { margin: 1px 0 0; padding-left: 18px; }
+.goals li { margin: 1px 0; }
+.vocab { display: flex; flex-wrap: wrap; gap: 4px 6px; margin: 7px 0 0; border: 1.3px solid #111; border-radius: 5px; padding: 5px 8px; font-size: 11px; }
+.vocab .t { font-weight: 700; margin-right: 4px; }
+.vocab .w { border: 1px solid #999; border-radius: 4px; padding: 0 6px; background: #f2f2f2; }
+.safe { margin: 7px 0 0; border: 2px solid #111; border-radius: 5px; padding: 4px 9px; font-weight: 600; font-size: 11.5px; }
+.safe .zh { color: #111; font-weight: 500; }
+.tier { display: flex; align-items: center; gap: 8px; margin: 14px 0 4px; border-bottom: 1.5px solid #111; padding-bottom: 2px; }
+.tier .name { font-size: 13px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; }
+.tier .name .zh { letter-spacing: 0; font-weight: 600; color: #111; }
+.dots { letter-spacing: 2px; font-size: 13px; }
+.q { margin: 9px 0 4px; }
+.q .l { font-weight: 700; margin-right: 3px; }
+.ln { border-bottom: 1px solid #8c8c8c; height: 25px; }
+.row { display: flex; gap: 18px; align-items: flex-start; }
+.blank { display: inline-block; border-bottom: 1px solid #111; min-width: 120px; height: 14px; vertical-align: bottom; }
+.blank.w { min-width: 190px; }
+.box { display: inline-block; width: 11px; height: 11px; border: 1.4px solid #111; border-radius: 2px; vertical-align: -1px; margin-right: 6px; }
+/* method tick list */
+.method { display: grid; grid-template-columns: 1fr 1fr; gap: 7px 20px; font-size: 12px; }
+.method div { display: flex; gap: 6px; align-items: flex-start; }
+.method .n { font-weight: 700; width: 16px; flex: 0 0 16px; text-align: right; }
+.method .box { flex: 0 0 11px; margin: 2px 0 0; }
+/* matching */
+.match { display: grid; grid-template-columns: 210px 1fr; gap: 0 26px; font-size: 12px; }
+.match .left div, .match .right div { min-height: 40px; display: flex; align-items: center; gap: 8px; border-bottom: 1px dotted #bbb; }
+.letterbox { flex: 0 0 30px; height: 26px; border: 1.4px solid #111; border-radius: 3px; }
+.match .right .k { font-weight: 800; width: 14px; flex: 0 0 14px; }
+.wb { font-size: 10.5px; color: #333; margin: 3px 0 0; }
+.wb b { color: #111; }
+.think { border: 1.5px dashed #555; border-radius: 6px; padding: 5px 9px; height: 84px; margin-top: 10px; }
+.think .t { font-weight: 800; text-transform: uppercase; letter-spacing: .05em; font-size: 11.5px; }
+.think .t .zh { text-transform: none; letter-spacing: 0; font-weight: 600; color: #111; }
+.fold { margin-top: 10px; border-top: 1.5px dashed #555; padding-top: 3px; position: relative; font-size: 10.5px; }
+.fold .lab { position: absolute; top: -9px; left: 0; background: #fff; padding: 0 6px 0 0; font-size: 9.5px; color: #555; }
+.fold .bank { display: flex; flex-wrap: wrap; gap: 3px 5px; margin-top: 7px; }
+.fold .bank > span { border: 1px solid #aaa; border-radius: 4px; padding: 0 5px; }
+.exit { position: absolute; left: 36px; right: 36px; bottom: 30px; border-top: 1.5px dashed #555; padding-top: 9px; font-size: 11.5px; }
+.exit .lab { position: absolute; top: -9px; right: 0; background: #fff; padding: 0 0 0 6px; font-size: 9.5px; color: #555; }
+.exit .hd { display: flex; justify-content: space-between; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; font-size: 11.5px; }
+.exit .hd .zh { text-transform: none; letter-spacing: 0; font-weight: 600; color: #111; }
+.exit .hd .nm { font-weight: 400; text-transform: none; letter-spacing: 0; }
+.exit .hd .nm i.bl { display: inline-block; border-bottom: 1px solid #111; width: 150px; }
+.exit p { margin: 7px 0; }
+.foot { position: absolute; left: 36px; right: 36px; bottom: 8px; display: flex; justify-content: space-between; color: #666; font-size: 8.5px; }
+.pg1foot { bottom: 12px; }
+svg text { font-family: 'Noto Sans', sans-serif; }
+</style>
+</head>
+<body>
+
+<!-- PAGE 1 -->
+<div class="page">
+<div class="top">
+<div>
+<div class="prog">Think Like a Scientist <span class="zh">像科学家一样思考</span> · Practical <span class="zh">实验</span></div>
+<h1>DNA from fruit<span class="zh">从水果中提取DNA</span></h1>
+</div>
+<div class="fields">Name <span class="zh">姓名</span> <i class="bl"></i><br>Class <span class="zh">班级</span> <i class="bl s"></i> Date <span class="zh">日期</span> <i class="bl s"></i></div>
+</div>
+
+<div class="goals"><span class="lab">Today I can</span> <span class="zh">今天我能</span>:
+<ol>
+<li>I can follow a method carefully and safely to get DNA out of fruit. <span class="zh">我能安全、仔细地按照实验步骤从水果中提取DNA。</span></li>
+<li>I can explain what the washing-up liquid, the salt and the cold alcohol each do. <span class="zh">我能解释洗洁精、盐和冷酒精各自的作用。</span></li>
+</ol>
+</div>
+
+<div class="vocab"><span class="t">Key words <span class="zh">关键词</span></span>
+<span class="w">DNA</span><span class="w">cell <span class="zh">细胞</span></span><span class="w">cell wall <span class="zh">细胞壁</span></span><span class="w">cell membrane <span class="zh">细胞膜</span></span><span class="w">nucleus <span class="zh">细胞核</span></span><span class="w">extract <span class="zh">提取</span></span><span class="w">filter <span class="zh">过滤</span></span><span class="w">dissolve <span class="zh">溶解</span></span><span class="w">layer <span class="zh">层</span></span>
+</div>
+
+<div class="safe">Stay safe <span class="zh">注意安全</span>: Goggles on. Alcohol is flammable and poisonous: never drink or taste it. <span class="zh">戴上护目镜。酒精易燃、有毒：不要喝，也不要尝。</span></div>
+
+<div class="tier"><span class="dots">●</span><span class="name">Core <span class="zh">基础</span></span></div>
+
+<div class="q"><span class="l">a)</span> Where is the DNA? Label the plant cell: write <b>cell wall</b>, <b>cell membrane</b> and <b>nucleus</b> in boxes A, B and C. Then circle where most of the DNA is. <span class="zh">DNA在哪里？标注植物细胞：在A、B、C框里写上细胞壁、细胞膜和细胞核。然后圈出大部分DNA所在的位置。</span></div>
+<div class="row" style="align-items:center">
+<svg width="324" height="180" viewBox="0 0 270 150" aria-label="Plant cell diagram">
+  <rect x="8" y="8" width="200" height="134" rx="14" fill="none" stroke="#111" stroke-width="5"/>
+  <rect x="17" y="17" width="182" height="116" rx="9" fill="none" stroke="#111" stroke-width="1.6"/>
+  <ellipse cx="80" cy="76" rx="28" ry="24" fill="#d9d9d9" stroke="#111" stroke-width="1.6"/>
+  <circle cx="86" cy="72" r="7" fill="#9a9a9a"/>
+  <ellipse cx="150" cy="45" rx="13" ry="6" fill="none" stroke="#777" stroke-width="1.2"/>
+  <ellipse cx="140" cy="118" rx="13" ry="6" fill="none" stroke="#777" stroke-width="1.2"/>
+  <ellipse cx="45" cy="118" rx="11" ry="5" fill="none" stroke="#777" stroke-width="1.2"/>
+  <line x1="208" y1="26" x2="250" y2="26" stroke="#111" stroke-width="1.2"/><circle cx="206" cy="26" r="2.4" fill="#111"/>
+  <text x="254" y="30" font-size="13" font-weight="700">A</text>
+  <line x1="199" y1="75" x2="250" y2="75" stroke="#111" stroke-width="1.2"/><circle cx="199" cy="75" r="2.4" fill="#111"/>
+  <text x="254" y="79" font-size="13" font-weight="700">B</text>
+  <line x1="92" y1="84" x2="250" y2="124" stroke="#111" stroke-width="1.2"/><circle cx="92" cy="84" r="2.4" fill="#111"/>
+  <text x="254" y="128" font-size="13" font-weight="700">C</text>
+</svg>
+<div style="flex:1; font-size:12.5px; line-height:3.4">
+<div><b>A</b> <span class="blank w"></span></div>
+<div><b>B</b> <span class="blank w"></span></div>
+<div><b>C</b> <span class="blank w"></span></div>
+</div>
+</div>
+
+<div class="q"><span class="l">b)</span> Do the practical. Tick each step when you finish it. <span class="zh">做实验。每完成一步就勾选。</span></div>
+<div class="method">
+<div><span class="n">1</span><span class="box"></span><span>Goggles on. <span class="zh">戴上护目镜。</span></span></div>
+<div><span class="n">6</span><span class="box"></span><span>Get the cold alcohol from your teacher. <span class="zh">向老师领取冷酒精。</span></span></div>
+<div><span class="n">2</span><span class="box"></span><span>Fruit and 4 teaspoons of extraction liquid in the bag. Seal it. <span class="zh">把水果和4茶匙提取液放进袋子，封好。</span></span></div>
+<div><span class="n">7</span><span class="box"></span><span>Tilt the tube. Pour the alcohol slowly down the side. <span class="zh">倾斜试管，沿管壁慢慢倒入酒精。</span></span></div>
+<div><span class="n">3</span><span class="box"></span><span>Squash gently for 2 minutes. <span class="zh">轻轻挤压2分钟。</span></span></div>
+<div><span class="n">8</span><span class="box"></span><span>Wait 3 to 5 minutes. Do not shake. <span class="zh">等3到5分钟。不要摇晃。</span></span></div>
+<div><span class="n">4</span><span class="box"></span><span>Filter it. Wait 5 minutes. Do not squeeze. <span class="zh">过滤。等5分钟。不要挤压。</span></span></div>
+<div><span class="n">9</span><span class="box"></span><span>Twist the stick at the line. Lift out the DNA. <span class="zh">在分界线处转动小棍，挑出DNA。</span></span></div>
+<div><span class="n">5</span><span class="box"></span><span>Pour the liquid into the tube, a quarter full. <span class="zh">把液体倒进试管，到四分之一满。</span></span></div>
+<div><span class="n">10</span><span class="box"></span><span>Clean up. Wash your hands. <span class="zh">清理桌面，洗手。</span></span></div>
+</div>
+
+<div class="q"><span class="l">c)</span> What does each one do? Write the letter in the box. <span class="zh">每一样有什么作用？把字母写在框里。</span></div>
+<div class="match">
+<div class="left">
+<div><span class="letterbox"></span><b>Squashing</b> <span class="zh">挤压</span></div>
+<div><span class="letterbox"></span><b>Washing-up liquid</b> <span class="zh">洗洁精</span></div>
+<div><span class="letterbox"></span><b>Salt</b> <span class="zh">盐</span></div>
+<div><span class="letterbox"></span><b>Filter</b> <span class="zh">过滤</span></div>
+<div><span class="letterbox"></span><b>Cold alcohol</b> <span class="zh">冷酒精</span></div>
+</div>
+<div class="right">
+<div><span class="k">A</span><span>makes the DNA come out of the liquid, because DNA does not dissolve in alcohol <span class="zh">让DNA从液体中析出，因为DNA不溶于酒精</span></span></div>
+<div><span class="k">B</span><span>breaks the membranes round the cell and the nucleus <span class="zh">破坏细胞膜和核膜</span></span></div>
+<div><span class="k">C</span><span>removes the solid bits <span class="zh">去除固体残渣</span></span></div>
+<div><span class="k">D</span><span>breaks open the cell walls <span class="zh">打破细胞壁</span></span></div>
+<div><span class="k">E</span><span>helps the DNA strands clump together <span class="zh">帮助DNA聚集在一起</span></span></div>
+</div>
+</div>
+
+<div class="foot pg1foot"><span>Think Like a Scientist · DNA from fruit · worksheet · page 1 of 2 · turn over <span class="zh">请翻页</span></span><span>Chinese: draft, needs native-speaker check</span></div>
+</div>
+
+<!-- PAGE 2 -->
+<div class="page" style="padding-top:22px">
+<div class="q" style="margin-top:0"><span class="l">d)</span> Draw what you see in your tube. Label the <b>alcohol</b>, the <b>fruit liquid</b> and the <b>DNA</b>. <span class="zh">画出你在试管里看到的东西。标注酒精、水果液体和DNA。</span></div>
+<div class="row">
+<svg width="210" height="200" viewBox="0 0 210 200" aria-label="Empty test tube to draw in">
+  <path d="M40 8 L40 168 A30 30 0 0 0 100 168 L100 8" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="34" y1="8" x2="106" y2="8" stroke="#111" stroke-width="2"/>
+  <line x1="108" y1="50" x2="150" y2="50" stroke="#111" stroke-width="1"/><line x1="150" y1="50" x2="205" y2="50" stroke="#8c8c8c" stroke-width="1"/>
+  <line x1="108" y1="110" x2="150" y2="110" stroke="#111" stroke-width="1"/><line x1="150" y1="110" x2="205" y2="110" stroke="#8c8c8c" stroke-width="1"/>
+  <line x1="108" y1="165" x2="150" y2="165" stroke="#111" stroke-width="1"/><line x1="150" y1="165" x2="205" y2="165" stroke="#8c8c8c" stroke-width="1"/>
+</svg>
+<div style="flex:1; padding-top:4px">
+<p style="margin:0 0 12px">The DNA looks <span class="blank w"></span> . <span class="zh">DNA看起来</span><span class="blank"></span><span class="zh">。</span></p>
+<p style="margin:0 0 12px">It appeared <span class="blank w"></span> . <span class="zh">它出现在</span><span class="blank"></span><span class="zh">。</span></p>
+<p style="margin:0 0 6px">How much DNA did you get? Circle one. <span class="zh">你们得到了多少DNA？圈出一个。</span></p>
+<p style="margin:0 0 6px; font-weight:600">none <span class="zh">没有</span> &nbsp;&nbsp;/&nbsp;&nbsp; a little <span class="zh">一点</span> &nbsp;&nbsp;/&nbsp;&nbsp; a lot <span class="zh">很多</span></p>
+<p class="wb"><b>Word bank <span class="zh">词库</span>:</b> white <span class="zh">白色</span> · stringy <span class="zh">丝状的</span> · cloudy <span class="zh">浑浊</span> · at the line between the layers <span class="zh">在两层之间的分界线上</span> · in the alcohol <span class="zh">在酒精里</span></p>
+</div>
+</div>
+
+<div class="tier"><span class="dots">●●</span><span class="name">Stretch <span class="zh">提高</span></span></div>
+<div class="q"><span class="l">a)</span> Why do we filter the mixture before we add the alcohol? <span class="zh">为什么在加入酒精之前要先过滤？</span></div>
+<div class="ln"></div><div class="ln"></div>
+<div class="q"><span class="l">b)</span> Can you see the double helix in your tube? Explain. <span class="zh">你能在试管里看到DNA的双螺旋吗？请解释。</span></div>
+<div class="ln"></div><div class="ln"></div>
+<div class="q"><span class="l">c)</span> The white strands are not pure DNA. What else could be mixed in? <span class="zh">白色的丝不是纯DNA。里面还可能混有什么？</span></div>
+<div class="ln"></div>
+
+<div class="tier"><span class="dots">●●●</span><span class="name">Challenge <span class="zh">挑战</span></span></div>
+<div class="q"><span class="l">a)</span> Each kiwi cell has 6 sets of chromosomes (DNA), a banana cell 3 and a strawberry cell 8. Predict which fruit gives the most DNA, and explain why. <span class="zh">每个猕猴桃细胞有6套染色体（DNA），香蕉细胞有3套，草莓细胞有8套。预测哪种水果能提取到最多的DNA，并解释原因。</span></div>
+<div class="ln"></div><div class="ln"></div>
+<div class="q"><span class="l">b)</span> Plan a fair test: does the salt make a difference? <span class="zh">设计一个公平测试：盐有没有作用？</span></div>
+<div style="line-height:2.25">
+I change <span class="zh">我改变</span> <span class="blank w"></span> &nbsp; I measure <span class="zh">我测量</span> <span class="blank w"></span><br>
+I keep the same <span class="zh">我保持不变</span> <span class="blank w"></span> <span class="blank w"></span>
+</div>
+
+<div class="think"><div class="t">My thinking <span class="zh">我的想法</span> <span style="font-weight:400;text-transform:none;letter-spacing:0">(any language <span class="zh">可用中文</span>)</span></div>
+Kiwis, bananas and people all have DNA. So why are they so different? <span class="zh">猕猴桃、香蕉和人都有DNA。那为什么差别这么大？</span></div>
+
+<div class="fold"><span class="lab">Fold under <span class="zh">向后折</span> · Fold-under word bank <span class="zh">折叠词库</span></span>
+<div class="bank">
+<span>cell wall <span class="zh">细胞壁</span></span><span>cell membrane <span class="zh">细胞膜</span></span><span>nucleus <span class="zh">细胞核</span></span><span>solid bits <span class="zh">固体残渣</span></span><span>clump together <span class="zh">聚集在一起</span></span><span>does not dissolve <span class="zh">不溶解</span></span><span>too thin to see <span class="zh">太细，看不见</span></span><span>millions of strands <span class="zh">数百万条DNA链</span></span><span>protein <span class="zh">蛋白质</span></span><span>bits of fruit <span class="zh">水果碎屑</span></span><span>more copies <span class="zh">更多套</span></span><span>amount of salt <span class="zh">盐的量</span></span><span>amount of DNA <span class="zh">DNA的量</span></span><span>same fruit <span class="zh">同样的水果</span></span><span>same alcohol <span class="zh">同样的酒精</span></span><span>instructions <span class="zh">指令</span></span>
+</div>
+</div>
+
+<div class="exit"><span class="lab">✂ cut here <span class="zh">沿此线剪下</span></span>
+<div class="hd"><span>Exit ticket <span class="zh">离场小测</span></span><span class="nm">Name <span class="zh">姓名</span> <i class="bl"></i></span></div>
+<p>1. In a cell, most of the DNA is in the <span class="blank"></span> . <span class="zh">在细胞里，大部分DNA在</span><span class="blank"></span><span class="zh">里。</span></p>
+<p>2. DNA <b>dissolves / does not dissolve</b> in alcohol (circle one). <span class="zh">DNA<b>溶于／不溶于</b>酒精（圈出一个）。</span></p>
+<p>3. One thing that surprised me: <span class="zh">让我惊讶的一件事：</span> <span class="blank" style="min-width:330px"></span></p>
+<p style="margin-bottom:0"><b>Today I can</b> <span class="zh">今天我能</span>: Goal 1 <span class="zh">目标1</span> <span class="box"></span> &nbsp; Goal 2 <span class="zh">目标2</span> <span class="box"></span></p>
+</div>
+<div class="foot"><span>Think Like a Scientist · DNA from fruit · worksheet · page 2 of 2</span><span>Chinese: draft, needs native-speaker check</span></div>
+</div>
+
+</body>
+</html>
