@@ -5,6 +5,7 @@ Chinese text status: draft, needs native-speaker check
 
 Printable version: `DNA_extraction_from_fruit.pdf` (page 1 bench sheet for you, page 2 two student step cards to cut in half).
 Student worksheet: `DNA_extraction_worksheet.pdf` (2 pages, double-sided, Core, Stretch and Challenge, exit ticket) with `DNA_extraction_worksheet_answers.pdf` for you. Content and answers in `DNA_extraction_worksheet.md`.
+Slides: `DNA_extraction_slides.pptx` (12 slides, bilingual, speaker notes on every slide): a six-question starter quiz recapping 9A Genetics and evolution (with answers), Today I can, hook, safety, method, a 20-minute practical slide, what they are looking at, why it works (checks worksheet Core c) and the exit ticket. Built by `source/build_dna_slides.js`.
 
 ---
 
