@@ -43,12 +43,12 @@ const cell = (children, width, o = {}) => new TableCell({ children: Array.isArra
 const IND = 560;   // answer areas are indented under the part label
 const kpara = (children, o = {}) => para(children, { ...o, keepNext: true, keepLines: true });   // cell text that keeps its table on one page
 
-function ruledLines(n) {
+function ruledLines(n, keepLast = false) {
   const out = [];
   // consecutive paragraphs with identical borders are merged into one box by Word and LibreOffice, so alternate the border
-  for (let i = 0; i < n; i++) out.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, indent: { left: IND }, keepNext: i < n - 1,   // an answer space stays on one page
+  for (let i = 0; i < n; i++) out.push(new Paragraph({ children: [run(' ')], spacing: { before: 0, after: 0, line: LINE_H, lineRule: docx.LineRuleType.EXACT }, indent: { left: IND }, keepNext: keepLast || i < n - 1,   // an answer space stays on one page
     border: { bottom: { style: BorderStyle.DOTTED, size: 6, color: i % 2 ? '777777' : '787878', space: i % 2 ? 1 : 2 } } }));
-  out.push(para(' ', { after: 0, line: 120 }));
+  out.push(para(' ', { after: 0, line: 120, keepNext: keepLast }));
   return out;
 }
 function imgRun(ref, maxWpx, maxHpx) {
@@ -126,10 +126,12 @@ function renderPart(p, out) {
   }
   if (p.label_lines) p.label_lines.forEach(L => out.push(para([run(L + '   ', { bold: true, size: BODY }), run('_______________________________', { size: BODY })], { indent: { left: IND + 200 }, after: 90, line: 360 })));
   if (p.sub) p.sub.forEach((s, i) => {
-    out.push(para([run(`(${['i', 'ii', 'iii', 'iv'][i]})  `, { bold: true, size: BODY }), run(s.text, { size: BODY })], { indent: { left: IND + 200, hanging: 360 }, after: 40, keepNext: true }));
-    if (s.inline) out.push(para([run(s.inline, { size: BODY })], { indent: { left: IND + 560 }, after: 100, line: 400, keepNext: i < p.sub.length - 1 }));
-    if (s.lines) out.push(...ruledLines(s.lines));
+    const more = i < p.sub.length - 1;   // a question's sub-parts stay together on one page
+    out.push(para([run(`(${['i', 'ii', 'iii', 'iv'][i]})  `, { bold: true, size: BODY }), run(s.text, { size: BODY })], { indent: { left: IND + 200, hanging: 360 }, after: 40, keepNext: true, keepLines: true }));
+    if (s.inline) out.push(para([run(s.inline, { size: BODY })], { indent: { left: IND + 560 }, after: 100, line: 400, keepNext: more || !!s.lines }));
+    if (s.lines) out.push(...ruledLines(s.lines, more));
   });
+  if (p.working) out.push(...ruledLines(p.working, true));   // space for working, then the answer line
   if (p.inline) out.push(para([run(p.inline, { size: BODY })], { indent: { left: IND + 200 }, after: 100, line: 400 }));
   if (p.lines) out.push(...ruledLines(p.lines));
 }

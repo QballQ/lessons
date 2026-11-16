@@ -2,7 +2,7 @@
  "id": "Y9_Test_1_Core",
  "title": "Year 9 Science Test 1",
  "level": "Core",
- "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%)",
+ "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%): measurement, density, forces, energy, speed",
  "time_minutes": 40,
  "total_marks": 40,
  "weighting_note": "Agreed with Albert, November 2026: the paper is split by time, 40% biology, 20% chemistry, 40% physics. At one mark a minute that is 16, 8 and 16 marks of the 40.",
@@ -140,6 +140,74 @@
   {
    "en": "group",
    "cn": "族"
+  },
+  {
+   "en": "measuring cylinder",
+   "cn": "量筒"
+  },
+  {
+   "en": "stopwatch",
+   "cn": "秒表"
+  },
+  {
+   "en": "volume",
+   "cn": "体积"
+  },
+  {
+   "en": "mass",
+   "cn": "质量"
+  },
+  {
+   "en": "density",
+   "cn": "密度"
+  },
+  {
+   "en": "float",
+   "cn": "漂浮"
+  },
+  {
+   "en": "sink",
+   "cn": "下沉"
+  },
+  {
+   "en": "SI unit",
+   "cn": "国际单位"
+  },
+  {
+   "en": "vector",
+   "cn": "矢量"
+  },
+  {
+   "en": "force",
+   "cn": "力"
+  },
+  {
+   "en": "air resistance",
+   "cn": "空气阻力"
+  },
+  {
+   "en": "balanced forces",
+   "cn": "平衡力"
+  },
+  {
+   "en": "energy",
+   "cn": "能量"
+  },
+  {
+   "en": "speed",
+   "cn": "速度"
+  },
+  {
+   "en": "distance",
+   "cn": "距离"
+  },
+  {
+   "en": "distance-time graph",
+   "cn": "路程-时间图像"
+  },
+  {
+   "en": "stationary",
+   "cn": "静止"
   }
  ],
  "sections": [
@@ -400,11 +468,173 @@
    "title": "Part 3: Physics",
    "subject": "physics",
    "minutes": 16,
-   "intro": "Questions from 10 onwards. The last question will be Stretch and Challenge.",
-   "pending": {
-    "marks": 16,
-    "note": "Physics questions to be added: 16 marks, about 16 minutes. Planned as 12 marks of Core questions and one 4-mark Stretch and Challenge question, matching Part 1. The topics taught in physics are needed before these can be written."
-   }
+   "intro": "Questions 10 to 15 are Core. Question 16 is Stretch and Challenge.",
+   "questions": [
+    {
+     "title": "Making measurements",
+     "parts": [
+      {
+       "label": "a",
+       "text": "Draw one line from each measurement to the instrument you would use.",
+       "marks": 2,
+       "match": {
+        "left": [
+         "the volume of a liquid",
+         "the width of a book",
+         "the time for a race"
+        ],
+        "right": [
+         "stopwatch",
+         "measuring cylinder",
+         "ruler"
+        ]
+       },
+       "answer": "volume of a liquid: measuring cylinder; width of a book: ruler; time for a race: stopwatch. All three correct = 2 marks; one correct = 1 mark."
+      },
+      {
+       "label": "b",
+       "text": "A stone is lowered into a measuring cylinder of water. The water level rises from 30 cm³ to 45 cm³. Calculate the volume of the stone.",
+       "marks": 1,
+       "image": {
+        "ref": "diagram:measuring_cylinders_test",
+        "w": 380,
+        "h": 215
+       },
+       "inline": "volume of stone = ______________ cm³",
+       "answer": "45 − 30 = 15 cm³"
+      }
+     ]
+    },
+    {
+     "title": "Density",
+     "parts": [
+      {
+       "label": "a",
+       "text": "A block of metal has a mass of 160 g and a volume of 20 cm³. Calculate its density. Use the equation: density = mass ÷ volume.",
+       "marks": 2,
+       "inline": "density = ______________ g/cm³",
+       "answer": "160 ÷ 20 (1) = 8 g/cm³ (1). Award both marks for the correct answer with no working.",
+       "working": 1
+      },
+      {
+       "label": "b",
+       "text": "Water has a density of 1.0 g/cm³. Will the block float or sink in water? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "It will float.",
+        "It will sink."
+       ],
+       "answer": "It will sink (it is denser than water). Allow a correct deduction from the student's own answer to part (a)."
+      }
+     ]
+    },
+    {
+     "title": "Units and vectors",
+     "parts": [
+      {
+       "label": "a",
+       "text": "What is the SI base unit of mass? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "gram",
+        "kilogram",
+        "newton",
+        "metre"
+       ],
+       "answer": "kilogram"
+      },
+      {
+       "label": "b",
+       "text": "Which one of these quantities is a vector? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "mass",
+        "time",
+        "force",
+        "temperature"
+       ],
+       "answer": "force"
+      }
+     ]
+    },
+    {
+     "title": "Forces and movement",
+     "parts": [
+      {
+       "label": "a",
+       "text": "A skydiver is falling at a steady speed. Name the upward force on the skydiver.",
+       "marks": 1,
+       "inline": "______________________________________",
+       "answer": "air resistance (accept drag)"
+      },
+      {
+       "label": "b",
+       "text": "The skydiver's speed is not changing. Are the forces on the skydiver balanced or unbalanced? Tick one box.",
+       "marks": 1,
+       "mcq": [
+        "balanced",
+        "unbalanced"
+       ],
+       "answer": "balanced"
+      }
+     ]
+    },
+    {
+     "title": "Energy",
+     "parts": [
+      {
+       "label": "a",
+       "text": "A lamp is supplied with 100 J of energy. It transfers 20 J as light. The rest is wasted. How much energy is wasted?",
+       "marks": 1,
+       "inline": "energy wasted = ______________ J",
+       "answer": "100 − 20 = 80 J"
+      }
+     ]
+    },
+    {
+     "title": "Speed",
+     "parts": [
+      {
+       "label": "a",
+       "text": "A cyclist travels 100 m in 20 s. Calculate her speed. Use the equation: speed = distance ÷ time.",
+       "marks": 1,
+       "inline": "speed = ______________ m/s",
+       "answer": "100 ÷ 20 = 5 m/s"
+      }
+     ]
+    },
+    {
+     "title": "The journey of a toy car",
+     "tier": "Stretch and Challenge",
+     "parts": [
+      {
+       "label": "a",
+       "text": "The distance-time graph shows the journey of a toy car. The journey has three parts: A, B and C.",
+       "marks": 4,
+       "image": {
+        "ref": "diagram:journey_graph_test",
+        "w": 580,
+        "h": 350
+       },
+       "sub": [
+        {
+         "text": "Describe the motion of the car in part B.",
+         "lines": 1
+        },
+        {
+         "text": "Calculate the speed of the car in part A. Show your working.",
+         "lines": 2
+        },
+        {
+         "text": "Without calculating, how can you tell from the graph that the car is faster in part C than in part A?",
+         "lines": 2
+        }
+       ],
+       "answer": "(i) It is stationary (not moving) (1). (ii) Speed = distance ÷ time = 20 m ÷ 4 s (1) = 5 m/s (1). (iii) The line for part C is steeper (it has a bigger gradient) (1)."
+      }
+     ]
+    }
+   ]
   }
  ]
 }

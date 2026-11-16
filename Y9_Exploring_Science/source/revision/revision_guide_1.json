@@ -1,7 +1,10 @@
 {
  "id": "Y9_Revision_Guide_1",
- "title": "Year 9 Science Revision Guide 1",
- "subtitle": "Variation and inheritance · Adaptation, extinction and natural selection · Cells and the microscope · States of matter · Atoms and the periodic table",
+ "title": "Year 9 Science Revision Guide",
+ "edition": "Term 1, 2026",
+ "logo": true,
+ "subtitle": "Biology: variation, adaptation, natural selection, cells · Chemistry: states of matter, atoms · Physics: measurement, density, vectors, forces, energy, speed",
+ "header_right": "Biology · Chemistry · Physics",
  "built": "November 2026",
  "how_to_use": [
   "Read one section at a time. Cover the Key ideas and say them out loud, or write them from memory, then check.",
@@ -9,34 +12,63 @@
   "Do the Test yourself questions in your exercise book without looking back. Mark them with the answers at the back. Questions marked Stretch and Challenge are harder: try them once the others are secure.",
   "Tick the checklist on this page only when you can answer the questions without help. Come back to anything you got wrong."
  ],
+ "parts": [
+  {
+   "name": "Biology",
+   "intro": [
+    "Sections 1 to 5: Exploring Science 9A lessons 1, 2, 6 and 7, and cells and the microscope."
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "intro": [
+    "Sections 6 and 7: states of matter, and atoms and the periodic table."
+   ]
+  },
+  {
+   "name": "Physics",
+   "intro": [
+    "Sections 8 to 13: practical skills (making measurements, density, units and vectors) and Exploring Science 9Ia, 9Ib and 9Ic.",
+    "The final exam will cover everything we have learned so far this semester. Work through each section and check that you are confident you know the material."
+   ],
+   "bullets": [
+    "Read the key words in English and check that you know what each term means.",
+    "Review all the coursebook questions and workbook questions we have practised in class and for homework. You need to answer with specific details to be awarded the marks in the exam."
+   ]
+  }
+ ],
  "checklist": [
   {
    "topic": "1  Environmental variation",
    "items": [
     "I can describe abiotic and biotic factors and give examples of environmental variation.",
     "I can tell continuous variation from discontinuous variation, and explain why environmental variation can make classification difficult."
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "topic": "2  Inherited variation",
    "items": [
     "I can give examples of inherited variation and explain how sexual reproduction causes it.",
     "I can sort inherited variation into continuous and discontinuous, and recognise a normal distribution."
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "topic": "3  Genes, adaptation and extinction",
    "items": [
     "I can explain how changes in abiotic and biotic factors can make a species endangered or extinct, using the idea of adaptations.",
     "I can describe ways of preserving biodiversity: nature reserves, breeding programmes and gene banks."
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "topic": "4  Natural selection and evolution",
    "items": [
     "I can explain how natural selection works on inherited variation when the environment changes, using the peppered moth and the Salton Sea tilapia.",
     "I can describe the theory of evolution by natural selection and explain how natural selection can produce a new species."
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "topic": "5  Cells and the microscope",
@@ -44,14 +76,16 @@
     "I can label an animal cell and a plant cell and give the job of each part.",
     "I can set up and focus a microscope, make a slide, and draw and label cells correctly.",
     "I can calculate total magnification and the actual size of a cell."
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "topic": "6  States of matter",
    "items": [
     "I can describe how the particles are arranged and how they move in solids, liquids and gases, and use this to explain their properties.",
     "I can name the changes of state and say what happens to the particles when a substance is heated or cooled."
-   ]
+   ],
+   "part": "Chemistry"
   },
   {
    "topic": "7  Atoms and the periodic table",
@@ -59,7 +93,56 @@
     "I can describe the structure of an atom and use the atomic number and mass number.",
     "I can write the electron configuration of the first 20 elements.",
     "I can explain how the periodic table is arranged in groups and periods."
-   ]
+   ],
+   "part": "Chemistry"
+  },
+  {
+   "topic": "8  Measuring length, volume and time",
+   "items": [
+    "I can choose the right instrument to measure length, volume and time, and read it correctly.",
+    "I can find a volume by calculation or by displacement, and explain the difference between accuracy and precision."
+   ],
+   "part": "Physics"
+  },
+  {
+   "topic": "9  Density",
+   "items": [
+    "I can recall and use the equation density = mass ÷ volume.",
+    "I can describe how to find the density of a liquid, a regular solid and an irregular solid, and use density to predict whether an object floats."
+   ],
+   "part": "Physics"
+  },
+  {
+   "topic": "10  Units, scalars and vectors",
+   "items": [
+    "I can name the SI base units and their symbols, and use prefixes to convert between units.",
+    "I can sort quantities into scalars and vectors, and add, subtract and multiply simple vectors."
+   ],
+   "part": "Physics"
+  },
+  {
+   "topic": "11  Forces and movement",
+   "items": [
+    "I can recall the names of different types of force and explain the effects of balanced and unbalanced forces.",
+    "I can explain why moving objects have a top speed, and what terminal velocity is."
+   ],
+   "part": "Physics"
+  },
+  {
+   "topic": "12  Energy for movement",
+   "items": [
+    "I can recall ways in which energy can be stored and transferred, and state the law of conservation of energy.",
+    "I can state the meaning of efficiency, and name renewable and non-renewable energy resources."
+   ],
+   "part": "Physics"
+  },
+  {
+   "topic": "13  Speed and motion graphs",
+   "items": [
+    "I can describe speed and mean speed, and use the formula relating speed, distance and time.",
+    "I can draw and interpret distance-time and speed-time graphs, and calculate the gradient of a line."
+   ],
+   "part": "Physics"
   }
  ],
  "sections": [
@@ -281,7 +364,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "n": 2,
@@ -476,7 +560,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "n": 3,
@@ -654,7 +739,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "n": 4,
@@ -881,7 +967,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "n": 5,
@@ -1180,7 +1267,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Biology"
   },
   {
    "n": 6,
@@ -1442,7 +1530,8 @@
       }
      ]
     }
-   ]
+   ],
+   "part": "Chemistry"
   },
   {
    "n": 7,
@@ -1746,6 +1835,1487 @@
        "q": "Chlorine has two isotopes: chlorine-35 atoms have 18 neutrons and chlorine-37 atoms have 20 neutrons. Explain why both are atoms of chlorine, and why the relative atomic mass of chlorine is 35.5 rather than 36.",
        "marks": 4,
        "a": "Both have 17 protons, and the number of protons (the atomic number) decides which element an atom is (1); they differ only in neutrons (1). The relative atomic mass is an average of all the atoms (1); there are about three chlorine-35 atoms for every chlorine-37 atom, so the average is nearer 35 than 37 (1)."
+      }
+     ]
+    }
+   ],
+   "part": "Chemistry"
+  },
+  {
+   "n": 8,
+   "title": "Measuring length, volume and time",
+   "source": "Physics practical skills: coursebook Chapter 1, Making measurements",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "**Length** is measured with a ruler, to the nearest millimetre. For small objects a **vernier caliper** is more precise: it reads to 0.1 mm. Units: metre (m), centimetre (cm), millimetre (mm). 1 m = 100 cm = 1000 mm, and 1 cm = 10 mm.",
+      "For something very thin or very small, measure many together and divide. The thickness of one sheet of paper is the thickness of 500 sheets divided by 500. The distance round a pipe is the length of string wrapped round it four times, divided by 4.",
+      "The **volume** of a liquid is measured with a **measuring cylinder** (graduated cylinder) or a pipette. Put the cylinder on a flat bench and read the scale at eye level, at the bottom of the curved surface (the **meniscus**).",
+      "Units of volume: cubic metre (m³), cubic centimetre (cm³), cubic millimetre (mm³). 1 cm³ = 1 millilitre (ml), 1 litre = 1000 cm³, and 1 m³ = 1 000 000 cm³ = 1000 litres.",
+      "The volume of a **regular-shaped** object is calculated from its measurements. For a block: volume = length × width × height.",
+      "The volume of an **irregular** object is found by **displacement**: lower it into water in a measuring cylinder. The rise in the water level is the volume of the object.",
+      "**Time** is measured with a **stopwatch** for short intervals, or a clock for longer ones. A digital clock is precise to the second; an analogue clock is less precise. Very short times, such as reaction times, need electronic timers.",
+      "Your own reaction time (about 0.2 s) spoils a short timing. Time many repeats and divide: time 20 swings of a pendulum and divide by 20 to find the time for one swing.",
+      "**Accuracy** is how close a measurement is to the true value. **Precision** is how close repeated measurements are to each other. Repeating a measurement and taking the mean gives a better result."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:measuring_volume",
+     "w": 640,
+     "h": 290,
+     "caption": "Read a measuring cylinder at eye level, at the bottom of the meniscus. The rise in level gives the volume of an object."
+    },
+    {
+     "type": "table",
+     "title": "Which instrument?",
+     "headers": [
+      "To measure",
+      "Use",
+      "Typical smallest division"
+     ],
+     "widths": [
+      3600,
+      3600,
+      3000
+     ],
+     "rows": [
+      [
+       "the length of a bench",
+       "metre rule or tape measure",
+       "1 mm"
+      ],
+      [
+       "the width of a coin",
+       "vernier caliper",
+       "0.1 mm"
+      ],
+      [
+       "the volume of a liquid",
+       "measuring cylinder",
+       "1 cm³"
+      ],
+      [
+       "the volume of a small stone",
+       "measuring cylinder and water (displacement)",
+       "1 cm³"
+      ],
+      [
+       "the time for a 100 m race",
+       "stopwatch",
+       "0.01 s"
+      ],
+      [
+       "a reaction time",
+       "electronic timer",
+       "0.001 s"
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:accuracy_precision",
+     "w": 600,
+     "h": 230,
+     "caption": "Accurate means close to the true value. Precise means the repeated readings agree with each other."
+    },
+    {
+     "type": "example",
+     "title": "Worked examples: measuring small things",
+     "lines": [
+      "Thickness of paper: 500 sheets are 50 mm thick. One sheet = 50 mm ÷ 500 = 0.1 mm.",
+      "Volume by displacement: the water level rises from 50 cm³ to 62 cm³. Volume of the object = 62 − 50 = 12 cm³.",
+      "Time for one swing: 20 swings of a pendulum take 28.0 s. One swing = 28.0 s ÷ 20 = 1.4 s."
+     ]
+    },
+    {
+     "type": "remember",
+     "text": "Area and volume units do not convert like lengths. 1 m = 100 cm, but 1 m² = 100 × 100 = 10 000 cm², and 1 m³ = 100 × 100 × 100 = 1 000 000 cm³."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Reading a measuring cylinder from above, or at the top of the meniscus. Read at eye level, at the bottom of the meniscus.",
+      "Precise means the same as accurate. A set of readings can agree with each other (precise) and still all be wrong (not accurate), for example if the balance was not set to zero.",
+      "Leaving out the unit. A measurement always needs its unit: 12 cm³, not 12."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Coursebook: the printed Chapter 1, Making measurements",
+      "Coursebook questions and workbook questions for Chapter 1",
+      "Quiz 1 and Quiz 2"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "length",
+       "cn": "长度",
+       "meaning": "how long something is; measured in metres (m)"
+      },
+      {
+       "en": "volume",
+       "cn": "体积",
+       "meaning": "the amount of space something takes up; measured in m³ or cm³"
+      },
+      {
+       "en": "vernier caliper",
+       "cn": "游标卡尺",
+       "meaning": "an instrument that measures small lengths to 0.1 mm"
+      },
+      {
+       "en": "measuring cylinder",
+       "cn": "量筒",
+       "meaning": "a tall container with a scale, used to measure the volume of a liquid"
+      },
+      {
+       "en": "meniscus",
+       "cn": "弯月面",
+       "meaning": "the curved surface of a liquid in a container"
+      },
+      {
+       "en": "displacement (of water)",
+       "cn": "排水法",
+       "meaning": "finding the volume of an object from the rise in water level when it is lowered in"
+      },
+      {
+       "en": "regular shape",
+       "cn": "规则形状",
+       "meaning": "a shape, such as a cube or block, whose volume can be calculated"
+      },
+      {
+       "en": "irregular shape",
+       "cn": "不规则形状",
+       "meaning": "a shape, such as a stone, whose volume cannot be calculated from simple measurements"
+      },
+      {
+       "en": "stopwatch",
+       "cn": "秒表",
+       "meaning": "an instrument for measuring short times"
+      },
+      {
+       "en": "accuracy",
+       "cn": "准确度",
+       "meaning": "how close a measurement is to the true value"
+      },
+      {
+       "en": "precision",
+       "cn": "精密度",
+       "meaning": "how close repeated measurements are to each other"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name the instrument you would use to measure (a) the volume of a liquid, (b) the width of a book, (c) the time for a 100 m race.",
+       "marks": 3,
+       "a": "(a) measuring cylinder (1). (b) ruler (1). (c) stopwatch (1)."
+      },
+      {
+       "q": "Convert (a) 2.5 m to cm, (b) 40 mm to cm, (c) 3 litres to cm³.",
+       "marks": 3,
+       "a": "(a) 250 cm (1). (b) 4 cm (1). (c) 3000 cm³ (1)."
+      },
+      {
+       "q": "A stone is lowered into a measuring cylinder. The water level rises from 40 cm³ to 55 cm³. What is the volume of the stone?",
+       "marks": 1,
+       "a": "55 − 40 = 15 cm³."
+      },
+      {
+       "q": "Describe how to find the thickness of one sheet of paper using only a ruler.",
+       "marks": 2,
+       "a": "Measure the thickness of a large number of sheets, for example 100 or 500 (1), then divide by the number of sheets (1)."
+      },
+      {
+       "q": "What is the difference between accuracy and precision?",
+       "marks": 2,
+       "a": "Accuracy is how close a measurement is to the true value (1). Precision is how close repeated measurements are to each other (1)."
+      },
+      {
+       "q": "Where should your eye be when you read a measuring cylinder, and which part of the liquid surface do you read?",
+       "marks": 2,
+       "a": "Level with the liquid surface (1); read the bottom of the meniscus (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "State how many cm² there are in 1 m², and explain why the answer is not 100.",
+       "marks": 3,
+       "a": "10 000 cm² (1). 1 m = 100 cm, so a square 1 m by 1 m is 100 cm by 100 cm (1), and its area is 100 × 100 = 10 000 cm² (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "A cube has sides 2.50 m long. Calculate (a) its total surface area in cm², (b) its volume in mm³.",
+       "marks": 4,
+       "a": "(a) One face is 250 cm × 250 cm = 62 500 cm² (1); six faces = 375 000 cm² (1). (b) Each side is 2500 mm (1); volume = 2500 × 2500 × 2500 = 15 625 000 000 mm³, which is 1.56 × 10¹⁰ mm³ (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Density",
+   "source": "Physics practical skills: coursebook Chapter 1, Making measurements",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "**Mass** is a measure of the quantity of matter in an object (at rest relative to the observer). It is measured in kilograms (kg) or grams (g) with a **balance**.",
+      "**Density** is the mass per unit volume: how much mass is packed into each cubic centimetre or cubic metre.",
+      "Units of density: g/cm³ or kg/m³. To change g/cm³ to kg/m³ multiply by 1000; to change kg/m³ to g/cm³ divide by 1000. Water has a density of 1.0 g/cm³, which is 1000 kg/m³.",
+      "The equation can be rearranged: mass = density × volume, and volume = mass ÷ density.",
+      "An object **floats** if it is less dense than the liquid, and **sinks** if it is denser. Ice (0.92 g/cm³) floats on water (1.0 g/cm³). Olive oil (0.92 g/cm³) floats on water too.",
+      "A steel ship floats even though steel is denser than water, because the ship is mostly air. The average density of the whole ship is less than the density of water."
+     ]
+    },
+    {
+     "type": "formula",
+     "lines": [
+      "density = mass ÷ volume",
+      "ρ = m ÷ V"
+     ],
+     "note": "ρ (the Greek letter rho) is density, m is mass and V is volume."
+    },
+    {
+     "type": "image",
+     "ref": "diagram:density_float",
+     "w": 620,
+     "h": 265,
+     "caption": "The density triangle: cover the quantity you want. An object floats if it is less dense than the liquid."
+    },
+    {
+     "type": "table",
+     "title": "Some densities",
+     "headers": [
+      "Material",
+      "Density (kg/m³)",
+      "Density (g/cm³)",
+      "In water it ..."
+     ],
+     "widths": [
+      2800,
+      2500,
+      2500,
+      2400
+     ],
+     "rows": [
+      [
+       "cork",
+       "250",
+       "0.25",
+       "floats"
+      ],
+      [
+       "ethanol",
+       "800",
+       "0.80",
+       "floats (a liquid)"
+      ],
+      [
+       "ice",
+       "920",
+       "0.92",
+       "floats"
+      ],
+      [
+       "water",
+       "1000",
+       "1.00",
+       ""
+      ],
+      [
+       "aluminium",
+       "2700",
+       "2.70",
+       "sinks"
+      ],
+      [
+       "iron",
+       "7900",
+       "7.90",
+       "sinks"
+      ],
+      [
+       "mercury",
+       "13 500",
+       "13.5",
+       "sinks (a liquid)"
+      ],
+      [
+       "gold",
+       "19 300",
+       "19.3",
+       "sinks"
+      ]
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "How to find the density of a regular solid (a block)",
+     "steps": [
+      "Measure the mass of the block with a balance.",
+      "Measure its length, width and height with a ruler and calculate the volume: length × width × height.",
+      "Calculate density = mass ÷ volume."
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "How to find the density of an irregular solid that sinks (a stone)",
+     "steps": [
+      "Measure the mass of the stone with a balance.",
+      "Half fill a measuring cylinder with water and read the volume.",
+      "Lower the stone in gently on a thread and read the new volume. The volume of the stone is the rise in level.",
+      "Calculate density = mass ÷ volume."
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "How to find the density of a liquid",
+     "steps": [
+      "Measure the mass of an empty measuring cylinder with a balance.",
+      "Pour in some liquid and read its volume.",
+      "Measure the mass again. The mass of the liquid is the second mass minus the first.",
+      "Calculate density = mass ÷ volume."
+     ]
+    },
+    {
+     "type": "example",
+     "title": "Worked examples: density calculations",
+     "lines": [
+      "A metal block has a mass of 270 g and a volume of 100 cm³. Density = 270 ÷ 100 = 2.7 g/cm³. From the table, the metal is probably aluminium.",
+      "A stone has a mass of 90 g. It makes the water level rise from 50 cm³ to 80 cm³, so its volume is 30 cm³. Density = 90 ÷ 30 = 3.0 g/cm³.",
+      "A gold bar measures 10 cm × 4 cm × 2 cm. Volume = 80 cm³. Mass = density × volume = 19.3 × 80 = 1544 g = 1.544 kg."
+     ]
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Heavy things sink and light things float. It is density that matters, not mass: a huge log floats and a tiny pebble sinks.",
+      "Density = volume ÷ mass. It is mass ÷ volume: mass on top of the triangle.",
+      "Mixing units, such as kilograms with cm³. Use grams with cm³, or kilograms with m³.",
+      "A steel ship floats because steel is light. Steel is denser than water; the ship floats because it is full of air, so its average density is low."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Coursebook: the printed Chapter 1, Making measurements",
+      "Coursebook questions and workbook questions for Chapter 1",
+      "Quiz 1 and Quiz 2"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "mass",
+       "cn": "质量",
+       "meaning": "the quantity of matter in an object; measured in kilograms (kg)"
+      },
+      {
+       "en": "density",
+       "cn": "密度",
+       "meaning": "the mass per unit volume of a substance"
+      },
+      {
+       "en": "balance",
+       "cn": "天平",
+       "meaning": "an instrument for measuring mass"
+      },
+      {
+       "en": "float",
+       "cn": "漂浮",
+       "meaning": "to stay at the surface of a liquid"
+      },
+      {
+       "en": "sink",
+       "cn": "下沉",
+       "meaning": "to fall to the bottom of a liquid"
+      },
+      {
+       "en": "average density",
+       "cn": "平均密度",
+       "meaning": "the total mass of an object divided by its total volume, including any air inside"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Write the equation for density, and give two units that density can be measured in.",
+       "marks": 2,
+       "a": "Density = mass ÷ volume (1). g/cm³ and kg/m³ (1)."
+      },
+      {
+       "q": "A metal block has a mass of 395 g and a volume of 50 cm³. Calculate its density.",
+       "marks": 2,
+       "a": "395 ÷ 50 (1) = 7.9 g/cm³ (1). (It is iron.)"
+      },
+      {
+       "q": "Describe how to find the volume of a small stone.",
+       "marks": 2,
+       "a": "Read the volume of water in a measuring cylinder, then lower the stone in and read the new volume (1). The volume of the stone is the difference between the two readings (1)."
+      },
+      {
+       "q": "Cork has a density of 0.25 g/cm³ and iron 7.9 g/cm³. Water is 1.0 g/cm³. Which one floats in water? Give a reason.",
+       "marks": 2,
+       "a": "Cork (1), because it is less dense than water (1)."
+      },
+      {
+       "q": "Convert 13 500 kg/m³ to g/cm³.",
+       "marks": 1,
+       "a": "13.5 g/cm³ (divide by 1000)."
+      },
+      {
+       "q": "80 cm³ of a liquid has a mass of 64 g. Calculate its density and use the table to name the liquid.",
+       "marks": 2,
+       "a": "64 ÷ 80 = 0.8 g/cm³ (1). Ethanol (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "An aluminium block measures 10 cm × 5 cm × 4 cm. The density of aluminium is 2.7 g/cm³. Calculate the mass of the block in kilograms.",
+       "marks": 3,
+       "a": "Volume = 10 × 5 × 4 = 200 cm³ (1). Mass = density × volume = 2.7 × 200 = 540 g (1) = 0.54 kg (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "A drawing pin is too small to measure accurately on its own. Describe how you could find the density of the metal that drawing pins are made of. Include the equipment and the calculation.",
+       "marks": 4,
+       "a": "Use a large number of pins, for example 100 (1). Measure their total mass with a balance (1). Find their total volume by displacement: lower them into water in a measuring cylinder and read the rise in level (1). Density = total mass ÷ total volume, which is the same as the density of one pin (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Units, scalars and vectors",
+   "source": "Physics maths essentials: coursebook Chapter 1 and the Vector Exercise Worksheet",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "Every measurement is a number and a **unit**. Scientists everywhere use **SI units**. Each **base unit** has a symbol: metre (m), second (s), kilogram (kg).",
+      "A **prefix** in front of a unit makes it bigger or smaller: kilo (k) means 1000 times, milli (m) means one thousandth. 1 km = 1000 m and 1 mm = 0.001 m.",
+      "To convert to a smaller unit, multiply: 2.5 km = 2.5 × 1000 = 2500 m. To convert to a bigger unit, divide: 350 mm = 350 ÷ 1000 = 0.35 m.",
+      "A **scalar** quantity has **magnitude** (size) only. Distance, speed, time, mass, energy and temperature are scalars.",
+      "A **vector** quantity has magnitude and **direction**. Force, weight, velocity and acceleration are vectors. A vector is drawn as an arrow: its length shows the size and it points in the direction.",
+      "Adding vectors in a straight line: add them if they point the same way, subtract them if they point opposite ways. A 30 N force to the right and a 12 N force to the left give a **resultant** of 18 N to the right.",
+      "Vectors on a grid: add the sideways parts and the up-and-down parts separately. Multiplying a vector by a number multiplies both parts: 2A is twice as long as A in the same direction. To subtract a vector, add it pointing the opposite way.",
+      "The size of a vector on a grid comes from Pythagoras: size = √(sideways² + up²). A vector that goes 3 squares right and 4 squares up has a size of 5 squares."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "SI base units",
+     "headers": [
+      "Physical quantity",
+      "SI base unit",
+      "Symbol"
+     ],
+     "widths": [
+      4200,
+      3400,
+      2600
+     ],
+     "rows": [
+      [
+       "length",
+       "metre",
+       "m"
+      ],
+      [
+       "time",
+       "second",
+       "s"
+      ],
+      [
+       "mass",
+       "kilogram",
+       "kg"
+      ],
+      [
+       "temperature",
+       "kelvin",
+       "K"
+      ],
+      [
+       "current",
+       "ampere",
+       "A"
+      ],
+      [
+       "amount of substance",
+       "mole",
+       "mol"
+      ],
+      [
+       "luminous intensity (not tested)",
+       "candela",
+       "cd"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Prefixes",
+     "bold_first": false,
+     "headers": [
+      "Multiple",
+      "Prefix",
+      "Symbol",
+      "Sub-multiple",
+      "Prefix",
+      "Symbol"
+     ],
+     "widths": [
+      2300,
+      1400,
+      1300,
+      2300,
+      1400,
+      1300
+     ],
+     "rows": [
+      [
+       "1000 (10³)",
+       "kilo",
+       "k",
+       "0.1 (10⁻¹)",
+       "deci",
+       "d"
+      ],
+      [
+       "1 000 000 (10⁶)",
+       "mega",
+       "M",
+       "0.01 (10⁻²)",
+       "centi",
+       "c"
+      ],
+      [
+       "10⁹",
+       "giga",
+       "G",
+       "0.001 (10⁻³)",
+       "milli",
+       "m"
+      ],
+      [
+       "10¹²",
+       "tera",
+       "T",
+       "0.000 001 (10⁻⁶)",
+       "micro",
+       "µ"
+      ],
+      [
+       "",
+       "",
+       "",
+       "10⁻⁹",
+       "nano",
+       "n"
+      ],
+      [
+       "",
+       "",
+       "",
+       "10⁻¹²",
+       "pico",
+       "p"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Scalar or vector?",
+     "headers": [
+      "Scalars: size only",
+      "Vectors: size and direction"
+     ],
+     "widths": [
+      5000,
+      5000
+     ],
+     "bold_first": false,
+     "rows": [
+      [
+       "distance",
+       "displacement"
+      ],
+      [
+       "speed",
+       "velocity"
+      ],
+      [
+       "mass",
+       "weight (a force)"
+      ],
+      [
+       "time, energy, temperature",
+       "force, acceleration"
+      ]
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:vectors_grid",
+     "w": 640,
+     "h": 300,
+     "caption": "Multiply, then add the parts, then use Pythagoras to find the size."
+    },
+    {
+     "type": "example",
+     "title": "Worked examples: prefixes and vectors",
+     "lines": [
+      "Convert 4.2 kg to grams: kilo means 1000, so 4.2 × 1000 = 4200 g.",
+      "Convert 250 ms to seconds: milli means one thousandth, so 250 ÷ 1000 = 0.25 s.",
+      "A = 1 right, 1 up and B = 1 right, 2 up. Find C = 2A + B. 2A = 2 right, 2 up. C = (2 + 1) right, (2 + 2) up = 3 right, 4 up. Size of C = √(3² + 4²) = √25 = 5 squares."
+     ]
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Mass and weight are the same. Mass is a scalar measured in kilograms; weight is a force, a vector, measured in newtons.",
+      "Speed and velocity are the same. Velocity is speed in a particular direction, so it is a vector.",
+      "m always means metre. As a prefix, m means milli (one thousandth) and M means mega (one million): 1 mm is a millimetre, 1 Mm is a megametre.",
+      "To add two vectors you just add their sizes. That only works when they point the same way; otherwise add the parts, or subtract if they are opposite."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Coursebook: the printed Chapter 1, Making measurements",
+      "The Vector Exercise Worksheet",
+      "Quiz 1 and Quiz 2"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "physical quantity",
+       "cn": "物理量",
+       "meaning": "something that can be measured, such as length, mass or time"
+      },
+      {
+       "en": "SI unit",
+       "cn": "国际单位",
+       "meaning": "a unit from the international system used by scientists, such as the metre"
+      },
+      {
+       "en": "base unit",
+       "cn": "基本单位",
+       "meaning": "one of the seven units that all other SI units are built from"
+      },
+      {
+       "en": "prefix",
+       "cn": "词头",
+       "meaning": "letters in front of a unit that make it bigger or smaller, such as kilo or milli"
+      },
+      {
+       "en": "scalar",
+       "cn": "标量",
+       "meaning": "a quantity with size only, such as mass or time"
+      },
+      {
+       "en": "vector",
+       "cn": "矢量",
+       "meaning": "a quantity with size and direction, such as force or velocity"
+      },
+      {
+       "en": "magnitude",
+       "cn": "大小",
+       "meaning": "the size of a quantity"
+      },
+      {
+       "en": "direction",
+       "cn": "方向",
+       "meaning": "the way a vector points"
+      },
+      {
+       "en": "resultant",
+       "cn": "合矢量",
+       "meaning": "the single vector that has the same effect as two or more vectors added together"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "State the SI base unit, with its symbol, for (a) length, (b) mass, (c) time.",
+       "marks": 3,
+       "a": "(a) metre, m (1). (b) kilogram, kg (1). (c) second, s (1)."
+      },
+      {
+       "q": "Write the prefix and its symbol for (a) one thousand, (b) one thousandth, (c) one million.",
+       "marks": 3,
+       "a": "(a) kilo, k (1). (b) milli, m (1). (c) mega, M (1)."
+      },
+      {
+       "q": "Convert (a) 3.2 km to m, (b) 450 g to kg, (c) 25 ms to s.",
+       "marks": 3,
+       "a": "(a) 3200 m (1). (b) 0.45 kg (1). (c) 0.025 s (1)."
+      },
+      {
+       "q": "Sort these into scalars and vectors: force, mass, speed, velocity, time, weight.",
+       "marks": 3,
+       "a": "Scalars: mass, speed, time. Vectors: force, velocity, weight. (1 mark for each correct pair.)"
+      },
+      {
+       "q": "Two forces act on a box along the same line: 30 N to the right and 12 N to the left. Find the size and direction of the resultant force.",
+       "marks": 2,
+       "a": "30 − 12 = 18 N (1), to the right (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "On a grid, vector A goes 2 squares right and 1 square up. Vector B goes 1 square right and 3 squares up. Find A + B, and calculate its size.",
+       "marks": 3,
+       "a": "A + B = 3 squares right (1) and 4 squares up (1). Size = √(3² + 4²) = 5 squares (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Using the same vectors A (2 right, 1 up) and B (1 right, 3 up), find C = 3A − 2B, and calculate the size of C.",
+       "marks": 4,
+       "a": "3A = 6 right, 3 up (1). 2B = 2 right, 6 up (1). C = (6 − 2) right and (3 − 6) up = 4 squares right, 3 squares down (1). Size = √(4² + 3²) = 5 squares (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Forces and movement",
+   "source": "Exploring Science 9Ia (Student Book pages 110 to 111)",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "A force is a push or a pull, measured in newtons (N). Forces can make an object speed up, slow down, change direction or change shape.",
+      "**Friction** is a force between two surfaces that are touching. It opposes motion: it slows things down or stops them moving. It depends on the surfaces in contact and on how hard they are pressed together. Wheels, rollers and smooth or icy surfaces reduce friction.",
+      "**Air resistance** and **water resistance** are kinds of **drag**. Drag slows down an object moving through a **fluid** (a liquid or a gas). Drag gets bigger as the speed increases, because more of the fluid has to be pushed out of the way each second.",
+      "**Weight** is the force of gravity pulling an object down. **Upthrust** pushes up on objects in liquids and gases. A floating boat is not sinking or rising, so the upthrust equals its weight.",
+      "**Balanced forces** are the same size in opposite directions. They cause no change: a still object stays still, and a moving object keeps moving at a constant speed.",
+      "**Unbalanced forces** change the motion. The **resultant force** is the difference between the forces in opposite directions. If the forwards force is bigger, the object will **accelerate** (get faster).",
+      "**Top speed**: as a vehicle gets faster, the drag increases. When the drag is as big as the largest force that can push the vehicle forwards, the forces are balanced. The vehicle cannot accelerate any more: it is at its top speed.",
+      "**Terminal velocity**: a falling object starts with no air resistance, so it accelerates. As it gets faster the air resistance increases, until it balances the weight. The object then falls at a steady, maximum speed called its terminal velocity. Velocity is speed in a particular direction."
+     ]
+    },
+    {
+     "type": "image",
+     "ref": "diagram:forces_motion",
+     "w": 640,
+     "h": 350,
+     "caption": "The forces on a boat, and on a skydiver before and at terminal velocity. Longer arrows show bigger forces."
+    },
+    {
+     "type": "table",
+     "title": "Balanced or unbalanced?",
+     "headers": [
+      "",
+      "Balanced forces",
+      "Unbalanced forces"
+     ],
+     "widths": [
+      2400,
+      3900,
+      3900
+     ],
+     "rows": [
+      [
+       "The forces are",
+       "equal in size and opposite in direction",
+       "not equal in size"
+      ],
+      [
+       "Resultant force",
+       "zero",
+       "the difference between the forces"
+      ],
+      [
+       "A still object",
+       "stays still",
+       "starts to move"
+      ],
+      [
+       "A moving object",
+       "keeps going at a constant speed in a straight line",
+       "speeds up, slows down or changes direction"
+      ],
+      [
+       "Example",
+       "a car at a steady 50 km/h; a skydiver at terminal velocity",
+       "a car pulling away; a skydiver just after jumping"
+      ]
+     ]
+    },
+    {
+     "type": "example",
+     "title": "Worked example: the resultant force",
+     "lines": [
+      "The engine of a car gives a forwards force of 500 N. Friction and air resistance add up to 300 N backwards.",
+      "Resultant force = 500 − 300 = 200 N forwards. The forces are unbalanced, so the car accelerates.",
+      "As the car speeds up, the air resistance grows. When the backwards forces reach 500 N the resultant is zero and the car stays at a constant speed."
+     ]
+    },
+    {
+     "type": "remember",
+     "text": "A constant speed means balanced forces, not 'no forces'. An object only needs an unbalanced force to change its speed or direction."
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "A car moving at a steady speed must have a bigger forwards force than backwards force. At a steady speed the forces are balanced; a bigger forwards force would make it accelerate.",
+      "At terminal velocity there are no forces on the skydiver. Weight and air resistance both still act; they are equal, so they balance.",
+      "Friction is always a nuisance. Friction lets shoes and tyres grip, and brakes work by friction.",
+      "Heavy objects have no air resistance. Everything moving through air has air resistance, and it grows with speed."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Exploring Science 9 Coursebook (9Ia)",
+      "Exploring Science 9 Workbook (9Ia)",
+      "Quiz 3 (9Ia)"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "accelerate",
+       "cn": "加速",
+       "meaning": "to change speed; usually to get faster"
+      },
+      {
+       "en": "air resistance",
+       "cn": "空气阻力",
+       "meaning": "a force that slows down things moving through air"
+      },
+      {
+       "en": "balanced forces",
+       "cn": "平衡力",
+       "meaning": "forces on an object that are the same size but in opposite directions"
+      },
+      {
+       "en": "drag",
+       "cn": "阻力",
+       "meaning": "another name for air resistance or water resistance"
+      },
+      {
+       "en": "fluid",
+       "cn": "流体",
+       "meaning": "a gas or a liquid"
+      },
+      {
+       "en": "friction",
+       "cn": "摩擦力",
+       "meaning": "a force between two touching surfaces that slows things down or stops them moving"
+      },
+      {
+       "en": "resultant force",
+       "cn": "合力",
+       "meaning": "the difference between the forces in two opposite directions"
+      },
+      {
+       "en": "terminal velocity",
+       "cn": "终端速度",
+       "meaning": "the top speed of a falling object, reached when air resistance balances its weight"
+      },
+      {
+       "en": "unbalanced forces",
+       "cn": "不平衡力",
+       "meaning": "forces in opposite directions that are not the same size; they change an object's motion"
+      },
+      {
+       "en": "upthrust",
+       "cn": "浮力",
+       "meaning": "a force that pushes things up in liquids and gases"
+      },
+      {
+       "en": "water resistance",
+       "cn": "水的阻力",
+       "meaning": "a force that slows down things moving through water"
+      },
+      {
+       "en": "weight",
+       "cn": "重力",
+       "meaning": "the force of gravity pulling something towards the Earth; measured in newtons (N)"
+      },
+      {
+       "en": "velocity",
+       "cn": "速度（有方向）",
+       "meaning": "speed in a particular direction"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name the force that (a) pulls a ball towards the ground, (b) slows down a boat moving through water, (c) holds a boat up.",
+       "marks": 3,
+       "a": "(a) weight (gravity) (1). (b) water resistance (drag) (1). (c) upthrust (1)."
+      },
+      {
+       "q": "A car travels at a steady 50 km/h on a straight road. Are the forces on it balanced or unbalanced? Explain.",
+       "marks": 2,
+       "a": "Balanced (1). Its speed and direction are not changing, so the forwards force equals the backwards forces (1)."
+      },
+      {
+       "q": "A boat has a forwards force of 500 N and a water resistance of 300 N. Calculate the resultant force and say what happens to the boat.",
+       "marks": 2,
+       "a": "500 − 300 = 200 N forwards (1). The boat accelerates (gets faster) (1)."
+      },
+      {
+       "q": "Why does drag increase when an object moves faster through a fluid?",
+       "marks": 1,
+       "a": "More of the fluid has to be pushed out of the way each second."
+      },
+      {
+       "q": "Explain why a falling skydiver reaches a terminal velocity.",
+       "marks": 3,
+       "a": "At first the weight is bigger than the air resistance, so the skydiver accelerates (1). As the speed increases, the air resistance increases (1). When the air resistance equals the weight the forces are balanced, so the speed stops increasing (1)."
+      },
+      {
+       "q": "Give two ways of reducing friction.",
+       "marks": 2,
+       "a": "Any two of: use wheels or rollers; use a lubricant such as oil; make the surfaces smoother; move over ice or snow."
+      },
+      {
+       "tier": "stretch",
+       "q": "A sailing boat with a weight of 2000 N moves at a steady speed. (a) How big is the upthrust? Explain. (b) The wind gets stronger. Explain what happens to the speed of the boat, and why it reaches a new top speed.",
+       "marks": 4,
+       "a": "(a) 2000 N (1), because the boat is not rising or sinking, so the upthrust balances the weight (1). (b) The forwards force is now bigger than the water resistance, so the boat accelerates (1). As it speeds up, the water resistance increases until it balances the new forwards force, and the boat stays at a new, higher top speed (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "A skydiver falling at terminal velocity opens a parachute. Explain what happens to the forces and to the speed of the skydiver, from the moment the parachute opens until a new steady speed is reached.",
+       "marks": 4,
+       "a": "The parachute greatly increases the air resistance (1), so the air resistance is now bigger than the weight and the resultant force is upwards (1). The skydiver slows down (1). As the speed falls, the air resistance falls, until it equals the weight again; the skydiver then falls at a new, lower terminal velocity (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Energy for movement",
+   "source": "Exploring Science 9Ib (Student Book pages 112 to 113)",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "Energy is stored in different ways. **Chemical energy** is stored in food, fuels and batteries. **Kinetic energy** is stored in anything that is moving. **Gravitational potential energy** is stored in objects in high places. **Elastic potential energy** (also called **strain energy**) is stored in stretched or squashed things that can spring back. **Thermal energy** (or **internal energy**) is stored in hot objects, in the movement of their particles. **Nuclear energy** is stored inside materials.",
+      "Energy is transferred from one store to another by forces, by **electricity**, by **heating**, by **light** and by **sound**. Electricity cannot be stored; it has to be generated.",
+      "Nearly all our energy came from the Sun. Light from the Sun is stored in plants as chemical energy, and passed on to the animals that eat them. **Fossil fuels** (coal, oil and natural gas) formed over millions of years from the remains of plants and animals.",
+      "**The law of conservation of energy**: energy is never created or destroyed. It is only transferred from one store to another.",
+      "Not all the energy is transferred usefully. Wasted energy is usually transferred to the surroundings by heating, and often by sound. It is **dissipated** (spread out).",
+      "**Efficiency** compares the useful energy transferred with the total energy transferred. The greater the efficiency, the less energy is wasted.",
+      "A **renewable resource** will never run out: solar energy, wind, moving water, biofuels. A **non-renewable resource** will run out one day because we cannot renew our supplies: coal, oil, natural gas and nuclear fuel.",
+      "A moving object stores more kinetic energy if it is faster or has more mass. A raised object stores more gravitational potential energy if it is higher or has more mass."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Energy stores",
+     "headers": [
+      "Store",
+      "Energy is stored in ...",
+      "Examples"
+     ],
+     "widths": [
+      3200,
+      3600,
+      3400
+     ],
+     "rows": [
+      [
+       "chemical energy",
+       "chemicals",
+       "food, fuel, batteries"
+      ],
+      [
+       "kinetic energy",
+       "moving things",
+       "a moving car, the wind"
+      ],
+      [
+       "gravitational potential energy",
+       "objects in high places",
+       "water behind a dam, a raised weight"
+      ],
+      [
+       "elastic potential (strain) energy",
+       "stretched or squashed things",
+       "a stretched bow, a wound-up spring"
+      ],
+      [
+       "thermal (internal) energy",
+       "hot objects",
+       "hot water, a hot engine"
+      ],
+      [
+       "nuclear energy",
+       "the inside of materials",
+       "nuclear fuel"
+      ]
+     ]
+    },
+    {
+     "type": "formula",
+     "lines": [
+      "efficiency = useful energy transferred ÷ total energy transferred"
+     ],
+     "note": "Multiply by 100 to give the efficiency as a percentage. Wasted energy = total energy − useful energy."
+    },
+    {
+     "type": "image",
+     "ref": "diagram:energy_efficiency",
+     "w": 640,
+     "h": 285,
+     "caption": "Both lamps give 6 J of light, but lamp Y wastes far less energy, so it is more efficient."
+    },
+    {
+     "type": "example",
+     "title": "Worked example: efficiency",
+     "lines": [
+      "An electric motor is supplied with 200 J of energy. It transfers 150 J usefully as kinetic energy.",
+      "Wasted energy = 200 − 150 = 50 J, dissipated to the surroundings by heating and sound.",
+      "Efficiency = 150 ÷ 200 = 0.75, which is 75%."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Energy resources",
+     "headers": [
+      "Renewable: will not run out",
+      "Non-renewable: will run out"
+     ],
+     "widths": [
+      5000,
+      5000
+     ],
+     "bold_first": false,
+     "rows": [
+      [
+       "solar energy",
+       "coal"
+      ],
+      [
+       "wind",
+       "oil"
+      ],
+      [
+       "moving water (rivers, tides, waves)",
+       "natural gas"
+      ],
+      [
+       "biofuels",
+       "nuclear fuel"
+      ]
+     ]
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "Energy gets used up. Energy is never destroyed; it is transferred to other stores, often to the surroundings by heating.",
+      "The most efficient machine is the one that transfers the most energy. Efficiency is about the share that is useful, not the total amount.",
+      "Electricity is an energy store. Electricity is a way of transferring energy; it cannot be stored.",
+      "Fossil fuels are renewable because they came from living things. They took millions of years to form, so we cannot replace them."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Exploring Science 9 Coursebook (9Ib)",
+      "Exploring Science 9 Workbook (9Ib)",
+      "Quiz 4 (9Ib)"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "chemical energy",
+       "cn": "化学能",
+       "meaning": "energy stored in chemicals; food, fuel and batteries store it"
+      },
+      {
+       "en": "kinetic energy",
+       "cn": "动能",
+       "meaning": "energy stored in moving things"
+      },
+      {
+       "en": "gravitational potential energy",
+       "cn": "重力势能",
+       "meaning": "energy stored in objects in high places that can fall"
+      },
+      {
+       "en": "elastic potential energy",
+       "cn": "弹性势能",
+       "meaning": "energy stored in stretched or squashed things that can return to their original shape; also called strain energy"
+      },
+      {
+       "en": "strain energy",
+       "cn": "应变能",
+       "meaning": "another name for elastic potential energy"
+      },
+      {
+       "en": "thermal energy",
+       "cn": "热能",
+       "meaning": "energy stored in hot objects; the hotter the object, the more it has"
+      },
+      {
+       "en": "internal energy",
+       "cn": "内能",
+       "meaning": "the energy stored in the movement of particles; sometimes called thermal energy"
+      },
+      {
+       "en": "nuclear energy",
+       "cn": "核能",
+       "meaning": "energy stored inside materials"
+      },
+      {
+       "en": "solar energy",
+       "cn": "太阳能",
+       "meaning": "energy from the Sun"
+      },
+      {
+       "en": "electricity",
+       "cn": "电",
+       "meaning": "a way of transferring energy through wires"
+      },
+      {
+       "en": "heating",
+       "cn": "热传递",
+       "meaning": "a way of transferring energy from hot substances to cooler ones"
+      },
+      {
+       "en": "light",
+       "cn": "光",
+       "meaning": "a way of transferring energy by waves; it can travel through empty space"
+      },
+      {
+       "en": "sound waves",
+       "cn": "声波",
+       "meaning": "a way of transferring energy by vibrations of the particles in a solid, liquid or gas"
+      },
+      {
+       "en": "law of conservation of energy",
+       "cn": "能量守恒定律",
+       "meaning": "energy can never be created or destroyed, only transferred from one store to another"
+      },
+      {
+       "en": "efficiency",
+       "cn": "效率",
+       "meaning": "a way of saying how much of the energy a device transfers is useful"
+      },
+      {
+       "en": "dissipate",
+       "cn": "耗散",
+       "meaning": "to spread out"
+      },
+      {
+       "en": "deform",
+       "cn": "形变",
+       "meaning": "to change shape"
+      },
+      {
+       "en": "fossil fuel",
+       "cn": "化石燃料",
+       "meaning": "a fuel formed from the remains of organisms over millions of years, such as coal, oil or natural gas"
+      },
+      {
+       "en": "renewable resource",
+       "cn": "可再生资源",
+       "meaning": "an energy resource that will never run out, such as solar power"
+      },
+      {
+       "en": "non-renewable resource",
+       "cn": "不可再生资源",
+       "meaning": "an energy resource that will run out because we cannot renew our supplies, such as oil"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Name the energy store in (a) a stretched bow, (b) a moving car, (c) a battery, (d) water behind a dam.",
+       "marks": 4,
+       "a": "(a) elastic potential (strain) energy (1). (b) kinetic energy (1). (c) chemical energy (1). (d) gravitational potential energy (1)."
+      },
+      {
+       "q": "State the law of conservation of energy.",
+       "marks": 1,
+       "a": "Energy is never created or destroyed; it is only transferred from one store to another."
+      },
+      {
+       "q": "Give two renewable and two non-renewable energy resources.",
+       "marks": 2,
+       "a": "Renewable, any two of: solar, wind, moving water (hydroelectric, tidal, wave), biofuel (1). Non-renewable, any two of: coal, oil, natural gas, nuclear fuel (1)."
+      },
+      {
+       "q": "A motor is supplied with 400 J and transfers 300 J usefully. Calculate (a) the energy wasted, (b) the efficiency.",
+       "marks": 3,
+       "a": "(a) 400 − 300 = 100 J (1). (b) 300 ÷ 400 (1) = 0.75 or 75% (1)."
+      },
+      {
+       "q": "How is wasted energy usually transferred, and where does it go?",
+       "marks": 2,
+       "a": "By heating, and often by sound (1), to the surroundings, where it is dissipated (spread out) (1)."
+      },
+      {
+       "q": "Complete the definition: elastic potential energy is energy stored in ________ or ________ things that can change back to their original shapes. Another name for it is ________ energy.",
+       "marks": 2,
+       "a": "stretched, squashed (1); strain (1)."
+      },
+      {
+       "tier": "stretch",
+       "q": "Motor P is supplied with 400 J and transfers 100 J usefully. Motor Q is supplied with 150 J and transfers 90 J usefully. Which motor is more efficient? Show your working and explain why the motor that transfers less useful energy can still be the more efficient one.",
+       "marks": 3,
+       "a": "P: 100 ÷ 400 = 25% (1). Q: 90 ÷ 150 = 60%, so Q is more efficient (1). Efficiency compares the useful energy with the total supplied; Q wastes a much smaller share of its energy (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "A man pushes his daughter on a swing and then stops pushing. The swing gets lower and lower until it stops. Use the law of conservation of energy to explain where the energy has gone.",
+       "marks": 4,
+       "a": "As she swings, energy is transferred back and forth between gravitational potential energy (at the top) and kinetic energy (at the bottom) (1). Friction and air resistance act on the swing (1), transferring some energy to the surroundings by heating on every swing (1). The energy is not destroyed: it is dissipated, so less and less stays in the swing's stores until it stops (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Speed, distance-time graphs and speed-time graphs",
+   "source": "Exploring Science 9Ic (Student Book pages 116 to 119)",
+   "part": "Physics",
+   "blocks": [
+    {
+     "type": "ideas",
+     "points": [
+      "**Speed** is how far something travels in a certain time. To work out a speed you measure a distance and a time.",
+      "The units of speed depend on the units of distance and time: **metres per second** (m/s), **kilometres per hour** (km/h) or miles per hour (mph).",
+      "To convert km/h to m/s, multiply by 1000 and divide by 3600. To convert m/s to km/h, divide by 1000 and multiply by 3600.",
+      "Most journeys are not at a constant speed. The **mean speed** (average speed) is the total distance travelled divided by the total time taken.",
+      "The formula can be rearranged: distance = speed × time, and time = distance ÷ speed.",
+      "**Relative speed** is the speed of one object compared with another. Two trains moving towards each other at 100 km/h each have a relative speed of 200 km/h. A car at 50 km/h overtaking one at 30 km/h has a relative speed of 20 km/h.",
+      "A **distance-time graph** shows a journey. A steep line means moving quickly, a shallow line means moving slowly, and a horizontal line means not moving (**stationary**). It is sometimes called a displacement-time graph: **displacement** is the distance in a straight line from the starting point.",
+      "The **gradient** of a line says how steep it is: gradient = vertical change ÷ horizontal change. On a distance-time graph the gradient is the speed.",
+      "A **speed-time graph** shows how fast something is moving at each moment. A horizontal line means a constant speed. A line sloping up means accelerating (speeding up); a line sloping down means decelerating (slowing down)."
+     ]
+    },
+    {
+     "type": "formula",
+     "lines": [
+      "speed = distance ÷ time",
+      "mean speed = total distance ÷ total time"
+     ],
+     "note": "With distance in metres and time in seconds, the speed is in m/s."
+    },
+    {
+     "type": "image",
+     "ref": "diagram:distance_time_graph",
+     "w": 640,
+     "h": 320,
+     "caption": "On a distance-time graph, the steeper the line, the faster the object. The gradient gives the speed."
+    },
+    {
+     "type": "image",
+     "ref": "diagram:speed_time_graph",
+     "w": 640,
+     "h": 310,
+     "caption": "On a speed-time graph, a horizontal line means a constant speed, not a stationary object."
+    },
+    {
+     "type": "table",
+     "title": "Reading the two kinds of graph",
+     "headers": [
+      "The line is ...",
+      "On a distance-time graph",
+      "On a speed-time graph"
+     ],
+     "widths": [
+      2600,
+      3800,
+      3800
+     ],
+     "rows": [
+      [
+       "horizontal",
+       "stationary (not moving)",
+       "moving at a constant speed"
+      ],
+      [
+       "sloping up, straight",
+       "moving at a constant speed",
+       "accelerating (speeding up)"
+      ],
+      [
+       "sloping down, straight",
+       "moving back towards the start",
+       "decelerating (slowing down)"
+      ],
+      [
+       "steeper",
+       "moving faster",
+       "changing speed more quickly"
+      ]
+     ]
+    },
+    {
+     "type": "example",
+     "title": "Worked examples: speed calculations",
+     "lines": [
+      "A car travels 200 km in 4 hours. Mean speed = 200 ÷ 4 = 50 km/h.",
+      "Convert 50 km/h to m/s: 50 × 1000 ÷ 3600 = 13.9 m/s.",
+      "Samina cycles at 16 km/h for half an hour. Distance = speed × time = 16 × 0.5 = 8 km.",
+      "On the distance-time graph above, line C rises 40 m in 5 s. Gradient = 40 ÷ 5 = 8 m/s, so the speed is 8 m/s."
+     ]
+    },
+    {
+     "type": "mistakes",
+     "points": [
+      "A horizontal line on a distance-time graph means a steady speed. It means the distance is not changing: the object is stationary.",
+      "A horizontal line on a speed-time graph means the object has stopped. It means the speed is not changing: a constant speed.",
+      "The mean speed is the fastest speed of the journey. It is the total distance divided by the total time; the fastest speed during the journey is usually higher.",
+      "Forgetting to match the units. If the distance is in kilometres and the time is in hours, the speed is in km/h, not m/s."
+     ]
+    },
+    {
+     "type": "revise_from",
+     "items": [
+      "Exploring Science 9 Coursebook (9Ic)",
+      "Exploring Science 9 Workbook (9Ic)",
+      "Exploring Science 9 Quick Check (9Ic)",
+      "Quiz 5 (9Ic)"
+     ]
+    },
+    {
+     "type": "keywords",
+     "words": [
+      {
+       "en": "speed",
+       "cn": "速度（速率）",
+       "meaning": "how fast something is moving; often measured in m/s or km/h"
+      },
+      {
+       "en": "mean speed",
+       "cn": "平均速度",
+       "meaning": "the total distance travelled divided by the total time taken"
+      },
+      {
+       "en": "metres per second (m/s)",
+       "cn": "米每秒",
+       "meaning": "the unit for speed when distance is in metres and time in seconds"
+      },
+      {
+       "en": "kilometres per hour (km/h)",
+       "cn": "千米每小时",
+       "meaning": "the unit for speed when distance is in kilometres and time in hours"
+      },
+      {
+       "en": "relative speed",
+       "cn": "相对速度",
+       "meaning": "the speed of one object compared with another; both could be moving"
+      },
+      {
+       "en": "distance-time graph",
+       "cn": "路程-时间图像",
+       "meaning": "a graph that shows how far something has travelled at each time during a journey"
+      },
+      {
+       "en": "speed-time graph",
+       "cn": "速度-时间图像",
+       "meaning": "a graph that shows how fast something is moving at each time during a journey"
+      },
+      {
+       "en": "displacement",
+       "cn": "位移",
+       "meaning": "the distance in a straight line between an object and its starting point"
+      },
+      {
+       "en": "gradient",
+       "cn": "斜率",
+       "meaning": "how steep a line on a graph is: the vertical change divided by the horizontal change"
+      },
+      {
+       "en": "stationary",
+       "cn": "静止",
+       "meaning": "not moving"
+      },
+      {
+       "en": "constant speed",
+       "cn": "匀速",
+       "meaning": "a speed that is not changing"
+      },
+      {
+       "en": "decelerate",
+       "cn": "减速",
+       "meaning": "to slow down"
+      }
+     ]
+    },
+    {
+     "type": "test",
+     "questions": [
+      {
+       "q": "Write the formula that links speed, distance and time.",
+       "marks": 1,
+       "a": "speed = distance ÷ time."
+      },
+      {
+       "q": "A cyclist travels 45 km in 3 hours. Calculate her mean speed.",
+       "marks": 2,
+       "a": "45 ÷ 3 (1) = 15 km/h (1)."
+      },
+      {
+       "q": "A car travels at 20 m/s for 30 s. How far does it go?",
+       "marks": 2,
+       "a": "distance = speed × time = 20 × 30 (1) = 600 m (1)."
+      },
+      {
+       "q": "Convert 72 km/h to m/s.",
+       "marks": 2,
+       "a": "72 × 1000 ÷ 3600 (1) = 20 m/s (1)."
+      },
+      {
+       "q": "What does a horizontal line show on (a) a distance-time graph, (b) a speed-time graph?",
+       "marks": 2,
+       "a": "(a) The object is stationary (1). (b) The object is moving at a constant speed (1)."
+      },
+      {
+       "q": "Two trains travel towards each other, one at 80 km/h and the other at 100 km/h. What is their relative speed?",
+       "marks": 1,
+       "a": "80 + 100 = 180 km/h."
+      },
+      {
+       "tier": "stretch",
+       "q": "A straight line on a distance-time graph goes from the point (2 s, 10 m) to the point (6 s, 50 m). Calculate the gradient of the line and say what it tells you.",
+       "marks": 3,
+       "a": "Vertical change = 50 − 10 = 40 m; horizontal change = 6 − 2 = 4 s (1). Gradient = 40 ÷ 4 = 10 (1). The speed is 10 m/s (1)."
+      },
+      {
+       "tier": "challenge",
+       "q": "Samina cycles at 16 km/h for half an hour, then at 8 km/h for the next half hour. She covers the last 6 km at 24 km/h. Calculate her total distance, her total time and her mean speed for the whole ride.",
+       "marks": 4,
+       "a": "Distances: 16 × 0.5 = 8 km and 8 × 0.5 = 4 km, plus 6 km, total 18 km (1). Time for the last part = 6 ÷ 24 = 0.25 hours (1). Total time = 0.5 + 0.5 + 0.25 = 1.25 hours (1). Mean speed = 18 ÷ 1.25 = 14.4 km/h (1)."
       }
      ]
     }

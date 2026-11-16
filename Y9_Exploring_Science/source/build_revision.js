@@ -1,7 +1,8 @@
 /* Build a student revision guide (.docx, greyscale A4 portrait) from a revision content JSON.
    Usage: node build_revision.js revision/revision_guide_1.json out.docx [--cn]
-   The guide: cover (how to use it, the "I can" checklist), then one section per topic with Key ideas, diagrams,
-   tables, Remember and Common mistakes boxes, worked examples, step lists, Key words and Test yourself questions,
+   The guide: cover (school logo, how to use it, the "I can" checklist), then the parts (Biology, Chemistry, Physics),
+   each starting on a new page, with one section per topic: Key ideas, diagrams, tables, formula boxes, Remember and
+   Common mistakes boxes, worked examples, step lists, Revise from lists, Key words and Test yourself questions,
    and the answers at the back. --cn adds the 中文 column to every Key words table; everything else is identical.
 */
 const fs = require('fs');
@@ -115,6 +116,22 @@ function renderBlock(b, out, cn, sec, answers) {
       out.push(para(' ', { after: 60 }));
       break;
     }
+    case 'formula': {
+      // one or more equations, centred in a bordered box
+      const ps = b.lines.map((l, i) => para(markup(l, { size: 24, bold: true }), { after: i < b.lines.length - 1 ? 40 : 0, align: AlignmentType.CENTER, keepNext: i < b.lines.length - 1 }));
+      if (b.note) ps.push(para(markup(b.note, { size: SMALL }), { before: 50, after: 0, align: AlignmentType.CENTER }));
+      out.push(box(ps, { borders: boxBorders }));
+      out.push(para(' ', { after: 60 }));
+      break;
+    }
+    case 'revise_from': {
+      // where to revise from: the coursebook pages, workbook pages and quizzes for this section
+      const ps = [para([run(b.title || 'Revise from', { bold: true, size: BODY })], { after: 30, keepNext: true })];
+      b.items.forEach(t => ps.push(para([run('•  ', { size: SMALL }), ...markup(t, { size: SMALL })], { after: 20, indent: { left: 300, hanging: 200 } })));
+      out.push(box(ps, { shade: LIGHT }));
+      out.push(para(' ', { after: 60 }));
+      break;
+    }
     case 'steps':
       out.push(para([run(b.title, { bold: true, size: 22 })], { before: 120, after: 50, keepNext: true }));
       b.steps.forEach((st, i) => out.push(numbered(i + 1, markup(st, { size: BODY }), { keepNext: i < 1 })));
@@ -153,11 +170,18 @@ function renderBlock(b, out, cn, sec, answers) {
   }
 }
 
+// "Part 3: Physics" from the list of parts in the guide file
+const partTitle = (guide, name) => { const i = (guide.parts || []).findIndex(x => x.name === name); return i >= 0 ? `Part ${i + 1}: ${name}` : name; };
 function build(guide, outFile, cn) {
   const children = [];
   // cover
-  children.push(para([run(guide.title, { bold: true, size: 44 })], { after: 40 }));
-  children.push(para([run(guide.subtitle, { size: 24, color: MID })], { after: 160 }));
+  const logoFile = path.join(HERE, '..', '..', 'design', 'assets', 'school_logo_horizontal_navy.png');
+  if (guide.logo && fs.existsSync(logoFile)) {
+    const buf = fs.readFileSync(logoFile); const lw = buf.readUInt32BE(16), lh = buf.readUInt32BE(20); const w = 190;
+    children.push(new Paragraph({ children: [new ImageRun({ type: 'png', data: buf, transformation: { width: w, height: Math.round(w * lh / lw) }, altText: { title: 'School logo', description: 'School logo', name: 'logo' } })], spacing: { after: 120 } }));
+  }
+  children.push(para([run(guide.title, { bold: true, size: 44 }), ...(guide.edition ? [run(`   ${guide.edition}`, { size: 28, color: MID })] : [])], { after: 40 }));
+  children.push(para([run(guide.subtitle, { size: 22, color: MID })], { after: 160 }));
   children.push(para([run('Name  ____________________________________        Class  ______________', { size: BODY })], { after: 200 }));
   const how = [para([run('How to use this guide', { bold: true, size: 24 })], { after: 60 })];
   guide.how_to_use.forEach(t => how.push(bullet(markup(t, { size: BODY }))));
@@ -166,7 +190,13 @@ function build(guide, outFile, cn) {
   children.push(para([run('Revision checklist: tick each line when you can do it without help', { bold: true, size: 24 })], { after: 60, keepNext: true }));
   const cw = [Math.floor(CW * 0.26), Math.floor(CW * 0.66), 0]; cw[2] = CW - cw[0] - cw[1];
   const rows = [new TableRow({ tableHeader: true, cantSplit: true, children: [cell(para([run('Topic', { bold: true, size: TBL })], { after: 0 }), cw[0], { shade: GREY }), cell(para([run('I can ...', { bold: true, size: TBL })], { after: 0 }), cw[1], { shade: GREY }), cell(para([run('Done', { bold: true, size: TBL })], { after: 0, align: AlignmentType.CENTER }), cw[2], { shade: GREY })] })];
+  let lastPart = null;
   guide.checklist.forEach((c, k) => {
+    if (c.part && c.part !== lastPart) {
+      lastPart = c.part;
+      rows.push(new TableRow({ cantSplit: true, children: [new TableCell({ children: [para([run(c.part, { bold: true, size: TBL })], { after: 0, keepNext: true })], columnSpan: 3, width: { size: CW, type: WidthType.DXA },
+        shading: { type: ShadingType.CLEAR, fill: 'D0D0D0', color: 'auto' }, margins: { top: 40, bottom: 40, left: 110, right: 110 } })] }));
+    }
     const items = c.items.map(t => para([run(t, { size: TBL })], { after: 20 }));
     const ticks = c.items.map(() => para([run('☐', { size: 26 })], { after: 20, align: AlignmentType.CENTER }));
     rows.push(new TableRow({ cantSplit: true, children: [cell(para([run(c.topic, { bold: true, size: TBL })], { after: 0 }), cw[0], { shade: k % 2 ? LIGHT : undefined }), cell(items, cw[1], { shade: k % 2 ? LIGHT : undefined }), cell(ticks, cw[2], { shade: k % 2 ? LIGHT : undefined })] }));
@@ -174,14 +204,30 @@ function build(guide, outFile, cn) {
   children.push(new Table({ rows, width: { size: CW, type: WidthType.DXA }, columnWidths: cw, borders: gridBorders, layout: docx.TableLayoutType.FIXED }));
   children.push(para(' ', { after: 60 }));
   children.push(para([run('Contents', { bold: true, size: 24 })], { before: 100, after: 40 }));
-  guide.sections.forEach(s => children.push(para([run(`${s.n}  ${s.title}`, { size: BODY }), run(`   ${s.source}`, { size: SMALL, color: MID, italics: true })], { after: 20, indent: { left: 200 } })));
+  let contentsPart = null;
+  guide.sections.forEach(s => {
+    if (s.part && s.part !== contentsPart) { contentsPart = s.part; children.push(para([run(partTitle(guide, s.part), { bold: true, size: SMALL })], { before: 60, after: 20, indent: { left: 200 }, keepNext: true })); }
+    children.push(para([run(`${s.n}  ${s.title}`, { size: BODY }), run(`   ${s.source}`, { size: SMALL, color: MID, italics: true })], { after: 20, indent: { left: s.part ? 420 : 200 } }));
+  });
   children.push(para([run('Answers', { size: BODY })], { after: 20, indent: { left: 200 } }));
   // sections
   const answers = [];
+  let curPart = null;
   for (const sec of guide.sections) {
+    // a new part (Biology, Chemistry, Physics) starts on a new page with its own heading and a short note
+    const newPart = sec.part && sec.part !== curPart;
+    if (newPart) {
+      curPart = sec.part;
+      const meta = (guide.parts || []).find(x => x.name === sec.part) || {};
+      children.push(new Paragraph({ children: [run(partTitle(guide, sec.part), { bold: true, size: 44 })], pageBreakBefore: true, spacing: { after: 60 }, keepNext: true,
+        border: { top: { style: BorderStyle.SINGLE, size: 18, color: DARK, space: 6 }, bottom: { style: BorderStyle.SINGLE, size: 18, color: DARK, space: 6 } } }));
+      (meta.intro || []).forEach(t => children.push(para(markup(t, { size: BODY }), { after: 60 })));
+      (meta.bullets || []).forEach(t => children.push(bullet(markup(t, { size: BODY }))));
+      children.push(para(' ', { after: 40, keepNext: true }));
+    }
     // sections flow on from each other (no forced page break, which left near-empty pages); the heading stays with its first block
-    children.push(new Paragraph({ children: [run(`${sec.n}  ${sec.title}`, { bold: true, size: 34 })], spacing: { before: sec.n === 1 ? 0 : 360, after: 20 }, keepNext: true,
-      pageBreakBefore: sec.n === 1, border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: DARK, space: 4 } } }));
+    children.push(new Paragraph({ children: [run(`${sec.n}  ${sec.title}`, { bold: true, size: 34 })], spacing: { before: newPart || sec.n === 1 ? 0 : 360, after: 20 }, keepNext: true,
+      pageBreakBefore: !sec.part && sec.n === 1, border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: DARK, space: 4 } } }));
     children.push(para([run(sec.source, { size: SMALL, italics: true, color: MID })], { after: 120, keepNext: true }));
     for (const b of sec.blocks) renderBlock(b, children, cn, sec, answers);
   }
@@ -189,11 +235,14 @@ function build(guide, outFile, cn) {
   children.push(new Paragraph({ children: [run('Answers', { bold: true, size: 34 })], pageBreakBefore: true, spacing: { after: 20 }, keepNext: true,
     border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: DARK, space: 4 } } }));
   children.push(para([run('Give yourself the marks in brackets. Where a question says "explain", you need the reason as well as the fact.', { size: SMALL, italics: true, color: MID })], { after: 120 }));
+  let ansPart = null;
   for (const a of answers) {
+    const sp = (guide.sections.find(x => x.n === a.n) || {}).part;
+    if (sp && sp !== ansPart) { ansPart = sp; children.push(para([run(partTitle(guide, sp), { bold: true, size: 28 })], { before: 200, after: 40, keepNext: true, border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: '999999', space: 2 } } })); }
     children.push(para([run(`${a.n}  ${a.title}`, { bold: true, size: 24 })], { before: 120, after: 50, keepNext: true }));
     a.items.forEach((t, i) => children.push(numbered(i + 1, (a.tiers[i] ? [run(a.tiers[i] === 'challenge' ? 'CHALLENGE  ' : 'STRETCH  ', { bold: true, size: 14, color: MID, spacing: 20 })] : []).concat(markup(t, { size: SMALL })))));
   }
-  const header = new Header({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CW }], children: [run(guide.title, { size: 16, color: MID }), run(`\t${guide.subtitle.split('·')[0].trim()} and more${cn ? '  ·  中文关键词' : ''}`, { size: 16, color: MID })], spacing: { after: 0 }, border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: '999999', space: 2 } } })] });
+  const header = new Header({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CW }], children: [run(guide.title + (guide.edition ? ` · ${guide.edition}` : ''), { size: 16, color: MID }), run(`\t${guide.header_right || guide.subtitle.split('·')[0].trim() + ' and more'}${cn ? '  ·  中文关键词' : ''}`, { size: 16, color: MID })], spacing: { after: 0 }, border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: '999999', space: 2 } } })] });
   const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [run('Page ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 16, color: MID }), run(' of ', { size: 16, color: MID }), new TextRun({ children: [PageNumber.TOTAL_PAGES], font: FONT, size: 16, color: MID })], spacing: { after: 0 } })] });
   const doc = new Document({
     creator: 'Year 9 Science', title: guide.title + (cn ? ' (CN)' : ''),

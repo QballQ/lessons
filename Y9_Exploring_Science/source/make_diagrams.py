@@ -962,6 +962,215 @@ def states_blank():
         draw(s, x, Y, W, H)
     s.save('states_blank')
 
+# ---------- physics (revision guide part 3 and test): measurement, density, vectors, forces, energy, motion graphs ----------
+WATER = '#DCE8F5'
+def _cylinder(s, x, ytop, w, h, level, maxv=100, step=10, numbers=20, stone=False, label=None):
+    """A measuring cylinder with a scale; level in cm3. Returns the y of the water level."""
+    ybot = ytop + h; per = (h - 40) / maxv
+    ylev = ybot - level * per
+    s.rect(x, ylev, w, ybot - ylev, WATER, WATER, 0, 0)
+    s.path(f'M {x} {ylev} Q {x + w / 2} {ylev + 16} {x + w} {ylev} L {x + w} {ylev - 10} L {x} {ylev - 10} Z', '#FFFFFF', '#FFFFFF', 0)   # meniscus dip
+    s.path(f'M {x} {ylev - 2} Q {x + w / 2} {ylev + 14} {x + w} {ylev - 2}', 'none', INK, 2)
+    if stone: s.path(f'M {x + w * 0.25} {ybot - 6} q {w * 0.05} -{h * 0.11} {w * 0.28} -{h * 0.1} q {w * 0.24} {h * 0.02} {w * 0.22} {h * 0.1} Z', MUTED, INK, 2)
+    s.line(x, ytop, x, ybot, INK, 4); s.line(x + w, ytop, x + w, ybot, INK, 4); s.line(x - 26, ybot, x + w + 26, ybot, INK, 6)
+    for v in range(0, maxv + 1, step):
+        y = ybot - v * per; major = v % numbers == 0
+        s.line(x + w, y, x + w - (26 if major else 14), y, INK, 2)
+        if major and v > 0: s.text(x + w + 12, y + 8, str(v), 17, 'start', fill=MUTED)
+    if label: s.text(x + w / 2, ybot + 46, label, 22, weight='bold')
+    return ylev
+
+def measuring_volume():
+    s = SVG(1900, 820)
+    s.text(950, 50, 'Measuring volume', 34, weight='bold', fill=NAVY)
+    s.text(380, 110, 'Reading a measuring cylinder', 26, weight='bold')
+    y = _cylinder(s, 250, 160, 150, 540, 60)
+    s.line(410, y + 6, 700, y + 6, PLUM, 2, '10 8')
+    s.ellipse(740, y + 6, 34, 20, '#FFFFFF', INK, 3); s.circle(733, y + 6, 9, INK, INK, 1)
+    s.lines(560, y - 70, ['eye level with the', 'bottom of the meniscus'], 21, 'middle', 27, fill=PLUM)
+    s.text(560, y + 50, 'reading = 60 cm³', 23, weight='bold')
+    s.text(1340, 110, 'Volume of an irregular solid by displacement', 26, weight='bold')
+    y1 = _cylinder(s, 1010, 160, 150, 540, 50, label='before')
+    y2 = _cylinder(s, 1480, 160, 150, 540, 62, stone=True, label='after')
+    s.text(940, y1 + 8, '50 cm³', 23, 'end', weight='bold'); s.text(1410, y2 + 8, '62 cm³', 23, 'end', weight='bold')
+    s.arrow(1235, 590, 1345, 590, PLUM, 5); s.lines(1290, 630, ['lower the', 'object in'], 20, 'middle', 25, fill=PLUM)
+    s.text(1340, 790, 'volume of object = 62 − 50 = 12 cm³   (1 cm³ = 1 ml)', 24, italic=True, fill=NAVY)
+    s.save('measuring_volume')
+
+def measuring_cylinders_test():
+    """Two measuring cylinders for a displacement question (no answer shown)."""
+    s = SVG(1300, 720)
+    y1 = _cylinder(s, 250, 60, 150, 540, 30, label='before')
+    y2 = _cylinder(s, 800, 60, 150, 540, 45, stone=True, label='after')
+    s.text(180, y1 + 8, '30 cm³', 24, 'end', weight='bold'); s.text(730, y2 + 8, '45 cm³', 24, 'end', weight='bold')
+    s.arrow(500, 330, 640, 330, PLUM, 5); s.text(570, 300, 'stone added', 20, fill=PLUM)
+    s.save('measuring_cylinders_test')
+
+def accuracy_precision():
+    s = SVG(1700, 640)
+    s.text(850, 50, 'Accurate or precise?', 34, weight='bold', fill=NAVY)
+    sets = [('precise but not accurate', [(62, -58), (74, -44), (58, -38), (70, -66), (80, -54)]),
+            ('accurate but not precise', [(-70, -40), (60, 52), (-30, 78), (48, -66), (-8, -24)]),
+            ('accurate and precise', [(-8, -6), (10, 4), (2, 14), (-12, 8), (8, -12)])]
+    for k, (cap, pts) in enumerate(sets):
+        cx, cy = 300 + k * 550, 300
+        for r, f in [(180, '#FFFFFF'), (120, PAGE), (60, '#FFFFFF')]: s.circle(cx, cy, r, f, INK, 3)
+        s.circle(cx, cy, 8, HI, INK, 2)
+        for dx, dy in pts:
+            s.line(cx + dx - 11, cy + dy - 11, cx + dx + 11, cy + dy + 11, PLUM, 5); s.line(cx + dx - 11, cy + dy + 11, cx + dx + 11, cy + dy - 11, PLUM, 5)
+        s.text(cx, 530, cap, 24, weight='bold')
+    s.text(850, 600, 'Accurate: close to the true value (the centre).   Precise: repeated readings are close to each other.', 22, italic=True, fill=NAVY)
+    s.save('accuracy_precision')
+
+def density_float():
+    s = SVG(1800, 760)
+    s.text(900, 50, 'Density: floating and sinking', 34, weight='bold', fill=NAVY)
+    cx, cy = 360, 330
+    s.poly([(cx, cy - 190), (cx - 250, cy + 130), (cx + 250, cy + 130)], '#FFFFFF', INK, 4, True)
+    s.line(cx - 150, cy, cx + 150, cy, INK, 3); s.line(cx, cy, cx, cy + 130, INK, 3)
+    s.text(cx, cy - 50, 'mass', 24, weight='bold'); s.text(cx - 85, cy + 86, 'density', 22, weight='bold'); s.text(cx + 85, cy + 86, 'volume', 22, weight='bold')
+    s.lines(cx, cy + 200, ['density = mass ÷ volume', 'units: g/cm³ or kg/m³', '1 g/cm³ = 1000 kg/m³'], 23, 'middle', 36)
+    # beaker
+    bx, by, bw, bh = 880, 150, 760, 470
+    s.rect(bx, by + 90, bw, bh - 90, WATER, WATER, 0, 0)
+    s.path(f'M {bx} {by} L {bx} {by + bh} L {bx + bw} {by + bh} L {bx + bw} {by}', 'none', INK, 5)
+    s.line(bx, by + 90, bx + bw, by + 90, INK, 2)
+    s.text(bx + bw - 20, by + 130, 'water: 1.0 g/cm³', 22, 'end', fill=MUTED)
+    s.rect(bx + 70, by + 50, 150, 70, '#E9D8B8', INK, 3, 6); s.lines(bx + 145, by + 16, ['cork: 0.25 g/cm³', ], 20)
+    s.rect(bx + 320, by + 78, 150, 80, '#FFFFFF', INK, 3, 6); s.text(bx + 395, by + 38, 'ice: 0.92 g/cm³', 20)
+    s.rect(bx + 540, by + bh - 86, 150, 80, MUTED, INK, 3, 6); s.text(bx + 615, by + bh - 106, 'iron: 7.9 g/cm³', 20)
+    s.text(bx + 145, by + 190, 'floats high', 20, italic=True); s.text(bx + 395, by + 200, 'floats low', 20, italic=True); s.text(bx + 615, by + bh - 140, 'sinks', 20, italic=True)
+    s.text(bx + bw / 2, 700, 'Less dense than the liquid: it floats.   Denser than the liquid: it sinks.', 24, italic=True, fill=NAVY)
+    s.save('density_float')
+
+def vectors_grid():
+    s = SVG(1900, 900)
+    s.text(950, 50, 'Vectors on a grid: finding C = 2A + B', 34, weight='bold', fill=NAVY)
+    g, ox, oy, nx, ny = 110, 170, 760, 6, 6
+    for i in range(nx + 1): s.line(ox + i * g, oy, ox + i * g, oy - ny * g, RULE, 2)
+    for j in range(ny + 1): s.line(ox, oy - j * g, ox + nx * g, oy - j * g, RULE, 2)
+    s.arrow(ox, oy, ox + nx * g + 40, oy, INK, 3); s.arrow(ox, oy, ox, oy - ny * g - 40, INK, 3)
+    s.text(ox + nx * g + 60, oy + 10, 'x', 24, italic=True); s.text(ox, oy - ny * g - 56, 'y', 24, italic=True)
+    P = lambda x, y: (ox + x * g, oy - y * g)
+    # construction: 2A then B, tip to tail
+    x1, y1 = P(2, 2); x2, y2 = P(3, 4)
+    s.line(ox, oy, x1, y1, PLUM, 3, '12 9'); s.arrow(x1 - 30, y1 + 30, x1, y1, PLUM, 3); s.text(x1 + 26, y1 + 46, '2A', 24, weight='bold', fill=PLUM)
+    s.line(x1, y1, x2, y2, BLUE, 3, '12 9'); s.arrow(x2 - 14, y2 + 28, x2, y2, BLUE, 3); s.text(x1 + 95, y1 - 96, 'B', 24, weight='bold', fill=BLUE)
+    # A and B from the origin
+    ax, ay = P(1, 1); bx, by = P(1, 2)
+    s.arrow(ox, oy, ax, ay, PLUM, 6); s.text(ax + 34, ay + 30, 'A', 26, weight='bold', fill=PLUM)
+    s.arrow(ox, oy, bx, by, BLUE, 6); s.text(bx - 34, by - 10, 'B', 26, weight='bold', fill=BLUE)
+    s.arrow(ox, oy, x2, y2, INK, 7); s.text(x2 + 30, y2 - 10, 'C', 28, weight='bold')
+    s.lines(1030, 200, ['A = 1 square right, 1 square up', 'B = 1 square right, 2 squares up', '',
+                        'Multiply: 2A = 2 right, 2 up', 'Add the parts: C = 2A + B', 'right 2 + 1 = 3,  up 2 + 2 = 4', '',
+                        'Size (magnitude) of C, by Pythagoras:', '√(3² + 4²) = √25 = 5 squares'], 24, 'start', 44)
+    s.rect(1030, 650, 800, 130, TINT, PLUM, 2, 14)
+    s.lines(1430, 700, ['A vector has a size and a direction, so draw it as an arrow.', 'To subtract a vector, add it pointing the opposite way.'], 22, 'middle', 36)
+    s.save('vectors_grid')
+
+def forces_motion():
+    s = SVG(1900, 1040)
+    s.text(950, 50, 'Forces and movement', 34, weight='bold', fill=NAVY)
+    # boat with four forces
+    s.text(480, 110, 'Forces on a sailing boat', 26, weight='bold')
+    wy = 400
+    s.rect(120, wy, 760, 90, WATER, WATER, 0, 0); s.line(120, wy, 880, wy, INK, 2)
+    s.poly([(330, wy - 40), (670, wy - 40), (620, wy + 40), (380, wy + 40)], PAGE, INK, 4, True)
+    s.line(500, wy - 40, 500, wy - 250, INK, 5); s.poly([(506, wy - 245), (506, wy - 60), (640, wy - 60)], '#FFFFFF', INK, 3, True)
+    s.arrow(500, wy + 10, 500, wy + 150, PLUM, 6); s.text(520, wy + 150, 'weight', 22, 'start', weight='bold', fill=PLUM)
+    s.arrow(430, wy + 30, 430, wy - 110, PLUM, 6); s.text(410, wy - 110, 'upthrust', 22, 'end', weight='bold', fill=PLUM)
+    s.arrow(680, wy - 130, 850, wy - 130, PLUM, 6); s.lines(770, wy - 196, ['force from the', 'wind on the sail'], 21, 'middle', 26, fill=PLUM)
+    s.arrow(320, wy + 10, 170, wy + 10, PLUM, 6); s.lines(230, wy - 56, ['water resistance', '(drag)'], 21, 'middle', 26, fill=PLUM)
+    s.lines(480, wy + 200, ['Steady speed: forward force = drag (balanced).', 'Stronger wind: forward force is bigger (unbalanced),', 'so the boat accelerates until drag catches up.'], 21, 'middle', 30, fill=NAVY)
+    # skydiver, three stages
+    s.text(1380, 110, 'A falling skydiver', 26, weight='bold')
+    stages = [('speed = 0', 'no air resistance', 'accelerating', 0, 150), ('getting faster', 'air resistance growing', 'still accelerating', 80, 150), ('top speed', 'air resistance = weight', 'terminal velocity', 150, 150)]
+    for k, (a, b, c, up, down) in enumerate(stages):
+        cx, cy = 1090 + k * 290, 400
+        s.circle(cx, cy - 46, 22, '#FFFFFF', INK, 3); s.rect(cx - 26, cy - 22, 52, 70, PAGE, INK, 3, 10)
+        s.line(cx - 26, cy - 8, cx - 62, cy - 34, INK, 4); s.line(cx + 26, cy - 8, cx + 62, cy - 34, INK, 4); s.line(cx - 14, cy + 48, cx - 30, cy + 92, INK, 4); s.line(cx + 14, cy + 48, cx + 30, cy + 92, INK, 4)
+        s.arrow(cx, cy + 100, cx, cy + 100 + down, PLUM, 6)
+        if up: s.arrow(cx, cy - 76, cx, cy - 76 - up, BLUE, 6)
+        s.lines(cx, cy + 300, [a, b], 20, 'middle', 27); s.text(cx, cy + 366, c, 21, weight='bold', fill=NAVY)
+        if k == 1:
+            s.lines(cx - 22, cy - 130, ['air', 'resistance'], 19, 'end', 24, fill=BLUE); s.text(cx - 22, cy + 190, 'weight', 19, 'end', fill=PLUM)
+    s.rect(980, 820, 820, 150, TINT, PLUM, 2, 14)
+    s.lines(1390, 868, ['Balanced forces: no change in speed or direction.', 'Unbalanced forces: the resultant force changes', 'the speed, the direction or the shape.'], 21, 'middle', 32)
+    s.save('forces_motion')
+
+def energy_efficiency():
+    s = SVG(1800, 800)
+    s.text(900, 50, 'Efficiency: how much of the energy is useful?', 34, weight='bold', fill=NAVY)
+    def sankey(x0, y, total, useful, name, scale):
+        H, hu = total * scale, max(useful * scale, 8); hw = H - hu; L = 300
+        s.rect(x0, y, L, H, PAGE, INK, 3, 0)
+        s.poly([(x0 + L, y), (x0 + L + 190, y), (x0 + L + 190, y - 12), (x0 + L + 240, y + hu / 2), (x0 + L + 190, y + hu + 12), (x0 + L + 190, y + hu), (x0 + L, y + hu)], HI, INK, 3, True)
+        s.poly([(x0 + L - hw, y + H), (x0 + L - hw, y + H + 90), (x0 + L - hw - 14, y + H + 90), (x0 + L - hw / 2, y + H + 140), (x0 + L + 14, y + H + 90), (x0 + L, y + H + 90), (x0 + L, y + H)], '#FFFFFF', INK, 3, True)
+        s.text(x0 - 16, y + H / 2 + 8, f'{total} J in', 23, 'end', weight='bold')
+        s.text(x0 + L + 125, y - 22, f'{useful} J useful (light)', 22)
+        s.text(x0 + L - hw / 2, y + H + 176, f'{total - useful} J wasted (heating)', 22)
+        s.text(x0 + 110, y - 22, name, 24, weight='bold')
+        s.text(x0 + 150, y + H + 240, f'efficiency = {useful} ÷ {total} = {round(100 * useful / total)}%', 23, weight='bold', fill=NAVY)
+    sankey(190, 190, 60, 6, 'Lamp X', 3.2)
+    sankey(1100, 190, 15, 6, 'Lamp Y', 3.2)
+    s.rect(250, 690, 1300, 76, TINT, PLUM, 2, 14)
+    s.text(900, 738, 'efficiency = useful energy transferred ÷ total energy transferred   (× 100 for a percentage)', 23, weight='bold')
+    s.save('energy_efficiency')
+
+def _axes(s, x0, y0, w, h, xmax, ymax, xstep, ystep, xlabel, ylabel, minor=None, fs=1.0):
+    X = lambda v: x0 + v / xmax * w; Y = lambda v: y0 - v / ymax * h
+    if minor:
+        v = 0
+        while v <= xmax + 1e-9: s.line(X(v), y0, X(v), y0 - h, '#E6EAF0', 1); v += minor[0]
+        v = 0
+        while v <= ymax + 1e-9: s.line(x0, Y(v), x0 + w, Y(v), '#E6EAF0', 1); v += minor[1]
+    v = 0
+    while v <= xmax + 1e-9:
+        s.line(X(v), y0, X(v), y0 - h, RULE, 2); s.text(X(v), y0 + 34 * fs, f'{v:g}', 20 * fs); v += xstep
+    v = 0
+    while v <= ymax + 1e-9:
+        s.line(x0, Y(v), x0 + w, Y(v), RULE, 2); s.text(x0 - 16, Y(v) + 8 * fs, f'{v:g}', 20 * fs, 'end'); v += ystep
+    s.line(x0, y0, x0 + w, y0, INK, 4); s.line(x0, y0, x0, y0 - h, INK, 4)
+    s.text(x0 + w / 2, y0 + 80 * fs, xlabel, 24 * fs, weight='bold'); s.text(x0 - 90 * fs, y0 - h / 2, ylabel, 24 * fs, weight='bold', rotate=-90)
+    return X, Y
+
+def distance_time_graph():
+    s = SVG(1800, 900)
+    s.text(900, 50, 'A distance-time graph: the gradient is the speed', 34, weight='bold', fill=NAVY)
+    X, Y = _axes(s, 220, 760, 900, 600, 25, 80, 5, 20, 'Time (s)', 'Distance (m)')
+    pts = [(0, 0), (10, 40), (20, 40), (25, 80)]
+    s.poly([(X(a), Y(b)) for a, b in pts], 'none', INK, 6)
+    s.text(X(5) + 20, Y(20) + 50, 'A', 28, weight='bold', fill=PLUM); s.text(X(15), Y(40) - 20, 'B', 28, weight='bold', fill=PLUM); s.text(X(22.5) - 40, Y(60) - 10, 'C', 28, weight='bold', fill=PLUM)
+    s.line(X(20), Y(40), X(25), Y(40), PLUM, 3, '10 8'); s.line(X(25), Y(40), X(25), Y(80), PLUM, 3, '10 8')
+    s.text(X(22.5), Y(40) + 30, '5 s', 20, fill=PLUM); s.text(X(25) + 14, Y(60) + 8, '40 m', 20, 'start', fill=PLUM)
+    s.lines(1230, 230, ['A  shallow line: moving slowly', '    40 m in 10 s = 4 m/s', '', 'B  horizontal line: stationary', '    (not moving)', '', 'C  steep line: moving faster'], 23, 'start', 38)
+    s.rect(1210, 560, 540, 200, TINT, PLUM, 2, 14)
+    s.lines(1480, 610, ['gradient of C', '= vertical change ÷ horizontal change', '= 40 m ÷ 5 s', '= 8 m/s'], 22, 'middle', 38)
+    s.save('distance_time_graph')
+
+def speed_time_graph():
+    s = SVG(1800, 870)
+    s.text(900, 50, 'A speed-time graph', 34, weight='bold', fill=NAVY)
+    X, Y = _axes(s, 220, 690, 900, 520, 25, 12, 5, 2, 'Time (s)', 'Speed (m/s)')
+    pts = [(0, 0), (5, 10), (15, 10), (20, 0), (25, 0)]
+    s.poly([(X(a), Y(b)) for a, b in pts], 'none', INK, 6)
+    for lab, tx, ty in [('P', 2.5, 5), ('Q', 10, 10), ('R', 17.5, 5), ('S', 22.5, 0)]:
+        s.text(X(tx) + (26 if lab in 'PR' else 0) * (1 if lab == 'R' else -1), Y(ty) - 22, lab, 28, weight='bold', fill=PLUM)
+    s.lines(1230, 220, ['P  line slopes up:', '    accelerating (speeding up)', '', 'Q  horizontal line:', '    constant speed (10 m/s)', '', 'R  line slopes down:', '    decelerating (slowing down)', '', 'S  line along the axis:', '    stationary (speed = 0)'], 23, 'start', 36)
+    s.text(900, 840, 'A steeper line on a speed-time graph means the speed is changing more quickly.', 22, italic=True, fill=NAVY)
+    s.save('speed_time_graph')
+
+def journey_graph_test():
+    """A distance-time graph of a toy car for a test question: A 5 m/s, B stationary, C 10 m/s (no answers shown)."""
+    s = SVG(1500, 900)
+    X, Y = _axes(s, 230, 720, 1150, 600, 10, 60, 1, 10, 'Time (s)', 'Distance (m)', minor=(0.5, 5), fs=1.35)
+    pts = [(0, 0), (4, 20), (7, 20), (10, 50)]
+    s.poly([(X(a), Y(b)) for a, b in pts], 'none', INK, 6)
+    for a, b in pts: s.circle(X(a), Y(b), 7, INK, INK, 1)
+    for lab, tx, ty, dx, dy in [('A', 2, 10, -44, -6), ('B', 5.5, 20, 0, -26), ('C', 8.5, 35, -46, -6)]:
+        s.circle(X(tx) + dx, Y(ty) + dy, 26, '#FFFFFF', INK, 3); s.text(X(tx) + dx, Y(ty) + dy + 10, lab, 26, weight='bold')
+    s.save('journey_graph_test')
+
 if __name__ == '__main__':
     for f in [env_factors, cont_discont, gametes_zygote, dna_chromosome_gene, probability_scale, natural_selection_moths, tilapia_graph,
               photosynthesis_eq, respiration_eq, leaf_section, stoma_open_closed, water_route, germination, selective_breeding,
@@ -969,5 +1178,7 @@ if __name__ == '__main__':
               sampling_formula, distribution_patterns, sa_v_cubes, osmosis_membrane, diffusion_gradient, half_life_graph, graph_grid,
               blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types,
               microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula, plant_cell_blank,
-              states_of_matter, states_blank]:
+              states_of_matter, states_blank,
+              measuring_volume, measuring_cylinders_test, accuracy_precision, density_float, vectors_grid, forces_motion,
+              energy_efficiency, distance_time_graph, speed_time_graph, journey_graph_test]:
         f()
