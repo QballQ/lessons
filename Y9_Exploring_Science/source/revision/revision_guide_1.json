@@ -1951,6 +1951,21 @@
      ]
     },
     {
+     "type": "pages",
+     "title": "Example questions",
+     "note": "From your physics revision guide. Answer these in your exercise book and check them with your teacher.",
+     "images": [
+      {
+       "ref": "q_exam_style_3",
+       "w": 560
+      },
+      {
+       "ref": "q_exam_style_4",
+       "w": 560
+      }
+     ]
+    },
+    {
      "type": "keywords",
      "words": [
       {
@@ -2213,6 +2228,31 @@
      ]
     },
     {
+     "type": "pages",
+     "title": "Example questions",
+     "note": "From your physics revision guide. Answer these in your exercise book and check them with your teacher.",
+     "images": [
+      {
+       "ref": "q_density_workbook_1"
+      },
+      {
+       "ref": "q_density_workbook_2"
+      },
+      {
+       "ref": "q_exam_style_1",
+       "w": 560
+      },
+      {
+       "ref": "q_exam_style_2",
+       "w": 560
+      },
+      {
+       "ref": "q_exam_style_5",
+       "w": 560
+      }
+     ]
+    },
+    {
      "type": "keywords",
      "words": [
       {
@@ -2316,126 +2356,18 @@
      ]
     },
     {
-     "type": "table",
-     "title": "SI base units",
-     "headers": [
-      "Physical quantity",
-      "SI base unit",
-      "Symbol"
-     ],
-     "widths": [
-      4200,
-      3400,
-      2600
-     ],
-     "rows": [
-      [
-       "length",
-       "metre",
-       "m"
-      ],
-      [
-       "time",
-       "second",
-       "s"
-      ],
-      [
-       "mass",
-       "kilogram",
-       "kg"
-      ],
-      [
-       "temperature",
-       "kelvin",
-       "K"
-      ],
-      [
-       "current",
-       "ampere",
-       "A"
-      ],
-      [
-       "amount of substance",
-       "mole",
-       "mol"
-      ],
-      [
-       "luminous intensity (not tested)",
-       "candela",
-       "cd"
-      ]
-     ]
+     "type": "image",
+     "ref": "albert:si_base_units",
+     "w": 600,
+     "h": 250,
+     "caption": "SI base units and their symbols."
     },
     {
-     "type": "table",
-     "title": "Prefixes",
-     "bold_first": false,
-     "headers": [
-      "Multiple",
-      "Prefix",
-      "Symbol",
-      "Sub-multiple",
-      "Prefix",
-      "Symbol"
-     ],
-     "widths": [
-      2300,
-      1400,
-      1300,
-      2300,
-      1400,
-      1300
-     ],
-     "rows": [
-      [
-       "1000 (10³)",
-       "kilo",
-       "k",
-       "0.1 (10⁻¹)",
-       "deci",
-       "d"
-      ],
-      [
-       "1 000 000 (10⁶)",
-       "mega",
-       "M",
-       "0.01 (10⁻²)",
-       "centi",
-       "c"
-      ],
-      [
-       "10⁹",
-       "giga",
-       "G",
-       "0.001 (10⁻³)",
-       "milli",
-       "m"
-      ],
-      [
-       "10¹²",
-       "tera",
-       "T",
-       "0.000 001 (10⁻⁶)",
-       "micro",
-       "µ"
-      ],
-      [
-       "",
-       "",
-       "",
-       "10⁻⁹",
-       "nano",
-       "n"
-      ],
-      [
-       "",
-       "",
-       "",
-       "10⁻¹²",
-       "pico",
-       "p"
-      ]
-     ]
+     "type": "image",
+     "ref": "albert:prefixes",
+     "w": 640,
+     "h": 230,
+     "caption": "Prefixes: multiples make a unit bigger, sub-multiples make it smaller."
     },
     {
      "type": "table",
@@ -2499,6 +2431,20 @@
       "Coursebook: the printed Chapter 1, Making measurements",
       "The Vector Exercise Worksheet",
       "Quiz 1 and Quiz 2"
+     ]
+    },
+    {
+     "type": "pages",
+     "title": "Example questions",
+     "note": "From your physics revision guide. Answer these in your exercise book and check them with your teacher.",
+     "images": [
+      {
+       "ref": "q_units_workbook"
+      },
+      {
+       "ref": "vector_example",
+       "w": 520
+      }
      ]
     },
     {
@@ -2615,6 +2561,15 @@
      ]
     },
     {
+     "type": "pages",
+     "title": "Summary sheet: forces and motion",
+     "images": [
+      {
+       "ref": "summary_forces"
+      }
+     ]
+    },
+    {
      "type": "image",
      "ref": "diagram:forces_motion",
      "w": 640,
@@ -2690,6 +2645,15 @@
       "Exploring Science 9 Coursebook (9Ia)",
       "Exploring Science 9 Workbook (9Ia)",
       "Quiz 3 (9Ia)"
+     ]
+    },
+    {
+     "type": "pages",
+     "title": "Word sheet: forces and movement",
+     "images": [
+      {
+       "ref": "words_forces"
+      }
      ]
     },
     {
@@ -2948,6 +2912,31 @@
      ]
     },
     {
+     "type": "pages",
+     "title": "Example questions",
+     "note": "From your physics revision guide. Answer these in your exercise book and check them with your teacher.",
+     "text": [
+      "**Definitions.** E________ potential energy: a name used to describe energy when it is stored in stretched or squashed things that can change back to their o_________ shapes. Another name for s________ energy.",
+      "**Multiple choice.**"
+     ],
+     "images": [
+      {
+       "ref": "q_efficiency_mcq",
+       "w": 330
+      }
+     ]
+    },
+    {
+     "type": "pages",
+     "title": "Word sheet: energy for movement",
+     "images": [
+      {
+       "ref": "words_energy",
+       "h": 820
+      }
+     ]
+    },
+    {
      "type": "keywords",
      "words": [
       {
@@ -3122,6 +3111,18 @@
      ]
     },
     {
+     "type": "pages",
+     "title": "Summary sheet: speed and graphs",
+     "images": [
+      {
+       "ref": "summary_speed_graphs"
+      },
+      {
+       "ref": "summary_gradients"
+      }
+     ]
+    },
+    {
      "type": "formula",
      "lines": [
       "speed = distance ÷ time",
@@ -3205,6 +3206,31 @@
       "Exploring Science 9 Workbook (9Ic)",
       "Exploring Science 9 Quick Check (9Ic)",
       "Quiz 5 (9Ic)"
+     ]
+    },
+    {
+     "type": "pages",
+     "title": "Example questions",
+     "note": "From your physics revision guide. Answer these in your exercise book and check them with your teacher.",
+     "text": [
+      "**Short response.**"
+     ],
+     "images": [
+      {
+       "ref": "q_cyclist_graph"
+      }
+     ]
+    },
+    {
+     "type": "pages",
+     "title": "Word sheet: speed and gradients",
+     "images": [
+      {
+       "ref": "words_speed"
+      },
+      {
+       "ref": "words_gradient"
+      }
      ]
     },
     {

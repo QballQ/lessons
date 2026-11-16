@@ -2,7 +2,8 @@
    Usage: node build_revision.js revision/revision_guide_1.json out.docx [--cn]
    The guide: cover (school logo, how to use it, the "I can" checklist), then the parts (Biology, Chemistry, Physics),
    each starting on a new page, with one section per topic: Key ideas, diagrams, tables, formula boxes, Remember and
-   Common mistakes boxes, worked examples, step lists, Revise from lists, Key words and Test yourself questions,
+   Common mistakes boxes, worked examples, step lists, Revise from lists, pages from a colleague's guide (example
+   questions, word sheets, summary sheets, shown as he made them), Key words and Test yourself questions,
    and the answers at the back. --cn adds the 中文 column to every Key words table; everything else is identical.
 */
 const fs = require('fs');
@@ -44,7 +45,9 @@ const numbered = (n, runs, o = {}) => para([run(`${n}.  `, { bold: true, size: B
 const h2 = (text) => para([run(text, { bold: true, size: 24 })], { before: 160, after: 60, keepNext: true });
 
 function imgRun(ref, maxWpx, maxHpx) {
-  const file = ref.startsWith('diagram:') ? path.join(HERE, 'diagrams_grey', ref.slice(8) + '.png') : path.join(HERE, 'images_grey', ref + '.png');
+  // albert:name is a page or table from Albert's physics revision guide, kept as he made it (source/revision/albert/, already greyscale)
+  const file = ref.startsWith('albert:') ? path.join(HERE, 'revision', 'albert', ref.slice(7) + '.png')
+    : ref.startsWith('diagram:') ? path.join(HERE, 'diagrams_grey', ref.slice(8) + '.png') : path.join(HERE, 'images_grey', ref + '.png');
   if (!fs.existsSync(file)) { console.warn('missing image', ref); return null; }
   const buf = fs.readFileSync(file);
   const w = buf.readUInt32BE(16), h = buf.readUInt32BE(20);
@@ -52,7 +55,7 @@ function imgRun(ref, maxWpx, maxHpx) {
   return new ImageRun({ type: 'png', data: buf, transformation: { width: Math.round(w * r), height: Math.round(h * r) }, altText: { title: ref, description: ref, name: ref } });
 }
 function credit(ref) {
-  if (ref.startsWith('diagram:')) return null;
+  if (ref.startsWith('diagram:') || ref.startsWith('albert:')) return null;
   const r = REG[ref]; if (!r || r.status !== 'ok') return null;
   const page = r.source_page || '';
   const host = /wikimedia|wikipedia/i.test(page) ? 'Wikimedia Commons' : /flickr/i.test(page) ? 'Flickr' : page ? page.replace(/^https?:\/\/(www\.)?/, '').split('/')[0] : 'an open licence';
@@ -122,6 +125,20 @@ function renderBlock(b, out, cn, sec, answers) {
       if (b.note) ps.push(para(markup(b.note, { size: SMALL }), { before: 50, after: 0, align: AlignmentType.CENTER }));
       out.push(box(ps, { borders: boxBorders }));
       out.push(para(' ', { after: 60 }));
+      break;
+    }
+    case 'pages': {
+      // pages from Albert's physics revision guide (example questions, word sheets, summary sheets), each in a thin frame
+      out.push(h2(b.title));
+      if (b.note) out.push(para([run(b.note, { size: SMALL, italics: true, color: MID })], { after: 60, keepNext: true }));
+      (b.text || []).forEach(t => out.push(para(markup(t, { size: BODY }), { after: 80, keepNext: true })));
+      const frame = { top: hair, bottom: hair, left: hair, right: hair, insideHorizontal: none, insideVertical: none };
+      b.images.forEach(im => {
+        const ir = imgRun('albert:' + im.ref, im.w || 640, im.h || 860);
+        if (!ir) return;
+        out.push(box([new Paragraph({ children: [ir], alignment: AlignmentType.CENTER, spacing: { before: 0, after: 0 } })], { borders: frame }));
+        out.push(para(' ', { after: 40 }));
+      });
       break;
     }
     case 'revise_from': {
