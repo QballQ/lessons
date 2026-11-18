@@ -7,7 +7,7 @@ footer: Graded Sentence Reading Screen | Interviewer guide
 
 **What it is.** A quick 1:1 read-aloud screen for every candidate from Year 1 to Year 12. The student reads sentences that get harder, from a reading age of about 5 to adult level, until they can no longer read them. It gives an **indicative reading age**, an accuracy profile, a **fluency** rating and an **understanding** check. It takes 2 to 6 minutes. In Years 1 to 3 it follows the Early Reading Screen; from Year 4 it opens the interview.
 
-**You need:** the student card (`Sentence_Reading_Card`), this guide (the sentences are in Section 5), the **Reading front sheet** (`forms/Reading_Front_Sheet`), a pencil, and a plain card or sheet of paper to cover the sentences the student has not reached yet (this stops a page of text looking frightening). This guide is reusable: nothing is written on it. Write every point, meaning mark, total and result on the Reading front sheet.
+**You need:** the student card (Sentence reading card), this guide (the sentences are in Section 5), the **Reading front sheet**, a pencil, and a plain card or sheet of paper to cover the sentences the student has not reached yet (this stops a page of text looking frightening). This guide is reusable: nothing is written on it. Write every point, meaning mark, total and result on the Reading front sheet.
 
 ## 1. Start, carry on, stop
 
@@ -82,7 +82,7 @@ Rate the student's reading on the **last level they read with 4 or more points**
 
 ## 5. Interviewer's copy of the sentences
 
-The student reads from the card (`Sentence_Reading_Card`). Follow this copy as they read, and write the points (2, 1 or 0 for each sentence), the meaning mark and the level total on the **Reading front sheet** (`forms/Reading_Front_Sheet`).
+The student reads from the card (Sentence reading card). Follow this copy as they read, and write the points (2, 1 or 0 for each sentence), the meaning mark and the level total on the **Reading front sheet**.
 
 [[keep]]
 

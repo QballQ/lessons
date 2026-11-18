@@ -5,9 +5,9 @@ footer: Interviewer guide | Years 5 and 6
 ---
 # Interviewer guide: Years 5 and 6
 
-**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** (`forms/Interview_Sheet_Y5_Y6`).
+**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** for Years 5 and 6.
 
-**About 12 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme. It opens with the Graded Sentence Reading Screen (3 to 4 minutes; start Level 4 for Year 5, Level 5 for Year 6; follow `shared/Sentence_Reading_Guide` and write the points on the Reading front sheet, `forms/Reading_Front_Sheet`).
+**About 12 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme. It opens with the Graded Sentence Reading Screen (3 to 4 minutes; start Level 4 for Year 5, Level 5 for Year 6; follow Sentence reading guide and write the points on the Reading front sheet, Reading front sheet).
 
 **How to ask.** Smile, sit beside rather than opposite the child if you can, and start with something easy. Ask the main question first. If the child struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. Wait at least five seconds before rephrasing. Answers must be in English.
 

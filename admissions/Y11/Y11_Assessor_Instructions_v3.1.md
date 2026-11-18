@@ -13,9 +13,9 @@ footer: Year 11 Admission Assessment v3.1 | Assessor instructions
 
 # Year 11 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y11/Y11_Student_Paper_v3.1`. Year 11 joins the pack at version 3.1, so that every year group carries one version number: there is no earlier Year 11 paper. The core paper has the structure of Year 10 version 3.1, and two further booklets are given on the same day from their own documents: the **cognitive ability screen** (`shared/Cognitive_Ability_Screen_Y11_Y12`, guide `shared/Cognitive_Ability_Screen_Guide`) and the **optional sciences** (`Y11/Y11_Optional_Sciences_v3.1`, mark scheme `Y11/Y11_Optional_Sciences_Mark_Scheme_v3.1`). Do not mix papers and instructions from different years or versions.
+**Version 3.1, October 2026.** Use with Year 11 student paper. Year 11 joins the pack at version 3.1, so that every year group carries one version number: there is no earlier Year 11 paper. The core paper has the structure of Year 10 version 3.1, and two further booklets are given on the same day from their own documents: the **cognitive ability screen** (Cognitive ability screen booklet, guide Cognitive ability screen guide) and the **optional sciences** (Year 11 optional sciences paper, mark scheme Year 11 optional sciences mark scheme). Do not mix papers and instructions from different years or versions.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y11_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 - **Listening** (16 marks): Part A is an everyday conversation at a sports centre; **Part B** is an academic talk at the level of a lesson (bamboo as a building material).
 - **Reading** (16 marks): Part A is a web page of holiday workshops; Part B is the short story "Homing" (questions 8 to 14).
@@ -23,7 +23,7 @@ footer: Year 11 Admission Assessment v3.1 | Assessor instructions
 - **Science** (10 marks): IGCSE first-year biology, chemistry and physics, with one working-scientifically question.
 - **Cognitive ability screen** and **optional sciences**: separate booklets (see Section 1). Their results are recorded on this year's grading sheet.
 
-**Who this is for.** Students applying for **Year 11** (age 15 on 1 September), the **second year of a two-year IGCSE course**: they join courses that are already a year in. A student from a Chinese mainstream school has usually **completed Grade 9 (初三)**, so all of junior high school and the zhongkao; a student joining mid-year is partway through Grade 10 (高一). Some come from international or bilingual schools that teach IGCSE, and may have done part of Year 10 already. Ask the student and the family which grade, which school system and which textbooks they have used, because the order of topics differs. Background on Chinese school sequences, the English bands and the decision guide is in `00_Admissions_Guide.md`.
+**Who this is for.** Students applying for **Year 11** (age 15 on 1 September), the **second year of a two-year IGCSE course**: they join courses that are already a year in. A student from a Chinese mainstream school has usually **completed Grade 9 (初三)**, so all of junior high school and the zhongkao; a student joining mid-year is partway through Grade 10 (高一). Some come from international or bilingual schools that teach IGCSE, and may have done part of Year 10 already. Ask the student and the family which grade, which school system and which textbooks they have used, because the order of topics differs. Background on Chinese school sequences, the English bands and the decision guide is in the Full guide for staff.
 
 **What it measures.** English in listening, reading, writing and speaking (bands A to E); maths against the end of the first IGCSE Extended year, as three sub-scores (fluency, word questions, applied problems); core science at IGCSE first-year level; a reasoning profile (the cognitive screen); readiness for the sciences chosen (the optional sciences); and, through the interview, who the student is, their plans and their suitability. Section 6 explains how to read the results together to judge **readiness for joining the second year of IGCSE**.
 
@@ -40,8 +40,8 @@ footer: Year 11 Admission Assessment v3.1 | Assessor instructions
 <tr><td>6</td><td>Maths: Section A Fluency, Section B Word questions, Section C Applied problems (30 marks)</td><td>25</td><td>Student works alone; the assessor may read any question aloud</td><td>Student paper pages 13 to 19; pencil, rubber, ruler; <b>no calculator in Sections A and B</b>; a <b>scientific calculator for Section C only</b> (from page 17)</td><td>A scientific calculator for each student</td></tr>
 <tr><td>7</td><td>Core science: 6 questions (10 marks)</td><td>8</td><td>Student works alone; the assessor may read any question aloud</td><td>Student paper pages 20 to 22; a calculator is allowed</td><td></td></tr>
 <tr><td>8</td><td>Break</td><td>5</td><td></td><td>Water</td><td></td></tr>
-<tr><td>9</td><td><b>Cognitive ability screen</b>: three reasoning parts (12 items each) and processing speed (90 seconds); strict timing</td><td>25</td><td>Assessor, from <code>shared/Cognitive_Ability_Screen_Guide</code>; a small group is fine</td><td><code>shared/Cognitive_Ability_Screen_Y11_Y12</code> booklet; pencil; a stopwatch; no calculator</td><td>The screen booklet; its guide (print once)</td></tr>
-<tr><td>10</td><td><b>Optional sciences</b>: Biology, Chemistry, Physics, 15 marks each; only those the student will take (a short break after two)</td><td>15 each</td><td>Assessor, from <code>Y11/Y11_Optional_Sciences_Mark_Scheme_v3.1</code></td><td><code>Y11/Y11_Optional_Sciences_v3.1</code> booklet; pencil, ruler, scientific calculator</td><td>The optional sciences booklet; its mark scheme (print once)</td></tr>
+<tr><td>9</td><td><b>Cognitive ability screen</b>: three reasoning parts (12 items each) and processing speed (90 seconds); strict timing</td><td>25</td><td>Assessor, from Cognitive ability screen guide; a small group is fine</td><td>Cognitive ability screen booklet booklet; pencil; a stopwatch; no calculator</td><td>The screen booklet; its guide (print once)</td></tr>
+<tr><td>10</td><td><b>Optional sciences</b>: Biology, Chemistry, Physics, 15 marks each; only those the student will take (a short break after two)</td><td>15 each</td><td>Assessor, from Year 11 optional sciences mark scheme</td><td>Year 11 optional sciences paper booklet; pencil, ruler, scientific calculator</td><td>The optional sciences booklet; its mark scheme (print once)</td></tr>
 <tr><td>11</td><td>Interview, opening with the Graded Sentence Reading Screen at <b>Level 9</b></td><td>15</td><td>Interviewer, 1:1</td><td>Sentence Reading Card (laminated); a plain card to cover sentences</td><td>Reading front sheet; Interview sheet for Years 11 and 12</td></tr>
 <tr><td></td><td><b>Total</b>: core about 2 hours; with two optional sciences about 2 hours 35 minutes; with three about 2 hours 50 minutes</td><td><b>about 121</b><br>(allow 125)</td><td></td><td>A clock or timer</td><td>Final mark sheet</td></tr>
 </table>
@@ -55,26 +55,26 @@ Marks go on the **grading sheet** (listening, writing, maths, core science, the 
 **For each candidate:**
 
 - the Year 11 student paper, version 3.1;
-- the grading sheet (`Y11/Y11_Grading_Sheet_v3.1`);
-- the cognitive ability screen booklet (`shared/Cognitive_Ability_Screen_Y11_Y12`);
-- the optional sciences booklet (`Y11/Y11_Optional_Sciences_v3.1`), if the student takes any science;
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 11 and 12 (`forms/Interview_Sheet_Y11_Y12`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the cognitive ability screen booklet (Cognitive ability screen booklet);
+- the optional sciences booklet (Year 11 optional sciences paper), if the student takes any science;
+- the Reading front sheet;
+- the Interview sheet for Years 11 and 12;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- `shared/Cognitive_Ability_Screen_Guide` and `Y11/Y11_Optional_Sciences_Mark_Scheme_v3.1`;
-- the Interviewer guide (`forms/Interviewer_Guide_Y11_Y12`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- Cognitive ability screen guide and Year 11 optional sciences mark scheme;
+- the Interviewer guide for Years 11 and 12;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a clock or timer, a stopwatch, a plain card to cover the sentences, and a scientific calculator, pencil, rubber and ruler for each student.
 [[/cols]]
 [[/keep]]
 
-The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) runs alongside with another member of staff. The written papers (tasks 2 to 10) can be taken in a small group with one invigilator; the interview is always 1:1.
+The parent conversation (Parent conversation record, about 15 minutes) runs alongside with another member of staff. The written papers (tasks 2 to 10) can be taken in a small group with one invigilator; the interview is always 1:1.
 
 ## 2. Before you start
 
@@ -114,7 +114,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and each is played or read twice. **Part A** is an everyday conversation between a student and a receptionist at a sports centre: two voices. **Part B** is a short lesson-style talk by an engineer, with subject vocabulary, numbers, a correction and an implied opinion: the listening that IGCSE lessons need, at the level of a fluent speaker of 15 to 16.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y11/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. If you read live, use the recording's pace (one reading of Part A takes about 2 minutes 7 seconds and of Part B about 3 minutes 6 seconds, with the pauses) and, for Part A, change your voice slightly for the two speakers. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 11 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. If you read live, use the recording's pace (one reading of Part A takes about 2 minutes 7 seconds and of Part B about 3 minutes 6 seconds, with the pauses) and, for Part A, change your voice slightly for the two speakers. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a conversation between a student, Li Na, and a receptionist at a sports centre. You will hear it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Play or read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Play or read it again. Then give the student one more minute to finish.
 
@@ -198,7 +198,7 @@ Your school is planning a new bicycle shelter. I'm not going to tell you what it
 | 15 | Speaker's attitude (implied) | **B**: he thinks they criticise bamboo but are happy to be seen with his building | | A is the opposite of his view; C and D are not said. He never says the architects are wrong: the student must hear the irony in "the same architects are quite happy to be photographed in front of our hall". |
 | 16 | Main idea or speaker's purpose | **B**: to explain how bamboo is used in buildings and make students think about it | | A goes too far (he says "I'm not going to tell you what it should be made of"); C is one part of the talk; D exaggerates one sentence. The ending ("I'd like you to ask the question") carries the purpose. |
 
-**What is in the Part B script** (for the English team): about 480 words in 35 sentences (about 14 words a sentence on average); about 21% of the running words are outside the 2000 most common English words (about 29% of the distinct words; `wordfreq` lists, names left out). It uses subject vocabulary explained in context (structural engineer, culm, node, tensile strength, mild steel, timber frame). It explains a process (how a culm grows and hardens; how poles are treated) and a cause and effect (why the joints matter; why steel costs carbon); compares a tree with bamboo, bamboo with steel and pine, and a bamboo frame with a steel one; gives numbers and a date; corrects a number ("Actually, let me correct that"); implies opinions without stating them (the architects, the bicycle shelter); and uses discourse markers (on the other hand, first, second, however, as a result, whereas).
+**What is in the Part B script** (for the English team): about 480 words in 35 sentences (about 14 words a sentence on average); about 21% of the running words are outside the 2000 most common English words (about 29% of the distinct words; wordfreq lists, names left out). It uses subject vocabulary explained in context (structural engineer, culm, node, tensile strength, mild steel, timber frame). It explains a process (how a culm grows and hardens; how poles are treated) and a cause and effect (why the joints matter; why steel costs carbon); compares a tree with bamboo, bamboo with steel and pine, and a bamboo frame with a steel one; gives numbers and a date; corrects a number ("Actually, let me correct that"); implies opinions without stating them (the architects, the bicycle shelter); and uses discourse markers (on the other hand, first, second, however, as a result, whereas).
 
 #### Band guide
 
@@ -284,7 +284,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 | **Grammar and sentences** | No sentences. | Mostly simple sentences, some joined with and, but, because; frequent errors in verb forms, plurals and articles, but the meaning is clear. | A variety of sentence types used for effect, including complex sentences and some short sentences for impact; tenses controlled (the story stays in the past; the essay handles conditionals: "if schools did this, ..."); errors are rare and do not affect meaning. |
 | **Spelling and punctuation** | Mostly impossible to read. | Common words spelt correctly; capital letters and full stops mostly correct; errors in less common words. | Almost all words spelt correctly, including ambitious ones; a range of punctuation (speech marks in the story, commas after openers, apostrophes, colons, question marks) used correctly. |
 
-**Band by best fit**, using the descriptors in `00_Admissions_Guide.md`, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
+**Band by best fit**, using the descriptors in the Full guide for staff, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
 
 | Band | Writing at Year 11 entry |
 |---|---|
@@ -304,7 +304,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Interview, speaking and sentence reading (15 minutes, 1:1)
 
-The questions and the speaking band descriptors are in the **Interviewer guide for Years 11 and 12** (`forms/Interviewer_Guide_Y11_Y12`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y11_Y12`). The sentence reading rules are in `shared/Sentence_Reading_Guide`, the student reads from `shared/Sentence_Reading_Card`, and the results go on the **Reading front sheet**. All are in English.
+The questions and the speaking band descriptors are in the **Interviewer guide for Years 11 and 12** (Interviewer guide for Years 11 and 12), and the record is the **Interview sheet** for Years 11 and 12. The sentence reading rules are in Sentence reading guide, the student reads from Sentence reading card, and the results go on the **Reading front sheet**. All are in English.
 
 - **Sentence reading first** (3 to 5 minutes). Year 11 starts at **Level 9 (sentence 25)**, the top start level. Follow the start, going-back and stopping rules and the scoring in the guide. It gives total points out of 72, an indicative reading age, meaning checks and a fluency rating, which you record on the Reading front sheet. If you already know the student is new to English, start at Level 1.
 - **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **subject choices and why**, **university plans**, **independent study and workload**, what the student knows about IGCSE, and the **Year 11 only** question: whether the student understands that they are joining courses a year in, and what they will do to catch up. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2, the same for every candidate.
@@ -381,7 +381,7 @@ The example box at the start of Section A shows what the command words and phras
 | **Fluency and word questions high**, **applied low** (5 or less out of 12) | The student calculates and sets up equations well but is less practised in multi-step problems in context, reading graphs, choosing a method and giving a reason. Check the NT topics first: questions 11, 12 and 14 include content outside the Chinese course. | Teaching in problem solving and explaining, not more content. Practice with "show that", "give a reason" and graph-reading questions, which fill the IGCSE Extended papers. |
 | **All three high** (band 4) | A strong mathematician who can read and apply. | Extended tier; likely top set. |
 | **Fluency low, word questions and applied higher** | Unusual for a student from a Chinese mainstream school; more common from a bilingual or international school where formal algebra comes later. | Check which algebra has been taught. The Extended tier may still fit, with an algebra catch-up plan and a review after one term. |
-| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. Read with the cognitive screen (its guide, Section 9). | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9). |
+| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. Read with the cognitive screen (its guide, Section 9). | Further assessment before a decision (the Full guide for staff, Section 9). |
 
 #### What to look for
 
@@ -425,7 +425,7 @@ The example box at the start of Section A shows what the command words and phras
 
 | English band | What it usually means for joining Year 11 | English course that may fit best |
 |---|---|---|
-| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to the second year of IGCSE is not advisable (`00_Admissions_Guide.md`, Section 9). | A preparatory or foundation route, or a Year 10 start after intensive English, if the school has one. |
+| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to the second year of IGCSE is not advisable (the Full guide for staff, Section 9). | A preparatory or foundation route, or a Year 10 start after intensive English, if the school has one. |
 | **B** Early acquisition | Can follow simple, supported lessons, but IGCSE texts and exam questions will be very hard, and there is no time to adjust. | Usually a **Year 10 start** with an English as a Second Language course and a reduced subject load, if the school's policy allows; Year 11 only in exceptional cases (for example very strong maths and sciences, with an agreed plan). |
 | **C** Developing competence | Can follow most lessons with support; subject vocabulary and extended writing will slow progress. Maths and the sciences are usually more accessible than essay-based subjects. | **English as a Second Language**; fewer essay-based subjects; consider a Year 10 start if the maths and science results are also band 2 or below. |
 | **D** Competent | Usually ready to join IGCSE courses taught in English, with support for academic writing. | English as a Second Language at the higher level, or First Language English if reading is band E **and** writing is a strong D or E (see below). Check with the English department. |
@@ -450,9 +450,9 @@ The example box at the start of Section A shows what the command words and phras
 | Fluency and word questions secure, applied 5 or less | **Extended tier**, with teaching in problem solving, graph reading and giving reasons ("show that", "explain"). Review after one term. |
 | Band 2 (11 to 16), mostly NT and L | **Extended tier is still possible**: judge the band once taught, and review after six weeks. |
 | Band 2 with errors on taught topics (questions 2, 3, 4, 6, 7 to 10, 13, 15) | **Core tier**, with a learning plan for the gaps; or a Year 10 start if the English is also band C or below. Move to Extended only if a review after one term shows the gaps have closed. |
-| Band 1 not explained by NT or English | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9; the cognitive screen guide, Section 9). If an offer follows, maths support and the Core tier, and usually a Year 10 start. A band 1 that NT or L does explain is treated as band 2. |
+| Band 1 not explained by NT or English | Further assessment before a decision (the Full guide for staff, Section 9; the cognitive screen guide, Section 9). If an offer follows, maths support and the Core tier, and usually a Year 10 start. A band 1 that NT or L does explain is treated as band 2. |
 
-**Science route: separate sciences, combined, or fewer subjects.** Read the core science band with the optional sciences the student took (`Y11_Optional_Sciences_Mark_Scheme_v3.1`: band 1 to 4 for each science, with its own NT notes) and with English.
+**Science route: separate sciences, combined, or fewer subjects.** Read the core science band with the optional sciences the student took (Year 11 optional sciences mark scheme: band 1 to 4 for each science, with its own NT notes) and with English.
 
 | Result | What it suggests (for the school to confirm) |
 |---|---|
@@ -464,7 +464,7 @@ The example box at the start of Section A shows what the command words and phras
 
 **Subjects to catch up.** For every subject the student will take, name on the grading sheet the first-year content to catch up (the NT topics in maths and the sciences; the set texts in English Literature; the first year of any humanities course); the departments turn the list into a plan before the student starts. If the list for a subject is most of a year's syllabus, that subject should not be taken in Year 11.
 
-**The cognitive ability screen** (`shared/Cognitive_Ability_Screen_Guide`) helps to plan support, never to select. Read its profile beside the paper results: non-verbal and quantitative both 9 or more with verbal low usually means strong reasoning with English as the gap (a good sign for catching up); processing speed well below the other parts suggests considering extra time and checking reading fluency; a strong profile with weak paper results points to gaps in prior learning or motivation rather than ability; all three parts 4 or less means discussing further assessment before a decision (the guide, Section 9). The screen is not standardised and is not a diagnosis.
+**The cognitive ability screen** (Cognitive ability screen guide) helps to plan support, never to select. Read its profile beside the paper results: non-verbal and quantitative both 9 or more with verbal low usually means strong reasoning with English as the gap (a good sign for catching up); processing speed well below the other parts suggests considering extra time and checking reading fluency; a strong profile with weak paper results points to gaps in prior learning or motivation rather than ability; all three parts 4 or less means discussing further assessment before a decision (the guide, Section 9). The screen is not standardised and is not a diagnosis.
 
 **When a Year 10 start would be wiser.** Recommend a Year 10 start (or a preparatory route, if the school has one) when: English is band B or below; or English is band C and maths or science is band 2 or below on taught content; or the catch-up list for two or more subjects is most of a year's syllabus; or the interview shows that the student does not understand that they are joining a course a year in, or that the plan is the family's rather than the student's. Say to the family that a Year 10 start is a route to better IGCSE grades, not a judgement on the student. Students who join Year 11 from a school that already teaches IGCSE are the exception: for them, check which syllabus and which topics have been covered.
 
@@ -477,23 +477,23 @@ The example box at the start of Section A shows what the command words and phras
 | English C; maths fluency high, word questions well below it; sciences 3 or 4 | Strong maths and science; English is the barrier. | Ready with support: English as a Second Language with subject-language support; Extended maths with vocabulary support; separate sciences for the strongest two, or combined; no more than one essay-based subject. Discuss a Year 10 start if the student also wants essay-based subjects. |
 | English C; maths 2 or below on taught topics; sciences 2 or below | The gaps are too wide to close while learning the second year in a second language. | **Start in Year 10**, with English as a Second Language and a learning plan; or a preparatory route. |
 | English B, any maths and science | The English gap is too wide for the second year of IGCSE. | Start in Year 10 with an English as a Second Language course and a reduced subject load, if the school's policy allows; otherwise a preparatory route or a later start. |
-| English D or E; maths band 1 on taught topics | Not an English issue. | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9; the screen guide). If an offer follows, maths support, the Core tier and usually a Year 10 start. |
+| English D or E; maths band 1 on taught topics | Not an English issue. | Further assessment before a decision (the Full guide for staff, Section 9; the screen guide). If an offer follows, maths support, the Core tier and usually a Year 10 start. |
 | Cognitive screen: non-verbal and quantitative high, verbal low; paper results band C in English | Strong reasoning; English is the gap. | A good candidate for catching up: ready with support, with English as a Second Language and a review after one term. |
 | Strong results, but the interview shows the student does not understand that they are joining a course a year in, or the plan is the family's, not the student's | Readiness is not only academic. | Talk with the family and student about the catch-up load before an offer (Interview sheet, suitability strands). A serious mismatch, or any strand rated 1, goes to the head of section before any offer. |
 
-Use the Year 11 interview questions (subject choices and why, what the student knows about IGCSE, and joining a course a year in) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for joining Year 11 boxes and the assessor's comment) and on the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+Use the Year 11 interview questions (subject choices and why, what the student knows about IGCSE, and joining a course a year in) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for joining Year 11 boxes and the assessor's comment) and on the final mark sheet.
 
 [[keep]]
 
 ## 7. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y11_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
 3. **Mark the cognitive ability screen** from its guide and record the four raw scores (Non-verbal / 12, Quantitative / 12, Verbal / 12, Processing speed / 60) and a one-line profile note on the grading sheet. The screen has no band.
 4. **Mark the optional sciences** from their mark scheme and record each science the student took (/ 15, band, NT, L) on the grading sheet; tick "not taken" for the others. If they were given on a second visit, record the date.
-5. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+5. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 6. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-7. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days. Write "Year 11, v3.1" beside the scores on it: the listening is out of 16, the reading paper is out of 16 (Parts A and B), the maths has three sub-scores, and the cognitive screen and the optional sciences have their own lines. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
+7. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days. Write "Year 11, v3.1" beside the scores on it: the listening is out of 16, the reading paper is out of 16 (Parts A and B), the maths has three sub-scores, and the cognitive screen and the optional sciences have their own lines. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
 8. **File the marked student paper, the screen booklet and the optional sciences booklet with them** (or shred them under the school's policy).
 
 **Year 11 only: readiness for joining the second year.** Read the results together with Section 6, then tick on the grading sheet the English course (English as a Second Language, First Language or to decide), the maths tier (Extended, Core or to decide), the science route (separate sciences, combined, fewer subjects or to decide), the readiness (Ready, Ready with support, Start in Year 10 or Not yet) and the support needed, list the subjects and topics to catch up, and give your reasons in the assessor's comment.

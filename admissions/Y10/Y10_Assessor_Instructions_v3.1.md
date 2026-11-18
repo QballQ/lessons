@@ -11,16 +11,16 @@ footer: Year 10 Admission Assessment v3.1 | Assessor instructions
 
 # Year 10 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y10/Y10_Student_Paper_v3.1`. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same 15 minutes. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
+**Version 3.1, October 2026.** Use with Year 10 student paper. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same 15 minutes. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y10_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 - **Listening** (16 marks): Part A is the version 1 talk, unchanged; **Part B** is the academic talk at the level of a lesson.
 - **Reading** (16 marks): Part A is the version 1 menu; Part B is the version 1 article "Ten Minutes of Nothing" (questions 8 to 14).
 - **Maths** (30 marks): three sections that are scored separately: **Fluency** (10), **Word questions** (8) and **Applied problems** (12). A scientific calculator is allowed in Section C only.
 - **Writing, science, the interview and the shared files are unchanged.**
 
-**Who this is for.** Students applying for **Year 10** (age 14 on 1 September), the first year of a **two-year IGCSE course**. A student from a Chinese mainstream school has usually **completed Grade 8 (初二)**; a student joining mid-year is partway through Grade 9 (初三). Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in `00_Admissions_Guide.md`.
+**Who this is for.** Students applying for **Year 10** (age 14 on 1 September), the first year of a **two-year IGCSE course**. A student from a Chinese mainstream school has usually **completed Grade 8 (初二)**; a student joining mid-year is partway through Grade 9 (初三). Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in the Full guide for staff.
 
 **What it measures.** The student's level of English in listening, reading, writing and speaking (bands A to E); their maths against all of Key Stage 3 and the start of the IGCSE Extended course, reported as three sub-scores (fluency, word questions and applied problems); their science against the end of Key Stage 3 (the UK Year 9 curriculum); and, through the interview, who they are, their future plans and their suitability for the programme. Section 6 explains how to read the results together to judge **readiness for IGCSE study in English**.
 
@@ -47,23 +47,23 @@ Marks go on the **grading sheet** (listening, writing, maths, science and readin
 **For each candidate:**
 
 - the Year 10 student paper, version 3.1;
-- the grading sheet (`Y10/Y10_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 7 to 10 (`forms/Interview_Sheet_Y7_Y10`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 7 to 10;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y7_Y10`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- the Interviewer guide for Years 7 to 10;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a clock or timer, a plain card to cover the sentences, and a scientific calculator for each student (with a pencil, rubber and ruler for each candidate).
 [[/cols]]
 [[/keep]]
 
-The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
+The parent conversation (Parent conversation record, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
 
 ## 2. Before you start
 
@@ -102,7 +102,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and you read each one twice. **Part A** is the version 1 careers day talk, unchanged: everyday listening. **Part B** is a short lesson-style talk with subject vocabulary, statistics, a correction and an implied opinion: the listening that IGCSE lessons need, at the level of a fluent speaker of 14 to 15.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y10/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 43 seconds and of Part B about 2 minutes 57 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 10 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 43 seconds and of Part B about 2 minutes 57 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a short talk by an engineer on a careers day at a school. I will read it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Read it again. Then give the student one more minute to finish.
 
@@ -174,7 +174,7 @@ Your sports hall has a large flat roof, and at the moment it is simply collectin
 | 15 | Speaker's attitude (implied) | **B**: she thinks they forget the cost of a city that is too hot | | A is the opposite of her view; C mixes in the later point about white roofs; D is not said. She never says the builders are wrong: the student must hear the irony in "I sometimes wonder how much they think a city that is too hot to live in will cost." |
 | 16 | Main idea or speaker's purpose | **B**: to explain a problem in cities and suggest how the school could help | | A exaggerates (she does not say cities will soon be too hot to live in); C is not said; D is one part of the talk, not its purpose. The ending ("Your sports hall has a large flat roof ... I'll leave you to think about what else it could be doing") carries the suggestion. |
 
-**What is in the Part B script** (for the English team): 465 words in 28 sentences (16.6 words a sentence on average); about 14% of the words are outside the 2000 most common English words (about 20.5% counting each word form separately; `wordfreq` lists, names left out). It explains a process and a chain of cause and effect (three causes, the vicious circle, the layers of a green roof); compares the city with the countryside, a dark roof with a green roof, and a green roof with a white one; gives statistics and a date; explains subject vocabulary in context (urban, the urban heat island effect, evapotranspiration, a drainage layer); corrects a number ("Actually, let me correct that"); implies opinions without stating them (the builders, white roofs, the sports hall); and uses discourse markers (first, second, third, as a result, whereas, on the other hand, however).
+**What is in the Part B script** (for the English team): 465 words in 28 sentences (16.6 words a sentence on average); about 14% of the words are outside the 2000 most common English words (about 20.5% counting each word form separately; wordfreq lists, names left out). It explains a process and a chain of cause and effect (three causes, the vicious circle, the layers of a green roof); compares the city with the countryside, a dark roof with a green roof, and a green roof with a white one; gives statistics and a date; explains subject vocabulary in context (urban, the urban heat island effect, evapotranspiration, a drainage layer); corrects a number ("Actually, let me correct that"); implies opinions without stating them (the builders, white roofs, the sports hall); and uses discourse markers (first, second, third, as a result, whereas, on the other hand, however).
 
 #### Band guide (version 2)
 
@@ -260,7 +260,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 | **Grammar and sentences** | No sentences. | Mostly simple sentences, some joined with and, but, because; frequent errors in verb forms, plurals and articles, but the meaning is clear. | A variety of sentence types used for effect, including complex sentences and some short sentences for impact; verb forms controlled; errors are rare and do not affect meaning. |
 | **Spelling and punctuation** | Mostly impossible to read. | Common words spelt correctly; capital letters and full stops mostly correct; errors in less common words. | Almost all words spelt correctly, including ambitious ones; a range of punctuation (commas in lists and after openers, question marks, apostrophes, colons) used correctly. |
 
-**Band by best fit**, using the descriptors in `00_Admissions_Guide.md`, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
+**Band by best fit**, using the descriptors in the Full guide for staff, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
 
 | Band | Writing at Year 10 entry |
 |---|---|
@@ -280,7 +280,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Interview, speaking and sentence reading (15 minutes, 1:1)
 
-The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). The sentence reading rules are in `shared/Sentence_Reading_Guide`, the student reads from `shared/Sentence_Reading_Card`, and the results go on the **Reading front sheet**. All are in English.
+The questions and the speaking band descriptors are in the **Interviewer guide** for Years 7 to 10, and the record is the **Interview sheet** for Years 7 to 10. The sentence reading rules are in Sentence reading guide, the student reads from Sentence reading card, and the results go on the **Reading front sheet**. All are in English.
 
 - **Sentence reading first** (3 to 5 minutes). Year 10 starts at **Level 9 (sentence 25)**. Follow the start, going-back and stopping rules and the scoring in the guide. It gives total points out of 72, an indicative reading age, meaning checks and a fluency rating, which you record on the Reading front sheet. If you already know the student is new to English, start at Level 1.
 - **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **future plans and aspirations** and the **Year 10 only** questions about IGCSE subject choices and starting a two-year course in English. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2, the same for every candidate.
@@ -357,7 +357,7 @@ The example box at the start of Section A shows what the command words and symbo
 | **Fluency and word questions high**, **applied low** (5 or less out of 12) | The student calculates and sets up equations well but is less practised in multi-step problems in context, choosing a method and explaining a decision. Check the NT topics first: questions 13 to 16 include Grade 9 and early IGCSE content. | Teaching in problem solving and explaining, not more content. Practice with "explain" and "show that" questions. |
 | **All three high** (band 4) | A strong mathematician who can read and apply. | Extended tier; likely top set. |
 | **Fluency low, word questions and applied higher** | Unusual for a student from a Chinese mainstream school; more common from a bilingual or international school where formal algebra comes later. | Check which algebra has been taught. The Extended tier may still fit, with an algebra catch-up plan and a review after one term. |
-| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9). |
+| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. | Further assessment before a decision (the Full guide for staff, Section 9). |
 
 #### What to look for
 
@@ -400,7 +400,7 @@ The example box at the start of Section A shows what the command words and symbo
 
 | English band | What it usually means for IGCSE study in English | English course that may fit best |
 |---|---|---|
-| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to a two-year IGCSE course is not usually advisable (`00_Admissions_Guide.md`, Section 9). | A preparatory or foundation route, or a later start, if the school has one. |
+| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to a two-year IGCSE course is not usually advisable (the Full guide for staff, Section 9). | A preparatory or foundation route, or a later start, if the school has one. |
 | **B** Early acquisition | Can follow simple, supported lessons, but IGCSE texts and exam questions will be very hard for most of Year 10. | Only with an English as a Second Language course, a reduced subject load and close review, if the school's policy allows. |
 | **C** Developing competence | Can follow most lessons with support; subject vocabulary and extended writing will slow progress. Maths and the sciences are usually more accessible than essay-based subjects. | **English as a Second Language**, with support for subject language. |
 | **D** Competent | Usually ready for IGCSE courses taught in English, with some support for academic writing. | English as a Second Language at the higher level, or First Language English if reading is band E **and** writing is a strong D or E (see below). Check with the English department. |
@@ -425,7 +425,7 @@ The example box at the start of Section A shows what the command words and symbo
 | Fluency and word questions secure, applied 5 or less | **Extended tier**, with teaching in problem solving, choosing a method and explaining ("show that", "explain"). Review after one term. |
 | Band 2 (11 to 16), mostly NT and L | **Extended tier is still possible**: judge the band once taught, and review after six weeks. |
 | Band 2 with errors on taught topics (questions 1, 3, 4, 7, 8, 10, 11) | **Core tier at first**, with a learning plan for the gaps and a review after one term; move to Extended if the gaps close. |
-| Band 1 not explained by NT or English | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9). If an offer follows, maths support and the Core tier at first. A band 1 that NT or L does explain is treated as band 2 (the guide, Section 9). |
+| Band 1 not explained by NT or English | Further assessment before a decision (the Full guide for staff, Section 9). If an offer follows, maths support and the Core tier at first. A band 1 that NT or L does explain is treated as band 2 (the guide, Section 9). |
 
 **Science.** No chemistry is normal for this age group (science questions 6 and 7 NT). Look at question 4 and the biology and physics questions. Strong science (band 3 or 4) with English D or E may suit separate sciences; with English B or C, a combined or co-ordinated science course, or fewer science subjects in the first year, may be more manageable while English grows.
 
@@ -438,21 +438,21 @@ The example box at the start of Section A shows what the command words and symbo
 | English C; maths fluency high, word questions well below it | Strong maths; English is the barrier. | English as a Second Language with subject-language support; Extended maths with vocabulary support; not too many essay-based subjects in Year 10. |
 | English C or D; maths fluency and word questions high, applied low | Strong calculation and algebra; less practised in problem solving and explaining. | Extended maths with explicit teaching of problem solving and "explain" questions; review after one term. |
 | English C; maths 2 with NT on Grade 9 and early IGCSE topics; chemistry NT | Likely to manage with support. | English as a Second Language; a learning plan for the NT maths topics and for chemistry; maths tier decided after a six-week review. |
-| English B, any maths and science | The English gap is too wide for most IGCSE content in two years without intensive support. | Offer only with an English as a Second Language course, a reduced subject load and close review, if the school's policy allows; otherwise discuss a preparatory route or a later start (`00_Admissions_Guide.md`, Section 9). |
-| English D or E; maths band 1 on taught topics | Not an English issue. | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9): look for gaps in earlier learning or a possible learning need. If an offer follows, maths support and the Core tier at first. |
+| English B, any maths and science | The English gap is too wide for most IGCSE content in two years without intensive support. | Offer only with an English as a Second Language course, a reduced subject load and close review, if the school's policy allows; otherwise discuss a preparatory route or a later start (the Full guide for staff, Section 9). |
+| English D or E; maths band 1 on taught topics | Not an English issue. | Further assessment before a decision (the Full guide for staff, Section 9): look for gaps in earlier learning or a possible learning need. If an offer follows, maths support and the Core tier at first. |
 | Strong results, but the interview shows the IGCSE plan is the family's, not the student's | Readiness is not only academic. | Talk with the family and student about subject choices and workload before an offer (Interview sheet, suitability strands). A serious mismatch, or any strand rated 1, goes to the head of section before any offer. |
 
-Use the Year 10 interview questions (IGCSE subject choices, managing a two-year course in English) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for IGCSE boxes and the assessor's comment) and on the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+Use the Year 10 interview questions (IGCSE subject choices, managing a two-year course in English) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for IGCSE boxes and the assessor's comment) and on the final mark sheet.
 
 [[keep]]
 
 ## 7. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y10_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
-3. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
+3. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 4. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days. Write "v3.1" beside the scores on it: the listening is out of 16 (as in version 2), the reading paper is out of 16 (Parts A and B only) and the maths has three sub-scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
+5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days. Write "v3.1" beside the scores on it: the listening is out of 16 (as in version 2), the reading paper is out of 16 (Parts A and B only) and the maths has three sub-scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
 6. **File the marked student paper with them** (or shred it under the school's policy).
 
 **Year 10 only: readiness for IGCSE.** Read the results together with Section 6, then tick on the grading sheet the English course (English as a Second Language, First Language or to decide), the maths tier (Extended, Core or to decide), the readiness (Ready, Ready with support or Not yet) and the maths support (English of maths, problem solving, content gaps or none), and give your reasons in the assessor's comment.

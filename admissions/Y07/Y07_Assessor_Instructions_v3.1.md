@@ -5,11 +5,11 @@ footer: Year 7 Admission Assessment v3.1 | Assessor instructions
 ---
 # Year 7 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y07/Y07_Student_Paper_v3.1`. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
+**Version 3.1, October 2026.** Use with Year 7 student paper. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y07_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
-For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7 entrant from a Chinese mainstream school has usually **completed Grade 5** and is the same age as a student starting Grade 6. The maths paper starts at the level expected for entry to Year 7 (the end of UK Year 6) and goes well beyond it, so several topics (dividing fractions, powers, negative numbers, percentages, expanding brackets, equations with the unknown on both sides, the nth term, vertically opposite angles) **may not have been taught yet**. Section 4 lists them. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.
+For students applying to join **Year 7** (age 11 to 12 on 1 September). A Year 7 entrant from a Chinese mainstream school has usually **completed Grade 5** and is the same age as a student starting Grade 6. The maths paper starts at the level expected for entry to Year 7 (the end of UK Year 6) and goes well beyond it, so several topics (dividing fractions, powers, negative numbers, percentages, expanding brackets, equations with the unknown on both sides, the nth term, vertically opposite angles) **may not have been taught yet**. Section 4 lists them. Background, the English bands and the decision guide are in the Full guide for staff.
 
 ## 1. At a glance
 
@@ -32,18 +32,18 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 **For each candidate:**
 
 - the Year 7 v3.1 student paper (20 pages, A4);
-- the grading sheet (`Y07/Y07_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 7 to 10 (`forms/Interview_Sheet_Y7_Y10`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 7 to 10;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y7_Y10`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- the Interviewer guide for Years 7 to 10;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a pencil, a rubber and a ruler for each candidate, a clock or timer, a plain card to cover the sentences, and water for the break.
 [[/cols]]
 [[/keep]]
@@ -56,7 +56,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 **Pace of speech.** Many Year 7 students are still learning English: speak steadily and clearly, with a short pause after each sentence, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
-**Access rules** (the same in every year group; details in `00_Admissions_Guide.md`, Section 7)
+**Access rules** (the same in every year group; details in the Full guide for staff, Section 7)
 
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
@@ -75,7 +75,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 Two parts, each read twice. **Part A** is everyday listening: the version 1 task, unchanged (questions 1 to 8). **Part B** is academic listening: a short lesson at the level of a science lesson for a fluent student of 11 or 12 (questions 9 to 16). Read Part A, let the student finish, then go straight on to Part B. The recording takes about 13 minutes: both scripts twice, one minute to read each set of questions and the time to finish.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y07/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 32 seconds and of Part B about 2 minutes 20 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 7 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 32 seconds and of Part B about 2 minutes 20 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: a phone message (questions 1 to 8, 8 marks)
 
@@ -144,7 +144,7 @@ Two parts, each read twice. **Part A** is everyday listening: the version 1 task
 > So, next time someone tells you that a desert is an empty place, you might ask them how carefully they have looked.
 [[/keep]]
 
-**What the talk contains** (measured from the script above): 364 words in 23 sentences, an average of 16 words per sentence. 23% of its words are not among the 2000 most common English words in the `wordfreq` lists; with the method of `02_Listening_Evidence_Statement` (word endings matched, names of places not counted) the figure is about 19%, against 6 to 15% for the version 1 scripts. Features: a process (how the beetle collects water) and cause and effect (spines, so less water escapes); comparisons (a cactus and most plants; the fennec fox and the Arctic fox; desert and Shanghai rainfall); numbers (250 millimetres, more than a thousand, a third, a few hours); subject words explained in passing (precipitation, evaporates, adaptations, habitat, nocturnal); a self-correction ("Actually, I need to correct that"); a misconception corrected ("In fact"); an opinion that is implied, not stated (the last sentence); discourse markers (however, while, by comparison, on the other hand, as a result, whereas, in fact, though).
+**What the talk contains** (measured from the script above): 364 words in 23 sentences, an average of 16 words per sentence. 23% of its words are not among the 2000 most common English words in the wordfreq lists; with the method of Listening evidence statement (word endings matched, names of places not counted) the figure is about 19%, against 6 to 15% for the version 1 scripts. Features: a process (how the beetle collects water) and cause and effect (spines, so less water escapes); comparisons (a cactus and most plants; the fennec fox and the Arctic fox; desert and Shanghai rainfall); numbers (250 millimetres, more than a thousand, a third, a few hours); subject words explained in passing (precipitation, evaporates, adaptations, habitat, nocturnal); a self-correction ("Actually, I need to correct that"); a misconception corrected ("In fact"); an opinion that is implied, not stated (the last sentence); discourse markers (however, while, by comparison, on the other hand, as a result, whereas, in fact, though).
 
 **Answers.** One mark each (questions 12 and 13 are one mark per gap). Spelling does not matter if the meaning is clear. Short answers and notes are fine: the writing is not marked here. Answers must be in English. The questions follow the order of the talk; question 16 is about the whole talk.
 
@@ -235,7 +235,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 - **Task 1 (narrative):** a story that begins "When Mei opened the box, she could not believe her eyes."
 - **Task 2 (opinion):** "The school summer holiday should be shorter." Do you agree?
 
-**Marking.** Score each criterion 0 to 4 (1 and 3 are between the descriptions). Total / 16. Then give the band by **best fit** with the descriptors in `00_Admissions_Guide.md`, Section 6, using the total only as a check.
+**Marking.** Score each criterion 0 to 4 (1 and 3 are between the descriptions). Total / 16. Then give the band by **best fit** with the descriptors in the Full guide for staff, Section 6, using the total only as a check.
 
 | Criterion | 0 | 2 | 4 |
 |---|---|---|---|
@@ -255,7 +255,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Speaking and sentence reading (the interview, 15 minutes)
 
-The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in `shared/Sentence_Reading_Guide`; the student reads from `shared/Sentence_Reading_Card`; the results go on the **Reading front sheet**. For Year 7, **start at Level 6 (sentence 16)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
+The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** for Years 7 to 10, and the record is the **Interview sheet** for Years 7 to 10. It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in Sentence reading guide; the student reads from Sentence reading card; the results go on the **Reading front sheet**. For Year 7, **start at Level 6 (sentence 16)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
 
 **Pace.** Ask the questions at the pace in Section 2, the same for every candidate.
 
@@ -370,10 +370,10 @@ Usually **familiar**: decimals, including dividing by a decimal (Grade 5); addin
 ## 6. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y07_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen, any access arrangements and your comment.
-3. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen, any access arrangements and your comment.
+3. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 4. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days. The overall English band is the band most of the four skills sit in: name any skill that is two or more bands below the others.
+5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days. The overall English band is the band most of the four skills sit in: name any skill that is two or more bands below the others.
 6. **File the marked student paper with them** (or shred it under the school's policy).
 
 [[/keep]]

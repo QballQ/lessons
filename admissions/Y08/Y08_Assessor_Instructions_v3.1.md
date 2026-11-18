@@ -5,11 +5,11 @@ footer: Year 8 Admission Assessment v3.1 | Assessor instructions
 ---
 # Year 8 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y08/Y08_Student_Paper_v3.1`. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
+**Version 3.1, October 2026.** Use with Year 8 student paper. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y08_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
-For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8 entrant from a Chinese mainstream school has usually **completed Grade 6** (the end of primary school) and is the same age as a student starting Grade 7 (初一). The version 2 maths paper starts at the level expected on entry to Year 8 (the end of UK Year 7) and goes well beyond it, into Year 8 content, so expanding and factorising, equations with the unknown on both sides, inequalities, index laws, standard form, probability as a number and the mean from a frequency table **may not have been taught yet** (Section 4). A Year 8 entrant has usually done **no secondary science**: the science paper tests UK Year 7 content, so read the science score with the NT notes in Section 5. Background, the English bands and the decision guide are in `00_Admissions_Guide.md`.
+For students applying to join **Year 8** (age 12 to 13 on 1 September). A Year 8 entrant from a Chinese mainstream school has usually **completed Grade 6** (the end of primary school) and is the same age as a student starting Grade 7 (初一). The version 2 maths paper starts at the level expected on entry to Year 8 (the end of UK Year 7) and goes well beyond it, into Year 8 content, so expanding and factorising, equations with the unknown on both sides, inequalities, index laws, standard form, probability as a number and the mean from a frequency table **may not have been taught yet** (Section 4). A Year 8 entrant has usually done **no secondary science**: the science paper tests UK Year 7 content, so read the science score with the NT notes in Section 5. Background, the English bands and the decision guide are in the Full guide for staff.
 
 ## 1. At a glance
 
@@ -32,18 +32,18 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 **For each candidate:**
 
 - the Year 8 student paper, version 3.1 (20 pages, A4; print it double-sided, so that the listening Part B pages, 4 and 5, face each other);
-- the grading sheet (`Y08/Y08_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 7 to 10 (`forms/Interview_Sheet_Y7_Y10`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 7 to 10;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y7_Y10`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- the Interviewer guide for Years 7 to 10;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a pencil, a rubber and a ruler for each candidate, a clock or timer, a plain card to cover the sentences, and water for the break.
 [[/cols]]
 [[/keep]]
@@ -66,7 +66,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 **Pace of speech.** Many Year 8 students are still learning English: speak steadily and clearly, with a short pause after each sentence, when you give instructions, read the listening scripts and read maths and science questions aloud. Use the same pace for every candidate, so that the results can be compared. The listening recording is paced the same way.
 
 [[keep]]
-**Access rules** (the same in every year group; details in `00_Admissions_Guide.md`, Section 7)
+**Access rules** (the same in every year group; details in the Full guide for staff, Section 7)
 
 | | English sections (listening, reading, writing, sentence reading) | Maths and science |
 |---|---|---|
@@ -86,7 +86,7 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 
 There are two parts. **Part A** is the everyday conversation from version 1, unchanged. **Part B** is a short talk at the level of a lesson for a fluent student of 12 to 13.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y08/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 35 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 8 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 35 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 #### Part A: Mei and Amir talk about the charity fair (questions 1 to 8, about 5 minutes)
 
@@ -153,7 +153,7 @@ There are two parts. **Part A** is the everyday conversation from version 1, unc
 
 **Read it twice at the steady pace in Section 2**, as a teacher would give a short talk. Pause for about 2 seconds at each [pause]. After the first reading, say "Now listen again" and read it again. After the second reading, give one minute to finish. Do not repeat any part, do not explain any word, and do not answer questions about the talk. Practise the talk aloud once before the day. Say these words clearly: **decibels** (DESS-ih-bels), **adrenaline** (a-DREN-a-lin), **chronic** (KRON-ik), **Munich** (MYOO-nik).
 
-**About the talk** (for the English team). 389 words in 25 sentences (average 15.6 words); 19% of the words are outside the 2000 most common English word forms (15% after simple ending rules, names left out; method as in `02_Listening_Evidence_Statement`, Section 6). Features: a process and a chain of cause and effect (questions 11 and 15), comparisons and contrasts (a fountain and a street; the old and new airports), numbers and a statistic, subject words explained in passing (decibels, hormones, chronic), a correction ("Actually, that's not quite right", question 10), an opinion that is implied, not stated (question 14), and discourse markers (as a result, however, whereas, on the other hand, interestingly). The facts are simplified but sound: decibels and loudness, the stress response, European traffic noise figures and the Munich airport study (children's reading and memory near the old and new airports, 1992 onwards).
+**About the talk** (for the English team). 389 words in 25 sentences (average 15.6 words); 19% of the words are outside the 2000 most common English word forms (15% after simple ending rules, names left out; method as in Listening evidence statement, Section 6). Features: a process and a chain of cause and effect (questions 11 and 15), comparisons and contrasts (a fountain and a street; the old and new airports), numbers and a statistic, subject words explained in passing (decibels, hormones, chronic), a correction ("Actually, that's not quite right", question 10), an opinion that is implied, not stated (question 14), and discourse markers (as a result, however, whereas, on the other hand, interestingly). The facts are simplified but sound: decibels and loudness, the stress response, European traffic noise figures and the Munich airport study (children's reading and memory near the old and new airports, 1992 onwards).
 
 [[keep]]
 > **Script: Dr Lin's talk about noise in cities**
@@ -268,7 +268,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 - **Task 1 (descriptive):** describe a busy place you know well, for example a train station at Spring Festival, a night market or a sports match.
 - **Task 2 (persuasive):** a speech to the class persuading students to waste less food in the school canteen.
 
-**Marking.** Score each criterion 0 to 4 (1 and 3 are between the descriptions). Total / 16. Then give the band by **best fit** with the descriptors in `00_Admissions_Guide.md`, Section 6, using the total only as a check.
+**Marking.** Score each criterion 0 to 4 (1 and 3 are between the descriptions). Total / 16. Then give the band by **best fit** with the descriptors in the Full guide for staff, Section 6, using the total only as a check.
 
 | Criterion | 0 | 2 | 4 |
 |---|---|---|---|
@@ -288,7 +288,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Speaking and sentence reading (the interview, 15 minutes)
 
-The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in `shared/Sentence_Reading_Guide`; the student reads from `shared/Sentence_Reading_Card`; the results go on the **Reading front sheet**. For Year 8, **start at Level 7 (sentence 19)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
+The interview is 1:1. The questions and the speaking band descriptors are in the **Interviewer guide** for Years 7 to 10, and the record is the **Interview sheet** for Years 7 to 10. It opens with the **Graded Sentence Reading Screen**: the rules, your copy of the sentences and the meaning questions, and the reading age table are in Sentence reading guide; the student reads from Sentence reading card; the results go on the **Reading front sheet**. For Year 8, **start at Level 7 (sentence 19)**, and follow the rules in the guide for going back, stopping, the meaning checks and fluency. If you already know the student is new to English, start at Level 1. Then use the interview questions (school and learning, interests, friends and wellbeing, future plans and aspirations, values, an opinion question) and give the **speaking band** with the descriptors in the Interviewer guide, recording it on the Interview sheet.
 
 **Pace.** Ask the questions at the pace in Section 2, the same for every candidate.
 
@@ -409,10 +409,10 @@ Usually **familiar**: HCF and LCM (Grade 5); fractions, decimals and percentages
 ## 6. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y08_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen, any access arrangements and your comment.
-3. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen, any access arrangements and your comment.
+3. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 4. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days. The overall English band is the band most of the four skills sit in: name any skill that is two or more bands below the others.
+5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days. The overall English band is the band most of the four skills sit in: name any skill that is two or more bands below the others.
 6. **File the marked student paper with them** (or shred it under the school's policy).
 
 [[/keep]]

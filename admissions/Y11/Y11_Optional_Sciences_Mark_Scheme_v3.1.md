@@ -10,9 +10,9 @@ footer: Year 11 Admission Assessment v3.1 | Optional sciences, mark scheme
 
 # Year 11 Admission Assessment v3.1: optional sciences, mark scheme
 
-**Version 3.1, October 2026.** Use with `Y11/Y11_Optional_Sciences_v3.1` (the student paper: Biology, Chemistry and Physics, 15 marks and 15 minutes each). The core science paper (10 marks, everyone) is in the main student paper and its assessor instructions; this document covers only the optional sciences.
+**Version 3.1, October 2026.** Use with Year 11 optional sciences paper (the student paper: Biology, Chemistry and Physics, 15 marks and 15 minutes each). The core science paper (10 marks, everyone) is in the main student paper and its assessor instructions; this document covers only the optional sciences.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y11_Grading_Sheet_v3.1`): each science out of 15, the band, NT and L, and a "not taken" tick for any science not sat.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**: each science out of 15, the band, NT and L, and a "not taken" tick for any science not sat.
 
 **Who this is for.** Students applying for **Year 11** (age 15 on 1 September), who join the **second year of a two-year IGCSE course**. A student from a Chinese mainstream school has usually **completed Grade 9 (初三)**: biology in Grades 7 and 8, physics in Grades 8 and 9 (including electricity and magnetism), and chemistry in Grade 9 only (atoms, the periodic table, acids and bases, simple equations and mass calculations by proportion; **the mole is not taught** before 高一). A student joining mid-year is partway through Grade 10 (高一). Ask which grade and textbooks the student has used.
 
@@ -151,20 +151,20 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 | Band 3 or 4; English C | The science is secure; the English of science is the risk. | Separate science with support for subject language (key vocabulary, command words, writing explanations), and not too many essay-based subjects. Review after one term. |
 | Band 2 with NT explaining most of the gap | Likely to manage with a structured catch-up. | Separate science with a written catch-up plan for the first-year topics (the NT list) and a review at half term; consider a bridging course. |
 | Band 2 with errors on taught topics (the "Secure" rows above) | The first year of this science is not secure, and the second year builds on it. | Combined or co-ordinated science (if the school offers it), or fewer separate sciences, or a **Year 10 start** if the student's age allows; discuss with the family. |
-| Band 1 not explained by NT or English | Joining this science a year in is not advisable. | Not this separate science in Year 11; a Year 10 start or a different subject mix. If the band 1 is across all three sciences with English D or E, further assessment before a decision (`00_Admissions_Guide.md`, Section 9). |
+| Band 1 not explained by NT or English | Joining this science a year in is not advisable. | Not this separate science in Year 11; a Year 10 start or a different subject mix. If the band 1 is across all three sciences with English D or E, further assessment before a decision (the Full guide for staff, Section 9). |
 | Strong in two sciences, band 1 or 2 in the third | Usual profile: strength and interest are uneven. | Offer the two strong sciences; take the third only with a catch-up plan and the student's own commitment (check in the interview). |
 | Good bands, but English B | The science can be followed with pictures and formulae; the exam papers cannot yet be read or written. | Only with an ESL course, a reduced subject load and close review, if the school's policy allows; otherwise discuss a preparatory route or a Year 10 start. |
 
-Record the readiness judgement for the science route (separate sciences, combined, or fewer subjects) on the grading sheet's readiness box and in the final mark sheet (`forms/Candidate_Summary_and_Decision`), with the NT topics named as the catch-up plan.
+Record the readiness judgement for the science route (separate sciences, combined, or fewer subjects) on the grading sheet's readiness box and in the final mark sheet, with the NT topics named as the catch-up plan.
 
 [[keep]]
 
 ## 6. Recording the results
 
 1. **Mark each science on the paper.** Every question has a mark box; write NT and L in the margin where they apply.
-2. **Copy each total onto the grading sheet** (`Y11_Grading_Sheet_v3.1`): Biology / 15, Chemistry / 15, Physics / 15, each with its band (1 to 4), the NT topics, the number of L questions, and a tick in "not taken" for any science not sat.
+2. **Copy each total onto the grading sheet**: Biology / 15, Chemistry / 15, Physics / 15, each with its band (1 to 4), the NT topics, the number of L questions, and a tick in "not taken" for any science not sat.
 3. **Write the assessor's comment**: the NT topics for each science (the catch-up plan), the English words that were a barrier, what the working-scientifically and explain questions showed, and whether the calculator was used.
 4. **Judge readiness** for the science route with Section 5, together with the English bands and the core science result, and tick it on the grading sheet's readiness box.
-5. **Complete the final mark sheet** (`forms/Candidate_Summary_and_Decision`) with the other results within two working days, and **file the marked paper** with the student's papers (or shred it under the school's policy).
+5. **Complete the final mark sheet** with the other results within two working days, and **file the marked paper** with the student's papers (or shred it under the school's policy).
 
 [[/keep]]

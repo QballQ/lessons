@@ -11,7 +11,7 @@ footer: Year 11 Admission Assessment v3.1 | Grading sheet
 
 [[namegrid:Candidate name,Candidate number,Date of birth,Current school,Date of assessment,Assessor]]
 
-**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (answers and mark schemes: `Y11_Assessor_Instructions_v3.1`), the screen from its guide and the optional sciences from their mark scheme. Copy the totals here and give the bands from the guide below. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
+**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (answers and mark schemes: Year 11 assessor instructions), the screen from its guide and the optional sciences from their mark scheme. Copy the totals here and give the bands from the guide below. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
 
 <div class="gs" markdown="1">
 
@@ -54,7 +54,7 @@ footer: Year 11 Admission Assessment v3.1 | Grading sheet
 
 [[keep]]
 
-#### Readiness for joining Year 11, the second year of IGCSE (Section 6 of `Y11_Assessor_Instructions_v3.1`; read the results together first)
+#### Readiness for joining Year 11, the second year of IGCSE (Section 6 of Year 11 assessor instructions; read the results together first)
 
 | Decision | Tick one in each row |
 |---|---|
@@ -68,7 +68,7 @@ footer: Year 11 Admission Assessment v3.1 | Grading sheet
 
 [[lines:3]]
 
-#### Band guide at a glance (full guide and judgement notes: `Y11_Assessor_Instructions_v3.1`)
+#### Band guide at a glance (full guide and judgement notes: Year 11 assessor instructions)
 
 | Band | Listening (/ 16) | Writing (/ 16; best fit decides) | Maths (/ 30) | Core science (/ 10) | Each optional science (/ 15) |
 |---|---|---|---|---|---|

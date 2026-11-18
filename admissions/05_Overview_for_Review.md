@@ -11,14 +11,14 @@ footer: Admissions Assessment | Overview for review
 
 | Folder | What is in it | Who uses it | Print? |
 |---|---|---|---|
-| `01_Start_Here` | The admissions team pack and four one-page day sheets, for Years 1 to 3, 4 to 6, 7 to 10, and 11 and 12 | Admissions team, assessors | Once. Pin up the day sheet |
-| `02_Print_For_Each_Candidate` | One PDF for each year group with everything for one candidate | Admissions | Yes: one for every candidate, double-sided |
-| `03_Print_Once_Assessor_Folders` | **The detailed back-up:** the assessor instructions (scripts, answers, mark schemes, band guides), the interviewer guide and the sentence reading guide, one folder for each year group; the reading cards | Assessors, the principal as interviewer | Once, kept in a folder. Laminate the cards |
-| `04_Listening_Recordings` | A recording for every year group, with a read-me | Assessors | No: play on a laptop or phone |
-| `05_Send_Before_The_Visit` | The previous homeroom teacher reference (English and Chinese) | Admissions | Send to the student's current school |
-| `06_Full_Guide_And_Evidence` | The full guide for staff, the reading books list, the listening evidence statement, the version register | Head of School or Deputy, the English team | Keep as background |
-| `07_Single_Sheets` | Every sheet as a separate PDF | Admissions | Only to reprint one sheet |
-| `08_Admissions_Tracker` | The tracking workbook (Excel): a sheet for each year group that feeds a dashboard of stages, levels, decisions and support; a `DEMO` copy with fictional candidates | Admissions | No: used on screen |
+| 01 Start here | The admissions team pack and four one-page day sheets, for Years 1 to 3, 4 to 6, 7 to 10, and 11 and 12 | Admissions team, assessors | Once. Pin up the day sheet |
+| 02 Print for each candidate | One PDF for each year group with everything for one candidate | Admissions | Yes: one for every candidate, double-sided |
+| 03 Print once assessor folders | **The detailed back-up:** the assessor instructions (scripts, answers, mark schemes, band guides), the interviewer guide and the sentence reading guide, one folder for each year group; the reading cards | Assessors, the principal as interviewer | Once, kept in a folder. Laminate the cards |
+| 04 Listening recordings | A recording for every year group, with a read-me | Assessors | No: play on a laptop or phone |
+| 05 Send before the visit | The previous homeroom teacher reference (English and Chinese) | Admissions | Send to the student's current school |
+| 06 Full guide and evidence | The full guide for staff, the reading books list, the listening evidence statement, the version register | Head of School or Deputy, the English team | Keep as background |
+| 07 Single sheets | Every sheet as a separate PDF | Admissions | Only to reprint one sheet |
+| 08 Admissions tracker | The tracking workbook (Excel): a sheet for each year group that feeds a dashboard of stages, levels, decisions and support; a DEMO copy with fictional candidates | Admissions | No: used on screen |
 
 **What is in a candidate pack, in order.** The student paper; the grading sheet; the Reading front sheet; the Interview sheet; the parent conversation record; the final mark sheet; and the **assessment result and report**, the one-sheet front cover that goes with the marked papers once the decision is confirmed. Years 1 to 3 also have the Early Reading Screen record, of which only the sheets needed are printed.
 
@@ -38,6 +38,6 @@ footer: Admissions Assessment | Overview for review
 3. From the team pack alone, could you print the right pack for a Year 5 candidate and know what to do next?
 4. Is anything missing that admissions would expect (a parent letter, a booking form, a results letter)?
 5. Is anything repeated, or confusing to find?
-6. Open the `DEMO` tracker: does the Dashboard show what the head of admissions would want to see, and is a Year sheet easy to fill in?
+6. Open the DEMO tracker: does the Dashboard show what the head of admissions would want to see, and is a Year sheet easy to fill in?
 
 **Still to do before it is used with families.** A maths and English teacher read-through of the papers and grading sheets; listening to each recording (the voices are text to speech); a native-speaker check of the Chinese text in the homeroom teacher reference; one open maths wording question in Year 2; checking the result and report against the school's policy on sharing results; and a trial with one student in each phase. The bands are provisional until about 20 to 30 students have been assessed.

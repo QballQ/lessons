@@ -5,9 +5,9 @@ footer: Interviewer guide | Years 11 and 12
 ---
 # Interviewer guide: Years 11 and 12
 
-**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** (`forms/Interview_Sheet_Y11_Y12`).
+**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** for Years 11 and 12.
 
-**About 15 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme at post-16 (Year 11 joins the second year of IGCSE; Year 12 joins the first year of A Level). It opens with the Graded Sentence Reading Screen (3 to 5 minutes; start Level 9 for both Year 11 and Year 12; follow `shared/Sentence_Reading_Guide` and write the points on the Reading front sheet, `forms/Reading_Front_Sheet`).
+**About 15 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme at post-16 (Year 11 joins the second year of IGCSE; Year 12 joins the first year of A Level). It opens with the Graded Sentence Reading Screen (3 to 5 minutes; start Level 9 for both Year 11 and Year 12; follow Sentence reading guide and write the points on the Reading front sheet, Reading front sheet).
 
 **How to ask.** Start with the main question. If the student struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. This lets every student show their best English. Wait at least five seconds before rephrasing. Answers must be in English.
 

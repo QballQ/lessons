@@ -32,13 +32,13 @@ footer: Early Reading Screen | Instructions
 
 # Early Reading Screen: instructions
 
-**What it is.** A one-to-one reading screen for children joining **Years 1 to 3**, and for an **older student who is new to English**. It shows where the child's **decoding** is (letter sounds, phonics, tricky words) and the **book band** they can read with understanding. It takes **about 10 to 12 minutes** at most; the start points keep it shorter for most children. All of it is in English: finding the child's level of English reading is one of its main purposes. The year group assessor instructions say where to start; the results go on the Reading front sheet (`forms/Reading_Front_Sheet`) and the final mark sheet.
+**What it is.** A one-to-one reading screen for children joining **Years 1 to 3**, and for an **older student who is new to English**. It shows where the child's **decoding** is (letter sounds, phonics, tricky words) and the **book band** they can read with understanding. It takes **about 10 to 12 minutes** at most; the start points keep it shorter for most children. All of it is in English: finding the child's level of English reading is one of its main purposes. The year group assessor instructions say where to start; the results go on the Reading front sheet and the final mark sheet.
 
 **What to print**
 
-- **Reading cards** (`Early_Reading_Screen_Cards`): once, in plastic sleeves. The child reads from these.
-- **Instructions** (this guide, `Early_Reading_Screen_Guide`): once, for the assessor's folder.
-- **Record sheets** (`Early_Reading_Screen_Record`, Sheets 1 to 13): one set for each child. You only need the running record sheets for the passages you use.
+- **Reading cards** (Early Reading Screen cards): once, in plastic sleeves. The child reads from these.
+- **Instructions** (this guide, Early Reading Screen guide): once, for the assessor's folder.
+- **Record sheets** (Early Reading Screen record, Sheets 1 to 13): one set for each child. You only need the running record sheets for the passages you use.
 
 ## 1. At a glance
 
@@ -322,7 +322,7 @@ Each passage is matched to a book band and an Oxford Level (the levels used for 
 
 ### 5.5 Using a real levelled book instead
 
-- You may use a real levelled book at the same band instead of a passage, for example an Oxford Reading Tree book from the school's assessment set. The book list is in `01_Reading_Books_and_Materials.md`.
+- You may use a real levelled book at the same band instead of a passage, for example an Oxford Reading Tree book from the school's assessment set. The book list is in Reading books and materials list.
 - Choose a book the child has not read. Ask: "Have you read this book before?"
 - Use the same method: introduce it with the title and one sentence, then use the same marks, error rules, accuracy levels, self-correction rate and fluency scale.
 - Pink to Yellow: use the whole book. Light Blue and above: use a section of about 100 to 150 words, and count the words before you start.

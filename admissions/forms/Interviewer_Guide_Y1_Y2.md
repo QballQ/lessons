@@ -5,9 +5,9 @@ footer: Interviewer guide | Years 1 and 2
 ---
 # Interviewer guide: Years 1 and 2
 
-**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each child go on the **Interview sheet** (`forms/Interview_Sheet_Y1_Y2`).
+**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each child go on the **Interview sheet** for Years 1 and 2.
 
-**About 6 minutes, 1:1, play-based.** Most of what you need about a 5 or 6 year old comes from watching them during the whole visit, not from questions. This short chat, at the end of the visit, is **in English**. It has three jobs: to hear the child's spoken English, to get to know the child (likes, family, friends, **what they want to be**), and to judge their readiness for the international programme. Use the list in Section 3 for the whole visit, and tick it on the Interview sheet. The sentence reading is not part of this chat: in Years 1 to 3 the assessor runs the Graded Sentence Reading Screen (`shared/Sentence_Reading_Guide`) after the Early Reading Screen and writes the points on the Reading front sheet.
+**About 6 minutes, 1:1, play-based.** Most of what you need about a 5 or 6 year old comes from watching them during the whole visit, not from questions. This short chat, at the end of the visit, is **in English**. It has three jobs: to hear the child's spoken English, to get to know the child (likes, family, friends, **what they want to be**), and to judge their readiness for the international programme. Use the list in Section 3 for the whole visit, and tick it on the Interview sheet. The sentence reading is not part of this chat: in Years 1 to 3 the assessor runs the Graded Sentence Reading Screen (Sentence reading guide) after the Early Reading Screen and writes the points on the Reading front sheet.
 
 **How to do it.** Sit on the floor or at a low table beside the child. Offer paper and crayons: "Can you draw you, doing something you love?" Talk about the drawing. Ask the main question first; if the child does not answer, use the **easier** prompt (a choice, a yes or no, or "show me"). Wait. Praise effort. Never press a child who is upset; stop and let them go back to their parent.
 

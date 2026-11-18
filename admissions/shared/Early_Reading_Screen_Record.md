@@ -32,7 +32,7 @@ footer: Early Reading Screen | Record sheets
 
 # Early Reading Screen: record sheets
 
-One set for each child. Instructions, scripts and marking rules are in `Early_Reading_Screen_Guide`.
+One set for each child. Instructions, scripts and marking rules are in Early Reading Screen guide.
 
 [[namebox:candidate]]
 

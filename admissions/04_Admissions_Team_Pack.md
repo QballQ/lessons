@@ -5,11 +5,11 @@ footer: Admissions Assessment | Admissions team pack
 ---
 # Admissions team pack: running an assessment visit
 
-This is the simple pack for the admissions team and the assessors. It says what to print, what happens when, who does what, and where every mark goes. The full guide (`00_Admissions_Guide`) and the evidence documents (`01` to `03`) stay as the background; you do not need them on the day.
+This is the simple pack for the admissions team and the assessors. It says what to print, what happens when, who does what, and where every mark goes. The full guide for staff and the evidence documents (in the Office folder) stay as the background; you do not need them on the day.
 
 ## 1. The visit in one page
 
-**One folder for each year group.** The admissions office works from the delivery pack (`Admissions_Assessment_Pack_v3.1`): open the student's year group folder, for example **Year 5**, and read its one-page **READ ME FIRST**. Everything the visit needs is inside, named by what to do with it and who gets it.
+**One folder for each year group.** The admissions office works from the delivery pack: open the student's year group folder, for example **Year 5**, and read its one-page **READ ME FIRST**. Everything the visit needs is inside, named by what to do with it and who gets it.
 
 | In the year folder | What it holds | What to do |
 |---|---|---|
@@ -69,11 +69,11 @@ Each sheet is the timetable for one phase. Each step has a section in the **asse
 | 1 | 1 / 1 / 2 | Welcome | Says their name and age | Smile; sit beside the child; write the name on the booklet cover; show where the parent waits | |
 | 2 | 4 / 4 / 4 | Picture talk | Looks at the picture, answers the prompts | Give the prompts in order, wait about 5 seconds, write down the child's own words. Stop after three prompts with no answer | Grading sheet, Section 1 |
 | 3 | 4 / 5 / 4 | Listening game | Points, draws, colours | **Play the recording.** Watch the child, not the picture. Mark each item 1 or 0 as you go. If asked, go back and play the item once more (tick R). Stop after three 0s in a row | Grading sheet, Section 2 |
-| 4 | 12 / 12 / 12 | Reading: Early Reading Screen, then sentence reading | Reads letter sounds, words and short stories aloud, then sentences | Start at the point for the year (Early Reading Screen guide). Then sentence reading from Level 1 (Years 1 and 2) or Level 2 (Year 3) with `Sentence_Reading_Guide` | Early Reading Screen record (Sheet 13); Reading front sheet, Part 2 |
+| 4 | 12 / 12 / 12 | Reading: Early Reading Screen, then sentence reading | Reads letter sounds, words and short stories aloud, then sentences | Start at the point for the year (Early Reading Screen guide). Then sentence reading from Level 1 (Years 1 and 2) or Level 2 (Year 3) with Sentence reading guide | Early Reading Screen record (Sheet 13); Reading front sheet, Part 2 |
 | 5 | 5 / 6 / 8 | Writing | Writes their name, dictated words, a sentence or a picture story (by year) | Dictate clearly at the year's pace. Do not spell or write for the child | Grading sheet |
 | 6 | 2 / 2 / 3 to 5 | Movement break | Stretches, has water | Do the actions with the child | |
 | 7 | 12 / 15 / 18 | Maths | Counts, points, shows with counters, writes | Read every question as written; repeat or show with counters if asked. Write 1 or 0 in the mark box on the child's page; write NT or L beside it | Mark boxes in the booklet; grading sheet |
-| 8 | 6 / 6 / 8 | Play-based interview and goodbye | Draws and talks | Interviewer (often you): `Interviewer_Guide_Y1_Y2` or `_Y3_Y4`. Do not give results. Say something specific that went well | Interview sheet |
+| 8 | 6 / 6 / 8 | Play-based interview and goodbye | Draws and talks | Interviewer (often you): Interviewer guide for Years 1 and 2 or for Years 3 and 4. Do not give results. Say something specific that went well | Interview sheet |
 | | **About 45 / 51 / 54** | | | | Then: grading sheet, Reading front sheet Part 1 and 3, final mark sheet |
 
 Years 1 to 3: the assessor runs the sentence reading as well as the Early Reading Screen, so the Reading front sheet stays with the assessor and Parts 1 to 3 are completed together; the interviewer only needs the Interview sheet. Year 2: listening, maths and writing may be done with two children together (assessor instructions, Section 1).
@@ -91,7 +91,7 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 | 5 | 3 to 5 | Break | | Water, a chance to move | |
 | 6 | 18 | Maths | Works alone | May read any question aloud, as often as asked. A Chinese-speaking colleague may say it once (mark L). NT if not taught. No calculator | Student paper; grading sheet |
 | 7 | 8 | Science (Years 5 and 6 only) | Works alone | As for maths | Student paper; grading sheet |
-| 8 | 12 | Interview, opening with sentence reading (Level 3 in Year 4, Level 4 in Year 5, Level 5 in Year 6) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y3_Y4` or `_Y5_Y6` | Reading front sheet, Parts 2 and 3; Interview sheet |
+| 8 | 12 | Interview, opening with sentence reading (Level 3 in Year 4, Level 4 in Year 5, Level 5 in Year 6) | Reads, then talks | **Interviewer** (Section 5): Interviewer guide for Years 3 and 4 or for Years 5 and 6 | Reading front sheet, Parts 2 and 3; Interview sheet |
 | | **About 58 (Year 4), 66 (Year 5), 67 (Year 6)** | | | | |
 
 [[pagebreak]]
@@ -107,7 +107,7 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 | 5 | 5 | Break | | | |
 | 6 | 25 | Maths (A fluency, B word questions, C applied) | Works alone | May read any question aloud. NT and L as above. No calculator, except a scientific calculator in Section C in Years 9 and 10 | Student paper; grading sheet |
 | 7 | 8 | Science | Works alone | As for maths | Student paper; grading sheet |
-| 8 | 15 | Interview, opening with sentence reading (Level 6 in Year 7, 7 in Year 8, 8 in Year 9, 9 in Year 10) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y7_Y10`. Years 7 to 10 can sit the written parts in a small group with one invigilator; the interview is always 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
+| 8 | 15 | Interview, opening with sentence reading (Level 6 in Year 7, 7 in Year 8, 8 in Year 9, 9 in Year 10) | Reads, then talks | **Interviewer** (Section 5): Interviewer guide for Years 7 to 10. Years 7 to 10 can sit the written parts in a small group with one invigilator; the interview is always 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
 | | **About 94 (allow 99)** | | | | |
 
 [[pagebreak]]
@@ -124,31 +124,31 @@ Years 1 to 3: the assessor runs the sentence reading as well as the Early Readin
 | 6 | 25 | Maths (A fluency, B word questions, C applied) | Works alone | May read any question aloud. NT and L as above. Calculator in Section C only | Student paper; grading sheet |
 | 7 | 8 | Core science | Works alone | As for maths | Student paper; grading sheet |
 | 8 | 5 | Break | | | |
-| 9 | 25 | Cognitive ability screen (four timed parts) | Works alone | `Cognitive_Ability_Screen_Guide`: say the script, time each part exactly, no calculator, no Chinese. For planning support, never for selection | Grading sheet, cognitive screen row |
-| 10 | 15 each | Optional sciences: only those the student will take | Works alone | `YNN_Optional_Sciences_Mark_Scheme_v3.1`: say which sections; a short break after two; read-aloud, NT and L as for maths | Grading sheet, optional sciences rows |
-| 11 | 15 | Interview, opening with sentence reading (Level 9) | Reads, then talks | **Interviewer** (Section 5): `Interviewer_Guide_Y11_Y12`. Written parts may be in a small group; the interview is 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
+| 9 | 25 | Cognitive ability screen (four timed parts) | Works alone | Cognitive ability screen guide: say the script, time each part exactly, no calculator, no Chinese. For planning support, never for selection | Grading sheet, cognitive screen row |
+| 10 | 15 each | Optional sciences: only those the student will take | Works alone | optional sciences mark scheme: say which sections; a short break after two; read-aloud, NT and L as for maths | Grading sheet, optional sciences rows |
+| 11 | 15 | Interview, opening with sentence reading (Level 9) | Reads, then talks | **Interviewer** (Section 5): Interviewer guide for Years 11 and 12. Written parts may be in a small group; the interview is 1:1 | Reading front sheet, Parts 2 and 3; Interview sheet |
 | | **About 121 (Year 11) or 122 (Year 12) for the core (allow 125); about 150 with two sciences; 165 with three** | | | | |
 
 If the day is too long, the optional sciences and the interview may be on a second visit (note it on the grading sheet). Readiness (Year 11: joining IGCSE a year in; Year 12: A Level) is Section 6 of the year's instructions and the box on the grading sheet.
 
 ## 4. The listening recordings
 
-Every year group has a recording made from the scripts, so that every candidate hears the same voices, pace and pauses. It replaces the assessor reading the script. Play it on a speaker (not headphones) in a quiet room. Do the volume check before the student arrives. The MP3 is in folder **3 Listening recording** of the year group (in the repository: `audio/v3.1/YNN/`; each folder has a `READ_ME_FIRST.txt` with the tracks and, for Years 1 to 3, the start time of every item.
+Every year group has a recording made from the scripts, so that every candidate hears the same voices, pace and pauses. It replaces the assessor reading the script. Play it on a speaker (not headphones) in a quiet room. Do the volume check before the student arrives. The MP3 is in folder **3 Listening recording** of the year group (in the repository: folder 3 Listening recording of the year folder; each folder has a READ ME FIRST page of the year folder with the tracks and, for Years 1 to 3, the start time of every item.
 
 | Year | Play this | Length | Voice speed (words a minute) | Also |
 |---|---|---|---|---|
-| 1 | `Y01_Listening_Full_v3.1.mp3` | 4:27 | 210 | start time of every item in the read-me |
-| 2 | `Y02_Listening_Full_v3.1.mp3` | 4:30 | 215 | start time of every item in the read-me |
-| 3 | `Y03_Listening_Full_v3.1.mp3` | 4:01 | 215 | start time of every item in the read-me |
-| 4 | `Y04_Listening_Full_v3.1.mp3` | 6:26 | 180 |  |
-| 5 | `Y05_Listening_Full_v3.1.mp3` | 5:37 | 195 |  |
-| 6 | `Y06_Listening_Full_v3.1.mp3` | 6:45 | 185 |  |
-| 7 | `Y07_Listening_Full_v3.1.mp3` | 13:22 | 215 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 8 | `Y08_Listening_Full_v3.1.mp3` | 14:19 | 195 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 9 | `Y09_Listening_Full_v3.1.mp3` | 13:57 | 195 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 10 | `Y10_Listening_Full_v3.1.mp3` | 14:55 | 210 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 11 | `Y11_Listening_Full_v3.1.mp3` | 16:07 | 185 | Part A and Part B as separate tracks (if you may stop after Part A) |
-| 12 | `Y12_Listening_Full_v3.1.mp3` | 17:25 | 185 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 1 | Year 1 listening.mp3 | 4:27 | 210 | start time of every item in the READ ME FIRST page of the year folder |
+| 2 | Year 2 listening.mp3 | 4:30 | 215 | start time of every item in the READ ME FIRST page of the year folder |
+| 3 | Year 3 listening.mp3 | 4:01 | 215 | start time of every item in the READ ME FIRST page of the year folder |
+| 4 | Year 4 listening.mp3 | 6:26 | 180 |  |
+| 5 | Year 5 listening.mp3 | 5:37 | 195 |  |
+| 6 | Year 6 listening.mp3 | 6:45 | 185 |  |
+| 7 | Year 7 listening.mp3 | 13:22 | 215 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 8 | Year 8 listening.mp3 | 14:19 | 195 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 9 | Year 9 listening.mp3 | 13:57 | 195 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 10 | Year 10 listening.mp3 | 14:55 | 210 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 11 | Year 11 listening.mp3 | 16:07 | 185 | Part A and Part B as separate tracks (if you may stop after Part A) |
+| 12 | Year 12 listening.mp3 | 17:25 | 185 | Part A and Part B as separate tracks (if you may stop after Part A) |
 
 **How to play it**
 1. Student paper (or booklet) open at the right page, pencil ready, grading sheet in front of you.
@@ -167,7 +167,7 @@ The interviewer is usually the principal. When you book the interview, give the 
 | **Reading front sheet** (2 pages) | Part 1 is already filled in by the assessor: the reading levels so far (Early Reading Screen, or the reading paper marks), the reading band so far, and where the sentence reading starts. The interviewer fills in Parts 2 and 3 |
 | **Interview sheet** (2 pages) | Speaking and listening bands, key things the student said, the suitability ratings, follow-ups, the interviewer's comment |
 
-The interviewer's own folder, kept from one candidate to the next (nothing to print again): `Interviewer_Guide_...` for the phase (the questions and descriptors), `Sentence_Reading_Guide` (the rules, the sentences and the meaning questions) and the laminated sentence reading card.
+The interviewer's own folder, kept from one candidate to the next (nothing to print again): Interviewer guide for the phase for the phase (the questions and descriptors), Sentence reading guide (the rules, the sentences and the meaning questions) and the laminated sentence reading card.
 
 **How it goes.** 1. The assessor completes Part 1 of the Reading front sheet and gives both sheets to the interviewer (write who gave it and when, in Part 1). 2. The interviewer starts the interview with the sentence reading, from the start level printed on the front sheet (Level 1 if the assessor ticked "new to English"). 3. The interviewer asks the questions from the guide, then completes the Interview sheet while the memory is fresh. 4. Both sheets come back to admissions the same day, with a word to the assessor about anything unexpected. 5. Admissions clips the two sheets to the grading sheet and the parent conversation record.
 
@@ -178,11 +178,11 @@ The interviewer's own folder, kept from one candidate to the next (nothing to pr
 - Interviewer: Reading front sheet Parts 2 and 3, and the Interview sheet, complete.
 - Any safeguarding concern: told to the Designated Safeguarding Lead.
 
-**Within two working days: the final mark sheet** (`forms/Candidate_Summary_and_Decision`). Copy the scores from the grading sheet, the Reading front sheet and the Interview sheet, give the overall English band, tick one recommendation, write the support plan, and add the comments and the feedback for the family. The Head of School or Deputy confirms it. Admissions tells the family (start with the child's strengths).
+**Within two working days: the final mark sheet**. Copy the scores from the grading sheet, the Reading front sheet and the Interview sheet, give the overall English band, tick one recommendation, write the support plan, and add the comments and the feedback for the family. The Head of School or Deputy confirms it. Admissions tells the family (start with the child's strengths).
 
-**The assessment result and report** (`forms/Assessment_Result_Cover`) is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from the final mark sheet **after the Head of School or Deputy has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
+**The assessment result and report** is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from the final mark sheet **after the Head of School or Deputy has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
 
-**Entering it in the admissions tracker** (`tracker/Admissions_Tracker_v3.1.xlsx`, one workbook for all year groups). Give the candidate one row on the sheet for their year group (Year 1 to Year 10) and fill it in as the process moves on, changing the **Status** at each stage: Applied, Visit booked, Assessed, Decision confirmed, Family told, Enrolled, Withdrawn. It refuses a score above the paper's maximum, and its **Data check** column says what is missing. The **Dashboard** sheet shows, for every year group, where candidates are in the process, their levels, the decisions and offers, and the support needed: never type on it. The sheet `How_To_Use` has the instructions, and the `_DEMO` copy shows it working with fictional candidates.
+**Entering it in the admissions tracker** (Admissions tracker (Office folder), one workbook for all year groups). Give the candidate one row on the sheet for their year group (Year 1 to Year 10) and fill it in as the process moves on, changing the **Status** at each stage: Applied, Visit booked, Assessed, Decision confirmed, Family told, Enrolled, Withdrawn. It refuses a score above the paper's maximum, and its **Data check** column says what is missing. The **Dashboard** sheet shows, for every year group, where candidates are in the process, their levels, the decisions and offers, and the support needed: never type on it. The sheet How to use has the instructions, and the DEMO copy shows it working with fictional candidates.
 
 | Tracker columns | From |
 |---|---|

@@ -47,7 +47,7 @@ footer: Final Mark Sheet | Candidate summary and decision
 
 ## 4. Recommendation
 
-Use the decision guide in `00_Admissions_Guide.md`, Section 9. Tick one.
+Use the decision guide in the Full guide for staff, Section 9. Tick one.
 
 | | Recommendation |
 |---|---|

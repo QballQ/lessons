@@ -7,7 +7,7 @@ footer: Interview sheet | Years 7 to 10
 
 [[namegrid:Candidate name,Candidate number,Year group applied for,Date,Interviewer,Others present]]
 
-Questions and descriptors: `forms/Interviewer_Guide_Y7_Y10`. Sentence reading is recorded on the Reading front sheet. For staff only.
+Questions and descriptors: Interviewer guide for Years 7 to 10. Sentence reading is recorded on the Reading front sheet. For staff only.
 
 [[keep]]
 

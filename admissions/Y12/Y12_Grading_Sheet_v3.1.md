@@ -7,7 +7,7 @@ footer: Year 12 Admission Assessment v3.1 | Grading sheet
 
 [[namegrid:Candidate name,Candidate number,Date of birth,Current school,Date of assessment,Assessor]]
 
-**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (every question has a mark box; answers and mark schemes are in `Y12_Assessor_Instructions_v3.1`). Copy the totals here and give the bands from the guide below. The optional sciences are marked with `Y12_Optional_Sciences_Mark_Scheme_v3.1` and the cognitive screen with `shared/Cognitive_Ability_Screen_Guide`. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
+**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (every question has a mark box; answers and mark schemes are in Year 12 assessor instructions). Copy the totals here and give the bands from the guide below. The optional sciences are marked with Year 12 optional sciences mark scheme and the cognitive screen with Cognitive ability screen guide. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
 
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
@@ -42,7 +42,7 @@ footer: Year 12 Admission Assessment v3.1 | Grading sheet
 
 [[keep]]
 
-#### Readiness for A Level (Section 6 of `Y12_Assessor_Instructions_v3.1`; read the results together first)
+#### Readiness for A Level (Section 6 of Year 12 assessor instructions; read the results together first)
 
 | Decision | Tick one in each row |
 |---|---|
@@ -52,7 +52,7 @@ footer: Year 12 Admission Assessment v3.1 | Grading sheet
 | **Readiness** | [[scale:Ready,Ready with support,Pre-A Level year advised,Not yet]] |
 | **Support** | [[scale:English of maths,Academic writing,Content gaps,Extra time to check,None]] |
 
-#### Band guide at a glance (full guide and judgement notes: `Y12_Assessor_Instructions_v3.1`)
+#### Band guide at a glance (full guide and judgement notes: Year 12 assessor instructions)
 
 | Band | Listening (/ 16) | Writing (/ 16; best fit decides) | Maths (/ 30) | Core science (/ 10) | Each optional science (/ 15) |
 |---|---|---|---|---|---|

@@ -5,9 +5,9 @@ footer: Interviewer guide | Years 3 and 4
 ---
 # Interviewer guide: Years 3 and 4
 
-**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** (`forms/Interview_Sheet_Y3_Y4`).
+**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** for Years 3 and 4.
 
-**About 8 minutes in Year 3 and 12 minutes in Year 4, 1:1.** The interview is held **in English**, as a friendly chat. It has three jobs: to hear the child's spoken English, to get to know the child (likes, school, friends, **hopes for the future**), and to judge their **suitability** for the international programme. In Year 3 the sentence reading is done by the assessor, after the Early Reading Screen; in Year 4 the interview opens with the Graded Sentence Reading Screen (3 to 4 minutes; start Level 3; follow `shared/Sentence_Reading_Guide` and write the points on the Reading front sheet, `forms/Reading_Front_Sheet`).
+**About 8 minutes in Year 3 and 12 minutes in Year 4, 1:1.** The interview is held **in English**, as a friendly chat. It has three jobs: to hear the child's spoken English, to get to know the child (likes, school, friends, **hopes for the future**), and to judge their **suitability** for the international programme. In Year 3 the sentence reading is done by the assessor, after the Early Reading Screen; in Year 4 the interview opens with the Graded Sentence Reading Screen (3 to 4 minutes; start Level 3; follow Sentence reading guide and write the points on the Reading front sheet, Reading front sheet).
 
 **How to ask.** Sit beside the child. Have paper and crayons ready: some children talk more easily while drawing ("Draw something you love doing, and tell me about it"). Ask the main question first. If the child struggles, use the **easier** prompt (a yes or no, a choice, or pointing). If they answer easily, use the **stretch** prompt. Wait at least five seconds before rephrasing. Answers must be in English.
 

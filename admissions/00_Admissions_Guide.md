@@ -14,9 +14,9 @@ This pack assesses students applying to the international programme from **Year 
 
 Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes in Years 5 and 6, about 94 minutes in Years 7 to 10, and about 2 hours in Years 11 and 12** (the core; up to about 2 hours 50 minutes with three optional sciences), version 3.1, plus a 15-minute conversation with the parents.
 
-**Years 11 and 12 (added 31 October 2026).** Entrants to the second year of IGCSE (Year 11) and the first year of A Level (Year 12) sit the same core as Years 7 to 10 (listening, reading, writing, maths, core science, interview), plus a **cognitive ability screen** (`shared/Cognitive_Ability_Screen_Y11_Y12`: non-verbal, quantitative and verbal reasoning and processing speed; for planning learning support, never for selection; not standardised) and **optional science papers** (`YNN_Optional_Sciences_v3.1`: Biology, Chemistry and Physics at IGCSE level, 15 marks each; the student sits only the sciences they will take). Section 6 of each year's assessor instructions says how to read the results together for joining IGCSE a year in (Year 11) and for A Level readiness (Year 12).
+**Years 11 and 12 (added 31 October 2026).** Entrants to the second year of IGCSE (Year 11) and the first year of A Level (Year 12) sit the same core as Years 7 to 10 (listening, reading, writing, maths, core science, interview), plus a **cognitive ability screen** (Cognitive ability screen booklet: non-verbal, quantitative and verbal reasoning and processing speed; for planning learning support, never for selection; not standardised) and **optional science papers** (optional sciences paper: Biology, Chemistry and Physics at IGCSE level, 15 marks each; the student sits only the sciences they will take). Section 6 of each year's assessor instructions says how to read the results together for joining IGCSE a year in (Year 11) and for A Level readiness (Year 12).
 
-**Running a visit? Start with `04_Admissions_Team_Pack`.** It is the short pack for the admissions team and assessors: the day sheets with the minutes for every section, the handover to the interviewer, what to print and where every mark goes. This guide is the full background: the principles, the proficiency bands, the research on students from Chinese schools, the decision guide and the record keeping. Keep it as the evidence behind the pack.
+**Running a visit? Start with Admissions team pack.** It is the short pack for the admissions team and assessors: the day sheets with the minutes for every section, the handover to the interviewer, what to print and where every mark goes. This guide is the full background: the principles, the proficiency bands, the research on students from Chinese schools, the decision guide and the record keeping. Keep it as the evidence behind the pack.
 
 ## 1. Principles
 
@@ -32,26 +32,26 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 
 | Part | Files | Used by | Printed |
 |---|---|---|---|
-| This guide | `00_Admissions_Guide` | All staff | Once |
-| Admissions team pack | `04_Admissions_Team_Pack`: what to print, day sheets, listening recordings, handover, filing | Admissions, assessors | Once |
-| Reading books list | `01_Reading_Books_and_Materials` | Admissions, Years 1 to 3 assessors | Once |
-| Version register | `03_Version_Register`: which version each year group uses, and a candidate log | Admissions | Once |
-| **Assessor instructions** | `Y01` to `Y12`: `YNN_Assessor_Instructions_v3.1` (scripts, answers, mark schemes, band guides) | Assessor | **Once** |
-| Student paper or booklet | `YNN_Student_Booklet_v3.1` (Years 1 to 3) or `YNN_Student_Paper_v3.1` (Years 4 to 12) | The student | Each candidate |
-| **Visit checklist** | `forms/Visit_Checklist`: one sheet per student that the admissions office ticks before, during and after the visit | Admissions | Each candidate |
-| **Grading sheet** | `YNN_Grading_Sheet_v3.1`: the marks, bands, NT and L, comments for one student | Assessor | Each candidate |
-| Listening recordings | `audio/v3.1/YNN/`: one recording for every year group, with a `READ_ME_FIRST.txt` | Assessor | Nothing to print |
-| Early Reading Screen (Years 1 to 3, and older students new to English) | `shared/Early_Reading_Screen_Cards` (laminate), `shared/Early_Reading_Screen_Guide` (once), `shared/Early_Reading_Screen_Record` (one set per child) | Assessor | As stated |
-| **Sentence reading** (all years) | `shared/Sentence_Reading_Guide` (rules, the interviewer's copy of the sentences; once), `shared/Sentence_Reading_Card` (laminate) | Interviewer, or the assessor in Years 1 to 3 | Once |
-| **Reading front sheet** | `forms/Reading_Front_Sheet`: the assessor's handover of the reading levels, then the sentence reading marks and result | Assessor, then interviewer | Each candidate |
-| **Interviewer guide** | `forms/Interviewer_Guide_Y1_Y2`, `_Y3_Y4`, `_Y5_Y6`, `_Y7_Y10`: the questions and descriptors | Interviewer (usually the principal) | **Once** |
-| **Interview sheet** | `forms/Interview_Sheet_Y1_Y2`, `_Y3_Y4`, `_Y5_Y6`, `_Y7_Y10`: speaking band, suitability ratings, comments | Interviewer | Each candidate |
-| Parent conversation | `forms/Parent_Conversation_Record` | Admissions or a senior teacher | Each candidate |
-| Previous homeroom teacher reference (English and Chinese) | `forms/Homeroom_Teacher_Reference` | Admissions | Sent before the visit |
-| **Final mark sheet** | `forms/Candidate_Summary_and_Decision`: the overview of the student with the English bands, maths and science, suitability, recommendation, support plan, comments and feedback | Assessor, interviewer, Head of School or Deputy, admissions | Each candidate |
-| **Assessment result and report** | `forms/Assessment_Result_Cover`: the one-sheet front cover for the student's marked papers (outcome, English bands and scores, maths and science, strengths, what to work on, support, next step; the band key on the back) | Admissions, after the Head of School or Deputy confirms the decision | Each candidate |
+| This guide | Full guide for staff | All staff | Once |
+| Admissions team pack | Admissions team pack: what to print, day sheets, listening recordings, handover, filing | Admissions, assessors | Once |
+| Reading books list | Reading books and materials list | Admissions, Years 1 to 3 assessors | Once |
+| Version register | Version register: which version each year group uses, and a candidate log | Admissions | Once |
+| **Assessor instructions** | Year 1 to Year 12: assessor instructions (scripts, answers, mark schemes, band guides) | Assessor | **Once** |
+| Student paper or booklet | student booklet (Years 1 to 3) or student paper (Years 4 to 12) | The student | Each candidate |
+| **Visit checklist** | Visit checklist: one sheet per student that the admissions office ticks before, during and after the visit | Admissions | Each candidate |
+| **Grading sheet** | grading sheet: the marks, bands, NT and L, comments for one student | Assessor | Each candidate |
+| Listening recordings | folder 3 Listening recording of the year folder: one recording for every year group, with a READ ME FIRST page of the year folder | Assessor | Nothing to print |
+| Early Reading Screen (Years 1 to 3, and older students new to English) | Early Reading Screen cards (laminate), Early Reading Screen guide (once), Early Reading Screen record (one set per child) | Assessor | As stated |
+| **Sentence reading** (all years) | Sentence reading guide (rules, the interviewer's copy of the sentences; once), Sentence reading card (laminate) | Interviewer, or the assessor in Years 1 to 3 | Once |
+| **Reading front sheet** | Reading front sheet: the assessor's handover of the reading levels, then the sentence reading marks and result | Assessor, then interviewer | Each candidate |
+| **Interviewer guide** | Interviewer guide for Years 1 and 2, for Years 3 and 4, for Years 5 and 6, for Years 7 to 10: the questions and descriptors | Interviewer (usually the principal) | **Once** |
+| **Interview sheet** | Interview sheet for Years 1 and 2, for Years 3 and 4, for Years 5 and 6, for Years 7 to 10: speaking band, suitability ratings, comments | Interviewer | Each candidate |
+| Parent conversation | Parent conversation record | Admissions or a senior teacher | Each candidate |
+| Previous homeroom teacher reference (English and Chinese) | Homeroom teacher reference | Admissions | Sent before the visit |
+| **Final mark sheet** | Final mark sheet: the overview of the student with the English bands, maths and science, suitability, recommendation, support plan, comments and feedback | Assessor, interviewer, Head of School or Deputy, admissions | Each candidate |
+| **Assessment result and report** | Assessment result and report: the one-sheet front cover for the student's marked papers (outcome, English bands and scores, maths and science, strengths, what to work on, support, next step; the band key on the back) | Admissions, after the Head of School or Deputy confirms the decision | Each candidate |
 
-The admissions office receives the pack as `download/Admissions_Assessment_Pack_v3.1.zip`: **one folder for each year group**, with a one-page READ ME, folder 1 `Print one per student` (every sheet a separate numbered PDF, named by what it is and who gets it), folder 2 `Print once for the room`, folder 3 `Listening recording` and folder 4 `Send before the visit`, and an `Office` folder with the team pack, the tracker and this guide. `pdf/Candidate_Packs/` and `pdf/Print_Once/` keep the same documents joined into one PDF per year group, for anyone who prefers that.
+The admissions office receives the pack as delivery pack: **one folder for each year group**, with a one-page READ ME, folder 1 1 Print one per student (every sheet a separate numbered PDF, named by what it is and who gets it), folder 2 2 Print once for the room, folder 3 3 Listening recording and folder 4 4 Send before the visit, and an Office folder with the team pack, the tracker and this guide. folder 1 Print one per student and folder 2 Print once for the room keep the same documents joined into one PDF per year group, for anyone who prefers that.
 
 ## 3. Roles
 
@@ -69,7 +69,7 @@ The admissions office receives the pack as `download/Admissions_Assessment_Pack_
 
 **Before the visit**
 - Collect: the application, passport or ID page, school reports for the last two years, any assessment or medical reports, information about the student's registration (学籍), and signed consent to contact the current school.
-- Send the homeroom teacher reference (`forms/Homeroom_Teacher_Reference`) once consent is given.
+- Send the homeroom teacher reference (Homeroom teacher reference) once consent is given.
 - Book the visit. Mornings are best for young children. Tell the family how long it will take, that the child should bring glasses or hearing aids if used, and ask about any access needs.
 - Print the pack (Section 12) and set up a quiet, bright room with a low table for young children.
 
@@ -81,13 +81,13 @@ The admissions office receives the pack as `download/Admissions_Assessment_Pack_
 
 **After the visit**
 - Mark everything the same day and complete the grading sheet. The interviewer completes the Reading front sheet and the Interview sheet.
-- Complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days, from the grading sheet, the Reading front sheet, the Interview sheet and the parent conversation.
+- Complete the final mark sheet within two working days, from the grading sheet, the Reading front sheet, the Interview sheet and the parent conversation.
 - The Head of School or Deputy moderates and confirms the recommendation; admissions communicates it.
 - Keep all papers securely (Section 11).
 
 ## 5. Timings by year group
 
-Student time, in minutes. The order on the day is in `04_Admissions_Team_Pack` and in each year group's assessor instructions.
+Student time, in minutes. The order on the day is in Admissions team pack and in each year group's assessor instructions.
 
 | Year | Picture talk | Listening | Reading screens | Reading paper | Writing | Maths | Science | Interview (with sentence reading from Year 4) | Total |
 |---|---|---|---|---|---|---|---|---|---|
@@ -98,7 +98,7 @@ Student time, in minutes. The order on the day is in `04_Admissions_Team_Pack` a
 | 5 and 6 | | 6 to 7 | | 12 | 10 | 18 | 8 | 12 | about 66 to 67 |
 | 7 to 10 | | 13 to 15 | | 15 | 10 | 25 | 8 | 15 | about 93 to 95 |
 
-The listening times are those of the recordings (`audio/v3.1/`), which have longer pauses for younger students: about 4 to 5 minutes in Years 1 to 3, 6 to 7 in Years 4 to 6, 13 to 15 in Years 7 to 10, and 16 to 17 in Years 11 and 12 (the instructions give the exact time for each year group). **Pace of speech:** the voice speed is the same for every year group (the voice's normal speed) and the pauses between sentences are longer the younger the student; a person reading or speaking live uses the pace in the year group's assessor instructions. Years 7 to 10 use version 3.1 (October 2026): the listening adds an academic Part B, the reading paper has two texts (Parts A and B, 16 marks) in 15 minutes, and the maths takes 25 minutes in three sections (fluency, word questions, applied problems), with a scientific calculator allowed in the applied section in Years 9 and 10. In word questions, Years 7 and 8 give full marks for any correct method; in Years 9 and 10, where a question asks for an equation, a correct answer without one earns only part of the marks. Version 1 took about 70 minutes and is kept for reference. Reading screens in Years 1 to 3: the start points and stopping rules keep most children within 12 minutes for the Early Reading Screen and the sentence reading screen together; allow up to 15 minutes for a strong reader who goes through all eight passages. Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
+The listening times are those of the recordings (folder 3 Listening recording of each year folder), which have longer pauses for younger students: about 4 to 5 minutes in Years 1 to 3, 6 to 7 in Years 4 to 6, 13 to 15 in Years 7 to 10, and 16 to 17 in Years 11 and 12 (the instructions give the exact time for each year group). **Pace of speech:** the voice speed is the same for every year group (the voice's normal speed) and the pauses between sentences are longer the younger the student; a person reading or speaking live uses the pace in the year group's assessor instructions. Years 7 to 10 use version 3.1 (October 2026): the listening adds an academic Part B, the reading paper has two texts (Parts A and B, 16 marks) in 15 minutes, and the maths takes 25 minutes in three sections (fluency, word questions, applied problems), with a scientific calculator allowed in the applied section in Years 9 and 10. In word questions, Years 7 and 8 give full marks for any correct method; in Years 9 and 10, where a question asks for an equation, a correct answer without one earns only part of the marks. Version 1 took about 70 minutes and is kept for reference. Reading screens in Years 1 to 3: the start points and stopping rules keep most children within 12 minutes for the Early Reading Screen and the sentence reading screen together; allow up to 15 minutes for a strong reader who goes through all eight passages. Parent conversation: about 15 minutes. Breaks: a short movement break in Years 1 and 2; a 3 to 5 minute break after the written English from Year 3. From Year 4 the written papers can be taken in a small group with one invigilator (listening is read to the group); the interview is always 1:1.
 
 ## 6. The English proficiency bands
 
@@ -200,7 +200,7 @@ Start with the **overall English band** and the **year group**, then adjust for 
 
 ## 12. Printing checklist
 
-**For each candidate** (the candidate pack, `pdf/Candidate_Packs/Year_NN_Candidate_Pack_v3.1.pdf`, double-sided)
+**For each candidate** (the candidate pack, folder 1 Print one per student of the year folder, double-sided)
 
 | Years 1 to 3 | Years 4 to 12 |
 |---|---|
@@ -214,7 +214,7 @@ Start with the **overall English band** and the **year group**, then adjust for 
 | Assessment result and report (front cover for the marked papers) | Homeroom teacher reference (sent before the visit) |
 | Homeroom teacher reference (sent before the visit) | |
 
-**Once for the room** (`pdf/Print_Once/`; no name, nothing is written on them)
+**Once for the room** (folder 2 Print once for the room; no name, nothing is written on them)
 
 | Years 1 to 3 | Years 4 to 12 |
 |---|---|
@@ -222,6 +222,6 @@ Start with the **overall English band** and the **year group**, then adjust for 
 | Interviewer guide for the phase | Interviewer guide for the phase |
 | Sentence reading guide | Sentence reading guide |
 | Early Reading Screen guide | |
-| Early Reading Screen cards and sentence reading card (`Reading_Cards_to_Laminate`) | Sentence reading card (`Reading_Cards_to_Laminate`) |
+| Early Reading Screen cards and sentence reading card (reading cards to laminate) | Sentence reading card (reading cards to laminate) |
 | The listening recording on a laptop or phone, and a speaker | The listening recording on a laptop or phone, and a speaker |
-| **Also:** 20 counters (Years 1 and 2), crayons, pencils, rubber, a plain card to cover sentences, the levelled reading books (`01_Reading_Books_and_Materials`) | **Also:** pencils, rubber, ruler, a plain card to cover sentences, a clock or timer, a scientific calculator for each student in Years 9 and 10 |
+| **Also:** 20 counters (Years 1 and 2), crayons, pencils, rubber, a plain card to cover sentences, the levelled reading books (Reading books and materials list) | **Also:** pencils, rubber, ruler, a plain card to cover sentences, a clock or timer, a scientific calculator for each student in Years 9 and 10 |

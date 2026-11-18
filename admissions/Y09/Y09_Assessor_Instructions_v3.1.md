@@ -10,11 +10,11 @@ footer: Year 9 Admission Assessment v3.1 | Assessor instructions
 
 # Year 9 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y09/Y09_Student_Paper_v3.1`. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
+**Version 3.1, October 2026.** Use with Year 9 student paper. Version 3.1 is version 2 with the third reading text (Part C) removed: the listening, writing, maths, science and interview are unchanged from version 2. The reading paper is now Parts A and B (16 marks) in the same time as before. Do not mix papers and instructions from different versions: the question numbers, marks and band guides differ.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y09_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
-**Who this is for.** Students applying for **Year 9** (age 13 on 1 September). A student from a Chinese mainstream school has usually **completed Grade 7 (初一)**; a student joining mid-year is partway through Grade 8. Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in `00_Admissions_Guide.md`.
+**Who this is for.** Students applying for **Year 9** (age 13 on 1 September). A student from a Chinese mainstream school has usually **completed Grade 7 (初一)**; a student joining mid-year is partway through Grade 8. Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in the Full guide for staff.
 
 **What it measures.** The student's level of English in listening, reading, writing and speaking (bands A to E), their maths and science against the UK Year 8 curriculum (what a Year 9 student should know on entry), and, through the interview, who they are, their future plans and their suitability for the programme.
 
@@ -41,23 +41,23 @@ Marks go on the **grading sheet** (listening, writing, maths and science), the *
 **For each candidate:**
 
 - the Year 9 student paper, version 3.1;
-- the grading sheet (`Y09/Y09_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 7 to 10 (`forms/Interview_Sheet_Y7_Y10`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 7 to 10;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y7_Y10`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- the Interviewer guide for Years 7 to 10;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a clock, a plain card to cover the sentences, and a scientific calculator for each student (with a pencil, rubber and ruler for each candidate).
 [[/cols]]
 [[/keep]]
 
-The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
+The parent conversation (Parent conversation record, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 7) can be taken in a small group with one invigilator; the interview is always 1:1.
 
 **Planning note.** The recording takes about 14 minutes: both texts twice, one minute to read each set of questions and the time to finish. Allow 14 minutes for the listening in the timetable.
 
@@ -97,7 +97,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts. **Part A** (questions 1 to 8) is the version 1 listening, unchanged: an everyday conversation. **Part B** (questions 9 to 16) is new: a short academic talk at the level of a lesson for a fluent English speaker of 13 to 14. Each part is read twice.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y09/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 41 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 9 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of Part A takes about 1 minute 59 seconds and of Part B about 2 minutes 41 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A.** **Say:** "Turn to the Listening page. There are two parts. First, Part A. You will hear two friends, Mei and Tom, talking about a science club trip. I will read it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Read it again.
 
@@ -174,7 +174,7 @@ The difference between the teas comes from a process called oxidation. When a le
 One last puzzle: in Fujian, the local word for tea sounds like "te". Countries that received their tea by sea mostly use a word like "tea", whereas countries that received it over land say something like "cha" or "chai". So the name of your drink may tell you which way the tea travelled. [pause]
 [[/passage]]
 
-**About the Part B script** (for the English team). 427 words in 27 sentences: an average sentence of about 16 words. About 19% of the words are outside the 2000 most common word forms of English (about 13% if names are left out and simple word endings are matched, the method in `02_Listening_Evidence_Statement`, Section 6). It explains a process (oxidation and how black tea is made) and a cause and effect (heat stops oxidation, so green tea stays green); compares green, black and oolong tea, and the land and sea routes; uses numbers and dates; explains subject words in context (bud, oxidation, withered); implies an opinion (that the Shennong legend may not be true); corrects itself ("Actually, no, I've got my dates wrong"); and uses the discourse markers however, whereas, on the other hand and as a result.
+**About the Part B script** (for the English team). 427 words in 27 sentences: an average sentence of about 16 words. About 19% of the words are outside the 2000 most common word forms of English (about 13% if names are left out and simple word endings are matched, the method in Listening evidence statement, Section 6). It explains a process (oxidation and how black tea is made) and a cause and effect (heat stops oxidation, so green tea stays green); compares green, black and oolong tea, and the land and sea routes; uses numbers and dates; explains subject words in context (bud, oxidation, withered); implies an opinion (that the Shennong legend may not be true); corrects itself ("Actually, no, I've got my dates wrong"); and uses the discourse markers however, whereas, on the other hand and as a result.
 
 **Part B answers** (1 mark each; questions 13 and 14 are one gap each). The questions follow the order of the talk.
 
@@ -278,7 +278,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 | **Grammar and sentences** | No sentences. | Mostly simple sentences, some joined with and, but, because; frequent errors in verb tense, plurals and articles, but the meaning is clear. | A variety of sentence types, including complex sentences (when, although, which, if); tenses controlled (past tense in the story); errors are rare and do not affect meaning. |
 | **Spelling and punctuation** | Mostly impossible to read. | Common words spelt correctly; capital letters and full stops mostly correct; errors in less common words. | Almost all words spelt correctly, including ambitious ones; full stops, commas, question marks, apostrophes and (in a story) speech marks used correctly. |
 
-**Band by best fit**, using the descriptors in `00_Admissions_Guide.md`, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
+**Band by best fit**, using the descriptors in the Full guide for staff, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
 
 | Band | Writing at Year 9 entry |
 |---|---|
@@ -297,7 +297,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Interview, speaking and sentence reading (15 minutes, 1:1)
 
-The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y7_Y10`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`). The sentence reading rules are in `shared/Sentence_Reading_Guide`, the student reads from `shared/Sentence_Reading_Card`, and the results go on the **Reading front sheet**. All are in English.
+The questions and the speaking band descriptors are in the **Interviewer guide** for Years 7 to 10, and the record is the **Interview sheet** for Years 7 to 10. The sentence reading rules are in Sentence reading guide, the student reads from Sentence reading card, and the results go on the **Reading front sheet**. All are in English.
 
 - **Sentence reading first** (3 to 5 minutes). Year 9 starts at **Level 8 (sentence 22)**. Follow the start, going-back and stopping rules and the scoring in the guide. It gives total points out of 72, an indicative reading age, meaning checks and a fluency rating, which you record on the Reading front sheet. If you already know the student is new to English, start at Level 1.
 - **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **future plans and aspirations** and the suitability strands. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2, the same for every candidate.
@@ -401,10 +401,10 @@ As a rough guide, "high" is about three quarters of a section or more, and "low"
 ## 6. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y09_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
-3. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B), any access arrangements and your comment.
+3. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 4. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days. Write "v3.1" beside the scores on it: the listening is out of 16 (as in version 2), the reading paper is out of 16 (Parts A and B only) and the maths has three sub-scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
+5. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days. Write "v3.1" beside the scores on it: the listening is out of 16 (as in version 2), the reading paper is out of 16 (Parts A and B only) and the maths has three sub-scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
 6. **File the marked student paper with them** (or shred it under the school's policy).
 
 [[/keep]]

@@ -11,9 +11,9 @@ footer: Year 12 Admission Assessment v3.1 | Assessor instructions
 
 # Year 12 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Use with `Y12/Y12_Student_Paper_v3.1`. Year 12 joins the pack at version 3.1, so that every year group carries one version number: there is no earlier Year 12 paper. The core paper has the Years 7 to 10 structure (listening Parts A and B, reading Parts A and B, writing, maths in three sections, science) at the level of a student finishing IGCSE and starting A Level. Two further parts are given from their own booklets: the **cognitive ability screen** (`shared/Cognitive_Ability_Screen_Y11_Y12`, with its guide `shared/Cognitive_Ability_Screen_Guide`) and the **optional sciences** (`Y12/Y12_Optional_Sciences_v3.1`, with `Y12/Y12_Optional_Sciences_Mark_Scheme_v3.1`). Do not mix papers and instructions from different years or versions: the question numbers, marks and band guides differ.
+**Version 3.1, October 2026.** Use with Year 12 student paper. Year 12 joins the pack at version 3.1, so that every year group carries one version number: there is no earlier Year 12 paper. The core paper has the Years 7 to 10 structure (listening Parts A and B, reading Parts A and B, writing, maths in three sections, science) at the level of a student finishing IGCSE and starting A Level. Two further parts are given from their own booklets: the **cognitive ability screen** (Cognitive ability screen booklet, with its guide Cognitive ability screen guide) and the **optional sciences** (Year 12 optional sciences paper, with Year 12 optional sciences mark scheme). Do not mix papers and instructions from different years or versions: the question numbers, marks and band guides differ.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y12_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 - **Listening** (16 marks): Part A is an everyday phone conversation (a school student and her cousin at university); **Part B** is a talk at the level of a lesson (turning seawater into drinking water).
 - **Reading** (16 marks): Part A is a web page for a summer academy; Part B is an opinion article, "Lost, and Better for It" (questions 8 to 14), in the style of an IGCSE First Language English text.
@@ -22,7 +22,7 @@ footer: Year 12 Admission Assessment v3.1 | Assessor instructions
 - **Science** (10 marks): end-of-IGCSE level across biology, chemistry and physics, with one working-scientifically question.
 - **Cognitive ability screen** and **optional sciences**: separate booklets, recorded on this year's grading sheet (Section 7).
 
-**Who this is for.** Students applying for **Year 12** (age 16 on 1 September), the first year of the school's **A Level** course. A student from a Chinese mainstream school has usually **completed Grade 10 (高一)**: senior-high maths year 1 (sets, functions including exponential and logarithmic functions, trigonometric functions, vectors in two dimensions), physics (motion, forces, Newton's laws, energy), chemistry (the mole and amount of substance, redox, the periodic table) and biology (cells and molecules). They have usually **not** sat IGCSE. Some come from an international or bilingual school that teaches IGCSE: ask which syllabuses and which papers (Core or Extended) they have followed. A student joining mid-year is partway through Grade 11 (高二). Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in `00_Admissions_Guide.md`.
+**Who this is for.** Students applying for **Year 12** (age 16 on 1 September), the first year of the school's **A Level** course. A student from a Chinese mainstream school has usually **completed Grade 10 (高一)**: senior-high maths year 1 (sets, functions including exponential and logarithmic functions, trigonometric functions, vectors in two dimensions), physics (motion, forces, Newton's laws, energy), chemistry (the mole and amount of substance, redox, the periodic table) and biology (cells and molecules). They have usually **not** sat IGCSE. Some come from an international or bilingual school that teaches IGCSE: ask which syllabuses and which papers (Core or Extended) they have followed. A student joining mid-year is partway through Grade 11 (高二). Ask the student and the family which grade and which textbooks they have used, because the order of topics differs between textbooks and regions. Background on Chinese school sequences, the English bands and the decision guide is in the Full guide for staff.
 
 **What it measures.** The student's level of English in listening, reading, writing and speaking (bands A to E) against the English that A Level study needs; their maths against the end of IGCSE Extended and the start of A Level Maths, reported as three sub-scores (fluency, word questions and applied problems); their core science against the end of IGCSE; the optional sciences against the subjects they want to take at A Level; and, through the cognitive ability screen, a profile for planning support (never for selection). Section 6 explains how to read the results together to judge **readiness for A Level study in English**.
 
@@ -53,26 +53,26 @@ Marks go on the **grading sheet** (listening, writing, maths, science, the optio
 **For each candidate:**
 
 - the Year 12 student paper, version 3.1;
-- the cognitive ability screen booklet (`shared/Cognitive_Ability_Screen_Y11_Y12`);
-- the optional sciences paper (`Y12/Y12_Optional_Sciences_v3.1`), if any science is taken;
-- the grading sheet (`Y12/Y12_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 11 and 12 (`forms/Interview_Sheet_Y11_Y12`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the cognitive ability screen booklet (Cognitive ability screen booklet);
+- the optional sciences paper, if any science is taken;
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 11 and 12;
+- the parent conversation record;
+- the final mark sheet.
 
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the cognitive ability screen guide (`shared/Cognitive_Ability_Screen_Guide`);
-- the optional sciences mark scheme (`Y12/Y12_Optional_Sciences_Mark_Scheme_v3.1`);
-- the Interviewer guide (`forms/Interviewer_Guide_Y11_Y12`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`; laminate it);
+- the cognitive ability screen guide (Cognitive ability screen guide);
+- the optional sciences mark scheme;
+- the Interviewer guide for Years 11 and 12;
+- Sentence reading guide;
+- the sentence reading card (laminate it);
 - the other equipment in the table above: a clock or timer, a stopwatch for the cognitive screen, a plain card to cover the sentences, and a scientific calculator for each student (with a pencil, rubber and ruler for each candidate).
 [[/cols]]
 
-The parent conversation (`forms/Parent_Conversation_Record`, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 10) can be taken in a small group with one invigilator; the interview is always 1:1.
+The parent conversation (Parent conversation record, about 15 minutes) can run at the same time with another member of staff. The written papers (tasks 2 to 10) can be taken in a small group with one invigilator; the interview is always 1:1.
 
 ## 2. Before you start
 
@@ -112,7 +112,7 @@ Extra time, a reader or other arrangements for a known need are allowed: record 
 
 There are two parts, and each is played or read twice. **Part A** is everyday listening: a phone conversation between a school student and her cousin, a university student. **Part B** is a short lesson-style talk with subject vocabulary, statistics, a correction and an implied opinion: the listening that A Level lessons need, at the level of a fluent speaker of 16 to 17.
 
-**Recording.** A recording of this test is in `audio/v3.1/Y12/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace: one reading of Part A takes about 2 minutes 24 seconds and of Part B about 3 minutes 27 seconds, with the pauses; use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 12 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace: one reading of Part A takes about 2 minutes 24 seconds and of Part B about 3 minutes 27 seconds, with the pauses; use this to check your own pace. Do not pause the recording during a reading of the script. Play Part A and Part B as separate tracks if you may stop after Part A; otherwise the full track plays both.
 
 **Part A. Say:** "Turn to the Listening page. There are two parts. In Part A, you will hear a phone conversation between Li Na, a school student, and her cousin Chen Yu, who is at university. I will play it two times. First, you have one minute to read questions 1 to 8." Wait one minute. **Say:** "Now listen." Play or read the Part A script. Wait 10 seconds. **Say:** "Now listen again." Play or read it again. Then give the student one more minute to finish.
 
@@ -210,7 +210,7 @@ The sea is not going to run out. But turning it into a drink has a price, paid i
 | 15 | Speaker's attitude (implied) | **B**: he thinks cities should stop wasting water through leaking pipes first | | A is the opposite of his view (he says the sea will not run out, but that is not his point); C exaggerates (he describes a cost, not a reason to stop); D is the opposite of his last sentence. He never says the people are wrong: the student must hear the implication in "I would rather fix the pipes first." |
 | 16 | Main idea or speaker's purpose | **B**: to explain how seawater is made drinkable and to weigh the benefits against the costs | | A exaggerates (he does not say plants should close); C is not his purpose (he "studied" the plant and describes its costs); D is one detail, not the purpose. The structure (the problem, the method, the stages, the costs, the question for all of us) carries the purpose. |
 
-**What is in the Part B script** (for the English team): about 510 words in 36 sentences (about 14 words a sentence on average); about 20% of the word forms are outside the 2000 most common English words (`wordfreq` list, names left out). It explains a process (reverse osmosis and the four stages of the plant); compares distillation with reverse osmosis, seawater with brine, and desalinated water with river water; gives statistics; explains subject vocabulary in context (osmosis, membrane, reverse osmosis, pre-treatment, brine, desalination); corrects a number ("Actually, let me correct that"); implies opinions without stating them (the people who say a city never needs to worry; the leaking pipes; who should decide); and uses discourse markers (first, second, third, finally, in other words, now, so, but).
+**What is in the Part B script** (for the English team): about 510 words in 36 sentences (about 14 words a sentence on average); about 20% of the word forms are outside the 2000 most common English words (wordfreq list, names left out). It explains a process (reverse osmosis and the four stages of the plant); compares distillation with reverse osmosis, seawater with brine, and desalinated water with river water; gives statistics; explains subject vocabulary in context (osmosis, membrane, reverse osmosis, pre-treatment, brine, desalination); corrects a number ("Actually, let me correct that"); implies opinions without stating them (the people who say a city never needs to worry; the leaking pipes; who should decide); and uses discourse markers (first, second, third, finally, in other words, now, so, but).
 
 #### Band guide
 
@@ -296,7 +296,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 | **Grammar and sentences** | No sentences. | Mostly simple sentences, some joined with and, but, because; frequent errors in verb forms, plurals and articles, but the meaning is clear. | A variety of sentence types used for effect, including complex sentences and some short sentences for impact; tenses controlled across the piece; errors are rare and do not affect meaning. |
 | **Spelling and punctuation** | Mostly impossible to read. | Common words spelt correctly; capital letters and full stops mostly correct; errors in less common words. | Almost all words spelt correctly, including ambitious ones; a range of punctuation (commas after openers and in lists, speech marks in the story, apostrophes, colons and semicolons) used correctly. |
 
-**Band by best fit**, using the descriptors in `00_Admissions_Guide.md`, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
+**Band by best fit**, using the descriptors in the Full guide for staff, Section 6, and the notes below. The total is a check, not a rule: as a rough guide, totals of 0 to 3 usually go with A, 4 to 7 with B, 8 to 10 with C, 11 to 13 with D and 14 to 16 with E.
 
 | Band | Writing at Year 12 entry |
 |---|---|
@@ -317,7 +317,7 @@ Record the reading paper marks (Part A, Part B), the band and the question where
 
 ### 3.4 Interview, speaking and sentence reading (15 minutes, 1:1)
 
-The questions and the speaking band descriptors are in the **Interviewer guide** (`forms/Interviewer_Guide_Y11_Y12`), and the record is the **Interview sheet** (`forms/Interview_Sheet_Y11_Y12`). The sentence reading rules are in `shared/Sentence_Reading_Guide`, the student reads from `shared/Sentence_Reading_Card`, and the results go on the **Reading front sheet**. All are in English.
+The questions and the speaking band descriptors are in the **Interviewer guide** for Years 11 and 12, and the record is the **Interview sheet** for Years 11 and 12. The sentence reading rules are in Sentence reading guide, the student reads from Sentence reading card, and the results go on the **Reading front sheet**. All are in English.
 
 - **Sentence reading first** (3 to 5 minutes). Year 12 starts at **Level 9 (sentence 25)**, the top start level. Follow the start, going-back and stopping rules and the scoring in the guide. It gives total points out of 72, an indicative reading age, meaning checks and a fluency rating, which you record on the Reading front sheet. If you already know the student is new to English, start at Level 1.
 - **Interview** (about 10 minutes): choose questions from each block in the Interviewer guide, including **subject choices and why**, **university plans and countries**, **independent study and managing a heavy workload**, and what the student knows about A Level. Use the easier and stretch prompts so that every student can show their best spoken English. Ask the questions at the pace in Section 2, the same for every candidate.
@@ -394,7 +394,7 @@ The example box at the start of Section A shows what the command words and symbo
 | **Fluency and word questions high**, **applied low** (5 or less out of 12) | The student calculates and sets up equations well but is less practised in multi-step problems in context, in reading graphs and in explaining a decision. Check the NT topics first: questions 13 and 14 include content a 高一 student has not met. | Teaching in problem solving and explaining, not more content. Practice with "explain" and "show that" questions. |
 | **All three high** (band 4) | A strong mathematician who can read and apply. | A Level Maths; discuss Further Maths if the school offers it. |
 | **Fluency low, word questions and applied higher** | Unusual for a student from a Chinese mainstream school; more common from an international school where formal algebra comes later. | Check which algebra has been taught. A Level Maths may still fit, with an algebra catch-up plan and a review after one term. |
-| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. | Look at the quantitative reasoning score on the cognitive screen, then consider further assessment before a decision (`00_Admissions_Guide.md`, Section 9). |
+| **All three low**, not explained by NT or L | Gaps in earlier learning, or a possible learning need. | Look at the quantitative reasoning score on the cognitive screen, then consider further assessment before a decision (the Full guide for staff, Section 9). |
 
 #### What to look for
 
@@ -437,7 +437,7 @@ The example box at the start of Section A shows what the command words and symbo
 
 | English band | What it usually means for A Level study in English | English course that may fit best |
 |---|---|---|
-| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to A Level is not usually advisable (`00_Admissions_Guide.md`, Section 9). | A preparatory or foundation route, or a later start, if the school has one. |
+| **A** New to English | Cannot yet follow subject lessons in English. Direct entry to A Level is not usually advisable (the Full guide for staff, Section 9). | A preparatory or foundation route, or a later start, if the school has one. |
 | **B** Early acquisition | Can follow simple, supported lessons, but A Level texts and exam questions will be out of reach for most of the first year. | Direct entry to A Level is not usually advisable; a one-year pre-A Level or IGCSE year with intensive English, if the school has one. |
 | **C** Developing competence | Can follow most lessons with support; subject vocabulary and extended writing will slow progress. Maths and the sciences are more accessible than essay-based subjects. | **English as a Second Language support** alongside A Levels in maths and the sciences only; essay-based subjects not advised in the first year, or a pre-A Level year. |
 | **D** Competent | Usually ready for A Level courses taught in English, with support for academic writing; essay-based subjects possible with support. | English as a Second Language support at the higher level in the first year; First Language level if reading and writing are a strong D or E. |
@@ -461,11 +461,11 @@ The example box at the start of Section A shows what the command words and symbo
 | Fluency and word questions secure, applied 5 or less | **A Level Maths with support** in problem solving, reading graphs and explaining ("show that", "explain"). Review after one term. |
 | Band 2 (11 to 16), mostly NT and L | **A Level Maths is still possible**: judge the band once taught, and review after six weeks. |
 | Band 2 with errors on taught topics (questions 1, 2, 5, 6, 9, 10, 11, 15) | **A Level Maths not advised** without a catch-up plan; a pre-A Level year, or A Level subjects that do not depend on maths, may be wiser. Review if the gaps close. |
-| Band 1 not explained by NT or English | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9). A band 1 that NT or L does explain is treated as band 2 (the guide, Section 9). |
+| Band 1 not explained by NT or English | Further assessment before a decision (the Full guide for staff, Section 9). A band 1 that NT or L does explain is treated as band 2 (the guide, Section 9). |
 
-**The optional sciences and A Level sciences.** Each optional paper (15 marks, band 1 to 4 from `Y12_Optional_Sciences_Mark_Scheme_v3.1`) is the main evidence for that A Level science. As a working guide: band 3 or 4 in a science suggests **suitable** for that A Level; band 2 suggests **with support** (a content catch-up plan for the NT topics named in the mark scheme, and a review after one term); band 1 not explained by NT suggests **not advised** for that science. Read each science with the maths result (physics and chemistry at A Level depend on algebra) and with the English band (every science has extended-answer questions). A science the student did not sit cannot be judged: tick "not taken" and do not infer it from the others.
+**The optional sciences and A Level sciences.** Each optional paper (15 marks, band 1 to 4 from Year 12 optional sciences mark scheme) is the main evidence for that A Level science. As a working guide: band 3 or 4 in a science suggests **suitable** for that A Level; band 2 suggests **with support** (a content catch-up plan for the NT topics named in the mark scheme, and a review after one term); band 1 not explained by NT suggests **not advised** for that science. Read each science with the maths result (physics and chemistry at A Level depend on algebra) and with the English band (every science has extended-answer questions). A science the student did not sit cannot be judged: tick "not taken" and do not infer it from the others.
 
-**The cognitive ability screen and support planning.** The screen is **not used to select**. Use its profile (`shared/Cognitive_Ability_Screen_Guide`) to plan support: non-verbal and quantitative both 9 or more with verbal low usually means strong reasoning and an English gap (plan language support, and expect the paper results to rise as English does); processing speed well below the other parts suggests checking reading fluency and considering extra time; all three reasoning parts 4 or less suggests discussing further assessment before a decision (`00_Admissions_Guide.md`, Section 9); a strong profile with weak paper results suggests looking for gaps in prior learning or motivation. Write the profile note on the grading sheet.
+**The cognitive ability screen and support planning.** The screen is **not used to select**. Use its profile (Cognitive ability screen guide) to plan support: non-verbal and quantitative both 9 or more with verbal low usually means strong reasoning and an English gap (plan language support, and expect the paper results to rise as English does); processing speed well below the other parts suggests checking reading fluency and considering extra time; all three reasoning parts 4 or less suggests discussing further assessment before a decision (the Full guide for staff, Section 9); a strong profile with weak paper results suggests looking for gaps in prior learning or motivation. Write the profile note on the grading sheet.
 
 **When a one-year pre-A Level or IGCSE route is wiser.** Consider it, if the school offers one, when: English is band B, or band C with essay-based subjects wanted; the student has not sat IGCSE and the maths is band 2 on taught topics; the optional sciences for the subjects wanted are band 1 or 2 with many NT topics; or the interview shows that the student does not yet understand what A Level study in English involves. A year of IGCSE in English usually raises the English band, fills the content gaps and produces the IGCSE grades that universities and the school's own entry requirements may ask for. Tell the family early what the school's requirements are.
 
@@ -478,24 +478,24 @@ The example box at the start of Section A shows what the command words and symbo
 | English C; maths fluency high, word questions well below it; sciences 3 or 4 | Strong maths and science; English is the barrier. | A Level Maths and the sciences with ESL support; no essay-based subject in the first year; review English after one term. |
 | English C or D; maths fluency and word questions high, applied low; cognitive screen quantitative high | Strong calculation and algebra; less practised in problem solving and explaining. | A Level Maths with explicit teaching of problem solving and "explain" questions; review after one term. |
 | English C; maths 2 with NT on differentiation, sequences and cumulative frequency; sciences 2 with NT topics | Likely to manage with support, or better placed in a pre-A Level year. | If entry: ESL support, catch-up plans for the NT topics, maths and sciences reviewed after six weeks. Otherwise a pre-A Level or IGCSE year. |
-| English B, any maths and sciences | The English gap is too wide for A Level content in two years. | A pre-A Level or IGCSE year with intensive English, if the school has one; otherwise discuss a later start (`00_Admissions_Guide.md`, Section 9). |
-| English D or E; maths band 1 on taught topics; cognitive screen quantitative low | Not an English issue. | Further assessment before a decision (`00_Admissions_Guide.md`, Section 9). If an offer follows, no A Level Maths, and maths support where other subjects need it. |
+| English B, any maths and sciences | The English gap is too wide for A Level content in two years. | A pre-A Level or IGCSE year with intensive English, if the school has one; otherwise discuss a later start (the Full guide for staff, Section 9). |
+| English D or E; maths band 1 on taught topics; cognitive screen quantitative low | Not an English issue. | Further assessment before a decision (the Full guide for staff, Section 9). If an offer follows, no A Level Maths, and maths support where other subjects need it. |
 | Cognitive screen strong (non-verbal and quantitative 9 or more), verbal and all paper results low | Strong reasoning; the English is the whole gap. | A pre-A Level year with intensive English is likely to pay off; review the paper results after the year. |
 | Strong results, but the interview shows the A Level plan (subjects, country, university) is the family's, not the student's | Readiness is not only academic. | Talk with the family and student about subject choices and workload before an offer (Interview sheet, suitability strands). A serious mismatch, or any strand rated 1, goes to the head of section before any offer. |
 
-Use the Year 11 and 12 interview questions (subject choices and why, university plans, independent study, managing a heavy workload, what the student knows about A Level) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for A Level boxes and the assessor's comment) and on the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+Use the Year 11 and 12 interview questions (subject choices and why, university plans, independent study, managing a heavy workload, what the student knows about A Level) to judge whether the student's plans are realistic and their own. Record the readiness judgement on the grading sheet (the readiness for A Level boxes and the assessor's comment) and on the final mark sheet.
 
 [[keep]]
 
 ## 7. Recording the results
 
 1. **Mark the student paper.** Every question has a mark box.
-2. **Copy the totals onto the grading sheet** (`Y12_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B) and whether the essay answered a counter-argument, any access arrangements and your comment.
-3. **Mark the optional sciences** with `Y12_Optional_Sciences_Mark_Scheme_v3.1` and record each science taken on the grading sheet (score / 15, band, NT, L); tick "not taken" for each science the student did not sit.
-4. **Score the cognitive ability screen** with `shared/Cognitive_Ability_Screen_Guide` and record the four raw scores (Non-verbal / 12, Quantitative / 12, Verbal / 12, Processing speed / 60) and a one-line profile note on the grading sheet. It is not banded and it is not used to select.
-5. **Record the reading results and band on the Reading front sheet** (`forms/Reading_Front_Sheet`): the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
+2. **Copy the totals onto the grading sheet** and give the bands from the band guides above (the grading sheet repeats them at a glance). Record there too whether Part B of the listening was given, the maths sub-scores and profile (Section 4), the NT topics and L questions, the writing task chosen (A or B) and whether the essay answered a counter-argument, any access arrangements and your comment.
+3. **Mark the optional sciences** with Year 12 optional sciences mark scheme and record each science taken on the grading sheet (score / 15, band, NT, L); tick "not taken" for each science the student did not sit.
+4. **Score the cognitive ability screen** with Cognitive ability screen guide and record the four raw scores (Non-verbal / 12, Quantitative / 12, Verbal / 12, Processing speed / 60) and a one-line profile note on the grading sheet. It is not banded and it is not used to select.
+5. **Record the reading results and band on the Reading front sheet**: the reading paper marks (Part A, Part B), the band and the question where the student stopped at 15 minutes.
 6. **Give the interviewer the Reading front sheet and the Interview sheet** before the interview.
-7. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days (or within two working days of the second visit, if there is one). Write "v3.1" beside the scores on it: the listening is out of 16, the reading paper is out of 16, the maths has three sub-scores, each optional science is out of 15 and the cognitive screen is four raw scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
+7. **After the interview, put together** the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days (or within two working days of the second visit, if there is one). Write "v3.1" beside the scores on it: the listening is out of 16, the reading paper is out of 16, the maths has three sub-scores, each optional science is out of 15 and the cognitive screen is four raw scores. The overall English band is the band most skills sit in: name any skill that is two or more bands lower.
 8. **File the marked papers with them** (or shred them under the school's policy).
 
 **Year 12 only: readiness for A Level.** Read the results together with Section 6, then tick on the grading sheet the English course (English as a Second Language support, First Language level or to decide), A Level Maths (suitable, with support, not advised or to decide), the sciences (suitable for the A Level sciences taken, with support, or not advised), the readiness (Ready, Ready with support, Pre-A Level year advised or Not yet) and the support (English of maths, academic writing, content gaps, extra time to check, or none), and give your reasons in the assessor's comment.

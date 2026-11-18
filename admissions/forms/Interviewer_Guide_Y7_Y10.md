@@ -5,9 +5,9 @@ footer: Interviewer guide | Years 7 to 10
 ---
 # Interviewer guide: Years 7 to 10
 
-**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** (`forms/Interview_Sheet_Y7_Y10`).
+**This guide is reusable.** Nothing is written on it: keep one in the room, in a folder or laminated. Ratings and notes for each student go on the **Interview sheet** for Years 7 to 10.
 
-**About 15 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme. It opens with the Graded Sentence Reading Screen (3 to 5 minutes; start Level 6 for Year 7, 7 for Year 8, 8 for Year 9, 9 for Year 10; follow `shared/Sentence_Reading_Guide` and write the points on the Reading front sheet, `forms/Reading_Front_Sheet`).
+**About 15 minutes, 1:1.** The interview is held **in English**. It has three jobs: to hear the student's spoken English (the speaking band), to get to know the student (interests, learning, wellbeing, **future plans and aspirations**), and to judge their **suitability** for the international programme. It opens with the Graded Sentence Reading Screen (3 to 5 minutes; start Level 6 for Year 7, 7 for Year 8, 8 for Year 9, 9 for Year 10; follow Sentence reading guide and write the points on the Reading front sheet, Reading front sheet).
 
 **How to ask.** Start with the main question. If the student struggles, use the **easier** prompt (a yes or no, or a choice). If they answer easily, use the **stretch** prompt. This lets every student show their best English. Wait at least five seconds before rephrasing. Answers must be in English.
 

@@ -5,13 +5,13 @@ footer: Year 4 Admission Assessment v3.1 | Assessor instructions
 ---
 # Year 4 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Maths question 11 now says to write the length in cm and mm. Use with `Y04/Y04_Student_Paper_v3.1`; do not mix versions.
+**Version 3.1, October 2026.** Maths question 11 now says to write the length in cm and mm. Use with Year 4 student paper; do not mix versions.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y04_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 **Who this is for.** Students applying for Year 4 are usually 8 years old on 1 September. A student from a Chinese mainstream school has usually **completed Grade 2** (二年级): numbers to 10 000, adding and subtracting, times tables to 9 × 9 and division facts, cm and m, g and kg, time to the minute, right angles and simple tables of data. Fractions, perimeter, area, millimetres and multiplying by a one-digit number usually come in Grade 3. English as a school subject often starts in Grade 3, so many students have only had English classes outside school; students from bilingual schools may be close to fluent.
 
-**How it works.** About 58 minutes of student time, plus a welcome and a short break. The student writes in the **Student paper** (20 pages). Listening, reading, writing and maths can be taken in a small group with one invigilator (the listening is played or read to the group); the interview with sentence reading is always 1:1. Mark everything the same day and record the results as in Section 5, ending with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+**How it works.** About 58 minutes of student time, plus a welcome and a short break. The student writes in the **Student paper** (20 pages). Listening, reading, writing and maths can be taken in a small group with one invigilator (the listening is played or read to the group); the interview with sentence reading is always 1:1. Mark everything the same day and record the results as in Section 5, ending with the final mark sheet.
 
 ## 1. At a glance
 
@@ -23,29 +23,29 @@ footer: Year 4 Admission Assessment v3.1 | Assessor instructions
 | 4 | Writing | 10 | Students work alone | pages 11 to 12 | |
 | | Break | 3 to 5 | | | Water; a chance to move |
 | 5 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Students work alone; you read any question on request | pages 13 to 20 | Pencil, rubber, ruler marked in cm and mm |
-| 6 | Interview, opening with the Graded Sentence Reading Screen (start at Level 3) | 12 | Interviewer, 1:1 | | Interview sheet (`forms/Interview_Sheet_Y3_Y4`), Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`), Reading front sheet, `shared/Sentence_Reading_Card`, `shared/Sentence_Reading_Guide`, a plain card |
+| 6 | Interview, opening with the Graded Sentence Reading Screen (start at Level 3) | 12 | Interviewer, 1:1 | | Interview sheet for Years 3 and 4, Interviewer guide for Years 3 and 4, Reading front sheet, Sentence reading card, Sentence reading guide, a plain card |
 | | **Total** | **about 58**, plus welcome and break | | | |
 
 [[keep]]
 **For each candidate:**
 
 - the Student paper (A4, single-sided, at actual size);
-- the grading sheet (`Y04/Y04_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 3 and 4 (`forms/Interview_Sheet_Y3_Y4`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 3 and 4;
+- the parent conversation record;
+- the final mark sheet.
 [[/keep]]
 
 [[keep]]
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`), laminated;
+- the Interviewer guide for Years 3 and 4;
+- Sentence reading guide;
+- the sentence reading card, laminated;
 - a clock or timer, and a plain card to cover sentences;
-- the listening recording (`audio/v3.1/Y04/`) and something to play it on.
+- the listening recording (folder 3 Listening recording of the Year 4 folder) and something to play it on.
 [[/keep]]
 
 ## 2. Before you start
@@ -74,7 +74,7 @@ Help each student write their name and the date on page 1. Point to the "How to 
 
 ### 3.1 Listening (about 6 minutes with the recording, student paper pages 2 to 3)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y04/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 46 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 4 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 46 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
 
 **Say:** "Turn to page 2, Part 1: Listening. You are going to hear a phone call. Li Na is talking to her friend Amir. I will read it two times. First, look at the questions with me."
 
@@ -219,7 +219,7 @@ Use judgement when a result is uneven (for example a high Part C score with a lo
 Total: 16 marks (four criteria, each out of 4).
 [[/keep]]
 
-**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide.md`, Section 6, and choose the band that fits best, not the total alone. As a rough guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
+**Writing band (best fit).** Read the piece against the band descriptors in the Full guide for staff, Section 6, and choose the band that fits best, not the total alone. As a rough guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
 
 **What band E looks like at this age.** In 10 minutes, about 10 to 14 lines or more: a story with a clear beginning, middle and end, or an organised description with reasons; sentences joined with because, when, so and if; the tense kept the same; some well-chosen words and longer phrases; common words spelt correctly; capital letters, full stops and question marks used correctly, perhaps with speech marks. This is what a fluent English-speaking child at the end of UK Year 3 writes.
 
@@ -233,7 +233,7 @@ Total: 16 marks (four criteria, each out of 4).
 
 ### 3.4 Interview with sentence reading (12 minutes, 1:1)
 
-The questions are in `forms/Interviewer_Guide_Y3_Y4` and the record is the **Interview sheet** (`forms/Interview_Sheet_Y3_Y4`). The interview opens with the **Graded Sentence Reading Screen** (`shared/Sentence_Reading_Card`; the rules, the interviewer's copy of the sentences and the reading age table are in `shared/Sentence_Reading_Guide`; the record is the **Reading front sheet**): **start at Level 3** (sentence 7) and follow the start, going back and stopping rules in the guide (about 3 to 4 minutes). Then hold the interview: speak at the pace in Section 2, choose about two questions from each block, and give the **speaking band** on the Interview sheet. The interview also gives a "listening in conversation" band: compare it with the listening task. To finish, thank the student and tell them one thing they did well. Do not give any results.
+The questions are in Interviewer guide for Years 3 and 4 and the record is the **Interview sheet** for Years 3 and 4. The interview opens with the **Graded Sentence Reading Screen** (Sentence reading card; the rules, the interviewer's copy of the sentences and the reading age table are in Sentence reading guide; the record is the **Reading front sheet**): **start at Level 3** (sentence 7) and follow the start, going back and stopping rules in the guide (about 3 to 4 minutes). Then hold the interview: speak at the pace in Section 2, choose about two questions from each block, and give the **speaking band** on the Interview sheet. The interview also gives a "listening in conversation" band: compare it with the listening task. To finish, thank the student and tell them one thing they did well. Do not give any results.
 
 ## 4. Maths (18 minutes, student paper pages 13 to 20)
 
@@ -288,9 +288,9 @@ Section A (Questions 1 to 7): 10 marks. Section B (Questions 8 to 17): 15 marks.
 ## 5. Recording the results
 
 1. Mark the student paper (every question has a mark box).
-2. Copy the totals onto the grading sheet (`Y04_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance).
+2. Copy the totals onto the grading sheet and give the bands from the band guides above (the grading sheet repeats them at a glance).
 3. Record the reading results and band on the Reading front sheet.
 4. Give the interviewer the Reading front sheet and the Interview sheet before the interview.
-5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days.
+5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days.
 6. File the marked student paper with them (or shred it under the school's policy).
 [[/keep]]

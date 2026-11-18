@@ -8,13 +8,13 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 </style>
 # Year 3 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Same content as version 1. Use with `Y03/Y03_Student_Booklet_v3.1`; do not mix versions.
+**Version 3.1, October 2026.** Same content as version 1. Use with Year 3 student booklet; do not mix versions.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y03_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 **Who this is for.** Children applying for Year 3 are usually 7 years old on 1 September. A child from a Chinese mainstream school has usually **completed Grade 1** (一年级): numbers to 100, adding and subtracting within 100, o'clock and half past, yuan and jiao, and simple 2D and 3D shapes. Times tables, division, fractions, cm rulers and time to five minutes usually come later. English as a school subject often starts in Grade 3, so many children have only had English classes outside school; children from bilingual schools may be close to fluent.
 
-**How it works.** About 54 minutes of tasks, 1:1, plus a welcome and a short break. The child works in the **Student booklet** (11 pages); you lead every task and record the results on the child's grading sheet, Reading front sheet and Interview sheet. Reading uses the shared reading screens. Mark everything the same day and follow Section 5 (Recording the results), which ends with the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+**How it works.** About 54 minutes of tasks, 1:1, plus a welcome and a short break. The child works in the **Student booklet** (11 pages); you lead every task and record the results on the child's grading sheet, Reading front sheet and Interview sheet. Reading uses the shared reading screens. Mark everything the same day and follow Section 5 (Recording the results), which ends with the final mark sheet.
 
 ## 1. At a glance
 
@@ -22,11 +22,11 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 |---|---|---|---|---|---|
 | 1 | Welcome and picture talk (speaking) | 2 + 4 | Assessor, 1:1 | page 1 | Section 3.1 of these instructions |
 | 2 | Listening: follow instructions (recording) | about 4 | Assessor, 1:1 | page 2 | Pencil; coloured pencils: red, yellow, blue, green |
-| 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards, Early Reading Screen record sheets and Reading front sheet (instructions in `shared/Early_Reading_Screen_Guide` and `shared/Sentence_Reading_Guide`); a plain card; the levelled reading books |
+| 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards, Early Reading Screen record sheets and Reading front sheet (instructions in Early Reading Screen guide and Sentence reading guide); a plain card; the levelled reading books |
 | 4 | Writing: the picture story | 8 | Child writes | page 3 | Pencil |
 | | Break | 3 to 5 | | | Water; a chance to move |
 | 5 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 4 to 11 | Pencil, rubber, ruler marked in cm |
-| 6 | Short interview and goodbye | 8 | Assessor, 1:1 | | Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`) and Interview sheet (`forms/Interview_Sheet_Y3_Y4`); paper and crayons |
+| 6 | Short interview and goodbye | 8 | Assessor, 1:1 | | Interviewer guide for Years 3 and 4 and Interview sheet for Years 3 and 4; paper and crayons |
 | | **Total** | **about 54**, plus welcome and break | | | |
 
 [[keep]]
@@ -36,12 +36,12 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 **For each candidate:**
 
 - the Student booklet (A4, single-sided, at actual size; colour if possible, but the emoji pictures are clear in greyscale)
-- the grading sheet (`Y03/Y03_Grading_Sheet_v3.1`)
-- the Reading front sheet (`forms/Reading_Front_Sheet`)
-- the Interview sheet (`forms/Interview_Sheet_Y3_Y4`)
-- the parent conversation record (`forms/Parent_Conversation_Record`)
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`), completed after the visit
-- the Early Reading Screen record sheets (`shared/Early_Reading_Screen_Record`): only the sheets you expect to use
+- the grading sheet
+- the Reading front sheet
+- the Interview sheet for Years 3 and 4
+- the parent conversation record
+- the final mark sheet, completed after the visit
+- the Early Reading Screen record sheets (Early Reading Screen record): only the sheets you expect to use
 
 [[/keep]]
 
@@ -50,10 +50,10 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 **For the room (print once, laminate the cards):**
 
 - these instructions
-- the Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`)
-- the Sentence Reading Guide (`shared/Sentence_Reading_Guide`)
-- the laminated Graded Sentence Reading Screen card (`shared/Sentence_Reading_Card`)
-- the laminated Early Reading Screen cards (`shared/Early_Reading_Screen_Cards`) and guide (`shared/Early_Reading_Screen_Guide`)
+- the Interviewer guide for Years 3 and 4
+- the Sentence reading guide
+- the laminated Graded Sentence Reading Screen card (Sentence reading card)
+- the laminated Early Reading Screen cards and guide (Early Reading Screen guide)
 - the levelled reading books
 - the equipment in the "You need" column of the table above
 
@@ -119,7 +119,7 @@ Ask the prompts in order, slowly and clearly (see **Pace of speech** in Section 
 
 ### 3.2 Listening: follow instructions (about 4 minutes with the recording, booklet page 2)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y03/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 3 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
 
 **You need:** the park picture (page 2), a pencil, and four coloured pencils (red, yellow, blue, green) on the table.
 
@@ -165,14 +165,14 @@ Total: 10 marks (1 for each item).
 
 ### 3.3 Reading: the shared reading screens (12 minutes)
 
-Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards` and the record sheets in `shared/Early_Reading_Screen_Record`) with the **Year 3 start point** (Guide, Section 2): start at **Section 1, words 1 to 10** (practice Card 3, then Card 4).
+Use the Early Reading Screen (Early Reading Screen cards and the record sheets in Early Reading Screen record) with the **Year 3 start point** (Guide, Section 2): start at **Section 1, words 1 to 10** (practice Card 3, then Card 4).
 
 - **If words 1 to 10 are easy** (9 or 10 right, most read without sounding out): skip words 11 to 20 and the letter sounds, and go straight to Section 2. Section 2 is 15 or more: go on to the passages. Section 2 is 12 to 14: the tricky words, then the passages. Section 2 is under 12: go back to words 11 to 20, then the tricky words and the passages.
 - **If not:** as Year 2. Finish Section 1 (and Section 2 if Section 1 is 15 or more), then the letter sounds, the tricky words and the passages.
 
-Then give the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card`, with the rules in `shared/Sentence_Reading_Guide` and the score grid on the Reading front sheet) starting at **Level 2** (sentence 4).
+Then give the Graded Sentence Reading Screen (Sentence reading card, with the rules in Sentence reading guide and the score grid on the Reading front sheet) starting at **Level 2** (sentence 4).
 
-- The instructions for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide`; those for the sentence reading are in `shared/Sentence_Reading_Guide`. Follow their scoring and stopping rules. These instructions have no reading task of their own.
+- The instructions for the Early Reading Screen are in Early Reading Screen guide; those for the sentence reading are in Sentence reading guide. Follow their scoring and stopping rules. These instructions have no reading task of their own.
 - In Years 1 to 3 the **reading band** comes from the Early Reading Screen; the sentence reading screen confirms it (see the Sentence Reading Guide, Section 7).
 - Pronunciation features common for speakers of Chinese (for example l and r, a light final consonant, an extra vowel at the end of a word) are not reading errors when the word is clearly right.
 - Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 3.5 and 5).
@@ -202,7 +202,7 @@ The writing comes straight after the reading screens, before the break; the math
 
 **Checklist.** Tick the writing checklist on the grading sheet (it includes whether the child uses Chinese characters or pinyin).
 
-**Writing band (best fit).** Read the piece against the band descriptors in `00_Admissions_Guide`, Section 6, and choose the band that fits best. Record the band on the grading sheet. The total is only a guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
+**Writing band (best fit).** Read the piece against the band descriptors in the Full guide for staff, Section 6, and choose the band that fits best. Record the band on the grading sheet. The total is only a guide: about 0 to 3 **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
 
 **What band E looks like at this age.** About five or more sentences that tell the whole story in order, mostly in the past tense, joined with words such as and, then, because and when; capital letters and full stops nearly every time; common words spelt correctly and harder words spelt so that they can be read; perhaps a feeling or a few words of speech. This is what a fluent English-speaking child at the end of UK Year 2 writes.
 
@@ -216,7 +216,7 @@ The writing comes straight after the reading screens, before the break; the math
 
 ### 3.5 Short interview and goodbye (8 minutes)
 
-The questions are in `forms/Interviewer_Guide_Y3_Y4` and the record is the Interview sheet (`forms/Interview_Sheet_Y3_Y4`). In Year 3 the sentence reading has already been done with the Early Reading Screen (Section 3.3), so do not repeat it in the interview. Choose about two questions from each block. Give the **speaking band** on the Interview sheet, using the picture talk (Section 3.1) and the interview together, and complete the suitability strands. To finish, thank the child and tell them one thing they did well. Do not give any results.
+The questions are in Interviewer guide for Years 3 and 4 and the record is the Interview sheet for Years 3 and 4. In Year 3 the sentence reading has already been done with the Early Reading Screen (Section 3.3), so do not repeat it in the interview. Choose about two questions from each block. Give the **speaking band** on the Interview sheet, using the picture talk (Section 3.1) and the interview together, and complete the suitability strands. To finish, thank the child and tell them one thing they did well. Do not give any results.
 
 ## 4. Maths (18 minutes, booklet pages 4 to 11)
 
@@ -271,5 +271,5 @@ Total: 24 marks (Section A, Questions 1 to 5: 9 marks; Section B, Questions 6 to
 2. Copy the totals onto the grading sheet and give the bands from the band guides above (the grading sheet repeats them at a glance).
 3. Record the reading results and band on the Reading front sheet (the reading band comes from the Early Reading Screen; the sentence reading confirms it).
 4. Give the interviewer the Reading front sheet and the Interview sheet before the interview.
-5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days.
+5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days.
 6. File the marked student booklet with them (or shred it under the school's policy).

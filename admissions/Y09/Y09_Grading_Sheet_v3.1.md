@@ -7,7 +7,7 @@ footer: Year 9 Admission Assessment v3.1 | Grading sheet
 
 [[namegrid:Candidate name,Candidate number,Date of birth,Current school,Date of assessment,Assessor]]
 
-**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (every question has a mark box; answers and mark schemes are in `Y09_Assessor_Instructions_v3.1`). Copy the totals here and give the bands from the guide below. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
+**Paper version sat: v3.1** (on the front page of the student paper). **For staff only.** Mark the student paper first (every question has a mark box; answers and mark schemes are in Year 9 assessor instructions). Copy the totals here and give the bands from the guide below. Reading is recorded on the **Reading front sheet** and speaking on the **Interview sheet**.
 
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
@@ -36,7 +36,7 @@ footer: Year 9 Admission Assessment v3.1 | Grading sheet
 
 [[keep]]
 
-#### Band guide at a glance (full guide and judgement notes: `Y09_Assessor_Instructions_v3.1`)
+#### Band guide at a glance (full guide and judgement notes: Year 9 assessor instructions)
 
 | Band | Listening (/ 16) | Writing (/ 16; best fit decides) | Maths (/ 30) | Science (/ 10) |
 |---|---|---|---|---|

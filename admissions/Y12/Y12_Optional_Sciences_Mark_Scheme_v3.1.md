@@ -10,9 +10,9 @@ footer: Year 12 Admission Assessment v3.1 | Optional sciences, mark scheme
 
 # Year 12 Admission Assessment v3.1: Optional sciences, mark scheme
 
-**Version 3.1, October 2026.** Use with `Y12/Y12_Optional_Sciences_v3.1` (the student paper: Biology, Chemistry and Physics, 15 marks and 15 minutes each). The core assessment (English, maths, core science, cognitive ability screen and interview) is in `Y12_Assessor_Instructions_v3.1`; this document covers the optional science papers only.
+**Version 3.1, October 2026.** Use with Year 12 optional sciences paper (the student paper: Biology, Chemistry and Physics, 15 marks and 15 minutes each). The core assessment (English, maths, core science, cognitive ability screen and interview) is in Year 12 assessor instructions; this document covers the optional science papers only.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their **grading sheet** (`Y12_Grading_Sheet_v3.1`), which has a row for each optional science (mark / 15, band, NT, L, and a "not taken" tick).
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their **grading sheet**, which has a row for each optional science (mark / 15, band, NT, L, and a "not taken" tick).
 
 ## 1. What these papers are for
 
@@ -157,11 +157,11 @@ A Year 12 entrant joins the **first year of A Level**. The optional science pape
 
 **Before you give the band, look at NT and L.** An NT question scores 0 but tells you about the student's school sequence, not their ability: a Grade 10 student may reasonably mark NT on electrolysis, titration, transformers, radioactivity or quadrats. Judge whether the student would reach the next band once the NT topics are taught, and say so in the comment. A high number of L questions (two or more in one science) means the English of the paper, not the science, limited the result: say so, and look at the English bands together with the science. A band 1 that NT or L explains is treated as band 2 for the readiness judgement, as in the rest of the pack.
 
-**Recording.** On the grading sheet (`Y12_Grading_Sheet_v3.1`), for each optional science: the mark / 15, the band, the NT questions (by number and topic), the number of L questions, or a tick in "not taken". Note in the comment which questions were left blank at the end of the 15 minutes (time) and anything you observed (for example calculator use, working shown, confidence). If a science was given on a second visit, write the date.
+**Recording.** On the grading sheet, for each optional science: the mark / 15, the band, the NT questions (by number and topic), the number of L questions, or a tick in "not taken". Note in the comment which questions were left blank at the end of the 15 minutes (time) and anything you observed (for example calculator use, working shown, confidence). If a science was given on a second visit, write the date.
 
 ## 8. How the result feeds the readiness judgement for A Level sciences
 
-**This section is guidance for the school to confirm** against its own entry requirements for each A Level science and the support it can give. It is not a set of fixed rules. Read each science result with the English bands, the maths result and the core science mark (Section 6 of `Y12_Assessor_Instructions_v3.1`, which has the full readiness table for the year).
+**This section is guidance for the school to confirm** against its own entry requirements for each A Level science and the support it can give. It is not a set of fixed rules. Read each science result with the English bands, the maths result and the core science mark (Section 6 of Year 12 assessor instructions, which has the full readiness table for the year).
 
 **English is the gateway.** A Level sciences are taught and examined in English, with long explain and evaluate answers, practical write-ups and technical vocabulary. As a working guide: **English band C or above (reading and writing) with ESL support** is the minimum to start an A Level science taught in English; **band D or above** to follow it with little extra support. A student with strong science bands and English at band B is not yet ready for A Level science in English, however good the science.
 
@@ -175,8 +175,8 @@ A Year 12 entrant joins the **first year of A Level**. The optional science pape
 | Band 2 with errors on taught topics (for example biology 1 to 3, chemistry 1, 2 and 4, physics 1 to 4) | **Not yet ready for this science at A Level.** Discuss a one-year pre-A Level or IGCSE route, or a different subject choice, with the family. |
 | Band 1 not explained by NT or English | **Not ready.** Do not offer this science at A Level; if the student insists, a one-year IGCSE or pre-A Level route is the realistic step. |
 | Band 3 or 4 in science, English band C | Ready in science; **ESL support** and a limit on the number of essay-based subjects. Two sciences plus maths is often a better load than three sciences while English grows. |
-| Band 3 or 4 in science, English band B | **Not yet ready for A Level sciences taught in English.** A one-year pre-A Level or IGCSE route with intensive English is the usual advice (`00_Admissions_Guide.md`, Section 9). |
+| Band 3 or 4 in science, English band B | **Not yet ready for A Level sciences taught in English.** A one-year pre-A Level or IGCSE route with intensive English is the usual advice (the Full guide for staff, Section 9). |
 | Physics or chemistry band 3 or 4, maths band 1 or 2 | Check the maths NT first. If the maths is genuinely weak, A Level physics or chemistry will be hard: offer with maths support, or advise a different combination. |
 | High marks on calculations, low marks on explain and working-scientifically questions in every science | Strong content, less practice in the written and practical sides of science in English. Ready, with teaching of "explain" answers and practical write-ups from the start. |
 
-**Reading all three together.** A student ready in all the sciences they chose, with English D or E and maths 3 or 4, is ready for a full A Level programme. A student ready in one science but not another should be advised on subject choices before an offer. Use the Year 12 interview questions (subject choices and why, university plans, what they know about A Level) to check that the choices are realistic and the student's own. Record the readiness judgement for each science on the grading sheet and on the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+**Reading all three together.** A student ready in all the sciences they chose, with English D or E and maths 3 or 4, is ready for a full A Level programme. A student ready in one science but not another should be advised on subject choices before an offer. Use the Year 12 interview questions (subject choices and why, university plans, what they know about A Level) to check that the choices are realistic and the student's own. Record the readiness judgement for each science on the grading sheet and on the final mark sheet.

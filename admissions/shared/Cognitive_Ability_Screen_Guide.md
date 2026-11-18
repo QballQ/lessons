@@ -12,7 +12,7 @@ footer: Cognitive Ability Screen | Guide
 
 # Cognitive Ability Screen: guide for assessors
 
-**Version 3.1, October 2026.** Use with `shared/Cognitive_Ability_Screen_Y11_Y12` (the student booklet, 14 pages). The screen is the same for Year 11 and Year 12 entrants. The grading sheet for the year applied for records the result.
+**Version 3.1, October 2026.** Use with Cognitive ability screen booklet (the student booklet, 14 pages). The screen is the same for Year 11 and Year 12 entrants. The grading sheet for the year applied for records the result.
 
 **What this screen is for, and what it is not.** The screen gives the school a quick picture of how a student reasons with shapes, numbers and words, and how fast they work on a simple task. Its only purpose is to **plan learning support** once a student joins: which students may need help with English rather than with thinking, who may need extra time, where to look more closely. It is **never used to select**: no offer is made or refused on the strength of it, and it does not appear in the decision box of the final mark sheet. It is **not standardised**: the items were written by the school, there are no national norms, and the result is a set of **raw scores and the shape of the profile**, nothing more. It is **not a diagnosis** of any learning difficulty; that needs a specialist assessment. Until the school has its own reference, read every result cautiously. The school should **build its own reference once about 30 students have taken the screen** (Section 6.4).
 
@@ -198,7 +198,7 @@ The reference describes the school's own applicants, who are not a representativ
 ## 7. Recording the result
 
 1. **Mark the booklet** with the answer tables in Section 4. Write the score for each part at its stop banner.
-2. **Copy the four raw scores onto the student's grading sheet** (`Y11_Grading_Sheet_v3.1` or `Y12_Grading_Sheet_v3.1`) in the cognitive screen rows: **Non-verbal / 12, Quantitative / 12, Verbal / 12, Processing speed / 60**.
+2. **Copy the four raw scores onto the student's grading sheet** (Year 11 grading sheet or Year 12 grading sheet) in the cognitive screen rows: **Non-verbal / 12, Quantitative / 12, Verbal / 12, Processing speed / 60**.
 3. **Write the profile note** on the line provided: one or two short phrases, naming the shape and the provisional guidance from the table in 6.1, for example "Strong reasoning, English is the gap: ESL support" or "Slow coding (18) with good reasoning: check reading fluency, consider extra time" or "Even profile, no action". Add any known need or arrangement the family has told you about, and anything unusual on the day (anxiety, a misunderstanding of a task, a part not given or stopped early).
 4. **Do not** enter the screen in the decision box of the final mark sheet. The final mark sheet carries the four scores and the profile note for the support plan only, marked "for planning support, never for selection".
 5. **Enter the four scores in the tracker** so that the school's reference can be built (Section 6.4).

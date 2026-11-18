@@ -7,7 +7,7 @@ footer: Reading Front Sheet | Reading levels and sentence reading
 
 [[namegrid:Candidate name,Candidate number,Year group applied for,Date of birth,Age today (years:months),Date]]
 
-**For staff only. One sheet for each candidate, all year groups.** The assessor fills in Part 1 and gives this sheet to the interviewer (usually the principal) before the interview. The interviewer, or in Years 1 to 3 the assessor, runs the sentence reading with `Sentence_Reading_Guide` and records it in Part 2. Part 3 gives the reading result for the final mark sheet.
+**For staff only. One sheet for each candidate, all year groups.** The assessor fills in Part 1 and gives this sheet to the interviewer (usually the principal) before the interview. The interviewer, or in Years 1 to 3 the assessor, runs the sentence reading with Sentence reading guide and records it in Part 2. Part 3 gives the reading result for the final mark sheet.
 
 #### 1. Reading levels so far (the assessor fills this in)
 
@@ -70,7 +70,7 @@ Errors, what the student said when you are not sure, and **patterns noticed** (S
 
 [[keep]]
 
-#### Band from the reading age (the full guide and the notes are in `Sentence_Reading_Guide`)
+#### Band from the reading age (the full guide and the notes are in Sentence reading guide)
 
 | Reading age compared with actual age | Years 3 to 5 | Years 6 to 12 | Band |
 |---|---|---|---|

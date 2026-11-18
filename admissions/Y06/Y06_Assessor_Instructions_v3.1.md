@@ -5,11 +5,11 @@ footer: Year 6 Admission Assessment v3.1 | Assessor instructions
 ---
 # Year 6 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Same content as version 1. Use with `Y06/Y06_Student_Paper_v3.1`; do not mix versions.
+**Version 3.1, October 2026.** Same content as version 1. Use with Year 6 student paper; do not mix versions.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y06_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
-**For staff only.** Use with the Year 6 student paper (`Y06/Y06_Student_Paper_v3.1`), the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card` and `shared/Sentence_Reading_Guide`) and the Interviewer guide for Years 5 and 6 (`forms/Interviewer_Guide_Y5_Y6`). The whole process, the English proficiency bands and the decision guide are in `00_Admissions_Guide.md`.
+**For staff only.** Use with the Year 6 student paper, the Graded Sentence Reading Screen (Sentence reading card and Sentence reading guide) and the Interviewer guide for Years 5 and 6. The whole process, the English proficiency bands and the decision guide are in the Full guide for staff.
 
 **Who this is for.** Students joining UK Year 6 (age 10 to 11 in September). A student from a Chinese mainstream school has usually **completed Grade 4** (四年级); a student joining mid-year is partway through Grade 5. The maths tests UK Year 5 content, with a few easier and a few harder items. The science tests UK Year 5 science and working scientifically.
 
@@ -31,22 +31,22 @@ footer: Year 6 Admission Assessment v3.1 | Assessor instructions
 **For each candidate:**
 
 - the student paper (21 pages, A4, printed at actual size: switch off "fit to page", because the diagrams and the type sizes depend on it);
-- the grading sheet (`Y06/Y06_Grading_Sheet_v3.1`);
-- the Reading front sheet (`forms/Reading_Front_Sheet`);
-- the Interview sheet for Years 5 and 6 (`forms/Interview_Sheet_Y5_Y6`);
-- the parent conversation record (`forms/Parent_Conversation_Record`);
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`).
+- the grading sheet;
+- the Reading front sheet;
+- the Interview sheet for Years 5 and 6;
+- the parent conversation record;
+- the final mark sheet.
 [[/keep]]
 
 [[keep]]
 **For the room (print once, laminate the cards):**
 
 - these instructions;
-- the Interviewer guide (`forms/Interviewer_Guide_Y5_Y6`);
-- `shared/Sentence_Reading_Guide`;
-- the sentence reading card (`shared/Sentence_Reading_Card`), laminated;
+- the Interviewer guide for Years 5 and 6;
+- Sentence reading guide;
+- the sentence reading card, laminated;
 - a clock or timer, spare pencils;
-- the listening recording (`audio/v3.1/Y06/`) and something to play it on.
+- the listening recording (folder 3 Listening recording of the Year 6 folder) and something to play it on.
 [[/keep]]
 
 The written papers can be taken in a small group with one invigilator; listening is played or read to the group; the interview is always 1:1.
@@ -99,7 +99,7 @@ Extra time or a reader for a known need is allowed: record it on the grading she
 
 ### 3.1 Listening (about 7 minutes with the recording, / 8)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y06/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 48 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 6 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. It says the instructions below, reads the eight questions aloud once, plays the script twice (20 seconds apart) and gives one minute to finish, so you do not say or read anything yourself. The two speakers have different voices, so it does not say their names. The script below is its transcript, and the live reading option if no recording can be played. Read live at the recording's pace, one reading of the script takes about 1 minute 48 seconds, with the pauses: use this to check your own pace. Do not pause the recording during a reading of the script.
 
 **Say:** "Turn to page 2. I am going to read a phone conversation between two friends, Aisha and Jun. They are talking about a film night in the park at Mid-Autumn. First I will read the questions to you. Then I will read the conversation two times. You can answer while I read. Answer on pages 2 and 3."
 
@@ -249,7 +249,7 @@ Use judgement when a result is uneven (for example, Part C higher than Part B), 
 | **Grammar and sentences** | No sentences | Simple sentences with mostly correct word order, joined with and, then, because; frequent errors in tense, plurals and articles, but the meaning is clear | A range of sentences (with when, if, because, although, so that); tenses controlled; errors are rare and do not affect meaning |
 | **Spelling and punctuation** | Spelling cannot be read; no punctuation | Common words mostly correct, others spelt as they sound; capital letters and full stops sometimes | Most words correct, including less common ones; sentence punctuation secure; commas, apostrophes and speech marks mostly correct |
 
-**The writing band** is given by best fit with the descriptors in `00_Admissions_Guide.md`, Section 6, not by the total alone. As a rough guide only: totals of 0 to 3 usually fit **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
+**The writing band** is given by best fit with the descriptors in the Full guide for staff, Section 6, not by the total alone. As a rough guide only: totals of 0 to 3 usually fit **A**, 4 to 7 **B**, 8 to 10 **C**, 11 to 13 **D**, 14 to 16 **E**.
 
 **Band E at this age.** A fluent writer of 10 to 11 usually writes about 120 to 200 words in 10 minutes, in paragraphs, with a clear opening and ending suited to the form (a story ending, or a letter's closing such as "I hope to meet you soon"). Sentences vary in length and type, vocabulary is chosen for effect, and dialogue in a story is mostly punctuated correctly. Common words are spelt correctly and harder words plausibly. The errors are the ones any 10 year old makes, not the features of a learner of English (missing "a" and "the", missing past tense -ed or plural -s, Chinese word order).
 
@@ -261,11 +261,11 @@ Use judgement when a result is uneven (for example, Part C higher than Part B), 
 
 ### 3.4 Speaking: the interview (about 8 minutes of questions)
 
-The questions are in `forms/Interviewer_Guide_Y5_Y6` and the record is the **Interview sheet** (`forms/Interview_Sheet_Y5_Y6`). The interviewer records the speaking band and "listening in conversation" on the Interview sheet, and speaks at the pace in 2.1. If the listening task (3.1) and listening in conversation differ by more than one band, note why on the Interview sheet.
+The questions are in Interviewer guide for Years 5 and 6 and the record is the **Interview sheet** for Years 5 and 6. The interviewer records the speaking band and "listening in conversation" on the Interview sheet, and speaks at the pace in 2.1. If the listening task (3.1) and listening in conversation differ by more than one band, note why on the Interview sheet.
 
 ### 3.5 Reading aloud: the Graded Sentence Reading Screen (opens the interview, 3 to 4 minutes)
 
-Use `shared/Sentence_Reading_Card`. The rules, the interviewer's copy of the sentences and the meaning questions, and the reading age table are in `shared/Sentence_Reading_Guide`; the record is the **Reading front sheet**. **Start at Level 5 (sentence 13)** for Year 6. If you already know the student is new to English, start at Level 1. Follow the guide's rules for going back, stopping and the meaning checks. Use the "Years 6 to 10" column of the guide's reading age table to turn the reading age into an indicative band, and use it to confirm the reading paper band.
+Use Sentence reading card. The rules, the interviewer's copy of the sentences and the meaning questions, and the reading age table are in Sentence reading guide; the record is the **Reading front sheet**. **Start at Level 5 (sentence 13)** for Year 6. If you already know the student is new to English, start at Level 1. Follow the guide's rules for going back, stopping and the meaning checks. Use the "Years 6 to 10" column of the guide's reading age table to turn the reading age into an indicative band, and use it to confirm the reading paper band.
 
 ## 4. Maths (18 minutes, / 25)
 
@@ -359,9 +359,9 @@ List the NT questions on the grading sheet and judge whether the student would r
 ## 6. Recording the results
 
 1. Mark the student paper (every question has a mark box).
-2. Copy the totals onto the grading sheet (`Y06_Grading_Sheet_v3.1`) and give the bands from the band guides above (the grading sheet repeats them at a glance). In maths, also record on the grading sheet whether the number problems against the word problems (Section A / 9, word problems / 5) show an English barrier in maths: yes, no or unsure (see 4.3).
+2. Copy the totals onto the grading sheet and give the bands from the band guides above (the grading sheet repeats them at a glance). In maths, also record on the grading sheet whether the number problems against the word problems (Section A / 9, word problems / 5) show an English barrier in maths: yes, no or unsure (see 4.3).
 3. Record the reading results and band on the Reading front sheet.
 4. Give the interviewer the Reading front sheet and the Interview sheet before the interview.
-5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days.
+5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days.
 6. File the marked student paper with them (or shred it under the school's policy).
 [[/keep]]

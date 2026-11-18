@@ -45,7 +45,7 @@ Write the candidate number on every sheet. Years 1 to 3 booklets print best in c
 | File | Pages | For |
 |---|---|---|
 | 1 Day sheet, pin up | 1 | the room |
-| 2 Assessor instructions Year 12 | 20 | the assessor |
+| 2 Assessor instructions Year 12 | 21 | the assessor |
 | 3 Optional sciences mark scheme Year 12 | 9 | the assessor |
 | 4 Cognitive ability screen guide | 7 | the assessor |
 | 5 Interviewer guide Years 11 and 12 | 3 | the interviewer |

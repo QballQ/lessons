@@ -5,9 +5,9 @@ footer: Year 1 Admission Assessment v3.1 | Assessor instructions
 ---
 # Year 1 Admission Assessment v3.1: assessor instructions
 
-**Version 3.1, October 2026.** Same content as version 1. Use with `Y01/Y01_Student_Booklet_v3.1`; do not mix versions.
+**Version 3.1, October 2026.** Same content as version 1. Use with Year 1 student booklet; do not mix versions.
 
-**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet** (`Y01_Grading_Sheet_v3.1`), reading on the **Reading front sheet** and the interview on the **Interview sheet**.
+**Reusable: print once and keep in the assessor's folder. Do not write on these pages.** Record each candidate's marks on their own **grading sheet**, reading on the **Reading front sheet** and the interview on the **Interview sheet**.
 
 For a child joining **Year 1** (about 5 years old). Most have finished the middle year of a Chinese kindergarten (中班); some come from bilingual kindergartens. The visit takes **about 45 minutes, 1:1**, and should feel like play. The child uses the Year 1 student booklet; you write the maths marks in the mark boxes on the child's pages and record everything else on the child's grading sheet, Reading front sheet and Interview sheet.
 
@@ -34,12 +34,12 @@ The order follows the blueprint for Years 1 to 3: the English tasks (Section 3) 
 **For each candidate:**
 
 - Year 1 student booklet: A4, single-sided, in colour if possible (the pictures also work in greyscale)
-- the grading sheet (`Y01/Y01_Grading_Sheet_v3.1`)
-- the Reading front sheet (`forms/Reading_Front_Sheet`)
-- the Interview sheet (`forms/Interview_Sheet_Y1_Y2`)
-- the parent conversation record (`forms/Parent_Conversation_Record`)
-- the final mark sheet (`forms/Candidate_Summary_and_Decision`), completed after the visit
-- the Early Reading Screen record sheets (`shared/Early_Reading_Screen_Record`): only the sheets you expect to use
+- the grading sheet
+- the Reading front sheet
+- the Interview sheet for Years 1 and 2
+- the parent conversation record
+- the final mark sheet, completed after the visit
+- the Early Reading Screen record sheets (Early Reading Screen record): only the sheets you expect to use
 
 [[/keep]]
 
@@ -48,11 +48,11 @@ The order follows the blueprint for Years 1 to 3: the English tasks (Section 3) 
 **For the room (print once, laminate the cards):**
 
 - these instructions
-- the Interviewer guide (`forms/Interviewer_Guide_Y1_Y2`)
-- the Sentence Reading Guide (`shared/Sentence_Reading_Guide`)
-- the Graded Sentence Reading Screen card (`shared/Sentence_Reading_Card`)
-- the Early Reading Screen cards (`shared/Early_Reading_Screen_Cards`) and guide (`shared/Early_Reading_Screen_Guide`)
-- levelled reading books (`01_Reading_Books_and_Materials`)
+- the Interviewer guide for Years 1 and 2
+- the Sentence reading guide
+- the Graded Sentence Reading Screen card (Sentence reading card)
+- the Early Reading Screen cards and guide (Early Reading Screen guide)
+- levelled reading books (Reading books and materials list)
 - 20 counters, all the same colour and size (about 2 cm across), in a small pot
 - 4 crayons (red, blue, yellow, green), 2 pencils, a rubber
 - a plain card about A5 size (to cover pictures and sentences), a watch or timer
@@ -152,7 +152,7 @@ Give the speaking band from the picture talk on the grading sheet. The final spe
 
 ### 3.2 Listening: follow instructions (about 4 minutes with the recording, page 3)
 
-**Recording.** A recording of this test is in `audio/v3.1/Y01/` (see its `READ_ME_FIRST.txt` for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
+**Recording.** A recording of this test is in folder 3 Listening recording of the Year 1 folder (see its READ ME FIRST page of the year folder for the tracks and timings). Play it instead of reading the script: every candidate then hears the same voices, pace and pauses. The script below is its transcript, and the live reading option if no recording can be played. Do not pause the recording during a reading of the script.
 
 **Set up.** Open the booklet at page 3 (the bedroom). Put the four crayons on the table: red, blue, yellow and green. Do not name the colours.
 
@@ -200,9 +200,9 @@ Total: 10 marks (1 for each item).
 
 ### 3.3 Reading: Early Reading Screen and Graded Sentence Reading Screen (12 minutes)
 
-Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards` and the record sheets in `shared/Early_Reading_Screen_Record`) starting at the letter sounds (Card 1, then Card 2 if 15 or more of Card 1 are right) and then the Section 1 words (Year 1 start point in the guide, Section 2); and the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card`, with the rules in `shared/Sentence_Reading_Guide` and the score grid on the Reading front sheet) starting at Level 1.
+Use the Early Reading Screen (Early Reading Screen cards and the record sheets in Early Reading Screen record) starting at the letter sounds (Card 1, then Card 2 if 15 or more of Card 1 are right) and then the Section 1 words (Year 1 start point in the guide, Section 2); and the Graded Sentence Reading Screen (Sentence reading card, with the rules in Sentence reading guide and the score grid on the Reading front sheet) starting at Level 1.
 
-The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide`. Follow the scripts, scoring and stopping rules in that guide and in the Sentence Reading Guide; these instructions have no reading tasks of their own. All answers are in English, including the answers to the questions about what the child has just read. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 5 and 6). Then take the movement break.
+The full scripts and rules for the Early Reading Screen are in Early Reading Screen guide. Follow the scripts, scoring and stopping rules in that guide and in the Sentence Reading Guide; these instructions have no reading tasks of their own. All answers are in English, including the answers to the questions about what the child has just read. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 5 and 6). Then take the movement break.
 
 ### 3.4 Writing (5 minutes, pages 4 and 5; given after the reading screens, before the break)
 
@@ -335,7 +335,7 @@ Chinese kindergartens are asked not to teach primary school content (the policy 
 
 ## 5. Play-based interview and goodbye (6 minutes, page 14)
 
-The questions are in `forms/Interviewer_Guide_Y1_Y2` and the record is the Interview sheet (`forms/Interview_Sheet_Y1_Y2`). Sit on the floor or at the low table, open the student booklet at page 14 (Draw) and offer the crayons: the interview starts with a drawing ("Can you draw you, doing something you love?"). Play alongside, talk about the drawing and follow the child's lead. Give the speaking band on the Interview sheet, combining the interview with the picture talk (recorded on the grading sheet). The observation boxes on the Interview sheet cover the whole visit, so fill them in now.
+The questions are in Interviewer guide for Years 1 and 2 and the record is the Interview sheet for Years 1 and 2. Sit on the floor or at the low table, open the student booklet at page 14 (Draw) and offer the crayons: the interview starts with a drawing ("Can you draw you, doing something you love?"). Play alongside, talk about the drawing and follow the child's lead. Give the speaking band on the Interview sheet, combining the interview with the picture talk (recorded on the grading sheet). The observation boxes on the Interview sheet cover the whole visit, so fill them in now.
 
 **Goodbye.** Say: "Thank you, [name]! You worked really hard today. I liked [something specific, such as your drawing or your counting]. Let's go and find Mum (or Dad)." Do not give any results to the family on the day.
 
@@ -345,5 +345,5 @@ The questions are in `forms/Interviewer_Guide_Y1_Y2` and the record is the Inter
 2. Copy the totals onto the grading sheet and give the bands from the band guides above (the grading sheet repeats them at a glance).
 3. Record the reading results and band on the Reading front sheet (the reading band comes from the Early Reading Screen, guide section 6.7).
 4. Give the interviewer the Reading front sheet and the Interview sheet before the interview.
-5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days.
+5. After the interview, put together the grading sheet, Reading front sheet, Interview sheet and parent conversation record, and complete the final mark sheet within two working days.
 6. File the marked student booklet with them (or shred it under the school's policy).

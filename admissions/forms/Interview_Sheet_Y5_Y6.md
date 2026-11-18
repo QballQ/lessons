@@ -7,7 +7,7 @@ footer: Interview sheet | Years 5 and 6
 
 [[namegrid:Candidate name,Candidate number,Year group applied for,Date,Interviewer,Others present]]
 
-Questions and descriptors: `forms/Interviewer_Guide_Y5_Y6`. Sentence reading is recorded on the Reading front sheet. For staff only.
+Questions and descriptors: Interviewer guide for Years 5 and 6. Sentence reading is recorded on the Reading front sheet. For staff only.
 
 [[keep]]
 

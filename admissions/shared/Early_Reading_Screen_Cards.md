@@ -34,7 +34,7 @@ footer: Early Reading Screen | Reading cards
 
 **For the assessor. Do not show this page to the child.**
 
-The child reads from these cards, one to one. The scripts and scoring rules are in the **instructions** (`Early_Reading_Screen_Guide`); the **record sheets** (`Early_Reading_Screen_Record`) are printed once for each child.
+The child reads from these cards, one to one. The scripts and scoring rules are in the **instructions** (Early Reading Screen guide); the **record sheets** (Early Reading Screen record) are printed once for each child.
 
 - Print once, single-sided, and keep each card in a plastic sleeve. Colour and greyscale both work.
 - Put only the card you are using in front of the child. Keep the record sheets out of sight.

@@ -7,7 +7,7 @@ footer: Year 2 Admission Assessment v3.1 | Grading sheet
 
 [[namegrid:Child's name,Candidate number,Date of birth,Current kindergarten or school,Date of assessment,Assessor]]
 
-**Paper version sat: v3.1** (on the front page of the student booklet). **For staff only.** Complete it as you go or straight after the visit. The maths marks are in the mark boxes on the child's booklet pages; the instructions, scripts and mark schemes are in `Y02_Assessor_Instructions_v3.1`. Reading is recorded on the **Reading front sheet** (with the Early Reading Screen sheets) and the interview on the **Interview sheet**.
+**Paper version sat: v3.1** (on the front page of the student booklet). **For staff only.** Complete it as you go or straight after the visit. The maths marks are in the mark boxes on the child's booklet pages; the instructions, scripts and mark schemes are in Year 2 assessor instructions. Reading is recorded on the **Reading front sheet** (with the Early Reading Screen sheets) and the interview on the **Interview sheet**.
 
 #### 1. Speaking: picture talk (3.1)
 
