@@ -1,6 +1,6 @@
 # Pykrete: the ship made of ice | 木屑冰：用冰造的船
 
-Video for Year 7 Ice Engineers, Week 7 (The ice ship mission). Length 6 minutes 54 seconds, 1920 x 1080, narrated in British English with English and Chinese captions on screen.
+Video for Year 7 Ice Engineers, Week 7 (The ice ship mission). Length 6 minutes 11 seconds, 1920 x 1080, narrated in British English with English and Chinese captions on screen.
 Chinese text status: draft, needs native-speaker check.
 
 Files: `Pykrete_the_ship_made_of_ice.mp4`, plus separate caption files (`.srt`) in English and Chinese.

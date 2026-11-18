@@ -3,8 +3,8 @@ Usage: python3 make_video.py script.json shots voice/en_GB-alan-medium.onnx out_
 import json, os, subprocess, sys, wave
 script, shots, voice, out = sys.argv[1:5]
 S = json.load(open(script)); os.makedirs(out + '/seg', exist_ok=True)
-LEAD, TAIL, SCENE_END = 0.5, 0.6, 1.1
-SAY = {}  # optional respellings for the voice only, e.g. {'Perutz': 'Peroots'}
+LEAD, TAIL, SCENE_END = 0.4, 0.4, 0.8
+SAY = {'1942': 'nineteen forty-two', '1943': 'nineteen forty-three', '1893': 'eighteen ninety-three'}  # respellings for the voice only: years are read as years, captions keep the digits
 def run(a, **k): subprocess.run(a, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, **k)
 def ts(t): h, r = divmod(t, 3600); m, s = divmod(r, 60); return f'{int(h):02d}:{int(m):02d}:{int(s):02d},{int(round((s % 1) * 1000)) % 1000:03d}'
 t, lst, srt_en, srt_zh, n = 0.0, [], [], [], 0
@@ -14,7 +14,7 @@ for i, sc in enumerate(S):
         base = f'{out}/seg/s{i:02d}_{k}'
         text = sg['en']
         for a, b in SAY.items(): text = text.replace(a, b)
-        run([sys.executable, '-m', 'piper', '-m', voice, '--length-scale', '1.12', '--sentence-silence', '0.35', '-f', base + '.wav'], input=text.encode())
+        run([sys.executable, '-m', 'piper', '-m', voice, '--length-scale', '1.0', '--sentence-silence', '0.28', '-f', base + '.wav'], input=text.encode())
         with wave.open(base + '.wav') as w: d = w.getnframes() / w.getframerate()
         lead = LEAD if k == 1 else 0.15
         tail = SCENE_END if k == len(sc['segs']) else TAIL
