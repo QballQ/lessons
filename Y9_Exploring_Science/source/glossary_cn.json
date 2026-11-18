@@ -1,5 +1,5 @@
 {
- "_note": "One Chinese term per English key word, used in every Year 9 lesson file. Chinese text status: draft, needs native-speaker check. Add new terms at the end of the right unit block; do not change an existing pairing without changing every lesson that uses it. The 'Revision' block holds terms used only in the revision guides (cells, microscopy, atoms and the periodic table); cell nucleus (细胞核, 9A) and atomic nucleus (原子核, Revision) are different terms. The 'Physics' block holds the terms of the physics part of the revision guide (measurement, density, vectors, forces, energy, speed); note that displacement of water (排水法) and displacement as a distance (位移) are different terms.",
+ "_note": "One Chinese term per English key word, used in every Year 9 lesson file. Chinese text status: draft, needs native-speaker check. Add new terms at the end of the right unit block; do not change an existing pairing without changing every lesson that uses it. The 'Revision' block holds terms used only in the revision guides (cells, microscopy, atoms and the periodic table); cell nucleus (细胞核, 9A) and atomic nucleus (原子核, Revision) are different terms. The 'Physics' block holds the terms of the physics part of the revision guide (measurement, density, vectors, forces, energy, speed); note that displacement of water (排水法) and displacement as a distance (位移) are different terms. The 9A block also holds adjective and noun forms used in gap-fill word boxes (abiotic, biotic, environmental, continuous, discontinuous, identical, normal, breeding, native, camouflaged, selection); plurals and past tenses (genes, gametes, reproduced) use the base word.",
  "9A": {
   "species": "物种",
   "extinct": "灭绝的",
@@ -75,7 +75,18 @@
   "faulty gene": "缺陷基因",
   "sickle cell disease": "镰状细胞病",
   "cystic fibrosis": "囊性纤维化",
-  "Down's syndrome": "唐氏综合征"
+  "Down's syndrome": "唐氏综合征",
+  "abiotic": "非生物的",
+  "biotic": "生物的",
+  "environmental": "环境的",
+  "continuous": "连续的",
+  "discontinuous": "不连续的",
+  "identical": "相同的",
+  "normal": "正态的",
+  "breeding": "繁育",
+  "native": "本地的",
+  "camouflaged": "有伪装的",
+  "selection": "选择"
  },
  "9B": {
   "photosynthesis": "光合作用",

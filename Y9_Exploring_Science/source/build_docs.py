@@ -62,8 +62,9 @@ def p(doc, text, bold=False, italic=False, size=None, color=None, style=None, sp
 def bullet(doc, text):
     para = doc.add_paragraph(style='List Bullet'); para.add_run(text); para.paragraph_format.space_after = Pt(2); return para
 
-def table(doc, headers, rows, widths=None, font=9.5, shade='EEF1F5'):
+def table(doc, headers, rows, widths=None, font=9.5, shade='EEF1F5', fixed=False):
     t = doc.add_table(rows=1, cols=len(headers)); t.style = 'Table Grid'; t.alignment = WD_TABLE_ALIGNMENT.CENTER
+    if fixed: t.autofit = False   # honour the column widths (LibreOffice otherwise shrinks the table)
     for i, h in enumerate(headers):
         c = t.rows[0].cells[i]; c.text = ''; r = c.paragraphs[0].add_run(h); r.bold = True; r.font.size = Pt(font); set_cell_shade(c, shade)
     for row in rows:
@@ -71,6 +72,8 @@ def table(doc, headers, rows, widths=None, font=9.5, shade='EEF1F5'):
         for i, v in enumerate(row):
             cells[i].text = ''; r = cells[i].paragraphs[0].add_run(str(v)); r.font.size = Pt(font)
     if widths:
+        if fixed:
+            for i, w in enumerate(widths): t.columns[i].width = Cm(w)
         for row in t.rows:
             for i, w in enumerate(widths): row.cells[i].width = Cm(w)
     doc.add_paragraph().paragraph_format.space_after = Pt(2)
@@ -334,6 +337,63 @@ def assessment_docs():
                 subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, docx], text=True, capture_output=True)
         print('test paper', tid)
 
+def lesson_notes_docs():
+    """Teacher notes for the lessons outside the numbered scheme: source/content_extra/*.json -> <unit folder>/<id>_<slug>_Teacher_Notes.docx and .pdf.
+    The notes hold the plan, the video options (with what could and could not be checked), the filled-in answers and a note on Test 1."""
+    import subprocess, sys
+    skill = os.environ.get('PPTX_SKILL_DIR', '/root/.claude/skills/synced/f06b7bea-4409-4beb-89a6-75febf1b2f2b_c8489965-e177-412d-a52c-32d98e76e412/pptx')
+    soffice = os.path.join(skill, 'scripts', 'office', 'soffice.py')
+    for f in sorted(glob.glob(os.path.join(HERE, 'content_extra', '*.json'))):
+        L = json.load(open(f, encoding='utf-8'))
+        out_dir = os.path.join(ROOT, UNIT_DIR[L['unit']]); os.makedirs(out_dir, exist_ok=True)
+        out = os.path.join(out_dir, f"{L['id']}_{L['slug']}_Teacher_Notes.docx")
+        doc = new_doc()
+        doc.add_paragraph(f"{L['title']}: teacher notes", style='Title')
+        p(doc, f"Year 9 Science | {L['unit']} {L['unit_title']} | Built {TODAY} | Chinese text status: draft, needs native-speaker check", size=9, color=MUTED)
+        p(doc, L['big_idea'], italic=True)
+        doc.add_paragraph('At a glance', style='Heading 2')
+        table(doc, ['Item', 'Detail'], [['Use', 'A 40-minute lesson for the gap between finishing the 9A topics and the assessment. It also works as a cover lesson: the slides carry the instructions and the speaker notes say what to do.'],
+                              ['Covers', '9A lessons 1 (environmental variation), 2 (inherited variation), 6 (genes, adaptation and extinction) and 7 (natural selection and evolution).'],
+                              ['Not covered', '9A lesson 3 (probability), 4 (DNA) and 5 (genetic counselling): they were not taught or are not in Test 1. A fifth passage could be added in make_revision_lesson_9A.py.'],
+                              ['Student material', 'Cards (A6, four to an A4 sheet): the English pack, or the CN pack with 中文 on the key words and word boxes. Or the A4 worksheet, standard or CN. The cards are the default for the exercise book.'],
+                              ['You need', '; '.join(L['equipment'])]], widths=[3.0, 14.4], font=9.5, fixed=True)
+        doc.add_paragraph('Before the lesson', style='Heading 2')
+        for t in ['Open and play your chosen video on the classroom computer. Note the point where you will stop it.', 'Print the cards (the _Cards_A4 file, one sheet holds four cards, cut along the borders) or the worksheet, enough copies for the class, with some CN copies.',
+                  'Put out green pens for marking.', 'Skim the filled-in passages below so you can answer questions during the rounds.']: bullet(doc, t)
+        doc.add_paragraph('Timeline (40 minutes, 36 planned)', style='Heading 2')
+        table(doc, ['Phase', 'Min', 'Teacher does', 'Students do', 'Resource'], [[t['phase'], t['min'], t['teacher'], t['students'], t['resource']] for t in L['timeline']], widths=[2.4, 1.0, 5.8, 5.0, 3.2], font=8.5, fixed=True)
+        p(doc, 'The four spare minutes absorb transitions and the video starting late. Fast finishers move on to Stretch (no word box) and then Challenge (write your own gap fill).', size=9.5)
+        doc.add_paragraph('Video options', style='Heading 2')
+        p(doc, L['access_note'], bold=True)
+        table(doc, ['', 'Video', 'Source and length', 'What it covers and how to use it'],
+              [[v['rank'], v['title'], f"{v['source']}\nLength: {v['length']}\n{v['licence']}", f"{v['covers']}\n{v['use']}" + (f"\nLink: {v['url']}" if v.get('url') else '') + (f"\nLesson page: {v['page']}" if v.get('page') else '')] for v in L['videos']],
+              widths=[0.8, 3.4, 4.2, 9.0], font=8.5, fixed=True)
+        p(doc, 'What was checked: that each lesson or listing exists and what it says about itself. What was not: I could not play any video from here, so lengths marked "not shown" or "not checked", and whether each plays on your network, need your check. Oak videos are streamed only; there is no download.', italic=True, size=9.5)
+        doc.add_paragraph('Answers: the filled-in passages', style='Heading 2')
+        for ps in L['filled']:
+            doc.add_paragraph(f"{ps['title']}  ({ps['lesson']})", style='Heading 3')
+            for i, line in enumerate(ps['lines'], 1):
+                para = doc.add_paragraph(); para.paragraph_format.space_after = Pt(2); para.add_run(f'{i}.  ')
+                for k, seg in enumerate(line.split('**')):
+                    r = para.add_run(seg); r.bold = (k % 2 == 1)
+        doc.add_paragraph('Exit ticket', style='Heading 3')
+        for i, a in enumerate(L['answers']['exit'], 1): p(doc, f'{i}. {a}', space_after=2)
+        doc.add_paragraph('Confidence check', style='Heading 3'); p(doc, L['answers']['core'][-1])
+        doc.add_paragraph('Challenge', style='Heading 3'); p(doc, L['answers']['challenge'][0])
+        doc.add_paragraph('Misconceptions to watch for', style='Heading 2'); [bullet(doc, m) for m in L['misconceptions']]
+        doc.add_paragraph('A note on Test 1', style='Heading 2')
+        for t in ['The passages avoid the scenarios Test 1 asks about. Passage 4 retells the 1800s peppered moth story, which the revision guide also covers; Stretch uses the grey and red squirrels instead of the moths returning to pale.',
+                  'The Khan Academy moth clip ends with pale moths returning as pollution fell. That is the scenario in Test 1 question 6, so stop it before that part if the test has not been sat, or choose the Oak video.',
+                  'The revision guide has a Test yourself question in section 4 (question 5) on the same scenario as Test 1 question 6. Students who revise from the guide will have seen it; change one of them if you want question 6 to be unseen.']: bullet(doc, t)
+        doc.add_paragraph('Oak National Academy lessons used as a basis', style='Heading 2')
+        for o in L.get('oak', []): bullet(doc, f"{o['unit']}: {o['lesson']}  {o['url']}")
+        doc.add_paragraph('Slides and speaker notes', style='Heading 2')
+        table(doc, ['Slide', 'Title', 'Speaker notes'], [[i, s.get('title') or L['title'], s.get('notes', '')] for i, s in enumerate(L['slides'], 1)], widths=[1.2, 4.2, 12.0], font=8.5, fixed=True)
+        doc.save(out)
+        if os.path.exists(soffice):
+            subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, out], text=True, capture_output=True)
+        print('lesson notes', L['id'])
+
 def main():
     lessons = load_lessons()
     os.makedirs(os.path.join(ROOT, '00_Teaching_Plan'), exist_ok=True)
@@ -347,6 +407,7 @@ def main():
     image_docs(lessons)
     revision_docs()
     assessment_docs()
+    lesson_notes_docs()
 
 if __name__ == '__main__':
     main()

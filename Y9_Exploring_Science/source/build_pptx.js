@@ -34,7 +34,7 @@ const LOGO_NAVY = path.join(ROOT, '..', 'design', 'assets', 'school_logo_horizon
 
 const PHASE_LABEL = {
   donow: 'DO NOW', today: 'TODAY', hook: 'HOOK', learn: 'LEARN', do: 'DO', practical: 'PRACTICAL',
-  think: 'THINK AND REFLECT', exit: 'EXIT TICKET', safety: 'SAFETY', summary: 'SUMMARY', check: 'CHECK',
+  think: 'THINK AND REFLECT', exit: 'EXIT TICKET', safety: 'SAFETY', summary: 'SUMMARY', check: 'CHECK', video: 'VIDEO', answers: 'CHECK',
 };
 
 function imagePath(ref) {
@@ -81,9 +81,9 @@ function build(lesson, outFile) {
   pres.layout = 'LAYOUT_WIDE';
   pres.theme = { headFontFace: THEME.headFontFace, bodyFontFace: THEME.bodyFontFace };
   pres.author = 'Year 9 Science';
-  pres.title = `${lesson.unit} Lesson ${lesson.lesson}: ${lesson.title}`;
+  pres.title = lesson.label ? `${lesson.unit}: ${lesson.title}` : `${lesson.unit} Lesson ${lesson.lesson}: ${lesson.title}`;
   const C = pres.SchemeColor;
-  const footerText = `Year 9 Science  |  ${lesson.unit} ${lesson.unit_title}  |  Lesson ${lesson.lesson}: ${lesson.title}`;
+  const footerText = lesson.label ? `Year 9 Science  |  ${lesson.unit} ${lesson.unit_title}  |  ${lesson.title}` : `Year 9 Science  |  ${lesson.unit} ${lesson.unit_title}  |  Lesson ${lesson.lesson}: ${lesson.title}`;
 
   pres.defineSlideMaster({
     title: 'TITLE', background: { color: NAVY },
@@ -169,7 +169,7 @@ function build(lesson, outFile) {
     const type = s.type;
     if (type === 'title') {
       const slide = pres.addSlide({ masterName: 'TITLE' });
-      slide.addText(`YEAR 9 SCIENCE  ·  ${lesson.unit.toUpperCase()} ${lesson.unit_title.toUpperCase()}  ·  LESSON ${lesson.lesson} OF ${lesson.n_lessons}`,
+      slide.addText(`YEAR 9 SCIENCE  ·  ${lesson.unit.toUpperCase()} ${lesson.unit_title.toUpperCase()}  ·  ${lesson.label ? lesson.label.toUpperCase() : `LESSON ${lesson.lesson} OF ${lesson.n_lessons}`}`,
         { x: 0.6, y: 1.5, w: 11.5, h: 0.5, fontSize: 14, color: HI, bold: true, charSpacing: 2, margin: 0, isTextBox: true });
       slide.addText(lesson.title, { placeholder: 'title' });
       slide.addText(s.subtitle || lesson.big_idea || '', { placeholder: 'body' });
@@ -213,7 +213,7 @@ function build(lesson, outFile) {
       slide.addText(bullets(s.lines, fitSize(s.lines, 11.9, 5.0, 26, 18)), { x: 0.6, y: 1.5, w: 11.9, h: 5.0, fontSize: 26, color: HI_INK, margin: 0, isTextBox: true, valign: 'top' });
       notes(slide, s); continue;
     }
-    const master = (type === 'think' || type === 'summary') ? 'TINT' : (type === 'exit' || type === 'check' ? 'PAGE' : 'CONTENT');
+    const master = (type === 'think' || type === 'summary') ? 'TINT' : (type === 'exit' || type === 'check' || type === 'answers' ? 'PAGE' : 'CONTENT');
     const slide = pres.addSlide({ masterName: master });
     slide.addText(s.title || '', { placeholder: 'title' });
     tag(slide, type === 'steps' ? 'do' : (type === 'diagram' || type === 'compare' || type === 'table' || type === 'chart' ? 'learn' : type));
@@ -351,6 +351,39 @@ function build(lesson, outFile) {
       slide.addText(pts, { x: 0.6, y: 1.5, w: hasImg ? 6.6 : 11.9, h: 4.5, fontSize: sfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, { x: 7.5, y: 1.5, w: 5.2, h: 4.3 }, { caption: s.caption });
       if (s.next) slide.addText([{ text: 'Next lesson  ', options: { bold: true, color: PLUM } }, { text: s.next, options: { color: INK } }], { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: fitSize(['Next lesson  ' + s.next], 11.9, 0.45, 15, 12, 0), margin: 0, isTextBox: true });
+    } else if (type === 'video') {
+      // a "watch" slide: the video is played from its link, so the slide holds the task and the links, not the film
+      timer(slide, s.minutes);
+      slide.addShape(pres.ShapeType.roundRect, { x: 0.6, y: 1.45, w: 6.1, h: 4.1, fill: { color: NAVY }, line: { color: NAVY }, rectRadius: 0.15 });
+      slide.addShape(pres.ShapeType.ellipse, { x: 3.0, y: 2.0, w: 1.3, h: 1.3, fill: { color: HI }, line: { color: HI } });
+      slide.addText('▶', { x: 3.0, y: 2.0, w: 1.3, h: 1.3, fontSize: 48, color: NAVY, align: 'center', valign: 'middle', margin: 0, isTextBox: true });
+      slide.addText(s.heading || s.title, { x: 0.9, y: 3.6, w: 5.5, h: 1.6, fontSize: fitSize([s.heading || s.title], 5.5, 1.6, 30, 20, 0), bold: true, color: WHITE, align: 'center', valign: 'middle', margin: 0, isTextBox: true });
+      slide.addText('While you watch', { x: 7.2, y: 1.45, w: 4.5, h: 0.45, fontSize: 22, bold: true, color: PLUM, margin: 0, isTextBox: true });
+      if (s.instruction) slide.addText(s.instruction, { x: 7.2, y: 1.95, w: 5.5, h: 0.75, fontSize: 16, italic: true, color: MUTED, margin: 0, isTextBox: true, valign: 'top' });
+      const words = s.watch_for || [], half = Math.ceil(words.length / 2);
+      [words.slice(0, half), words.slice(half)].forEach((col, ci) => {
+        slide.addText(col.map((w, i) => ({ text: '☐  ' + w, options: { breakLine: i < col.length - 1, paraSpaceAfter: 10 } })),
+          { x: 7.2 + ci * 2.8, y: 2.8, w: 2.7, h: 2.75, fontSize: 20, color: INK, margin: 0, isTextBox: true, valign: 'top' });
+      });
+      const runs = [{ text: 'Teacher links  ', options: { bold: true, color: PLUM, fontSize: 14 } }];
+      (s.links || []).forEach((l, i) => { runs.push({ text: l.label, options: { hyperlink: { url: l.url, tooltip: l.url }, fontSize: 14 } }); if (i < s.links.length - 1) runs.push({ text: '    ·    ', options: { color: MUTED, fontSize: 14 } }); });
+      slide.addText(runs, { x: 0.6, y: 5.75, w: 11.9, h: 0.4, margin: 0, isTextBox: true, valign: 'middle' });
+      if (s.backup) slide.addText(s.backup, { x: 0.6, y: 6.2, w: 11.9, h: 0.4, fontSize: 14, color: MUTED, margin: 0, isTextBox: true, valign: 'middle' });
+    } else if (type === 'answers') {
+      slide.addText(s.instruction || 'Mark in green pen. Correct any gap you missed.', { x: 0.6, y: 1.35, w: 11.9, h: 0.45, fontSize: 16, italic: true, color: MUTED, margin: 0, isTextBox: true });
+      const plainLines = s.lines.map((l, i) => `${i + 1}.  ` + l.replace(/\*\*/g, ''));
+      const afs = fitSize(plainLines, 11.9, 4.55, 22, 15, 0.45);
+      const runs = [];
+      s.lines.forEach((l, i) => {
+        runs.push({ text: `${i + 1}.  `, options: { bold: true, color: PLUM } });
+        const parts = String(l).split(/(\*\*[^*]+\*\*)/g).filter(Boolean);
+        parts.forEach((p, pi) => {
+          const last = i === s.lines.length - 1 && pi === parts.length - 1;
+          if (p.startsWith('**')) runs.push({ text: p.slice(2, -2), options: { bold: true, color: PLUM, breakLine: pi === parts.length - 1 && !last } });
+          else runs.push({ text: p, options: { color: INK, breakLine: pi === parts.length - 1 && !last } });
+        });
+      });
+      slide.addText(runs, { x: 0.6, y: 1.9, w: 11.9, h: 4.6, fontSize: afs, margin: 0, isTextBox: true, valign: 'top', paraSpaceAfter: 9 });
     } else if (type === 'image') {
       addImage(slide, s.image, { x: 0.6, y: 1.4, w: 11.9, h: 4.6 }, { caption: s.caption, align: 'center' });
       if (s.text) slide.addText(s.text, { x: 0.6, y: 6.1, w: 11.9, h: 0.5, fontSize: 18, color: INK, margin: 0, isTextBox: true, align: 'center' });

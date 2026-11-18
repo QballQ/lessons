@@ -12,6 +12,14 @@ const HERE = __dirname;
 const ROOT = path.join(HERE, '..');
 const REG = fs.existsSync(path.join(HERE, 'image_register.json')) ? JSON.parse(fs.readFileSync(path.join(HERE, 'image_register.json'), 'utf8')) : {};
 const COMMAND_WORDS = JSON.parse(fs.readFileSync(path.join(HERE, 'command_words.json'), 'utf8'));
+// every English term with its Chinese, from the shared glossary (draft Chinese): used for word boxes that hold more words than the key words box
+const GLOSS = (() => { try { const g = JSON.parse(fs.readFileSync(path.join(HERE, 'glossary_cn.json'), 'utf8')); const m = {}; Object.keys(g).filter(k => k !== '_note').forEach(k => Object.assign(m, g[k])); return m; } catch (e) { return {}; } })();
+const cnOf = (word, kw) => {
+  const w = String(word).toLowerCase(), forms = [w, w.replace(/s$/, ''), w.replace(/d$/, ''), w.replace(/ed$/, '')];   // genes -> gene, reproduced -> reproduce
+  for (const f of forms) { const k = (kw || []).find(x => x.en.toLowerCase() === f); if (k) return k.cn; if (GLOSS[f]) return GLOSS[f]; }
+  return '';
+};
+const lessonName = (lesson) => lesson.label || `${lesson.unit} Lesson ${lesson.lesson}`;
 
 const FONT = { ascii: 'Calibri', hAnsi: 'Calibri', cs: 'Calibri', eastAsia: 'Microsoft YaHei' };
 const GREY = 'EDEDED', DARK = '000000', MID = '555555';
@@ -98,6 +106,7 @@ function renderQuestion(q, numLabel, cn, out) {
   // q: {q, lines, parts, gap, mcq, table, match, image, caption, grid, box}
   const stemRuns = [run(numLabel + '  ', { bold: true })].concat(markup(q.q, cn));
   out.push(para(stemRuns, { before: 100, after: 60, keepNext: true }));
+  if (q.word_box) renderWordBox(q.word_box, cn, out);
   if (q.image) renderImage(q, out);
   if (q.mcq) {
     for (const opt of q.mcq) out.push(para([run('☐  ', { size: 24 }), run(opt)], { indent: { left: 400 }, after: 40 }));
@@ -135,6 +144,30 @@ function renderQuestion(q, numLabel, cn, out) {
   if (q.grid) renderGrid(out);
   if (q.lines) out.push(...line(q.lines));
 }
+// a box of words for a gap-fill passage; on the CN sheet each word carries its Chinese
+function renderWordBox(words, cn, out) {
+  const kw = (renderWordBox.kw || []);
+  const items = words.map(w => { const c = cn ? cnOf(w, kw) : ''; return c ? [run(w, { bold: true, size: 20 }), run(' ' + c, { size: 17 })] : [run(w, { bold: true, size: 20 })]; });
+  const runs = [];
+  items.forEach((r, i) => { runs.push(...r); if (i < items.length - 1) runs.push(run('   ·   ', { size: 20, color: MID })); });
+  out.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell([para(runs, { after: 0, keepNext: true })], CONTENT_W - 400, { shade: GREY })] })],
+    width: { size: CONTENT_W - 400, type: WidthType.DXA }, columnWidths: [CONTENT_W - 400], borders: allThin, layout: docx.TableLayoutType.FIXED, indent: { size: 400, type: WidthType.DXA } }));
+  out.push(para(' ', { after: 40, keepNext: true }));
+}
+// "While you watch": key words to tick as they are heard, and a line to write one new thing
+function renderWatch(w, cn, kw, out) {
+  const cols = 4, per = Math.ceil(w.words.length / cols), W = Math.floor((CONTENT_W - 200) / cols);
+  const colCells = [];
+  for (let c = 0; c < cols; c++) {
+    const col = w.words.slice(c * per, (c + 1) * per);
+    colCells.push(cell(col.map(x => { const cc = cn ? cnOf(x, kw) : ''; return para([run('☐  ' + x, { size: 20 })].concat(cc ? [run(' ' + cc, { size: 17 })] : []), { after: 40 }); }), W, { borders: noBorders }));
+  }
+  const inner = [para([run(w.title, { bold: true, size: 22 }), run('    ' + (w.instruction || ''), { size: 18, color: MID })], { after: 60, keepNext: true }),
+    new Table({ rows: [new TableRow({ children: colCells })], width: { size: W * cols, type: WidthType.DXA }, columnWidths: Array(cols).fill(W), borders: noBorders, layout: docx.TableLayoutType.FIXED }),
+    para([run(w.note || '', { size: 19 })], { before: 40, after: 0 }), ...line(2, { indent: 0 })];
+  out.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(inner, CONTENT_W, { borders: { top: thin, bottom: thin, left: thin, right: thin } })] })], width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: [CONTENT_W], borders: allThin, layout: docx.TableLayoutType.FIXED }));
+  out.push(para(' ', { after: 40 }));
+}
 function renderBox(h, out) {
   out.push(new Table({ rows: [new TableRow({ cantSplit: true, height: { value: h, rule: docx.HeightRule.ATLEAST }, children: [cell(para(' ', { after: 0 }), CONTENT_W - 400)] })], width: { size: CONTENT_W - 400, type: WidthType.DXA }, columnWidths: [CONTENT_W - 400], borders: allThin, layout: docx.TableLayoutType.FIXED, indent: { size: 400, type: WidthType.DXA } }));
   out.push(para(' ', { after: 40 }));
@@ -157,7 +190,7 @@ function build(lesson, outFile, cn) {
   // Header block: title + name fields (left), key words (right)
   const leftW = cn ? 5300 : 6000, rightW = CONTENT_W - leftW;
   const left = [
-    para([run(`${lesson.unit} Lesson ${lesson.lesson}`, { size: 20, color: MID })], { after: 0 }),
+    para([run(lessonName(lesson), { size: 20, color: MID })], { after: 0 }),
     para([run(lesson.title, { size: 34, bold: true })], { after: 40 }),
     para([run(`Year 9 Science  ·  ${lesson.unit} ${lesson.unit_title}  ·  Student Book pages ${lesson.book.pages}`, { size: 18, color: MID })], { after: 120 }),
     para([run('Name ', { size: 20 }), run(cn ? '________________' : '____________________', { size: 20 }), run('  Class ', { size: 20 }), run('______', { size: 20 }), run('  Date ', { size: 20 }), run('________', { size: 20 })], { after: 120 }),
@@ -190,6 +223,8 @@ function build(lesson, outFile, cn) {
   ] })], [leftW, rightW], { borders: noBorders }));
   body.push(para(' ', { after: 60 }));
 
+  renderWordBox.kw = kw;
+  if (ws.watch) renderWatch(ws.watch, cn, kw, body);
   const tierHeader = (dots, name, sub) => {
     body.push(new Paragraph({ children: [run(dots + '  ' + name, { bold: true, size: 26 }), run('    ' + sub, { size: 18, color: MID })], spacing: { before: 200, after: 80 }, border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: DARK, space: 2 } }, keepNext: true }));
   };
@@ -208,23 +243,23 @@ function build(lesson, outFile, cn) {
   }
   if (ws.word_bank && ws.word_bank.length) {
     body.push(para(' ', { after: 40 }));
-    const items = cn ? ws.word_bank.map(w => { const k = kw.find(x => x.en.toLowerCase() === w.toLowerCase()); return k ? `${w} ${k.cn}` : w; }) : ws.word_bank;
+    const items = cn ? ws.word_bank.map(w => { const c = cnOf(w, kw); return c ? `${w} ${c}` : w; }) : ws.word_bank;
     body.push(new Table({ rows: [new TableRow({ children: [cell([para([run('Word bank   ', { bold: true, size: 20 }), run(items.join('   ·   '), { size: 20 })], { after: 0 })], CONTENT_W, { shade: GREY })] })], width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: [CONTENT_W], borders: allThin, layout: docx.TableLayoutType.FIXED }));
   }
   if (ws.exit && ws.exit.length) {
     body.push(new Paragraph({ children: [run('✂  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  cut here', { size: 16, color: MID })], spacing: { before: 240, after: 80 }, keepNext: true }));
-    const ex = [para([run(`Exit ticket   ${lesson.unit} Lesson ${lesson.lesson}: ${lesson.title}`, { bold: true, size: 22 }), run('       Name ____________________', { size: 20 })], { after: 80 })];
+    const ex = [para([run(`Exit ticket   ${lessonName(lesson)}: ${lesson.title}`, { bold: true, size: 22 }), run('       Name ____________________', { size: 20 })], { after: 80 })];
     ws.exit.forEach((q, i) => { ex.push(para([run(`${i + 1}.  `, { bold: true })].concat(markup(q, cn)), { after: 20, keepNext: true })); ex.push(...line(ws.exit_lines && ws.exit_lines[i] || 1, { indent: 300 })); });
     ex.push(para([run('Today I can:   ', { bold: true, size: 18 })].concat(lesson.goals.map((g, i) => run(`Goal ${i + 1} ☐    `, { size: 18 }))), { before: 80, after: 0 }));
     body.push(new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(ex, CONTENT_W, { borders: { top: thin, bottom: thin, left: thin, right: thin } })] })], width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: [CONTENT_W], borders: allThin, layout: docx.TableLayoutType.FIXED }));
   }
 
   const doc = new Document({
-    creator: 'Year 9 Science', title: `${lesson.unit} L${lesson.lesson} ${lesson.title} worksheet${cn ? ' (CN support)' : ''}`,
+    creator: 'Year 9 Science', title: `${lesson.label ? lesson.unit : lesson.unit + ' L' + lesson.lesson} ${lesson.title} worksheet${cn ? ' (CN support)' : ''}`,
     styles: { default: { document: { run: { font: FONT, size: 22 } } } },
     sections: [{
       properties: { page: { size: { width: PAGE_W, height: PAGE_H }, margin: { top: MARGIN, bottom: 700, left: MARGIN, right: MARGIN } } },
-      footers: { default: new Footer({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CONTENT_W }], children: [run(`Exploring Science 9  ·  ${lesson.unit} Lesson ${lesson.lesson}  ·  Worksheet ${cn ? '(with Chinese key words)' : '(standard)'}`, { size: 16, color: MID }), new TextRun({ text: '\tPage ', font: FONT, size: 16, color: MID }), new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 16, color: MID })] })] }) },
+      footers: { default: new Footer({ children: [new Paragraph({ tabStops: [{ type: TabStopType.RIGHT, position: CONTENT_W }], children: [run(`Exploring Science 9  ·  ${lessonName(lesson)}  ·  Worksheet ${cn ? '(with Chinese key words)' : '(standard)'}`, { size: 16, color: MID }), new TextRun({ text: '\tPage ', font: FONT, size: 16, color: MID }), new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 16, color: MID })] })] }) },
       children: body,
     }],
   });

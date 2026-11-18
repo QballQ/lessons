@@ -14,6 +14,14 @@ const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, WidthT
 const HERE = __dirname;
 const REG = fs.existsSync(path.join(HERE, 'image_register.json')) ? JSON.parse(fs.readFileSync(path.join(HERE, 'image_register.json'), 'utf8')) : {};
 const COMMAND_WORDS = JSON.parse(fs.readFileSync(path.join(HERE, 'command_words.json'), 'utf8'));
+// every English term with its Chinese, from the shared glossary (draft Chinese), for word boxes on the CN cards
+const GLOSS = (() => { try { const g = JSON.parse(fs.readFileSync(path.join(HERE, 'glossary_cn.json'), 'utf8')); const m = {}; Object.keys(g).filter(k => k !== '_note').forEach(k => Object.assign(m, g[k])); return m; } catch (e) { return {}; } })();
+let CUR_KW = [];
+const cnOf = (word) => {
+  const w = String(word).toLowerCase(), forms = [w, w.replace(/s$/, ''), w.replace(/d$/, ''), w.replace(/ed$/, '')];   // genes -> gene, reproduced -> reproduce
+  for (const f of forms) { const k = CUR_KW.find(x => x.en.toLowerCase() === f); if (k) return k.cn; if (GLOSS[f]) return GLOSS[f]; }
+  return '';
+};
 
 const FONT = { ascii: 'Arial', hAnsi: 'Arial', cs: 'Arial', eastAsia: 'Microsoft YaHei' };
 const DARK = '333333', MID = '777777', BAND = 'EDEDED', ROW = 'F4F4F4';
@@ -112,9 +120,16 @@ function matchTable(m) {
   }
   return new Table({ rows, width: { size: wl + wm + wr, type: WidthType.DXA }, columnWidths: [wl, wm, wr], borders: noBorders, layout: docx.TableLayoutType.FIXED });
 }
-const hasPieces = (p) => !!(p.table || p.match || p.mcq || p.gap_lines || p.grid || p.box || p.image);
+const hasPieces = (p) => !!(p.table || p.match || p.mcq || p.gap_lines || p.grid || p.box || p.image || p.word_box);
+// a box of words for a gap-fill passage; on the CN cards each word carries its Chinese
+function wordBoxTable(words, cn) {
+  const runs = [];
+  words.forEach((w, i) => { const c = cn ? cnOf(w) : ''; runs.push(run(w, { bold: true, size: TBL })); if (c) runs.push(run(' ' + c, { size: CAP + 1 })); if (i < words.length - 1) runs.push(run('  ·  ', { size: TBL, color: MID })); });
+  return new Table({ rows: [new TableRow({ cantSplit: true, children: [cell(para(runs, { after: 0, keepNext: true, align: AlignmentType.CENTER }), CW, { shade: ROW, pad: 50 })] })], width: { size: CW, type: WidthType.DXA }, columnWidths: [CW], borders: gridBorders, layout: docx.TableLayoutType.FIXED });
+}
 // pieces of a task that are not plain writing: tables, matching, images, mcq, gap fill, grid, box
 function pieces(q, out, cn) {
+  if (q.word_box) { out.push(wordBoxTable(q.word_box, cn)); out.push(para(' ', { after: 0, line: SZ.spacer, keepNext: true })); }
   if (q.image) {
     const ir = imgRun(q.image, q.image_w ? Math.min(q.image_w, SZ.img_w * 1.1) : SZ.img_w, SZ.img_h);
     if (ir) {
@@ -145,6 +160,7 @@ const bandHeight = (lines) => rawBandHeight(writingLines(lines));
 const rowHeight = (cells, shares) => SZ.row + (SZ.txt - 0.05) * (Math.max(1, ...cells.map((c, i) => Math.ceil(String(c || '').length / Math.max(8, SZ.cpl * (SMALL / TBL) * shares[i])))) - 1);   // table text is smaller than body text
 function pieceHeight(p) {
   let s = 0;
+  if (p.word_box) s += SZ.txt * Math.max(1, Math.ceil(p.word_box.join('  ·  ').length * 1.15 / SZ.cpl)) + 0.5;   // Chinese on the CN cards makes it a little longer
   if (p.table) {
     const t = p.table, n = t.headers.length;
     const tot = t.widths ? t.widths.reduce((a, b) => a + b, 0) : n;
@@ -220,13 +236,14 @@ function build(lesson, outFile, cn, budgetScale = 1, size = 'a6') {
   setSize(size);
   const ws = lesson.worksheet;
   const budget = BUDGET * budgetScale;
-  const code = `${lesson.unit} L${lesson.lesson}`;
+  CUR_KW = lesson.keywords || [];
+  const code = lesson.label ? `${lesson.unit} Revision` : `${lesson.unit} L${lesson.lesson}`;
   const cards = [];   // {kicker, title, subtitle, label, body: []}
   // 01 lesson card
   const donow = lesson.slides.find(s => s.type === 'donow');
   const learnTitles = lesson.slides.filter(s => ['learn', 'compare', 'chart', 'table', 'diagram'].includes(s.type)).map(s => s.title);
   const prac = lesson.slides.find(s => s.type === 'practical');
-  const flow = [
+  const flow = lesson.card_flow || [
     'Do Now: ' + (donow ? donow.title.replace(/^Do Now:\s*/i, '') : 'quick review'),
     'Learn: ' + learnTitles.slice(0, SZ === SIZES.a6 ? 2 : 3).join(' · ') + (learnTitles.length > (SZ === SIZES.a6 ? 2 : 3) ? ' · and more' : ''),
     prac ? 'Practical: ' + prac.title : 'Core tasks',
@@ -240,7 +257,7 @@ function build(lesson, outFile, cn, budgetScale = 1, size = 'a6') {
   flow.forEach((f, i) => l1.push(para([badge(i + 1), run('  ' + f, { size: SMALL })], { indent: { left: 200 }, after: 30 })));
   l1.push(para([run(`Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`, { size: CAP, color: MID })], { before: 60, after: 80 }));
   band(l1, [run(cn ? 'What I learned today (one or two sentences)  今天我学到了：' : 'What I learned today (one or two sentences)', { bold: true, size: SMALL })], 2);
-  cards.push({ kicker: 'Lesson', title: lesson.title, subtitle: `${lesson.unit} ${lesson.unit_title} · Lesson ${lesson.lesson} of ${lesson.n_lessons}`, label: 'LESSON', body: l1 });
+  cards.push({ kicker: 'Lesson', title: lesson.title, subtitle: lesson.label ? `${lesson.unit} ${lesson.unit_title} · ${lesson.label}` : `${lesson.unit} ${lesson.unit_title} · Lesson ${lesson.lesson} of ${lesson.n_lessons}`, label: 'LESSON', body: l1 });
   // 02 key vocabulary
   const kw = lesson.keywords;
   const vw = cn ? [Math.floor(CW * 0.27), Math.floor(CW * 0.17), 0] : [Math.floor(CW * 0.3), 0];
@@ -271,6 +288,14 @@ function build(lesson, outFile, cn, budgetScale = 1, size = 'a6') {
     qs.forEach((q, i) => band(r, [badge(i + 1), run('  ' + q.replace(/^\d+\.\s*/, ''), { size: SMALL })], qs.length > 3 ? 1 : SZ.review_lines));
     cards.push({ kicker: 'Quick review', title: 'Quick Review', subtitle: donow.title.replace(/^Do Now:\s*/i, ''), label: 'REVIEW', body: r });
   }
+  // a "while you watch" card: key words to tick as they are heard, and a band for one new thing
+  if (ws.watch) {
+    const half = Math.floor(CW / 2), per = Math.ceil(ws.watch.words.length / 2);
+    const cols = [0, 1].map(c => cell(ws.watch.words.slice(c * per, (c + 1) * per).map(x => { const cc = cn ? cnOf(x) : ''; return para([run('☐  ' + x, { size: BODY })].concat(cc ? [run(' ' + cc, { size: SMALL })] : []), { after: 60 }); }), c ? CW - half : half, { borders: noBorders }));
+    const w = [new Table({ rows: [new TableRow({ children: cols })], width: { size: CW, type: WidthType.DXA }, columnWidths: [half, CW - half], borders: noBorders, layout: docx.TableLayoutType.FIXED }), para(' ', { after: 0, line: SZ.spacer })];
+    band(w, [run(ws.watch.note || 'One new thing:', { bold: true, size: SMALL })], 2);
+    cards.push({ kicker: 'While you watch', title: 'While You Watch', subtitle: ws.watch.instruction, label: 'WATCH', body: w });
+  }
   // core and challenge cards
   const section = (tasks, kicker, title, label, subtitle) => {
     const packed = packUnits(tasks, budget);
@@ -281,6 +306,9 @@ function build(lesson, outFile, cn, budgetScale = 1, size = 'a6') {
   };
   section((ws.core || []).map((q, i) => ({ label: String(i + 1), units: taskUnits(q, String(i + 1), cn) })), 'Core', 'Core', 'CORE',
     cn ? 'Everyone does these. Answer on the card or under it.  人人都做，答案写在卡片上或下面。' : 'Everyone does these. Answer on the card or under it.');
+  // Stretch stays on the full worksheet unless the lesson asks for it on the cards (a revision lesson, where fast finishers have no other sheet)
+  if (lesson.cards_stretch) section((ws.stretch || []).map((q, i) => ({ label: 'S' + (i + 1), units: taskUnits(q, 'S' + (i + 1), cn) })), 'Stretch', 'Stretch', 'STRETCH',
+    cn ? 'When Core is finished.  完成基础题后做。' : 'When Core is finished.');
   section((ws.challenge || []).map((q, i) => ({ label: 'C' + (i + 1), units: taskUnits(q, 'C' + (i + 1), cn) })), 'Challenge', 'Challenge', 'CHALLENGE',
     cn ? 'When Core is finished. Full sentences.  完成基础题后做；请写完整句子。' : 'When Core is finished. Full sentences.');
   // exit ticket

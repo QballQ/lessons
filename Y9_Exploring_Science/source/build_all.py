@@ -15,6 +15,7 @@ from pypdf import PdfReader
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, '..')
 CONTENT = os.path.join(HERE, 'content')
+EXTRA = os.path.join(HERE, 'content_extra')   # lessons outside the numbered scheme (e.g. the 9A revision lesson); not in the teaching plan
 UNIT_DIR = {'9A': '9A_Genetics_and_evolution', '9B': '9B_Plant_growth', '9C': '9C_Threat_from_disease'}
 SKILL = os.environ.get('PPTX_SKILL_DIR', '/root/.claude/skills/synced/f06b7bea-4409-4beb-89a6-75febf1b2f2b_c8489965-e177-412d-a52c-32d98e76e412/pptx')
 SOFFICE = os.path.join(SKILL, 'scripts', 'office', 'soffice.py')
@@ -95,7 +96,7 @@ def main():
         run([sys.executable, os.path.join(HERE, 'make_diagrams.py')])
         run(['node', os.path.join(HERE, 'svg2png.js')])
     grey_copies()
-    files = sorted(glob.glob(os.path.join(CONTENT, '*.json')))
+    files = sorted(glob.glob(os.path.join(CONTENT, '*.json'))) + sorted(glob.glob(os.path.join(EXTRA, '*.json')))
     if args: files = [f for f in files if os.path.splitext(os.path.basename(f))[0] in args]
     for f in files:
         print('=== ', os.path.basename(f))
