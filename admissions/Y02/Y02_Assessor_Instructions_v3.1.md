@@ -22,13 +22,13 @@ For a child joining **Year 2** (about 6 years old). Most have finished the top y
 | 2 | Speaking: picture talk | 4 | always 1:1 | | page 2 | 3.1 |
 | 3 | Listening: follow instructions (recording) | about 5 | 1:1 or pair | crayons: red, blue, yellow, green | page 3 | 3.2 |
 | 4 | Reading: Early Reading Screen, then Graded Sentence Reading Screen | 12 | always 1:1 | shared cards, Early Reading Screen record sheets, Reading front sheet, levelled books, plain card | (separate cards) | 3.3 |
-| 5 | Movement break | 2 | either | water | | Section 2 |
-| 6 | Maths | 15 | 1:1 or pair | pencil, rubber, 20 counters | pages 4 to 10 | Section 4 |
-| 7 | Writing | 6 | 1:1 or pair | pencil | pages 11 and 12 | 3.4 |
+| 5 | Writing | 6 | 1:1 or pair | pencil | pages 4 and 5 | 3.4 |
+| 6 | Movement break | 2 | either | water | | Section 2 |
+| 7 | Maths | 15 | 1:1 or pair | pencil, rubber, 20 counters | pages 6 to 12 | Section 4 |
 | 8 | Play-based interview and goodbye | 6 | always 1:1 | crayons, Interviewer guide, Interview sheet | page 13 | Section 5 |
 | | **Total** | **about 51** | | | | |
 
-The order follows the blueprint for Years 1 to 3. These instructions put all the English tasks together in Section 3, so **writing (3.4) comes after maths on the day**.
+The order follows the blueprint for Years 1 to 3: the English tasks (Section 3) come first, in the order of the table, with **writing (3.4) straight after the reading screens**; then the break, then maths (Section 4).
 
 [[keep]]
 
@@ -38,7 +38,7 @@ Use a pair only when you need to (for example, twins or a busy admissions day). 
 
 - **Together:** listening, maths and writing. Give each instruction once to both children. In listening item 9, watch both children to see which part each does first.
 - **Always 1:1:** picture talk, the reading screens and the interview. While one child does these, the other child draws on page 13 with a second adult (or with their parent) in the room; in the interview, talk about that drawing or let the child add to it.
-- **Order for a pair:** welcome; picture talk (one child, then the other); listening; reading screens (one child, then the other); break; maths; writing; interviews. The picture talk still comes before the writing, so both children have talked about the story before they write about it.
+- **Order for a pair:** welcome; picture talk (one child, then the other); listening; reading screens (one child, then the other); writing; break; maths; interviews. The picture talk still comes before the writing, so both children have talked about the story before they write about it.
 
 [[/keep]]
 
@@ -74,7 +74,7 @@ Use a pair only when you need to (for example, twins or a busy admissions day). 
 
 **Welcome (1 minute).** Say:
 
-> "Hello! My name is [your name]. What's your name?" (wait) "Hello, [name]. How old are you?" (wait) "Today we are going to look at some pictures, play a listening game, read, do some maths and write. Some things are easy and some things are tricky. That's OK. Just try your best."
+> "Hello! My name is [your name]. What's your name?" (wait) "Hello, [name]. How old are you?" (wait) "Today we are going to look at some pictures, play a listening game, read, write and do some maths. Some things are easy and some things are tricky. That's OK. Just try your best."
 
 Write the child's name on the cover of the student booklet. Note how the child first responds (English, Chinese, gesture, silence).
 
@@ -109,7 +109,7 @@ Codes on the grading sheet: **R** instruction repeated once; **L** language supp
 | Maths | three items in a row score 0 in Section A: go on to Section B, which starts easy again. Three in a row score 0 in Section B: stop. |
 | Writing | the child says they cannot do more after one encouragement ("Have a go. Write the sounds you can hear."). |
 
-**Movement break (about 2 minutes, after reading).** Say: "Let's have a break! Stand up. Stretch up high. Touch your toes. Jump three times. Now sit down." Do the actions with the child. It is not scored. Offer water and the toilet.
+**Movement break (about 2 minutes, after writing).** Say: "Let's have a break! Stand up. Stretch up high. Touch your toes. Jump three times. Now sit down." Do the actions with the child. It is not scored. Offer water and the toilet.
 
 ## 3. English
 
@@ -215,17 +215,17 @@ Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards` and the record
 
 The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide`. Follow the scripts, scoring and stopping rules in that guide and in the Sentence Reading Guide; these instructions have no reading tasks of their own. All answers are in English, including the answers to the questions about what the child has just read. At the start of Year 2 a fluent reader usually has Level 1 of the sentence screen secure and often Level 2. Stop kindly and praise the child's effort. Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 5 and 6). Then take the movement break.
 
-### 3.4 Writing (6 minutes, 1:1 or pair, pages 11 and 12; given after maths)
+### 3.4 Writing (6 minutes, 1:1 or pair, pages 4 and 5; given after the reading screens, before the break)
 
 Give the child a pencil. Do not spell any word, sound out, or write for the child.
 
-**Part 1: a dictated sentence (page 11).** Point to the lines under "1". Say: "I will say a sentence. Listen to all of it first." Say the sentence slowly and clearly (see **Pace of speech** in Section 2):
+**Part 1: a dictated sentence (page 4).** Point to the lines under "1". Say: "I will say a sentence. Listen to all of it first." Say the sentence slowly and clearly (see **Pace of speech** in Section 2):
 
 > "At the zoo I saw a baby panda."
 
 Say: "Now write it here." Say the sentence again. Then say it in three parts, waiting while the child writes each part: "At the zoo ... I saw ... a baby panda." You may repeat a part once if the child asks. Then say: "Now check it."
 
-**Part 2: the picture story (page 12).** Point to the story. Say: "This is the story about Jun and Mei. Write what happened. Write 2, 3 or 4 sentences." If the child is stuck, say once: "What happened first?" Do not give words or sentences. If the child asks how to write the names, write "Jun" and "Mei" on a slip of paper: the names are not part of the spelling score. When the child finishes, say "Can you read it to me?" and write down what they say on the grading sheet.
+**Part 2: the picture story (page 5).** Point to the story. Say: "This is the story about Jun and Mei. Write what happened. Write 2, 3 or 4 sentences." If the child is stuck, say once: "What happened first?" Do not give words or sentences. If the child asks how to write the names, write "Jun" and "Mei" on a slip of paper: the names are not part of the spelling score. When the child finishes, say "Can you read it to me?" and write down what they say on the grading sheet.
 
 #### Dictated sentence: what to record
 
@@ -276,14 +276,14 @@ Score each 0 to 4 for the whole writing task (1 and 3 lie between the descriptio
 - English barrier: forms letters well and copies the names, but cannot find the English words to tell the story; often writes a list of nouns.
 - Note handwriting separately: fine motor control is not English.
 
-## 4. Maths (15 minutes, 1:1 or pair, student booklet pages 4 to 10)
+## 4. Maths (15 minutes, 1:1 or pair, student booklet pages 6 to 12)
 
 **Content:** Year 1 of the UK National Curriculum, with a few easier items first. **Section A: Number problems** (items 1 to 10, 10 marks). **Section B: Word problems and pictures** (items 11 to 20, 10 marks, including 5 word problems: items 12, 14, 15, 16 and 18). Total 20 marks.
 
 #### How
 
 - Give the child a pencil and a rubber; put the pot of 20 counters on the table. Say: "Now let's do some maths. I will read every question to you. Write your answer in the box. You can use the counters."
-- Show the example at the top of page 4: "Look. 2 plus 1 is 3. The 3 is in the box. Sometimes you put a tick in a box, like this."
+- Show the example at the top of page 6: "Look. 2 plus 1 is 3. The 3 is in the box. Sometimes you put a tick in a box, like this."
 - **Read every question aloud** with the words in the tables below, slowly and clearly (see **Pace of speech** in Section 2). Then you may repeat it in English as often as needed and point to the picture. A Chinese-speaking colleague may say it once in Chinese (mark **L**).
 - Accept a spoken answer if the child cannot write it: write what they said beside the box and score it. Reversed digits (a backwards 2 or 7) are fine if the number is clear.
 - After the session, write 1 or 0 in the mark box on each page, with NT or L beside it (list the NT and L items on the grading sheet).

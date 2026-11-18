@@ -23,9 +23,9 @@ footer: Year 3 Admission Assessment v3.1 | Assessor instructions
 | 1 | Welcome and picture talk (speaking) | 2 + 4 | Assessor, 1:1 | page 1 | Section 3.1 of these instructions |
 | 2 | Listening: follow instructions (recording) | about 4 | Assessor, 1:1 | page 2 | Pencil; coloured pencils: red, yellow, blue, green |
 | 3 | Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor, 1:1 | (shared cards) | Shared cards, Early Reading Screen record sheets and Reading front sheet (instructions in `shared/Early_Reading_Screen_Guide` and `shared/Sentence_Reading_Guide`); a plain card; the levelled reading books |
+| 4 | Writing: the picture story | 8 | Child writes | page 3 | Pencil |
 | | Break | 3 to 5 | | | Water; a chance to move |
-| 4 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 3 to 10 | Pencil, rubber, ruler marked in cm |
-| 5 | Writing: the picture story | 8 | Child writes | page 11 | Pencil |
+| 5 | Maths: Section A (number problems) and Section B (word problems and pictures) | 18 | Child writes; you read any question on request | pages 4 to 11 | Pencil, rubber, ruler marked in cm |
 | 6 | Short interview and goodbye | 8 | Assessor, 1:1 | | Interviewer guide (`forms/Interviewer_Guide_Y3_Y4`) and Interview sheet (`forms/Interview_Sheet_Y3_Y4`); paper and crayons |
 | | **Total** | **about 54**, plus welcome and break | | | |
 
@@ -177,9 +177,9 @@ Then give the Graded Sentence Reading Screen (`shared/Sentence_Reading_Card`, wi
 - Pronunciation features common for speakers of Chinese (for example l and r, a light final consonant, an extra vowel at the end of a word) are not reading errors when the word is clearly right.
 - Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 3.5 and 5).
 
-### 3.4 Writing: the picture story (8 minutes, booklet page 11)
+### 3.4 Writing: the picture story (8 minutes, booklet page 3)
 
-The writing comes after the maths (see Section 1).
+The writing comes straight after the reading screens, before the break; the maths follows the break (see Section 1).
 
 **Say:** "Do you remember the story about Mei and the sunflower? Now write the story. Look at each picture and write about it. Start with 'First'." Point to each frame word and read it once, slowly and clearly: "First ... Then ... Next ... At the end."
 
@@ -218,7 +218,7 @@ The writing comes after the maths (see Section 1).
 
 The questions are in `forms/Interviewer_Guide_Y3_Y4` and the record is the Interview sheet (`forms/Interview_Sheet_Y3_Y4`). In Year 3 the sentence reading has already been done with the Early Reading Screen (Section 3.3), so do not repeat it in the interview. Choose about two questions from each block. Give the **speaking band** on the Interview sheet, using the picture talk (Section 3.1) and the interview together, and complete the suitability strands. To finish, thank the child and tell them one thing they did well. Do not give any results.
 
-## 4. Maths (18 minutes, booklet pages 3 to 10)
+## 4. Maths (18 minutes, booklet pages 4 to 11)
 
 **Say:** "Now we are going to do some maths. You can write in the booklet. I can read any question to you. Just ask me." Show the child Section A (number problems) and Section B (word problems and pictures).
 

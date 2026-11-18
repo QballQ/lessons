@@ -7,7 +7,7 @@ footer: Final Mark Sheet | Candidate summary and decision
 
 [[namegrid:Candidate name,Candidate number,Year group applied for,Date of birth,Current school,Date of assessment]]
 
-**Paper version sat:** ______ (v3.1; on the front page of the student paper). Complete within two working days from the **grading sheet**, **Reading front sheet**, **Interview sheet**, parent conversation record and homeroom teacher reference. This is the one overview that the head of section reads and that goes into the admissions system. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
+**Paper version sat:** ______ (v3.1; on the front page of the student paper). Complete within two working days from the **grading sheet**, **Reading front sheet**, **Interview sheet**, parent conversation record and homeroom teacher reference. This is the one overview that the Head of School or Deputy reads and that goes into the admissions system. The bands guide a professional decision; they are not a pass mark (guide, Sections 6 to 9).
 
 ## 1. English profile
 
@@ -90,7 +90,7 @@ Year group confirmed: ______ (by age: yes / no; if no, give the reason and who a
 |---|---|---|---|
 | Assessor | | | |
 | Interviewer | | | |
-| Head of section | | | |
+| Head of School or Deputy | | | |
 | Admissions: outcome told to the family (start with the child's strengths) | | | |
 
 Papers filed together: [[tick]] grading sheet [[tick]] Reading front sheet [[tick]] Interview sheet [[tick]] parent conversation record [[tick]] marked student paper. &nbsp; Assessment result and report given with the marked papers on: ____________ &nbsp; Entered in the admissions system: date ____________ initials ________

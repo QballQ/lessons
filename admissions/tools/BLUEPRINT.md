@@ -49,7 +49,7 @@ Every candidate gets a band for each of **Listening, Speaking, Reading and Writi
 
 The parent conversation (about 15 minutes) and the previous homeroom teacher reference are extra and do not involve the student. Years 1 and 2 have a short movement break in the middle; Years 3 to 10 may have a 3 to 5 minute break after the written English.
 
-**Order on the day.** Years 1 to 3: welcome and picture talk, listening, early reading screen and sentence reading, break, maths, writing, short interview and goodbye. Years 4 to 10: welcome (2 minutes), listening, reading paper, writing, break, maths, science, interview with sentence reading. The written papers from Year 4 can be done in a small group with one invigilator; listening is read to the group; the interview is 1:1.
+**Order on the day.** Years 1 to 3: welcome and picture talk, listening, early reading screen and sentence reading, writing, break, maths, short interview and goodbye. Years 4 to 10: welcome (2 minutes), listening, reading paper, writing, break, maths, science, interview with sentence reading. The written papers from Year 4 can be done in a small group with one invigilator; listening is read to the group; the interview is 1:1.
 
 ## 5. Maths
 

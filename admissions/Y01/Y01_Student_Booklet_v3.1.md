@@ -40,6 +40,28 @@ name_footer: yes
 
 [[pagebreak]]
 
+## Write
+
+<div class="y-row" style="margin-bottom: 12mm;"><b style="width: auto; font-size: 18pt;">Name</b><div class="y-line"></div></div>
+
+**Words**
+
+<div class="y-row"><b>1</b><div class="y-line"></div></div>
+<div class="y-row"><b>2</b><div class="y-line"></div></div>
+<div class="y-row"><b>3</b><div class="y-line"></div></div>
+<div class="y-row"><b>4</b><div class="y-line"></div></div>
+<div class="y-row"><b>5</b><div class="y-line"></div></div>
+
+[[pagebreak]]
+
+## Write
+
+![A puppy in a cardboard box](diagrams/y01_e3_write_dog.svg){.w65}
+
+[[lines:3]]
+
+[[pagebreak]]
+
 ## Maths
 
 <p class="y-label">Section A: Number problems</p>
@@ -122,28 +144,6 @@ name_footer: yes
 ### 15 [[marks:1]]
 
 ![Two big empty plates](diagrams/y01_m15_plates.svg){.w100}
-
-[[pagebreak]]
-
-## Write
-
-<div class="y-row" style="margin-bottom: 12mm;"><b style="width: auto; font-size: 18pt;">Name</b><div class="y-line"></div></div>
-
-**Words**
-
-<div class="y-row"><b>1</b><div class="y-line"></div></div>
-<div class="y-row"><b>2</b><div class="y-line"></div></div>
-<div class="y-row"><b>3</b><div class="y-line"></div></div>
-<div class="y-row"><b>4</b><div class="y-line"></div></div>
-<div class="y-row"><b>5</b><div class="y-line"></div></div>
-
-[[pagebreak]]
-
-## Write
-
-![A puppy in a cardboard box](diagrams/y01_e3_write_dog.svg){.w65}
-
-[[lines:3]]
 
 [[pagebreak]]
 

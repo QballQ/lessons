@@ -19,13 +19,13 @@ For a child joining **Year 1** (about 5 years old). Most have finished the middl
 | 2 | Speaking: picture talk | 4 | Assessor | | page 2 | 3.1 |
 | 3 | Listening: follow instructions (recording) | about 4 | Assessor | crayons: red, blue, yellow, green | page 3 | 3.2 |
 | 4 | Reading: Early Reading Screen, then Graded Sentence Reading Screen | 12 | Assessor | shared cards, Early Reading Screen record sheets, Reading front sheet, levelled books, plain card | (separate cards) | 3.3 |
-| 5 | Movement break | 2 | Assessor | water | | Section 2 |
-| 6 | Maths | 12 | Assessor | 20 counters | pages 4 to 11 | Section 4 |
-| 7 | Writing | 5 | Assessor | pencil | pages 12 and 13 | 3.4 |
+| 5 | Writing | 5 | Assessor | pencil | pages 4 and 5 | 3.4 |
+| 6 | Movement break | 2 | Assessor | water | | Section 2 |
+| 7 | Maths | 12 | Assessor | 20 counters | pages 6 to 13 | Section 4 |
 | 8 | Play-based interview and goodbye | 6 | Interviewer (often the assessor) | crayons, Interviewer guide, Interview sheet | page 14 | Section 5 |
 | | **Total** | **about 45** (43 minutes of tasks, plus the welcome and break) | | | | |
 
-The order follows the blueprint for Years 1 to 3. These instructions put all the English tasks together in Section 3, so **writing (3.4) comes after maths on the day**.
+The order follows the blueprint for Years 1 to 3: the English tasks (Section 3) come first, in the order of the table, with **writing (3.4) straight after the reading screens**; then the break, then maths (Section 4).
 
 [[keep]]
 
@@ -102,7 +102,7 @@ Codes on the grading sheet: **R** instruction repeated once; **L** language supp
 | Maths | three items in a row score 0 in Section A: go on to Section B, which starts easy again. Three in a row score 0 in Section B: stop. |
 | Writing | the child says they cannot do more after one encouragement ("Have a go. Write the sounds you can hear."). |
 
-**Movement break (about 2 minutes, after reading).** Say: "Let's have a break! Stand up. Stretch up high. Touch your toes. Jump three times. Now sit down." Do the actions with the child. It is not scored. Offer water and the toilet.
+**Movement break (about 2 minutes, after writing).** Say: "Let's have a break! Stand up. Stretch up high. Touch your toes. Jump three times. Now sit down." Do the actions with the child. It is not scored. Offer water and the toilet.
 
 ## 3. English
 
@@ -204,13 +204,13 @@ Use the Early Reading Screen (`shared/Early_Reading_Screen_Cards` and the record
 
 The full scripts and rules for the Early Reading Screen are in `shared/Early_Reading_Screen_Guide`. Follow the scripts, scoring and stopping rules in that guide and in the Sentence Reading Guide; these instructions have no reading tasks of their own. All answers are in English, including the answers to the questions about what the child has just read. Many children starting Year 1 read very little English, and many fluent English speakers score 0 to 6 points on the sentence screen at this age, so stop kindly and praise the child's effort. Record the reading results on the **Reading front sheet** (the Early Reading Screen summary and the sentence reading results) and give it to the interviewer (Sections 5 and 6). Then take the movement break.
 
-### 3.4 Writing (5 minutes, pages 12 and 13; given after maths)
+### 3.4 Writing (5 minutes, pages 4 and 5; given after the reading screens, before the break)
 
 Give the child a pencil. Do not spell any word, sound out, or write for the child.
 
-**Part 1: name (page 12).** Point to the line next to "Name". Say: "Can you write your name here?" Record which script the child uses (English letters, pinyin or Chinese characters) on the grading sheet.
+**Part 1: name (page 4).** Point to the line next to "Name". Say: "Can you write your name here?" Record which script the child uses (English letters, pinyin or Chinese characters) on the grading sheet.
 
-**Part 2: five words (page 12).** Say: "Now I will say some words. Write each word here. Listen to the sounds in the word. Have a go. It is fine if it is not right." For each word, point to the number, then say the word, the sentence and the word again, slowly and clearly (see **Pace of speech** in Section 2; do not stretch the sounds). Allow about 30 seconds; if nothing is written, say "That's fine. Next one."
+**Part 2: five words (page 4).** Say: "Now I will say some words. Write each word here. Listen to the sounds in the word. Have a go. It is fine if it is not right." For each word, point to the number, then say the word, the sentence and the word again, slowly and clearly (see **Pace of speech** in Section 2; do not stretch the sounds). Allow about 30 seconds; if nothing is written, say "That's fine. Next one."
 
 | No. | Say | Word | Spelling pattern |
 |---|---|---|---|
@@ -222,7 +222,7 @@ Give the child a pencil. Do not spell any word, sound out, or write for the chil
 
 None of the five words is on the reading cards, so the child has not just seen them written.
 
-**Part 3: a sentence about a picture (page 13).** Point to the picture (a puppy in a box). Say: "Look at the picture. What can you see?" Let the child say it, and do not correct or improve their words. Then say: "Can you write about it? Write it here." If the child says they can't: "Have a go. Write the sounds you can hear." If the child writes one word, say once: "Can you write some more?" When they finish, say "Can you read it to me?" and write down what they say on the grading sheet: it helps you read their spelling.
+**Part 3: a sentence about a picture (page 5).** Point to the picture (a puppy in a box). Say: "Look at the picture. What can you see?" Let the child say it, and do not correct or improve their words. Then say: "Can you write about it? Write it here." If the child says they can't: "Have a go. Write the sounds you can hear." If the child writes one word, say once: "Can you write some more?" When they finish, say "Can you read it to me?" and write down what they say on the grading sheet: it helps you read their spelling.
 
 **Writing checklist.** Record the name, handwriting and sentence checklist on the grading sheet, and for each of the five words whether it is correct, shows all the sounds ("fen", "shep", "chup"), some sounds ("sp", "c") or nothing.
 
@@ -263,7 +263,7 @@ None of the five words is on the reading cards, so the child has not just seen t
 - English barrier: forms letters well and spells by sound, but writes the sentence in Chinese or pinyin. The child knows how to write, but not yet what to write in English.
 - Note pencil grip and letter formation separately: fine motor control is not English.
 
-## 4. Maths (12 minutes, student booklet pages 4 to 11)
+## 4. Maths (12 minutes, student booklet pages 6 to 13)
 
 **Content:** the end of Reception (Early Years goals). **Section A: Number problems** (items 1 to 8, 8 marks). **Section B: Word problems and pictures** (items 9 to 15, 7 marks, with 3 word problems: 11, 12 and 15). Total 15 marks.
 

@@ -12,11 +12,11 @@ footer: Year 6 Admission Assessment v3.1 | Grading sheet
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
 | **Listening** (/ 8) | ___ / 8 | [[scale:A,B,C,D,E]] | |
+| **Speaking** | Interview sheet | | |
+| **Reading** | Reading front sheet | | |
 | **Writing** (four criteria, each / 4) | content ___ vocabulary ___ grammar ___ spelling and punctuation ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Task chosen: A B |
 | **Maths** (Section A / 9, Section B / 16, of which word problems / 5) | A ___ + B ___ = ___ / 25<br>word problems ___ / 5 | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Science** (/ 10) | ___ / 10 | [[scale:1,2,3,4]] | NT: <br>L: |
-| **Reading** | Reading front sheet | | |
-| **Speaking** | Interview sheet | | |
 
 **Number problems against word problems** (Section A / 9, word problems / 5): English barrier in maths?<br>[[tick]] yes [[tick]] no [[tick]] unsure (see 4.3 of the instructions)
 

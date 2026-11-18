@@ -36,8 +36,9 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 | Admissions team pack | `04_Admissions_Team_Pack`: what to print, day sheets, listening recordings, handover, filing | Admissions, assessors | Once |
 | Reading books list | `01_Reading_Books_and_Materials` | Admissions, Years 1 to 3 assessors | Once |
 | Version register | `03_Version_Register`: which version each year group uses, and a candidate log | Admissions | Once |
-| **Assessor instructions** | `Y01` to `Y10`: `YNN_Assessor_Instructions_v3.1` (scripts, answers, mark schemes, band guides) | Assessor | **Once** |
-| Student paper or booklet | `YNN_Student_Booklet_v3.1` (Years 1 to 3) or `YNN_Student_Paper_v3.1` (Years 4 to 10) | The student | Each candidate |
+| **Assessor instructions** | `Y01` to `Y12`: `YNN_Assessor_Instructions_v3.1` (scripts, answers, mark schemes, band guides) | Assessor | **Once** |
+| Student paper or booklet | `YNN_Student_Booklet_v3.1` (Years 1 to 3) or `YNN_Student_Paper_v3.1` (Years 4 to 12) | The student | Each candidate |
+| **Visit checklist** | `forms/Visit_Checklist`: one sheet per student that the admissions office ticks before, during and after the visit | Admissions | Each candidate |
 | **Grading sheet** | `YNN_Grading_Sheet_v3.1`: the marks, bands, NT and L, comments for one student | Assessor | Each candidate |
 | Listening recordings | `audio/v3.1/YNN/`: one recording for every year group, with a `READ_ME_FIRST.txt` | Assessor | Nothing to print |
 | Early Reading Screen (Years 1 to 3, and older students new to English) | `shared/Early_Reading_Screen_Cards` (laminate), `shared/Early_Reading_Screen_Guide` (once), `shared/Early_Reading_Screen_Record` (one set per child) | Assessor | As stated |
@@ -47,10 +48,10 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 | **Interview sheet** | `forms/Interview_Sheet_Y1_Y2`, `_Y3_Y4`, `_Y5_Y6`, `_Y7_Y10`: speaking band, suitability ratings, comments | Interviewer | Each candidate |
 | Parent conversation | `forms/Parent_Conversation_Record` | Admissions or a senior teacher | Each candidate |
 | Previous homeroom teacher reference (English and Chinese) | `forms/Homeroom_Teacher_Reference` | Admissions | Sent before the visit |
-| **Final mark sheet** | `forms/Candidate_Summary_and_Decision`: the overview of the student with the English bands, maths and science, suitability, recommendation, support plan, comments and feedback | Assessor, interviewer, head of section, admissions | Each candidate |
-| **Assessment result and report** | `forms/Assessment_Result_Cover`: the one-sheet front cover for the student's marked papers (outcome, English bands and scores, maths and science, strengths, what to work on, support, next step; the band key on the back) | Admissions, after the head of section confirms the decision | Each candidate |
+| **Final mark sheet** | `forms/Candidate_Summary_and_Decision`: the overview of the student with the English bands, maths and science, suitability, recommendation, support plan, comments and feedback | Assessor, interviewer, Head of School or Deputy, admissions | Each candidate |
+| **Assessment result and report** | `forms/Assessment_Result_Cover`: the one-sheet front cover for the student's marked papers (outcome, English bands and scores, maths and science, strengths, what to work on, support, next step; the band key on the back) | Admissions, after the Head of School or Deputy confirms the decision | Each candidate |
 
-`pdf/Candidate_Packs/` has one PDF for each year group with everything printed for each candidate, in order. `pdf/Print_Once/` has one assessor folder for each year group (the instructions, the interviewer guide, the sentence reading guide and, in Years 1 to 3, the Early Reading Screen guide) and the cards to laminate. Every year group uses **version 3.1** (October 2026); earlier versions are kept for reference only.
+The admissions office receives the pack as `download/Admissions_Assessment_Pack_v3.1.zip`: **one folder for each year group**, with a one-page READ ME, folder 1 `Print one per student` (every sheet a separate numbered PDF, named by what it is and who gets it), folder 2 `Print once for the room`, folder 3 `Listening recording` and folder 4 `Send before the visit`, and an `Office` folder with the team pack, the tracker and this guide. `pdf/Candidate_Packs/` and `pdf/Print_Once/` keep the same documents joined into one PDF per year group, for anyone who prefers that.
 
 ## 3. Roles
 
@@ -61,7 +62,7 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 | **Interviewer** (usually the principal; in Years 1 to 3 often the assessor) | Runs the sentence reading screen (Years 4 to 10) and the interview; completes the Reading front sheet and the Interview sheet. |
 | **Chinese-speaking colleague** (optional) | Leads or interprets the parent conversation; may give the one-time Chinese reading of a maths or science question (Section 7); observes a young child's Chinese. |
 | **Receiving homeroom teacher** (optional) | Meets the student, adds first impressions and a welcome plan to the interview record. |
-| **Head of section** | Moderates, makes or confirms the recommendation. |
+| **Head of School or Deputy** | Moderates, makes or confirms the recommendation. |
 | **Designated Safeguarding Lead** | Receives any safeguarding information the same day, from the interview, the parent conversation or the reference. |
 
 ## 4. The process
@@ -81,7 +82,7 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 **After the visit**
 - Mark everything the same day and complete the grading sheet. The interviewer completes the Reading front sheet and the Interview sheet.
 - Complete the final mark sheet (`forms/Candidate_Summary_and_Decision`) within two working days, from the grading sheet, the Reading front sheet, the Interview sheet and the parent conversation.
-- The head of section moderates and confirms the recommendation; admissions communicates it.
+- The Head of School or Deputy moderates and confirms the recommendation; admissions communicates it.
 - Keep all papers securely (Section 11).
 
 ## 5. Timings by year group
@@ -177,7 +178,7 @@ Start with the **overall English band** and the **year group**, then adjust for 
 - **Maths and science band 3 or 4:** no change.
 - **Band 2:** offer with a learning plan for the named topics (often the NT topics).
 - **Band 1:** look first at NT and L. If the low score is explained by topics not yet taught or by English, treat it as band 2. If the student is low across taught content too, ask for further assessment before a decision.
-- **Suitability:** any strand rated 1, or a serious mismatch between the family's expectations and the programme, goes to the head of section before any offer.
+- **Suitability:** any strand rated 1, or a serious mismatch between the family's expectations and the programme, goes to the Head of School or Deputy before any offer.
 - **Special educational needs or disability:** follow the school's inclusion policy. A need is not in itself a reason to refuse a place; the question is what support the student needs and whether the school can provide it.
 - **Safeguarding information** is handled by the Designated Safeguarding Lead and informs the support plan.
 - **Uneven or surprising results** (for example strong listening but very weak reading, or a big gap between the reports and the assessment): find the reason; a second short session or a trial day often helps.
@@ -186,7 +187,7 @@ Start with the **overall English band** and the **year group**, then adjust for 
 
 ## 10. After an offer
 
-- Copy the support plan (final mark sheet, Section 5) to the homeroom teacher, the English support team and the head of section before the first day.
+- Copy the support plan (final mark sheet, Section 5) to the homeroom teacher, the English support team and the Head of School or Deputy before the first day.
 - Give the homeroom teacher the student's reading level (book band or reading age) and the English bands.
 - Review the student after about six weeks against the plan.
 - **Check the bands.** Once 20 to 30 students have joined, compare their assessment bands with how they are doing after one term, and adjust the maths and science band boundaries and the sentence reading guide if needed. The pack has not yet been standardised, so this local check matters.

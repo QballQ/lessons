@@ -18,6 +18,8 @@ footer: Year 11 Admission Assessment v3.1 | Grading sheet
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
 | **Listening** (Part A / 8, Part B / 8) | A ___ + B ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Part B not given? [[tick]] |
+| **Speaking** | Interview sheet | | |
+| **Reading** | Reading front sheet | | |
 | **Writing** (four criteria, each / 4) | content ___ vocabulary ___ grammar ___ spelling and punctuation ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Task chosen: A B |
 | **Maths** (Fluency / 10, Word questions / 8, Applied / 12) | F ___ + W ___ + A ___ = ___ / 30 | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Core science** (/ 10) | ___ / 10 | [[scale:1,2,3,4]] | NT: <br>L: |
@@ -25,8 +27,6 @@ footer: Year 11 Admission Assessment v3.1 | Grading sheet
 | **Optional science: Chemistry** | ___ / 15 <span style="float:right">not taken [[tick]]</span> | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Optional science: Physics** | ___ / 15 <span style="float:right">not taken [[tick]]</span> | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Cognitive ability screen** (raw scores; no band) | Non-verbal ___ / 12 &nbsp; Quantitative ___ / 12 <br>Verbal ___ / 12 &nbsp; Processing speed ___ / 60 | | Profile note: |
-| **Reading** | Reading front sheet | | |
-| **Speaking** | Interview sheet | | |
 
 </div>
 

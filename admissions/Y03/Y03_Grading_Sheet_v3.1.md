@@ -26,7 +26,7 @@ Score 1 or 0 for each item, and tick R if you repeated it once. Stop after three
 
 Listening band: [[scale:A,B,C,D,E]] &nbsp; (0 to 2 A, 3 to 4 B, 5 to 6 C, 7 to 8 D, 9 to 10 E)
 
-#### 3. Writing: the picture story (3.4, after maths)
+#### 3. Writing: the picture story (3.4)
 
 Task given: [[tick]] story &nbsp; [[tick]] labels (a word for each picture) &nbsp; [[tick]] recount (only if the child could not connect with the pictures)
 

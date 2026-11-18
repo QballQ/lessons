@@ -12,11 +12,11 @@ footer: Year 10 Admission Assessment v3.1 | Grading sheet
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
 | **Listening** (Part A / 8, Part B / 8) | A ___ + B ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Part B not given? [[tick]] |
+| **Speaking** | Interview sheet | | |
+| **Reading** | Reading front sheet | | |
 | **Writing** (four criteria, each / 4) | content ___ vocabulary ___ grammar ___ spelling and punctuation ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Task chosen: A B |
 | **Maths** (Fluency / 10, Word questions / 8, Applied / 12) | F ___ + W ___ + A ___ = ___ / 30 | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Science** (/ 10) | ___ / 10 | [[scale:1,2,3,4]] | NT: <br>L: |
-| **Reading** | Reading front sheet | | |
-| **Speaking** | Interview sheet | | |
 
 **Maths profile.** Fluency ____ % · Word questions ____ % · Applied ____ %. <br>[[tick]] Fluency much higher than word questions: was the barrier English? (A word question solved after it was read aloud or given in Chinese.)<br>[[tick]] Fluency and word questions much higher than applied: needs teaching in problem solving and explaining.
 

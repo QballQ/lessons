@@ -12,6 +12,8 @@ footer: Year 12 Admission Assessment v3.1 | Grading sheet
 | Part | Score | Band | Notes (NT, L, access arrangements, behaviour) |
 |---|---|---|---|
 | **Listening** (Part A / 8, Part B / 8) | A ___ + B ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Part B not given? [[tick]] |
+| **Speaking** | Interview sheet | | |
+| **Reading** | Reading front sheet | | |
 | **Writing** (four criteria, each / 4) | content ___ vocabulary ___ grammar ___ spelling and punctuation ___ = ___ / 16 | [[scale:A,B,C,D,E]] | Task chosen: A B <br>Counter-argument answered? [[tick]] |
 | **Maths** (Fluency / 10, Word questions / 8, Applied / 12) | F ___ + W ___ + A ___ = ___ / 30 | [[scale:1,2,3,4]] | NT: <br>L: |
 | **Core science** (/ 10) | ___ / 10 | [[scale:1,2,3,4]] | NT: <br>L: |
@@ -19,8 +21,6 @@ footer: Year 12 Admission Assessment v3.1 | Grading sheet
 | **Optional Chemistry** (/ 15) | ___ / 15 | [[scale:1,2,3,4]] | Not taken [[tick]] &nbsp; NT: <br>L: |
 | **Optional Physics** (/ 15) | ___ / 15 | [[scale:1,2,3,4]] | Not taken [[tick]] &nbsp; NT: <br>L: |
 | **Cognitive ability screen** (raw scores; not banded, never used to select) | Non-verbal ___ / 12 &nbsp; Quantitative ___ / 12 &nbsp; Verbal ___ / 12 &nbsp; Processing speed ___ / 60 | | Extra time given? [[tick]] <br>Profile note: |
-| **Reading** | Reading front sheet | | |
-| **Speaking** | Interview sheet | | |
 
 **Maths profile.** Fluency ____ % · Word questions ____ % · Applied ____ %. <br>[[tick]] Fluency much higher than word questions: was the barrier English? (A word question solved after it was read aloud or given in Chinese.)<br>[[tick]] Fluency and word questions much higher than applied: needs teaching in problem solving, reading graphs and explaining.
 

@@ -27,7 +27,7 @@ name_footer: yes
 
 ## Hello!
 
-Today we will talk, listen, read, do some maths and write.
+Today we will talk, listen, read, write and do some maths.
 
 Your teacher will help you. Do your best.
 
@@ -46,6 +46,46 @@ It is fine if you cannot do everything.
 **Listen** to your teacher. Do what your teacher says.
 
 ![A park with a cloud, two trees, a flying bird, a cat on a branch, a house with a bird on the roof and a cat next to it, a bench with two balls, a bike, and a pond with a boat, a big duck and a small duck.](diagrams/y03_e_listening_park.svg){.w100}
+
+[[pagebreak]]
+
+## Write
+
+**Look** at the pictures. **Write** the story.
+
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel1.svg" alt="Picture 1: Mei and her grandpa plant a seed in a pot." class="w100"></div><div class="write" markdown="1">
+
+<b>First,</b>
+
+[[lines:2]]
+
+</div></div>
+
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel2.svg" alt="Picture 2: Mei waters the pot. A small plant comes up." class="w100"></div><div class="write" markdown="1">
+
+<b>Then,</b>
+
+[[lines:2]]
+
+</div></div>
+
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel3.svg" alt="Picture 3: It is very hot. The plant droops and Mei is sad. Grandpa brings water." class="w100"></div><div class="write" markdown="1">
+
+<b>Next,</b>
+
+[[lines:2]]
+
+</div></div>
+
+<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel4.svg" alt="Picture 4: The plant is a tall sunflower. Mei and Grandpa are happy." class="w100"></div><div class="write" markdown="1">
+
+<b>At the end,</b>
+
+[[lines:2]]
+
+</div></div>
+
+[[stop]]
 
 [[pagebreak]]
 
@@ -245,45 +285,5 @@ Each picture is 1 child.
 <br><br>[[answer]]
 
 [[clear]]
-
-[[stop]]
-
-[[pagebreak]]
-
-## Write
-
-**Look** at the pictures. **Write** the story.
-
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel1.svg" alt="Picture 1: Mei and her grandpa plant a seed in a pot." class="w100"></div><div class="write" markdown="1">
-
-<b>First,</b>
-
-[[lines:2]]
-
-</div></div>
-
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel2.svg" alt="Picture 2: Mei waters the pot. A small plant comes up." class="w100"></div><div class="write" markdown="1">
-
-<b>Then,</b>
-
-[[lines:2]]
-
-</div></div>
-
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel3.svg" alt="Picture 3: It is very hot. The plant droops and Mei is sad. Grandpa brings water." class="w100"></div><div class="write" markdown="1">
-
-<b>Next,</b>
-
-[[lines:2]]
-
-</div></div>
-
-<div class="row"><div class="pic"><img src="diagrams/y03_e_story_panel4.svg" alt="Picture 4: The plant is a tall sunflower. Mei and Grandpa are happy." class="w100"></div><div class="write" markdown="1">
-
-<b>At the end,</b>
-
-[[lines:2]]
-
-</div></div>
 
 [[stop:Thank you. You have finished. Please wait for your teacher.]]

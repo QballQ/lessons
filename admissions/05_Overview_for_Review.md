@@ -16,7 +16,7 @@ footer: Admissions Assessment | Overview for review
 | `03_Print_Once_Assessor_Folders` | **The detailed back-up:** the assessor instructions (scripts, answers, mark schemes, band guides), the interviewer guide and the sentence reading guide, one folder for each year group; the reading cards | Assessors, the principal as interviewer | Once, kept in a folder. Laminate the cards |
 | `04_Listening_Recordings` | A recording for every year group, with a read-me | Assessors | No: play on a laptop or phone |
 | `05_Send_Before_The_Visit` | The previous homeroom teacher reference (English and Chinese) | Admissions | Send to the student's current school |
-| `06_Full_Guide_And_Evidence` | The full guide for staff, the reading books list, the listening evidence statement, the version register | Heads of section, the English team | Keep as background |
+| `06_Full_Guide_And_Evidence` | The full guide for staff, the reading books list, the listening evidence statement, the version register | Head of School or Deputy, the English team | Keep as background |
 | `07_Single_Sheets` | Every sheet as a separate PDF | Admissions | Only to reprint one sheet |
 | `08_Admissions_Tracker` | The tracking workbook (Excel): a sheet for each year group that feeds a dashboard of stages, levels, decisions and support; a `DEMO` copy with fictional candidates | Admissions | No: used on screen |
 
@@ -28,7 +28,7 @@ footer: Admissions Assessment | Overview for review
 3. The assessor marks the paper and fills in the grading sheet and the reading levels.
 4. The reading levels and the interview sheet go to the interviewer, usually the principal.
 5. The principal runs the sentence reading and the interview, and completes both sheets.
-6. Within two working days the final mark sheet is completed and the head of section confirms the decision. Admissions then completes the result and report, gives it with the marked papers and enters the candidate in the tracker. No results are given on the day.
+6. Within two working days the final mark sheet is completed and the Head of School or Deputy confirms the decision. Admissions then completes the result and report, gives it with the marked papers and enters the candidate in the tracker. No results are given on the day.
 
 **Quick facts.** Every year group from 1 to 10 uses version 3.1, shown on every paper. The visit takes about 45 minutes in Year 1 to about 95 in Years 7 to 10. Staff paper for each candidate is about 16 pages, down from about 32. The papers are English only.
 

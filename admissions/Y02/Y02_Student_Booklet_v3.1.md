@@ -45,6 +45,24 @@ name_footer: yes
 
 [[pagebreak]]
 
+## Write
+
+**1**
+
+[[lines:3]]
+
+[[pagebreak]]
+
+## Write
+
+**2**
+
+![The picture story: Jun walks to school, it rains, Mei shares her umbrella, they arrive at school in the sun](diagrams/y02_e1_talk_umbrella.svg){.w75}
+
+[[lines:6]]
+
+[[pagebreak]]
+
 ## Maths
 
 <p class="y-label">Section A: Number problems</p>
@@ -193,24 +211,6 @@ name_footer: yes
 ![An arrow in the middle points up to a tree. A house is on the right, a car at the bottom and a flower on the left.](diagrams/y02_m20_turns.svg){.w60}
 
 <p class="y-wp">Start at the tree again. The arrow makes a quarter turn to the right. Put a cross on the picture it will point to.</p>
-
-[[pagebreak]]
-
-## Write
-
-**1**
-
-[[lines:3]]
-
-[[pagebreak]]
-
-## Write
-
-**2**
-
-![The picture story: Jun walks to school, it rains, Mei shares her umbrella, they arrive at school in the sun](diagrams/y02_e1_talk_umbrella.svg){.w75}
-
-[[lines:6]]
 
 [[pagebreak]]
 

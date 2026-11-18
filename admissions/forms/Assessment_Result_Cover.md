@@ -9,7 +9,7 @@ footer: Assessment result and report | International programme admissions
 
 Paper version sat: ______ &nbsp; Assessor: ____________________ &nbsp; Interviewer: ____________________ &nbsp; Report date: ____________
 
-**Outcome** (from the final mark sheet, confirmed by the head of section): [[tick]] Offer &nbsp; [[tick]] Offer with English support &nbsp; [[tick]] Offer with a learning plan &nbsp; [[tick]] Further assessment before a decision &nbsp; [[tick]] Unable to offer at this time. &nbsp; Year group confirmed: ________
+**Outcome** (from the final mark sheet, confirmed by the Head of School or Deputy): [[tick]] Offer &nbsp; [[tick]] Offer with English support &nbsp; [[tick]] Offer with a learning plan &nbsp; [[tick]] Further assessment before a decision &nbsp; [[tick]] Unable to offer at this time. &nbsp; Year group confirmed: ________
 
 #### Results
 
@@ -39,7 +39,7 @@ Paper version sat: ______ &nbsp; Assessor: ____________________ &nbsp; Interview
 
 [[lines:2]]
 
-[[field:Head of section (name, signature, date)]]
+[[field:Head of School or Deputy (name, signature, date)]]
 
 [[field:Admissions (name, signature, date)]]
 
