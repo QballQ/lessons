@@ -2,7 +2,7 @@
  "id": "Y9_Test_1_Core",
  "title": "Year 9 Science Test 1",
  "level": "Core",
- "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%): measurement, density, forces, energy, speed",
+ "topics": "Biology (40%): variation, adaptation, natural selection, cells · Chemistry (20%): states of matter, atoms · Physics (40%): units, density, forces, energy, speed",
  "time_minutes": 40,
  "total_marks": 40,
  "weighting_note": "Agreed with Albert, November 2026: the paper is split by time, 40% biology, 20% chemistry, 40% physics. At one mark a minute that is 16, 8 and 16 marks of the 40.",
@@ -208,6 +208,18 @@
   {
    "en": "stationary",
    "cn": "静止"
+  },
+  {
+   "en": "efficiency",
+   "cn": "效率"
+  },
+  {
+   "en": "elastic potential energy",
+   "cn": "弹性势能"
+  },
+  {
+   "en": "strain energy",
+   "cn": "应变能"
   }
  ],
  "sections": [
@@ -468,40 +480,20 @@
    "title": "Part 3: Physics",
    "subject": "physics",
    "minutes": 16,
-   "intro": "Questions 10 to 15 are Core. Question 16 is Stretch and Challenge.",
+   "intro": "Questions 10 to 14 are Core. Question 15 is Stretch and Challenge. Most of these questions come from the physics revision guide.",
    "questions": [
     {
-     "title": "Making measurements",
+     "title": "Units",
      "parts": [
       {
        "label": "a",
-       "text": "Draw one line from each measurement to the instrument you would use.",
+       "text": "State the SI units (name and symbol) of the following quantities.",
        "marks": 2,
-       "match": {
-        "left": [
-         "the volume of a liquid",
-         "the width of a book",
-         "the time for a race"
-        ],
-        "right": [
-         "stopwatch",
-         "measuring cylinder",
-         "ruler"
-        ]
-       },
-       "answer": "volume of a liquid: measuring cylinder; width of a book: ruler; time for a race: stopwatch. All three correct = 2 marks; one correct = 1 mark."
-      },
-      {
-       "label": "b",
-       "text": "A stone is lowered into a measuring cylinder of water. The water level rises from 30 cm³ to 45 cm³. Calculate the volume of the stone.",
-       "marks": 1,
-       "image": {
-        "ref": "diagram:measuring_cylinders_test",
-        "w": 380,
-        "h": 215
-       },
-       "inline": "volume of stone = ______________ cm³",
-       "answer": "45 − 30 = 15 cm³"
+       "answer": "length: metre, m (1). volume: cubic metre, m³ (1). Give the mark only if the name and the symbol are both right. Do not accept cm³, mm³ or litres, which are not SI units.",
+       "gaps": [
+        "length:   name ______________________   symbol ________",
+        "volume:   name ______________________   symbol ________"
+       ]
       }
      ]
     },
@@ -510,50 +502,27 @@
      "parts": [
       {
        "label": "a",
-       "text": "A block of metal has a mass of 160 g and a volume of 20 cm³. Calculate its density. Use the equation: density = mass ÷ volume.",
-       "marks": 2,
-       "inline": "density = ______________ g/cm³",
-       "answer": "160 ÷ 20 (1) = 8 g/cm³ (1). Award both marks for the correct answer with no working.",
-       "working": 1
+       "text": "Read question 1 in the picture. Use the table. Write the letter of the correct answer.",
+       "marks": 1,
+       "image": {
+        "ref": "albert:density_q1",
+        "w": 500,
+        "h": 300
+       },
+       "inline": "Answer: ______",
+       "answer": "D. The cubes have the same volume, so each pushes aside the same volume of water and the level rises by the same amount."
       },
       {
        "label": "b",
-       "text": "Water has a density of 1.0 g/cm³. Will the block float or sink in water? Tick one box.",
+       "text": "Read question 2 in the picture. Use the table above. Write the letter of the correct answer.",
        "marks": 1,
-       "mcq": [
-        "It will float.",
-        "It will sink."
-       ],
-       "answer": "It will sink (it is denser than water). Allow a correct deduction from the student's own answer to part (a)."
-      }
-     ]
-    },
-    {
-     "title": "Units and vectors",
-     "parts": [
-      {
-       "label": "a",
-       "text": "What is the SI base unit of mass? Tick one box.",
-       "marks": 1,
-       "mcq": [
-        "gram",
-        "kilogram",
-        "newton",
-        "metre"
-       ],
-       "answer": "kilogram"
-      },
-      {
-       "label": "b",
-       "text": "Which one of these quantities is a vector? Tick one box.",
-       "marks": 1,
-       "mcq": [
-        "mass",
-        "time",
-        "force",
-        "temperature"
-       ],
-       "answer": "force"
+       "image": {
+        "ref": "albert:density_q2",
+        "w": 500,
+        "h": 150
+       },
+       "inline": "Answer: ______",
+       "answer": "B (silver). The masses are the same, so the metal with the lowest density has the largest volume and makes the biggest rise. Silver has the lowest density, 10.49 g/cm³."
       }
      ]
     },
@@ -565,7 +534,8 @@
        "text": "A skydiver is falling at a steady speed. Name the upward force on the skydiver.",
        "marks": 1,
        "inline": "______________________________________",
-       "answer": "air resistance (accept drag)"
+       "answer": "air resistance (accept drag)",
+       "keep": true
       },
       {
        "label": "b",
@@ -584,10 +554,24 @@
      "parts": [
       {
        "label": "a",
-       "text": "A lamp is supplied with 100 J of energy. It transfers 20 J as light. The rest is wasted. How much energy is wasted?",
+       "text": "Complete the definition. The first letter of each missing word is given.",
+       "marks": 3,
+       "gaps": [
+        "E________ potential energy: a name used to describe energy when it is stored in stretched or squashed things that can change back to their o_________ shapes. Another name for s________ energy."
+       ],
+       "answer": "Elastic (1), original (1), strain (1)."
+      },
+      {
+       "label": "b",
+       "text": "Use the picture. Write the letter of the correct answer.",
        "marks": 1,
-       "inline": "energy wasted = ______________ J",
-       "answer": "100 − 20 = 80 J"
+       "image": {
+        "ref": "albert:efficiency",
+        "w": 320,
+        "h": 290
+       },
+       "inline": "Answer: ______",
+       "answer": "A. Machine Y wastes 11 J out of 20 J, much less of its energy than machine X, which wastes 91 J out of 100 J. Its efficiency is 9 ÷ 20 = 45%, against 9% for X."
       }
      ]
     },
@@ -596,41 +580,49 @@
      "parts": [
       {
        "label": "a",
-       "text": "A cyclist travels 100 m in 20 s. Calculate her speed. Use the equation: speed = distance ÷ time.",
+       "text": "The distance-time graph shows a cyclist's ride. How far did the cyclist travel? Tick one box.",
        "marks": 1,
-       "inline": "speed = ______________ m/s",
-       "answer": "100 ÷ 20 = 5 m/s"
+       "image": {
+        "ref": "albert:cyclist_graph",
+        "w": 330,
+        "h": 330
+       },
+       "mcq": [
+        "A   2.5 miles",
+        "B   3 miles",
+        "C   3.5 miles",
+        "D   40 miles"
+       ],
+       "answer": "C (3.5 miles): the line ends at 3.5 miles on the distance axis."
+      },
+      {
+       "label": "b",
+       "text": "Draw an X on the part of the graph where the cyclist was travelling at the fastest speed.",
+       "marks": 1,
+       "answer": "An X on the first section of the line, from 0 to 10 minutes. It is the steepest, with 2 miles in 10 minutes. Do not accept an X on any other section."
       }
      ]
     },
     {
-     "title": "The journey of a toy car",
+     "title": "Densities of liquids",
      "tier": "Stretch and Challenge",
      "parts": [
       {
        "label": "a",
-       "text": "The distance-time graph shows the journey of a toy car. The journey has three parts: A, B and C.",
+       "text": "Answer the question in the picture. Write your answers on the lines.",
        "marks": 4,
        "image": {
-        "ref": "diagram:journey_graph_test",
-        "w": 580,
-        "h": 350
+        "ref": "albert:liquids_q8a",
+        "w": 520,
+        "h": 240
        },
-       "sub": [
-        {
-         "text": "Describe the motion of the car in part B.",
-         "lines": 1
-        },
-        {
-         "text": "Calculate the speed of the car in part A. Show your working.",
-         "lines": 2
-        },
-        {
-         "text": "Without calculating, how can you tell from the graph that the car is faster in part C than in part A?",
-         "lines": 2
-        }
-       ],
-       "answer": "(i) It is stationary (not moving) (1). (ii) Speed = distance ÷ time = 20 m ÷ 4 s (1) = 5 m/s (1). (iii) The line for part C is steeper (it has a bigger gradient) (1)."
+       "answer": "(i) 15.8 g, from 0.79 × 20.00 (1). (ii) 15.9 cm³, from 20.00 ÷ 1.26 = 15.87; accept 15.8 or 15.9 (1). (iii) 0.90 g/cm³, from 25.90 ÷ 28.80 = 0.899; accept 0.89 or 0.90 (1). (iv) 0.85 g/cm³, from 30.00 ÷ 35.30 = 0.850 (1). The units are printed on the paper, so do not penalise a missing unit.",
+       "gaps": [
+        "i   Mass of the ethanol = ______________ g",
+        "ii   Volume of the glycerin = ______________ cm³",
+        "iii   Density of the olive oil = ______________ g/cm³",
+        "iv   Density of the turpentine = ______________ g/cm³"
+       ]
       }
      ]
     }

@@ -52,7 +52,9 @@ function ruledLines(n, keepLast = false) {
   return out;
 }
 function imgRun(ref, maxWpx, maxHpx) {
-  const file = ref.startsWith('diagram:') ? path.join(HERE, 'diagrams_grey', ref.slice(8) + '.png') : path.join(HERE, 'images_grey', ref + '.png');
+  // albert:name is a question (or part of one) cropped from Albert's revision pages, kept as he made it (source/assessment/albert/, greyscale)
+  const file = ref.startsWith('albert:') ? path.join(HERE, 'assessment', 'albert', ref.slice(7) + '.png')
+    : ref.startsWith('diagram:') ? path.join(HERE, 'diagrams_grey', ref.slice(8) + '.png') : path.join(HERE, 'images_grey', ref + '.png');
   if (!fs.existsSync(file)) { console.warn('missing image', ref); return null; }
   const buf = fs.readFileSync(file);
   const w = buf.readUInt32BE(16), h = buf.readUInt32BE(20);
@@ -132,7 +134,7 @@ function renderPart(p, out) {
     if (s.lines) out.push(...ruledLines(s.lines, more));
   });
   if (p.working) out.push(...ruledLines(p.working, true));   // space for working, then the answer line
-  if (p.inline) out.push(para([run(p.inline, { size: BODY })], { indent: { left: IND + 200 }, after: 100, line: 400 }));
+  if (p.inline) out.push(para([run(p.inline, { size: BODY })], { indent: { left: IND + 200 }, after: 100, line: 400, keepNext: !!p.keep }));   // keep: hold this answer line with the next part
   if (p.lines) out.push(...ruledLines(p.lines));
 }
 
