@@ -28,21 +28,20 @@ footer: Visit checklist | one sheet for each student
 | Done | What | Hand to |
 |---|---|---|
 | [[tick]] | Family welcomed; parents shown where to wait | |
-| [[tick]] | Student paper and grading sheet | the **assessor** |
-| [[tick]] | Reading front sheet | the **assessor** (Part 1), who passes it to the interviewer |
+| [[tick]] | Student paper and the **student record** (one booklet) | the **assessor** |
 | [[tick]] | Parent conversation record; conversation held while the student works | the **staff member** talking to the parents |
-| [[tick]] | Interview sheet and the Reading front sheet, before the interview | the **interviewer** |
+| [[tick]] | The student record, with Part A and the top of Part B filled in, before the interview | the **interviewer** |
 | [[tick]] | Family thanked. **No results given on the day** | |
-| [[tick]] | All sheets collected back: student paper, grading sheet, Reading front sheet, Interview sheet, parent conversation record | **admissions** |
+| [[tick]] | Collected back: the marked student paper, the student record (Parts A to C complete), the parent conversation record | **admissions** |
 
 #### After the visit
 
 | Done | What | By |
 |---|---|---|
-| [[tick]] | Grading sheet signed by the assessor; Reading front sheet and Interview sheet complete | the same day |
+| [[tick]] | Student record Parts A to C complete and signed | the same day |
 | [[tick]] | Anything worrying reported to the Designated Safeguarding Lead | the same day |
-| [[tick]] | Final mark sheet completed from the sheets above | within two working days |
-| [[tick]] | Decision confirmed by the Head of School or Deputy (signature on the final mark sheet) | |
+| [[tick]] | Part D of the student record (the decision) completed | within two working days |
+| [[tick]] | Decision confirmed by the Head of School or Deputy (signature in Part D) | |
 | [[tick]] | Student entered in the tracker (year group sheet, one row; status updated at each step) | |
 | [[tick]] | Assessment result and report completed; family told, starting with the student's strengths | Date told: |
 | [[tick]] | Report given with the marked papers; everything filed together in the secure admissions folder | |

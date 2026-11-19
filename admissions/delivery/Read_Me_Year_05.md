@@ -26,12 +26,9 @@ footer: Admissions assessment v3.1 | Year 5 | Read me first
 |---|---|---|---|
 | 1 Visit checklist | 2 | Admissions keeps it and ticks it | before, during and after the visit |
 | 2 Student paper Year 5 | 21 | the assessor | the student writes in it |
-| 3 Grading sheet Year 5 | 2 | the assessor | marks go here |
-| 4 Reading front sheet | 2 | the assessor, then the interviewer | the assessor fills in Part 1 and passes it on |
-| 5 Interview sheet Years 5 and 6 | 2 | the interviewer | before the interview |
-| 6 Parent conversation record | 3 | the staff member who talks to the parents | during the visit |
-| 7 Final mark sheet | 3 | admissions | within two working days |
-| 8 Assessment result and report | 2 | admissions | after the decision is confirmed; given to the family with the marked papers |
+| 3 Student record Year 5 | 8 | the assessor, then the interviewer, then admissions | one booklet: marks, reading, interview, decision |
+| 4 Parent conversation record | 3 | the staff member who talks to the parents | during the visit |
+| 5 Assessment result and report | 2 | admissions | after the decision is confirmed; given to the family with the marked papers |
 
 Write the candidate number on every sheet. Years 1 to 3 booklets print best in colour.
 
@@ -55,8 +52,8 @@ Send the **homeroom teacher reference** to the student's current school once the
 
 #### After the visit
 
-1. The same day: the assessor signs the grading sheet; the interviewer completes the Reading front sheet and the Interview sheet; all sheets come back to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
-2. Within two working days: the **final mark sheet** is completed from those sheets and the Head of School or Deputy confirms the decision.
+1. The same day: the assessor completes Part A and the top of Part B of the **student record** and hands it to the interviewer; the interviewer completes Parts B and C and returns it to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
+2. Within two working days: admissions completes Part D of the student record (the decision) and the Head of School or Deputy confirms it.
 3. Admissions enters the student in the **tracker** (Office folder), completes the **assessment result and report**, tells the family (starting with the student's strengths) and gives the report with the marked papers. File everything together.
 
 **The three rules.** English sections: staff read only the script, never the texts, and never translate. Maths and science: any question may be read aloud in English; a Chinese-speaking colleague may say it once in Chinese (mark L). All answers in English: an answer in Chinese scores 0.

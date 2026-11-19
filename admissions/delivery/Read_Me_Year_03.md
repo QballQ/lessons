@@ -25,13 +25,10 @@ footer: Admissions assessment v3.1 | Year 3 | Read me first
 |---|---|---|---|
 | 1 Visit checklist | 2 | Admissions keeps it and ticks it | before, during and after the visit |
 | 2 Student booklet Year 3 | 11 | the assessor | the student writes in it |
-| 3 Grading sheet Year 3 | 2 | the assessor | marks go here |
+| 3 Student record Year 3 | 8 | the assessor, then the interviewer, then admissions | one booklet: marks, reading, interview, decision |
 | 4 Early Reading Screen record | 18 | the assessor | print only the passage sheets you expect to use |
-| 5 Reading front sheet | 2 | the assessor, then the interviewer | the assessor fills in Part 1 and passes it on |
-| 6 Interview sheet Years 3 and 4 | 2 | the interviewer | before the interview |
-| 7 Parent conversation record | 3 | the staff member who talks to the parents | during the visit |
-| 8 Final mark sheet | 3 | admissions | within two working days |
-| 9 Assessment result and report | 2 | admissions | after the decision is confirmed; given to the family with the marked papers |
+| 5 Parent conversation record | 3 | the staff member who talks to the parents | during the visit |
+| 6 Assessment result and report | 2 | admissions | after the decision is confirmed; given to the family with the marked papers |
 
 Write the candidate number on every sheet. Years 1 to 3 booklets print best in colour.
 
@@ -51,14 +48,16 @@ Write the candidate number on every sheet. Years 1 to 3 booklets print best in c
 
 Play **Year 3 listening.mp3** (4:01 minutes) on a speaker, in a quiet room. Check the volume before the student arrives. It explains the game, gives a practice item, then the 10 instructions with time to respond. Mark each item 1 or 0 on the grading sheet as you go. If the child asks, or clearly did not hear, go back to the start of that item and play it once more (tick R). Stop after three 0s in a row. If the recording cannot be played, the assessor reads the script from the assessor instructions.
 
+**Where each item starts** (to play one again, go back to this time): item 1 at 0:29, item 2 at 0:43, item 3 at 0:57, item 4 at 1:13, item 5 at 1:30, item 6 at 1:51, item 7 at 2:09, item 8 at 2:34, item 9 at 2:59, item 10 at 3:26.
+
 #### Folder 4: before the visit
 
 Send the **homeroom teacher reference** to the student's current school once the family has given consent (it is in English and Chinese).
 
 #### After the visit
 
-1. The same day: the assessor signs the grading sheet; the interviewer completes the Reading front sheet and the Interview sheet; all sheets come back to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
-2. Within two working days: the **final mark sheet** is completed from those sheets and the Head of School or Deputy confirms the decision.
+1. The same day: the assessor completes Part A and the top of Part B of the **student record** and hands it to the interviewer; the interviewer completes Parts B and C and returns it to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
+2. Within two working days: admissions completes Part D of the student record (the decision) and the Head of School or Deputy confirms it.
 3. Admissions enters the student in the **tracker** (Office folder), completes the **assessment result and report**, tells the family (starting with the student's strengths) and gives the report with the marked papers. File everything together.
 
 **The three rules.** English sections: staff read only the script, never the texts, and never translate. Maths and science: any question may be read aloud in English; a Chinese-speaking colleague may say it once in Chinese (mark L). All answers in English: an answer in Chinese scores 0.

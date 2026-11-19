@@ -20,7 +20,7 @@ footer: Admissions assessment v3.1 | Start here
 | Folder | What it holds | How often |
 |---|---|---|
 | READ ME FIRST | One page: the visit in order, what to print, who gets what, the recording, what happens afterwards | Read it once |
-| 1 Print one per student | The visit checklist, the student paper, the grading sheet, the Reading front sheet, the Interview sheet, the parent conversation record, the final mark sheet, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences) | Every student |
+| 1 Print one per student | The visit checklist, the student paper, the **student record** (one booklet that goes from the assessor to the interviewer to admissions: marks, reading, interview, decision), the parent conversation record, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences) | Every student |
 | 2 Print once for the room | The day sheet, the assessor instructions, the interviewer guide, the sentence reading guide and card (Years 1 to 3 also the Early Reading Screen guide and cards; Years 11 and 12 also the optional sciences mark scheme and the cognitive screen guide) | Once; reuse |
 | 3 Listening recording | The recording for that year group (Years 7 to 12 also Part A and Part B separately) | Play it |
 | 4 Send before the visit | The previous homeroom teacher reference, English and Chinese | Each student, before the visit |
@@ -33,9 +33,9 @@ For the admissions office, not for the room: the **admissions team pack** (the f
 
 | Who | Does |
 |---|---|
-| **Admissions** | Books the visit, prints the folder, welcomes the family, hands the sheets to the assessor and the interviewer, collects them back, completes the final mark sheet with the assessor, enters the tracker, tells the family |
-| **Assessor** | Runs the written parts with the recording, a clock and (Years 9 to 12) a calculator, marks the paper, fills in the grading sheet and Part 1 of the Reading front sheet |
-| **Interviewer** (usually the principal) | Runs the sentence reading and the interview; completes the Reading front sheet and the Interview sheet |
-| **Head of School or Deputy** | Reads the final mark sheet and confirms the decision |
+| **Admissions** | Books the visit, prints the folder, welcomes the family, hands the student paper and the student record to the assessor, collects the record back, completes its Part D, enters the tracker, tells the family |
+| **Assessor** | Runs the written parts with the recording, a clock and (Years 9 to 12) a calculator, marks the paper, fills in Part A and the top of Part B of the student record, hands the record to the interviewer |
+| **Interviewer** (usually the principal) | Runs the sentence reading and the interview; completes Parts B and C of the student record and returns it to admissions |
+| **Head of School or Deputy** | Reads Part D of the student record and confirms the decision |
 
 Every paper says **version 3.1**. Use only files from this pack. Papers are confidential: families may see them but never photograph them or take them home.

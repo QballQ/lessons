@@ -37,18 +37,14 @@ CURRENT = 'v3.1'   # the current version of the papers for every year group (Oct
 def candidate_parts(year, v=CURRENT):
     y = f'Y{year:02d}'
     student = f'{y}/{y}_Student_Booklet_{v}.pdf' if year <= 3 else f'{y}/{y}_Student_Paper_{v}.pdf'
-    p = [student, f'{y}/{y}_Grading_Sheet_{v}.pdf']
+    p = [student, f'{y}/{y}_Student_Record_{v}.pdf']
     if year <= 3:
         p.append('shared/Early_Reading_Screen_Record.pdf')
     if year >= 11:
         # Years 11 and 12: the cognitive ability screen booklet and the optional sciences paper are printed for each
         # candidate too (the student sits only the sciences they will take; unused sections are discarded).
         p += ['shared/Cognitive_Ability_Screen_Y11_Y12.pdf', f'{y}/{y}_Optional_Sciences_{v}.pdf']
-    p += ['forms/Reading_Front_Sheet.pdf',
-          f'forms/Interview_Sheet_{PHASE.get(year, "Y7_Y10")}.pdf',
-          'forms/Parent_Conversation_Record.pdf',
-          'forms/Candidate_Summary_and_Decision.pdf',
-          'forms/Assessment_Result_Cover.pdf']
+    p += ['forms/Parent_Conversation_Record.pdf', 'forms/Assessment_Result_Cover.pdf']
     return p
 
 

@@ -18,6 +18,7 @@ the START HERE page as Markdown under delivery/, builds them to PDF with tools/b
       Office/                      Admissions team pack, tracker (blank and demo), full guide and evidence
 """
 import os
+import re
 import shutil
 import subprocess
 import zipfile
@@ -79,23 +80,21 @@ def per_student(y):
     items = [('Visit checklist', 'forms/Visit_Checklist.pdf', 'Admissions keeps it and ticks it', 'before, during and after the visit')]
     if y <= 3:
         items += [(f'Student booklet Year {y}', f'{Y}/{Y}_Student_Booklet_{V}.pdf', 'the assessor', 'the student writes in it'),
-                  (f'Grading sheet Year {y}', f'{Y}/{Y}_Grading_Sheet_{V}.pdf', 'the assessor', 'marks go here'),
+                  (f'Student record Year {y}', f'{Y}/{Y}_Student_Record_{V}.pdf', 'the assessor, then the interviewer, then admissions',
+                   'one booklet: marks, reading, interview, decision'),
                   ('Early Reading Screen record', 'shared/Early_Reading_Screen_Record.pdf', 'the assessor',
                    'print only the passage sheets you expect to use')]
     else:
         items += [(f'Student paper Year {y}', f'{Y}/{Y}_Student_Paper_{V}.pdf', 'the assessor', 'the student writes in it'),
-                  (f'Grading sheet Year {y}', f'{Y}/{Y}_Grading_Sheet_{V}.pdf', 'the assessor', 'marks go here')]
+                  (f'Student record Year {y}', f'{Y}/{Y}_Student_Record_{V}.pdf', 'the assessor, then the interviewer, then admissions',
+                   'one booklet: marks, reading, interview, decision')]
     if y >= 11:
         items += [('Cognitive ability screen booklet', 'shared/Cognitive_Ability_Screen_Y11_Y12.pdf', 'the assessor',
                    'the student writes in it'),
                   (f'Optional sciences paper Year {y}', f'{Y}/{Y}_Optional_Sciences_{V}.pdf', 'the assessor',
                    'print only the sciences the student will take')]
-    items += [('Reading front sheet', 'forms/Reading_Front_Sheet.pdf', 'the assessor, then the interviewer',
-               'the assessor fills in Part 1 and passes it on'),
-              (f'Interview sheet {PHASE_NAME[ph]}', f'forms/Interview_Sheet_{ph}.pdf', 'the interviewer', 'before the interview'),
-              ('Parent conversation record', 'forms/Parent_Conversation_Record.pdf',
+    items += [('Parent conversation record', 'forms/Parent_Conversation_Record.pdf',
                'the staff member who talks to the parents', 'during the visit'),
-              ('Final mark sheet', 'forms/Candidate_Summary_and_Decision.pdf', 'admissions', 'within two working days'),
               ('Assessment result and report', 'forms/Assessment_Result_Cover.pdf', 'admissions',
                'after the decision is confirmed; given to the family with the marked papers')]
     return items
@@ -161,6 +160,11 @@ def readme_md(y):
                       'finish. Use the two **Part A only** and **Part B only** files instead if you may stop after Part A '
                       '(a student with 2 or fewer in Part A need not do Part B).')
     rec_lines += ' If the recording cannot be played, the assessor reads the script from the assessor instructions.'
+    if y <= 3:
+        txt = open(os.path.join(AUDIO, f'Y{y:02d}', 'READ_ME_FIRST.txt'), encoding='utf-8').read()
+        starts = re.findall(r'Item (\d+)\s+(\d+:\d\d)', txt)
+        rec_lines += ('\n\n**Where each item starts** (to play one again, go back to this time): ' +
+                      ', '.join(f'item {n} at {t}' for n, t in starts) + '.')
     extra = ''
     if y >= 11:
         extra = ('\n**Years 11 and 12.** The cognitive ability screen is for planning support, never for selection; follow its guide '
@@ -205,8 +209,8 @@ Send the **homeroom teacher reference** to the student's current school once the
 {extra}
 #### After the visit
 
-1. The same day: the assessor signs the grading sheet; the interviewer completes the Reading front sheet and the Interview sheet; all sheets come back to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
-2. Within two working days: the **final mark sheet** is completed from those sheets and the Head of School or Deputy confirms the decision.
+1. The same day: the assessor completes Part A and the top of Part B of the **student record** and hands it to the interviewer; the interviewer completes Parts B and C and returns it to admissions. Anything worrying goes to the Designated Safeguarding Lead the same day.
+2. Within two working days: admissions completes Part D of the student record (the decision) and the Head of School or Deputy confirms it.
 3. Admissions enters the student in the **tracker** (Office folder), completes the **assessment result and report**, tells the family (starting with the student's strengths) and gives the report with the marked papers. File everything together.
 
 **The three rules.** English sections: staff read only the script, never the texts, and never translate. Maths and science: any question may be read aloud in English; a Chinese-speaking colleague may say it once in Chinese (mark L). All answers in English: an answer in Chinese scores 0.
@@ -235,7 +239,7 @@ footer: Admissions assessment {V} | Start here
 | Folder | What it holds | How often |
 |---|---|---|
 | READ ME FIRST | One page: the visit in order, what to print, who gets what, the recording, what happens afterwards | Read it once |
-| 1 Print one per student | The visit checklist, the student paper, the grading sheet, the Reading front sheet, the Interview sheet, the parent conversation record, the final mark sheet, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences) | Every student |
+| 1 Print one per student | The visit checklist, the student paper, the **student record** (one booklet that goes from the assessor to the interviewer to admissions: marks, reading, interview, decision), the parent conversation record, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences) | Every student |
 | 2 Print once for the room | The day sheet, the assessor instructions, the interviewer guide, the sentence reading guide and card (Years 1 to 3 also the Early Reading Screen guide and cards; Years 11 and 12 also the optional sciences mark scheme and the cognitive screen guide) | Once; reuse |
 | 3 Listening recording | The recording for that year group (Years 7 to 12 also Part A and Part B separately) | Play it |
 | 4 Send before the visit | The previous homeroom teacher reference, English and Chinese | Each student, before the visit |
@@ -248,10 +252,10 @@ For the admissions office, not for the room: the **admissions team pack** (the f
 
 | Who | Does |
 |---|---|
-| **Admissions** | Books the visit, prints the folder, welcomes the family, hands the sheets to the assessor and the interviewer, collects them back, completes the final mark sheet with the assessor, enters the tracker, tells the family |
-| **Assessor** | Runs the written parts with the recording, a clock and (Years 9 to 12) a calculator, marks the paper, fills in the grading sheet and Part 1 of the Reading front sheet |
-| **Interviewer** (usually the principal) | Runs the sentence reading and the interview; completes the Reading front sheet and the Interview sheet |
-| **Head of School or Deputy** | Reads the final mark sheet and confirms the decision |
+| **Admissions** | Books the visit, prints the folder, welcomes the family, hands the student paper and the student record to the assessor, collects the record back, completes its Part D, enters the tracker, tells the family |
+| **Assessor** | Runs the written parts with the recording, a clock and (Years 9 to 12) a calculator, marks the paper, fills in Part A and the top of Part B of the student record, hands the record to the interviewer |
+| **Interviewer** (usually the principal) | Runs the sentence reading and the interview; completes Parts B and C of the student record and returns it to admissions |
+| **Head of School or Deputy** | Reads Part D of the student record and confirms the decision |
 
 Every paper says **version 3.1**. Use only files from this pack. Papers are confidential: families may see them but never photograph them or take them home.
 '''

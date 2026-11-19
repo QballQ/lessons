@@ -39,7 +39,8 @@ Each candidate's assessment takes **about 45 minutes in Year 1, about 67 minutes
 | **Assessor instructions** | Year 1 to Year 12: assessor instructions (scripts, answers, mark schemes, band guides) | Assessor | **Once** |
 | Student paper or booklet | student booklet (Years 1 to 3) or student paper (Years 4 to 12) | The student | Each candidate |
 | **Visit checklist** | Visit checklist: one sheet per student that the admissions office ticks before, during and after the visit | Admissions | Each candidate |
-| **Grading sheet** | grading sheet: the marks, bands, NT and L, comments for one student | Assessor | Each candidate |
+| **Student record** | One booklet for each student, passed from the assessor to the interviewer to admissions: Part A marks (the grading sheet), Part B reading (the Reading front sheet), Part C interview (the Interview sheet), Part D decision (the final mark sheet). Printed from folder 1 of the year group; the four component sheets below are its parts | Assessor, interviewer, admissions | Each candidate |
+| **Grading sheet** (Part A of the student record) | grading sheet: the marks, bands, NT and L, comments for one student | Assessor | Each candidate |
 | Listening recordings | folder 3 Listening recording of the year folder: one recording for every year group, with a READ ME FIRST page of the year folder | Assessor | Nothing to print |
 | Early Reading Screen (Years 1 to 3, and older students new to English) | Early Reading Screen cards (laminate), Early Reading Screen guide (once), Early Reading Screen record (one set per child) | Assessor | As stated |
 | **Sentence reading** (all years) | Sentence reading guide (rules, the interviewer's copy of the sentences; once), Sentence reading card (laminate) | Interviewer, or the assessor in Years 1 to 3 | Once |

@@ -13,7 +13,7 @@ This is the simple pack for the admissions team and the assessors. It says what 
 
 | In the year folder | What it holds | What to do |
 |---|---|---|
-| **1 Print one per student** | The visit checklist, the student paper or booklet, the grading sheet, the Reading front sheet, the Interview sheet, the parent conversation record, the final mark sheet, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences). Each file is one sheet or booklet, numbered in the order it is used | Print one of each for every student, double-sided. Hand each to the person named in the file name |
+| **1 Print one per student** | The visit checklist, the student paper or booklet, the **student record** (one booklet: marks, reading, interview, decision; it goes from the assessor to the interviewer to admissions), the parent conversation record, the assessment result and report (Years 1 to 3 also the Early Reading Screen record; Years 11 and 12 also the cognitive screen booklet and the optional sciences). Each file is one sheet or booklet, numbered in the order it is used | Print one of each for every student, double-sided. Hand each to the person named in the file name |
 | **2 Print once for the room** | The day sheet, the assessor instructions, the interviewer guide, the sentence reading guide and card (Years 1 to 3 also the Early Reading Screen guide and cards; Years 11 and 12 also the optional sciences mark scheme and the cognitive screen guide) | Print once, laminate the cards, keep in the room. Nobody writes on them |
 | **3 Listening recording** | The MP3 for that year group (Years 7 to 12 also Part A and Part B separately) | Copy to the laptop or phone in the room; test the speaker |
 | **4 Send before the visit** | The previous homeroom teacher reference (English and Chinese) | Send to the student's current school once the family has given consent |
@@ -23,20 +23,20 @@ This is the simple pack for the admissions team and the assessors. It says what 
 | Role | Does |
 |---|---|
 | **Admissions officer** | Collects documents and consent, books the visit and the interview slot, prints folder 1 of the year group, welcomes the family, hands the interviewer the sheets, files everything, enters the results, communicates the decision |
-| **Assessor** (a teacher) | Runs the written and spoken tasks (Section 3), marks the paper, completes the **grading sheet**, fills in Part 1 of the **Reading front sheet** and hands it over |
-| **Interviewer** (usually the principal; the homeroom teacher or the assessor in Years 1 to 3) | Runs the sentence reading (Years 4 to 10) and the interview, completes the **Reading front sheet** (Parts 2 and 3) and the **Interview sheet** |
-| **Head of School or Deputy** | Reads the final mark sheet and confirms the recommendation. The Designated Safeguarding Lead gets anything worrying the same day |
+| **Assessor** (a teacher) | Runs the written and spoken tasks (Section 3), marks the paper, completes Part A and the top of Part B of the **student record** and hands it over |
+| **Interviewer** (usually the principal; the homeroom teacher or the assessor in Years 1 to 3) | Runs the sentence reading (Years 4 to 12) and the interview, completes Parts B and C of the **student record** |
+| **Head of School or Deputy** | Reads Part D of the student record and confirms the recommendation. The Designated Safeguarding Lead gets anything worrying the same day |
 
 **The visit, step by step.**
 
 | Step | Who | What | Paper |
 |---|---|---|---|
 | 1 | Admissions | Family arrives. Welcome, show where parents wait. Parent conversation starts with another member of staff (about 15 minutes) | Parent conversation record |
-| 2 | Assessor | Runs the sections in Section 3 (the day sheet for the year group) | Student paper, grading sheet |
-| 3 | Assessor | Marks the paper, fills in the grading sheet and Part 1 of the Reading front sheet | Grading sheet, Reading front sheet |
-| 4 | Admissions | Gives the interviewer the Reading front sheet and the Interview sheet (Section 5) | |
-| 5 | Interviewer | Sentence reading and interview, then completes both sheets and returns them | Reading front sheet, Interview sheet |
-| 6 | Admissions, Head of School or Deputy | Thanks the family: **no results are given on the day**. Final mark sheet within two working days (Section 6) | Final mark sheet |
+| 2 | Assessor | Runs the sections in Section 3 (the day sheet for the year group) | Student paper, student record |
+| 3 | Assessor | Marks the paper, fills in Part A and the top of Part B of the student record | Student record |
+| 4 | Admissions | Gives the interviewer the student record (Section 5) | |
+| 5 | Interviewer | Sentence reading and interview, then completes Parts B and C and returns the record | Student record |
+| 6 | Admissions, Head of School or Deputy | Thanks the family: **no results are given on the day**. Part D of the student record within two working days (Section 6) | Student record, Part D |
 | 7 | Admissions | After the Head of School or Deputy confirms the decision: completes the **assessment result and report** and gives it with the marked papers (Section 6) | Assessment result and report |
 
 ## 2. Before the visit
@@ -133,13 +133,13 @@ If the day is too long, the optional sciences and the interview may be on a seco
 
 ## 4. The listening recordings
 
-Every year group has a recording made from the scripts, so that every candidate hears the same voices, pace and pauses. It replaces the assessor reading the script. Play it on a speaker (not headphones) in a quiet room. Do the volume check before the student arrives. The MP3 is in folder **3 Listening recording** of the year group (in the repository: folder 3 Listening recording of the year folder; each folder has a READ ME FIRST page of the year folder with the tracks and, for Years 1 to 3, the start time of every item.
+Every year group has a recording made from the scripts, so that every candidate hears the same voices, pace and pauses. It replaces the assessor reading the script. Play it on a speaker (not headphones) in a quiet room. Do the volume check before the student arrives. The MP3 is in folder **3 Listening recording** of the year group; the year's READ ME FIRST page gives the tracks and, for Years 1 to 3, the start time of every item.
 
 | Year | Play this | Length | Voice speed (words a minute) | Also |
 |---|---|---|---|---|
-| 1 | Year 1 listening.mp3 | 4:27 | 210 | start time of every item in the READ ME FIRST page of the year folder |
-| 2 | Year 2 listening.mp3 | 4:30 | 215 | start time of every item in the READ ME FIRST page of the year folder |
-| 3 | Year 3 listening.mp3 | 4:01 | 215 | start time of every item in the READ ME FIRST page of the year folder |
+| 1 | Year 1 listening.mp3 | 4:27 | 210 | item start times on the READ ME FIRST page |
+| 2 | Year 2 listening.mp3 | 4:30 | 215 | item start times on the READ ME FIRST page |
+| 3 | Year 3 listening.mp3 | 4:01 | 215 | item start times on the READ ME FIRST page |
 | 4 | Year 4 listening.mp3 | 6:26 | 180 |  |
 | 5 | Year 5 listening.mp3 | 5:37 | 195 |  |
 | 6 | Year 6 listening.mp3 | 6:45 | 185 |  |
@@ -158,31 +158,30 @@ Every year group has a recording made from the scripts, so that every candidate 
 
 **The pauses are longer for younger students.** The voice speed is the same for every year group (the voice's normal speed). The pause after each sentence is about a second in Years 1 to 3, about three quarters of a second in Years 4 to 6 and about half a second in Years 7 to 12. The voices are offline text-to-speech in British English. In two-person scripts the speakers have different voices, so the recording does not say their names.
 
-## 5. Handing over to the interviewer
+## 5. The student record: one booklet, passed from person to person
 
-The interviewer is usually the principal. When you book the interview, give the interviewer one **interview pack** for each candidate, **before** the interview starts:
+Each student has one **student record** (in folder 1; 8 to 10 pages, two or three sheets stapled). It replaces the separate grading sheet, Reading front sheet, Interview sheet and final mark sheet, and the assessor instructions still use those names for its four parts:
 
-| Give | What it is |
-|---|---|
-| **Reading front sheet** (2 pages) | Part 1 is already filled in by the assessor: the reading levels so far (Early Reading Screen, or the reading paper marks), the reading band so far, and where the sentence reading starts. The interviewer fills in Parts 2 and 3 |
-| **Interview sheet** (2 pages) | Speaking and listening bands, key things the student said, the suitability ratings, follow-ups, the interviewer's comment |
+| Part | Who fills it in | What it holds |
+|---|---|---|
+| **A Marks** (the grading sheet) | The assessor | Listening, writing, maths and science scores and bands; NT and L; access arrangements; the assessor's comment |
+| **B Reading** (the Reading front sheet) | The assessor fills in 1 (the reading levels so far and where the sentence reading starts); the interviewer, or in Years 1 to 3 the assessor, fills in 2 and 3 | The sentence reading grid, the reading age and the reading band |
+| **C Interview** (the Interview sheet) | The interviewer | Speaking and listening bands, what the student said, suitability ratings, follow-ups, the interviewer's comment |
+| **D Decision** (the final mark sheet) | Admissions, confirmed by the Head of School or Deputy | The bands together, the recommendation, support, comments and feedback for the family, sign-off |
 
-The interviewer's own folder, kept from one candidate to the next (nothing to print again): Interviewer guide for the phase for the phase (the questions and descriptors), Sentence reading guide (the rules, the sentences and the meaning questions) and the laminated sentence reading card.
+**How it goes.** 1. Admissions gives the student paper and the student record to the assessor. 2. The assessor marks the paper, completes Part A and the top of Part B, and hands the record to the interviewer before the interview (writing who gave it and when, in Part B). 3. The interviewer opens the interview with the sentence reading from the start level in Part B (Level 1 if "new to English" is ticked), completes Parts B and C while the memory is fresh, and returns the record to admissions the same day. 4. Admissions keeps the record with the marked paper and the parent conversation record.
 
-**How it goes.** 1. The assessor completes Part 1 of the Reading front sheet and gives both sheets to the interviewer (write who gave it and when, in Part 1). 2. The interviewer starts the interview with the sentence reading, from the start level printed on the front sheet (Level 1 if the assessor ticked "new to English"). 3. The interviewer asks the questions from the guide, then completes the Interview sheet while the memory is fresh. 4. Both sheets come back to admissions the same day, with a word to the assessor about anything unexpected. 5. Admissions clips the two sheets to the grading sheet and the parent conversation record.
+The interviewer's own folder, kept from one candidate to the next (nothing to print again): the Interviewer guide for the phase (the questions and descriptors), the Sentence reading guide (the rules, the sentences and the meaning questions) and the laminated sentence reading card.
 
 ## 6. After the visit
 
-**The same day**
-- Assessor: mark the paper; grading sheet complete, signed; Reading front sheet Part 1 complete.
-- Interviewer: Reading front sheet Parts 2 and 3, and the Interview sheet, complete.
-- Any safeguarding concern: told to the Designated Safeguarding Lead.
+**The same day:** Parts A to C of the student record complete and signed; any safeguarding concern told to the Designated Safeguarding Lead.
 
-**Within two working days: the final mark sheet**. Copy the scores from the grading sheet, the Reading front sheet and the Interview sheet, give the overall English band, tick one recommendation, write the support plan, and add the comments and the feedback for the family. The Head of School or Deputy confirms it. Admissions tells the family (start with the child's strengths).
+**Within two working days: Part D of the student record.** Copy the bands from Parts A to C, give the overall English band, tick one recommendation, write the support plan, and add the comments and the feedback for the family. The Head of School or Deputy confirms it. Admissions tells the family (start with the child's strengths).
 
-**The assessment result and report** is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from the final mark sheet **after the Head of School or Deputy has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
+**The assessment result and report** is the front cover for the student's marked papers: one sheet, double-sided, with the outcome, the English bands and scores, maths and science, strengths, what to work on, the support recommended and the next step, and the band key on the back. Admissions fills it in from Part D **after the Head of School or Deputy has confirmed the decision**, and gives it with the marked papers when the family is told. Keep a copy with the file.
 
-**Entering it in the admissions tracker** (Admissions tracker (Office folder), one workbook for all year groups). Give the candidate one row on the sheet for their year group (Year 1 to Year 10) and fill it in as the process moves on, changing the **Status** at each stage: Applied, Visit booked, Assessed, Decision confirmed, Family told, Enrolled, Withdrawn. It refuses a score above the paper's maximum, and its **Data check** column says what is missing. The **Dashboard** sheet shows, for every year group, where candidates are in the process, their levels, the decisions and offers, and the support needed: never type on it. The sheet How to use has the instructions, and the DEMO copy shows it working with fictional candidates.
+**Entering it in the admissions tracker** (Admissions tracker (Office folder), one workbook for all year groups). Give the candidate one row on the sheet for their year group (Year 1 to Year 12) and fill it in as the process moves on, changing the **Status** at each stage: Applied, Visit booked, Assessed, Decision confirmed, Family told, Enrolled, Withdrawn. It refuses a score above the paper's maximum, and its **Data check** column says what is missing. The **Dashboard** sheet shows, for every year group, where candidates are in the process, their levels, the decisions and offers, and the support needed: never type on it. The sheet How to use has the instructions, and the DEMO copy shows it working with fictional candidates.
 
 | Tracker columns | From |
 |---|---|
@@ -221,15 +220,12 @@ Folder **1 Print one per student** of each year group, in the order the files ar
 
 | File | Years | Pages | Hand to |
 |---|---|---|---|
-| 1 Visit checklist | all | 2 | admissions keeps it and ticks it |
-| 2 Student booklet (Years 1 to 3) or student paper | all | 11 to 22 by year | the assessor |
-| 3 Grading sheet | all | 1 to 2 | the assessor |
-| 4 Early Reading Screen record | 1 to 3 | 18 (print only the sheets needed) | the assessor |
+| Visit checklist | all | 2 | admissions keeps it and ticks it |
+| Student booklet (Years 1 to 3) or student paper | all | 11 to 22 by year | the assessor |
+| **Student record** (Part A marks, B reading, C interview, D decision) | all | 8 to 10 | the assessor, then the interviewer, then admissions |
+| Early Reading Screen record | 1 to 3 | 18 (print only the sheets needed) | the assessor |
 | Cognitive ability screen booklet; optional sciences paper | 11 and 12 | 14; 11 to 13 (print only the sciences taken) | the assessor |
-| Reading front sheet | all | 2 | the assessor, then the interviewer |
-| Interview sheet for the phase | all | 2 | the interviewer |
 | Parent conversation record | all | 3 | the staff member talking to the parents |
-| Final mark sheet | all | 3 | admissions, within two working days |
 | Assessment result and report | all | 2 | admissions, after the decision; given to the family with the marked papers |
 
-Folder **2 Print once for the room** holds the day sheet, the assessor instructions (8 to 20 pages by year), the interviewer guide, the sentence reading guide and the sentence reading card to laminate; Years 1 to 3 add the Early Reading Screen guide and cards; Years 11 and 12 add the optional sciences mark scheme and the cognitive screen guide. Staff pages printed for each student are about 16.
+Folder **2 Print once for the room** holds the day sheet, the assessor instructions (8 to 20 pages by year), the interviewer guide, the sentence reading guide and the sentence reading card to laminate; Years 1 to 3 add the Early Reading Screen guide and cards; Years 11 and 12 add the optional sciences mark scheme and the cognitive screen guide.
