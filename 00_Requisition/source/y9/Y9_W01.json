@@ -1,0 +1,655 @@
+{
+ "lesson": {
+  "id": "Y9_W01",
+  "year": "Year 9",
+  "week": 1,
+  "title_en": "Should I believe it?",
+  "title_zh": "我该相信吗？",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Should I believe it? (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 2 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Main student task: record the group's claim sort, gap fill, Stretch and Challenge (Great Wall CER), My thinking; exit ticket strip at the foot of page 2 is cut or torn off and handed in",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated. The lesson file gives no page count; the designed worksheet has 2 pages (page 1 says 'turn over'). Core 2 on page 1 says 'Use the word bank at the bottom of the page', but the fold-under word bank is at the foot of page 2. The exit ticket strip at the foot of page 2 backs onto the foot of page 1 (Stretch 2), so cutting it off removes part of page 1."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Year 9 skills check paper (baseline; 10 questions, 20 marks)",
+    "quantity": 24,
+    "unit": "copies; 4 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "15-minute baseline assessment, done alone and in silence; marked out of 20 and compared with the same paper in Week 10",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Skills_Check_Y9.md asks for 'two sides of A4', but the designed paper has 4 pages ('Page 1 of 4' to 'Page 4 of 4'), entered as 2 double-sided sheets per copy. Stapling is not mentioned. No spares stated. Fresh copies of the same paper are needed again in Week 10."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Interest survey: How do you feel about science? (6 statements, five faces)",
+    "quantity": 24,
+    "unit": "copies; half A4, single-sided, printed 2 per A4 sheet and cut along the middle line",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 0.5,
+    "purpose": "3-minute survey straight after the skills check; scores 1 to 5 per statement go into the tracker survey columns",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "24 copies = 12 A4 sheets, cut in half. One version serves Years 7, 8 and 9. The lesson plan and Slide 4 say 'circle one face'; the survey sheet says 'Tick ONE face'. Fresh copies are needed again in Week 10."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Claim sort mat (A3 landscape: flowchart, four boxes, 'We argued' strip)",
+    "quantity": 6,
+    "unit": "copies; A3 landscape, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Groups place the 16 claim cards in the Opinion, Fact, Testable and Not testable boxes, with up to 3 cards in the 'We argued' strip",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 6 per class (one per group), laminate if possible. The requisition 'By week' sheet lists 6 sheets of A3 paper for these mats. Mats are not written on, so one set could serve several classes if lessons do not overlap; the files do not say."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Skills check mark scheme (teacher copy)",
+    "quantity": 1,
+    "unit": "copy; 2 A4 pages (sides not stated; double-sided entered)",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Marking the 24 skills check papers out of 20: answer, accept, do not accept and marks for each question",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design has 2 pages, both marked 'Teacher copy'. Single or double-sided is not stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card at the start of every Do phase; group copies are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Claim card sets (16 cards, A to P; 8 cards per A4 sheet, each about 9 cm by 6 cm)",
+    "quantity": 6,
+    "unit": "sets; 2 A4 card sheets per set, single-sided, greyscale, then cut",
+    "basis": "group",
+    "paper": "A4 card",
+    "sheets_per_copy": 2,
+    "purpose": "The claim sort: each group reads and sorts the 16 everyday claims; cards J and L are the key discussion cards",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "6 sets x 2 sheets = 12 A4 card sheets (the requisition 'By week' sheet lists 12 sheets of 160 gsm white card for Year 9 Week 1). The print spec says '6 sets per class', but the kit card prep is 'once' and Recorders count the cards back into the envelope, so one batch may be meant to serve every class."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (Lead Scientist, Measurer, Recorder, Safety Officer, Reporter; each card 85 x 55 mm)",
+    "quantity": 6,
+    "unit": "sets of 5; 1 A4 sheet per set, single-sided, then cut",
+    "basis": "group",
+    "paper": "A4 card",
+    "sheets_per_copy": 1,
+    "purpose": "Given out in the Welcome; roles change every week for the whole series",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The lesson file and kit card list '1 set of 5' per group but give no print spec; the design is one A4 sheet of 5 cards. Paper or card is not stated (card entered). The requisition lists 'Group role cards (Year 9)', 6 sets of 5 per class, kept by each class. The Safety Officer card says 'Check goggles are on', while the Teacher Guide job is 'Checks the kit card and safety rules'. Groups of 4 have 5 cards: the Lead Scientist also reports."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Envelopes (one per claim card set, labelled with the group number)",
+    "quantity": 6,
+    "unit": "envelopes",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Keeping each set of 16 claim cards together; Recorders count the cards back in at clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Size is not stated in the lesson file; the requisition 'By week' sheet lists 6 C6 envelopes for Year 9 Week 1. Same sharing question as the claim card sets."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Pencils",
+    "quantity": 24,
+    "unit": "pencils (4 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Skills check, survey, recording the sort on the worksheet and the exit ticket",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The requisition 'By week' sheet lists 24 HB pencils for Year 9 Week 1. Reusable in later weeks and by other classes."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A3",
+    "quantity": 6,
+    "unit": "pouches",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 6 claim sort mats",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Lamination is 'if possible'. Scales with the number of mat sets printed."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Scissors or paper trimmer (prep)",
+    "quantity": null,
+    "quantity_text": "not stated; 1 assumed for prep",
+    "unit": "",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Cutting the 12 claim card sheets, 6 role card sheets and 12 survey sheets before the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Not listed in the files; implied by 'print and cut'. Slide 11 says 'cut or tear' the exit ticket strip off, so student scissors are not required."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class assessment folder",
+    "quantity": 1,
+    "unit": "folder",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Filing the marked Week 1 skills check papers (not returned before Week 10) and the surveys, kept separately",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Named in the Teacher Guide and Skills_Check_Y9.md, not on the kit card. No size or type is stated. The location is recorded on the handover note."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Book printing for Weeks 1 to 5 (Teacher Guide prep calendar, 'Before Week 1', all years)",
+    "when": "2 or more weeks before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the lesson plan, answer key (claim sort best fits and accepted alternatives) and Section 0 of Skills_Check_Y9.md and Interest_Survey.md (how to run them: what may and may not be explained)",
+    "when": "The week before",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Send the paper print job: worksheets (24 per class, 2 pages double-sided), skills checks (24 per class, 4 pages double-sided), interest surveys (12 A4 sheets per class, 2 per sheet), 1 mark scheme and 1 A5 kit card",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print and cut 6 claim card sets on A4 card (2 sheets per set), put each set in an envelope labelled with the group number; print 6 sorting mats on A3 (the kit card's 'about 25 minutes, once' also covers printing the skills checks and surveys)",
+    "when": "The week before",
+    "minutes": 25,
+    "minutes_source": "kit card",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print and cut the group role cards: 6 sets of 5 (1 A4 sheet per set)",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "Every week of the series",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the interest surveys in half along the cut line (12 A4 sheets per class)",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the 6 A3 sorting mats (if possible)",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan six fixed groups of 4 and their tables; enter number, names, group and starting role in tracker columns A to E, and any access arrangement (for example a reader) in column H",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Groups stay the same for Weeks 1 to 5",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Put the skills checks and surveys in class order; optionally write student names on the skills checks in advance to get them back quickly",
+    "when": "The day before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out on each group table: claim card envelope, A3 sorting mat, role card set and 4 pencils; have skills checks, surveys and worksheets ready to give out; load the slides (11) so the skills check can start the moment students sit down",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: Recorders count all 16 cards back into the envelope; mats, role cards and pencils collected",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect skills checks and surveys separately; collect exit ticket strips as students leave",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Mark the 24 skills checks out of 20 with the mark scheme within the week (no half marks; Chinese accepted for Questions 4, 8, 9 and 10); enter totals in tracker column I; do not go through, return or display the papers before Week 10",
+    "when": "After the lesson",
+    "minutes": 45,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10 growth comparison",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Score the surveys (faces 1 to 5, left to right) and enter them in tracker columns J to O",
+    "when": "After the lesson",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10 comparison",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "File the skills check papers in the class assessment folder and note where; keep the surveys separately",
+    "when": "After the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10; handover note",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets before Week 2: who can tell testable from not testable (quick check for Week 2 grouping)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 2 grouping",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: store the claim card envelopes and sorting mats; keep the role card sets for Week 2",
+    "when": "After the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Role cards: every week",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "Before we believe a claim, we ask what kind of claim it is and whether evidence could ever check it.",
+   "goals": [
+    "I can sort claims into fact, opinion, testable and not testable, and explain my choice.",
+    "I can use Claim, Evidence, Reasoning and the three-point verdict scale to judge a claim."
+   ],
+   "key_words": [
+    {
+     "en": "claim",
+     "zh": "说法（主张）"
+    },
+    {
+     "en": "fact",
+     "zh": "事实"
+    },
+    {
+     "en": "opinion",
+     "zh": "观点"
+    },
+    {
+     "en": "testable",
+     "zh": "可检验的"
+    },
+    {
+     "en": "not testable",
+     "zh": "不可检验的"
+    },
+    {
+     "en": "evidence",
+     "zh": "证据"
+    },
+    {
+     "en": "reasoning",
+     "zh": "推理"
+    },
+    {
+     "en": "verdict",
+     "zh": "结论（裁定）"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Welcome (replaces Do Now)",
+     "minutes": 2,
+     "what": "Seat groups of 4 at fixed tables for the series and give out role cards; explain 'no exams, lots of thinking'. Slides 1 to 2."
+    },
+    {
+     "phase": "Baseline skills check",
+     "minutes": 15,
+     "what": "Give out the Year 9 skills check, read the instructions aloud and keep time; students work alone and in silence. Reassure: 'This is to show your growth, not a test score.' Slide 3."
+    },
+    {
+     "phase": "Interest survey",
+     "minutes": 3,
+     "what": "Give out the survey and read each statement aloud in English; students mark one face per statement. Slide 4."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "'Can you see the Great Wall from the Moon with your eyes alone?' Hands-up vote: Yes, No or Not sure; tell a partner why (any language). Do not reveal. Slide 5."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 5,
+     "what": "Four kinds of claim with the flowchart, then Claim, Evidence, Reasoning and the verdict scale; students repeat key words and answer quick 'fact or opinion?' questions with fingers (1 to 4). Slides 6 to 8."
+    },
+    {
+     "phase": "Do",
+     "minutes": 8,
+     "what": "Claim sort in groups: 16 cards on the A3 sorting mat (4 boxes plus the 'We argued' strip); record the sort on the worksheet (Core), then Stretch or Challenge. Teacher challenges with 'Could any evidence show that is wrong?' Slide 9."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 4,
+     "what": "Back to the Great Wall: show the evidence, model a CER and ask for a verdict (expected: Not supported); partners share one sentence with a frame; exit ticket collected. Slides 10 to 11."
+    }
+   ],
+   "practical": "Claim sort: each group reads 16 claim cards (A to P) aloud, uses the flowchart to place them on an A3 mat as Opinion, Fact, Testable or Not testable, puts disputed cards in the 'We argued' strip and records the sort on the worksheet. One short activity only this week.",
+   "assessment": "Baseline skills check (15 minutes, marked out of 20, into the progress tracker; papers filed and not returned before Week 10); interest survey (into the tracker survey tab); exit ticket: can each student tell testable from not testable (quick check for Week 2 grouping). No logbook line this week: the logbook starts in Week 2.",
+   "hazards": [
+    "No practical hazards beyond normal classroom rules."
+   ],
+   "language_note": "Frames: 'This claim is testable because we could measure ___.' 'This is an opinion because ___.' 'Our verdict is ___ because ___.' Chinese talk is welcome during the sort and the Hook pair talk; groups report back in English with a frame. Skills check: read questions aloud and explain everyday words, but do not explain science words; Chinese is accepted for explanations (Questions 4, 8, 9 and 10). Traps: 'fact' here means 'checked many times', not 'anything I am sure about'; 'verdict' is the final decision on a claim; 'testable' does not mean 'true'.",
+   "watch_out": [
+    "The skills check and survey are fixed. If time is short, cut the Challenge section, run the Great Wall verdict as a 1-minute teacher model, and let groups sort only cards A to L.",
+    "'If it is not testable, it must be false.' No: not testable means evidence cannot decide, so scientists cannot say either way. 'Not enough evidence yet' is an honest answer, not a failure.",
+    "Card J is the planted trap: a claim about opinions is testable with a survey. Card L (Great Wall) placed under Fact shows a popular myth: make sure at least one group explains each card to the class.",
+    "Do not go through, hand back or display the skills check answers: the same paper is used again in Week 10."
+   ],
+   "next_week_link": "Week 2 builds on 'evidence beats belief' by showing how our own brains can be fooled; the verdict scale is used again and students start the logbook. Read the exit tickets for Week 2 grouping. During this week, for Week 2: print the anchoring slips (alternate versions), the illusion sheets at 100% (check the lines measure 80 mm) and the tally sheet; draw YES and NO columns on the board. Mark the skills checks, enter tracker columns I to O and file the papers."
+  },
+  "open_questions": [
+   "Skills check length: assessment/Skills_Check_Y9.md asks for 'two sides of A4', but the designed paper (Skills-check-1 to Skills-check-4) has 4 pages. Entered as 2 double-sided sheets per copy. Should the sheets be stapled, and is 15 minutes still right for a 4-page paper?",
+   "Skills check timing: Y9_W01 gives 15 minutes for the whole phase (give out, read instructions, work), but Skills_Check_Y9.md and the Teacher Guide give 1 minute to give out and write names plus 15 minutes working. Which minute is lost?",
+   "Worksheet (design Main and Worksheet-2): Core 2 on page 1 says 'Use the word bank at the bottom of the page', but the fold-under word bank is at the foot of page 2. The exit ticket strip at the foot of page 2 backs onto Stretch 2 at the foot of page 1, so cutting or tearing it off removes part of page 1. Collect the whole worksheet instead, or move the strip?",
+   "Claim card sets, envelopes and sorting mats: the print specs in Y9_W01 say '6 sets per class' and '6 per class', but the kit card says the prep is done 'once' and the cards are counted back in. Is one batch shared by every Year 9 class (entered as per group, prep entered as once)?",
+   "Role cards: Y9_W01 and the kit card list '1 set of 5' per group with no print spec; the design (Role-cards) is one A4 sheet of 5 cards, 85 x 55 mm. Paper or card, and laminated or not? The Teacher Guide language pass adds 'role cards with duties and buddy cards', but its prep calendar says 'No change' for Year 9: confirm Year 9 uses the 5-card set.",
+   "Role card wording: the designed Safety Officer card says 'Check goggles are on' and 'Lead the clean-up', but the Teacher Guide gives the job as 'Checks the kit card and safety rules', and Y9_W01 has Recorders (not Safety Officers) check the cards back in.",
+   "Survey wording: Y9_W01 (lesson plan and Slide 4) says 'circle one face'; Interest_Survey.md and the designed sheet say 'Tick ONE face'.",
+   "The Teacher Guide prep calendar ('Before Week 1', all years) also lists printing logbooks and name cards. Y9_W01 uses neither (the Year 9 logbook starts in Week 2; name cards are not mentioned in the Year 9 file), so they are not entered here. Are name cards wanted for Year 9?",
+   "No spares are stated for worksheets, skills checks or surveys (24 of each entered). Add spares for new students?",
+   "Where are the claim card envelopes, mats and role card sets kept between lessons? The Teacher Guide's class box is described for logbooks only, and the kit card does not say."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W01",
+  "big_idea": "Before we believe a claim, we ask what kind of claim it is and whether evidence could ever check it.",
+  "goals": [
+   "I can sort claims into fact, opinion, testable and not testable, and explain my choice.",
+   "I can use Claim, Evidence, Reasoning and the three-point verdict scale to judge a claim."
+  ],
+  "flow": [
+   {
+    "phase": "Welcome",
+    "minutes": 2,
+    "what": "Groups of 4 at fixed tables; role cards; 'no exams, lots of thinking'"
+   },
+   {
+    "phase": "Skills check",
+    "minutes": 15,
+    "what": "Baseline paper, alone and in silence; read instructions aloud; keep time"
+   },
+   {
+    "phase": "Interest survey",
+    "minutes": 3,
+    "what": "Read each statement aloud; students mark one face per statement"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Great Wall from the Moon? Vote Yes, No or Not sure; do not reveal"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 5,
+    "what": "Four kinds of claim, flowchart, CER and the three-point verdict scale"
+   },
+   {
+    "phase": "Do",
+    "minutes": 8,
+    "what": "Claim sort: 16 cards on the A3 mat; record on the worksheet"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 4,
+    "what": "Great Wall evidence, model CER, verdict with a frame; exit ticket"
+   }
+  ],
+  "practical": "Groups sort 16 claim cards on an A3 mat into Opinion, Fact, Testable or Not testable and record the sort.",
+  "assessment": "Baseline skills check (out of 20, tracker); interest survey (tracker); exit ticket: testable or not testable. No logbook this week",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Read lesson plan, answer key and how-to-run notes for skills check and survey",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job: worksheets, skills checks, surveys, mark scheme, kit card",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Print and cut 6 claim card sets into labelled envelopes; print 6 A3 mats",
+    "minutes": 25,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Print and cut 6 role card sets; cut surveys in half",
+    "minutes": 15,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 6 sorting mats",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Plan six fixed groups and tables; start tracker columns A to E",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out card sets, mats, role cards, pencils; papers in class order; slides",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Mark skills checks (out of 20); enter scores and surveys in tracker",
+    "minutes": 60,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "File skills checks in class assessment folder; never return before Week 10",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets for Week 2 grouping",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (1 sheet each, double-sided)",
+   "Skills check paper x24 (2 sheets each, double-sided)",
+   "Interest survey x24, half A4 (2 per A4 sheet, cut)",
+   "Sorting mat x6, A3, laminated if possible (1 per group)",
+   "Teacher copies: skills check mark scheme (2 pages), kit card (A5)"
+  ],
+  "get_items": [
+   "Claim card sets x6 (2 A4 card sheets each, cut; 1 per group)",
+   "Role card sets of 5 x6 (1 A4 sheet each, cut)",
+   "Envelopes x6 (1 per card set, labelled)",
+   "Pencils x24 (4 per group)",
+   "Class assessment folder x1",
+   "Scissors or paper trimmer for prep",
+   "Laminating pouches, A3 x6 (optional)"
+  ],
+  "reuse_items": [],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules"
+  ],
+  "watch_out": [
+   "Skills check and survey are fixed. Short of time: cut Challenge; sort only cards A to L.",
+   "'Not testable' is not 'false'. Card J (survey) is testable; card L is not a fact.",
+   "Never go through or return the skills check: same paper in Week 10."
+  ],
+  "language_note": "Frame: 'Our verdict is ___ because ___.' Chinese welcome in the sort and pair talk. Do not explain science words in the skills check.",
+  "next_week": "Week 2: how our brains fool us; logbook starts. Print anchoring slips, illusion sheets at 100%, tally sheet"
+ }
+}

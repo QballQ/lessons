@@ -1,0 +1,1101 @@
+{
+ "lesson": {
+  "id": "Y9_W06",
+  "year": "Year 9",
+  "week": 6,
+  "title_en": "The Mpemba mystery",
+  "title_zh": "姆潘巴之谜",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Plan A: Worksheet Version A (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 3 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Main student task in Plan A: predictions, Table 1 (thermometer tubes), Table 2 (summary), class tally, gap fill, Stretch and Challenge, exit ticket strip at the foot of page 3; the Do Now is answered on the back",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated. 24 copies x 2 sheets = 48 A4 sheets. The lesson file gives no page count; the designed Version A has 3 pages, so the back of sheet 2 is blank (used for the Do Now, and the exit ticket strip can be cut off cleanly). Print this OR 24 of Version B, not both."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Plan B: Worksheet Version B (Core with cooling-curve grid, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 4 A4 pages, double-sided, printed at 100%",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Main student task in Plan B: predictions, results table to 15 minutes, two cooling curves on the 15 cm by 12 cm grid, gap fill, Stretch and Challenge, exit ticket strip at the foot of page 4",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated. 24 copies x 2 sheets = 48 A4 sheets. The designed Version B has 4 pages, so there is no blank back for the Do Now ('answer on the back of the worksheet'), and cutting off the exit ticket strip on page 4 also cuts the foot of page 3. The grid is specified as 1 cm = 1 minute, so print at 100%. Needed only when Plan B runs."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Plan A backup: Worksheet Version B, a few copies in case the ice does not arrive",
+    "quantity": null,
+    "quantity_text": "'a few copies' (not stated); a full switch to Plan B needs 24",
+    "unit": "copies; 4 A4 pages, double-sided",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Backup on the day: if the ice is late or does not arrive, switch to Plan B and hand out Version B",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The file says 'Print a few copies of Version B every time', but a whole-class switch to Plan B needs 1 per student (24)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Method card for the plan in use (Plan A: tubes in a freezing mixture, or Plan B: cooling curves)",
+    "quantity": 6,
+    "unit": "copies; A5 portrait, single-sided, greyscale, laminated if possible",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Picture steps, the agreed definitions (Plan A) or fair test checklist (Plan B) and bilingual safety lines on each group's table",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 6 per class (1 per group), laminate if possible. Entered as one set of 6 for all classes because laminated cards can be wiped and reused; print 6 per class if they are not laminated. For the Plan B backup, the Plan B cards would be needed as well (not stated)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Class results board, Version A and Version B",
+    "quantity": 2,
+    "unit": "sheets (1 of each version); A3 landscape, single-sided",
+    "basis": "class",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Stuck on the board: Reporters fill in their group's row at about minute 28; the tally and the two verdict lines are used in Think and Reflect",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: A3, 1 per class; 'print both versions and use the one for the plan in use', so 2 A3 sheets per class and one is not used. Slide 11 shows the same table, so the sheet could be replaced by the slide (not stated)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Concept cartoon: what counts as frozen? (Mei, Jun, Tao and Xin)",
+    "quantity": 6,
+    "unit": "copies; A4 landscape, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Pair talk in Think and Reflect: 'Who do you agree with? Why?' with the frame 'I agree with ___ because ___. A better operational definition would be ___.'; also shown on slide 12A",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 6 per class (1 per group). It matches the Plan A debate (slide 12A); the file does not say whether it is used in Plan B, where the debate is slide 12B. If students do not write on it, one set could serve every class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit cards, Plan A and Plan B (half-A4, teacher copies)",
+    "quantity": 2,
+    "unit": "copies (1 of each plan); A5 landscape, double-sided (kit and prep on the front, hazards and clean-up on the back)",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls in English and Chinese, and clean-up; the Plan B card is needed if the ice does not arrive",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The lesson file says 'Print two versions'. The designs are marked 'Teacher copy' and each has a front and a back. The Teacher Guide has the Safety Officer check the kit card at the start of the Do phase; group copies are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A5",
+    "quantity": 6,
+    "unit": "pouches",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 6 method cards",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Lamination is 'if possible'. 12 if both plans' method cards are laminated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbook line in the last minute: 'The answer changed when we changed the definition of ___.' (Plan A) or 'Hot water cooled faster, but ___.' (Plan B)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards",
+    "quantity": 6,
+    "unit": "sets of 5 cards",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Measurer reads the thermometers, Recorder writes, Safety Officer checks gloves, Lead Scientist keeps time, Reporter takes results to the board",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Project groups for Weeks 6 to 10 may be re-formed this week (Teacher Guide); the lesson file does not say when this happens in the lesson."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Thermometers, minus 10 to 110 °C",
+    "quantity": 13,
+    "unit": "thermometers (2 per group plus 1 spare for the teacher)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Plan A: in tubes H1 and C1, read every 30 seconds until 0 °C. Plan B: in cups H and W, read every minute for 15 minutes. The teacher's spare checks the warm water and the freezing mixture",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans. With only 6, each group measures one tube or cup (odd groups H, even groups C or W). The kit card says glass thermometers; the Teacher Guide safety table says spirit or digital for Plan B. The Teacher Guide says to count thermometers in Week 1."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Stopwatches",
+    "quantity": 6,
+    "unit": "stopwatches (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Timing readings every 30 seconds and checks every minute (Plan A), or readings every minute to 15 minutes (Plan B)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Trays",
+    "quantity": 6,
+    "unit": "trays (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Group kit tray; cups and tubes of warm water stay on the tray",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: small test tubes",
+    "quantity": 24,
+    "unit": "tubes (4 per group: H1, C1, H2, C2)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "3 ml of water in each: tubes 1 hold thermometers, tubes 2 are observation tubes for first crystals and fully solid",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The Teacher Guide prep list says '12 to 24 small tubes' and its safety table says plastic tubes if possible; the kit card says 4 per group and counts 24 at clean-up. Each must be marked at 3 ml and labelled; a marker pen or labels are not listed."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: insulated cups (polystyrene, or two plastic cups one inside the other)",
+    "quantity": 6,
+    "unit": "cups (1 per group; 12 plastic cups if doubled)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Holds each group's freezing mixture (about 300 g crushed ice and 100 g salt)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: cups for cool tap water (about 20 °C)",
+    "quantity": 6,
+    "unit": "cups (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Groups fill tubes C1 and C2 from it to the 3 ml line",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: 10 ml plastic syringes or small measuring cylinders",
+    "quantity": 7,
+    "unit": "syringes (1 per group plus 1 for the teacher)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Groups measure 3 ml of cool water into the C tubes; the teacher fills the H tubes with warm water",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The kit card lists 1 per group and a separate 10 ml syringe for the teacher."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: tube racks, or empty cups to stand tubes in",
+    "quantity": 6,
+    "unit": "racks or cups (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Standing the tubes before the start and while frozen tubes thaw at clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: goggles",
+    "quantity": 24,
+    "unit": "pairs (4 per group)",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Worn by everyone while the freezing mixture is on the table (salty splashes sting eyes)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: insulated box for the ice",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Keeping about 2 to 3 kg of ice until the mixtures are made 10 minutes before the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: spoon",
+    "quantity": 1,
+    "unit": "spoon",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Measuring and stirring the salt into the ice; topping up a mixture that warms up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: bucket for used mixture",
+    "quantity": 1,
+    "unit": "bucket",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Used freezing mixture is tipped in; the teacher pours it down the sink with plenty of running water",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan A: clean bag and rolling pin",
+    "quantity": 1,
+    "unit": "of each",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Crushing the ice if it comes in large cubes",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Named only in the kit card prep line, not in the kit list."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan B: identical plastic cups, about 200 ml",
+    "quantity": 12,
+    "unit": "cups (2 per group, labelled H and W)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "100 ml of water at about 60 °C (H) and about 35 °C (W); thermometers stand in them",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Also needed for the Plan A backup. The file calls the Plan B kit 'a subset of the Plan A kit', but the Plan A list has no set of 12 identical 200 ml cups."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan B: second jug for water at about 35 °C",
+    "quantity": 1,
+    "unit": "jug",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "The teacher pours about 100 ml into each group's W cup",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Also needed for the Plan A backup."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Plan B: 100 ml measuring jug",
+    "quantity": 1,
+    "unit": "jug",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Measuring about 100 ml into each cup",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Also needed for the Plan A backup."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Kettle",
+    "quantity": 1,
+    "unit": "kettle",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Teacher only: kettle water mixed with cold water to about 60 °C",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Large jug",
+    "quantity": 1,
+    "unit": "jug",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Mixing and carrying the warm water (about 60 °C)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Flask to keep water at about 60 °C",
+    "quantity": 1,
+    "unit": "flask",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Keeps the warm water at temperature until the teacher fills the H tubes or H cups",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans. Size not stated."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks collected and stored at the end of the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used since Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": "From the Teacher Guide routine; not named in the Week 6 lesson file."
+   },
+   {
+    "group": "Food and consumables",
+    "item": "Plan A: ice",
+    "quantity": null,
+    "quantity_text": "about 2 to 3 kg, collected on the day",
+    "unit": "kg",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Crushed for the freezing mixtures (about 300 g per group) and for topping up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "From the canteen, boarding house or a staff-room freezer. The notes also ask for a dry run the day before, which needs ice a day early (amount not stated)."
+   },
+   {
+    "group": "Food and consumables",
+    "item": "Plan A: salt",
+    "quantity": 1,
+    "unit": "kg",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "About 100 g per group in the freezing mixture (3 parts ice to 1 part salt by mass), plus a spoonful to top up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The kit card lists 1 kg under 'Teacher'; 6 groups use about 600 g per class, so 1 kg may not cover two classes."
+   },
+   {
+    "group": "Food and consumables",
+    "item": "Plan A: disposable gloves",
+    "quantity": 12,
+    "unit": "pairs (2 per group: Measurer and Safety Officer), plus spares on the teacher's desk",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Handling the tubes by the top in the freezing mixture",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Number of spares and glove sizes not stated."
+   },
+   {
+    "group": "Food and consumables",
+    "item": "Paper towels",
+    "quantity": null,
+    "quantity_text": "not stated (1 supply per group tray)",
+    "unit": "",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Wiping spills at once; wiping trays and tables at clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Plan A: marked and labelled tubes (line at 3 ml; labels H1, C1, H2, C2)",
+    "quantity": 24,
+    "unit": "tubes (6 sets of 4)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Every tube gets the same 3 ml of water and groups can tell the thermometer tubes from the observation tubes",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "A marker pen or labels are not in the kit list. After washing, the same tubes can serve the next class."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Plan A: freezing mixtures (about 300 g crushed ice, 100 g salt and a splash of cold water in each insulated cup)",
+    "quantity": 6,
+    "unit": "cups (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "The 'mini freezer': below about minus 10 °C, made by the teacher 10 minutes before the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Make fresh for each class. Check with a thermometer that it is below about minus 10 °C; top up with ice and a spoonful of salt if it warms."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Warm water at about 60 °C (kettle water mixed with cold water, checked with a thermometer), kept in the flask",
+    "quantity": 1,
+    "unit": "flask",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Plan A: the teacher fills each group's H1 and H2 tubes. Plan B: about 100 ml into each H cup",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Both plans. No hotter than about 60 °C for student handling. Plan B needs about 600 ml for 6 groups."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Plan B: jug of water at about 35 °C",
+    "quantity": 1,
+    "unit": "jug",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "About 100 ml into each group's W cup",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Mixed just before the lesson. Also needed for the Plan A backup."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Plan B: 12 cups labelled H and W",
+    "quantity": 12,
+    "unit": "cups (6 pairs)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Groups can tell the hot cup from the warm cup",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "A marker pen or labels are not in the kit list."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Walkthrough meeting with the current teacher (before your first Week 6 lesson): handover notes, tracker, freezer decision, kit and prep for Weeks 6 and 7, who to ask in the prep room and canteen",
+    "when": "The week before",
+    "minutes": 30,
+    "minutes_source": "teacher guide",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check field 7 of each handover note ('Freezer decision') and prepare ONE plan: Plan A if about 2 to 3 kg of ice can be collected on the day, otherwise Plan B",
+    "when": "The week before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: confirm the ice with the canteen, boarding house or staff-room freezer contact: about 2 to 3 kg for each class, on the day of each lesson",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Send the print job for the plan in use: 24 worksheets per class (Version A: 3 pages; Version B: 4 pages; double-sided, 2 sheets each), a few copies of Version B as backup in Plan A, 6 A5 method cards, both A3 class results boards per class, 6 A4 concept cartoons per class and both A5 kit cards",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the 6 method cards in A5 pouches",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: collect the kit: 24 small tubes, 13 thermometers, 6 stopwatches, 6 insulated cups, 6 cups for cool water, 7 syringes (10 ml), 6 tube racks or cups, 24 goggles, 12 pairs of gloves plus spares, 6 trays, paper towels, 1 kg salt, kettle, large jug, flask, spoon, bucket, insulated box",
+    "when": "The week before",
+    "minutes": 20,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan B (and for the Plan A backup): collect 12 identical plastic cups (about 200 ml), 13 thermometers, 6 stopwatches, 6 trays, paper towels, kettle, two jugs, flask and a 100 ml measuring jug; label the cups H and W",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: mark each of the 24 tubes with a line at 3 ml and label them H1, C1, H2, C2 (part of the kit card's 'about 25 minutes')",
+    "when": "The day before",
+    "minutes": 8,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: dry run of the set-up: check that the freezing mixture gets below about minus 10 °C in your cups and that 3 ml of water freezes solid in about 15 minutes; if it takes much longer, use 2 ml or more salt",
+    "when": "The day before",
+    "minutes": 25,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Hide the slides for the plan not in use (Plan A uses 5A, 6A, 7A, 9A, 10A, 12A; Plan B uses 5B, 6B, 7B, 9B, 10B, 12B) and show only that plan's columns on slide 11",
+    "when": "The day before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: collect the ice in the insulated box; crush it in a clean bag with a rolling pin if it is in large cubes (part of the kit card's 'about 25 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 7,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: make warm water at about 60 °C (kettle water mixed with cold water, checked with a thermometer) and keep it in the flask (part of the kit card's 'about 25 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 4,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: 10 minutes before the lesson, mix about 3 parts ice to 1 part salt by mass in each of the 6 insulated cups with a splash of cold water, stir and check it is below about minus 10 °C (part of the kit card's 'about 25 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 6,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan B: just before the lesson, mix two jugs of water, one at about 60 °C and one at about 35 °C, checked with a thermometer",
+    "when": "On the day, before the lesson",
+    "minutes": 10,
+    "minutes_source": "kit card",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out one tray per group from the kit card for the plan in use, with the method card, role cards and concept cartoon; stick the class results board on the board; worksheets, spare gloves and the Version B backup copies on the teacher's desk",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "In Learn: the teacher fills each group's H tubes (Plan A) or pours about 100 ml into the H and W cups (Plan B); groups fill C1 and C2 with cool water to the 3 ml line, read the start temperatures and start the stopwatch",
+    "when": "Set-up by students in the lesson",
+    "minutes": 2,
+    "minutes_source": "lesson file",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up by groups: Plan A, tip used mixture into the bucket and stand frozen tubes in the rack to thaw; both plans, wipe trays and tables, wash hands; logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan A: pour the used mixture down the sink with plenty of running water; wash the tubes once thawed; count thermometers (12) and tubes (24). Plan B: empty the cups and count the thermometers",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets before Week 7 (operational definition, two definitions of 'frozen', verdict with a reason)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 7 Do Now recap",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Record each student's project group (Weeks 6 to 10) in tracker column F",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Weeks 7 to 10",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: return the kit; store the method cards; keep the ruler-drop cards (Week 3) and the class data photo (Week 4) ready for Week 7",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Week 7",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "Even a simple-sounding claim can be hard to test: scientists must agree exactly what they will measure (an operational definition), and different definitions, or different conditions, can give different answers.",
+   "goals": [
+    "I can carry out a fair test of the claim 'Hot water freezes faster than cold water' (Plan A) or compare the cooling of hot and warm water (Plan B), and record my results.",
+    "I can explain what an operational definition is, show how the choice of definition can change a verdict, and say what my evidence can and cannot show."
+   ],
+   "key_words": [
+    {
+     "en": "Mpemba effect",
+     "zh": "姆潘巴效应"
+    },
+    {
+     "en": "operational definition",
+     "zh": "操作性定义"
+    },
+    {
+     "en": "freezing point",
+     "zh": "凝固点"
+    },
+    {
+     "en": "freezing mixture",
+     "zh": "冷冻混合物"
+    },
+    {
+     "en": "supercooling",
+     "zh": "过冷"
+    },
+    {
+     "en": "cooling curve",
+     "zh": "冷却曲线"
+    },
+    {
+     "en": "rate of cooling",
+     "zh": "冷却速率"
+    },
+    {
+     "en": "contested",
+     "zh": "有争议的"
+    },
+    {
+     "en": "reproducible",
+     "zh": "可重复的"
+    },
+    {
+     "en": "limitation",
+     "zh": "局限性"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 4,
+     "what": "Three retrieval questions answered on the back of the worksheet: the control group in the lucky pen trial (Code 52), what to measure, and what 'frozen' means (write several answers on the board and keep them). Teacher checks the kit trays and, in Plan A, the freezing mixtures. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "The Mpemba story (Tanzania, 1963; Mpemba and Osborne, 1969; a 2016 study found no clear effect; still contested). Vote: 'Do you think hot water can freeze faster?' Yes, No or Not sure. Slides 3 to 4."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 7,
+     "what": "Set-up explained (2 min); safety slide read in both languages (1 min); teacher fills the H tubes (Plan A) or the H and W cups (Plan B) and groups start timing (2 min); operational definitions taught (2 min) while Measurers keep reading. Plan A: three definitions of 'frozen'. Plan B: three definitions of 'cooling faster'. Slides 5 to 9 (A or B)."
+    },
+    {
+     "phase": "Do",
+     "minutes": 18,
+     "what": "Plan A: thermometer tubes read every 30 seconds until 0 °C, then thermometers out; observation tubes checked every minute for first crystals and fully solid; Reporters take results to the board at minute 28; class tally, then Stretch. Plan B: both cups read every minute to 15 minutes (about minute 26), curves plotted as they go, 15-minute drops added to the class table. Slides 10 (A or B) and 11."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 8,
+     "what": "Debate with the class results (4 min): Plan A, did the winner change with the definition (concept cartoon, slide 12A); Plan B, does cooling faster at first prove freezing first (slide 12B). Two verdicts modelled: 'our test' and 'the claim in general' (slide 13). Exit ticket (3 min) and logbook line (1 min). Slides 12 to 14."
+    }
+   ],
+   "practical": "Plan A: each group puts four tubes with 3 ml of water (two warm, about 60 °C, and two cool) into an ice and salt freezing mixture at the same time, reads the thermometer tubes every 30 seconds until 0 °C and checks the observation tubes every minute for first crystals and fully solid. Plan B: each group reads cups of 100 ml of water at about 60 °C and about 35 °C every minute for 15 minutes and plots two cooling curves.",
+   "assessment": "Output: class results and the definition debate (Plan A), or two cooling curves and the limits-of-evidence debate (Plan B). Exit ticket: operational definition, two definitions of 'frozen', and a verdict with a reason. Logbook line under 'What I found'. Tracker: record each student's project group (Weeks 6 to 10) in column F.",
+   "hazards": [
+    "Plan A: the ice and salt freezing mixture reaches about minus 10 to minus 18 °C and can cause a cold burn: gloves on, tubes handled by the top, fingers never in the mixture.",
+    "Plan A: salty splashes sting eyes: goggles on while the mixture is on the table; wash hands afterwards.",
+    "Warm water can scald: only the teacher prepares and pours it, no hotter than about 60 °C; cups and tubes of warm water stay on the tray and are not carried.",
+    "Glass thermometers break easily: never stir with one or pull one out of ice; if one breaks, step back and tell the teacher.",
+    "No eating or drinking; never taste the ice, salt or water.",
+    "Spills make floors slippery: wipe up at once."
+   ],
+   "language_note": "Frames: 'Our operational definition of frozen is ___.' 'Using this definition, the ___ water froze first.' 'The data suggests ___; however, ___.' 'Our evidence cannot show ___ because ___.' 'Our verdict is ___ because ___.' Chinese talk is welcome in the Hook vote, during predictions and in the definition debate; readings are called out in English ('minus two degrees', 'two point five minutes'). Traps: 'frozen' in everyday speech means 'very cold'; 'cool' can mean 'lower in temperature' or 'good'; 'freezing point' is a temperature, not a moment in time; say negative temperatures as 'minus three degrees'. Year 9: key words are bilingual, instructions are in English.",
+   "watch_out": [
+    "Run ONE plan only, from the handover note (field 7). If the ice is late or does not arrive, switch to Plan B: hide the Plan A slides and hand out Version B.",
+    "A freezing mixture that warms up is the most common problem: top it up with ice and a spoonful of salt halfway through. Mixed results between groups are not a failure: they are the lesson.",
+    "'Hot water must freeze first because it cools faster': it cools faster at first, but it also has further to go.",
+    "'Water always freezes at exactly 0 °C': water can supercool a few degrees below 0 °C before the first crystals form.",
+    "If time is short: Plan A, drop the 'first crystals' checks and record 'not solid at ___ min' if tubes are not solid by minute 30; Plan B, stop at 10 minutes. Cut Challenge; keep the definition debate and the verdict."
+   ],
+   "next_week_link": "Week 7: groups choose their own claim from the claim bank, plan the test and get it approved; this claim is claim 1 on the list in Plan A. During this week, print the claim bank cards and planning frames; in Plan B remove claims 1, 2, 5 and 6 before printing. Bring the Week 3 ruler-drop cards and the Week 4 class data photo in case groups choose claims 12 or 9. Read the exit tickets and enter project groups in tracker column F first."
+  },
+  "open_questions": [
+   "Schema: 'plan' is fixed at 'Both' for Year 9, but Y9_W06_The_Mpemba_mystery.md has a Plan A / Plan B switch with different worksheets, kit and prep. Plan-specific rows are marked 'Plan A:' or 'Plan B:' at the start of the item or task; rows with no prefix are needed in both plans. Totals must not add both plans together.",
+   "Worksheet page counts: the lesson file gives none. The designed Version A has 3 pages and Version B has 4 (design/export_all/sites/Y9_W06_printables/project), both entered as 2 double-sided sheets. In Version B there is no blank back for the Do Now ('answer on the back of the worksheet'), and cutting off the exit ticket strip on page 4 also cuts the foot of page 3. Print Version B's last sheet single-sided, or collect the whole worksheet?",
+   "Backup copies: the lesson file says 'Print a few copies of Version B every time', but a whole-class switch to Plan B needs 24 copies, the Plan B method cards, 12 identical 200 ml cups, a second jug and a 100 ml measuring jug. The file calls the Plan B kit 'a subset of the Plan A kit', but the Plan A kit list has none of these cups or jugs. How many backup copies, and should the Plan B kit be set aside in Plan A?",
+   "No worksheet spares are stated (24 copies, 1 per student). Add spares?",
+   "Small tubes: the kit card gives 4 per group (24, counted at clean-up) but the Teacher Guide Section 8 says '12 to 24 small tubes'. The kit card says glass thermometers; the Teacher Guide safety table says 'plastic tubes if possible' (Plan A) and 'spirit or digital thermometers' (Plan B). Which tubes and thermometers will be used?",
+   "Tubes must be marked at 3 ml and labelled H1, C1, H2, C2, and Plan B cups labelled H and W, but no marker pen or labels are in the kit list.",
+   "Version B needs pencils, and the cooling curves are plotted on a grid, but the Plan B kit card lists no pencils or other stationery. Do students bring their own?",
+   "Dry run: the notes for the incoming teacher ask for a dry run of the Plan A set-up the day before, but ice is arranged only 'on the day' (2 to 3 kg). No amount of ice or time is given for the dry run (25 minutes entered as an estimate).",
+   "Salt: the kit card lists 1 kg under 'Teacher'; 6 groups at about 100 g use about 600 g per class, plus top-ups and the dry run. Is 1 kg per class or in total?",
+   "Gloves: 2 pairs per group 'plus spares on the teacher's desk'; the number of spares and the sizes are not stated. Paper towel quantity is not stated.",
+   "Class results board: 'print both versions and use the one for the plan in use' means one A3 sheet per class is wasted; slide 11 shows the same table. Print only the version for the plan in use?",
+   "Concept cartoon (6 per class): it shows the Plan A debate (slide 12A) and the Plan A timeline lists it. The Plan B timeline is 'the same as Plan A except' and replaces the debate with slide 12B, so it is unclear whether the cartoon is printed in Plan B.",
+   "Method cards and kit card: the print spec is 6 method cards per class, laminated if possible (entered as one reusable set of 6). The kit card designs are marked 'Teacher copy', but the Teacher Guide has each group's Safety Officer check the kit card at the start of the Do phase. Print group copies of the kit card?",
+   "Plan A prep time: the kit card gives 'about 25 minutes' for collecting ice, marking tubes, mixing the freezing mixtures and making warm water. It is split here into four estimated tasks (8 + 7 + 6 + 4); marking the tubes is needed once, the rest for each class. Collecting kit, printing and the dry run are extra and have no stated times.",
+   "Project groups 'may be the same or re-formed in Week 6' (Teacher Guide) and go in tracker column F, but the lesson file gives no time or step for forming groups. The file also does not say whether worksheets are collected as rubric evidence (Weeks 6 to 9 worksheets support strands 1 to 5) or kept by students.",
+   "Timing: the Plan A slide 10A timeline has observation checks 'to about 16 min' and the sample data has tubes fully solid at 12 to 16 minutes after the start (about minute 9 of the lesson), which is close to minute 28 when results go to the board. Slide 13's icon says 'only 20 minutes'."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W06",
+  "big_idea": "A simple claim can be hard to test: agree exactly what to measure (an operational definition); different definitions can give different answers.",
+  "goals": [
+   "I can fair test 'hot water freezes faster' (A) or compare cooling (B) and record results.",
+   "I can explain an operational definition, how it changes a verdict, and my evidence's limits."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Three retrieval questions; keep the 'What does frozen mean?' answers on the board"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Mpemba story, 1963, still contested; vote: can hot water freeze faster?"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Set-up and safety; teacher pours warm water, groups start timing; operational definitions"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "A: read tubes, check crystals and solid. B: read cups, plot curves. Results to board"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Definition debate; two verdicts (our test, claim in general); exit ticket; logbook line"
+   }
+  ],
+  "practical": "A: four 3 ml tubes (two warm, two cool) in ice and salt. B: cups at 60 and 35 °C, read each minute.",
+  "assessment": "Class results and debate; exit ticket (definition, two meanings of 'frozen', verdict); logbook line; tracker column F",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Walkthrough with current teacher: handover notes, freezer decision, Weeks 6, 7 kit",
+    "minutes": 30,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check handover field 7; run ONE plan. Plan A: confirm 2 to 3 kg ice",
+    "minutes": 8,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job for the plan in use; laminate method cards if possible",
+    "minutes": 15,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect kit from the kit card for the plan in use",
+    "minutes": 20,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "A: mark 24 tubes at 3 ml, label H1, C1, H2, C2",
+    "minutes": 8,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "A: dry run, mixture below minus 10 °C, 3 ml solid in 15 min",
+    "minutes": 25,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "A: collect, crush ice; warm water in flask; mix ice and salt 10 min before",
+    "minutes": 17,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "B: mix two jugs of water, about 60 °C and about 35 °C",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Hide other plan's slides; set out trays, cards; results board up",
+    "minutes": 8,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean up, count kit; read exit tickets; project groups in tracker column F",
+    "minutes": 28,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24: Version A (Plan A) or Version B (Plan B), 2 sheets each, double-sided",
+   "Plan A backup: a few copies of Version B",
+   "Method card for the plan in use x6, A5, laminate if possible (1 per group)",
+   "Concept cartoon x6, A4 (1 per group)",
+   "Class results board x1 of each version per class, A3",
+   "Teacher copies: kit cards, Plan A and Plan B (A5, double-sided)"
+  ],
+  "get_items": [
+   "Thermometers x13 (2 per group, 1 teacher spare); stopwatches x6",
+   "Kettle, large jug, flask; paper towels",
+   "A: ice 2 to 3 kg on the day; salt 1 kg; insulated box, spoon, bucket",
+   "A: small tubes x24; insulated cups x6; cool water cups x6; racks x6",
+   "A: 10 ml syringes x7; goggles x24; gloves x12 pairs plus spares",
+   "B: identical 200 ml cups x12; second jug; 100 ml measuring jug",
+   "Laminating pouches, A5 x6 (optional)",
+   "Make: A, 6 freezing mixtures, 24 marked tubes; warm water (60 °C; B also 35 °C)"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Scientist's Logbooks x24",
+   "Role card sets x6",
+   "Group trays x6"
+  ],
+  "hazards": [
+   "A: freezing mixture can cold burn: gloves on, hold tubes by the top, never touch the mixture",
+   "A: goggles on while the mixture is on the table; wash hands afterwards",
+   "Warm water (60 °C at most) is poured by the teacher only; cups stay on trays; wipe spills",
+   "Never stir with a thermometer or pull one out of ice; no eating, drinking or tasting"
+  ],
+  "watch_out": [
+   "Ice late or missing: switch to Plan B, hide Plan A slides, hand out Version B.",
+   "Mixture warming up: top up with ice and a spoonful of salt. Mixed results are the lesson.",
+   "'Hot must freeze first because it cools faster': faster at first, but further to go."
+  ],
+  "language_note": "Frame: 'Using this definition, the ___ water froze first.' 'Frozen' is not just 'very cold'. Say 'minus three degrees'.",
+  "next_week": "Groups choose a claim from the claim bank; print cards (Plan B: remove claims 1, 2, 5, 6)"
+ }
+}
