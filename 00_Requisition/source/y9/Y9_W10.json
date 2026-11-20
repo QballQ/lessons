@@ -1,0 +1,1000 @@
+{
+ "lesson": {
+  "id": "Y9_W10",
+  "year": "Year 9",
+  "week": 10,
+  "title_en": "Claim Busters Conference",
+  "title_zh": "真相调查员大会",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Year 9 skills check paper (assessment/Skills_Check_Y9.md), fresh copies of the same paper as Week 1",
+    "quantity": 24,
+    "unit": "copies; 4 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Final skills check: 15 minutes, alone and in silence, face down on every desk before students arrive; marked out of 20 for growth against Week 1",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "assessment/Skills_Check_Y9.md says 'two sides of A4', but the designed paper in the Week 1 printables has 4 pages (Skills check p1 to p4), entered as 2 sheets per copy: 24 x 2 = 48 A4 sheets. No spares stated. Must be the exact Week 1 paper. Chinese text is marked draft."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Interest survey (assessment/Interest_Survey.md), fresh copies",
+    "quantity": 24,
+    "unit": "copies; half A4 each, 2 copies per A4 sheet, single-sided, cut across the middle",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 0.5,
+    "purpose": "Same survey as Week 1: six statements read aloud, 3 minutes, before certificates; scores go into tracker columns U to Z",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "24 copies = 12 A4 sheets, cut in half. No spares stated. One version serves Years 7, 8 and 9."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Week 10 worksheet: conference listener sheet (Core, Stretch, Challenge, My thinking, fold-under word bank, optional exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 2 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Core 1: tick each group's verdict and confidence during the talks; Core 2: who I ask and give feedback to; Stretch, Challenge and My thinking at the gallery walk or a later session",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The designed sheet has 2 pages (page 1 says 'turn over'). No spares stated. The optional exit ticket strip is at the foot of page 2: cutting it off also cuts the foot of page 1 on the back."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Two stars and a wish peer feedback slips (assessment/Rubric_and_Reporting.md Section 6)",
+    "quantity": 6,
+    "quantity_text": "6 sheets (24 slips), plus spares (number not stated)",
+    "unit": "sheets; A4 portrait, single-sided, 4 A6 slips per sheet, cut",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Each student writes one slip for the assigned group (the group that presents after their own); slips stay with that group's report",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 1 sheet per 4 students (6 sheets for a class of 24), plus spares; the number of spares is not stated. The kit card needs 1 slip per student."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Talk frame card (Other printables 6a)",
+    "quantity": 6,
+    "quantity_text": "6 (1 per group), plus spares (number not stated)",
+    "unit": "copies; A5 landscape, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Five numbered talk parts with speaker name lines and answer frames; on every table during the talks; students may hold it and read from it",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 6 per class (1 per group) plus spares, laminate if possible; the number of spares is not stated. Also handed out at the end of Week 9 (Week 9 kit card: 1 per group), so it must be printed before the Week 9 lesson; the files do not say whether groups keep the cards between lessons. Print on A5, or 2 up on A4 and cut."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Conference marking grid, strand 6 (Other printables 6c)",
+    "quantity": 1,
+    "unit": "copy; A4 landscape, single-sided",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher records talk part, clear science, key words used, question asked or answered and the strand 6 level for each student (24 rows plus a spare)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "One grid per class, on a clipboard. Level descriptors are not on the grid: they are in assessment/Rubric_and_Reporting.md (strand 6 row)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Chair's script card (Other printables 6d)",
+    "quantity": 1,
+    "unit": "copy; A5 portrait, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher's words as conference chair: opening, the line for each group with the bell at 1:45 and stop at 2:00, and the closing",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Blanks for group and claim are filled in by speech, so one copy serves every class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Verdict wall poster (Other printables 6e)",
+    "quantity": 1,
+    "unit": "copy; A3 portrait, single-sided, greyscale",
+    "basis": "class",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Three columns (Supported, Not supported, Not enough evidence yet) with six tag spaces each; the teacher writes each claim, group and confidence during the peer feedback; photographed for the programme summary",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "1 per class. Written on, so a new poster is needed for each class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Close-out checklist (Other printables 6f)",
+    "quantity": 1,
+    "unit": "copy; A4 portrait, single-sided",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Tick list with 'Done on' dates for marking, tracker entry, awards, reports, gallery walk, filing and returning kit; kept in the class assessment folder",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "1 copy per class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, double-sided (front: kit and prep; back: hazards and clean-up)",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design has a front and a back, both marked for the teacher."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "One-page skills report (assessment/Rubric_and_Reporting.md Section 5)",
+    "quantity": 24,
+    "unit": "copies; A4 portrait, single-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "After the lesson: strand levels, Week 1, Week 5 and Week 10 scores, growth, project, award and a teacher comment of about 50 words for each student",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Written after Week 10 (close-out checklist). Fields can be filled in by hand or by mail merge from the tracker; the files do not say who prints them or when they are given out."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Year 9 skills check mark scheme (assessment/Skills_Check_Y9.md Section 2)",
+    "quantity": null,
+    "quantity_text": "not stated (teacher copy from Week 1)",
+    "unit": "copy; A4 portrait",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": null,
+    "purpose": "Marking the Week 10 papers out of 20 with the same strictness as Week 1",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used to mark the Week 1 papers; reuse",
+    "in_requisition": "No: reused",
+    "check": "The number of copies is not stated. The designed mark scheme in the Week 1 printables has 2 pages."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Six-strand rubric (assessment/Rubric_and_Reporting.md Section 1)",
+    "quantity": null,
+    "quantity_text": "not stated (teacher copy)",
+    "unit": "copy; A4 landscape",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": null,
+    "purpose": "Level descriptors for judging strands 1 to 5 before the lesson and strand 6 during the talks (they are not repeated on the marking grid)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used from Week 9 for strands 1 to 5; reuse",
+    "in_requisition": "No: reused",
+    "check": "The number of copies is not stated, and no file says when the rubric is first printed."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Audience question cards (Other printables 6b), 12 different cards per sheet",
+    "quantity": 2,
+    "unit": "sheets; A4 card, single-sided, greyscale, cut into 12 cards (about 6.5 cm by 6.5 cm)",
+    "basis": "class",
+    "paper": "A4 card",
+    "sheets_per_copy": 1,
+    "purpose": "One card per student; the assigned group asks one question from the floor after each talk; hand out so each group holds a mix of different cards",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "2 sheets per class gives 24 cards, exactly 1 per student, with no spares. Cards could be collected and reused for other classes; the file does not say."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Certificates, Claim Busters series (assessment/Rubric_and_Reporting.md Section 4): Gold, Silver, Bronze, Participation and Most Improved Scientist designs",
+    "quantity": 25,
+    "quantity_text": "24 (1 per student) plus 1 Most Improved per class, plus a second certificate for each boundary student (number not stated)",
+    "unit": "certificates; A4 landscape, single-sided, on card if available",
+    "basis": "student",
+    "paper": "A4 card",
+    "sheets_per_copy": 1,
+    "purpose": "Presented in the last 2 minutes, sorted by group; every student who takes part receives one",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Print spec: one per student plus one Most Improved per class (24 + 1 = 25). Boundary students need both possible certificates; that number is not stated. Most Improved Scientist cannot be decided until the Week 10 skills checks are marked, so it is presented later. If printing before the lesson is not practical, present all certificates at the next opportunity."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A5",
+    "quantity": 6,
+    "unit": "pouches",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 6 talk frame cards",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Lamination is 'if possible'. Spare cards would need more pouches."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Labelled envelopes for skills checks and surveys",
+    "quantity": null,
+    "quantity_text": "not stated; at least 2 per class (1 for skills checks, 1 for surveys)",
+    "unit": "envelopes",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Papers are collected at once into a labelled envelope; skills checks and surveys are kept separate from each other",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The number is not stated. Size must take 24 unfolded A4 papers."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Sticky tape",
+    "quantity": null,
+    "quantity_text": "not stated",
+    "unit": "roll",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Fixing the verdict wall poster to the wall; groups may stick feedback slips on the back of their report",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Amount not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Clipboard",
+    "quantity": 1,
+    "unit": "clipboard",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Holds the conference marking grid while the teacher chairs the talks",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Named in the marking grid print spec, not on the kit card."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Fact-check reports (A3 folded), with reviewer checklist, comment slips and revision log stapled on",
+    "quantity": 6,
+    "unit": "reports (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Returned to each group in the conference opening; the graph is held up during the talk; collected again for display and the gallery walk",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Written and collected in Week 9; returned for the talks",
+    "in_requisition": "No: reused",
+    "check": "The teacher needs them between Weeks 9 and 10 to judge strands 1 to 5, together with the plans, data sheets and logbooks."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Evidence for strands 1 to 5 before the lesson; collected for reporting; no logbook line is required this week",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": "Returned to students only after the reports are written (close-out checklist)."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Week 1 skills check papers (marked, filed, not returned)",
+    "quantity": 24,
+    "unit": "papers",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "The Week 9 notes ask the teacher to check they are filed; growth is Week 10 score minus Week 1 score; may be returned or discussed only after Week 10",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Sat in Week 1; filed in the class assessment folder",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Class assessment folder",
+    "quantity": 1,
+    "unit": "folder",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Holds the close-out checklist and, after the lesson, the fact-check reports, data sheets, plans, skills check papers and surveys",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "In use since Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards",
+    "quantity": 6,
+    "unit": "sets (1 set of 5 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Teacher Guide routine: role cards on every table, roles rotated weekly",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "Given out in Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not named in the Week 10 lesson file or kit card; the conference uses talk parts, not roles."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Timer",
+    "quantity": 1,
+    "unit": "timer (or a phone alarm)",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Timing the 15-minute skills check with a 5-minute warning, and each 2-minute talk",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Bell",
+    "quantity": 1,
+    "unit": "bell (or a phone alarm)",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Rung at 1 minute 45 seconds in each talk; talks stop at 2 minutes",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Visualiser",
+    "quantity": 1,
+    "unit": "visualiser",
+    "basis": "room",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Showing each group's report graph during the talk, instead of holding it up",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Only 'if there is one'."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks are kept here and collected from it for reporting",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "In use since Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": "Named in the Teacher Guide, not in the Week 10 lesson file."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Running order poster (or slide 4), filled in with each group's claim",
+    "quantity": 1,
+    "unit": "poster",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Shows group, claim and who asks the question and gives feedback (Group 6 for Group 1, Group 1 for Group 2, and so on)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "No printable design or paper size is given for a poster; the alternative is to type the claims into slide 4. Different for every class."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Provisional award list from strands 1 to 5, and certificates sorted by group",
+    "quantity": 1,
+    "unit": "list",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Lets the teacher hand over the right certificate after the talks; boundary students have both possible certificates ready",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Award rules: assessment/Rubric_and_Reporting.md Section 3. If not practical, certificates are presented at the next opportunity."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Book printing for Weeks 9 and 10 (Teacher Guide prep calendar, Week 7): skills checks, surveys, peer feedback slips and the Week 10 printables",
+    "when": "2 or more weeks before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print 6 talk frame cards per class (A5) plus spares in time for the end of the Week 9 lesson, when they are first handed out",
+    "when": "2 or more weeks before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "Week 9 (talk parts chosen) and Week 10",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the talk frame cards in A5 pouches",
+    "when": "2 or more weeks before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Send the print job (Teacher Guide, Week 9): per class 24 fresh copies of the same Week 1 skills check (2 sheets each), 12 A4 sheets of surveys, 6 A4 sheets of feedback slips, 24 listener sheets (double-sided), 2 A4 card sheets of question cards, 1 A3 verdict wall poster, 1 marking grid, 1 close-out checklist; once: chair's script card and kit card",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check the Week 1 skills check papers are filed in the class assessment folder and that there are enough fresh copies of the same paper (Week 9 notes)",
+    "when": "The week before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plan the room layout for the Conference (Teacher Guide, Week 9): groups present standing at their own tables; choose wall space for the verdict wall poster",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Judge rubric strands 1 to 5 for each student from the collected Week 9 reports, plans, data sheets, revision logs and logbooks, and work out provisional awards with the award rules in assessment/Rubric_and_Reporting.md Section 3; compare with the self-assessment slips (part of the kit card's 'about 40 minutes')",
+    "when": "The week before",
+    "minutes": 25,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Tracker columns AC to AG; certificates; skills reports",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print the certificates on card (one per student; both possible certificates for boundary students) and sort them by group; the kit card says 'plus certificate printing' without a time. If not practical, present certificates at the next opportunity",
+    "when": "The day before",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the 2 sheets of question cards (24 cards), the 6 sheets of feedback slips (24 slips) and the 12 survey sheets (24 surveys) (part of the kit card's 'about 40 minutes')",
+    "when": "The day before",
+    "minutes": 8,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Fill in the running order (poster or slide 4) with each group's claim number and short title (part of the kit card's 'about 40 minutes')",
+    "when": "The day before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect the timer, bell (or phone alarm), sticky tape and clipboard; label the envelopes for skills checks and surveys; put the marking grid on the clipboard",
+    "when": "On the day, before the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Put a skills check paper face down on every desk before students arrive (part of the kit card's 'about 40 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Put up the verdict wall poster with sticky tape; have ready the six reports, talk frame cards, listener sheets, question cards (mixed), feedback slips, surveys, certificates and the chair's script card",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: skills checks and surveys into their separate envelopes straight away; collect the reports for display (feedback slips stay with each report); take down and photograph the verdict wall poster; collect logbooks for reporting",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Mark the Week 10 skills checks out of 20 (assessment/Skills_Check_Y9.md Section 2), same marker and strictness as Week 1; enter scores in tracker column S (growth, column T, is automatic)",
+    "when": "After the lesson",
+    "minutes": 40,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Enter question-by-question marks in the tracker's question analysis tab",
+    "when": "After the lesson",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Enter the Week 10 survey scores in tracker columns U to Z (assessment/Interest_Survey.md Section 2)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Confirm strand levels in columns AC to AH (strand 6 from the marking grid, N if not judged); check awards (column AJ) and correct any certificate handed out provisionally; decide Most Improved Scientist (column AK); print remaining certificates and mark column AL",
+    "when": "After the lesson",
+    "minutes": 20,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Write the one-page skills reports (assessment/Rubric_and_Reporting.md Section 5), with a teacher comment of about 50 words for each student",
+    "when": "After the lesson",
+    "minutes": 120,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Run the gallery walk of fact-check reports at break or in a later session; students finish Stretch, Challenge and My thinking on the listener sheet; take any questions cut from the talks",
+    "when": "After the lesson",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Present the Most Improved Scientist certificate, and any certificates not given in the lesson, at the next opportunity",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Contribute class figures to the programme summary for principals: class means, skills check growth, survey change (statements 4 and 5 first), photos of the verdict wall and reports",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "File the fact-check reports, data sheets, plans, skills check papers and surveys in the class assessment folder; return logbooks after the reports are written (photograph one or two good examples, with permission)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Return thermometers, scales, tape measures, stopwatches and trays to the prep room; note breakages or shortages, which claims worked best and any changes for next year",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "Scientists share their verdicts in public, say honestly how sure they are, and answer questions with evidence; and after ten weeks we can see how much our own thinking has grown.",
+   "goals": [
+    "I can present our claim, test, data and verdict clearly in a 2-minute talk, with a confidence level and its reason.",
+    "I can answer or ask a question from the floor using evidence, not opinion."
+   ],
+   "key_words": [
+    {
+     "en": "conference",
+     "zh": "大会"
+    },
+    {
+     "en": "talk",
+     "zh": "演讲"
+    },
+    {
+     "en": "audience",
+     "zh": "观众"
+    },
+    {
+     "en": "question from the floor",
+     "zh": "现场提问"
+    },
+    {
+     "en": "verdict",
+     "zh": "结论（裁定）"
+    },
+    {
+     "en": "confidence",
+     "zh": "把握程度"
+    },
+    {
+     "en": "uncertainty",
+     "zh": "不确定性"
+    },
+    {
+     "en": "evidence",
+     "zh": "证据"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Arrival (replaces Do Now)",
+     "minutes": 1,
+     "what": "Skills check papers (fresh copies of the Week 1 paper) are face down on every desk. Students sit, write name, class and date, tick 'Week 10' and do not turn over. Slide 1."
+    },
+    {
+     "phase": "Final skills check",
+     "minutes": 15,
+     "what": "Teacher reads the instructions aloud, keeps time, gives a 5-minute warning and collects the papers at once into a labelled envelope; same rules as Week 1 (assessment/Skills_Check_Y9.md Section 0). Students work alone and in silence. Slide 2."
+    },
+    {
+     "phase": "Conference opening (Hook)",
+     "minutes": 2,
+     "what": "Teacher becomes the chair: welcomes the 'delegates', returns each group's report, gives out question cards, feedback slips and listener sheets, explains the rules and running order. Each student checks their talk part and which group they ask and give feedback to. Slides 3 to 4."
+    },
+    {
+     "phase": "Conference talks (Do)",
+     "minutes": 15,
+     "what": "Groups 1 to 6 present standing at their own table, holding up the report graph: 2 minutes each (bell at 1 minute 45 seconds, stop at 2 minutes), then one question from the floor (about 30 seconds) from the group before. Listeners tick each verdict and confidence. Teacher records strand 6 on the marking grid. Slides 5 to 7. If short: 90 seconds and no question for the last groups."
+    },
+    {
+     "phase": "Peer feedback (Think and Reflect)",
+     "minutes": 2,
+     "what": "Students finish one two stars and a wish slip for the assigned group and hand it over, while the teacher collects the verdicts onto the verdict wall poster. Slide 8."
+    },
+    {
+     "phase": "Interest survey and certificates (Think and Reflect)",
+     "minutes": 5,
+     "what": "Teacher reads the survey statements aloud (3 min), then presents certificates and closes the series (2 min). Slides 9 to 10. The survey is fixed; certificates can move to the next session or an assembly."
+    }
+   ],
+   "practical": "No practical. Each group gives a 2-minute talk from its table using the talk frame and its fact-check report graph (claim, test, data, verdict with confidence, limits), then answers one question from the floor. Groups show graphs and photos, not practical kit.",
+   "assessment": "Final skills check (same paper as Week 1, 20 marks) into tracker column S, growth in column T; interest survey into columns U to Z; rubric strand 6 (Communicating) from the conference marking grid, strands 1 to 5 from the report and supporting evidence, all six into columns AC to AH; awards and certificates from assessment/Rubric_and_Reporting.md Section 3. Feedback slips are not marked but can support strand 5. No exit ticket or logbook line is required.",
+   "hazards": [
+    "No practical hazards beyond normal classroom rules.",
+    "Groups show graphs and photos, not practical kit: no ice, warm water or fizzy drinks at the conference.",
+    "Questions and feedback are about the science, never the people or their English."
+   ],
+   "language_note": "Talk frame on every table and on slide 5; students may hold it and read from it. The rubric judges the clarity of the science, not the English. Answer frames: 'Good question. Our data shows ___.' 'We did not test that, but we think ___ because ___.' 'That could also be explained by ___.' 'To find out, we would need ___.' Chinese is welcome while groups prepare in the opening and on feedback slips; talks and questions are in English with key words, and a stuck student may say one sentence in Chinese and then the key word in English. Skills check: the teacher may read a question aloud and explain everyday words, but not science words; Chinese answers are accepted for explanations. Traps: a 'conference' is not a lesson; 'the floor' means the audience, not the ground; 'confidence' means how strong the evidence is, not how confident the speaker feels.",
+   "watch_out": [
+    "Keep the skills check first and strictly timed (15 minutes) and the survey fixed (3 minutes): they measure growth. Do not go through the answers in this lesson.",
+    "Talks run late if groups change over slowly: groups present from their own tables and the next group stands as soon as the bell goes.",
+    "'Not enough evidence yet means our project failed': say in the opening that it is an honest and respected verdict. A question from the floor is not an attack, and confidence is not the same as the verdict ('Supported, low confidence' is possible).",
+    "Award levels need strand 6 from today's talk: have both possible certificates ready for boundary students. Most Improved Scientist waits until the skills checks are marked."
+   ],
+   "next_week_link": "End of the series: there is no Week 11. Use the close-out checklist (6f): within one week mark the skills checks, enter the tracker data, confirm strand levels and awards, decide Most Improved Scientist and print remaining certificates; then write the skills reports, add class figures and photos to the programme summary, run the gallery walk of reports, file the papers, return logbooks and return the kit to the prep room. Week 1 and Week 10 papers may be returned or discussed only now."
+  },
+  "open_questions": [
+   "Skills check length: assessment/Skills_Check_Y9.md says 'two sides of A4', but the designed paper in design/export_all/sites/Y9_W01_printables has 4 pages (Skills check p1 to p4). Entered as 2 double-sided sheets per copy; confirm before the print run, and confirm it is the exact Week 1 version.",
+   "Talk frame card: Y9_W10_Claim_Busters_Conference.md (6a) says 6 per class plus spares and 'also handed out at the end of Week 9'; the Week 9 kit card lists it under 'Per student' as '1 per group'. Do groups keep the cards between lessons (then how many spares for Week 10), or are they collected with the reports? The number of spares is not stated. It is entered once, under Week 10: do not count the paper again for Week 9.",
+   "Kit card prep time: 'about 40 minutes, plus certificate printing' covers judging strands 1 to 5 for 24 students and working out provisional awards, plus cutting cards and slips, the running order and setting out papers. No breakdown is given (the split entered is an estimate), and 40 minutes looks short for the strand judgements.",
+   "Certificates: assessment/Rubric_and_Reporting.md Section 4 says one per student plus one Most Improved per class, on card if available; the lesson file adds both possible certificates for boundary students. The number of boundary duplicates, and whether card is available, are not stated. No certificate design is in the Week 10 printables folder.",
+   "Running order poster: named on the kit card and in the lesson plan ('or slide 4'), but there is no printable design or paper size for it in the lesson file or in design/export_all/sites/Y9_W10_printables. Use slide 4 only, or make a poster by hand?",
+   "No spares are stated for skills check papers, surveys or listener sheets (1 per student each), and 2 sheets of question cards give exactly 24 cards. Add spares?",
+   "Listener sheet: the optional exit ticket strip is at the foot of page 2 of a double-sided sheet, so cutting it off removes the foot of page 1 on the back. The lesson plan says no exit ticket is required this week: leave the strip uncut?",
+   "Timing: six talks of 2 minutes plus a question of about 30 seconds fill the whole 15 minutes with no changeover or chair's introductions, and the peer feedback has 2 minutes. The lesson file's own fallback is 90-second talks with no question for the last groups.",
+   "Envelopes and sticky tape: the kit card gives no numbers. Entered as at least 2 envelopes per class and tape 'not stated'.",
+   "Not on the kit card: pens or pencils for the skills check, survey, listener sheet and slips; the clipboard for the marking grid (named only in the 6c print spec); a copy of the rubric and the skills check mark scheme for the teacher. Role cards are not mentioned in the Week 10 file, although the Teacher Guide puts them on every table each week.",
+   "After-lesson times (marking 24 skills checks, tracker entry, 24 skills reports, gallery walk) are not given in any file; all are estimates. Who prints the skills reports, and when they and the Most Improved certificate are presented, is to be agreed with the programme lead (Teacher Guide).",
+   "The lesson file, kit card and printables are marked 'Chinese text status: draft, needs native-speaker check'. Print before or after that check?"
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W10",
+  "big_idea": "Scientists share verdicts in public, say honestly how sure they are and answer with evidence; ten weeks show how our thinking has grown.",
+  "goals": [
+   "I can present our claim, test, data and verdict in a 2-minute talk, with a confidence level and its reason.",
+   "I can answer or ask a question from the floor using evidence, not opinion."
+  ],
+  "flow": [
+   {
+    "phase": "Arrival",
+    "minutes": 1,
+    "what": "Skills check papers face down on desks; name, class, date, tick 'Week 10'"
+   },
+   {
+    "phase": "Final skills check",
+    "minutes": 15,
+    "what": "Same paper as Week 1: alone, silent; 5-minute warning; collect at once into envelope"
+   },
+   {
+    "phase": "Conference opening",
+    "minutes": 2,
+    "what": "Chair welcomes delegates; return reports; give out question cards, slips, listener sheets; running order"
+   },
+   {
+    "phase": "Conference talks",
+    "minutes": 15,
+    "what": "Six talks: 2 minutes each, bell at 1:45, one question from the floor; mark strand 6"
+   },
+   {
+    "phase": "Peer feedback",
+    "minutes": 2,
+    "what": "Finish two stars and a wish slip; teacher fills in the verdict wall"
+   },
+   {
+    "phase": "Survey and certificates",
+    "minutes": 5,
+    "what": "Interest survey read aloud (3 min); certificates and close of the series (2 min)"
+   }
+  ],
+  "practical": "No practical: each group gives a 2-minute talk with its report graph, then answers one question from the floor.",
+  "assessment": "Final skills check (/20, tracker S); survey (U to Z); strand 6 from marking grid, strands 1 to 5 from reports (AC to AH)",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Print 6 talk frame cards (A5) plus spares, ready for the end of Week 9",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job: skills checks, surveys, slips, listener sheets, question cards, teacher sheets",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Judge strands 1 to 5 from Week 9 reports; work out provisional awards",
+    "minutes": 25,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check Week 1 papers are filed; plan the room layout for the Conference",
+    "minutes": 8,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Print certificates on card (both for boundary students); sort by group",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Cut question cards, feedback slips and surveys; fill in the running order",
+    "minutes": 13,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Skills check paper face down on every desk; poster up; timer, bell, envelopes",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Mark skills checks; enter tracker S, U to Z, AC to AH; check awards",
+    "minutes": 70,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Write 24 one-page skills reports; decide Most Improved; remaining certificates",
+    "minutes": 120,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Gallery walk of reports; file papers; return logbooks; kit back to prep room",
+    "minutes": 35,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Skills check paper x24 (2 sheets each, double-sided; same paper as Week 1)",
+   "Interest survey x24 (2 per A4 sheet, cut: 12 sheets)",
+   "Listener sheet (worksheet) x24 (1 sheet, double-sided)",
+   "Two stars and a wish slips x6 A4 sheets (4 per sheet, cut), plus spares",
+   "Audience question cards x2 sheets, A4 card (12 per sheet, cut)",
+   "Talk frame card x6, A5, laminated if possible (1 per group), plus spares",
+   "Verdict wall poster x1, A3; marking grid x1, A4; close-out checklist x1, A4",
+   "Certificates x25, A4 card (1 per student, 1 Most Improved), plus boundary duplicates",
+   "Teacher copies: chair's script card (A5), kit card (A5, double-sided)"
+  ],
+  "get_items": [
+   "Timer and bell (or a phone alarm)",
+   "Labelled envelopes for skills checks and surveys (at least 2)",
+   "Sticky tape (verdict wall poster)",
+   "Clipboard x1 (marking grid)",
+   "Laminating pouches, A5 x6 (optional)",
+   "Visualiser, if there is one (optional)",
+   "Make: running order (poster or slide 4) with each group's claim"
+  ],
+  "reuse_items": [
+   "Fact-check reports x6 (collected in Week 9)",
+   "Scientist's Logbooks x24 (class box)",
+   "Week 1 skills check papers x24 (filed, not returned)",
+   "Class assessment folder",
+   "Rubric and skills check mark scheme (teacher copies)",
+   "Role card sets x6 (optional)"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules",
+   "Graphs and photos only: no ice, warm water or fizzy drinks at the conference",
+   "Questions and feedback are about the science, never the people or their English"
+  ],
+  "watch_out": [
+   "Skills check first, strictly 15 minutes; survey fixed. Do not go through the answers in this lesson.",
+   "Talks run late on slow changeovers: present from own tables; next group stands at the bell.",
+   "'Not enough evidence yet' is an honest, respected verdict: say so in the opening."
+  ],
+  "language_note": "Students may read from the talk frame. Judge the science, not the English. 'Confidence' means evidence strength, not feeling.",
+  "next_week": "End of series: follow the close-out checklist (marking, tracker, awards, reports, gallery walk, kit back)"
+ }
+}
