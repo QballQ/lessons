@@ -8,7 +8,9 @@ import pikepdf
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(HERE, '..', '..', '..'))
-DATA = os.path.join(REPO, '00_Requisition', 'source', 'lessons_week_data.json')
+# Set ONE_PAGER_SET=Y9 to build the Year 9 pages from the Year 9 data files instead of Years 7 and 8.
+SET = os.environ.get('ONE_PAGER_SET', '')
+DATA = os.path.join(REPO, '00_Requisition', 'source', 'lessons_week_data_y9.json' if SET == 'Y9' else 'lessons_week_data.json')
 OUT = os.path.abspath(os.path.join(HERE, '..'))
 HTML_DIR = os.path.join(HERE, 'html')
 PAGE_H = 1123  # A4 at 96 px per inch
@@ -16,6 +18,7 @@ PAGE_H = 1123  # A4 at 96 px per inch
 SERIES = {
     'Y7': {'name': 'Ice Engineers', 'zh': '冰雪工程师', 'year': 'Year 7', 'band': '#1f78b4', 'band_text': '#ffffff', 'tint': '#e0eff8', 'accent': '#135a85'},
     'Y8': {'name': 'Science Detectives', 'zh': '科学侦探', 'year': 'Year 8', 'band': '#f5b335', 'band_text': '#00235f', 'tint': '#fdf0d5', 'accent': '#8a5000'},
+    'Y9': {'name': 'Claim Busters', 'zh': '真相调查员', 'year': 'Year 9', 'band': '#6e3a7d', 'band_text': '#ffffff', 'tint': '#f1e4f3', 'accent': '#5a2a66'},
 }
 WHEN_ORDER = ['2 or more weeks before', 'The week before', 'The day before', 'On the day, before the lesson', 'Set-up by students in the lesson', 'After the lesson']
 WHO_SHORT = {'Teacher': 'teacher', 'Technician or assistant': 'technician', 'Reprographics': 'reprographics', 'Students (roles)': 'students'}
@@ -196,7 +199,7 @@ def page(L, scale, level=0):
 </div></body></html>'''
 
 
-SHORT = os.path.join(HERE, 'one_pager_text.json')
+SHORT = os.path.join(HERE, 'one_pager_text_y9.json' if SET == 'Y9' else 'one_pager_text.json')
 
 
 def page_short(L, sh, scale):
@@ -287,7 +290,7 @@ def main():
     for i in scales:
         n = len(pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')).pages)
         if n != 1: failed.add(i)
-    for y, name in [('Y7', 'Year_7_One_pagers.pdf'), ('Y8', 'Year_8_One_pagers.pdf')]:
+    for y, name in ([('Y9', 'Year_9_One_pagers.pdf')] if SET == 'Y9' else [('Y7', 'Year_7_One_pagers.pdf'), ('Y8', 'Year_8_One_pagers.pdf')]):
         merged, keep = pikepdf.new(), []
         for i in sorted(k for k in scales if k.startswith(y)):
             src = pikepdf.open(os.path.join(OUT, f'{i}_One_pager.pdf')); keep.append(src)
