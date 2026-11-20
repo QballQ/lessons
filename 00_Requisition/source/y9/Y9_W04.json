@@ -1,0 +1,678 @@
+{
+ "lesson": {
+  "id": "Y9_W04",
+  "year": "Year 9",
+  "week": 4,
+  "title_en": "Correlation or cause?",
+  "title_zh": "相关还是因果？",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Correlation or cause? (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 3 A4 pages, double-sided (second sheet blank on the back)",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Main student task: card matches (Core 1), arm span vs height scatter graph on the pre-scaled 15 cm grid (Core 2), describing the pattern, Stretch and Challenge; Do Now answers go on the back; exit ticket strip at the foot of page 3",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The lesson file does not state the number of pages; the designed worksheet has 3 pages (pages 1 and 2 say 'turn over'). 24 copies x 2 sheets = 48 A4 sheets. The Do Now is answered 'on the back of the worksheet': the only blank side is the back of sheet 2, and cutting off the exit ticket strip removes its lower part. No spares stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Fix the graph sheet (battery advert bar chart, questions 1 to 5, redraw grid)",
+    "quantity": 12,
+    "unit": "copies (1 per pair); A5 landscape, 2 pages, double-sided",
+    "basis": "class",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Think and Reflect: pairs find what is wrong with the Brand Q advert, redraw the chart from zero and give a verdict; collected to check who can explain a misleading axis",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 'A5 landscape (or half A4), greyscale, 12 per class (one per pair)'. The lesson file describes one sheet (left half and right half); the design has 2 pages (front: advert, questions 1 to 3 and grid; back: questions 4 and 5), entered as double-sided. Can be printed 2 up on A4 and cut (6 A4 sheets). Collected, so 12 new copies for each class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Spurious-correlation matching cards (14 cards: pattern cards P1 to P7, hidden-factor cards Q to W)",
+    "quantity": 6,
+    "unit": "sets (1 per group); 2 A4 sheets per set, single-sided, greyscale, 8 cards per sheet, cut up",
+    "basis": "once",
+    "paper": "A4 card",
+    "sheets_per_copy": 2,
+    "purpose": "Do, first 4 minutes: groups match each pattern card to a hidden-factor card and find the one card (P7) that could really show cause",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "6 sets x 2 sheets = 12 sheets of A4 card. The print spec says '6 sets per class', but Recorders count 14 cards back into each envelope at clean-up, so one 6-set batch can serve every class: entered as 'once'. The last 2 spaces on sheet 2 are blank."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Sample class data card (24 made-up Year 9 students, S01 to S24, with the anomaly S23)",
+    "quantity": 7,
+    "unit": "copies (1 per group plus 1 for the teacher); A5 portrait, single-sided, greyscale",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Fallback data for any group whose measuring runs late, for anyone who prefers not to be measured, and for every group if time is short; also used by the answer key",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 6 per class (one per group) plus 1 for the teacher. Kept face down on the table until needed. The clean-up list does not say to collect the cards; if collected they serve every class (entered as 'once'). Can be printed 2 up on A4 and cut."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Class data sheet (wall copy: 24 empty rows with codes G1-A to G6-D)",
+    "quantity": 1,
+    "unit": "copy; A3 portrait, single-sided",
+    "basis": "class",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Optional alternative to drawing the class data table on the board: students write height and arm span by code, never by name",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Optional: the kit card says draw the table on the board 'or use the printed class data sheet on the wall'. 1 per class. If used, keep the sheet (or its photo) for Week 7 claim 9."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls (English and Chinese), and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card at the start of every Do phase; group copies are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Envelopes for the matching card sets",
+    "quantity": 6,
+    "unit": "envelopes (1 per set)",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Keeping each set of 14 matching cards together; Recorders count the cards back in at clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Size not stated (cards are about 9 cm by 6 cm). The Week 1 envelopes still hold the claim card sets."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Sticky notes",
+    "quantity": 36,
+    "unit": "notes (6 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Marking height on the wall under the book and marking both middle fingertips for arm span, then measuring between the notes",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Size and number of pads not stated. Sticky notes are on the outline's 'Buy' list (Teacher Guide, Section 8, before Week 1)."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Pencils",
+    "quantity": 24,
+    "unit": "pencils (4 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Plotting one cross per person on the scatter graph and filling in the worksheet",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 pencils (4 per group); reuse",
+    "in_requisition": "No: reused",
+    "check": "The kit card line reads 'Pencils and 30 cm ruler for plotting: 4'."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbook line under New words: correlation, causation, confounding variable, with one example of each",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Printed before Week 1, started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5: Lead Scientist, Measurer, Recorder, Safety Officer, Reporter)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Lead Scientist reads the pattern cards aloud; Measurer and Recorder roles for anyone who prefers not to be measured; Recorders count the cards back in",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not named on the Week 4 kit card; the Teacher Guide has role cards on every table every week."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Tape measures, at least 2 m",
+    "quantity": 6,
+    "unit": "tape measures (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Measuring height (wall to sticky note) and arm span (between the fingertip notes) to the nearest cm",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Check each one retracts smoothly; retract slowly. Count 6 back in at clean-up. Wanted again in Week 7 or 8 if a group chooses claim 9."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Hardback books",
+    "quantity": 6,
+    "unit": "books (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Held flat on the top of the head against the wall so a partner can place a sticky note under it",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Source not stated in the lesson file (the Teacher Guide Week 3 row only says '6 tape measures and hardback books')."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Rulers, 30 cm",
+    "quantity": null,
+    "quantity_text": "unclear: kit card says 'Pencils and 30 cm ruler for plotting: 4' per group (6 or 24 rulers)",
+    "unit": "rulers",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Plotting, and drawing the straight line 'arm span = height' in Challenge 1",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 2 rulers (4 per group) and Week 3 rulers (2 per group); reuse",
+    "in_requisition": "No: reused",
+    "check": "Ambiguous kit card line: 'Pencils and 30 cm ruler for plotting: 4'. Could mean 4 rulers per group (24) or 1 per group (6)."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Group kit trays",
+    "quantity": 6,
+    "unit": "trays (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "One tray per group set out before students arrive: tape measure, sticky notes, book, card envelope, sample data card (face down), pencils and rulers",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Prep room trays (Teacher Guide tray routine); reuse",
+    "in_requisition": "No: reused",
+    "check": "Not on the Week 4 kit card; the Teacher Guide (Section 3) says set out one tray per group from the kit card."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks collected at the end of the lesson and kept here",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used since Week 2 for logbooks; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not named in the Week 4 lesson file; from the Teacher Guide logbook routine."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Class data table on the board: Code | Height (cm) | Arm span (cm), 24 rows",
+    "quantity": 1,
+    "unit": "table",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Students write their results by code (for example G3-B); the class plots from it; photographed before wiping for Week 7 claim 9",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Drawn for each class (or use the optional A3 class data sheet). The class shoes rule (all on or all off) goes on the board beside it."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Send the print job: worksheets (24 per class, 3 A4 pages = 2 sheets), 12 Fix the graph sheets per class (A5, double-sided), 7 A5 sample data cards, 1 A5 kit card, and 6 matching card sets on A4 card (12 sheets); optional A3 class data sheet, 1 per class",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the 6 sets of matching cards (14 cards each, 2 sheets per set) and put each set in an envelope (largest part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 12,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Reusable by every class if the cards are counted back in",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the Fix the graph sheets and sample data cards apart if they were printed 2 up on A4",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect 6 tape measures (at least 2 m; check each retracts smoothly), 6 hardback books, sticky notes (6 per group), 24 pencils and 30 cm rulers",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Tape measures and sticky notes again for Week 7 claim 9, if chosen",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the answer key and the measuring method on Slide 8; decide how codes are given out (G1-A to G6-D)",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Choose a clear stretch of wall for each group, away from windows and radiators (part of the kit card's 'about 20 minutes')",
+    "when": "The day before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Draw the empty class data table on the board (Code | Height (cm) | Arm span (cm), 24 rows), or put the printed A3 class data sheet on the wall (part of the kit card's 'about 20 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 4,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Agree a class rule for shoes (all on or all off) and put it on the board (part of the kit card's 'about 20 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 1,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out one tray per group: tape measure, 6 sticky notes, hardback book, envelope of matching cards, sample data card face down, 4 pencils and ruler; role cards on the tables; worksheets and Fix the graph sheets (1 per pair) at the front",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: retract and return tape measures (count 6); remove sticky notes from the walls; Recorders count 14 cards back into each envelope; logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Photograph the class data table on the board before wiping it (or keep the A3 sheet) and store the photo for Week 7 claim 9",
+    "when": "After the lesson",
+    "minutes": 1,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 7 (claim 9 pilot data); Week 6 notes say bring it",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect the Fix the graph sheets and check who can explain a misleading axis",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets before Week 5 (confounding variable, correlation type, bar chart check; links to skills check question 10)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: return the tape measures and hardback books; store the matching card sets and sample data cards",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "When two things change together (correlation), it does not prove that one causes the other (causation): a hidden third factor, or chance, may explain it, and graphs can be drawn to mislead.",
+   "goals": [
+    "I can plot a scatter graph and describe the correlation it shows.",
+    "I can explain why a correlation does not prove causation, name a possible confounding variable, and fix a misleading graph."
+   ],
+   "key_words": [
+    {
+     "en": "correlation",
+     "zh": "相关性"
+    },
+    {
+     "en": "positive correlation",
+     "zh": "正相关"
+    },
+    {
+     "en": "negative correlation",
+     "zh": "负相关"
+    },
+    {
+     "en": "causation",
+     "zh": "因果关系"
+    },
+    {
+     "en": "confounding variable",
+     "zh": "混杂变量"
+    },
+    {
+     "en": "scatter graph",
+     "zh": "散点图"
+    },
+    {
+     "en": "anomaly",
+     "zh": "异常值"
+    },
+    {
+     "en": "axis",
+     "zh": "坐标轴"
+    },
+    {
+     "en": "misleading",
+     "zh": "误导性的"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 4,
+     "what": "Retrieval on the back of the worksheet: reaction times 0.18, 0.15, 0.20, 0.19 s: mean (0.18 s), range (0.05 s, one number), and the three verdicts. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "Winter graph: hot drink sales and colds both rise from October to January. 'Do hot drinks cause colds?' Vote Yes / No / Not sure and give a partner one reason; do not reveal the answer yet. Slide 3."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 7,
+     "what": "Positive, negative and no correlation with three mini scatter graphs (arm gestures: up, down, flat); correlation is not causation; winter as a confounding variable; three possible explanations plus chance. Slides 4 to 6."
+    },
+    {
+     "phase": "Do",
+     "minutes": 18,
+     "what": "Matching cards (4 min): pattern cards P1 to P7 to hidden-factor cards Q to W, P7 is the fair test trap; measure arm span and height (5 min), voluntary, codes not names, results on the board; plot the class scatter graph (7 min); 2 minutes slack. Sample data card for any group running late. Slides 7 to 9. If short: skip measuring and use the sample data, or cut matching to P1, P2, P4, P7."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 8,
+     "what": "Fix the graph (5 min): pairs answer the battery advert questions and redraw the chart from zero (Q looks 4 times taller, really 0.6 hours, about 6%); verdict: not enough evidence yet; exit ticket and logbook line (3 min). Slides 10 to 12."
+    }
+   ],
+   "practical": "Groups match 7 pattern cards to hidden-factor cards, then measure each other's height (back to the wall, book on head, sticky note) and arm span (sticky notes at the middle fingertips) to the nearest cm with a tape measure, write results on the board by code and plot the class scatter graph of arm span against height.",
+   "assessment": "Scatter graph (Core) on the worksheet and corrected bar chart on the Fix the graph sheet: collect the Fix the graph sheets to check who can explain a misleading axis. Exit ticket: confounding variable and correlation type (links to skills check question 10). Logbook line under New words: correlation, causation, confounding variable, with one example of each.",
+   "hazards": [
+    "Tape measures can snap back and cut fingers or hit faces: retract slowly and keep the metal end away from faces.",
+    "Measuring bodies can feel personal: measuring is voluntary, codes not names on the board, and no comments about anyone's size.",
+    "Students who prefer not to be measured take the Measurer or Recorder role; their row uses the sample data."
+   ],
+   "language_note": "Frames: 'As ___ increases, ___ increases / decreases.' 'This could also be explained by ___.' 'A correlation does not prove ___ because ___.' 'The graph is misleading because ___.' Chinese talk is welcome while matching cards and discussing the graph; measurements are called out in English ('one hundred and sixty-five centimetres'). Traps: 'correlation' and 'cause' are often used as if they mean the same thing; link 'confounding' to 'confusing the picture'; the plural of 'axis' is 'axes'.",
+   "watch_out": [
+    "'If two things rise together, one must cause the other', or 'a strong correlation proves causation': even strong correlations can come from a third factor.",
+    "'A bar chart that looks very different means a big difference': always check where the axis starts.",
+    "'One odd point ruins the pattern': an anomaly should be checked, not ignored or allowed to decide the verdict.",
+    "Measuring overruns: hand the sample data card to any group running late; everyone in the class follows the same shoes rule (all on or all off)."
+   ],
+   "next_week_link": "Next week: fair trials with a control group, blinding and a placebo; this lesson's 'change only one thing to show cause' is the bridge. Keep the photograph of the class data: a group choosing claim 9 ('your arm span equals your height') in Week 7 can use it as pilot data but should still collect their own. During this week, for Week 5: check 24 identical pens write; print, fold and shuffle pen cards (Code 41 and 52); word lists, recall sheets, checkpoint papers; brief the incoming teacher on the trial secret."
+  },
+  "open_questions": [
+   "Y9_W04_Correlation_or_cause.md does not state the worksheet's page count; the design (Y9_W04_printables: Main, Worksheet-2, Worksheet-3) has 3 A4 pages, entered as 2 sheets double-sided. The Do Now is answered 'on the back of the worksheet': with this layout that is the blank back of sheet 2, and cutting off the exit ticket strip removes part of it. Confirm the print layout.",
+   "Fix the graph sheet: section 6d describes a single A5 landscape sheet, but the design has 2 pages (Fix-graph, Fix-graph-2: 'Page 1 of 2, turn over'). Entered as 12 copies, double-sided. Confirm.",
+   "Kit card line 'Pencils and 30 cm ruler for plotting: 4' (per group) is ambiguous: 4 pencils and 4 rulers, or 4 pencils and 1 ruler? Rulers entered with no number (6 or 24).",
+   "Matching cards: section 6a says '6 sets per class', but the clean-up counts 14 cards back into each envelope, so one batch of 6 sets could serve every class (entered as once). Print 6 sets in total or 6 per class?",
+   "Sample data cards: '6 per class plus 1 for the teacher' (section 6b), but the kit card clean-up does not say to collect them. Collect and reuse for every class (entered as 7 once), or print 6 per class?",
+   "No worksheet or Fix the graph spares are stated (24 and 12). Add spares?",
+   "Sticky notes (6 per group), envelopes (6) and hardback books (6): size and source are not stated in the lesson file or Teacher_Guide.md; Year 9 items have not been checked against the requisition.",
+   "The kit card's 'about 20 minutes' of teacher prep does not say which parts are once only: cutting the card sets is once, but the board table and shoes rule are needed for each class. The split of minutes entered is an estimate.",
+   "Optional A3 class data sheet (section 6c) or board table: which will be used? If the A3 sheet is used, the Week 7 'class data photo' can be the sheet itself.",
+   "The kit card design is marked 'Teacher copy', but Teacher_Guide.md has each group's Safety Officer check the kit card at the start of the Do phase. Print 6 group copies as well?",
+   "The lesson file header says 'Chinese text status: draft, needs native-speaker check' (also printed on the kit card design); the bilingual hazard lines should be checked before printing.",
+   "Group trays, role cards and the class box are not named on the Week 4 kit card; they are entered from the Teacher_Guide.md routines (Section 3)."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W04",
+  "big_idea": "Two things changing together (correlation) does not prove cause: a hidden third factor or chance may explain it, and graphs can mislead.",
+  "goals": [
+   "I can plot a scatter graph and describe the correlation it shows.",
+   "I can explain why correlation does not prove causation, name a confounding variable and fix a misleading graph."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Retrieval on the back of the worksheet: mean, range, the three verdicts"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Winter graph: do hot drinks cause colds? Vote Yes, No or Not sure"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Positive, negative, no correlation; correlation is not causation; confounding variable; three explanations"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Matching cards; measure arm span and height by code; class table; plot the scatter graph"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Fix the graph in pairs: battery advert, redraw from zero, verdict; exit ticket; logbook"
+   }
+  ],
+  "practical": "Groups match pattern cards to hidden factors, measure height and arm span (nearest cm, codes not names) and plot a class scatter graph.",
+  "assessment": "Scatter graph (Core); Fix the graph sheets collected; exit ticket (links to skills check question 10); logbook line",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Send print job: worksheets, Fix the graph sheets, data cards, kit card, card sets",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Cut 6 matching card sets (14 cards each) into envelopes",
+    "minutes": 12,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect 6 tape measures (check they retract), 6 hardbacks, sticky notes, pencils, rulers",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read the answer key and Slide 8 method; decide how codes are given",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Choose a clear wall stretch per group, away from windows and radiators",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Draw the 24-row class data table on the board; write the shoes rule",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out group trays, role cards, worksheets and Fix the graph sheets",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: count 6 tape measures, 14 cards per envelope; remove sticky notes",
+    "minutes": 3,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Photograph the class data table before wiping (Week 7 claim 9)",
+    "minutes": 1,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Check Fix the graph sheets; read exit tickets before Week 5",
+    "minutes": 20,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (3 pages, 2 sheets each, double-sided)",
+   "Fix the graph sheet x12, A5 landscape, double-sided (1 per pair)",
+   "Matching cards x6 sets on A4 card (2 sheets per set, cut)",
+   "Sample class data card x6, A5 (1 per group)",
+   "Class data sheet x1, A3 wall copy (optional)",
+   "Teacher copies: kit card (A5), sample data card"
+  ],
+  "get_items": [
+   "Tape measures, at least 2 m x6 (1 per group)",
+   "Hardback books x6 (1 per group)",
+   "Sticky notes x36 (6 per group)",
+   "Envelopes x6 (1 per card set)",
+   "Make: class data table on the board (24 rows)"
+  ],
+  "reuse_items": [
+   "Role card sets x6",
+   "Scientist's Logbooks x24",
+   "Pencils x24 (4 per group)",
+   "Rulers, 30 cm (number unclear on kit card)",
+   "Group trays x6",
+   "Class box"
+  ],
+  "hazards": [
+   "Tape measures can snap back: retract slowly, metal end away from faces",
+   "Measuring is voluntary: codes not names, no comments about anyone's size",
+   "Anyone not measured is Measurer or Recorder; their row uses sample data"
+  ],
+  "watch_out": [
+   "'Rising together means one causes the other': even strong correlations can come from a third factor.",
+   "Bar charts: always check where the axis starts; an anomaly is checked, not ignored.",
+   "Measuring late: give that group the sample data card; one shoes rule for all."
+  ],
+  "language_note": "Frame: 'This could also be explained by ___.' 'Correlation' and 'cause' are different; plural of 'axis' is 'axes'.",
+  "next_week": "Fair trials: control group, blinding, placebo; keep the class data photo for Week 7; prepare Week 5 pens and cards"
+ }
+}

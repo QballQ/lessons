@@ -1,0 +1,535 @@
+{
+ "lesson": {
+  "id": "Y9_W03",
+  "year": "Year 9",
+  "week": 3,
+  "title_en": "Test it properly",
+  "title_zh": "科学地检验",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Test it properly (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 3 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Main student task: variables, results table (5 tries per hand), mean and range, range bars on a number line, conclusion with an uncertainty sentence; Do Now answers on the back; exit ticket strip at the foot of page 3",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The lesson file gives no page count; the designed worksheet has 3 A4 pages, entered as 2 sheets per copy (page 3 with a blank back, which gives the 'back of the worksheet' for the Do Now). 24 copies x 2 sheets = 48 A4 sheets. No spares stated. The exit ticket is below a cut line, but scissors are not listed."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Ruler-drop method card (six picture steps, fair test checklist, bilingual safety lines)",
+    "quantity": 12,
+    "unit": "copies; A5 portrait, single-sided, greyscale, laminated if possible",
+    "basis": "class",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "One per pair (2 per group): the six steps of the ruler drop for the Learn demonstration and the Do phase",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 12 per class. If laminated and collected at clean-up, one set could serve every class that is not taught at the same time. Keep for Weeks 6 to 8 (claim 12)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Distance-to-reaction-time conversion table (0 to 30 cm, in s and ms)",
+    "quantity": 12,
+    "unit": "copies; A5 portrait, single-sided, greyscale, laminated if possible",
+    "basis": "class",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "One per pair (2 per group): converts each catch distance in cm to a reaction time in s",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 12 per class. If laminated and collected at clean-up, one set could serve every class that is not taught at the same time. Keep for Weeks 6 to 8 (claim 12)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls in English and Chinese, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card at the start of every Do phase; copies for groups are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A5",
+    "quantity": 24,
+    "unit": "pouches",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 12 method cards and 12 conversion tables",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Lamination is 'if possible'. Only one set of 24 is needed if the laminated cards are shared between classes."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbook line under 'What I found': 'My dominant hand was ___ by ___ s, which is / is not bigger than my range.'",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Roles rotate weekly; Safety Officers check their group follows the three safety lines on slide 9",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not named in the Week 3 lesson file; the Teacher Guide says role cards are on every table. Groups of 4 have five roles (the Lead Scientist also reports)."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Rulers, 30 cm, with the 0 cm mark at one end",
+    "quantity": 12,
+    "unit": "rulers (2 per group, 1 per pair)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Dropped and caught in the ruler-drop test; the catch distance is read at the top of the thumb to the nearest cm",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Clean-up counts 12. No extra ruler is listed for the teacher's Learn demonstration. If the 0 cm mark is not at the very end, students line up the mark, not the edge."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Calculators",
+    "quantity": 6,
+    "unit": "calculators (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Calculating the mean of five times",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Optional on the kit card. Groups work in 2 pairs, so 1 per group is shared. Clean-up says 'back in the box' without saying which box."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Trays",
+    "quantity": 6,
+    "unit": "trays (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Group kit tray: rulers, method cards, conversion tables, calculator",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Not on the Week 3 kit card; the Teacher Guide says to set out one tray per group from the kit card before students arrive."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks collected and stored at the end of the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Class box from Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Make beforehand",
+    "item": "'PRIZE' strip, about 15 cm by 3 cm, cut from card, with 'PRIZE: first choice of role next week' written on it",
+    "quantity": 2,
+    "unit": "strips (1 plus a spare)",
+    "basis": "once",
+    "paper": "A4 card",
+    "sheets_per_copy": null,
+    "purpose": "Hook: dropped between a volunteer's finger and thumb, held at the middle; most people miss",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The kit card says 'paper strip ... cut from card'. Both strips fit on one sheet of A4 card. A pen to write on it is not listed. The file does not say what happens if more than one of the 2 or 3 volunteers catches it."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Send the print job: worksheets (24 per class, 3 A4 pages double-sided = 48 sheets), 12 A5 method cards and 12 A5 conversion tables per class (greyscale), and 1 A5 kit card (part of the kit card's 'about 10 minutes')",
+    "when": "The week before",
+    "minutes": 4,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the 12 method cards and 12 conversion tables in A5 pouches ('if possible')",
+    "when": "The week before",
+    "minutes": 20,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "Weeks 6 to 8 (claim 12)",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect 12 rulers (30 cm) and check them: if the 0 cm mark is not at the very end, be ready to show students to line the 0 cm mark (not the edge) up with the top of the thumb; collect 6 calculators (optional) and 6 trays (part of the kit card's 'about 10 minutes')",
+    "when": "The week before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the PRIZE strip (about 15 cm by 3 cm) and a spare from card and write 'PRIZE: first choice of role next week' on it (part of the kit card's 'about 10 minutes')",
+    "when": "The week before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check the vocabulary traps before teaching ('range' is one number, 极差 not 范围; 'mean' is not 'means'; a reaction is not a reflex)",
+    "when": "The day before",
+    "minutes": 1,
+    "minutes_source": "teacher guide",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out per group: 2 rulers, 2 method cards, 2 conversion tables, 1 calculator (optional) and the role cards; worksheets, logbooks and the PRIZE strip at the front",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: collect rulers (count 12) and the laminated cards; calculators back in the box; logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets (mean 0.18 s, range 0.05 s, verdict) and spot-check 6 worksheets for correct range calculation (one number, not '0.15 to 0.17'); note range errors for the Week 5 checkpoint and who won first choice of role for Week 4",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 4 roles; Week 5 checkpoint (question 6)",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: return rulers and calculators; store the method cards and conversion tables for Weeks 6 to 8 (claim 12)",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Weeks 6 to 8 (claim 12)",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "One result can fool us, so we repeat, calculate the mean and range, and ask whether a difference is bigger than the normal variation.",
+   "goals": [
+    "I can carry out a fair ruler-drop test with five repeats per hand and calculate the mean and range.",
+    "I can write a conclusion that says whether a difference is big enough to matter, mentioning uncertainty."
+   ],
+   "key_words": [
+    {
+     "en": "reaction time",
+     "zh": "反应时间"
+    },
+    {
+     "en": "dominant hand",
+     "zh": "惯用手"
+    },
+    {
+     "en": "independent variable",
+     "zh": "自变量"
+    },
+    {
+     "en": "dependent variable",
+     "zh": "因变量"
+    },
+    {
+     "en": "control variable",
+     "zh": "控制变量"
+    },
+    {
+     "en": "repeat",
+     "zh": "重复"
+    },
+    {
+     "en": "mean",
+     "zh": "平均值"
+    },
+    {
+     "en": "range",
+     "zh": "极差"
+    },
+    {
+     "en": "uncertainty",
+     "zh": "不确定性"
+    },
+    {
+     "en": "variation",
+     "zh": "波动（变化）"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 4,
+     "what": "Two retrieval questions answered on the back of the worksheet: which bias in 'I only remember the days my lucky pen worked' (confirmation bias) and the mean of 12, 15, 11, 14 cm (13 cm). Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "Teacher drops the 15 cm PRIZE strip between a volunteer's finger and thumb (held at the middle); repeat with 2 or 3 volunteers; most miss. Then the claim 'Your dominant hand reacts faster than your other hand': vote Yes, No or No difference. Slides 3 to 4."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 7,
+     "what": "Name the variables (change which hand; measure catch distance, then reaction time; keep the same ruler, dropper, starting position, no warning); demonstrate the ruler drop with a student using the picture steps; show the conversion table and how to calculate mean and range (0.17, 0.16, 0.17, 0.15, 0.16 s: mean 0.16 s, range 0.02 s). Slides 5 to 8."
+    },
+    {
+     "phase": "Do",
+     "minutes": 18,
+     "what": "Safety slide read aloud in both languages. In pairs: 5 drops per hand per person, alternating hands, record cm and convert to seconds (partner 1 for 6 min, partner 2 for 6 min); then calculate mean and range (6 min); Stretch and Challenge. Teacher checks the 0 cm mark is level with the top of the thumb, the wait is random and hands alternate. Slides 9 to 10. If short: 3 repeats per hand, skip the Challenge formula check."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 8,
+     "what": "Overlap diagram: 'Is the difference big enough?' Students decide whether their own difference is bigger than their range and share with a frame; class count (dominant faster, other faster, same): 'Is that enough to give a verdict?'; exit ticket and logbook line. Slides 11 to 12. If short: class count with hands up."
+    }
+   ],
+   "practical": "Ruler-drop reaction test in pairs: the dropper holds a 30 cm ruler with the 0 cm mark level with the top of the seated catcher's thumb, waits 1 to 5 seconds and lets go without warning; the catcher reads the cm at the top of the thumb. Five drops per hand, alternating hands; each distance is converted to a time with the table, then mean and range are calculated for each hand.",
+   "assessment": "Results table with mean and range, and a conclusion that mentions uncertainty (Stretch). Spot-check 6 worksheets for correct range calculation (range errors feed into Week 5 checkpoint question 6). Exit ticket: mean (0.18 s), range (0.05 s) and one verdict (best answer: Not supported). Logbook line: 'My dominant hand was ___ by ___ s, which is / is not bigger than my range.'",
+   "hazards": [
+    "Low hazard. Rulers can hit faces or fingers if flicked or swung: hold the ruler upright and still; never flick, swing or throw it.",
+    "Falling ruler near the face: keep your face away from the ruler when it drops.",
+    "Leaning or standing can lead to bumps and falls: sit down for every test."
+   ],
+   "language_note": "Frames: 'My dominant hand mean was ___ s and my other hand mean was ___ s.' 'The data suggests ___; however, ___.' 'To be more confident, we would need ___.' 'Our verdict is ___ because ___.' Chinese talk is welcome in pairs during the test; readings are called out in English numbers ('fourteen centimetres'). Traps: 'range' in everyday English means a choice of things, in maths it is one number (biggest minus smallest), 极差 not 范围; 'mean' is not 'means' (method); catching a ruler is a reaction, not a reflex (a reflex is automatic).",
+   "watch_out": [
+    "Range errors are the most common: students write '0.15 to 0.17' instead of subtracting. Insist on one number.",
+    "Droppers who drop in a rhythm: catchers learn it and 'catch' impossibly fast (under 5 cm). Repeat those tries; the wait must be random, 1 to 5 seconds.",
+    "'A bigger distance means faster' and 'any difference in the means proves the claim': the ruler falls further when you are slower, and small differences can be normal variation.",
+    "If the ruler falls past 30 cm, write 'missed' and do that try again; a try with a slip or a warning does not count."
+   ],
+   "next_week_link": "Next week (Week 4, Correlation or cause) moves from comparing two groups to looking for patterns between two variables. Keep the method cards and conversion tables: they are reused if a group chooses claim 12 ('You react faster in the morning than after lunch') in Week 7. During this week, for Week 4 (Teacher Guide): print 6 matching card sets on card, sample data cards and Fix the graph sheets; board data table; shoes rule; 6 tape measures and hardback books. The PRIZE winner has first choice of role next week."
+  },
+  "open_questions": [
+   "Worksheet format: Y9_W03_Test_it_properly.md gives no page count; the designed worksheet (Main.dc.html, Worksheet-2.dc.html, Worksheet-3.dc.html) has 3 A4 pages, entered as 2 sheets double-sided with a blank back to page 3. The plan says Do Now answers go 'on the back of the worksheet': confirm the blank back of page 3 is meant. Cutting off the exit ticket strip also cuts the foot of that back page.",
+   "No worksheet spares are stated (24 copies, 1 per student), and no scissors are listed for the exit ticket cut line. Add spares, and should the strip be torn, cut by the teacher or the whole page 3 collected?",
+   "Method cards and conversion tables: the print spec says 12 of each per class (entered per class). If they are laminated and collected at clean-up, can one set serve every class, or do classes overlap? Groups choosing claim 12 need them again in Weeks 6 to 8 (kit card) or Week 7 (notes for the incoming teacher).",
+   "Prep time: the kit card gives 'about 10 minutes' for checking rulers, printing the cards ('laminate if possible') and cutting the PRIZE strip. Laminating 24 A5 cards will not fit in that; it is entered separately as an optional 20 minute estimate.",
+   "PRIZE strip: the lesson plan and slide 3 call it a paper strip, the kit card says 'paper strip ... cut from card' (entered as card). The prize is 'first choice of role next week', and the Hook uses 2 or 3 volunteers: what if more than one catches it, or nobody does?",
+   "Rulers: the kit card gives 12 (2 per group) and clean-up counts 12, but the teacher demonstrates the ruler drop with a student in Learn. Is a 13th ruler needed at the front, or is a group ruler borrowed?",
+   "Calculators: 1 per group (optional) for 2 pairs working at the same time, and clean-up says 'back in the box' without naming the box. Are 6 enough, and where do they come from?",
+   "The plan says to spot-check 6 worksheets for range calculation, but only the exit tickets are said to be collected. Are worksheets collected, checked while circulating, or kept by students?",
+   "The kit card design is marked 'Teacher copy', but the Teacher Guide has each group's Safety Officer check the kit card at the start of the Do phase. Print 6 group copies as well? Trays and role cards are also not on the Week 3 kit card, although the Teacher Guide expects both on every table."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W03",
+  "big_idea": "One result can fool us: repeat, calculate mean and range, and ask if a difference is bigger than normal variation.",
+  "goals": [
+   "I can run a fair ruler-drop test with five repeats per hand and calculate mean and range.",
+   "I can conclude whether a difference is big enough to matter, mentioning uncertainty."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Two retrieval questions on the back of the worksheet: a bias, a mean"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Drop the PRIZE strip for 2 or 3 volunteers; vote: is your dominant hand faster?"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Name the variables; demo the ruler drop; conversion table; calculate mean and range"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Safety slide; pairs do 5 drops per hand, alternating; convert to seconds; mean and range"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Overlap diagram: is the difference bigger than the range? Class count; exit ticket; logbook line"
+   }
+  ],
+  "practical": "Pairs drop and catch a 30 cm ruler, 5 tries per hand, alternating; convert cm to seconds; find mean and range.",
+  "assessment": "Results table with mean and range; conclusion with uncertainty; spot-check 6 worksheets for range; exit ticket; logbook line",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Send print job: worksheets, 12 method cards, 12 conversion tables, kit card",
+    "minutes": 4,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 12 method cards and 12 conversion tables (optional)",
+    "minutes": 20,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect 12 rulers, check the 0 cm mark; 6 calculators (optional), 6 trays",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Cut the PRIZE strip and a spare from card; write the prize on it",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Check the vocabulary traps: range, mean, reaction not reflex",
+    "minutes": 1,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out per group: 2 rulers, 2 method cards, 2 tables, calculator, role cards",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: count 12 rulers, collect cards and calculators, logbooks to class box",
+    "minutes": 2,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets; spot-check 6 worksheets for range; note the PRIZE winner",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Last class: return rulers; store cards and tables for Weeks 6 to 8",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (2 sheets each, double-sided)",
+   "Ruler-drop method card x12 per class, A5, laminated if possible (1 per pair)",
+   "Conversion table x12 per class, A5, laminated if possible (1 per pair)",
+   "Teacher copy: kit card (A5)"
+  ],
+  "get_items": [
+   "Rulers, 30 cm, 0 cm mark at one end x12 (2 per group)",
+   "Calculators x6 (1 per group, optional)",
+   "Group trays x6",
+   "Laminating pouches, A5 x24 (optional)",
+   "Make: PRIZE strip x2 (15 cm by 3 cm, cut from card; 1 plus a spare)"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Scientist's Logbooks x24",
+   "Role card sets x6"
+  ],
+  "hazards": [
+   "Rulers can hit faces or fingers: hold upright and still; never flick, swing or throw",
+   "Keep your face away from the ruler when it drops",
+   "Sit down for every test"
+  ],
+  "watch_out": [
+   "Range is one number: students write '0.15 to 0.17' instead of subtracting.",
+   "Rhythm drops give impossible catches (under 5 cm): repeat those tries; wait a random 1 to 5 seconds.",
+   "Bigger distance means slower, not faster; small differences can be normal variation."
+  ],
+  "language_note": "Frame: 'The data suggests ___; however, ___.' 'Range' is one number (极差, not 范围). Say numbers in English.",
+  "next_week": "Week 4: patterns between two variables. Keep method cards and tables for claim 12 (Week 7); PRIZE winner chooses role first"
+ }
+}

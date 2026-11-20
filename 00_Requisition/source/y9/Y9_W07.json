@@ -1,0 +1,602 @@
+{
+ "lesson": {
+  "id": "Y9_W07",
+  "year": "Year 9",
+  "week": 7,
+  "title_en": "Choose your claim",
+  "title_zh": "选择你的课题",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Choose your claim (key words, Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 3 A4 pages, double-sided (page 4 blank)",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Do Now answers on the back; private top three claims; own testable question, word matching, weak plan to fix, sample size, bias and ethics tasks; exit ticket strip at the foot of page 3",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The lesson file does not give a page count; the designed worksheet has 3 pages (pages 1 and 2 say 'turn over'). 24 copies x 2 sheets = 48 A4 sheets. The blank page 4 serves as 'the back of the worksheet' for the Do Now, and the exit ticket strip can be cut off without losing other work. No spares stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Claim bank card sets (12 cards, A6 landscape, 4 per A4 sheet; sheet 1 = claims 1, 2, 5, 6; sheet 2 = claims 3, 4, 7, 8; sheet 3 = claims 9, 10, 11, 12)",
+    "quantity": 6,
+    "unit": "sets; 3 A4 landscape sheets per set, single-sided, on card, then cut into 4",
+    "basis": "group",
+    "paper": "A4 card",
+    "sheets_per_copy": 3,
+    "purpose": "Hook and choosing: each group reads the claims, method hints, kit and 'watch out' lines, then ranks a top three; the method hint supports the planning frame",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Plan A: 12 cards, 3 sheets per set, 18 sheets of A4 card. Plan B: do not print sheet 1 (ice claims 1, 2, 5, 6), so 8 cards, 2 sheets per set, 12 sheets. The print spec says '6 sets per class', but Recorders count the cards back into the envelope at clean-up, so one 6 sets could serve every class: confirm. Remove or annotate any claim card the school cannot support."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Planning frame 'Our plan' (11 numbered boxes)",
+    "quantity": 8,
+    "unit": "copies; A3 landscape, single-sided (6, one per group, plus 2 spares)",
+    "basis": "group",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Main group product: claim, testable question and prediction, variables, operational definition, sample size, controls, method, ethics, risk table, draft results table and kit list, written in roles; swapped for the peer check; collected at the end",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The kit card lists 1 per group; the print spec adds 2 spares. If A3 is not available, print the two designed A4 sides instead (boxes 1 to 6 on side 1, boxes 7 to 11 on side 2): the timeline calls these 'the two A4 halves', so it is unclear whether that means one double-sided sheet or two separate sheets that can be written on at once."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Peer plan-check checklist (13 checks, Yes or Not yet, comment)",
+    "quantity": 6,
+    "unit": "copies; A4 portrait, single-sided",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Peer check (3 minutes): partner groups (1 and 2, 3 and 4, 5 and 6) swap plans and mark each check Yes or Not yet with a comment",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Teacher approval slip (top part stays with the plan; bottom stub 'Week 8 kit' is kept by the teacher)",
+    "quantity": 6,
+    "quantity_text": "6 (1 per group) plus spares; number of spares not stated; 6 entered",
+    "unit": "copies; A5 portrait, single-sided",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Groups write their ranked top three; the teacher writes the allocated claim, ticks the five checks, decides and signs; the bottom stub lists each group's Week 8 kit",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The print spec says '6 per class (one per group), plus spares' but gives no number of spares. Print on A5, or 2 up on A4 and cut. Scissors are needed to cut off the stub; the file does not say when it is cut."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Model plan sheet: 'A lid keeps a cup of water warm for longer' (filled-in miniature of the planning frame)",
+    "quantity": 6,
+    "unit": "copies; A4 portrait, single-sided",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Learn: students follow the model on the table while the teacher walks through slides 4 to 8; a reference while planning",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "6 per class in the print spec; no teacher copy stated (the model is also on slides 4 to 8). The file does not say whether the sheets are collected and reused for other classes."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy; front: kit and prep, back: safety and clean-up)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, double-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, the bilingual safety lines that plans must copy in, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design has a front and a back and is marked 'Teacher copy'. Slide 8 and the lesson plan tell groups to copy the safety lines that match their claim 'from the kit card', so groups need to see it: group copies are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Envelopes for the claim bank card sets",
+    "quantity": 6,
+    "unit": "envelopes (1 per set)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Keeping each cut card set together; Recorders count the cards back into the envelope (12 or 8) at clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Named only in the kit card clean-up line ('back into the envelope'); not in the kit list and no size given (cards are A6). 6 is implied by 6 sets."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Pencils",
+    "quantity": 24,
+    "unit": "pencils (4 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Writing on the planning frame, worksheet, peer checklist and approval slip",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used every week since Week 1 (4 per group); reuse",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5: Lead Scientist, Measurer, Recorder, Safety Officer, Reporter)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Planning in roles: each role writes its own boxes of the planning frame (Lead Scientist 1 and 2; Measurer 3, 4, 7; Recorder 10 and 11; Safety Officer 8 and 9; Reporter 5 and 6)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not in the Week 7 kit card; the Teacher Guide has role cards on every table every week."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbook line in the last minute: What I did: 'Our claim is ___. We will test it by ___.'",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": "Not in the Week 7 kit card; needed for the logbook line in the lesson plan."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Week 3 ruler-drop method cards and distance-to-reaction-time conversion tables (A5)",
+    "quantity": null,
+    "quantity_text": "not stated (Week 3 printed 12 of each per class; the Week 8 claim 12 tray uses 1 method card and 1 table)",
+    "unit": "cards and tables",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "On hand in case a group chooses claim 12 (ruler-drop test, Week 3 method)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Printed (and laminated if possible) for Week 3, 12 of each per class; reuse",
+    "in_requisition": "No: reused",
+    "check": "The kit card says 'find' them; how many to bring is not stated."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Week 4 class data photo (arm span and height table from the board)",
+    "quantity": 1,
+    "unit": "photo",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "On hand in case a group chooses claim 9: can be used as pilot data, but the group still collects its own",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Photographed at clean-up in Week 4; reuse",
+    "in_requisition": "No: reused",
+    "check": "One photo per class. The file does not say whether to print it or show it on a device."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks stored at the end of the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used since Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": "The file does not say where collected planning frames and approval slips are kept until Week 8; the class box is the likely place."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Send the print job (Teacher Guide prep calendar, Week 6 row): claim bank cards on A4 card (6 sets, 3 sheets each; Plan B: leave out sheet 1 with claims 1, 2, 5 and 6), 8 A3 planning frames, 6 A4 peer checklists, 6 A5 approval slips plus spares, 6 A4 model plan sheets, 24 worksheets (3 pages, double-sided) and 1 A5 kit card (part of the kit card's 'about 30 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the claim card sheets into 4 cards each (A6) and put each set in an envelope (12 cards in Plan A, 8 in Plan B) (part of the kit card's 'about 30 minutes')",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "Week 8 if sets are kept",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check what kit can be supplied for each claim (thermometers, a 0.1 g scale and fizzy drink bottles for claim 10, three paper towel brands for claim 11, headphones for claim 7, ice for the Plan A claims); remove or annotate any claim card that cannot be supported (part of the kit card's 'about 30 minutes')",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "Week 8 kit",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Find the Week 3 ruler-drop method cards and conversion tables (claim 12) and the Week 4 class data photo (claim 9) (part of the kit card's 'about 30 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 8 (claims 12 and 9)",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Claim 12 decision: find out whether a supervised 5-minute slot at another time of day can be arranged (for example after lunch on investigation day); if not, plan to offer 'start of the lesson vs end of the lesson' as a different, weaker question",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 8",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the 12 claim cards, the model plan, the model testable questions and the 'common Not yet problems' in the answer key, so claims can be allocated and plans approved quickly",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out for each table: claim card set, A3 planning frame, peer checklist, approval slip, model plan sheet, 4 pencils and role cards; worksheets and logbooks ready (the plan has these put on the tables during the Do Now; if time is short, hand out approval slips as students arrive)",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: Recorders count the claim cards back into the envelope (12 or 8); planning frames and approval slips collected; exit tickets handed in; logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Plans not approved in the lesson: approve or annotate them within two days and return the slips, so kit can be prepared; no group starts Week 8 without a signed slip",
+    "when": "After the lesson",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 8",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Complete the Week 8 kit list from the approval slip stubs (keep the bottom stubs); in Plan A, order ice for Week 8 for any group doing claims 1, 2, 5 or 6",
+    "when": "After the lesson",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 8 trays",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets (testable question, one control with a reason, one ethics rule) before Week 8; note planning frames and signed slips as rubric strand 2 evidence",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10 rubric",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "A good investigation is planned before anyone touches the kit: a testable question, a fair comparison, a sample size we can justify, and care for safety and for the people who take part.",
+   "goals": [
+    "I can turn a claim into a testable question and plan a fair test with variables, controls and a justified sample size.",
+    "I can plan ethically for human participants (voluntary, no pressure, anonymised) and write a specific risk assessment."
+   ],
+   "key_words": [
+    {
+     "en": "plan",
+     "zh": "计划"
+    },
+    {
+     "en": "testable question",
+     "zh": "可检验的问题"
+    },
+    {
+     "en": "sample size",
+     "zh": "样本量"
+    },
+    {
+     "en": "justify",
+     "zh": "说明理由"
+    },
+    {
+     "en": "control variable",
+     "zh": "控制变量"
+    },
+    {
+     "en": "participant",
+     "zh": "参与者"
+    },
+    {
+     "en": "voluntary",
+     "zh": "自愿的"
+    },
+    {
+     "en": "anonymised",
+     "zh": "匿名的"
+    },
+    {
+     "en": "hazard",
+     "zh": "危险源"
+    },
+    {
+     "en": "risk assessment",
+     "zh": "风险评估"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 4,
+     "what": "Two retrieval questions answered on the back of the worksheet: what is an operational definition; turn 'A lid keeps a cup of water warm for longer' into a testable question ('Does ___ change ___?'). Teacher puts a claim card set, planning frame, peer check and approval slip on each table. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "Reveal the claim bank of twelve claims: 'Which claim do you think will be busted?' Plan B: the four snowflake claims (1, 2, 5, 6) are not available, eight remain. Students read the cards and privately tick a top three on the worksheet. Slide 3."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 7,
+     "what": "Walk through the planning frame with the model plan ('A lid keeps a cup of water warm for longer'): question, variables, operational definition, sample size with a reason (objects: 3 of each condition, 2 minimum), ethics for testing people, risk table ('Be careful' is too vague), results table. Students point to each box on their own frame. Slides 4 to 8."
+    },
+    {
+     "phase": "Do",
+     "minutes": 18,
+     "what": "Choosing (3 min): groups write a ranked top three on the approval slip; teacher allocates claims (no more than 2 groups per claim) and announces them. Planning (12 min): all write at once in roles on the A3 frame, safety and ethics boxes first; teacher checks safety and ethics and starts approval conversations. Peer check (3 min): groups 1 and 2, 3 and 4, 5 and 6 swap plans and use the checklist. Slides 9 to 10. If short: allocate claims from top threes during the Hook."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 8,
+     "what": "Ethics quick-fire, OK or Not OK with a reason, on four scenarios (2 min; A, B and D not OK, C OK); 3 minutes to fix 'Not yet' items while the teacher signs approval slips; exit ticket (2 min); logbook line (1 min). Slides 11 to 12. If short: two scenarios only."
+    }
+   ],
+   "practical": "No practical work: a planning lesson. Each group chooses a claim from the claim bank (12 claims in Plan A, 8 in Plan B), completes the planning frame in roles, has it checked by a partner group and gets the teacher's signed approval slip.",
+   "assessment": "An approved plan (planning frame plus signed approval slip) for every group: the main evidence for rubric strand 2 (Planning), supporting strand 1 (Questioning). Exit ticket: testable question, one control with a reason, one ethics rule. Logbook line: 'Our claim is ___. We will test it by ___.'",
+   "hazards": [
+    "No practical hazards this week.",
+    "Plans must copy in the bilingual safety lines from the kit card that match the claim: ice and salt baths (gloves; handle tubes and cups, never the mixture), warm water prepared and poured by the teacher only (no hotter than about 60 °C), no eating or drinking.",
+    "Human participants (claims 7, 8, 9 and 12): taking part is voluntary, no pressure, codes not names, anyone can stop or withdraw their results.",
+    "Do not approve any plan that involves eating, drinking or tasting, health or diet claims, or anything about named people. Only claims from the bank."
+   ],
+   "language_note": "Frames: 'Does ___ change ___?' 'We will change ___, measure ___ in ___ (units), and keep ___ the same.' 'We will test ___ for each condition, because ___.' 'A hazard is ___. It could ___. We will ___.' 'Taking part is voluntary, so we will ___.' Chinese talk is welcome while choosing and planning; boxes are written with key words in English; short notes, not full sentences. Traps: 'control' can mean a control variable (kept the same) or a control group or condition (for comparison); 'hazard' is the thing, 'risk' is what could happen and how likely; 'anonymous' and 'anonymised' are close enough at this level.",
+   "watch_out": [
+    "Choosing eats the planning time: allocate claims quickly and firmly; groups that cannot agree get their highest shared choice; no more than 2 groups per claim.",
+    "'More is always better, so we will test 100 cups': sample size must fit the time and kit (3 per condition for objects, 2 minimum; about 18 minutes next week).",
+    "Claim 12 needs data from two times of day: only allocate it if a supervised 5-minute slot at the other time can be arranged; otherwise 'start vs end of the lesson', reported as a different, weaker question.",
+    "'Ethics only matters for medical tests' and 'friends do not need to be asked': any test with people needs consent, no pressure and codes; ask everyone the same way."
+   ],
+   "next_week_link": "Week 8 is investigation day: every group needs a signed approval slip and its tray ready before students arrive. Build the Week 8 kit list from the approval slip stubs and collect kit for each approved claim (thermometers, warm water, scales, puzzles, bottles, fabric); in Plan A, order ice for groups doing claims 1, 2, 5 or 6. Plans not approved in the lesson are approved or annotated within two days. Approved plans are handed back at the start of Week 8."
+  },
+  "open_questions": [
+   "Worksheet format: Y9_W07_Choose_your_claim.md gives no page count; the designed worksheet (Main.dc.html, Worksheet-2.dc.html, Worksheet-3.dc.html) has 3 pages, entered as 2 double-sided A4 sheets with a blank page 4 used as 'the back of the worksheet' for the Do Now. Confirm, and say whether spares are wanted (none stated).",
+   "Claim bank cards: the print spec in Y9_W07_Choose_your_claim.md says '6 sets per class', but the kit card has Recorders count the cards back into the envelope. Are the 6 sets reused for every class (entered as 6 sets, 1 per group)? The envelopes (6 implied) appear only in the clean-up line, not in any kit list.",
+   "Safety lines: the lesson plan and Slide 8 tell groups to copy the safety lines 'from the kit card', but the designed kit card (Kit-card.dc.html, Kit-card-2.dc.html) is a single 'Teacher copy'. Print 6 group copies of the kit card (or its back), or show the lines on a slide?",
+   "Approval slips: '6 per class (one per group), plus spares' with no number of spares (6 entered). Planning frames: the kit card says 1 per group, the print spec says 6 plus 2 spares (8 entered).",
+   "Planning frame on A4: the print spec says 'two sides of A4', but the timeline says all roles write at once 'on the two A4 halves'. One double-sided sheet or two separate sheets (Planning-frame-A4-1.dc.html, Planning-frame-A4-2.dc.html)?",
+   "Teacher Guide prep calendar (Week 6 row) lists only claim bank cards and planning frames for Week 7; the lesson file also needs peer checklists, approval slips, model plan sheets, worksheets and the kit card. The guide should be updated.",
+   "Claim 12 needs a second time of day; the file leaves the arrangement to the teacher ('Agree with your teacher how and when'). Who supervises the extra 5-minute slot, and is it the same for every class?",
+   "Week 3 ruler-drop method cards and conversion tables, and the Week 4 class data photo: the kit card says 'find' them but not how many to bring, or whether the photo is printed or shown on a device.",
+   "Storage: planning frames and approval slips are collected, but the file does not say where they are kept until they are handed back in Week 8 (class box assumed).",
+   "The kit card's 'about 30 minutes' of teacher prep is not broken down; the per-task minutes are estimates that add up to 30. Cutting 18 sheets of card into 72 cards for 6 sets may take longer."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W07",
+  "big_idea": "Plan before touching the kit: a testable question, a fair comparison, a justified sample size, and care for safety and participants.",
+  "goals": [
+   "I can turn a claim into a testable question and plan a fair test with a justified sample size.",
+   "I can plan ethically for human participants and write a specific risk assessment."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Two retrieval questions: operational definition; turn the lid claim into a testable question"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Reveal the claim bank: which will be busted? Each student privately ticks a top three"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Model plan walk-through: question, variables, definition, sample size, ethics, risk table, results table"
+   },
+   {
+    "phase": "Do",
+    "minutes": 18,
+    "what": "Choose and allocate claims (3), plan in roles on the frame (12), peer check (3)"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Ethics quick-fire, fix 'Not yet' items, sign approval slips, exit ticket, logbook line"
+   }
+  ],
+  "practical": "No practical: groups choose a claim, complete the planning frame in roles, peer check, and get a signed approval slip.",
+  "assessment": "Approved plan per group (frame plus signed slip): rubric strand 2, supports strand 1; exit ticket; logbook line",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Send print job: claim cards on card (Plan B: no sheet 1), frames, sheets",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Cut claim cards (4 per sheet); put each set of 12 or 8 in an envelope",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check kit available for each claim; remove or annotate unsupported claim cards",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Find Week 3 ruler-drop cards, conversion tables and Week 4 class data photo",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Claim 12: check whether a supervised 5-minute second time slot can be arranged",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read claim cards, model plan and answer key 'Not yet' prompts",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out per table: card set, frame, checklist, slip, model plan, pencils, role cards",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: count claim cards into envelopes; collect frames, slips; logbooks to box",
+    "minutes": 2,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Approve or annotate unsigned plans within two days; read exit tickets",
+    "minutes": 25,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Build Week 8 kit list from slip stubs; Plan A: order ice (claims 1, 2, 5, 6)",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (3 pages, 2 sheets each, double-sided)",
+   "Claim bank card set x6, A4 card, 3 sheets per set, cut in 4 (Plan B: 2 sheets)",
+   "Planning frame x8, A3 (1 per group plus 2 spares)",
+   "Peer plan-check checklist x6, A4 (1 per group)",
+   "Teacher approval slip x6 plus spares, A5 (1 per group)",
+   "Model plan sheet x6, A4 (1 per group)",
+   "Teacher copy: kit card (A5, double-sided)"
+  ],
+  "get_items": [
+   "Envelopes x6 (1 per claim card set)"
+  ],
+  "reuse_items": [
+   "Role card sets x6",
+   "Pencils x24 (4 per group)",
+   "Scientist's Logbooks x24",
+   "Class box",
+   "Week 3 ruler-drop method cards and conversion tables (claim 12)",
+   "Week 4 class data photo (claim 9)"
+  ],
+  "hazards": [
+   "No practical hazards this week",
+   "Plans copy in the kit card safety lines: ice and salt, teacher-poured warm water, no eating or drinking",
+   "Testing people: voluntary, no pressure, codes not names, anyone can stop or withdraw",
+   "Never approve eating, drinking, tasting, health or diet claims, or anything about named people"
+  ],
+  "watch_out": [
+   "Allocate claims quickly and firmly (2 groups per claim at most); planning time is what matters.",
+   "Sample size must fit about 18 minutes: 3 per condition for objects, 2 minimum.",
+   "Claim 12 needs two times of day: only allocate it if a second supervised slot is arranged."
+  ],
+  "language_note": "Frame: 'We will test ___ for each condition, because ___.' 'Control' has two meanings; hazard is the thing, risk what could happen. Chinese talk welcome.",
+  "next_week": "Investigation day: no group starts without a signed slip; build each tray from the approval stubs"
+ }
+}
