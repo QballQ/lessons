@@ -1,0 +1,749 @@
+{
+ "lesson": {
+  "id": "Y9_W05",
+  "year": "Year 9",
+  "week": 5,
+  "title_en": "Fair trials + Checkpoint",
+  "title_zh": "公平试验 + 阶段检测",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Checkpoint student paper (6 questions, 12 marks)",
+    "quantity": 24,
+    "unit": "copies; 2 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "10-minute checkpoint in place of the Do Now; scores out of 12 go into the tracker (column 'W5 checkpoint') and feed the handover note",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "assessment/Checkpoint_Y9.md asks for 'one side of A4', but the designed paper has 2 pages (page 1 says 'turn over'): entered as 1 sheet, double-sided. No spares stated. The paper is not reused, so 24 new copies for each class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Checkpoint paper and lesson plan for the incoming teacher's seat",
+    "quantity": 1,
+    "unit": "set; checkpoint paper (2 A4 pages, double-sided) plus the one-page lesson plan",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "The incoming teacher observes the lesson with the lesson plan and checkpoint paper; the current teacher leaves a copy on their seat",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "From the Teacher Guide ('The Week 5 observation'); not on the kit card. The lesson plan is Section 1 of the lesson file ('one page'); there is no designed version. One set can serve every class observed."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Checkpoint mark scheme (teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A4 portrait, single-sided",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Marking the 24 checkpoint papers out of 12; bands and notes on common errors",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Not on the kit card; needed for marking."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Fair trials (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 2 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Class results table, gap fill, verdict on the two means and ranges, redesign of the trial; exit ticket on placebo, control group and blind test",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated. In the design the exit ticket strip is at the foot of page 2, on the back of the Stretch writing lines on page 1, so cutting it off removes part of page 1. Core 2 on page 1 says 'Use the word bank', but the fold-under word bank is on page 2."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Pen cards, two versions (Code 41 'Focus Pen' and Code 52 control), 8 cards per sheet",
+    "quantity": 3,
+    "unit": "sheets; A4, double-sided (inside and outside, flip on long edge), greyscale; cut into 8 and fold",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "One folded card per student for the lucky pen trial: 3 sheets give 12 of Code 41 and 12 of Code 52",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The print spec says 8 cards per A4 sheet and also 'print as A6 and fold' to A7; only 4 A6 cards fit on A4. The designed sheet has 8 smaller cards (about 92 mm by 62 mm before folding). Paper or card is not stated. The kit card says collect the cards, but not whether they are reused for the next class; entered as 3 sheets per class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Memory word list (20 words; 'Do not turn over' message on the back)",
+    "quantity": 24,
+    "unit": "copies; A5 landscape, double-sided (front and back), greyscale",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Studied for 60 seconds in the trial; placed face down at every seat or handed out with the pens",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The kit card says collect the word lists so they can be reused, so 24 can serve every class. Print on A5, or 2 up on A4 and cut (not stated)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Recall sheet (card code box, 20 lines, score box, withdraw box)",
+    "quantity": 24,
+    "unit": "copies; A5 portrait, single-sided, greyscale",
+    "basis": "student",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Students write the words they remember with the trial pen; a partner marks it out of 20; a cross in the corner box withdraws the score",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No name field (anonymous, codes only). New copies for each class. Print on A5, or 2 up on A4 and cut (not stated)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Group results table",
+    "quantity": 6,
+    "unit": "copies; A5 landscape, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Recorders enter the group's scores by code only, then the class totals, means, ranges and verdict from the board",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The kit card lists it per group; the lesson file names it as the trial results output with the worksheet Stretch, but does not say where it is kept afterwards."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Ethics debrief card (6 questions and 3 frames)",
+    "quantity": 6,
+    "unit": "copies; A5 portrait, single-sided, greyscale, then laminated",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Pair discussion in the ethics debrief (Think and Reflect, 5 minutes); one answer shared in English",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "'Laminate if possible'. Entered as one set for all classes; if not laminated, check the cards are clean before the next class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Lucky pen trial: teacher script",
+    "quantity": 2,
+    "unit": "copies; A4 portrait, single-sided",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "The teacher follows the script exactly (hand out, study, distraction, recall, mark, reveal); 1 for the teacher and 1 for the incoming teacher",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": ""
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card; group copies are not stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Handover note form",
+    "quantity": 1,
+    "unit": "copy; A4 portrait, single-sided (one side of A4 per class)",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "The current teacher completes one handover note per class at the end of Week 5, using the checkpoint scores from the tracker",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "From the Teacher Guide and assessment/Tracker_Spec.md, Section 6; not on the Week 5 kit card and not in the Week 5 printables folder."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Identical pens (same model and colour, ideally new)",
+    "quantity": 24,
+    "unit": "pens (1 per student)",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "The 'Focus Pen' and control pens for the memory test recall; every pen must be exactly the same",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "'Buy or collect': the Teacher Guide puts 24 identical pens for Y9 W5 on the kit order before Week 1. Collected and counted (24) at clean-up, so one set serves every class. No spares stated. Students use their own pens for the checkpoint."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A5",
+    "quantity": 6,
+    "unit": "pouches",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 6 ethics debrief cards",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Lamination is 'if possible'."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbook line under 'What I found': 'A fair trial needs ___ because ___.' (last 2 minutes)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Safety Officers collect the word lists after 60 seconds; Recorders complete the group results table and call out scores by code",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not on the Week 5 kit card; the Teacher Guide has role cards on every table, rotated weekly."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Class assessment folder",
+    "quantity": 1,
+    "unit": "folder",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Storing the marked checkpoint papers and the handover note copy",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used since Week 1 for the skills check papers; reuse",
+    "in_requisition": "No: reused",
+    "check": "The kit card says 'Store checkpoint papers for the tracker and handover' but does not say where; the Teacher Guide names the class assessment folder for the Week 1 papers and the handover note."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks collected and stored at the end of the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Used since Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Seat for the incoming teacher",
+    "quantity": 1,
+    "unit": "seat",
+    "basis": "room",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "The incoming teacher observes from a place where they can see the groups working, and is introduced in the last 2 minutes",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "From the Teacher Guide ('The Week 5 observation'); the Year 9 lesson file does not list it."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Pen card deck: 24 cards cut, folded with the text inside and shuffled (12 Code 41, 12 Code 52), with a note of which code is which",
+    "quantity": 24,
+    "unit": "cards",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Shuffling means chance decides each student's group; handed out with the pens",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Made from the 3 printed pen card sheets. If fewer than 24 students are present the two groups may be unequal; the files do not say how to deal the cards. Cutting needs scissors or a guillotine, which are not listed."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Buy or collect 24 identical pens (same model and colour, ideally new); the Teacher Guide puts them on the kit order before Week 1",
+    "when": "2 or more weeks before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "Collected after each class and reused",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Send the print job: per class 24 checkpoint papers and 24 worksheets (each 2 A4 pages, double-sided), 3 pen card sheets (A4, double-sided), 24 recall sheets and 6 group results tables (A5), 1 handover note form; once: 24 word lists (A5, double-sided), 6 ethics debrief cards (A5), 2 teacher scripts, 1 mark scheme, 1 kit card, 1 lesson plan and checkpoint set for the incoming teacher (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check that all 24 pens write (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the 3 pen card sheets into 24 cards, fold each in half with the text inside and shuffle the two versions together; keep a note of which code is which (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 8,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the 6 ethics debrief cards in A5 pouches",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Brief the incoming teacher on the trial so they do not give the secret away; give them the second copy of the teacher script (part of the kit card's 'about 20 minutes')",
+    "when": "The day before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the lucky pen script and the timings (study 60 seconds, counting 30 seconds, recall 2 minutes); the script must be followed exactly",
+    "when": "The day before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Place a word list face down at every seat (or hand them out with the pens); put the pens, shuffled pen cards, recall sheets, checkpoint papers and worksheets at the front; a group results table, an ethics debrief card and the role cards on each table; leave the lesson plan and a checkpoint paper on the incoming teacher's seat (part of the kit card's 'about 20 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 4,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: collect the pens (count 24) and pen cards; collect the word lists for reuse; collect recall sheets and exit tickets; logbooks into the class box; put the checkpoint papers away for marking",
+    "when": "After the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Remove any recall sheet with a cross (withdrawn score) and leave those scores out of the class results",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Mark the 24 checkpoint papers out of 12 with the mark scheme (no half marks) and enter the scores in the tracker (column 'W5 checkpoint', column Q) before the handover note is written; store the papers",
+    "when": "After the lesson",
+    "minutes": 30,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Handover note; Week 6 (going through the answers); Week 7 planning lesson",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets (placebo, control group, blind test) before Week 6",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 6 Do Now recap",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Write the handover note for this class (checkpoint results summary, groups and roles, storage, kit status); paper copy and a copy in the class assessment folder",
+    "when": "After the lesson",
+    "minutes": 20,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 6 walkthrough",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Book the 30-minute Week 6 walkthrough meeting with the incoming teacher",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "Before the first Week 6 lesson",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: store the 24 pens, the word lists and the ethics debrief cards",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "To find out whether something really works, scientists run fair trials with a control group, a placebo and blinding, and they treat the people in their trials honestly and with respect.",
+   "goals": [
+    "I can explain why a fair trial needs a control group, a placebo, blinding and a big enough sample.",
+    "I can compare two groups' results using means and ranges and give an honest verdict, and discuss what makes research with people ethical."
+   ],
+   "key_words": [
+    {
+     "en": "fair trial",
+     "zh": "公平试验"
+    },
+    {
+     "en": "control group",
+     "zh": "对照组"
+    },
+    {
+     "en": "placebo",
+     "zh": "安慰剂"
+    },
+    {
+     "en": "placebo effect",
+     "zh": "安慰剂效应"
+    },
+    {
+     "en": "blind test",
+     "zh": "盲测"
+    },
+    {
+     "en": "double-blind",
+     "zh": "双盲"
+    },
+    {
+     "en": "random",
+     "zh": "随机"
+    },
+    {
+     "en": "sample size",
+     "zh": "样本量"
+    },
+    {
+     "en": "ethics",
+     "zh": "伦理"
+    },
+    {
+     "en": "informed consent",
+     "zh": "知情同意"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Checkpoint (replaces Do Now)",
+     "minutes": 10,
+     "what": "Give out the checkpoint, read the instructions, keep time; students work alone and in silence with their own pens; collect at exactly 10 minutes and put the papers away. The incoming teacher observes. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "Tu Youyou story: an idea from a text more than 1,600 years old, tested carefully, leading to artemisinin and a Nobel Prize. 'Should we believe an idea because it is old? How would you find out?' Slides 3 to 4."
+    },
+    {
+     "phase": "Do (Part A: the trial)",
+     "minutes": 7,
+     "what": "Follow the lucky pen script exactly: a pen and a folded card for each student (alternating versions), code written on the recall sheet; study the word list for 60 seconds; count backwards in threes for 30 seconds; recall for 2 minutes with the new pen (English or Chinese); swap and mark out of 20. Slides 5 to 8."
+    },
+    {
+     "phase": "Learn (debrief)",
+     "minutes": 6,
+     "what": "Keep the promise straight away: reveal both cards and that every pen is identical; apologise for the trick. Teach control group, placebo, placebo effect, blind test, double-blind, random allocation and sample size. Slides 9 to 10."
+    },
+    {
+     "phase": "Do (Part B: results)",
+     "minutes": 5,
+     "what": "Recorders call out group scores by code, never by name; class means and ranges calculated together on the board; group results table; worksheet Core and Stretch. Usual verdict: not enough evidence yet. Slide 11."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 9,
+     "what": "Ethics debrief with the card in pairs, any language, share with a frame, and the chance to withdraw a score with a cross on the recall sheet (5 min); exit ticket (2 min); logbook line (2 min). Use the last 2 minutes to introduce the incoming teacher. Slides 12 to 13."
+    }
+   ],
+   "practical": "Lucky pen memory trial: every student gets an identical pen and a folded card (Code 41 says it is a special 'Focus Pen', Code 52 is the control), studies 20 words for 60 seconds, counts backwards for 30 seconds, recalls for 2 minutes and a partner marks the sheet out of 20. The class then compares the two groups' means and ranges and gives a verdict on the claim 'Believing your pen is lucky improves your memory.'",
+   "assessment": "Checkpoint out of 12 (6 questions, based on skills check question types 1 to 6), entered in the tracker (column 'W5 checkpoint') before the handover note is written. Output: trial results (group results table and worksheet Stretch). Exit ticket: placebo, control group and blind test. Logbook line: 'A fair trial needs ___ because ___.'",
+   "hazards": [
+    "No practical hazards beyond normal classroom rules.",
+    "Mild deception in the memory test (about 7 minutes): explain the secret in the same lesson, straight after the test.",
+    "Taking part is voluntary: a student may watch instead; any student may withdraw their score after the debrief.",
+    "Scores are anonymous (codes only, never names); never use scores to compare individual students."
+   ],
+   "language_note": "Frames: 'The control group was ___ because ___.' 'The data suggests ___; however, ___.' 'To be more confident, we would need ___.' 'I think it was / was not OK because ___.' Chinese talk is welcome in the ethics debrief; report back in English with a frame. Recall may be written in English or Chinese; both count and spelling does not matter (the same rule for both groups). Checkpoint: read any question aloud in English if asked, explain everyday words, not science words; accept Chinese for Question 4. Traps: 'blind' here does not mean unable to see; 'trial' also means a court case; a placebo is a fake medicine, and the idea also applies to fake 'lucky' objects.",
+   "watch_out": [
+    "Do not give the secret away before the reveal: brief the incoming teacher, treat both groups in exactly the same way and do not look at codes while students are working.",
+    "Never cut the reveal or the chance to withdraw scores. If time is short: recall 90 seconds, skip the Part B calculations and give the class means from the board, cut Challenge.",
+    "'If the lucky group scored higher, the pen works': the pens were identical, so any real difference comes from belief (placebo effect) or chance; compare a small difference in means with the ranges and the sample size.",
+    "'The placebo effect means the person is stupid or fooled': expectations affect everyone, including scientists."
+   ],
+   "next_week_link": "The current teacher marks the checkpoints, enters the scores and completes one handover note per class; the 30-minute walkthrough is booked before the first Week 6 lesson. Week 6: the incoming teacher leads and starts the project phase with the Mpemba mystery (does hot water really freeze faster than cold?), Plan A or Plan B depending on the freezer decision. The Week 6 Do Now asks which group was the control group in the lucky pen trial (Code 52). The checkpoint answers may be gone through in Week 6. In Week 7, human-participant claims (7, 8 and 12) need the same ethics: voluntary, anonymous, no pressure. During this week, for Week 6 Plan A: 2 to 3 kg ice on the day, salt, cups, 12 to 24 small tubes, thermometers, stopwatches, gloves, goggles, teacher warm water; Plan B: 6 to 12 thermometers, water at about 60 °C and 35 °C."
+  },
+  "open_questions": [
+   "Checkpoint paper: assessment/Checkpoint_Y9.md asks for 'one side of A4', but the design (Checkpoint.dc.html and Checkpoint-2.dc.html) has 2 pages, entered as 1 sheet double-sided. Confirm double-sided printing.",
+   "Pen cards: Y9_W05_Fair_trials.md section 6b says 8 cards per A4 sheet and also 'print as A6 and fold' to A7; only 4 A6 cards fit on A4. The design (Pen-cards-inside.dc.html) has 8 smaller cards per sheet. Is the smaller card acceptable, and should the cards be on paper or card (not stated)?",
+   "Pen cards and reuse: the kit card says collect the cards but, unlike the word lists, does not say they are reused. Entered as 3 new sheets per class; could one deck serve every class?",
+   "Worksheet (Main.dc.html, Worksheet-2.dc.html): the exit ticket strip at the foot of page 2 is on the back of the Stretch writing lines on page 1, so cutting it off removes part of page 1; and Core 2 on page 1 says 'Use the word bank' while the fold-under word bank is on page 2. Collect the whole worksheet instead, or print single-sided (2 sheets per copy)?",
+   "Withdrawn scores: the kit card says 'remove any with a cross before entering results', but in the lesson plan the class results are collected and the means calculated in Do Part B, before students are offered the chance to withdraw in Think and Reflect. Should the class means be recalculated after the lesson, and where are the results entered?",
+   "Think and Reflect is 9 minutes (ethics 5, exit tickets 2, logbook 2), but the lesson plan also says 'Use the last 2 minutes to introduce' the incoming teacher. Which part gives way?",
+   "Checkpoint timing: assessment/Checkpoint_Y9.md and the Teacher Guide give 10 minutes working plus 1 minute to give out and collect; the lesson plan allows 10 minutes in total.",
+   "Handover note: section 7 of Y9_W05_Fair_trials.md (notes for the incoming teacher) says 'Complete the handover note after this lesson', but the Teacher Guide says the current teacher completes it. Entered as a task for the current teacher.",
+   "Answer key, Stretch 1 model (Y9_W05_Fair_trials.md): the means are given as 10.2 and 9.8 but 'the difference was about 0.3 words'; the rounded means differ by 0.4 (unrounded, 10.17 minus 9.83 is 0.33).",
+   "No spares are stated for the checkpoint papers, worksheets, recall sheets or pens (24 each). Add spares? The files also do not say how to deal the pen cards if fewer than 24 students are present, or whether an absent student sits the checkpoint later.",
+   "A5 items (word list, recall sheet, group results table, ethics debrief card, kit card): the files do not say whether they are printed on A5 or 2 up on A4 and cut; cutting the pen cards also needs scissors or a guillotine, which are not listed.",
+   "The 24 identical pens are 'buy or collect' on the kit card and on the Teacher Guide's kit order before Week 1; the Year 9 requisition was not checked. Confirm they are ordered.",
+   "Where do the group results tables and marked worksheets go after the lesson (logbook, class box or assessment folder)? The files only say to collect exit tickets and recall sheets and to store checkpoint papers."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W05",
+  "big_idea": "Fair trials need a control group, a placebo and blinding, and they treat the people who take part honestly and with respect.",
+  "goals": [
+   "I can explain why a fair trial needs a control group, a placebo, blinding and a big sample.",
+   "I can compare two groups using means and ranges, give an honest verdict and discuss ethics."
+  ],
+  "flow": [
+   {
+    "phase": "Checkpoint",
+    "minutes": 10,
+    "what": "Checkpoint in place of the Do Now: alone, in silence, own pens; collect at 10 minutes"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Tu Youyou story: should we believe an idea because it is old?"
+   },
+   {
+    "phase": "Do (Part A)",
+    "minutes": 7,
+    "what": "Lucky pen trial by the script: card, study 60 s, count, recall 2 min, mark"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 6,
+    "what": "Reveal the secret at once; control group, placebo, blind, double-blind, random, sample size"
+   },
+   {
+    "phase": "Do (Part B)",
+    "minutes": 5,
+    "what": "Scores by code on the board; class means and ranges; worksheet Core and Stretch"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 9,
+    "what": "Ethics debrief, chance to withdraw scores; exit ticket; logbook line; introduce incoming teacher"
+   }
+  ],
+  "practical": "Memory trial with identical pens: Code 41 cards say 'Focus Pen', Code 52 is the control; compare means and ranges.",
+  "assessment": "Checkpoint out of 12 (tracker, 'W5 checkpoint'); trial results table and worksheet Stretch; exit ticket; logbook line",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Buy or collect 24 identical pens (kit order before Week 1)",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job: checkpoints, worksheets, pen cards, lists, sheets, script",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check all 24 pens write; cut, fold and shuffle 24 pen cards; note codes",
+    "minutes": 11,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 6 ethics debrief cards (optional)",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Brief the incoming teacher on the secret; read the script and timings",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Word list face down at every seat; pens, cards, papers ready at front",
+    "minutes": 4,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Collect pens (count 24), cards, word lists, recall sheets, exit tickets, logbooks",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Remove crossed recall sheets; mark checkpoints out of 12; enter in tracker",
+    "minutes": 32,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets; write the class handover note; book Week 6 walkthrough",
+    "minutes": 32,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Last class: store pens, word lists and ethics cards",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Checkpoint paper x24 (1 sheet each, double-sided)",
+   "Worksheet x24 (1 sheet each, double-sided)",
+   "Pen cards x3 sheets per class, A4 double-sided (12 of each code)",
+   "Memory word list x24, A5 double-sided (reused by every class)",
+   "Recall sheet x24, A5",
+   "Group results table x6, A5 (1 per group)",
+   "Ethics debrief card x6, A5, laminated if possible (1 per group)",
+   "Teacher copies: script x2, mark scheme, kit card (A5), handover note form, observer's lesson plan and checkpoint"
+  ],
+  "get_items": [
+   "Identical pens x24 (same model and colour, ideally new)",
+   "Laminating pouches, A5 x6 (optional)",
+   "Seat for the incoming teacher x1",
+   "Make: pen card deck x24 (folded, shuffled; 12 Code 41, 12 Code 52)"
+  ],
+  "reuse_items": [
+   "Class box",
+   "Scientist's Logbooks x24",
+   "Role card sets x6",
+   "Class assessment folder"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules",
+   "Mild deception: explain the secret in the same lesson, straight after the test",
+   "Voluntary: a student may watch instead; any student may withdraw their score",
+   "Codes only, never names; never compare individual students' scores"
+  ],
+  "watch_out": [
+   "Keep the secret until the reveal: treat both groups the same; do not look at codes.",
+   "Short of time: recall 90 seconds, give class means; never cut the reveal or withdrawal.",
+   "'Lucky group scored higher, so the pen works': pens were identical; it is belief or chance."
+  ],
+  "language_note": "Frame: 'The data suggests ___; however, ___.' 'Blind' here does not mean unable to see. Recall in English or Chinese.",
+  "next_week": "Mark checkpoints and write the handover note; Week 6: incoming teacher starts the Mpemba mystery (Plan A or B)"
+ }
+}

@@ -34,7 +34,7 @@
     "plan": "Both",
     "reuse": "",
     "in_requisition": "Not checked (Year 9)",
-    "check": "Plan A: 12 cards, 3 sheets per set, 18 sheets of A4 card. Plan B: do not print sheet 1 (ice claims 1, 2, 5, 6), so 8 cards, 2 sheets per set, 12 sheets. The print spec says '6 sets per class', but Recorders count the cards back into the envelope at clean-up, so one 6 sets could serve every class: confirm. Remove or annotate any claim card the school cannot support."
+    "check": "Plan A: 12 cards, 3 sheets per set, 18 sheets of A4 card. Plan B: do not print sheet 1 (ice claims 1, 2, 5, 6), so 8 cards, 2 sheets per set, 12 sheets. The print spec says '6 sets per class', but Recorders count the cards back into the envelope at clean-up, so the same 6 sets could serve every class: confirm. Remove or annotate any claim card the school cannot support."
    },
    {
     "group": "Printing (paper copies)",
@@ -494,7 +494,7 @@
    },
    {
     "when": "The week before",
-    "text": "Cut claim cards (4 per sheet); put each set of 12 or 8 in an envelope",
+    "text": "Cut claim cards (4 per sheet); one set (12 or 8) per envelope",
     "minutes": 10,
     "who": "technician",
     "optional": false,
@@ -534,7 +534,7 @@
    },
    {
     "when": "On the day, before the lesson",
-    "text": "Set out per table: card set, frame, checklist, slip, model plan, pencils, role cards",
+    "text": "Set out per table: cards, frame, checklist, slip, model plan, pencils, role cards",
     "minutes": 5,
     "who": "technician",
     "optional": false,
@@ -542,7 +542,7 @@
    },
    {
     "when": "After the lesson",
-    "text": "Clean-up: count claim cards into envelopes; collect frames, slips; logbooks to box",
+    "text": "Clean-up: claim cards counted into envelopes; frames, slips collected; logbooks boxed",
     "minutes": 2,
     "who": "students",
     "optional": false,
@@ -558,7 +558,7 @@
    },
    {
     "when": "After the lesson",
-    "text": "Build Week 8 kit list from slip stubs; Plan A: order ice (claims 1, 2, 5, 6)",
+    "text": "Week 8 kit list from slip stubs; Plan A: order ice for ice claims",
     "minutes": 15,
     "who": "teacher",
     "optional": false,

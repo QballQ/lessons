@@ -1,0 +1,641 @@
+{
+ "lesson": {
+  "id": "Y9_W02",
+  "year": "Year 9",
+  "week": 2,
+  "title_en": "Brains that fool us",
+  "title_zh": "会骗人的大脑",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Brains that fool us (Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 2 A4 pages, double-sided",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Main student task: illusion predictions and measurements in mm, gap fill, class anchoring results, 2-4-6 explanation, Challenge questions, My thinking box (the series output this week) and the exit ticket strip at the foot of page 2",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "No spares stated. The lesson file gives no page count; the designed worksheet has 2 pages (page 1 says 'turn over'), so 1 sheet double-sided. The exit ticket strip at the foot of page 2 backs onto the foot of page 1 (Stretch 1 'Explain the result'), so cutting it off removes part of page 1. Slide 2 says answer 'on the back of your worksheet', but a double-sided sheet has no blank back."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Illusion sheet: Catch the illusion (Lines A and B, Circles C and D, bonus Lines E and F)",
+    "quantity": 24,
+    "unit": "copies; A4 portrait, single-sided, greyscale, printed at 100% (no 'fit to page')",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Do Part A: students circle which looks bigger, then measure each illusion to the nearest mm",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec and kit card: 1 per student (4 per group), although the timeline has students working in pairs. Check one copy with a ruler: A and B must each measure 80 mm; if the printer has scaled the page, the answer key values change. No spares stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Anchoring slips, Version 1 (Form YZ-1) and Version 2 (Form YZ-2)",
+    "quantity": 6,
+    "unit": "sheets; A4, single-sided, greyscale, 4 A6 slips per sheet (2 of each version), cut to give 24 slips",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Do Now: each student answers one slip alone and in silence (longer or shorter than 1,000 km or 10,000 km, then an estimate of the length of the Yangtze River); the two class means are revealed in Think and Reflect",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "6 sheets give exactly 12 of each version for 24 students, with no spares; a larger class or a spoiled slip needs a 7th sheet. The tally sheet has 14 rows per version. Slips are kept until the end of Week 3, so print a new set for each class."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Anchoring tally sheet",
+    "quantity": 1,
+    "unit": "copy; A4 portrait, single-sided",
+    "basis": "class",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Two quick-finishing Recorders (or the teacher) list the estimates by version and work out the total, number, mean and median for the reveal on Slide 10",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "1 per class; kept with the slips until the end of Week 3. The design is marked 'Teacher copy' but is also used by the two student analysts. The footer gives the true length (about 6,300 km), so the analysts see it before the reveal."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "2-4-6 group record card",
+    "quantity": 6,
+    "unit": "copies; A5 landscape, single-sided",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Do Part B: each group writes its three numbers, prediction, the teacher's answer and its rule idea (6 test rows), then holds up the card when sure of the rule",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "1 per group (6 per class). Called a 'card' but no card stock is stated: entered as paper. Print on A5, or 2 up on A4 and cut. Not said whether the cards are collected."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "2-4-6 game teacher script",
+    "quantity": 1,
+    "unit": "copy; A4, single-sided",
+    "basis": "once",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher's script for the set-up (1 minute), testing rounds (about 6 minutes, up to 5 rounds), reveal (2 minutes) and optional sharp question (1 minute); holds the secret rule",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Keep out of student sight: the secret rule is at the top."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, single-sided",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card; group copies are not stated. This week has no practical hazards."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Envelopes for the anchoring slips, labelled with the group number",
+    "quantity": 6,
+    "unit": "envelopes (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Students fold their slip and put it in their group's envelope in the Do Now; the teacher then sorts the slips into Version 1 and Version 2 piles during the Hook",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The Week 1 envelopes hold the claim card sets, so 6 more are needed. Size not stated (a folded A6 slip). The timeline says the teacher collects the slips into the envelopes; Slide 1 and the slips tell students to do it."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Board pen",
+    "quantity": 1,
+    "unit": "pen",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Writing every 2-4-6 test on the board in the YES and NO columns",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "Booklet (reprographics)",
+    "sheets_per_copy": null,
+    "purpose": "Last minute of Think and Reflect: one line under 'What I found': 'My brain was fooled when ___.'",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Printed before Week 1 with the all-years print job (Teacher Guide Section 8); first given out this week",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Year 9 starts the logbook this week (Week 1 lesson file and Teacher Guide Section 3). Logbooks are not on the Week 2 kit card or in its clean-up, and page count and spares are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5: Lead Scientist, Measurer, Recorder, Safety Officer, Reporter)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Roles rotate weekly; the Measurer measures while the partner checks; two Recorders work out the class means",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not listed on the Week 2 kit card; the Teacher Guide has role cards on every table every week."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Rulers, 30 cm",
+    "quantity": 24,
+    "unit": "rulers (4 per group, 1 per student)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Measuring the illusions to the nearest mm, starting at the 0 mark; the teacher also uses one to check the printed illusion sheet",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Counted back at clean-up (24). Week 3 needs rulers with the 0 cm mark checked (Teacher Guide Section 8, Week 2 row)."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Calculator",
+    "quantity": 1,
+    "unit": "calculator",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "For the two Recorders (or the teacher) working out the class means on the tally sheet",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "One calculator for two analysts with two piles of slips."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Trays",
+    "quantity": 6,
+    "unit": "trays (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Group kit tray for the rulers, envelope and 2-4-6 card",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Not on the Week 2 kit card; from the Teacher Guide routine 'one tray per group from the kit card'."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks collected and stored at the end of the lesson; slips and tally sheet can be kept here until the end of Week 3",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "From Teacher Guide Section 3 (logbooks kept in the class box); not named in the Year 9 Week 1 or Week 2 lesson files."
+   },
+   {
+    "group": "Make beforehand",
+    "item": "Pile of 24 cut anchoring slips, stacked so the versions alternate 1, 2, 1, 2",
+    "quantity": 1,
+    "unit": "pile",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Handed out from the pile as students arrive, so that neighbours get different versions without knowing there are two",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Made from the 6 printed sheets. Cutting tool (scissors or guillotine) is not listed. One pile per class."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Send the print job: worksheets (24 per class, 2 A4 pages double-sided = 24 sheets), 6 A5 2-4-6 group record cards per class, 1 A4 tally sheet per class, 1 A4 teacher script and 1 A5 kit card",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print 24 illusion sheets per class on A4 at 100% scale (no 'fit to page'); check one with a ruler: lines A and B must each measure 80 mm (part of the kit card's 'about 15 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect 24 rulers (30 cm), 1 calculator, a board pen, 6 envelopes and 6 trays",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Check the 24 Scientist's Logbooks are printed and in the class box: Year 9 starts the logbook this week",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Every week to Week 10",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the 2-4-6 teacher script and the notes for the incoming teacher; practise answering only 'Yes' or 'No' with a neutral face; have the answer key sample data (Stretch 1) ready in case class data is unusable",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Print the anchoring slips (6 A4 sheets per class, 4 per sheet, 2 of each version), cut them into 24 and stack them alternating 1, 2, 1, 2 (part of the kit card's 'about 15 minutes')",
+    "when": "The day before",
+    "minutes": 7,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Label 6 envelopes with the group numbers",
+    "when": "The day before",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Draw two columns headed YES and NO on the board, ready for the 2-4-6 game (part of the kit card's 'about 15 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out per group: 4 rulers, 1 labelled envelope, 1 2-4-6 group record card and the role cards; keep the slip pile by the door and the illusion sheets, worksheets, tally sheet, calculator and script at the front (illusion sheets are given out in Do Part A)",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: rulers collected and counted (24); logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Keep the anchoring slips and tally sheet, labelled by class, until the end of Week 3 in case a class wants to check the calculations",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Kept until the end of Week 3",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets before Week 3 (can the student name a bias and a protection against it?) and the My thinking boxes (bias reflection, the series output this week)",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 3 Do Now recap and Stretch choices",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "Our brains take shortcuts that can fool us, so scientists measure, compare groups and try to prove their own ideas wrong.",
+   "goals": [
+    "I can show with measurements that my perception can be wrong, and explain why scientists measure instead of trusting their eyes.",
+    "I can explain anchoring and confirmation bias using evidence from today's class tests."
+   ],
+   "key_words": [
+    {
+     "en": "bias",
+     "zh": "偏差（偏见）"
+    },
+    {
+     "en": "perception",
+     "zh": "知觉（感知）"
+    },
+    {
+     "en": "optical illusion",
+     "zh": "视错觉"
+    },
+    {
+     "en": "measure",
+     "zh": "测量"
+    },
+    {
+     "en": "estimate",
+     "zh": "估计（估算）"
+    },
+    {
+     "en": "anchoring",
+     "zh": "锚定效应"
+    },
+    {
+     "en": "confirmation bias",
+     "zh": "确认偏差"
+    },
+    {
+     "en": "mean",
+     "zh": "平均值"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 4,
+     "what": "Anchoring slips handed out from the pre-shuffled pile as students arrive (Versions 1 and 2 alternate): 'Answer alone, in silence, then fold it.' Slips go into the group envelopes. Then the retrieval question: 'Hot water freezes faster than cold water': claim type and the three verdicts. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 3,
+     "what": "Muller-Lyer lines: vote A longer, B longer or the same; do not reveal and do not measure yet. Students write their prediction on the worksheet. The teacher quietly sorts the slips into Version 1 and Version 2 piles using the code in the corner. Slide 3."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 7,
+     "what": "Perception versus measurement; what bias means (a pull in one direction, three brain traps: eyes, numbers, looking only for 'yes'); how to measure to the nearest millimetre: start at 0, eyes directly above the mark. Do not mention anchoring yet. Slides 4 to 6."
+    },
+    {
+     "phase": "Do (Part A)",
+     "minutes": 7,
+     "what": "Illusion sheets given out. Pairs predict, then measure the illusions and complete Core ('Measure, don't look!'). Two quick-finishing Recorders get the two piles of slips, the tally sheet and a calculator and work out the class means. Slide 7. If short: cut bonus illusion C (Lines E and F); teacher computes the means."
+    },
+    {
+     "phase": "Do (Part B)",
+     "minutes": 11,
+     "what": "2-4-6 game from the script: groups test three numbers each round and record on the group card; the teacher answers only 'Yes' or 'No' and writes every test on the board in YES and NO columns; reveal the rule (any three numbers in increasing order) and name confirmation bias. Slides 8 to 9. If short: 3 rounds instead of 5."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 8,
+     "what": "Reveal the anchoring trick and the two class means; compare with the true length (about 6,300 km). 'How do scientists protect themselves from bias?': pair talk in any language, share with a frame; Stretch or Challenge if time; exit ticket and logbook line. Slides 10 to 12."
+    }
+   ],
+   "practical": "Pairs predict, then measure three optical illusions with a 30 cm ruler to the nearest mm (A and B 80 mm, C and D 20 mm, E and F 60 mm). Groups then play the 2-4-6 game, testing sets of three numbers to find a secret rule. A hidden two-version Do Now slip gives class data on anchoring.",
+   "assessment": "Exit ticket (strip at the foot of the worksheet): can the student name a bias and a protection against it, and choose the test that best checks 'add 2' (b: 1, 2, 3)? Logbook line under 'What I found': 'My brain was fooled when ___.' The bias reflection in the My thinking box is the series output for this week.",
+   "hazards": [
+    "No practical hazards beyond normal classroom rules."
+   ],
+   "language_note": "Frames: 'My eyes said ___, but the ruler showed ___.' 'The data suggests ___; however, ___.' 'This could also be explained by ___.' Chinese talk is welcome in pair talk and in the 2-4-6 group discussions; tests are called out in English numbers; the My thinking box may be in any language. Traps: 'bias' is often heard as 'unfair person', but here it is any pull in one direction, including in data; the key word table gives two Chinese terms for bias, one for results and one for people; 'estimate' is not a wild guess.",
+   "watch_out": [
+    "Do not mention anchoring or the two versions before the Think phase, or the test is spoiled; say only 'Answer alone, in silence, then fold it.'",
+    "Print the illusion sheets at 100% and check A and B measure 80 mm; if the printer has scaled them, the answer key values change.",
+    "Many students learn the Yangtze's length (about 6,300 km) in geography: if the two means are close, treat it as a result, not a failure, or use the sample data in the answer key if class data is unusable.",
+    "Misconceptions: 'Clever people are not fooled'; 'If many tests say yes, the idea is proven'; 'A ruler gives an exact answer' (measuring is only good to about 1 mm).",
+    "In the 2-4-6 game do not reveal the rule or comment on the nearly empty NO column until the end; to a wrong rule say only 'That is not my rule. Keep testing.'"
+   ],
+   "next_week_link": "Week 3 turns 'measure, don't guess' into a full fair test with repeats, mean and range (ruler-drop reaction times). Keep the anchoring slips and tally sheet until the end of Week 3. During this week, for Week 3 (Teacher Guide Section 8): print and laminate the ruler-drop method cards and conversion tables, cut the PRIZE strip and check the 0 cm mark on the rulers; book printing for Weeks 3 to 5. The lucky pen claim in Challenge 3 and the blind test mentioned on Slide 11 set up Week 5; the hot water claim on Slide 2 is tested in Week 6."
+  },
+  "open_questions": [
+   "Y9_W02_Brains_that_fool_us.md Section 3 gives no page count for the worksheet; the designed worksheet (Main.dc.html and Worksheet-2.dc.html) has 2 pages, entered as 1 sheet double-sided. The exit ticket strip at the foot of page 2 backs onto the foot of page 1 (Stretch 1 'Explain the result'), so cutting it off removes part of page 1. Collect the whole worksheet instead, or print single-sided (2 sheets per copy)?",
+   "Y9_W02 Slide 2 speaker notes say 'Answer in your book or on the back of your worksheet', but the worksheet is double-sided with no blank back and no exercise book is on the kit card. Where do students answer the Do Now retrieval question, and are worksheets given out at the door with the slips?",
+   "The fold-under word bank is at the foot of worksheet page 2, but the gap fill that uses it (Core 2) is on page 1 in the design.",
+   "The Scientist's Logbook starts in Week 2 for Year 9 (Y9_W01 Section 1; Teacher_Guide.md Section 3), but logbooks are not on the Y9_W02 kit card or in its clean-up, and the Year 9 list in 00_Requisition/source/kit_lists.json has no logbook or class box. Confirm 24 logbooks per class are printed and that a class box exists for Year 9.",
+   "No spares are stated for worksheets, illusion sheets or anchoring slips (6 sheets give exactly 24 slips). Add spares, and which version does a 25th student get?",
+   "The kit card and print spec give 1 illusion sheet per student (4 per group), but the timeline and Slide 7 have students working in pairs (Measurer and partner). Is 1 per student intended (24 per class)?",
+   "The anchoring tally sheet footer shows the true length (about 6,300 km) and the design is marked 'Teacher copy', but the timeline hands it to two student Recorders before the reveal. Only 1 calculator is listed for the two analysts.",
+   "Who puts the slips in the envelopes? The timeline says the teacher 'collects slips into the group envelopes'; Slide 1 and the slips tell students to fold the slip and put it in their group's envelope. The teacher must then gather the 6 envelopes during the Hook to sort the slips.",
+   "The bias reflection (My thinking box) is 'the series output for this week', but the lesson file does not say whether worksheets and 2-4-6 group cards are collected, kept by students or filed; only the exit tickets are collected.",
+   "Prep time and timing: the kit card gives 'about 15 minutes' for printing and cutting slips, printing and checking illusion sheets and drawing the YES and NO columns; Teacher_Guide.md Section 8 lists these under Week 1 with no time and does not mention the 2-4-6 group cards, teacher script, envelopes or worksheets. All other prep times are estimates.",
+   "The 2-4-6 group record card is called a 'card' but no card stock or lamination is stated (entered as A5 paper); envelope size and a cutting tool for the slips are not stated. Trays and role cards come from the Teacher Guide routines, not the Week 2 kit card.",
+   "The if-time-is-short line says 'cut the bonus illusion C', but the bonus illusion is Lines E and F; C is one of the Ebbinghaus circles (Y9_W02 Section 1 against Sections 3 and 6a)."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W02",
+  "big_idea": "Our brains take shortcuts that can fool us, so scientists measure, compare groups and try to prove their own ideas wrong.",
+  "goals": [
+   "I can show with measurements that my perception can be wrong, and say why scientists measure.",
+   "I can explain anchoring and confirmation bias using evidence from today's class tests."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 4,
+    "what": "Anchoring slips, alone and silent, into group envelopes; retrieval: claim type and three verdicts"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 3,
+    "what": "Muller-Lyer lines: vote A, B or same; no reveal; teacher quietly sorts slips"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 7,
+    "what": "Perception versus measurement; what bias means; measure to the nearest mm; no anchoring yet"
+   },
+   {
+    "phase": "Do (Part A)",
+    "minutes": 7,
+    "what": "Pairs predict, then measure the illusions; Core; two Recorders calculate the class means"
+   },
+   {
+    "phase": "Do (Part B)",
+    "minutes": 11,
+    "what": "2-4-6 game: groups test numbers, YES and NO columns; reveal rule, name confirmation bias"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 8,
+    "what": "Reveal anchoring and class means (true about 6,300 km); pair talk; exit ticket; logbook line"
+   }
+  ],
+  "practical": "Pairs predict, then measure three illusions with a ruler (mm); groups play the 2-4-6 rule game.",
+  "assessment": "Exit ticket: name a bias and a protection; logbook line; My thinking box (bias reflection, series output)",
+  "prep_lines": [
+   {
+    "when": "The week before",
+    "text": "Send print job: worksheets, 2-4-6 group cards, tally sheet, script, kit card",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Print illusion sheets at 100%: check lines A and B measure 80 mm",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Collect 24 rulers, calculator, board pen, 6 envelopes, 6 trays",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Check 24 logbooks are printed and in the class box (first use)",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read the 2-4-6 script; have the answer key sample data ready",
+    "minutes": 10,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Print slips, cut into 24, stack alternating 1, 2; label 6 envelopes",
+    "minutes": 9,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Draw YES and NO columns on the board for the 2-4-6 game",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Set out rulers, envelopes, group cards; slip pile by door; illusion sheets at front",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Clean-up: count 24 rulers back; logbooks into the class box",
+    "minutes": 2,
+    "who": "students",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Read exit tickets and My thinking; keep slips and tally until end of Week 3",
+    "minutes": 12,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (1 sheet each, double-sided)",
+   "Illusion sheet x24, A4 at 100%, check A and B measure 80 mm (1 per student)",
+   "Anchoring slips x6 A4 sheets per class, cut to 24 slips (12 of each version)",
+   "2-4-6 group record card x6, A5 (1 per group)",
+   "Anchoring tally sheet x1 per class, A4",
+   "Teacher copies: 2-4-6 script (A4), kit card (A5)"
+  ],
+  "get_items": [
+   "Rulers, 30 cm x24 (4 per group)",
+   "Envelopes x6, labelled with the group number (1 per group)",
+   "Calculator x1",
+   "Board pen x1",
+   "Group trays x6 (optional)",
+   "Make: slip pile x1 per class (24 slips, versions alternating)"
+  ],
+  "reuse_items": [
+   "Scientist's Logbooks x24 (printed before Week 1, first use)",
+   "Role card sets x6 (Week 1)",
+   "Class box"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules"
+  ],
+  "watch_out": [
+   "Do not mention anchoring or two versions before the Think phase, or the test is spoiled.",
+   "If the two means are close (many know 6,300 km), treat it as a result; sample data is in the answer key.",
+   "2-4-6: answer only 'Yes' or 'No'; do not reveal the rule or comment on the NO column early."
+  ],
+  "language_note": "Frame: 'My eyes said ___, but the ruler showed ___.' 'Bias' is any pull in one direction, not an unfair person. Chinese welcome in pair talk.",
+  "next_week": "Week 3: ruler-drop fair test with repeats, mean, range; print and laminate method cards, check rulers' 0 cm mark"
+ }
+}

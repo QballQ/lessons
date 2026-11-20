@@ -1,0 +1,735 @@
+{
+ "lesson": {
+  "id": "Y9_W09",
+  "year": "Year 9",
+  "week": 9,
+  "title_en": "Peer review",
+  "title_zh": "同行评审",
+  "resources": [
+   {
+    "group": "Printing (paper copies)",
+    "item": "Worksheet: Peer review (sample report extract, Core, Stretch, Challenge, My thinking, fold-under word bank, exit ticket strip)",
+    "quantity": 24,
+    "unit": "copies; 3 A4 pages, double-sided (pages 1 and 2 on one sheet, page 3 on a second sheet)",
+    "basis": "student",
+    "paper": "A4 paper",
+    "sheets_per_copy": 2,
+    "purpose": "Core 1 (find three problems in the sample 'lid' report) is done in pairs in Learn; Stretch and Challenge for anyone who finishes a report section early; exit ticket strip at the foot of page 3 (one change after review, verdict and confidence, Week 10 talk part)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The lesson file does not give a page count; the designed worksheet has 3 pages (Main, Worksheet-2, Worksheet-3). 24 copies x 2 sheets = 48 A4 sheets. Page 3 has a blank back, so cutting off the exit ticket strip removes nothing. No spares stated. The kit card prep list does not mention printing the worksheet."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Fact-check report template (6a): four A4 pages (cover, method, results, analysis and verdict)",
+    "quantity": 12,
+    "unit": "copies; A3 double-sided, greyscale, folded to an A4 booklet (1 per group plus 1 spare)",
+    "basis": "group",
+    "paper": "A3 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Each group writes its fact-check report in parallel, one section per role; swapped with the partner group for review, revised, then collected",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Kit card: 1 per group plus 1 spare (12 per class). Print spec in Section 6a: 6 per class plus spares, number of spares not given. 12 entered. The design is four separate A4 pages (Report-1 to Report-4): impose as an A3 booklet (pages 4 and 1 outside, 2 and 3 inside). The graph grid (16 cm by 11 cm) should print at 100%."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Reviewer checklist (6b), 'Reviewer report' form",
+    "quantity": 6,
+    "unit": "copies; A4 portrait, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Reviewing group fills in the summary, 8 major checks, 4 minor checks, strengths and a recommendation for the partner group's report; stapled to that report",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "1 page in the design. No spares stated. If a group is absent the teacher reviews its partner's report and needs a checklist."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Reviewer comment slips (6c): sheet of four A6 slips",
+    "quantity": 12,
+    "unit": "sheets; A4 portrait, single-sided, greyscale, cut into 4 slips (2 sheets per group)",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Reviewers write 3 to 5 comment slips (major, minor or strength; at least one strength); authors tick 'Agree: changed' or 'Disagree, because' on each slip",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 2 sheets per group = 8 slips per group (48 per class). Kit card: 6 slips per group (36 per class). Lesson: 3 to 5 slips written. 12 sheets entered; the files do not say who cuts the slips or when."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Revision log (6d)",
+    "quantity": 6,
+    "unit": "copies; A5 landscape, single-sided, greyscale",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Authors list what each reviewer comment said, what they changed and where, and confidence before and after review; stapled to the report",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print on A5, or 2 up on A4 and cut. No spares stated."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Self-assessment slip 'How am I doing?' (assessment/Rubric_and_Reporting.md, Section 7)",
+    "quantity": 24,
+    "unit": "slips; A5 portrait, single-sided, 2 per A4 sheet with a cut line (12 A4 sheets)",
+    "basis": "student",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Think and Reflect, 4 minutes: six rubric lines with four tick boxes and two writing prompts; collected separately and compared with the teacher's judgement",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Print spec: 1 slip per student, 12 A4 sheets for a class of 24. One design for all years, so it is not in the Y9_W09 printables folder. Teacher Guide prep calendar lists it in the Week 8 'All years' row."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Week 10 talk frame card (Y9_W10_Claim_Busters_Conference.md, Other printables 6a)",
+    "quantity": 6,
+    "unit": "cards; A5 landscape, single-sided, greyscale (1 per group), plus spares",
+    "basis": "group",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Given out in the last 2 minutes so each student chooses one of the five talk parts for the Week 10 conference",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The Week 9 kit card lists it under 'Per student' but says '1 per group'. Week 10 print spec: 6 per class plus spares (number not given), laminate if possible, 'also handed out at the end of Week 9'. It is a Week 10 design, so it is not in the Y9_W09 printables folder and not in the Week 9 kit card prep list. The files do not say whether groups keep the card or it is collected and given out again in Week 10 (the Week 10 kit card lists 1 per group again)."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Printed photo of a group's Week 8 data sheet",
+    "quantity": null,
+    "quantity_text": "only for groups whose original data sheet is missing or damaged (0 to 6)",
+    "unit": "prints; A4",
+    "basis": "group",
+    "paper": "A4 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Replaces the original data sheet for any group whose original is missing or damaged, so the group can still write its report",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "Number depends on the class. Needs the Week 8 photographs of the data sheets."
+   },
+   {
+    "group": "Printing (paper copies)",
+    "item": "Kit card (half-A4, teacher copy)",
+    "quantity": 1,
+    "unit": "copy; A5 landscape, double-sided (front: kit and prep; back: hazards and clean-up)",
+    "basis": "once",
+    "paper": "A5 paper",
+    "sheets_per_copy": 1,
+    "purpose": "Teacher kit list, prep, hazards and controls, and clean-up",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "No: paper printing",
+    "check": "The design has a front and a back (Kit-card, Kit-card-2) and is marked 'Teacher copy'. The Teacher Guide has the Safety Officer check the kit card; group copies are not stated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Laminating pouches, A5",
+    "quantity": 6,
+    "unit": "pouches",
+    "basis": "once",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Laminating the 6 talk frame cards",
+    "optional": true,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "The Week 10 print spec says 'laminate if possible'. More pouches are needed if spare cards are laminated."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Stapler or paper clip",
+    "quantity": 6,
+    "unit": "staplers or paper clips (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Each group fastens its report, the partner group's reviewer checklist, the comment slips and the revision log together before handing in",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Pencils and pens",
+    "quantity": 24,
+    "quantity_text": "'pencils and pens: 4' per group; 24 entered",
+    "unit": "4 per group",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Writing the report, drawing the graph, comment slips, revision log and self-assessment slip",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Pencils from Week 1 and pens from Week 5; reuse",
+    "in_requisition": "No: reused",
+    "check": "The kit card says 'pencils and pens: 4' per group; it is not clear whether that means 4 of each (24 pencils and 24 pens) or 4 in total."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Approved plan (Week 7 planning frame with signed approval)",
+    "quantity": 6,
+    "unit": "plans (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Handed back in the Do Now; source for the question, prediction, method, variables and sample size sections of the report; also rubric evidence",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Written and approved in Week 7; used in Week 8; kept by the teacher",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Week 8 group data sheet (original)",
+    "quantity": 6,
+    "unit": "data sheets (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Handed back in the Do Now; raw data for the results table, means, ranges and graph; also rubric strand 3 evidence",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Completed in Week 8 and collected or photographed by the teacher",
+    "in_requisition": "No: reused",
+    "check": "Week 8 printed 2 sheets per group (1 plus 1 spare); a group may have used both."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Scientist's Logbook (A5 booklet)",
+    "quantity": 24,
+    "unit": "booklets",
+    "basis": "student",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "One line under 'What I found' if time allows: 'A reviewer made us change ___.'; also supporting evidence when the teacher judges strands 1 to 5",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Started in Week 2; kept in the class box",
+    "in_requisition": "No: reused",
+    "check": "Only 'if time allows' in this lesson."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Group role cards (set of 5: Lead Scientist, Measurer, Recorder, Safety Officer, Reporter)",
+    "quantity": 6,
+    "unit": "sets",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Roles decide who writes which report section (section-owner chart on Slide 2)",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Week 1 role cards; reuse",
+    "in_requisition": "No: reused",
+    "check": "Not named on the Week 9 kit card; the Teacher Guide puts role cards on every table every week. Roles rotate weekly, so check each group knows this week's roles before the Do Now."
+   },
+   {
+    "group": "Card, laminating and stationery",
+    "item": "Week 8 run sheet with the teacher's notes on each group",
+    "quantity": 1,
+    "unit": "sheet",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Not used in the lesson; needed afterwards with the reports to judge individual strand levels",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Teacher's copy from Week 8",
+    "in_requisition": "No: reused",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Calculators",
+    "quantity": 6,
+    "unit": "calculators (1 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Recorder checks means and ranges; reviewers check one mean in the partner group's table",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Prep room; used in Weeks 2 and 3",
+    "in_requisition": "Not checked (Year 9)",
+    "check": "Returned at clean-up."
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Rulers, 30 cm",
+    "quantity": 12,
+    "unit": "rulers (2 per group)",
+    "basis": "group",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Drawing the results table, axes and graph on the report template",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Prep room; used in Weeks 2 to 4",
+    "in_requisition": "Not checked (Year 9)",
+    "check": ""
+   },
+   {
+    "group": "Equipment and materials",
+    "item": "Class box",
+    "quantity": 1,
+    "unit": "box",
+    "basis": "class",
+    "paper": "",
+    "sheets_per_copy": null,
+    "purpose": "Logbooks stored at the end of the lesson",
+    "optional": false,
+    "plan": "Both",
+    "reuse": "Class box from Week 1; reuse",
+    "in_requisition": "No: reused",
+    "check": "The lesson file does not say where the collected reports, slips and exit tickets are kept until Week 10; the Week 10 file later files reports in the class assessment folder."
+   }
+  ],
+  "prep": [
+   {
+    "task": "Book printing for Weeks 9 and 10 (Teacher Guide prep calendar, Week 7 row): for Week 9 this includes A3 double-sided report templates, reviewer checklists and self-assessment slips",
+    "when": "2 or more weeks before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "Week 10 printing is booked at the same time",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read assessment/Rubric_and_Reporting.md Sections 1 and 2 (Year 9 Secure example) and Section 7, and the answer key's 'Typical reviewer comments and good author responses'",
+    "when": "The week before",
+    "minutes": 15,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": true,
+    "reused_later": "Needed again to judge strands 1 to 5 before Week 10",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Send the print job: worksheets (24 per class, 3 A4 pages = 2 sheets), report templates (12 per class, A3 double-sided), 6 reviewer checklists, 12 sheets of comment slips, 6 revision logs (A5), self-assessment slips (12 A4 sheets per class), 6 talk frame cards (A5, plus spares) and 1 kit card (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Reprographics",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Fold the A3 report templates into A4 booklets (12 per class) (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Cut the self-assessment slips (12 A4 sheets into 24 slips) and the comment slip sheets (12 sheets into 48 slips); cut revision logs and talk frames if printed 2 up (part of the kit card's 'about 20 minutes')",
+    "when": "The week before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Laminate the 6 talk frame cards in A5 pouches",
+    "when": "The week before",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "Talk frame cards are used again in Week 10",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "task": "Find each group's approved plan and Week 8 data sheet; print the photo of the data sheet for any group whose original is missing or damaged (part of the kit card's 'about 20 minutes')",
+    "when": "The day before",
+    "minutes": 3,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Collect 6 calculators, 12 rulers (30 cm), 6 staplers or paper clips, and pencils and pens (4 per group)",
+    "when": "The day before",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Write the review pairings on the board: Group 1 and 4, 2 and 5, 3 and 6; if a group is absent, the teacher reviews its partner's report (part of the kit card's 'about 20 minutes')",
+    "when": "On the day, before the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Set out for each group: plan, data sheet (or photo), report template plus 1 spare, calculator, 2 rulers, pencils and pens, stapler or paper clip; keep at the front for later: reviewer checklists, comment slips, revision logs, self-assessment slips and talk frames; worksheets on desks",
+    "when": "On the day, before the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Clean-up: each group staples its report, the partner group's reviewer checklist, the comment slips and the revision log together and hands them in; self-assessment slips and exit tickets collected separately; calculators returned; logbooks into the class box",
+    "when": "After the lesson",
+    "minutes": 2,
+    "minutes_source": "estimate",
+    "who": "Students (roles)",
+    "once_for_all_classes": false,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "After the last class: return calculators, rulers and staplers to the prep room",
+    "when": "After the lesson",
+    "minutes": 5,
+    "minutes_source": "estimate",
+    "who": "Technician or assistant",
+    "once_for_all_classes": true,
+    "reused_later": "",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Read the exit tickets: one change after review, verdict and confidence (should match the report), and each student's Week 10 talk part; check every student has ticked at least one part",
+    "when": "After the lesson",
+    "minutes": 10,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10 talks",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "task": "Before Week 10: judge rubric strands 1 to 5 for each student from the report, plan, data sheet, revision log, logbook and Week 8 run sheet notes (Rubric_and_Reporting.md Sections 1 and 2); compare with the self-assessment slips and note any gap of two levels or more; work out provisional awards and prepare certificates as the Week 10 lesson plan describes",
+    "when": "After the lesson",
+    "minutes": 45,
+    "minutes_source": "estimate",
+    "who": "Teacher",
+    "once_for_all_classes": false,
+    "reused_later": "Week 10 certificates; tracker strand levels; reports returned to groups at the start of Week 10",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "one_pager": {
+   "big_idea": "Scientists do not just publish what they think: other scientists check their work first (peer review), and good scientists welcome criticism and change their work because of it.",
+   "goals": [
+    "I can write a fact-check report that gives a verdict on the three-point scale with a confidence level, using our data as evidence.",
+    "I can review another group's report like a journal reviewer, with specific and helpful comments, and revise our own report in response to a review."
+   ],
+   "key_words": [
+    {
+     "en": "peer review",
+     "zh": "同行评审"
+    },
+    {
+     "en": "reviewer",
+     "zh": "审稿人"
+    },
+    {
+     "en": "fact-check report",
+     "zh": "事实核查报告"
+    },
+    {
+     "en": "verdict",
+     "zh": "结论（裁定）"
+    },
+    {
+     "en": "confidence",
+     "zh": "把握程度"
+    },
+    {
+     "en": "limitation",
+     "zh": "局限性"
+    },
+    {
+     "en": "major issue",
+     "zh": "主要问题"
+    },
+    {
+     "en": "minor issue",
+     "zh": "次要问题"
+    },
+    {
+     "en": "revise",
+     "zh": "修改"
+    },
+    {
+     "en": "feedback",
+     "zh": "反馈"
+    }
+   ],
+   "flow": [
+    {
+     "phase": "Do Now",
+     "minutes": 3,
+     "what": "Hand back each group's plan and data sheet (or a printed photo) with a report template; show the section-owner chart. Lead Scientist gives out sections; everyone finds the data they need. Slides 1 to 2."
+    },
+    {
+     "phase": "Hook",
+     "minutes": 2,
+     "what": "How a journal decides: authors, editor, reviewers, revise, publish. 'Even Nobel Prize winners get reviewer comments.' Question: 'Why would scientists ask someone else to find problems in their work?' Slide 3."
+    },
+    {
+     "phase": "Learn",
+     "minutes": 4,
+     "what": "Sample report extract (the lid report); model one reviewer comment (major issue) with the frame; major versus minor and the Low, Medium, High confidence scale. Pairs find two more problems (worksheet Core 1). Slides 4 to 5."
+    },
+    {
+     "phase": "Do (Part A: draft)",
+     "minutes": 12,
+     "what": "Groups write the report in parallel, one section each. Teacher pushes for numbers in evidence, units, the right graph type and honest limitations. At minute 18 (last 3 minutes of the draft) groups agree the verdict and confidence together. Slides 6 to 7."
+    },
+    {
+     "phase": "Do (Part B: review)",
+     "minutes": 8,
+     "what": "Swap reports: Group 1 and 4, 2 and 5, 3 and 6. Reviewers use the checklist, check one mean with a calculator, write 3 to 5 comment slips (at least one strength) and choose a recommendation. Slide 8."
+    },
+    {
+     "phase": "Think and Reflect",
+     "minutes": 11,
+     "what": "Reports returned with reviews: reply, fix major issues, fill in the revision log (5 min). Self-assessment slip (4 min). Week 10 talk frame, talk parts and exit ticket (2 min). Collect every report, revision log and reviewer checklist. Slides 9 to 11."
+    }
+   ],
+   "practical": "No practical. Each group drafts a four-page fact-check report from its Week 8 data (one section per role), reviews its partner group's report with the reviewer checklist and comment slips, then replies to the comments and revises its own report.",
+   "assessment": "A revised fact-check report per group with the reviewer checklist, comment slips and revision log attached, all collected: evidence for rubric strands 1 to 5 (judged per student before Week 10, with the plan, data sheet, logbook and Week 8 run sheet notes). Checklists and comment slips support strand 5, including for the reviewers. Self-assessment slips (do not change levels). Exit ticket: one change made, verdict with confidence, Week 10 talk part.",
+   "hazards": [
+    "No practical hazards beyond normal classroom rules.",
+    "Feedback can feel personal: comment on the science, never on the people or their English."
+   ],
+   "language_note": "Frames for authors: 'We tested ___ by ___.' 'The mean ___ was ___ compared with ___.' 'Our verdict is ___ with ___ confidence because ___.' 'To be more confident, we would need ___.' Frames for reviewers: 'In section ___, ___. This matters because ___. We suggest ___.' 'The strongest part of this report is ___ because ___.' Chinese talk is welcome while drafting and reviewing; reports are written in English with key words in English; comments may be written in Chinese if needed, with key science words in English. Traps: 'review' is checking someone's work, not revising for a test; 'revise' means improve the work, not study; 'confidence' is about the evidence, not feeling brave; 'major' and 'minor' are about the effect on the verdict, not the length of the comment.",
+   "watch_out": [
+    "The lesson is tight: keep strictly to the slide clock. Groups not finished drafting at minute 21 still swap, and reviewers comment on what is there ('Section 5 is missing' is a fair major comment).",
+    "Misconceptions: 'a good review only says nice things'; 'if reviewers find problems, our project failed'; 'Not enough evidence yet is a weak verdict'; 'high confidence means we did a lot of work'.",
+    "If time is short the draft and review are fixed: minimum 2 comment slips, revise major issues only, and the self-assessment slip can be skipped (it does not change levels)."
+   ],
+   "next_week_link": "Collect every report: they are needed to judge strands 1 to 5 and prepare certificates before the Claim Busters Conference, and groups get them back at the start of Week 10 for their 2-minute talks. Every student has chosen a talk part from the talk frame. Week 10 also has the final skills check and interest survey: check the Week 1 skills check papers are filed and that there are enough fresh copies of the same paper."
+  },
+  "open_questions": [
+   "Reviewer comment slips: Y9_W09_Peer_review.md Section 6c print spec gives 2 sheets per group (8 slips; 12 sheets per class), but the kit card (Section 5) gives 6 slips per group and the lesson asks for 3 to 5. 12 sheets entered. The file also does not say who cuts the slips, or whether they are cut before the lesson.",
+   "Report template spares: the kit card says 1 per group plus 1 spare (12 per class); Section 6a says 6 per class 'plus spares' with no number. 12 entered. Is a spare for every group intended?",
+   "Week 10 talk frame: the Week 9 kit card lists it under 'Per student' but says '1 per group'. It is designed and specified in Y9_W10_Claim_Busters_Conference.md (6a: A5, 6 per class plus spares, laminate if possible), so it must be printed a week early, and it is missing from the Week 9 kit card prep list and the Teacher Guide prep calendar. Do groups keep the card after Week 9, or is it collected and given out again in Week 10?",
+   "Worksheet: the lesson file gives no page count or print instruction; the designed worksheet has 3 A4 pages (entered as 2 sheets per copy, double-sided). The kit card prep list and the Teacher Guide prep calendar (Week 8 row: 'print reviewer checklists' only) do not mention printing the worksheet, comment slips or revision logs. No spares are stated for any Week 9 print.",
+   "Peer feedback slips: assessment/Rubric_and_Reporting.md Section 6 and Teacher_Guide.md ('Week 9: preparing to judge') say the 'two stars and a wish' slips are also used in Year 9 Week 9 peer review, but Y9_W09_Peer_review.md never uses them (it uses reviewer comment slips). Not entered as a resource. Which is intended?",
+   "Reviewer codes: the checklist, comment slips and report all have 'Reviewer code R___' and Slide 8 says reviewers use a code, not names, but no file says who gives out the codes or what they are. The pairings (Group 1 and 4, 2 and 5, 3 and 6) are also written on the board, so the reviewers are not anonymous.",
+   "'Pencils and pens: 4' per group on the kit card: 4 of each or 4 in total? 24 entered.",
+   "Section owners: five roles write sections in 'groups of 4', and the file only says what happens in groups of 3 (Lead Scientist also takes the Reporter's sections). Who takes the fifth role's sections in a group of 4?",
+   "Storage: the lesson file does not say where the collected reports, checklists, slips, self-assessment slips and exit tickets are kept between Week 9 and Week 10 (class box or class assessment folder).",
+   "Time for judging strands 1 to 5 for 24 students before Week 10 is not given in the Week 9 file; the Week 10 kit card includes it in 'about 40 minutes, plus certificate printing'. 45 minutes per class entered as an estimate."
+  ]
+ },
+ "one_pager_text": {
+  "id": "Y9_W09",
+  "big_idea": "Scientists do not just publish: other scientists check their work first (peer review), and good scientists welcome criticism and revise.",
+  "goals": [
+   "I can write a fact-check report with a verdict and confidence level, using our data as evidence.",
+   "I can review another group's report with specific, helpful comments, and revise ours after review."
+  ],
+  "flow": [
+   {
+    "phase": "Do Now",
+    "minutes": 3,
+    "what": "Hand back plans, data sheets, report templates; Lead Scientist gives out sections"
+   },
+   {
+    "phase": "Hook",
+    "minutes": 2,
+    "what": "How a journal decides; why ask someone else to find problems in your work?"
+   },
+   {
+    "phase": "Learn",
+    "minutes": 4,
+    "what": "Sample report: model a major comment; major versus minor; confidence scale; worksheet Core 1"
+   },
+   {
+    "phase": "Do (Part A: draft)",
+    "minutes": 12,
+    "what": "Write the report, one section each; last 3 minutes agree verdict and confidence"
+   },
+   {
+    "phase": "Do (Part B: review)",
+    "minutes": 8,
+    "what": "Swap (1 and 4, 2 and 5, 3 and 6): checklist, 3 to 5 comment slips, recommendation"
+   },
+   {
+    "phase": "Think and Reflect",
+    "minutes": 11,
+    "what": "Reply and revise, revision log (5); self-assessment slip (4); talk parts, exit ticket (2)"
+   }
+  ],
+  "practical": "No practical: groups draft a fact-check report from Week 8 data, review a partner group's report, then revise.",
+  "assessment": "Revised report with checklist, comment slips and revision log (rubric strands 1 to 5); self-assessment slip; exit ticket with talk part",
+  "prep_lines": [
+   {
+    "when": "2 or more weeks before",
+    "text": "Book printing for Weeks 9 and 10, including A3 double-sided report templates",
+    "minutes": 5,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Read Rubric Sections 1, 2 and 7 and the answer key's typical reviewer comments",
+    "minutes": 15,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Send print job: worksheets, A3 templates, checklists, slips, logs, talk frames, kit card",
+    "minutes": 5,
+    "who": "reprographics",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Fold 12 A3 templates; cut self-assessment slips and comment slips",
+    "minutes": 10,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The week before",
+    "text": "Laminate the 6 talk frame cards in A5 pouches (optional)",
+    "minutes": 10,
+    "who": "technician",
+    "optional": true,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Find plans and Week 8 data sheets; print photos of any missing",
+    "minutes": 3,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "The day before",
+    "text": "Collect 6 calculators, 12 rulers, 6 staplers, pencils and pens",
+    "minutes": 5,
+    "who": "technician",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "On the day, before the lesson",
+    "text": "Write pairings on the board (1 and 4, 2 and 5, 3 and 6); set out group kit",
+    "minutes": 7,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Collect stapled reports, slips and exit tickets; return kit; read exit tickets",
+    "minutes": 17,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   },
+   {
+    "when": "After the lesson",
+    "text": "Before Week 10: judge strands 1 to 5 per student; provisional awards, certificates",
+    "minutes": 45,
+    "who": "teacher",
+    "optional": false,
+    "plan": "Both"
+   }
+  ],
+  "print_items": [
+   "Worksheet x24 (2 sheets each, double-sided)",
+   "Fact-check report template x12, A3 double-sided, folded (1 per group plus 1 spare)",
+   "Reviewer checklist x6, A4 (1 per group)",
+   "Reviewer comment slips x12 sheets, A4, cut in 4 (2 sheets per group)",
+   "Revision log x6, A5 (1 per group)",
+   "Self-assessment slip x24, A5 (12 A4 sheets, cut)",
+   "Week 10 talk frame card x6, A5 (1 per group), plus spares",
+   "Data sheet photos for groups with a missing original; teacher kit card (A5)"
+  ],
+  "get_items": [
+   "Calculators x6 (1 per group)",
+   "Rulers, 30 cm x12 (2 per group)",
+   "Staplers or paper clips x6 (1 per group)",
+   "Laminating pouches, A5 x6 (optional)"
+  ],
+  "reuse_items": [
+   "Approved plans x6 (Week 7)",
+   "Week 8 data sheets x6",
+   "Week 8 run sheet with teacher notes",
+   "Scientist's Logbooks x24",
+   "Role card sets x6",
+   "Pencils and pens (4 per group)",
+   "Class box"
+  ],
+  "hazards": [
+   "No practical hazards beyond normal classroom rules",
+   "Feedback can feel personal: comment on the science, never people or their English"
+  ],
+  "watch_out": [
+   "Tight lesson: keep to the slide clock; unfinished groups still swap at minute 21.",
+   "'A good review only says nice things': it is kind and honest, finds real problems, suggests fixes.",
+   "Short of time: minimum 2 comment slips, fix major issues only; draft and review are fixed."
+  ],
+  "language_note": "Reviewer frame: 'In section ___, ___. This matters because ___. We suggest ___.' 'Review' and 'revise' are not test revision. Chinese talk welcome.",
+  "next_week": "Collect every report: judge strands 1 to 5 and prepare certificates; check Week 1 skills check papers and fresh copies"
+ }
+}
