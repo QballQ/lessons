@@ -1,0 +1,549 @@
+{
+ "id": "Y9_Test_1_Revision_Lessons",
+ "unit": "Test 1",
+ "unit_title": "revision",
+ "label": "Revision lessons 1 and 2",
+ "title": "Biology and chemistry",
+ "lesson": 1,
+ "n_lessons": 2,
+ "source_line": "Revision guide 1: Biology sections 1 to 5  ·  Chemistry sections 6 and 7",
+ "note": "Two 40-minute revision lessons before Test 1: lesson 1 biology, lesson 2 chemistry. The practice questions use the same skills as Test 1 with different examples (no sodium, fluorine, chlorine or peppered moths, no x10 and x4 lenses, no temperature, predation, light or disease sort), so they do not give the test answers away. Students answer in their exercise books.",
+ "goals": [
+  "I can explain variation, inheritance, extinction and natural selection using the right key words.",
+  "I can name the parts of animal and plant cells, use a microscope safely and calculate magnification."
+ ],
+ "keywords": [],
+ "slides": [
+  {
+   "type": "title",
+   "kicker": "YEAR 9 SCIENCE  ·  TEST 1 REVISION  ·  LESSON 1 OF 2: BIOLOGY",
+   "heading": "Revision for Test 1: biology",
+   "subtitle": "Variation, inheritance, adaptation and extinction, natural selection, and cells and the microscope.",
+   "notes": "Lesson 1 of 2 (40 minutes). Biology is 16 of the 40 marks on Test 1, about 16 minutes. Students need their exercise book, a pen, a green pen for marking and, if possible, mini whiteboards. Revision guide sections 1 to 5 match this lesson.\n\nTimings: Do Now 4, Today 1, variation 3, inheritance 2, adaptation and extinction 3, natural selection 3, quick quiz 2, cells 2, microscope 3, quick quiz 2, exam practice 10, answers 2, exit ticket 3.",
+   "source_line": "Revision guide 1, sections 1 to 5 (biology)"
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: biology brain dump",
+   "minutes": 4,
+   "prompt": [
+    "In your book, write five headings:",
+    "Variation  ·  Inheritance  ·  Adaptation and extinction  ·  Natural selection  ·  Cells and the microscope",
+    "Under each heading, write every key word you can remember.",
+    "Then circle the word you are least sure about."
+   ],
+   "notes": "4 minutes, in silence for the first 3. Then take one key word per heading from the room and write them on the board. The circled words tell you what to spend time on: ask a few students which word they circled.\n\nKey words to listen for: environment, abiotic, biotic, continuous, discontinuous; gene, chromosome, DNA, nucleus, gamete, fertilisation, zygote; adaptation, competition, endangered, extinct, nature reserve, breeding programme, gene bank; natural selection, evolution, generation; nucleus, cell membrane, cytoplasm, cell wall, chloroplast, vacuole, mitochondria, magnification, eyepiece lens, objective lens."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "goals": [
+    "I can explain variation, inheritance, extinction and natural selection using the right key words.",
+    "I can name the parts of animal and plant cells, use a microscope safely and calculate magnification."
+   ],
+   "keywords": [
+    {
+     "en": "environmental variation"
+    },
+    {
+     "en": "inherited variation"
+    },
+    {
+     "en": "continuous variation"
+    },
+    {
+     "en": "gene"
+    },
+    {
+     "en": "fertilisation"
+    },
+    {
+     "en": "adaptation"
+    },
+    {
+     "en": "extinct"
+    },
+    {
+     "en": "natural selection"
+    },
+    {
+     "en": "evolution"
+    },
+    {
+     "en": "cell wall"
+    },
+    {
+     "en": "chloroplast"
+    },
+    {
+     "en": "magnification"
+    }
+   ],
+   "footnote": "Meanings are in the Key words tables of your revision guide, sections 1 to 5.",
+   "notes": "1 minute. Read the two goals. Tell students that lesson 2 does chemistry, and that biology is 16 marks of the 40 on Test 1."
+  },
+  {
+   "type": "compare",
+   "title": "Variation: genes, environment or both?",
+   "left": {
+    "heading": "Inherited variation",
+    "points": [
+     "Caused by genes passed on from parents.",
+     "Examples: natural hair colour, earlobes attached or free.",
+     "Continuous: any value in a range, e.g. hand span. Draw a histogram.",
+     "Discontinuous: a few set groups, e.g. earlobes. Draw a bar chart."
+    ]
+   },
+   "right": {
+    "heading": "Environmental variation",
+    "points": [
+     "Caused by the surroundings, e.g. a scar or the language you speak.",
+     "Abiotic factors are non-living: soil pH, water, wind.",
+     "Biotic factors are living: competition, parasites, pollinators.",
+     "Many features depend on both, e.g. body mass."
+    ]
+   },
+   "key_idea": "Differences between living things come from their genes, their environment, or both.",
+   "vocab": [
+    "variation",
+    "inherited",
+    "environmental",
+    "abiotic",
+    "biotic",
+    "continuous",
+    "discontinuous"
+   ],
+   "notes": "3 minutes. Ask: why is body mass both? (Genes affect build; diet and exercise are environmental.)\n\nCommon mistakes: calling a scar or a suntan inherited; thinking continuous means 'changes over time'. Continuous means it can take any value in a range, so the bars of a histogram touch; discontinuous data has set groups, so the bars of a bar chart have gaps.\n\nRevision guide section 1."
+  },
+  {
+   "type": "learn",
+   "title": "Inherited variation: from parents to offspring",
+   "image": "diagram:gametes_zygote",
+   "text": [
+    "Genes are sections of DNA, on chromosomes in the nucleus.",
+    "Sex cells (gametes) carry half the genetic information: sperm from the father, egg from the mother.",
+    "At fertilisation the gametes join to make a zygote.",
+    "Each gamete is different, so brothers and sisters are not identical (unless they are identical twins)."
+   ],
+   "key_idea": "Offspring get half their genes from each parent, so they look like both but are not the same as either.",
+   "vocab": [
+    "gene",
+    "DNA",
+    "chromosome",
+    "nucleus",
+    "gamete",
+    "fertilisation",
+    "zygote"
+   ],
+   "notes": "2 minutes. Link back to the DNA extraction from kiwi: the white strands were DNA, the material genes are made of.\n\nQuick question: how many chromosomes in a human sperm cell? (23; the zygote has 46.)\n\nRevision guide section 2."
+  },
+  {
+   "type": "learn",
+   "title": "Adaptation and extinction",
+   "text": [
+    "An adaptation is a feature that helps an organism survive where it lives.",
+    "Organisms compete for food, water, space and mates. Plants compete for light, water and nutrients.",
+    "Extinct means no living members of the species are left. Endangered means very few are left.",
+    "Causes of extinction: habitat destroyed, hunting, a new predator or disease, a new competitor, climate change.",
+    "Protecting species: nature reserves, breeding programmes, gene banks (seeds, sperm or eggs stored cold)."
+   ],
+   "key_idea": "If the environment changes faster than a species can adapt, the species can become extinct.",
+   "vocab": [
+    "adaptation",
+    "competition",
+    "endangered",
+    "extinct",
+    "nature reserve",
+    "breeding programme",
+    "gene bank"
+   ],
+   "notes": "3 minutes. Ask for one example of each cause of extinction from the 9A lessons. Ask: why would scientists keep seeds in a gene bank? (If the plant dies out in the wild, it can be grown again.)\n\nRevision guide section 3."
+  },
+  {
+   "type": "learn",
+   "title": "Natural selection in four steps",
+   "text": [
+    "Variation: rabbits in a population differ because of their genes. Some can run faster than others.",
+    "Competition: foxes hunt the rabbits, so not all of them survive.",
+    "Survival: the fastest rabbits are more likely to escape and survive.",
+    "Reproduction: the survivors breed and pass on their genes. Over many generations more rabbits are fast. This change is evolution."
+   ],
+   "key_idea": "Individuals do not change to fit their environment. The population changes over many generations.",
+   "vocab": [
+    "variation",
+    "natural selection",
+    "survive",
+    "reproduce",
+    "generation",
+    "evolution"
+   ],
+   "notes": "3 minutes. Use the four steps for any example: Variation, Competition, Survival, Reproduction (VCSR).\n\nCommon mistake: 'the rabbits learned to run faster' or 'the rabbits changed because they needed to'. Marks go for: variation in genes, the better adapted survive, they reproduce, they pass on their genes, over many generations.\n\nRevision guide section 4. This slide uses rabbits so that the revision practises the method on a new example rather than repeating the Test 1 context.",
+   "numbered": true
+  },
+  {
+   "type": "check",
+   "title": "Quick quiz: 9A",
+   "instruction": "Mini whiteboards. Answer each question, then show me.",
+   "questions": [
+    "Is soil pH an abiotic or a biotic factor?",
+    "Hand span: continuous or discontinuous variation?",
+    "What is the name for a sex cell, such as a sperm or an egg?",
+    "What does 'extinct' mean?",
+    "Why does natural selection need variation?"
+   ],
+   "notes": "2 minutes. Answers: 1 abiotic (non-living). 2 continuous (any value in a range). 3 a gamete. 4 there are no living members of the species left. 5 if all the individuals were the same, none would be better adapted, so there would be nothing to select.\n\nIf more than a few miss question 5, go back one slide before moving on."
+  },
+  {
+   "type": "learn",
+   "title": "Animal and plant cells",
+   "image": "diagram:animal_plant_cells",
+   "text": [
+    "Both: nucleus, cytoplasm, cell membrane, mitochondria.",
+    "Plant cells only: cell wall, chloroplasts, a large vacuole.",
+    "Not every plant cell has chloroplasts: root cells and onion skin cells do not, because they get no light."
+   ],
+   "key_idea": "Learn each part with its job: the nucleus controls the cell, chloroplasts trap light for photosynthesis.",
+   "vocab": [
+    "nucleus",
+    "cytoplasm",
+    "cell membrane",
+    "mitochondria",
+    "cell wall",
+    "chloroplast",
+    "vacuole"
+   ],
+   "notes": "2 minutes. Cover the labels (or ask students to close their eyes) and test: point to a part, students name it and say its job.\n\nJobs: nucleus controls the cell and holds the genetic information; cell membrane controls what goes in and out; cytoplasm is where reactions happen; mitochondria are where respiration releases energy; cell wall supports the cell; chloroplasts trap light for photosynthesis; vacuole holds cell sap and keeps the cell firm.\n\nRevision guide section 5."
+  },
+  {
+   "type": "learn",
+   "title": "Using a light microscope",
+   "image": "diagram:microscope",
+   "text": [
+    "Start with the lowest power objective lens.",
+    "Put the slide on the stage and hold it with the clips.",
+    "Looking from the side, use the coarse focus to bring the lens close to the slide.",
+    "Look through the eyepiece. Turn the coarse focus to move them apart until the image is clear.",
+    "Sharpen with the fine focus. For more detail, change to a higher power lens and use the fine focus only."
+   ],
+   "key_idea": "Total magnification = eyepiece magnification × objective magnification.",
+   "vocab": [
+    "eyepiece lens",
+    "objective lens",
+    "stage",
+    "coarse focus",
+    "fine focus",
+    "magnification"
+   ],
+   "notes": "3 minutes. Why look from the side in step 3? (So the lens does not crash into the slide and break it.) Why start on the lowest power? (It is easiest to find and focus the specimen.)\n\nMagnification example on the diagram: x10 eyepiece and x40 objective = x400.\n\nIf students also need the image size formula: magnification = image size / actual size (revision guide section 5).",
+   "numbered": true
+  },
+  {
+   "type": "check",
+   "title": "Quick quiz: cells and the microscope",
+   "instruction": "Mini whiteboards. Answer each question, then show me.",
+   "questions": [
+    "Name two parts that plant cells have and animal cells do not.",
+    "What does the nucleus do?",
+    "Which focus knob do you use first: coarse or fine?",
+    "Eyepiece x10 and objective x10. What is the total magnification?",
+    "Eyepiece x15 and objective x40. What is the total magnification?"
+   ],
+   "notes": "2 minutes. Answers: 1 any two of cell wall, chloroplasts, large vacuole. 2 controls the cell and holds the genetic information (DNA). 3 coarse first, then fine. 4 x100. 5 x600.\n\nWatch for students adding the lens numbers (10 + 10 = 20). Magnifications are multiplied."
+  },
+  {
+   "type": "do",
+   "title": "Exam practice: biology",
+   "minutes": 10,
+   "steps": [
+    "Two plants grow from cuttings of the same plant, so they have the same genes. One grows in the sun and one in the shade. The one in the sun grows bigger. What type of variation is this? Explain your answer. [2]",
+    "Snow leopards are endangered. Give two reasons why a species can become extinct. [2]",
+    "A student looks at onion skin cells with a x10 eyepiece lens and a x40 objective lens.\n(a) Calculate the total magnification. [1]\n(b) Name one part the student will see that is not in a cheek cell. [1]",
+    "Stretch and Challenge: Arctic hares vary in the thickness of their fur. The winters become colder. Explain how natural selection could make most Arctic hares have thick fur after many generations. [4]"
+   ],
+   "footer": "Write the answers in your book. About one minute per mark. Leave a line under each answer for marking.",
+   "notes": "10 minutes, 10 marks: the same pace as Test 1 (one minute per mark). Work alone and in silence, as in the test. Question 4 is Stretch and Challenge, like the last question of each part of Test 1: students should do questions 1 to 3 first.\n\nThese questions practise the Test 1 skills with different examples (cuttings, snow leopards, onion cells, Arctic hares), so they do not give the test answers away. Answers on the next slide.",
+   "fit": true
+  },
+  {
+   "type": "answers",
+   "title": "Answers: biology",
+   "instruction": "Mark in green pen. Add anything you missed.",
+   "lines": [
+    "**Environmental** variation (1). The plants have the same genes, so the difference comes from the environment, e.g. the **amount of light** (1).",
+    "Any two (1 each): **habitat destroyed**; **hunted** by people; a **new predator** or **disease**; cannot **compete** with a new species; **climate change**.",
+    "(a) 10 × 40 = **x400** (1). (b) **cell wall** or **large vacuole** (1). Not chloroplasts: onion skin cells get no light, so they have none.",
+    "Hares **vary**: some have thicker fur because of their **genes** (1). In colder winters, hares with thin fur are more likely to **die** (1). Hares with thick fur **survive and reproduce** (1) and **pass on their genes**, so each generation has more hares with thick fur (1)."
+   ],
+   "notes": "2 minutes. Read each answer; students mark in green pen and add anything missing. Ask for a show of hands for each mark total out of 10.\n\nQuestion 4: if an answer says the hares 'grew thicker fur because they were cold', give no marks for that point and point to the key idea on the natural selection slide."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 3,
+   "instruction": "In your book. Work alone. Then check with your partner.",
+   "questions": [
+    "Name one difference between an animal cell and a plant cell.",
+    "Give one example of continuous variation.",
+    "In natural selection, what do the survivors pass on to their offspring?"
+   ],
+   "notes": "3 minutes. Answers: 1 plant cells have a cell wall, chloroplasts or a large vacuole (animal cells do not). 2 any feature with a range of values, e.g. height, mass, hand span, foot length. 3 their genes (the characteristics that helped them survive).\n\nAsk students to tick the revision guide sections (1 to 5) they still need to revise tonight."
+  },
+  {
+   "type": "summary",
+   "title": "What we revised today",
+   "points": [
+    "Variation comes from genes, the environment, or both.",
+    "Offspring inherit half their genes from each parent through fertilisation.",
+    "Species can become extinct when their environment changes; we can protect them.",
+    "Natural selection: variation, competition, survival, reproduction, over many generations.",
+    "Cells: learn the parts and their jobs; magnification = eyepiece × objective."
+   ],
+   "next": "Lesson 2: chemistry. States of matter, atoms, electron configuration and the periodic table.",
+   "notes": "1 minute if there is time. Remind students to bring their revision guide next lesson."
+  },
+  {
+   "type": "title",
+   "kicker": "YEAR 9 SCIENCE  ·  TEST 1 REVISION  ·  LESSON 2 OF 2: CHEMISTRY",
+   "heading": "Revision for Test 1: chemistry",
+   "subtitle": "States of matter, atoms, electron configuration and the periodic table.",
+   "notes": "Lesson 2 of 2 (40 minutes). Chemistry is 8 of the 40 marks on Test 1, about 8 minutes. Revision guide sections 6 and 7 match this lesson. Students need their exercise book, a pen, a green pen and mini whiteboards if possible.\n\nTimings: Do Now 4, Today 1, states of matter 3, quick quiz 2, atoms 3, work it out 3, electron configuration 3, periodic table 3, exam practice 10, answers 2, exam technique 2, revision plan 1, exit ticket 3.",
+   "source_line": "Revision guide 1, sections 6 and 7 (chemistry)"
+  },
+  {
+   "type": "donow",
+   "title": "Do Now: mixed recall",
+   "minutes": 4,
+   "prompt": [
+    "1  Name three parts that plant cells have and animal cells do not.",
+    "2  In natural selection, which individuals are more likely to survive?",
+    "3  Name the three states of matter.",
+    "4  Which particle in an atom has a negative charge?",
+    "5  What is in the nucleus of an atom?"
+   ],
+   "notes": "4 minutes. Questions 1 and 2 come from last lesson; 3 to 5 start today's chemistry.\n\nAnswers: 1 cell wall, chloroplasts, large vacuole. 2 the ones best adapted to their environment (with the most useful characteristics). 3 solid, liquid, gas. 4 the electron. 5 protons and neutrons."
+  },
+  {
+   "type": "today",
+   "title": "Today",
+   "goals": [
+    "I can describe the particles in solids, liquids and gases and name the changes of state.",
+    "I can work out protons, neutrons, electrons and electron configuration, and link them to the periodic table."
+   ],
+   "keywords": [
+    {
+     "en": "particle"
+    },
+    {
+     "en": "melting"
+    },
+    {
+     "en": "evaporating"
+    },
+    {
+     "en": "condensing"
+    },
+    {
+     "en": "proton"
+    },
+    {
+     "en": "neutron"
+    },
+    {
+     "en": "electron"
+    },
+    {
+     "en": "atomic number"
+    },
+    {
+     "en": "mass number"
+    },
+    {
+     "en": "electron configuration"
+    },
+    {
+     "en": "group"
+    },
+    {
+     "en": "period"
+    }
+   ],
+   "footnote": "Meanings are in the Key words tables of your revision guide, sections 6 and 7.",
+   "notes": "1 minute. Read the two goals. Chemistry is 8 marks on Test 1, so this lesson is short on theory and long on practice."
+  },
+  {
+   "type": "learn",
+   "title": "States of matter: the particle model",
+   "image": "diagram:states_of_matter",
+   "text": [
+    "Solid: particles close together in a regular pattern. They vibrate in fixed positions.",
+    "Liquid: particles close together, no pattern. They slide past each other.",
+    "Gas: particles far apart. They move quickly in all directions.",
+    "Melting and freezing; evaporating (or boiling) and condensing."
+   ],
+   "key_idea": "In a change of state the particles stay the same and none are lost, so the mass stays the same.",
+   "vocab": [
+    "solid",
+    "liquid",
+    "gas",
+    "particle",
+    "melting",
+    "freezing",
+    "evaporating",
+    "condensing"
+   ],
+   "notes": "3 minutes. Ask students to show each state with their hands: fists together still but shaking (solid), fists together sliding (liquid), hands far apart moving fast (gas).\n\nCommon mistakes: 'particles in a solid do not move' (they vibrate); 'particles expand when heated' (the particles stay the same size; they move faster and further apart).\n\nRevision guide section 6."
+  },
+  {
+   "type": "check",
+   "title": "Quick quiz: states of matter",
+   "instruction": "Mini whiteboards. Answer each question, then show me.",
+   "questions": [
+    "In which state are the particles far apart and moving quickly?",
+    "What is the change from liquid to gas called?",
+    "What is the change from gas to liquid called?",
+    "Why can you pour a liquid but not a solid?",
+    "Ice melts into water. Does the mass change?"
+   ],
+   "notes": "2 minutes. Answers: 1 gas. 2 evaporating (or boiling). 3 condensing. 4 the particles in a liquid can slide past each other; in a solid they vibrate in fixed positions. 5 no: the particles are the same, only their arrangement changes."
+  },
+  {
+   "type": "learn",
+   "title": "Inside an atom",
+   "image": "diagram:atom_structure",
+   "text": [
+    "Nucleus: protons (+1) and neutrons (0).",
+    "Electrons (-1) are in shells around the nucleus.",
+    "Atomic number = number of protons = number of electrons.",
+    "Mass number = protons + neutrons.",
+    "Neutrons = mass number - atomic number."
+   ],
+   "key_idea": "An atom is neutral because it has the same number of protons (+) and electrons (-).",
+   "vocab": [
+    "nucleus",
+    "proton",
+    "neutron",
+    "electron",
+    "atomic number",
+    "mass number"
+   ],
+   "notes": "3 minutes. Work through lithium on the diagram: atomic number 3, mass number 7, so 3 protons, 3 electrons and 7 - 3 = 4 neutrons.\n\nIn a periodic table square the bigger number is the mass number (relative atomic mass) and the smaller one is the atomic number.\n\nRevision guide section 7."
+  },
+  {
+   "type": "check",
+   "title": "Work it out",
+   "instruction": "Use the atomic number and the mass number. Write the answers on your whiteboard.",
+   "questions": [
+    "Potassium: atomic number 19, mass number 39. How many protons, neutrons and electrons?",
+    "Aluminium: atomic number 13, mass number 27. How many neutrons?",
+    "Oxygen: atomic number 8, mass number 16. How many electrons?",
+    "An atom has 6 protons and 6 neutrons. What is its mass number?",
+    "Why does an atom have no overall charge?"
+   ],
+   "notes": "3 minutes. Answers: 1 19 protons, 20 neutrons (39 - 19), 19 electrons. 2 14 neutrons (27 - 13). 3 8 electrons. 4 12 (6 + 6); it is carbon. 5 it has the same number of protons (+) and electrons (-), so the charges cancel."
+  },
+  {
+   "type": "diagram",
+   "title": "Electron configuration",
+   "text": "Fill the shells in order: up to 2 electrons in the first shell, then 8, then 8. The number of electrons = the atomic number.",
+   "image": "diagram:electron_shells_rev",
+   "key_idea": "Write the configuration as numbers with commas: magnesium, atomic number 12, is 2,8,2.",
+   "notes": "3 minutes. Do one together on the board: nitrogen, atomic number 7 = 2,5. Then sulfur, atomic number 16 = 2,8,6 (on whiteboards).\n\nCommon mistakes: putting 8 in the first shell; forgetting that the number of electrons equals the atomic number, not the mass number.\n\nThe diagram uses lithium, oxygen, magnesium, argon and potassium on purpose: Test 1 uses other elements."
+  },
+  {
+   "type": "learn",
+   "title": "The periodic table",
+   "image": "diagram:periodic_table_20",
+   "text": [
+    "Groups are the columns. For groups 1 to 7, the group number = the number of outer electrons.",
+    "Group 0 atoms have a full outer shell.",
+    "Periods are the rows. The period number = the number of shells.",
+    "Elements in the same group react in similar ways because they have the same number of outer electrons."
+   ],
+   "key_idea": "Group 1: alkali metals. Group 7: halogens. Group 0: noble gases. Metals are on the left, non-metals on the right.",
+   "vocab": [
+    "periodic table",
+    "group",
+    "period",
+    "outer electrons",
+    "metal",
+    "non-metal"
+   ],
+   "notes": "3 minutes. Ask: magnesium is 2,8,2. Which group and which period? (Group 2: two outer electrons. Period 3: three shells.) Argon is 2,8,8. Which group? (Group 0: full outer shell.)\n\nRevision guide section 7."
+  },
+  {
+   "type": "do",
+   "title": "Exam practice: chemistry",
+   "minutes": 10,
+   "steps": [
+    "Describe the arrangement and the movement of the particles in a solid. [2]",
+    "Water vapour touches a cold window and turns into liquid water. Name this change of state. [1]",
+    "Magnesium has atomic number 12 and mass number 24.\n(a) How many protons and how many neutrons does it have? [2]\n(b) Write its electron configuration. [1]\n(c) Which group of the periodic table is it in? [1]",
+    "Stretch and Challenge: Beryllium (atomic number 4) and calcium (atomic number 20) are both in group 2.\n(a) Write the electron configuration of each. [1]\n(b) Explain why they react in similar ways. [2]"
+   ],
+   "footer": "Write the answers in your book. About one minute per mark. Leave a line under each answer for marking.",
+   "notes": "10 minutes, 10 marks, in silence as in the test. Question 4 is Stretch and Challenge: do questions 1 to 3 first.\n\nThese questions practise the Test 1 skills with different elements (magnesium, beryllium and calcium), so they do not give the test answers away. Answers on the next slide.",
+   "fit": true
+  },
+  {
+   "type": "answers",
+   "title": "Answers: chemistry",
+   "instruction": "Mark in green pen. Add anything you missed.",
+   "lines": [
+    "Particles **close together** in a **regular pattern** (1). They **vibrate** in fixed positions (1).",
+    "**Condensing** (1).",
+    "(a) **12 protons** (1) and 24 - 12 = **12 neutrons** (1). (b) **2,8,2** (1). (c) **Group 2**: two outer electrons (1).",
+    "(a) beryllium **2,2** and calcium **2,8,8,2**, both right (1). (b) Both have **two electrons in the outer shell** (1), and the **outer electrons decide how an element reacts** (1)."
+   ],
+   "notes": "2 minutes. Read each answer; students mark in green pen. Show of hands for marks out of 10.\n\nQuestion 1: 'the particles do not move' gets no mark for movement; they vibrate. Question 3(a): watch for students giving 24 neutrons (the mass number) instead of 24 - 12."
+  },
+  {
+   "type": "learn",
+   "title": "Test 1: how to earn the marks",
+   "text": [
+    "40 minutes, 40 marks: biology 16, chemistry 8, physics 16. Spend about one minute per mark.",
+    "The last question in each part is Stretch and Challenge. Answer the other questions first.",
+    "State or Name: a short answer. Describe: say what happens. Explain: say what happens and why (use 'because').",
+    "Calculate: write the working and the unit.",
+    "[2] means two marks, so make two separate points."
+   ],
+   "key_idea": "Read the question twice, underline the command word, and check the number of marks.",
+   "notes": "2 minutes. These rules are on the front of the test paper as well. Ask: what does a question worth [3] need? (Three separate points.)"
+  },
+  {
+   "type": "think",
+   "title": "Plan your revision",
+   "prompt": "Which two topics from biology and chemistry are you least sure about? Write them down with the revision guide section you will use.",
+   "frames": [
+    "I am confident about ...",
+    "I need to revise ... using section ... of the revision guide.",
+    "Tonight I will ... (e.g. do the Test yourself questions and check the answers at the back)."
+   ],
+   "notes": "1 minute. Biology is sections 1 to 5, chemistry sections 6 and 7, physics sections 8 to 13. The Test yourself questions in each section have answers at the back of the guide."
+  },
+  {
+   "type": "exit",
+   "title": "Exit ticket",
+   "minutes": 3,
+   "instruction": "In your book. Work alone. Then check with your partner.",
+   "questions": [
+    "Name the change of state from solid to liquid.",
+    "An atom has atomic number 7 and mass number 14. How many neutrons does it have?",
+    "Write the electron configuration of sulfur (atomic number 16)."
+   ],
+   "notes": "3 minutes. Answers: 1 melting. 2 7 (14 - 7); it is nitrogen. 3 2,8,6."
+  },
+  {
+   "type": "summary",
+   "title": "What we revised today",
+   "points": [
+    "Solids, liquids and gases: arrangement and movement of particles; the names of the changes of state.",
+    "Atoms: protons and neutrons in the nucleus, electrons in shells.",
+    "Neutrons = mass number - atomic number.",
+    "Electron configuration: 2, then 8, then 8.",
+    "Group = outer electrons; period = number of shells; same group, similar reactions."
+   ],
+   "next": "Test 1. Revise physics from sections 8 to 13 of the revision guide too.",
+   "notes": "1 minute if there is time. Good luck message for Test 1."
+  }
+ ]
+}

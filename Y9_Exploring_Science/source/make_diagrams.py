@@ -829,6 +829,27 @@ def electron_shells():
             21, 'middle', 34, fill=NAVY)
     s.save('electron_shells')
 
+def electron_shells_rev():
+    """The same picture as electron_shells, with other elements, for the Test 1 revision lessons (Test 1 asks about sodium, fluorine and chlorine)."""
+    s = SVG(1900, 780)
+    s.text(950, 50, 'Electron configuration: fill the shells in order, 2 then 8 then 8', 32, weight='bold', fill=NAVY)
+    atoms = [('lithium', 'Li', 3, [2, 1]), ('oxygen', 'O', 8, [2, 6]), ('magnesium', 'Mg', 12, [2, 8, 2]), ('argon', 'Ar', 18, [2, 8, 8]), ('potassium', 'K', 19, [2, 8, 8, 1])]
+    for i, (name, sym, z, cfg) in enumerate(atoms):
+        cx, cy = 200 + i * 375, 350
+        s.circle(cx, cy, 34, HI, INK, 2); s.text(cx, cy + 9, sym, 24, weight='bold')
+        for k, n in enumerate(cfg):
+            r = 68 + k * 42
+            s.circle(cx, cy, r, 'none', MUTED, 2)
+            for j in range(n):
+                a = -math.pi / 2 + j * 2 * math.pi / n
+                s.circle(cx + r * math.cos(a), cy + r * math.sin(a), 9, INK, INK, 1)
+        s.text(cx, 590, f'{name}, atomic number {z}', 21)
+        s.text(cx, 628, ','.join(str(c) for c in cfg), 30, weight='bold', fill=PLUM)
+    s.lines(950, 690, ['Outer electrons = the group: Li and K (1 outer electron) are in group 1, Mg (2) is in group 2, Ar (full outer shell) is in group 0.',
+                       'Number of shells = the period: Li and O are in period 2, Mg and Ar are in period 3, K is in period 4.'],
+            21, 'middle', 34, fill=NAVY)
+    s.save('electron_shells_rev')
+
 def periodic_table_20():
     s = SVG(1800, 980)
     s.text(900, 50, 'The periodic table: the first 20 elements', 34, weight='bold', fill=NAVY)
@@ -1177,7 +1198,7 @@ if __name__ == '__main__':
               eutrophication_flow, carbon_cycle, immune_response, antibody_response, nervous_pathway, fermenter, median_quartiles,
               sampling_formula, distribution_patterns, sa_v_cubes, osmosis_membrane, diffusion_gradient, half_life_graph, graph_grid,
               blood_group_bars, height_histogram, pond_gas_graph, food_web_hedge, van_helmont, monarch_bias, disease_types,
-              microscope, animal_plant_cells, atom_structure, electron_shells, periodic_table_20, magnification_formula, plant_cell_blank,
+              microscope, animal_plant_cells, atom_structure, electron_shells, electron_shells_rev, periodic_table_20, magnification_formula, plant_cell_blank,
               states_of_matter, states_blank,
               measuring_volume, measuring_cylinders_test, accuracy_precision, density_float, vectors_grid, forces_motion,
               energy_efficiency, distance_time_graph, speed_time_graph, journey_graph_test]:

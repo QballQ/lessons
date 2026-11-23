@@ -3,6 +3,7 @@
 Outputs (all from source/content/*.json, image_register.json and glossary_cn.json):
   00_Teaching_Plan/Y9_Biology_Teaching_Plan.docx and .md   (scheme of work for 9A, 9B, 9C)
   9X_.../9X_Teacher_Guide.docx and .md                       (lesson plans, speaker notes and answer keys, one per unit)
+  00_Revision/<id>.pptx and .pdf                                (revision lesson slides, from source/revision_slides/*.json)
   images/Image_Register.md and images/Image_Check_Sheet.pdf  (every picture with its source and licence, with a box to tick after checking it on the classroom screen)
 Run: python3 build_docs.py
 """
@@ -320,6 +321,24 @@ def revision_docs():
                 subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, docx], text=True, capture_output=True)
         print('revision guide', gid)
 
+def revision_slides():
+    """Revision lesson slides: source/revision_slides/*.json -> 00_Revision/<id>.pptx and a .pdf copy (one deck can hold two lessons)."""
+    import subprocess, sys, glob, json
+    src_dir = os.path.join(HERE, 'revision_slides'); out_dir = os.path.join(ROOT, '00_Revision'); os.makedirs(out_dir, exist_ok=True)
+    skill = os.environ.get('PPTX_SKILL_DIR', '/root/.claude/skills/synced/f06b7bea-4409-4beb-89a6-75febf1b2f2b_c8489965-e177-412d-a52c-32d98e76e412/pptx')
+    soffice = os.path.join(skill, 'scripts', 'office', 'soffice.py'); validate = os.path.join(skill, 'scripts', 'office', 'validate.py')
+    for src in sorted(glob.glob(os.path.join(src_dir, '*.json'))):
+        did = json.load(open(src, encoding='utf-8'))['id']
+        pptx = os.path.join(out_dir, did + '.pptx')
+        r = subprocess.run(['node', os.path.join(HERE, 'build_pptx.js'), src, pptx], text=True, capture_output=True)
+        if r.returncode != 0: print(r.stdout[-2000:], r.stderr[-2000:]); raise SystemExit('revision slides failed: ' + src)
+        if os.path.exists(validate):
+            v = subprocess.run([sys.executable, validate, pptx], text=True, capture_output=True)
+            if v.returncode != 0: print(v.stdout[-3000:]); raise SystemExit('pptx validation failed: ' + pptx)
+        if os.path.exists(soffice):
+            subprocess.run([sys.executable, soffice, '--headless', '--convert-to', 'pdf', '--outdir', out_dir, pptx], text=True, capture_output=True)
+        print('revision slides', did)
+
 def assessment_docs():
     """Test papers: source/assessment/*.json -> 00_Assessment/<id>.docx and .pdf, the _CN paper and the _Mark_Scheme."""
     import subprocess, sys, glob, json
@@ -406,6 +425,7 @@ def main():
         print('teacher guide', u, len(Ls), 'lessons')
     image_docs(lessons)
     revision_docs()
+    revision_slides()
     assessment_docs()
     lesson_notes_docs()
 

@@ -150,7 +150,7 @@ function build(lesson, outFile) {
     }
     return minSize;
   };
-  const bullets = (items, size) => items.map((t, i) => ({ text: t, options: { bullet: { indent: 24 }, breakLine: i < items.length - 1, paraSpaceAfter: 8, fontSize: size } }));
+  const bullets = (items, size, numbered) => items.map((t, i) => ({ text: t, options: { bullet: numbered ? { type: 'number', indent: 28 } : { indent: 24 }, breakLine: i < items.length - 1, paraSpaceAfter: 8, fontSize: size } }));
   const keyIdea = (slide, text, y = 6.05) => {
     if (!text) return;
     slide.addShape(pres.ShapeType.rect, { x: 0.6, y, w: W - 1.2, h: 0.62, fill: { color: TINT }, line: { color: TINT } });
@@ -169,11 +169,12 @@ function build(lesson, outFile) {
     const type = s.type;
     if (type === 'title') {
       const slide = pres.addSlide({ masterName: 'TITLE' });
-      slide.addText(`YEAR 9 SCIENCE  ·  ${lesson.unit.toUpperCase()} ${lesson.unit_title.toUpperCase()}  ·  ${lesson.label ? lesson.label.toUpperCase() : `LESSON ${lesson.lesson} OF ${lesson.n_lessons}`}`,
+      // s.kicker, s.heading and lesson.source_line let one deck hold more than one lesson (e.g. the two Test 1 revision lessons)
+      slide.addText(s.kicker || `YEAR 9 SCIENCE  ·  ${lesson.unit.toUpperCase()} ${lesson.unit_title.toUpperCase()}  ·  ${lesson.label ? lesson.label.toUpperCase() : `LESSON ${lesson.lesson} OF ${lesson.n_lessons}`}`,
         { x: 0.6, y: 1.5, w: 11.5, h: 0.5, fontSize: 14, color: HI, bold: true, charSpacing: 2, margin: 0, isTextBox: true });
-      slide.addText(lesson.title, { placeholder: 'title' });
+      slide.addText(s.heading || lesson.title, { placeholder: 'title' });
       slide.addText(s.subtitle || lesson.big_idea || '', { placeholder: 'body' });
-      slide.addText(`Exploring Science International 9  ·  Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`,
+      slide.addText(s.source_line || lesson.source_line || `Exploring Science International 9  ·  Student Book pages ${lesson.book.pages}  ·  Workbook pages ${lesson.workbook.pages}`,
         { x: 0.6, y: 5.55, w: 11.5, h: 0.4, fontSize: 14, color: 'C9D3E6', margin: 0, isTextBox: true });
       if (s.image) {
         const p = imagePath(s.image);
@@ -186,25 +187,26 @@ function build(lesson, outFile) {
       slide.addText(s.title || 'Today', { placeholder: 'title' }); tag(slide, 'today');
       slide.addText('Today I can ...', { x: 0.6, y: 1.4, w: 6, h: 0.45, fontSize: 22, bold: true, color: PLUM, margin: 0, isTextBox: true });
       let y = 1.9;
-      const gh = Math.min(0.95, 2.0 / lesson.goals.length);
-      for (const g of lesson.goals) {
+      const goals = s.goals || lesson.goals, keywords = s.keywords || lesson.keywords;   // per-slide goals and key words for a deck that holds two lessons
+      const gh = Math.min(0.95, 2.0 / goals.length);
+      for (const g of goals) {
         slide.addShape(pres.ShapeType.rect, { x: 0.65, y: y + 0.08, w: 0.34, h: 0.34, fill: { color: WHITE }, line: { color: NAVY, width: 1.5 } });
         slide.addText(g, { x: 1.2, y, w: 11.3, h: gh, fontSize: fitSize([g], 11.3, gh, 20, 15, 0), color: INK, margin: 0, isTextBox: true, valign: 'top' });
         y += gh;
       }
       const ky = y + 0.15;
       slide.addText('Key words today', { x: 0.6, y: ky, w: 6, h: 0.45, fontSize: 22, bold: true, color: PLUM, margin: 0, isTextBox: true });
-      const ncol = lesson.keywords.length > 8 ? 3 : 2;
-      const per = Math.ceil(lesson.keywords.length / ncol);
+      const ncol = keywords.length > 8 ? 3 : 2;
+      const per = Math.ceil(keywords.length / ncol);
       const colW = (W - 1.2 - 0.3 * (ncol - 1)) / ncol;
       const colH = 6.55 - (ky + 0.5);
       for (let i = 0; i < ncol; i++) {
-        const c = lesson.keywords.slice(i * per, (i + 1) * per);
+        const c = keywords.slice(i * per, (i + 1) * per);
         if (!c.length) continue;
         const runs = c.map((k, j) => ({ text: k.en, options: { bold: true, color: NAVY, breakLine: j < c.length - 1, bullet: { indent: 24 } } }));
         slide.addText(runs, { x: 0.6 + i * (colW + 0.3), y: ky + 0.5, w: colW, h: colH, fontSize: fitSize(c.map(k => k.en), colW, colH, 22, 16, 0.5), margin: 0, isTextBox: true, valign: 'top', paraSpaceAfter: 6 });
       }
-      slide.addText('Meanings are in the key words box on your worksheet.', { x: 0.6, y: 6.6, w: 11.9, h: 0.35, fontSize: 14, italic: true, color: MUTED, margin: 0, isTextBox: true });
+      slide.addText(s.footnote || 'Meanings are in the key words box on your worksheet.', { x: 0.6, y: 6.6, w: 11.9, h: 0.35, fontSize: 14, italic: true, color: MUTED, margin: 0, isTextBox: true });
       notes(slide, s); continue;
     }
     if (type === 'safety') {
@@ -243,7 +245,7 @@ function build(lesson, outFile) {
       const bottom = s.key_idea ? 5.9 : 6.55;
       const items = s.text || [];
       const lfs = fitSize(items, tw, bottom - 1.45, 20, 15, 0.45);
-      slide.addText(bullets(items, lfs), { x: 0.6, y: 1.45, w: tw, h: bottom - 1.45, fontSize: lfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
+      slide.addText(bullets(items, lfs, s.numbered), { x: 0.6, y: 1.45, w: tw, h: bottom - 1.45, fontSize: lfs, color: INK, margin: 0, isTextBox: true, valign: 'top' });
       if (hasImg) addImage(slide, s.image, wide ? { x: 5.5, y: 1.4, w: 7.2, h: bottom - 1.9 } : { x: 7.2, y: 1.4, w: 5.5, h: bottom - 1.9 }, { caption: s.caption });
       keyIdea(slide, s.key_idea);
     } else if (type === 'diagram') {
@@ -270,11 +272,22 @@ function build(lesson, outFile) {
       const tw = hasImg ? 6.6 : 11.0;
       let y = 1.5;
       const stepH = Math.min(1.0, 4.9 / s.steps.length);
+      // s.fit: size each step to its own text (long exam questions get more room, short ones at least a circle's height),
+      // using the largest font size, the same for every step, at which all the steps fit
+      let hs = s.steps.map(() => stepH), ffs = 0;
+      if (s.fit) {
+        for (let fs = 20; fs >= 14; fs--) {
+          const charW = fs * 0.5 / 72, lineH = fs * 1.2 / 72;
+          hs = s.steps.map(st => Math.max(0.6, st.split('\n').reduce((a, part) => a + Math.max(1, Math.ceil(part.length * charW / (tw - 1.0))), 0) * lineH + 0.22));
+          ffs = fs;
+          if (hs.reduce((a, b) => a + b, 0) <= 4.5) break;
+        }
+      }
       s.steps.forEach((st, i) => {
         slide.addShape(pres.ShapeType.ellipse, { x: 0.6, y: y + 0.05, w: 0.5, h: 0.5, fill: { color: PLUM }, line: { color: PLUM } });
         slide.addText(String(i + 1), { x: 0.6, y: y + 0.05, w: 0.5, h: 0.5, fontSize: 15, bold: true, color: WHITE, align: 'center', valign: 'middle', margin: 0, isTextBox: true });
-        slide.addText(st, { x: 1.3, y, w: tw - 0.7, h: stepH, fontSize: fitSize([st], tw - 0.7, stepH - 0.05, 20, 14, 0), color: INK, margin: 0, isTextBox: true, valign: 'top' });
-        y += stepH;
+        slide.addText(st, { x: 1.3, y, w: tw - 0.7, h: hs[i], fontSize: s.fit ? ffs : fitSize([st], tw - 0.7, stepH - 0.05, 20, 14, 0), color: INK, margin: 0, isTextBox: true, valign: 'top' });
+        y += hs[i];
       });
       if (hasImg) addImage(slide, s.image, { x: 7.5, y: 1.5, w: 5.2, h: 4.3 }, { caption: s.caption });
       if (s.footer) slide.addText(s.footer, { x: 0.6, y: 6.1, w: 11.9, h: 0.45, fontSize: 15, italic: true, color: MUTED, margin: 0, isTextBox: true });
