@@ -210,16 +210,12 @@
    "cn": "静止"
   },
   {
+   "en": "law of conservation of energy",
+   "cn": "能量守恒定律"
+  },
+  {
    "en": "efficiency",
    "cn": "效率"
-  },
-  {
-   "en": "elastic potential energy",
-   "cn": "弹性势能"
-  },
-  {
-   "en": "strain energy",
-   "cn": "应变能"
   }
  ],
  "sections": [
@@ -554,12 +550,13 @@
      "parts": [
       {
        "label": "a",
-       "text": "Complete the definition. The first letter of each missing word is given.",
+       "text": "Complete the law of conservation of energy. Write one word in each gap.",
        "marks": 3,
        "gaps": [
-        "E________ potential energy: a name used to describe energy when it is stored in stretched or squashed things that can change back to their o_________ shapes. Another name for s________ energy."
+        "Energy can never be ______________________ or ______________________.",
+        "It can only be ______________________ from one store to another."
        ],
-       "answer": "Elastic (1), original (1), strain (1)."
+       "answer": "created (1), destroyed (1), in either order; transferred (1). Accept transformed for the third mark."
       },
       {
        "label": "b",
