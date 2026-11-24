@@ -67,20 +67,20 @@ Example targets 目标: "Explain what each piece of evidence does and does not s
 
 ---
 
-## Covered so far (first six weeks): text for the reports
+## Covered so far: text for the reports
 
-Year 7 covers Weeks 1 to 6. Year 8 covers Weeks 1 to 4, with the Week 5 lines to add if The mystery liquid has been taught by the time reports are written.
+Year 7 covers Weeks 1 to 8 (to the end of the pykrete testing). Year 8 covers Weeks 1 to 4, with the Week 5 lines to add if The mystery liquid has been taught by the time reports are written.
 Chinese text status: draft, needs native-speaker check.
 
-### Year 7 (7A, 7B): Ice Engineers, Weeks 1 to 6
+### Year 7 (7A, 7B): Ice Engineers, Weeks 1 to 8
 
 **Brief description of content of the course 课程内容概述**
 
-Think Like a Scientist: Ice Engineers. Over the past six weeks students have learned how scientists work. They separated observations from inferences, wrote testable questions and predictions, and planned fair tests using independent, dependent and control variables. They took repeat measurements, calculated means, spotted anomalies, and drew bar charts and line graphs to write conclusions from data. They then applied these skills in a practical investigation of thermal insulators, testing which materials slow the melting of ice.
+Think Like a Scientist: Ice Engineers. Students have learned how scientists work. They separated observations from inferences, wrote testable questions and predictions, and planned fair tests using independent, dependent and control variables. They took repeat measurements, calculated means, spotted anomalies, and drew graphs to write conclusions from data. They applied these skills in a practical investigation of thermal insulators, then planned and carried out their own investigation into pykrete, a composite material made of ice and wood fibres, testing how fibres change the strength or melting of ice.
 
-像科学家一样思考：冰雪工程师。过去六周，学生学习了科学家的工作方式：区分观察与推断，写出可检验的问题和预测，并用自变量、因变量和控制变量设计公平测试。他们进行重复测量、计算平均值、找出异常值，并绘制条形图和折线图，用数据写出结论。随后，他们把这些技能用于隔热材料的实验探究，检验哪些材料能减慢冰的熔化。
+像科学家一样思考：冰雪工程师。学生学习了科学家的工作方式：区分观察与推断，写出可检验的问题和预测，并用自变量、因变量和控制变量设计公平测试。他们进行重复测量、计算平均值、找出异常值，并绘制图表，用数据写出结论。他们把这些技能用于隔热材料的实验探究，随后自己设计并完成了关于“木屑冰”（由冰和木纤维组成的复合材料）的探究，检验纤维如何改变冰的强度或熔化速度。
 
-**Checkbox lines (10)**
+**Checkbox lines (12)**
 
 | Week | Line (English) | 中文（草稿） |
 |---|---|---|
@@ -90,10 +90,12 @@ Think Like a Scientist: Ice Engineers. Over the past six weeks students have lea
 | 3 | Working Scientifically - Fair tests. | 科学探究 - 公平测试。 |
 | 4 | Working Scientifically - Repeat measurements, units and means. | 科学探究 - 重复测量、单位与平均值。 |
 | 4 | Working Scientifically - Anomalous results. | 科学探究 - 异常结果。 |
-| 5 | Working Scientifically - Bar charts and line graphs. | 科学探究 - 条形图与折线图。 |
-| 5 | Working Scientifically - Writing conclusions from data. | 科学探究 - 用数据写出结论。 |
+| 5 | Working Scientifically - Graphs and conclusions from data. | 科学探究 - 图表与用数据写结论。 |
 | 6 | Physics - Thermal insulators and heat transfer. | 物理 - 隔热材料与热传递。 |
-| 6 | Working Scientifically - Insulation experiment: ice cube rescue. | 科学探究 - 隔热实验：冰块保卫战。 |
+| 7 | Chemistry - Composite materials: pykrete (ice and fibres). | 化学 - 复合材料：木屑冰（冰与纤维）。 |
+| 7 | Working Scientifically - Planning an investigation and risk assessment. | 科学探究 - 设计探究与风险评估。 |
+| 8 | Working Scientifically - Pykrete experiment: testing strength or melting. | 科学探究 - 木屑冰实验：检验强度或熔化。 |
+| 8 | Working Scientifically - Working safely and recording results. | 科学探究 - 安全操作并记录结果。 |
 
 ### Year 8 (8A, 8B): Science Detectives, Weeks 1 to 4
 
