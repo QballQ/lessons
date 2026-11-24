@@ -64,3 +64,58 @@ Think Like a Scientist: Science Detectives. Students investigated a fictional ca
 | 10 | Working Scientifically - Presenting and defending a conclusion with evidence. | 科学探究 - 用证据展示并论证结论。 |
 
 Example targets 目标: "Explain what each piece of evidence does and does not show." 解释每条证据能说明什么、不能说明什么。 / "Use reference samples to make a fair comparison." 用参照样本进行公平比较。
+
+---
+
+## Covered so far (first six weeks): text for the reports
+
+Year 7 covers Weeks 1 to 6. Year 8 covers Weeks 1 to 4, with the Week 5 lines to add if The mystery liquid has been taught by the time reports are written.
+Chinese text status: draft, needs native-speaker check.
+
+### Year 7 (7A, 7B): Ice Engineers, Weeks 1 to 6
+
+**Brief description of content of the course 课程内容概述**
+
+Think Like a Scientist: Ice Engineers. Over the past six weeks students have learned how scientists work. They separated observations from inferences, wrote testable questions and predictions, and planned fair tests using independent, dependent and control variables. They took repeat measurements, calculated means, spotted anomalies, and drew bar charts and line graphs to write conclusions from data. They then applied these skills in a practical investigation of thermal insulators, testing which materials slow the melting of ice.
+
+像科学家一样思考：冰雪工程师。过去六周，学生学习了科学家的工作方式：区分观察与推断，写出可检验的问题和预测，并用自变量、因变量和控制变量设计公平测试。他们进行重复测量、计算平均值、找出异常值，并绘制条形图和折线图，用数据写出结论。随后，他们把这些技能用于隔热材料的实验探究，检验哪些材料能减慢冰的熔化。
+
+**Checkbox lines (10)**
+
+| Week | Line (English) | 中文（草稿） |
+|---|---|---|
+| 1 | Working Scientifically - Observations and inferences. | 科学探究 - 观察与推断。 |
+| 2 | Working Scientifically - Testable questions and predictions with reasons. | 科学探究 - 可检验的问题与带理由的预测。 |
+| 3 | Working Scientifically - Independent, dependent and control variables. | 科学探究 - 自变量、因变量和控制变量。 |
+| 3 | Working Scientifically - Fair tests. | 科学探究 - 公平测试。 |
+| 4 | Working Scientifically - Repeat measurements, units and means. | 科学探究 - 重复测量、单位与平均值。 |
+| 4 | Working Scientifically - Anomalous results. | 科学探究 - 异常结果。 |
+| 5 | Working Scientifically - Bar charts and line graphs. | 科学探究 - 条形图与折线图。 |
+| 5 | Working Scientifically - Writing conclusions from data. | 科学探究 - 用数据写出结论。 |
+| 6 | Physics - Thermal insulators and heat transfer. | 物理 - 隔热材料与热传递。 |
+| 6 | Working Scientifically - Insulation experiment: ice cube rescue. | 科学探究 - 隔热实验：冰块保卫战。 |
+
+### Year 8 (8A, 8B): Science Detectives, Weeks 1 to 4
+
+**Brief description of content of the course 课程内容概述**
+
+Think Like a Scientist: Science Detectives. Students have been investigating a fictional case using forensic science. They separated observations from inferences at the scene, classified fingerprints and used class data to judge how strong a piece of evidence is. They separated inks by paper chromatography and matched them against reference samples, then identified an unknown white powder by testing it systematically against known powders and recording the results in a grid.
+
+像科学家一样思考：科学侦探。学生运用法庭科学调查一个虚构案件。他们在现场区分观察与推断，给指纹分类，并用全班数据判断一条证据的强弱。他们用纸色谱法分离墨水并与参照样本比对，然后把未知白色粉末与已知粉末逐一进行系统检测，并把结果记录在表格中，从而识别出这种粉末。
+
+**Checkbox lines (8, or 10 with Week 5)**
+
+| Week | Line (English) | 中文（草稿） |
+|---|---|---|
+| 1 | Working Scientifically - Observations and inferences. | 科学探究 - 观察与推断。 |
+| 1 | Working Scientifically - Using evidence to check an idea. | 科学探究 - 用证据检验想法。 |
+| 2 | Biology - Classifying fingerprints: loop, whorl and arch. | 生物 - 指纹分类：箕形纹、斗形纹和弓形纹。 |
+| 2 | Working Scientifically - Bar charts from class data. | 科学探究 - 用全班数据画条形图。 |
+| 3 | Chemistry - Paper chromatography of inks. | 化学 - 墨水的纸色谱法。 |
+| 3 | Working Scientifically - Reference samples and fair comparisons. | 科学探究 - 参照样本与公平比较。 |
+| 4 | Chemistry - Identifying unknown powders by testing. | 化学 - 通过检测识别未知粉末。 |
+| 4 | Working Scientifically - Results grids and flowchart keys. | 科学探究 - 结果记录表与流程图检索表。 |
+| 5 (if taught) | Chemistry - Acids, alkalis and indicators. | 化学 - 酸、碱与指示剂。 |
+| 5 (if taught) | Chemistry - The pH scale. | 化学 - pH值。 |
+
+If Week 5 is included, add to the Year 8 description: "They also used an indicator and the pH scale to decide whether a liquid from the scene was an acid or an alkali." 他们还用指示剂和pH值判断现场的液体是酸还是碱。
