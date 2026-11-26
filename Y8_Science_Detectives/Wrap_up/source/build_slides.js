@@ -138,9 +138,9 @@ let n = 0;
 // 8 set aside
 {
   const s = base('Do', '实践', 'Step 4: set it aside and count again', '第4步：搁置，再数一次', ++n);
-  card(s, 0.6, 2.25, 12.13, 1.65, TINT);
-  pair(s, 'The puddle is mop water. It was there before the notebook was taken. It is contaminated evidence, so we set it aside.', '这摊液体是拖地的水，在笔记本被拿走之前就在那里。它是被污染的证据，所以我们把它搁置。', { x: 0.8, y: 2.3, w: 11.7, h: 1.55, size: 21 });
-  suspects(s, 4.05, 0.85, true);
+  card(s, 0.6, 2.2, 12.13, 1.5, TINT);
+  pair(s, 'The puddle is mop water. It was there before the notebook was taken. It is contaminated evidence, so we set it aside.', '这摊液体是拖地的水，在笔记本被拿走之前就在那里。它是被污染的证据，所以我们把它搁置。', { x: 0.8, y: 2.22, w: 11.7, h: 1.45, size: 21 });
+  suspects(s, 3.85, 0.8, true);
   s.addNotes('Three minutes. Say: "Nobody did anything wrong. The cleaning team did their job. Ordinary life leaves traces at a scene: that is contamination." Soap is an alkali, which explains the blue-green indicator result. Groups cross out row 4 on the board and count again out of 4. Write the class numbers in the boxes (expected: Lily 2, Max 2, Chef Zhou 1, Dr Huang 4 of 4). Still do not confirm the answer.');
 }
 // 9 time
@@ -158,10 +158,10 @@ let n = 0;
 // 10 verdict
 {
   const s = base('Think and Reflect', '思辨与反思', 'Step 6: your verdict', '第6步：你们的裁决', ++n);
-  card(s, 0.6, 2.25, 12.13, 1.75);
+  card(s, 0.6, 2.2, 12.13, 1.5);
   s.addText([{ text: 'We think ________ took the notebook. This suspect matches ___ of 4 clues.', options: { fontSize: 25, color: NAVY, bold: true, breakLine: true } }, { text: '我们认为是____拿走了笔记本。这名嫌疑人与4条证据中的____条相符。', options: { fontFace: ZH, fontSize: 17, color: MUTED } }],
-    { x: 0.85, y: 2.35, w: 11.6, h: 1.55, margin: 0, isTextBox: true, valign: 'middle' });
-  suspects(s, 4.15, 0.8, true);
+    { x: 0.85, y: 2.25, w: 11.6, h: 1.4, margin: 0, isTextBox: true, valign: 'middle' });
+  suspects(s, 3.85, 0.8, true);
   s.addNotes('Five minutes. Two minutes to fill in the verdict slip (one per group), including how sure they are. Then the class vote: on "three, two, one" every group holds up the suspect card they chose. Count and write the votes in the boxes. Ask one group: "What is your strongest reason?" Push for the idea that no single clue shows it: only the combination of four does. Then: "One question left. Where is the notebook?"');
 }
 // 11 where
@@ -204,7 +204,7 @@ let n = 0;
   const did = [['Tested, not guessed.', '检测，而不是猜。'], ['Used ALL the evidence together.', '把所有证据放在一起用。'], ['Checked the clue that did not fit.', '查明了不相符的那条证据。'], ['Said how sure they were.', '说出了自己有多大把握。']];
   did.forEach(([a, b], i) => {
     s.addText('✓', { x: 0.85, y: 3.3 + i * 0.8, w: 0.5, h: 0.6, fontSize: 28, bold: true, color: GREEN, margin: 0, isTextBox: true });
-    s.addText([{ text: a + '  ', options: { fontSize: 21, color: NAVY } }, { text: b, options: { fontFace: ZH, fontSize: 16, color: MUTED } }], { x: 1.4, y: 3.3 + i * 0.8, w: 6.6, h: 0.6, margin: 0, isTextBox: true, valign: 'middle' });
+    s.addText([{ text: a, options: { fontSize: 21, color: NAVY, breakLine: true } }, { text: b, options: { fontFace: ZH, fontSize: 15, color: MUTED } }], { x: 1.4, y: 3.25 + i * 0.8, w: 6.6, h: 0.72, margin: 0, isTextBox: true, valign: 'middle' });
   });
   card(s, 8.6, 2.3, 4.13, 4.25, TINT);
   s.addText([{ text: '"Science works better when we share."', options: { fontFace: 'Garamond', fontSize: 28, color: NAVY, breakLine: true } }, { text: ' ', options: { fontSize: 10, breakLine: true } }, { text: '分享让科学做得更好。', options: { fontFace: ZH, fontSize: 18, color: MUTED, breakLine: true } }, { text: ' ', options: { fontSize: 10, breakLine: true } }, { text: 'Professor Frost 弗罗斯特教授', options: { fontFace: ZH, fontSize: 14, color: MUTED } }],
